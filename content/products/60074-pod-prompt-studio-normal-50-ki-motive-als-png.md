@@ -4,16 +4,16 @@ digistore24_product_id: 737772
 title: "POD Prompt Studio – Normal 50: KI-Motive als PNG"
 vendor: "gowxsese"
 product_type: "Software"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 5
-earnings_per_sale: 1.37
+earnings_per_sale: 1.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://dein-wunschdesign.de?aff=adminstore#aff=adminstore"
 sales_page: "https://dein-wunschdesign.de"
@@ -22,16 +22,16 @@ language: "de"
 # POD Prompt Studio – Normal 50: KI-Motive als PNG
 
 > Product ID `60074` · Digistore24 productId `737772` · [HTML profile page](../../produkte/pod-prompt-studio-normal-50-ki-motive-als-png-60074.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $27.31 (Subscription) |
+| Price | $27.25 (Subscription) |
 | Affiliate commission | 5% |
-| Earnings/sale* | $1.37 |
+| Earnings/sale* | $1.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gowxsese |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** POD Prompt Studio Normal 50 richtet sich an Einsteiger und Kreative, die eigene Motive für Print-on-Demand entwickeln möchten. Das Abo umfasst 50 Bildgenerierungen je persönlichem Abrechnungszeitraum von vier Wochen. Das Studio verbindet Motiv-Prompts, jeweils zehn passende Tags und KI-Bildgenerierung. Kunden erhalten transparente PNG-Dateien mit 1024 × 1536 Pixeln zur eigenen Weiterbearbeitung un…
+**Vendor's marketplace description:** <p>POD Prompt Studio Normal 50 richtet sich an Einsteiger und Kreative, die eigene Motive für Print-on-Demand entwickeln möchten.</p>
+<p>Das Abo umfasst 50 Bildgenerierungen je persönlichem Abrechnungszeitraum von vier Wochen. Das Studio verbindet Motiv-Prompts, jeweils zehn passende Tags und KI-Bildgenerierung. Kunden erhalten transparente PNG-Dateien mit 1024 × 1536 Pixeln zur eigenen Weiterbearbeitung und Vorbereitung für ihre Zielplattform.</p>
+<p>Für Affiliates eignet sich das Angebot zur Ansprache von Menschen, die erste Motivideen umsetzen und die weitere Gestaltung selbst übernehmen möchten.</p>
 
 ## 2. Links
 
@@ -58,7 +60,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist POD Prompt Studio – Normal 50: KI-Motive als PNG? — Typ: Software, Anbieter: gowxsese, gelistet seit 2026-09-30
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

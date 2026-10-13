@@ -4,16 +4,16 @@ digistore24_product_id: 61745
 title: "Lernen Sie Kartenlegen endlich richtig"
 vendor: "maren_giertz"
 product_type: "Downloads"
-price: 23.53
+price: 23.48
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 4.71
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2015-10-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.esoterikwelle.de/kartenlegen-lernen/lenormand-anleitungen-e-books/e-book-video-1-angebot/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.esoterikwelle.de/kartenlegen-lernen/lenormand-anleitungen-e-books/e-book-video-1-angebot/"
@@ -22,16 +22,16 @@ language: "de"
 # Lernen Sie Kartenlegen endlich richtig
 
 > Product ID `8801` · Digistore24 productId `61745` · [HTML profile page](../../produkte/lernen-sie-kartenlegen-endlich-richtig-8801.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.53 (Single payment) |
+| Price | $23.48 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | maren_giertz |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** TV Kartenlegerin Maren Giertz entwickelte ein eigenes System, dass Ihnen ganz ohne Vorerfahrung und Hellsicht das Kartenlegen ohne Vorabinformation zu erhalten ermöglicht. Tausendfach konnte während live TV Sendungen hier bewiesen werden, Kartenlegen ohne Vorabinformationen ist möglich und das können auch SIE. Das Arbeitsbuch "Einmal Mischen Bitte", Anleitung für die Lenormandkarten und die zehn V…
+**Vendor's marketplace description:** <p>TV Kartenlegerin Maren Giertz&nbsp;</p>
+<p>entwickelte ein eigenes System, dass Ihnen ganz ohne Vorerfahrung und Hellsicht das Kartenlegen ohne Vorabinformation zu erhalten erm&ouml;glicht. Tausendfach konnte w&auml;hrend live TV Sendungen hier bewiesen werden, Kartenlegen ohne Vorabinformationen ist m&ouml;glich und das k&ouml;nnen auch SIE.&nbsp;</p>
+<p>Das Arbeitsbuch "Einmal Mischen Bitte", Anleitung f&uuml;r die Lenormandkarten und die zehn Videokurse begleiten Sie von der ersten Karte bis zur Auslegung der "Gro&szlig;en Tafel". Dar&uuml;ber hinaus stehen Ihnen &uuml;ber 200 gratis Videos auf YouTube zum Mit&uuml;ben bereit.</p>
+<p>In diesem weltweit einzigartigen System seiner Art lernen Sie alles was mit den Lenormandkarten im Zusammenhang steht.&nbsp;</p>
+<p>Die Videokurse bieten Ihnen absolute Flexibilit&auml;t an. Lernen Sie WANN &amp; WO Sie wollen.</p>
+<p>Nach Abschluss des Kurses k&ouml;nnen Sie kosteng&uuml;nstig eine Pr&uuml;fung am Telefon mit TV Kartenlegerin Maren Giertz ablegen und erhalten ein Zertifikat, das bei Portalen gern gesehen wird und Ihnen eine T&auml;tigkeit als Kartenleger erm&ouml;glicht.</p>
+<p>&nbsp;</p>
+<p>Viel Freude beim Lernen, wir freuen uns auf Sie.</p>
+<p>Herzliche Gr&uuml;&szlig;e, Ihre Maren Giertz</p>
 
 ## 2. Links
 
@@ -73,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lernen Sie Kartenlegen endlich richtig? — Typ: Downloads, Anbieter: maren_giertz, gelistet seit 2015-10-27
-- Wie viel kostet es? — 23.532600000000002 USD
+- Wie viel kostet es? — 23.4801 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

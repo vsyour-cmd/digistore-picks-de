@@ -4,16 +4,16 @@ digistore24_product_id: 237430
 title: "eBook + Finanzexcel: Deine Finanzen in 7 Tagen"
 vendor: "geldschnurrbart"
 product_type: "Downloads"
-price: 18.78
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.6
+earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2018-08-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://geldschnurrbart.de/ebook-deine_finanzen_in_7_tagen/?aff=adminstore#aff=adminstore"
 sales_page: "https://geldschnurrbart.de/ebook-deine_finanzen_in_7_tagen/"
@@ -22,16 +22,16 @@ language: "de"
 # eBook + Finanzexcel: Deine Finanzen in 7 Tagen
 
 > Product ID `29206` · Digistore24 productId `237430` · [HTML profile page](../../produkte/ebook-finanzexcel-deine-finanzen-in-7-tagen-29206.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.78 (Single payment) |
+| Price | $18.74 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.60 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | geldschnurrbart |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** eBook + Finanzexcel: Deine Finanzen in 7 Tagen Alle Grundlagen für Vermögensaufbau und geschicktem Umgang mit Geld, ganz ohne aufwändiges Haushaltsbuch. Leicht und ohne Vorwissen anzueignen und geräteübergreifend verfügbar. ÜBER 1800+ Verkäufe5 € Porvision pro VerkaufEbook (151 Seiten) + VideoanleitungVorgefertigte Finanzexcel-DateiPersönlicher Affiliate Support Bekannt durch Pro7 Galileo, SPIEGEL…
+**Vendor's marketplace description:** <h4><strong>eBook + Finanzexcel: Deine Finanzen in 7 Tagen</strong></h4>
+<div>Alle Grundlagen für Vermögensaufbau und geschicktem Umgang mit Geld, ganz ohne aufwändiges Haushaltsbuch. Leicht und ohne Vorwissen anzueignen und geräteübergreifend verfügbar.<br /><br /></div>
+<div> </div>
+<h3><span style="background-color:#ffff00;">ÜBER 1800+ Verkäufe<br />5 € Porvision pro Verkauf<br />Ebook (151 Seiten) + Videoanleitung<br />Vorgefertigte Finanzexcel-Datei<br />Persönlicher Affiliate Support</span></h3>
+<div> </div>
+<div><span style="background-color:#ffffff;">Bekannt durch Pro7 Galileo, SPIEGEL, Stuttgarter Zeitung</span></div>
+<div> </div>
+<div> </div>
 
 ## 2. Links
 
@@ -81,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook + Finanzexcel: Deine Finanzen in 7 Tagen? — Typ: Downloads, Anbieter: geldschnurrbart, gelistet seit 2018-08-22
-- Wie viel kostet es? — 18.781256000000003 USD
+- Wie viel kostet es? — 18.739356000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

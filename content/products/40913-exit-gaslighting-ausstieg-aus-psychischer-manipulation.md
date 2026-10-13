@@ -4,34 +4,34 @@ digistore24_product_id: 455087
 title: "Exit Gaslighting - Ausstieg aus psychischer Manipulation"
 vendor: "psySOULogy"
 product_type: "E-books"
-price: 13.6
+price: 13.57
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 4.76
+earnings_per_sale: 4.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-08-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/product/455087?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40913/adminstore/"
 sales_page: "https://www.digistore24.com/product/455087"
 language: "de"
 ---
 # Exit Gaslighting - Ausstieg aus psychischer Manipulation
 
 > Product ID `40913` · Digistore24 productId `455087` · [HTML profile page](../../produkte/exit-gaslighting-ausstieg-aus-psychischer-manipulation-40913.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.60 (Single payment) |
+| Price | $13.57 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $4.76 |
+| Earnings/sale* | $4.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | psySOULogy |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das E-Book Exit Gaslighting - Wege aus dem Nebel der psychischen Manipulation bietet Betroffenen und professionellen therapeutischen Helfern auf 520 digitalen Seiten ein neuartiges, objektives Verständnis hinsichtlich Entstehung, Aufrechterhaltung und entscheidenden Wirkfaktoren psychischer Manipulation. Die Autorin hat als Diplom-Psychologin, approbierte Psychotherapeutin und Self-Empowerment-Coa…
+**Vendor's marketplace description:** <p>Das E-Book <span style="color:#008080;"><em><strong>Exit Gaslighting - Wege aus dem Nebel der psychischen Manipulation</strong></em></span> bietet Betroffenen und professionellen therapeutischen Helfern auf 520 digitalen Seiten ein neuartiges, objektives Verständnis hinsichtlich Entstehung, Aufrechterhaltung und entscheidenden Wirkfaktoren psychischer Manipulation. </p>
+<p>Die Autorin hat als Diplom-Psychologin, approbierte Psychotherapeutin und Self-Empowerment-Coach im Bereich toxischer Beziehungen nicht nur ihren fachlichen Background einfließen lassen: Als selbst ehemals von <strong><em>Gaslighting</em></strong> Betroffene lässt sie die Leser vollumfänglich spüren, dass sie mit ihren Erfahrungen angenommen und verstanden sind.</p>
+<p><strong><em>Exit Gaslighting</em></strong> hebt sich damit von vielen anderen Büchern im Themenbereich toxischer Beziehungen ab. </p>
+<p>Fachlich fundiert, objektiv und leicht verständlich erhalten sowohl Betroffene, als auch professionelle Helfer eine Blaupause, die Schritt für Schritt erklärt, wie <em><strong>psychische Manipulation</strong></em> entsteht und was getan werden kann, um aus diesem Kreislauf auszusteigen.</p>
+<p>Die <strong>Systematik von<em> Gaslighting</em></strong> kann erkannt, verstanden und mit den bereitgestellten <strong>Übungen</strong> verlassen werden. Betroffene erhalten in einem abschließenden Selbst-Empowerment-Kapitel zudem Werkzeuge, um sich nachhaltig vor <em><strong>psychischer Manipulation</strong></em> und <strong><em>Gaslighting</em></strong> zu schützen. </p>
+<p>Ein Werk, das alle offenen Fragen klärt, die von psychischer Manipulation Betroffene sich stellen.</p>
+<p> </p>
+<p><strong>Ihre Vorteile:</strong></p>
+<p>1. Sie erhalten für jeden Verkauf, der über Ihren Link getätigt wird ganze <strong>35% Provision</strong> vom Nettoerlös.</p>
+<p>2. Mit der Bewerbung von <strong><em>Exit Gaslighting</em></strong> lassen Sie als Blogger, Coach und Influencer <strong>Professionalität</strong> erkennen, weil Sie sich auf fachlich fundierte Informationen beziehen.  </p>
+<p>3. Eine breite Auswahl an <strong>fertigen Werbemitteln</strong> wird Ihnen zur Verfügung gestellt - sie müssen nichts weiter tun, als das Produkt auf Ihrem Kanal mit passendem Banner und Werbetext auf Ihrer Seite zu verlinken. </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/455087?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40913/adminstore/
 - Sales page: https://www.digistore24.com/product/455087
 - Vendor affiliate support: https://www.exit-gaslighting.com/das-exit-gaslighting-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/455087/adminstore
@@ -71,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Exit Gaslighting - Ausstieg aus psychischer Manipulation? — Typ: E-books, Anbieter: psySOULogy, gelistet seit 2022-08-11
-- Wie viel kostet es? — 13.604084 USD
+- Wie viel kostet es? — 13.573734000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

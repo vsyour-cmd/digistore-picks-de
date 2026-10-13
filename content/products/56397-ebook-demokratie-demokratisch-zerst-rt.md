@@ -4,34 +4,34 @@ digistore24_product_id: 689066
 title: "Ebook - Demokratie - Demokratisch zerstört"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.8
+price: 6.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.41
+earnings_per_sale: 3.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Politics & Economy"]
 listed_since: "2026-04-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/689066?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56397/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/689066"
 language: "de"
 ---
 # Ebook - Demokratie - Demokratisch zerstört
 
 > Product ID `56397` · Digistore24 productId `689066` · [HTML profile page](../../produkte/ebook-demokratie-demokratisch-zerst-rt-56397.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.80 (Single payment) |
+| Price | $6.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.41 |
+| Earnings/sale* | $3.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochaktuelles und polarisierendes Thema mit starkem Diskussionspotenzial: Dieses Buch beleuchtet die schleichende Aushöhlung demokratischer Strukturen in Europa und spricht damit eine politisch interessierte, meinungsstarke Zielgruppe an. Die fundierte, datenbasierte Analyse kombiniert mit brisanten Fallstudien sorgt für hohe Relevanz und regt zur aktiven Auseinandersetzung an – ideal für Cont…
+**Vendor's marketplace description:** <p>Ein hochaktuelles und polarisierendes Thema mit starkem Diskussionspotenzial:</p>
+<p>Dieses Buch beleuchtet die schleichende Aushöhlung demokratischer Strukturen in Europa und spricht damit eine politisch interessierte, meinungsstarke Zielgruppe an.</p>
+<p>Die fundierte, datenbasierte Analyse kombiniert mit brisanten Fallstudien sorgt für hohe Relevanz und regt zur aktiven Auseinandersetzung an – ideal für Content-Marketing, Social Media und Debattenformate.</p>
+<p>Durch den emotionalen Trigger „Gefahr für die Demokratie“ und die kontroverse Perspektive entsteht ein starkes Klick- und Kaufinteresse.</p>
+<p>Besonders gut geeignet für Affiliates im Bereich Politik, Gesellschaft, alternative Medien und Aufklärung mit hohem Viralpotenzial.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689066?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56397/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/689066
 - Canonical redirect: https://www.digistore24.com/redir/689066/adminstore
 
@@ -71,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Demokratie - Demokratisch zerstört? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-30
-- Wie viel kostet es? — 6.802042 USD
+- Wie viel kostet es? — 6.786867000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

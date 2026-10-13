@@ -4,34 +4,34 @@ digistore24_product_id: 628412
 title: "Ayurveda-Lehrbuch Ebook (PDF und EPUP)"
 vendor: "atmarama"
 product_type: "E-books"
-price: 18.33
+price: 18.29
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.5
+earnings_per_sale: 5.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-08-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://atmarama.de/al-ebook.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53519/adminstore/"
 sales_page: "https://atmarama.de/al-ebook.html"
 language: "de"
 ---
 # Ayurveda-Lehrbuch Ebook (PDF und EPUP)
 
 > Product ID `53519` · Digistore24 productId `628412` · [HTML profile page](../../produkte/ayurveda-lehrbuch-ebook-pdf-und-epup-53519.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.33 (Single payment) |
+| Price | $18.29 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.50 |
+| Earnings/sale* | $5.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | atmarama |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ayurveda-Lehrbuch ist ein zweibändiges Kompendium der Caraka-Samhita. Die Caraka-Samhita ist der älteste und bekannteste Klassiker des Ayurveda. Sie wurde vor ca. 2500 Jahren vom Arzt und Weisen Caraka in der Sanskritsprache als Lehrbuch für das Ayurvedastudium verfasst. Bis zum heutigen Tag ist sie das unverzichtbare Grundlagen-Werk für jeden, der Ayurveda verstehen und als Therapeut oder privat …
+**Vendor's marketplace description:** <p style="line-height:1.4em;margin-top:1em;"><strong>Ayurveda-Lehrbuch</strong> ist ein zweibändiges Kompendium der <strong>Caraka-Samhita</strong>. Die Caraka-Samhita ist der älteste und bekannteste Klassiker des Ayurveda. Sie wurde vor ca. 2500 Jahren vom Arzt und Weisen Caraka in der Sanskritsprache <strong><span style="color:#993366;">als Lehrbuch für das Ayurvedastudium</span></strong> verfasst. Bis zum heutigen Tag ist sie das unverzichtbare Grundlagen-Werk für jeden, der Ayurveda verstehen und als Therapeut oder privat anwenden möchte.</p>
+<p style="line-height:1.4em;margin-top:1em;"><strong>Ayurveda-Lehrbuch (Caraka-Samhita-Kompendium)</strong> ist ein besonderes literarisches Werk, das erstmals im Jahre 2003 beim Vasati-Verlag als zweibändige gebundene Ausgabe veröffentlicht wurde. Die fünfte und letzte Auflage stammt aus dem Jahr 2020. Seit ein paar Jahren gibt es dieses Werk in deutsch und in englisch auch als <span style="color:#993366;"><strong>Ebook im PDF- und im Epub-Format</strong></span> zum Lesen auf Ebook-Readern bzw. Tablet-PCs, etc.</p>
+<div style="background-color:#fff68f;padding:8px;margin-top:1em;">Die digitale Version wurde 2025 mit viel Fleiß und Sorgfalt <span style="color:#800080;"><strong>komplett überarbeitet, verbessert und erweitert</strong>.</span> Das dürfte auch diejenigen interessieren, die die gebundene Ausgabe besitzen.</div>
+<p style="line-height:1.4em;margin-top:1em;">Die Ebooks sind im Vergleich zum Buch (gebundene Ausgabe) sehr preiswert und es lohnt sich auf jeden Fall, sie ebenfalls zu besitzen. Die PDF-Version besteht wie die gebundene Ausgabe aus zwei Bänden. Das Ebook für Ebook-Reader besteht aus vier Bänden. </p>
+<p style="line-height:1.4em;margin-top:1em;background-color:#f7f2e0;padding:8px;"><strong>Inhaltsverzeichnis</strong> und <strong>Leseproben</strong> sowie weitere Informationen gibt es auf der Verkaufsseite: <a title="springe zur Verkaufseite von Ayurveda-Lehrbuch Ebook" href="https://atmarama.de/al-ebook.html" target="_blank" rel="noreferrer noopener">https://atmarama.de/al-ebook.html</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://atmarama.de/al-ebook.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53519/adminstore/
 - Sales page: https://atmarama.de/al-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/628412/adminstore
 
@@ -76,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ayurveda-Lehrbuch Ebook (PDF und EPUP)? — Typ: E-books, Anbieter: atmarama, gelistet seit 2025-08-07
-- Wie viel kostet es? — 18.333016 USD
+- Wie viel kostet es? — 18.292116 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

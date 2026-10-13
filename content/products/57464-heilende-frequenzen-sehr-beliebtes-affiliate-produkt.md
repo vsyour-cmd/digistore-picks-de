@@ -4,16 +4,16 @@ digistore24_product_id: 310642
 title: "Heilende Frequenzen - sehr beliebtes Affiliate-Produkt"
 vendor: "gesundergeist"
 product_type: "Downloads"
-price: 14.12
+price: 14.09
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.04
+earnings_per_sale: 5.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-07-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://michaelrepkowsky.info/heilfrequenzen1?aff=adminstore#aff=adminstore"
 sales_page: "https://michaelrepkowsky.info/heilfrequenzen1"
@@ -22,16 +22,16 @@ language: "de"
 # Heilende Frequenzen - sehr beliebtes Affiliate-Produkt
 
 > Product ID `57464` · Digistore24 productId `310642` · [HTML profile page](../../produkte/heilende-frequenzen-sehr-beliebtes-affiliate-produkt-57464.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.12 (Single payment) |
+| Price | $14.09 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.04 |
+| Earnings/sale* | $5.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gesundergeist |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erhalte zwischen 3,50 und 5 Euro Provision pro Verkauf. Einige Affiliates verdienen damit richtig gut. Sei du der nächste. Zielgruppe: Stressabbau, besser Schlafen, Ängste loserden, Spiritualität.
+**Vendor's marketplace description:** <p><strong><span style="background-color:#99cc00;">Erhalte zwischen 3,50 und 5 Euro Provision pro Verkauf.</span></strong></p>
+<p>Einige Affiliates verdienen damit richtig gut. Sei du der nächste.</p>
+<p>Zielgruppe: Stressabbau, besser Schlafen, Ängste loserden, Spiritualität.</p>
 
 ## 2. Links
 
@@ -85,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilende Frequenzen - sehr beliebtes Affiliate-Produkt? — Typ: Downloads, Anbieter: gesundergeist, gelistet seit 2026-07-09
-- Wie viel kostet es? — 14.11956 USD
+- Wie viel kostet es? — 14.08806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

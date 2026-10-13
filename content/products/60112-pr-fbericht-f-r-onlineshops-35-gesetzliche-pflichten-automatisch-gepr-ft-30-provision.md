@@ -4,16 +4,16 @@ digistore24_product_id: 732126
 title: "Prüfbericht für Onlineshops: 35 gesetzliche Pflichten automatisch geprüft – 30 % Provision"
 vendor: "rechtsklar24"
 product_type: "Remote service provided electronically"
-price: 17.9
+price: 17.86
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.37
+earnings_per_sale: 5.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://rechtsklar24.de/pruefbericht.html?aff=adminstore#aff=adminstore"
 sales_page: "https://rechtsklar24.de/pruefbericht.html"
@@ -22,16 +22,16 @@ language: "de"
 # Prüfbericht für Onlineshops: 35 gesetzliche Pflichten automatisch geprüft – 30 % Provision
 
 > Product ID `60112` · Digistore24 productId `732126` · [HTML profile page](../../produkte/pr-fbericht-f-r-onlineshops-35-gesetzliche-pflichten-automatisch-gepr-ft-30-provision-60112.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $17.90 (Single payment) |
+| Price | $17.86 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.37 |
+| Earnings/sale* | $5.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rechtsklar24 |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Prüfbericht für Onlineshops: automatische Prüfung gegen 35 gesetzliche Pflichten (Impressum, Widerrufsbutton, Preisangaben, Datenschutz, Cookie-Banner, GPSR, Barrierefreiheit u. a.) – mit Befund, Behebungsschritt, Paragraf und Risiko je Pflicht. Online-Ansicht + PDF, 19,00 € einmalig, kein Abo, eine kostenlose Nachprüfung in 30 Tagen. Für wen: Betreiber von Onlineshops in Deutschland – egal ob Sho…
+**Vendor's marketplace description:** <p>Prüfbericht für Onlineshops: automatische Prüfung gegen 35 gesetzliche Pflichten (Impressum, Widerrufsbutton, Preisangaben, Datenschutz, Cookie-Banner, GPSR, Barrierefreiheit u. a.) – mit Befund, Behebungsschritt, Paragraf und Risiko je Pflicht. Online-Ansicht + PDF, 19,00 € einmalig, kein Abo, eine kostenlose Nachprüfung in 30 Tagen.</p>
+<p><strong>Für wen:</strong> Betreiber von Onlineshops in Deutschland – egal ob Shopify, Shopware, WooCommerce, JTL, PlentyONE oder Eigenbau. Passt zu Publishern aus E-Commerce, Shop-Agenturen, Webdesign, Buchhaltung/Steuer, Gründer-Themen.</p>
+<p><strong>Warum es konvertiert:</strong> In unserer Auswertung von 934 Trusted-Shops-zertifizierten Onlineshops (30.07.–23.08.2026) hatten 74,3 % mindestens einen belegten Verstoß, 38,1 % Mängel beim seit 19.06.2026 pflichtigen Widerrufsbutton; Median sieben Befunde pro Shop.</p>
+<p><strong>Ablauf:</strong> Kauf über Digistore24 → Einlösecode per E-Mail → Shop-Adresse eintragen → Bericht in unter einer Minute. Provision: 30 %.</p>
+<p><strong>Pflicht für Partner:</strong> Der Prüfbericht ist keine Rechtsberatung (automatischer Prüfdienst, kein Rechtsdienst im Sinne des RDG). Bitte nicht mit „abmahnsicher“, „rechtssicher“ oder Garantien werben.</p>
 
 ## 2. Links
 
@@ -73,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Prüfbericht für Onlineshops: 35 gesetzliche Pflichten automatisch geprüft – 30 % Provision? — Typ: Remote service provided electronically, Anbieter: rechtsklar24, gelistet seit 2026-10-01
-- Wie viel kostet es? — 17.895982 USD
+- Wie viel kostet es? — 17.856057000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

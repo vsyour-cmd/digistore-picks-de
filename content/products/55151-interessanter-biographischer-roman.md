@@ -4,34 +4,34 @@ digistore24_product_id: 658840
 title: "Interessanter biographischer Roman"
 vendor: "ekke-hard"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.19
+earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Travel & Culture"]
 listed_since: "2026-01-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/658840?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55151/adminstore/"
 sales_page: "https://www.digistore24.com/product/658840"
 language: "de"
 ---
 # Interessanter biographischer Roman
 
 > Product ID `55151` · Digistore24 productId `658840` · [HTML profile page](../../produkte/interessanter-biographischer-roman-55151.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.19 |
+| Earnings/sale* | $5.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ekke-hard |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Autor des eBooks beschreibt in einer unterhaltsamen Art und Weise unter Einfügung vieler Episoden und Geschichten sein wahrhaft abwechslungsreiches und interessantes Leben. Es werden die vielseitigen Erlebnisse der Kindheit und seiner Jugend erzählt sowie warum er ins Gefängnis kam. Auch seine für ihn nicht schöne Armeezeit wird in interessanten Details dargelegt. Später hat er alles unternomm…
+**Vendor's marketplace description:** <p>Der Autor des eBooks beschreibt in einer unterhaltsamen Art und Weise unter Einfügung vieler Episoden und Geschichten sein wahrhaft abwechslungsreiches und interessantes Leben.</p>
+<p>Es werden die vielseitigen Erlebnisse der Kindheit und seiner Jugend erzählt sowie warum er ins Gefängnis kam.</p>
+<p>Auch seine für ihn nicht schöne Armeezeit wird in interessanten Details dargelegt.</p>
+<p>Später hat er alles unternommen, um seiner Familie ein angehmes Leben zu bieten.</p>
+<p>Es wurden mehrere Firmen gegründet und aufgezeigt, wie trotz vieler Tiefs es auch Hochs gab und so Millionen verdient wurden.</p>
+<p>Das wird alles sehr detailreich und interessant beschrieben, aber auch lehrreich !</p>
+<p>Weitere spannende, lustige und interessante Geschichten aus dem Leben und seinen Reisen werden blumenreich erzählt.</p>
+<p>Dieses (neu heraus gekommene) Buch ist neben der Unterhaltung mit viel Spaß auch sehr lehrreich - was die Rezensionen auf Amazon beweisen.  </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/658840?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55151/adminstore/
 - Sales page: https://www.digistore24.com/product/658840
 - Canonical redirect: https://www.digistore24.com/redir/658840/adminstore
 
@@ -71,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Interessanter biographischer Roman? — Typ: E-books, Anbieter: ekke-hard, gelistet seit 2026-01-04
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 305926
 title: "Dankbarkeitstagebuch für Kinder"
 vendor: "LRoeck"
 product_type: "Book (printed)"
-price: 31.31
+price: 31.24
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.6
+earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-01-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://happinessforkids.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/31633/adminstore/"
 sales_page: "https://happinessforkids.de/"
 language: "de"
 ---
 # Dankbarkeitstagebuch für Kinder
 
 > Product ID `31633` · Digistore24 productId `305926` · [HTML profile page](../../produkte/dankbarkeitstagebuch-f-r-kinder-31633.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $31.31 (Single payment) |
+| Price | $31.24 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.60 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LRoeck |
@@ -41,11 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ➡️ 5 Minuten Tagebuch für Mädchen und Jungen im Alter von 5-10 Jahren ➡️ Für mehr Selbstliebe, Dankbarkeit und ein starkes Selbstbewusstsein ➡️ Hardcoverbuch mit täglichen Achtsamkeitsübungen für glückliche Kinder Inhalt des Buches: ✔️ Hardcoverbuch: 280 Seiten ✔️ Übungsinhalte für 26 spannende Wochen ✔️ Tägliche Übungen für mehr Achtsamkeit im Kindesalter ✔️ Stimmungsbarometer zum Ankreuzen ✔️ J…
+**Vendor's marketplace description:** <p>➡️ 5 Minuten Tagebuch für Mädchen und Jungen im Alter von 5-10 Jahren</p>
+<p>➡️ Für mehr Selbstliebe, Dankbarkeit und ein starkes Selbstbewusstsein</p>
+<p>➡️ Hardcoverbuch mit täglichen Achtsamkeitsübungen für glückliche Kinder</p>
+<p> </p>
+<p> </p>
+<table><tbody><tr><td>
+<div>
+<p><strong>Inhalt des Buches:</strong></p>
+<p>✔️ Hardcoverbuch: 280 Seiten</p>
+<p>✔️ Übungsinhalte für 26 spannende Wochen         </p>
+<p>✔️ Tägliche Übungen für mehr Achtsamkeit im Kindesalter</p>
+<p>✔️ Stimmungsbarometer zum Ankreuzen</p>
+<p>✔️ Jede Woche ein neuer kindgerechter Glaubenssatz</p>
+<p>✔️ Größe: 17 x 24 cm</p>
+<p>✔️ Sprache: Deutsch</p>
+<p> </p>
+<p><strong>Deine Vorteile auf einen Blick:</strong></p>
+<p>➡️ Ideales Geschenk für Kinder im Alter von 5-10 Jahre</p>
+<p>➡️ Bietet genügend Raum für Kreativität und eigene Gedanken</p>
+<p>➡️ Das Ausfüllen wird zu einem täglichen Ritual und stärkt die Eltern-Kind-Beziehung</p>
+<p>➡️ Dieses Kindertagebuch ist aufgrund des Hardcovers robust, dennoch durch die Fadenbindung flexibel. Das Buch enthält ein praktisches Kapitelbändchen und schreibfeste Buchseiten aus Naturpapier</p>
+<p>➡️ Schönes Erinnerungsbuch für Kinder und die gesamte Familie</p>
+<p>➡️ Liebevoll gestaltete Seiten in zwei verschiedenen Farben und Designs</p>
+</div>
+</td>
+</tr></tbody></table>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://happinessforkids.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/31633/adminstore/
 - Sales page: https://happinessforkids.de/
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/395544/5127
 - Canonical redirect: https://www.digistore24.com/redir/305926/adminstore
@@ -77,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dankbarkeitstagebuch für Kinder? — Typ: Book (printed), Anbieter: LRoeck, gelistet seit 2020-01-31
-- Wie viel kostet es? — 31.309564 USD
+- Wie viel kostet es? — 31.239714000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

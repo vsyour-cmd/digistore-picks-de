@@ -4,34 +4,34 @@ digistore24_product_id: 234406
 title: "E-Book: Auswander Lexikon"
 vendor: "Staatenlos"
 product_type: "E-books"
-price: 15.07
+price: 15.04
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 1.94
+earnings_per_sale: 1.93
 cart_conversion_pct: 29
 cancel_rate_pct: 1.38
 categories: ["Travel & Culture"]
 listed_since: "2018-07-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://staatenlos.ch/firma-gruenden/auswander-lexikon/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39447/adminstore/"
 sales_page: "https://staatenlos.ch/firma-gruenden/auswander-lexikon/"
 language: "de"
 ---
 # E-Book: Auswander Lexikon
 
 > Product ID `39447` · Digistore24 productId `234406` · [HTML profile page](../../produkte/e-book-auswander-lexikon-39447.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.07 (Single payment) |
+| Price | $15.04 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $1.94 |
+| Earnings/sale* | $1.93 |
 | Cart conversion* | 29% |
 | Cancel rate* | 1.38% |
 | Vendor | Staatenlos |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die 50 attraktivsten und (steuer)freien Länder für Dich im Vergleich! wichtige Fakten zum Land Steuersystem im Detail Einwanderungsoptionen Lebensbedingungen Bürgerliche Freiheiten Ausführliche Informationen in deutscher Sprache zu potentiellen Auswanderungsländern sind rar gesät. Insbesondere trifft dies auf die eigentlich für Unternehmer und Investoren attraktiven Wohnsitzländer zu. Gute Informa…
+**Vendor's marketplace description:** <div>
+<div>
+<p>Die 50 attraktivsten und (steuer)freien Länder für Dich im Vergleich!</p>
+</div>
+</div>
+<div>
+<ul>
+<li>wichtige Fakten zum Land</li>
+<li>Steuersystem im Detail</li>
+<li>Einwanderungsoptionen</li>
+<li>Lebensbedingungen</li>
+<li>Bürgerliche Freiheiten</li>
+</ul>
+<p>Ausführliche Informationen in deutscher Sprache zu potentiellen Auswanderungsländern sind rar gesät. Insbesondere trifft dies auf die eigentlich für Unternehmer und Investoren attraktiven Wohnsitzländer zu. Gute Informationen gibt es nur für Steuerhöllen wie Westeuropa, Kanada und Australien.</p>
+<p>Dieses Lexikon stellt erstmals 50 Nationen weltweit aus allen Regionen zusammen, die durch attraktive Lebensbedingungen, niedrige oder keine Besteuerung und erfüllbare Einwanderungsbedingungen punkten und vergleicht sie nach relevanten Indikatoren.</p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://staatenlos.ch/firma-gruenden/auswander-lexikon/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39447/adminstore/
 - Sales page: https://staatenlos.ch/firma-gruenden/auswander-lexikon/
 - Vendor affiliate support: https://staatenlos.ch/staatenlos/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/234406/adminstore
@@ -84,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Auswander Lexikon? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2018-07-24
-- Wie viel kostet es? — 15.07207 USD
+- Wie viel kostet es? — 15.038445000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

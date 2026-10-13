@@ -4,34 +4,34 @@ digistore24_product_id: 144799
 title: "CAPITOL POST"
 vendor: "am-publishing"
 product_type: "E-books"
-price: 31.11
+price: 31.04
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 27.99
+earnings_per_sale: 27.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-06-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/144799?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/26779/adminstore/"
 sales_page: "https://www.digistore24.com/product/144799"
 language: "de"
 ---
 # CAPITOL POST
 
 > Product ID `26779` · Digistore24 productId `144799` · [HTML profile page](../../produkte/capitol-post-26779.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.11 (Single payment) |
+| Price | $31.04 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $27.99 |
+| Earnings/sale* | $27.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | am-publishing |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „CAPITOL POST“ Hinter den Kulissen der Mächtigen – DER Enthüllungsdienst! Jetzt 90% Provision sichern – NUR für unsere ersten Affiliate-Partner! Die „CAPOTIL POST“ ist Deutschlands mutigster Enthüllungsbrief. Exklusiv von den Machern von WATERGATE.TV! Über 20.000 Menschen lesen, kommentieren und teilen jeden Tag unsere Inhalte – und SIE können ab jetzt davon profitieren und dabei die Pressefreihei…
+**Vendor's marketplace description:** <p style="text-align:center;"><strong><span style="color:#3366ff;">„CAPITOL POST“</span></strong></p>
+<p style="text-align:center;">Hinter den Kulissen der Mächtigen – DER Enthüllungsdienst!</p>
+<p style="text-align:center;"><span style="background-color:#ffff00;">Jetzt <span style="text-decoration:underline;"><strong>90% Provision</strong></span> sichern – NUR für unsere ersten <strong>Affiliate-Partner</strong>! </span></p>
+<p>Die „CAPOTIL POST“ ist Deutschlands mutigster Enthüllungsbrief. Exklusiv von den Machern von WATERGATE.TV! Über 20.000 Menschen lesen, kommentieren und teilen jeden Tag unsere Inhalte – und SIE können ab jetzt davon profitieren und dabei die Pressefreiheit schützen!</p>
+<p>Die „CAPITOL POST“ enthält <strong>in jeder Ausgabe die Wahrheit</strong>, die vor uns GEHEIM gehalten werden soll.</p>
+<p><strong>Wir bieten Ihnen: </strong></p>
+<ul><li>100% werblich getestete Landing-Pages!</li>
+<li>Responsive Design!</li>
+<li><span style="background-color:#ffff00;color:#3366ff;"><strong>... und natürlich 90% Provision!</strong></span></li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/144799?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/26779/adminstore/
 - Sales page: https://www.digistore24.com/product/144799
 - Canonical redirect: https://www.digistore24.com/redir/144799/adminstore
 
@@ -90,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CAPITOL POST? — Typ: E-books, Anbieter: am-publishing, gelistet seit 2017-06-20
-- Wie viel kostet es? — 31.107856 USD
+- Wie viel kostet es? — 31.038456000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

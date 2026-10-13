@@ -4,16 +4,16 @@ digistore24_product_id: 357627
 title: "Schutz vor Organspende in Österreich"
 vendor: "Organia"
 product_type: "Deliverable"
-price: 25.52
+price: 25.46
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 4.48
+earnings_per_sale: 4.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-11-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.organspende-ablehnen.at/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.organspende-ablehnen.at/"
@@ -22,16 +22,16 @@ language: "de"
 # Schutz vor Organspende in Österreich
 
 > Product ID `36700` · Digistore24 productId `357627` · [HTML profile page](../../produkte/schutz-vor-organspende-in-sterreich-36700.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $25.52 (Single payment) |
+| Price | $25.46 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $4.48 |
+| Earnings/sale* | $4.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Organia |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In Österreich ist jeder Mensch der sich dort aufhält automatisch Organspender, mit dieser PDF Anleitung erfahren Sie die wichtigsten Hinweise um sich vor einer Organspende gegen Ihren Willen in Österreich zu schützen.
+**Vendor's marketplace description:** <p>In Österreich ist jeder Mensch der sich dort aufhält automatisch Organspender, mit dieser PDF Anleitung erfahren Sie die wichtigsten Hinweise um sich vor einer Organspende gegen Ihren Willen in Österreich zu schützen.</p>
 
 ## 2. Links
 
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schutz vor Organspende in Österreich? — Typ: Deliverable, Anbieter: Organia, gelistet seit 2020-11-15
-- Wie viel kostet es? — 25.516062 USD
+- Wie viel kostet es? — 25.459137000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

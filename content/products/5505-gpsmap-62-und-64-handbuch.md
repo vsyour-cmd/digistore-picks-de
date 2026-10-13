@@ -4,16 +4,16 @@ digistore24_product_id: 36863
 title: "GPSMAP 62 und 64 Handbuch"
 vendor: "MBMweb"
 product_type: "E-books"
-price: 20.93
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.47
+earnings_per_sale: 10.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2014-11-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://gps-anleitung.de/handbuecher/gpsmap-62-64-65-handbuch/?aff=adminstore#aff=adminstore"
 sales_page: "https://gps-anleitung.de/handbuecher/gpsmap-62-64-65-handbuch/"
@@ -22,16 +22,16 @@ language: "de"
 # GPSMAP 62 und 64 Handbuch
 
 > Product ID `5505` · Digistore24 productId `36863` · [HTML profile page](../../produkte/gpsmap-62-und-64-handbuch-5505.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.93 (Single payment) |
+| Price | $20.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.47 |
+| Earnings/sale* | $10.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MBMweb |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Gut laufendes eBook mit weiteren Upsells, die den Umsatz erhöhen. Thema: Garmin GPS Empfänger GPSMAP 62 und 64 Anleitung, Benutzung, Navigation. Zielgruppe: Wanderer, Radfahrer und Outdoor-Leute, die einen GPSMAP besitzen.
+**Vendor's marketplace description:** <p>Gut laufendes eBook mit weiteren Upsells, die den Umsatz erhöhen.</p>
+<p>Thema: Garmin GPS Empfänger GPSMAP 62 und 64 Anleitung, Benutzung, Navigation.</p>
+<p>Zielgruppe: Wanderer, Radfahrer und Outdoor-Leute, die einen GPSMAP besitzen.</p>
 
 ## 2. Links
 
@@ -92,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GPSMAP 62 und 64 Handbuch? — Typ: E-books, Anbieter: MBMweb, gelistet seit 2014-11-20
-- Wie viel kostet es? — 20.932808 USD
+- Wie viel kostet es? — 20.886108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

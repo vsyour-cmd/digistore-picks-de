@@ -4,7 +4,7 @@ digistore24_product_id: 407851
 title: "Buch: Was ein Finanzdienstleister Heute wissen muss…"
 vendor: "RobertPeukert"
 product_type: "Book (printed)"
-price: 321.54
+price: 320.83
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.25
@@ -12,24 +12,24 @@ cart_conversion_pct: 11
 cancel_rate_pct: 1.83
 categories: ["Education"]
 listed_since: "2021-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.robert-peukert.de/autor/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/38445/adminstore/"
 sales_page: "https://www.robert-peukert.de/autor/"
 language: "de"
 ---
 # Buch: Was ein Finanzdienstleister Heute wissen muss…
 
 > Product ID `38445` · Digistore24 productId `407851` · [HTML profile page](../../produkte/buch-was-ein-finanzdienstleister-heute-wissen-muss-38445.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $321.54 (Single payment) |
+| Price | $320.83 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.25 |
 | Cart conversion* | 11% |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Buch: Was ein Finanzdienstleister heute wissen muss... Das Buch ist für alle interessierten Finanzdienstleister beginnend beim Ausschließlichkeitsvermittler, Bankberater, Strukturvertriebler, Versicherungsmakler, Mehrfachagent, Versicherungsberater, Vermögensberater bis zum Honorarberater, die erfolgreich die Zukunft unsere Versicherungs- und Finanzbranche mitgestalten wollen. Der Autor: Robert Pe…
+**Vendor's marketplace description:** <table>
+<tbody>
+<tr>
+<td>
+<div>Buch: Was ein Finanzdienstleister heute wissen muss...</div>
+<div>
+<p>Das Buch ist für alle interessierten Finanzdienstleister beginnend beim Ausschließlichkeitsvermittler, Bankberater, Strukturvertriebler, Versicherungsmakler, Mehrfachagent, Versicherungsberater, Vermögensberater bis zum Honorarberater, die erfolgreich die Zukunft unsere Versicherungs- und Finanzbranche mitgestalten wollen.</p>
+<p> </p>
+<p> </p>
+<p>Der Autor:</p>
+<p>Robert Peukert, Unternehmer, Ehemann, dreifacher Vater wurde am 24.5.1983 in Jena geboren. Er ist erfolgreicher Versicherungs- und Finanzmakler und kennt seine Branche bereits seit 2002. Er liebt seinen Beruf und hat nie etwas anderes getan. Mit über 8.000 Kundenberatungen ist er ein gefragter Experte. Er zählte 2011 zu besten Finanzberater des Jahres und 2016 wurde er unter die 10 besten Versicherungsmakler in Deutschland gewählt. 2018 gehörte er laut Handelsblatt zu den besten freien Beratern für Geldanlagen. Über 800 exzellente Kundenbewertungen haben seine Kunden seiner Firma LIEBLINGSMAKLER verliehen. 2013 gründete er seine LIEBLINSGMAKLER und zeitgleich sicherte er sich seine erste Marke TRAUMZEITPLANUNG®. 2018 war er Mitinitiator und Gründungsmitglied des Vereins „Zukunft für Finanzberatung“ tätig. Er ist bekannt u.a. bekannt aus vielen Fachzeitschriften u.a. von Asscompact, Handelsblatt, Versicherungsjournal, Finanzwelt bis zum „neuen freien Finanzberater“.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.robert-peukert.de/autor/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38445/adminstore/
 - Sales page: https://www.robert-peukert.de/autor/
 - Canonical redirect: https://www.digistore24.com/redir/407851/adminstore
 
@@ -76,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch: Was ein Finanzdienstleister Heute wissen muss…? — Typ: Book (printed), Anbieter: RobertPeukert, gelistet seit 2021-09-16
-- Wie viel kostet es? — 321.544964 USD
+- Wie viel kostet es? — 320.82761400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

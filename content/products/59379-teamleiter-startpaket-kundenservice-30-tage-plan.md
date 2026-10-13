@@ -4,34 +4,34 @@ digistore24_product_id: 735004
 title: "Teamleiter-Startpaket Kundenservice – 30-Tage-Plan"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.2
+earnings_per_sale: 37.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/735004?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59379/adminstore/"
 sales_page: "https://www.digistore24.com/product/735004"
 language: "de"
 ---
 # Teamleiter-Startpaket Kundenservice – 30-Tage-Plan
 
 > Product ID `59379` · Digistore24 productId `735004` · [HTML profile page](../../produkte/teamleiter-startpaket-kundenservice-30-tage-plan-59379.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.20 |
+| Earnings/sale* | $37.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Übernimm dein kleines Kundenservice-Team mit einem strukturierten 30-Tage-Plan. Bereite Gespräche vor, prüfe konkrete Servicefälle und berechne Wochenkennzahlen mit nachvollziehbaren Definitionen. DAS IST ENTHALTEN• 30-Tage-Einstiegsplan mit konkreten Arbeitsaufträgen und Ergebnissen• Vorlagen für Einzelgespräch, Wochenbesprechung, Coaching, Eskalation und Folgemonat• XLSX-Wochenübersicht für zwöl…
+**Vendor's marketplace description:** <p>Übernimm dein kleines Kundenservice-Team mit einem strukturierten 30-Tage-Plan. Bereite Gespräche vor, prüfe konkrete Servicefälle und berechne Wochenkennzahlen mit nachvollziehbaren Definitionen.</p>
+<p>DAS IST ENTHALTEN<br />• 30-Tage-Einstiegsplan mit konkreten Arbeitsaufträgen und Ergebnissen<br />• Vorlagen für Einzelgespräch, Wochenbesprechung, Coaching, Eskalation und Folgemonat<br />• XLSX-Wochenübersicht für zwölf Wochen: Rückstand, CSAT und Antwortzielquote einschließlich gewichteter Gesamtquoten<br />• Anpassbare Qualitätsscorecard mit fünf Kriterien und getrennten Feldern für kritische Befunde<br />• Zwölf Arbeitsbuchseiten als PDF und bearbeitbares DOCX, einschließlich fiktiver Rechen- und Kalibrierungsbeispiele</p>
+<p>SO NUTZT DU DAS PAKET<br />ZIP entpacken, Arbeitsbuch lesen, eine eigene Kopie speichern und Platzhalter sowie Beispieldaten ersetzen. Du erhältst einen deutschsprachigen digitalen Download, keinen Videokurs und kein persönliches Coaching.</p>
+<p>VORAUSSETZUNGEN<br />PDF-Reader und ein kompatibles Office-Programm für DOCX und XLSX. Softwarelizenzen sind nicht enthalten.</p>
+<p>WICHTIG<br />Keine Schichtplanungssoftware, Personalrechtsberatung oder automatische Personalentscheidung. Keine Branchenbenchmarks. Die Scorecard ersetzt keine individuelle Fallprüfung und ist keine alleinige Grundlage für Personalentscheidungen.</p>
+<p>NUTZUNG<br />Für deine eigene berufliche Arbeit. Keine Weiterveräußerung oder öffentliche Verteilung der unveränderten Vorlagendateien. Keine Garantie für Umsatz, Zeitersparnis oder bestimmte Kennzahlen.</p>
+<p>Für Affiliates: 50 % Provision. Zielgruppe: neue Teamleitungen im Kundenservice. Keine Ergebnisgarantien. Kontakt: info@einfachhaltbar.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/735004?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59379/adminstore/
 - Sales page: https://www.digistore24.com/product/735004
 - Vendor affiliate support: https://einfachmitmatze.de/partner-735004/
 - Canonical redirect: https://www.digistore24.com/redir/735004/adminstore
@@ -80,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Teamleiter-Startpaket Kundenservice – 30-Tage-Plan? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

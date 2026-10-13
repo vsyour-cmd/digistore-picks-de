@@ -4,16 +4,16 @@ digistore24_product_id: 118555
 title: "Das Partnerprogramm von \"KonfliktStark.de\""
 vendor: "christophmarkss"
 product_type: "Member area and video courses"
-price: 92.28
+price: 92.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.15
+earnings_per_sale: 46.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-02-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://konfliktstark.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://konfliktstark.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Das Partnerprogramm von "KonfliktStark.de"
 
 > Product ID `33738` · Digistore24 productId `118555` · [HTML profile page](../../produkte/das-partnerprogramm-von-konfliktstark-de-33738.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $92.28 (Single payment, Installment) |
+| Price | $92.08 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.15 |
+| Earnings/sale* | $46.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | christophmarkss |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehlen Sie unsere wertvolle Online-Seminar-Reihe für Privat-Personen und Menschen auf der Suche nach Hilfe. "Konflikte lösen" ist ein Problem mit großer Reichweite. Ihre Vorteile als Affiliate sind: 50% Provision auf alle Initialprodukte und alle Folgeprodukte Keine Verluste durch wechselnde Browser und Geräte dank Klick-Tipp Multi-Device-Tracking (im Durchschnitt 46 % höhere Provisionen). Mit …
+**Vendor's marketplace description:** <p>Empfehlen Sie unsere wertvolle Online-Seminar-Reihe für Privat-Personen und Menschen auf der Suche nach Hilfe.</p>
+<p><strong>"Konflikte lösen" ist ein Problem mit großer Reichweite.</strong></p>
+<p>Ihre Vorteile als Affiliate sind:</p>
+<ul><li><strong>50%</strong> Provision auf alle <strong>Initialprodukte</strong> und alle <strong>Folgeprodukte</strong></li>
+<li>Keine Verluste durch wechselnde Browser und Geräte dank Klick-Tipp <strong>Multi-Device-Tracking</strong> (im Durchschnitt 46 % höhere Provisionen).</li>
+<li>Mit jedem vermittelten Kontakt bewirken Sie eine bessere und <strong>friedlichere Welt</strong></li>
+</ul><p><em>(Das Partnerprogramm ist aktuell noch im Aufbau. Die Werbemittel folgen in Kürze: <a href="https://konfliktstark.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">&gt;&gt; HIER</a> )</em></p>
 
 ## 2. Links
 
@@ -75,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm von "KonfliktStark.de"? — Typ: Member area and video courses, Anbieter: christophmarkss, gelistet seit 2017-02-08
-- Wie viel kostet es? — 92.28141 USD
+- Wie viel kostet es? — 92.075535 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

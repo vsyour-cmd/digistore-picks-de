@@ -4,34 +4,34 @@ digistore24_product_id: 688752
 title: "Ebook - Schatzschiffe"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.28
+price: 6.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.14
+earnings_per_sale: 3.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Law & Justice"]
 listed_since: "2026-04-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/688752?aff=adminstore"
+promo_link: "https://www.veronica-gerritzen.de/die-ernaehrungsloesung-teu1#aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/688752"
 language: "de"
 ---
 # Ebook - Schatzschiffe
 
 > Product ID `56389` · Digistore24 productId `688752` · [HTML profile page](../../produkte/ebook-schatzschiffe-56389.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.28 (Single payment) |
+| Price | $6.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.14 |
+| Earnings/sale* | $3.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein faszinierendes Thema mit starkem Storytelling-Potenzial: Dieses Buch verbindet Abenteuer, Geschichte, Piratenlegenden und echte Schatzsuchen zu einer packenden Reise durch versunkene Reichtümer und maritime Geheimnisse. Es spricht Geschichtsinteressierte, Abenteuerfans, Schatzsucher-Enthusiasten und Leser an, die von legendären Wracks wie der Atocha, San José oder Titanic fasziniert sind. Die …
+**Vendor's marketplace description:** <p>Ein faszinierendes Thema mit starkem Storytelling-Potenzial:</p>
+<p>Dieses Buch verbindet Abenteuer, Geschichte, Piratenlegenden und echte Schatzsuchen zu einer packenden Reise durch versunkene Reichtümer und maritime Geheimnisse.</p>
+<p>Es spricht Geschichtsinteressierte, Abenteuerfans, Schatzsucher-Enthusiasten und Leser an, die von legendären Wracks wie der Atocha, San José oder Titanic fasziniert sind.</p>
+<p>Die Mischung aus historischen Fakten, verborgenen Schätzen, Piraterie und moderner Bergungstechnologie sorgt für hohe Aufmerksamkeit und starke Klickrates im Content-, Social-Media- und Dokumentationsumfeld.</p>
+<p>Ein emotional aufgeladenes Produkt mit breiter Zielgruppe und hohem Verkaufsreiz für Affiliates.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/688752?aff=adminstore
+- **Promo link (affiliate):** https://www.veronica-gerritzen.de/die-ernaehrungsloesung-teu1#aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/688752
 - Canonical redirect: https://www.digistore24.com/redir/688752/adminstore
 
@@ -71,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Schatzschiffe? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-29
-- Wie viel kostet es? — 6.27536 USD
+- Wie viel kostet es? — 6.26136 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

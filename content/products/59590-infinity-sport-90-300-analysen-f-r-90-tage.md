@@ -4,16 +4,16 @@ digistore24_product_id: 736381
 title: "INFINITY SPORT 90 – 300 Analysen für 90 Tage"
 vendor: "uweboehle47cf"
 product_type: "Software"
-price: 111.12
+price: 110.87
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.34
+earnings_per_sale: 33.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php?aff=adminstore#aff=adminstore"
 sales_page: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php"
@@ -22,16 +22,16 @@ language: "de"
 # INFINITY SPORT 90 – 300 Analysen für 90 Tage
 
 > Product ID `59590` · Digistore24 productId `736381` · [HTML profile page](../../produkte/infinity-sport-90-300-analysen-f-r-90-tage-59590.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $111.12 (Single payment) |
+| Price | $110.87 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.34 |
+| Earnings/sale* | $33.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | uweboehle47cf |
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dein persönlicher KI-Sportcoach für 90 Tage. INFINITY SPORT 90 richtet sich an alle, die ihr Training nicht nur einmal analysieren, sondern über einen längeren Zeitraum planen, begleiten und regelmäßig anpassen möchten. Du erhältst 300 Analysen, die dir ab Aktivierung 90 Tage lang zur Verfügung stehen. Mit INFINITY SPORT kannst du unter anderem: deine aktuelle Trainingssituation und deine Ziele an…
+**Vendor's marketplace description:** <p><strong>Dein persönlicher KI-Sportcoach für 90 Tage.</strong></p>
+<p>INFINITY SPORT 90 richtet sich an alle, die ihr Training nicht nur einmal analysieren, sondern über einen längeren Zeitraum <strong>planen, begleiten und regelmäßig anpassen</strong> möchten.</p>
+<p>Du erhältst <strong>300 Analysen</strong>, die dir ab Aktivierung <strong>90 Tage lang</strong> zur Verfügung stehen.</p>
+<p>Mit INFINITY SPORT kannst du unter anderem:</p>
+<ul>
+<li>deine aktuelle Trainingssituation und deine Ziele analysieren</li>
+<li>individuelle Trainingspläne erstellen lassen</li>
+<li>Trainingspläne speichern und später weiterentwickeln</li>
+<li>bis zu <strong>3 Trainingspläne gleichzeitig</strong> verwalten und zwischen ihnen wechseln</li>
+<li>Training und Fortschritt regelmäßig neu analysieren</li>
+<li>Trainingspläne an Veränderungen, neue Ziele oder deine aktuelle Situation anpassen</li>
+<li>Ernährung und Regeneration in deine Analyse einbeziehen</li>
+<li>den Lebensmittel-Scanner und Rezeptideen nutzen</li>
+</ul>
+<p><strong>300 Analysen geben dir genügend Spielraum, INFINITY SPORT intensiv über die gesamten 90 Tage zu nutzen – vom ersten Trainingsplan bis zur laufenden Anpassung.</strong></p>
+<p>INFINITY SPORT ist eine <strong>KI-gestützte Web-App</strong>. Du nutzt sie direkt über deinen Browser – ohne Installation.</p>
+<p><strong>Enthalten:</strong><br /><strong>300 Analysen · 90 Tage Nutzungszeit</strong><br /><br /><br /></p>
+<p>Nicht verbrauchte Analysen verfallen nach Ablauf der 90 Tage und können nicht auf einen späteren Zeitraum übertragen werden.</p>
+<p><strong>INFINITY SPORT 90 – Dein Training. Dein Ziel. Dein Plan.<br /><br />Für Affiliates: INFINITY SPORT 90 ist eine browserbasierte KI-Sportanwendung für Freizeit-, Fitness- und ambitionierte Sportler. Das Produkt kann nach dem Kauf direkt genutzt werden und kombiniert individuelle Sportanalysen mit Trainingsplanung und Lebensmittelscanner.</strong></p>
 
 ## 2. Links
 
@@ -82,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist INFINITY SPORT 90 – 300 Analysen für 90 Tage? — Typ: Software, Anbieter: uweboehle47cf, gelistet seit 2026-09-23
-- Wie viel kostet es? — 111.118696 USD
+- Wie viel kostet es? — 110.870796 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

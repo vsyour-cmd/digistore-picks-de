@@ -4,34 +4,34 @@ digistore24_product_id: 623771
 title: "6-Konten-Modell Excelvorlage"
 vendor: "NilsWarnecke"
 product_type: "Downloads"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.97
+earnings_per_sale: 16.93
 cart_conversion_pct: 5
 cancel_rate_pct: 4.08
 categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2025-07-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://cashcockpit.de/so-denken-millionaere-6-konten-modell-excelvorlage/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53183/adminstore/"
 sales_page: "https://cashcockpit.de/so-denken-millionaere-6-konten-modell-excelvorlage/"
 language: "de"
 ---
 # 6-Konten-Modell Excelvorlage
 
 > Product ID `53183` · Digistore24 productId `623771` · [HTML profile page](../../produkte/6-konten-modell-excelvorlage-53183.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.97 |
+| Earnings/sale* | $16.93 |
 | Cart conversion* | 5% |
 | Cancel rate* | 4.08% |
 | Vendor | NilsWarnecke |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerben Sie jetzt die '6-Konten-Modell Excelvorlage' als Affiliate und profitieren Sie von einem qualitativ hochwertigen Angebot und hohen Conversion Rates! Ihre Vorteile: 25% Provision für jeden einzelnen Verkauf (gilt für jedes verkaufte Produkt) Verkaufsraten von durchschnittlich 7,2% durch hoch konvertierende Seiten Alle Marketing-Materialien bereits fix und fertig vorbereitet – erstellt mit …
+**Vendor's marketplace description:** <p>Bewerben Sie jetzt die '6-Konten-Modell Excelvorlage' als Affiliate und profitieren Sie von einem qualitativ hochwertigen Angebot und hohen Conversion Rates! Ihre Vorteile:<br /> </p>
+<ul>
+<li>25% Provision für jeden einzelnen Verkauf (gilt für jedes verkaufte Produkt)</li>
+<li>Verkaufsraten von durchschnittlich 7,2% durch hoch konvertierende Seiten</li>
+<li>Alle Marketing-Materialien bereits fix und fertig vorbereitet – erstellt mit wenigen Klicks</li>
+<li>Vielfach getestetes und optimiertes Marketing</li>
+</ul>
+<p>Melden Sie sich jetzt zum Partnerprogramm an und generieren Sie sofort die ersten Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://cashcockpit.de/so-denken-millionaere-6-konten-modell-excelvorlage/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53183/adminstore/
 - Sales page: https://cashcockpit.de/so-denken-millionaere-6-konten-modell-excelvorlage/
 - Vendor affiliate support: https://cashcockpit.de/affiliate-neue-seite/
 - Canonical redirect: https://www.digistore24.com/redir/623771/adminstore
@@ -89,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 6-Konten-Modell Excelvorlage? — Typ: Downloads, Anbieter: NilsWarnecke, gelistet seit 2025-07-13
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

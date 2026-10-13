@@ -4,34 +4,34 @@ digistore24_product_id: 733314
 title: "WAWIKUKL Artikelverwaltung Freischaltcode"
 vendor: "kurtkloetzl0072f70"
 product_type: "Downloads"
-price: 74.4
+price: 121.2
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 29.76
+earnings_per_sale: 48.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Software"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/733314?aff=adminstore"
-sales_page: "https://www.checkout-ds24.com/product/733314"
+promo_link: "https://sites.google.com/view/artikelverwaltung-wawikukl?aff=adminstore#aff=adminstore"
+sales_page: "https://sites.google.com/view/artikelverwaltung-wawikukl"
 language: "de"
 ---
 # WAWIKUKL Artikelverwaltung Freischaltcode
 
 > Product ID `60228` · Digistore24 productId `733314` · [HTML profile page](../../produkte/wawikukl-artikelverwaltung-freischaltcode-60228.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.40 (Single payment) |
+| Price | $121.20 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $29.76 |
+| Earnings/sale* | $48.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kurtkloetzl0072f70 |
@@ -41,18 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Freischaltcode zur 14-tägigen Testversion
+**Vendor's marketplace description:** <p>Freischaltcode zur 14-tägigen Testversion</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/733314?aff=adminstore
-- Sales page: https://www.checkout-ds24.com/product/733314
+- **Promo link (affiliate):** https://sites.google.com/view/artikelverwaltung-wawikukl?aff=adminstore#aff=adminstore
+- Sales page: https://sites.google.com/view/artikelverwaltung-wawikukl
 - Canonical redirect: https://www.digistore24.com/redir/733314/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
 - **Page title:** Freischaltcode für Vollversion WAWIKUKL - Digistore24
 - **OG title:** Freischaltcode für Vollversion WAWIKUKL
+- **Final URL after redirects:** https://www.checkout-ds24.com/product/733314
 - **Section headlines (H3):**
   - Freischaltcode für Vollversion WAWIKUKL
   - Freischaltcode für Vollversion WAWIKUKL
@@ -81,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WAWIKUKL Artikelverwaltung Freischaltcode? — Typ: Downloads, Anbieter: kurtkloetzl0072f70, gelistet seit 2026-10-06
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 121.20204000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

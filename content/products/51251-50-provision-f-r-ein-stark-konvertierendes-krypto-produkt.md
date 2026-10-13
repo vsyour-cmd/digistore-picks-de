@@ -4,34 +4,34 @@ digistore24_product_id: 582716
 title: "50 % Provision für ein stark konvertierendes Krypto-Produkt"
 vendor: "StBDirkWinkler"
 product_type: "Member area and video courses"
-price: 469.9
+price: 468.85
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 234.96
+earnings_per_sale: 234.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Trading Products","Finances"]
 listed_since: "2024-11-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.krypto-steuerfrei.de/webinar/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51251/adminstore/"
 sales_page: "https://www.krypto-steuerfrei.de/webinar/"
 language: "de"
 ---
 # 50 % Provision für ein stark konvertierendes Krypto-Produkt
 
 > Product ID `51251` · Digistore24 productId `582716` · [HTML profile page](../../produkte/50-provision-f-r-ein-stark-konvertierendes-krypto-produkt-51251.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $469.90 (Single payment) |
+| Price | $468.85 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $234.96 |
+| Earnings/sale* | $234.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StBDirkWinkler |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du hast eine Zielgruppe im Krypto-Bereich? Dann sichere dir jetzt hohe Provisionen! Mit "Steuerfrei durch den Krypto-Bullrun" zeige ich Krypto-Investoren, wie sie bis zu 47 % Steuern sparen können – ein hochrelevantes Thema in der Szene. ✅ 50 % Provision auf 199 € (brutto) ✅ Webinar mit extrem starken Werten: Hohe Anmelde-Conversion95 % Zuschauerbindung17 % Sales-Conversion ✅ Zusätzliches Upsell m…
+**Vendor's marketplace description:** <p>Du hast eine Zielgruppe im Krypto-Bereich? Dann sichere dir jetzt hohe Provisionen!</p>
+<p>Mit "<em>Steuerfrei durch den Krypto-Bullrun</em>" zeige ich Krypto-Investoren, wie sie bis zu 47 % Steuern sparen können – ein hochrelevantes Thema in der Szene.</p>
+<p>✅ <strong>50 % Provision auf 199 € (brutto)</strong></p>
+<p>✅ <strong>Webinar mit extrem starken Werten:</strong></p>
+<p>Hohe Anmelde-Conversion<br />95 % Zuschauerbindung<br />17 % Sales-Conversion</p>
+<p>✅ <strong>Zusätzliches Upsell mit Abo-Modell:</strong></p>
+<p>33 % Conversion-Rate für wiederkehrende Einnahmen<br />Perfekt für alle, die Krypto-Investoren oder Steueroptimierer in ihrer Zielgruppe haben.</p>
+<p>Jetzt bewerben und mitverdienen!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.krypto-steuerfrei.de/webinar/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51251/adminstore/
 - Sales page: https://www.krypto-steuerfrei.de/webinar/
 - Canonical redirect: https://www.digistore24.com/redir/582716/adminstore
 
@@ -66,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision für ein stark konvertierendes Krypto-Produkt? — Typ: Member area and video courses, Anbieter: StBDirkWinkler, gelistet seit 2024-11-25
-- Wie viel kostet es? — 469.901198 USD
+- Wie viel kostet es? — 468.85287300000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

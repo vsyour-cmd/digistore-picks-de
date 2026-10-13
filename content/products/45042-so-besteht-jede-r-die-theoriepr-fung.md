@@ -4,16 +4,16 @@ digistore24_product_id: 475255
 title: "So besteht jede/r die Theorieprüfung"
 vendor: "Verkehrsguru"
 product_type: "Member area and video courses"
-price: 35.88
+price: 35.8
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 15.86
+earnings_per_sale: 15.82
 cart_conversion_pct: 5
 cancel_rate_pct: 3.13
 categories: ["Education"]
 listed_since: "2022-12-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/475255?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/475255"
@@ -22,16 +22,16 @@ language: "de"
 # So besteht jede/r die Theorieprüfung
 
 > Product ID `45042` · Digistore24 productId `475255` · [HTML profile page](../../produkte/so-besteht-jede-r-die-theoriepr-fung-45042.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.88 (Single payment) |
+| Price | $35.80 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $15.86 |
+| Earnings/sale* | $15.82 |
 | Cart conversion* | 5% |
 | Cancel rate* | 3.13% |
 | Vendor | Verkehrsguru |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hast Du mit dem Verkehrsguru Videokurs gelernt und warst zufrieden? - Dann kannst Du hier andere davon überzeugen, dass unser Kurs gut ist! Dabei kannst Du auch Geld verdienen und gleichzeitig vielen anderen das Gefühl von "YEAAAAH ENDLICH HAB ICH DIE PRÜFUNG BESTANDEN" vermitteln. Theorie ist nämlich einfach, wenn man alles versteht. Wir freuen uns auf dich. Dein Verkehrsguru
+**Vendor's marketplace description:** <p><strong>Hast Du mit dem Verkehrsguru Videokurs gelernt und warst zufrieden?</strong> - Dann kannst Du hier andere davon überzeugen, dass unser Kurs gut ist! </p>
+<p>Dabei kannst Du auch Geld verdienen und gleichzeitig vielen anderen das Gefühl von</p>
+<blockquote>
+<p><strong> "<span style="color:#008000;"><em>YEAAAAH ENDLICH HAB ICH DIE PRÜFUNG BESTANDEN</em></span>"</strong></p>
+</blockquote>
+<p>vermitteln. Theorie ist nämlich einfach, wenn man alles versteht.</p>
+<p> </p>
+<p>Wir freuen uns auf dich. </p>
+<p>Dein Verkehrsguru</p>
 
 ## 2. Links
 
@@ -89,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So besteht jede/r die Theorieprüfung? — Typ: Member area and video courses, Anbieter: Verkehrsguru, gelistet seit 2022-12-16
-- Wie viel kostet es? — 35.881612000000004 USD
+- Wie viel kostet es? — 35.801562000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

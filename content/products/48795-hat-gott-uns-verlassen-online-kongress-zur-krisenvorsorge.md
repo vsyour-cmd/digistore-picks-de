@@ -4,34 +4,34 @@ digistore24_product_id: 527635
 title: "Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge"
 vendor: "naturheilzentrum"
 product_type: "Member area and video courses"
-price: 149.72
+price: 149.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 74.87
+earnings_per_sale: 74.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-11-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/527635?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48795/adminstore/"
 sales_page: "https://www.digistore24.com/product/527635"
 language: "de"
 ---
 # Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge
 
 > Product ID `48795` · Digistore24 productId `527635` · [HTML profile page](../../produkte/hat-gott-uns-verlassen-online-kongress-zur-krisenvorsorge-48795.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $149.72 (Single payment) |
+| Price | $149.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $74.87 |
+| Earnings/sale* | $74.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | naturheilzentrum |
@@ -41,11 +41,41 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Es braut sich etwas zusammen! Spürst du auch den Wandel und willst hoffnungsvoll durch die Zeitenwende gehen? Eine Krise jagt die andere. Die Liebe schwindet. Was kommt als Nächstes? In der Finsternis gefangen und... ...voller Sorgen um die Zukunft. Was, wenn deine Angst berechtigt ist? Du bist verloren in Selbstzweifeln, ohne sicheren Halt, geprägt von Aussichtslosigkeit und innerer Leere? Die se…
+**Vendor's marketplace description:** <h2>Es braut sich etwas zusammen!</h2>
+<p>Spürst du auch den Wandel und willst hoffnungsvoll durch die Zeitenwende gehen?</p>
+<ul>
+<li>Eine Krise jagt die andere.</li>
+<li>Die Liebe schwindet.</li>
+<li>Was kommt als Nächstes?</li>
+</ul>
+<h2>In der Finsternis gefangen und...</h2>
+<p><strong>...voller Sorgen um die Zukunft.</strong></p>
+<ul>
+<li>Was, wenn deine Angst berechtigt ist?</li>
+<li>Du bist verloren in Selbstzweifeln, ohne sicheren Halt, geprägt von Aussichtslosigkeit und innerer Leere?</li>
+<li>Die selbsternannten Gurus, Möchtegern-Heiler und Ego-Coaches, die Alles schön-programmieren wollen, konnten dir keine echte Erlösung bieten?</li>
+</ul>
+<h2>Sei bereit für ein Wunder!</h2>
+<p><strong>Es ist ganz einfach.</strong></p>
+<ul>
+<li>Während 12 Tagen verraten dir über 30 Experten in 35 Interviews ihre Geheimnisse.</li>
+<li>Du erfährst, wie du deinen Kokon verlässt und fliegen kannst.</li>
+<li>Dies ist mehr als ein Kongress - es ist ein Kurs in Wundern!</li>
+</ul>
+<h2>Mit Christus im Herzen den Kontakt zu Gott aufleben lassen</h2>
+<p>Und auch in dunklen Zeiten ein Licht für Andere sein!</p>
+<ul>
+<li>Du kannst dein Seelenheil auch in der Endzeit bewahren.</li>
+<li>Du hast den Dschungel der Selbstzweifel verlassen und findest mit Gott an deiner Seite innere Ruhe und Frieden.</li>
+<li>Du gehst mit Gottes Segen voller Hoffnung, Freude und Liebe selbstbewusst deinen Herzensweg.</li>
+</ul>
+<p><strong>Deine Zeit der Transformation ist JETZT! Sei Teil des Kongresses, sei Teil der Veränderung. Möge Gottes Segen immer mit dir sein.</strong></p>
+<p>Warum weiter in Unsicherheit und Dunkelheit verharren? Der Online-Kongress „Hat Gott uns verlassen?“ ist deine Eintrittskarte zu einer Gemeinschaft, die dich bestärkt, wenn Zweifel aufkommen. Er ist kein Zurückblicken, sondern ein Voranschreiten. Lass die Dunkelheit nicht dein Schicksal diktieren. Hier ist deine Eintrittskarte zu einer Transformation, die nicht nur Antworten, sondern auch Taten liefert. Lass uns gemeinsam das Licht entfachen und selbstbewusst durch diese Zeitenwende gehen.</p>
+<p>10 Prozent der Einnahmen gehen an die <a>AVC Schweiz</a> , eine Hilfsorganisation, die verfolgte Christen in der ganzen Welt unterstützt.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/527635?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48795/adminstore/
 - Sales page: https://www.digistore24.com/product/527635
 - Canonical redirect: https://www.digistore24.com/redir/527635/adminstore
 
@@ -97,7 +127,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hat Gott uns verlassen? Online-Kongress zur Krisenvorsorge? — Typ: Member area and video courses, Anbieter: naturheilzentrum, gelistet seit 2023-11-30
-- Wie viel kostet es? — 149.72336600000003 USD
+- Wie viel kostet es? — 149.38934100000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 701352
 title: "Neukundengewinnung über X"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.43
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-x?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56919/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-x"
 language: "de"
 ---
 # Neukundengewinnung über X
 
 > Product ID `56919` · Digistore24 productId `701352` · [HTML profile page](../../produkte/neukundengewinnung-ber-x-56919.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.43 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie Unternehmen und Selbstständige mit X planbar Leads und Aufträge generieren X ist für Unternehmen kein Spielplatz für Meinungen – es ist ein leistungsstarker Vertriebskanal, wenn du ihn strategisch nutzt. Dieses E-Book zeigt dir, wie du mit gezielten Threads und Replies in deiner Zielgruppe Sichtbarkeit aufbaust, wie du einen Audience-to-Lead-Funnel baust, der Follower in Anfragen verwandelt, u…
+**Vendor's marketplace description:** <p><strong>Wie Unternehmen und Selbstständige mit X planbar Leads und Aufträge generieren</strong></p>
+<p>X ist für Unternehmen kein Spielplatz für Meinungen – es ist ein leistungsstarker Vertriebskanal, wenn du ihn strategisch nutzt. Dieses E-Book zeigt dir, wie du mit gezielten Threads und Replies in deiner Zielgruppe Sichtbarkeit aufbaust, wie du einen Audience-to-Lead-Funnel baust, der Follower in Anfragen verwandelt, und wie du DMs professionell für die Erstansprache einsetzt. Du lernst, externe Links klug zu platzieren, damit dein Newsletter und deine Landingpage kontinuierlich Leads einsammeln, ohne dass Reichweite leidet. Build-in-public ist für Unternehmen ein unterschätztes Vertrauens-Instrument – dieses E-Book zeigt dir, wie du es richtig einsetzt. Inklusive Funnel-Blueprint, DM-Vorlagen und Reporting-Checkliste.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>X-Strategie entlang der Customer Journey: Awareness bis Conversion</li>
+<li>Threads &amp; Replies gezielt für B2B- und B2C-Sichtbarkeit einsetzen</li>
+<li>Der Audience-to-Lead-Funnel: vom Follower zur Anfrage</li>
+<li>DMs professionell nutzen ohne Spam-Alarm</li>
+<li>Externe Links klug platzieren: Newsletter und Landingpage befüllen</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/neukundengewinnung-ueber-x?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56919/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/neukundengewinnung-ueber-x
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701352/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neukundengewinnung über X? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 280760
 title: "Anziehungskraft-Dreieck"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 29.44
+price: 29.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.88
+earnings_per_sale: 11.85
 cart_conversion_pct: 19
 cancel_rate_pct: 6.02
 categories: ["Personal Development"]
 listed_since: "2019-07-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://erfolg-intuitiv.de/anziehungskraft-dreieck/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41709/adminstore/"
 sales_page: "https://erfolg-intuitiv.de/anziehungskraft-dreieck/"
 language: "de"
 ---
 # Anziehungskraft-Dreieck
 
 > Product ID `41709` · Digistore24 productId `280760` · [HTML profile page](../../produkte/anziehungskraft-dreieck-41709.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $29.44 (Single payment) |
+| Price | $29.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.88 |
+| Earnings/sale* | $11.85 |
 | Cart conversion* | 19% |
 | Cancel rate* | 6.02% |
 | Vendor | Erfolg-Intuitiv |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 3 Manifestierungs-Schlüssel zur gezielten Realitätserschaffung… Verkauf über Sales-Page mit Video-Trailer Die Anziehungskraft-Dreieck-Verkaufsseite ist eine Art "Infomercial", eine Kombination aus Verkauf und wertvollen Informationen für den Kunden. Im ersten Teil bekommt der Interessent einen wertvollen Tipp, den er sofort anwenden kann. Im zweiten Teil geht es zum Verkauf. Bei einem Kauf wird de…
+**Vendor's marketplace description:** <h4><strong>3 Manifestierungs-Schlüssel zur gezielten Realitätserschaffung…</strong></h4>
+<p><strong>Verkauf über Sales-Page mit Video-Trailer</strong></p>
+<p>Die <a><strong>Anziehungskraft-Dreieck-Verkaufsseite</strong></a> ist eine Art "Infomercial", eine Kombination aus Verkauf und wertvollen Informationen für den Kunden.</p>
+<p>Im ersten Teil bekommt der Interessent einen wertvollen Tipp, den er sofort anwenden kann. Im zweiten Teil geht es zum Verkauf.</p>
+<p>Bei einem Kauf wird der Kunde auf die Upsell-Seite für das Premium-Produkt (Anziehungskraft-Masterplan) weitergeleitet. Auch dafür gibt es 50% Provision.</p>
+<p>Zudem durchlaufen Kunden noch E-Mail-Kampagnen mit weiteren Angeboten, woraus noch zusätzliche Folgeprovisionen entstehen können.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://erfolg-intuitiv.de/anziehungskraft-dreieck/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41709/adminstore/
 - Sales page: https://erfolg-intuitiv.de/anziehungskraft-dreieck/
 - Vendor affiliate support: https://erfolg-intuitiv.de/partnerprogramm-ad/
 - Canonical redirect: https://www.digistore24.com/redir/280760/adminstore
@@ -83,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Anziehungskraft-Dreieck? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2019-07-26
-- Wie viel kostet es? — 29.438162000000002 USD
+- Wie viel kostet es? — 29.372487000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

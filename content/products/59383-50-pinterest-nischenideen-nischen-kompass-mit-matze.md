@@ -4,34 +4,34 @@ digistore24_product_id: 732859
 title: "50 Pinterest-Nischenideen – Nischen-Kompass mit Matze"
 vendor: "einfachmitmatze"
 product_type: "E-books"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.19
+earnings_per_sale: 4.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/732859?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59383/adminstore/"
 sales_page: "https://www.digistore24.com/product/732859"
 language: "de"
 ---
 # 50 Pinterest-Nischenideen – Nischen-Kompass mit Matze
 
 > Product ID `59383` · Digistore24 productId `732859` · [HTML profile page](../../produkte/50-pinterest-nischenideen-nischen-kompass-mit-matze-59383.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.19 |
+| Earnings/sale* | $4.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ergänze deine Themenrecherche mit 50 Pinterest-Nischenideen. Du erhältst den Nischen-Kompass als PDF-Download. Die Sammlung dient als Ausgangspunkt für deine eigene Auswahl und Prüfung; eine Idee ist kein Nachweis für Nachfrage oder spätere Einnahmen. Optionaler Zusatz zum Pinterest-Praxispaket. Der vollständige Hauptkurs ist nicht enthalten und bleibt ohne diesen Zusatz nutzbar. Zum Öffnen genügt…
+**Vendor's marketplace description:** <p>Ergänze deine Themenrecherche mit 50 Pinterest-Nischenideen.</p>
+<p>Du erhältst den Nischen-Kompass als PDF-Download. Die Sammlung dient als Ausgangspunkt für deine eigene Auswahl und Prüfung; eine Idee ist kein Nachweis für Nachfrage oder spätere Einnahmen.</p>
+<p>Optionaler Zusatz zum Pinterest-Praxispaket. Der vollständige Hauptkurs ist nicht enthalten und bleibt ohne diesen Zusatz nutzbar. Zum Öffnen genügt ein PDF-Reader.</p>
+<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
+<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
+<p>Affiliate-Information: 40,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/732859?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59383/adminstore/
 - Sales page: https://www.digistore24.com/product/732859
 - Vendor affiliate support: https://einfachmitmatze.de/partner-732859/
 - Canonical redirect: https://www.digistore24.com/redir/732859/adminstore
@@ -72,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 Pinterest-Nischenideen – Nischen-Kompass mit Matze? — Typ: E-books, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

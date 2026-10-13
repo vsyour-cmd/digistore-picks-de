@@ -4,16 +4,16 @@ digistore24_product_id: 20925
 title: "Landingpage-Creator Single Paket"
 vendor: "VersArzt"
 product_type: "Downloads"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.43
+earnings_per_sale: 17.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2014-02-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.dortmund-internetmarketing.de/landingpage-creator/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.dortmund-internetmarketing.de/landingpage-creator/"
@@ -22,16 +22,16 @@ language: "de"
 # Landingpage-Creator Single Paket
 
 > Product ID `2027` · Digistore24 productId `20925` · [HTML profile page](../../produkte/landingpage-creator-single-paket-2027.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Subscription) |
+| Price | $34.76 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.43 |
+| Earnings/sale* | $17.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VersArzt |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Laufende jährlich wiederkehrende Provision!! Der Landingpage-Creator ist eine All-Inklusive Profi-Landingpage Lösung! Vorgefertigte Landingpages können für den Aufbau einer großen Email Liste genutzt werden, für das Bewerben eines Webinars, für den direkten Verkauf eines Produkts, usw. Vorteile für den Käufer: In wenigen Minuten und ohne technische Vorkenntnisse kann eine Profi-Landingpage erstell…
+**Vendor's marketplace description:** <p><strong><span style="background-color:#ffff00;">Laufende jährlich wiederkehrende Provision!! </span></strong></p>
+<p>Der Landingpage-Creator ist eine <strong>All-Inklusive Profi-Landingpage</strong> Lösung!</p>
+<p>Vorgefertigte Landingpages können für den Aufbau einer großen Email Liste genutzt werden, für das Bewerben eines Webinars, für den direkten Verkauf eines Produkts, usw.</p>
+<p><span style="text-decoration:underline;">Vorteile für den Käufer:</span></p>
+<p>In wenigen Minuten und ohne technische Vorkenntnisse kann eine Profi-Landingpage erstellt werden und im Netz zur Leadgenerierung stehen. Im Paket ist die Domain, der Webspace und das Hosting schon drin, also das ideale Paket für den Einsteiger oder Fortgeschrittene, die sich nicht mit der Technik rumschlagen möchten.</p>
+<p>Mit dem Landingpage-Creator ist das Erstellen einer Landingpage kinderleicht.</p>
+<p><span style="background-color:#ffff00;"><strong>Viel besser als z.B. Leadpages</strong></span><br />Der Landingpage Creator ist trotz der Qualität günstiger und die Seite kann ohne Probleme komplett angepasst werden, was bei Leadpages nicht der Fall ist!</p>
+<p><span style="text-decoration:underline;">Zielgruppe:</span></p>
+<p>Der Landingpage-Creator kann für <strong>Affiliate Marketing</strong> genutzt werden. Eine zusätzliche Homepage wird nicht benötigt. Aber auch für Unternehmen um über das Internet <strong>Produkte zu verkaufen</strong> oder <strong>Leads/Interessenten zu gewinnen</strong>.</p>
+<p>&gt;&gt;&gt; Da es keine hohen Anschaffungskosten gibt ist dieses Produkt <strong><span style="color:#ff6600;">ideal</span></strong>, um es <strong><span style="color:#ff6600;">als</span> <span style="color:#ff6600;">Einsteigerprodukt</span> </strong>zu bewerben.</p>
 
 ## 2. Links
 
@@ -105,7 +114,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Landingpage-Creator Single Paket? — Typ: Downloads, Anbieter: VersArzt, gelistet seit 2014-02-06
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

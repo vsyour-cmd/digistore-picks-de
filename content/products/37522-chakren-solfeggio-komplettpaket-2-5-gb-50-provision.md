@@ -7,13 +7,13 @@ product_type: "Downloads"
 price: 0.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 48.2
+earnings_per_sale: 48.09
 cart_conversion_pct: 19
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2017-05-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://silentsubs.com/media/7-chakren-planetare-frequenzen/?aff=adminstore#aff=adminstore"
 sales_page: "https://silentsubs.com/media/7-chakren-planetare-frequenzen/"
@@ -22,7 +22,7 @@ language: "de"
 # Chakren & Solfeggio Komplettpaket (2,5 GB) 50% Provision
 
 > Product ID `37522` · Digistore24 productId `138095` · [HTML profile page](../../produkte/chakren-solfeggio-komplettpaket-2-5-gb-50-provision-37522.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $0.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $48.20 |
+| Earnings/sale* | $48.09 |
 | Cart conversion* | 19% |
 | Cancel rate* | 0% |
 | Vendor | mldesign |
@@ -41,7 +41,53 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** TOP Kein Esoterik-Wischi-Waschi, sondern akustische Resonanz für deine Schaltzentren. 38 Chakra Moods© (je 5 Sound-Varianten), 23 unkomprimierte Rohfrequenzen (Solfeggio & Planeten-Töne) und 21-Tage-Praxis-Guide. 154 € Ticketgröße, 50 % Provision, erprobtes No-BS-Marketing. Die energetische Wirbelsäule der Realität – Schluss mit Räucherstäbchen-Folklore Chakren sind keine mystischen Nebelwolken, s…
+**Vendor's marketplace description:** <div style="background-color:#f7f9f9;">
+<p><span style="background-color:#209fcc;"><strong><span style="color:#ffffff;">  TOP  </span></strong></span></p>
+<p>Kein Esoterik-Wischi-Waschi, sondern akustische Resonanz für deine Schaltzentren. 38 Chakra Moods© (je 5 Sound-Varianten), 23 unkomprimierte Rohfrequenzen (Solfeggio &amp; Planeten-Töne) und 21-Tage-Praxis-Guide. 154 € Ticketgröße, 50 % Provision, erprobtes No-BS-Marketing.</p>
+<hr /><hr />
+<p><strong>Die energetische Wirbelsäule der Realität – Schluss mit Räucherstäbchen-Folklore</strong></p>
+<p>Chakren sind keine mystischen Nebelwolken, sondern die bioenergetischen Schaltzentren des menschlichen Nervensystems. Ist die Leitung zur Wurzel blockiert, fehlt die Power; geht das Herzchakra im Alltagslärm unter, bricht die Resonanz zusammen.</p>
+<p>Das <strong>Chakren Komplettpaket</strong> von <em>Silentsubs.com</em> räumt mit verstaubtem Esoterik-Ballast auf und liefert ein pragmatisches Audio-Werkzeug: Exakte Solfeggio-Stufen (174 Hz bis 963 Hz) und planetarische Tonfolgen nach Hans Cousto, verpackt in hocheffiziente 5-Minuten-Dosen (Chakra Moods©) mit 320 kBit/s High-End-Audioqualität.</p>
+<p><strong>Was der Kunde erhält (2,5 GB Sofort-Download / 154 € Einmalzahlung):</strong></p>
+<ul>
+<li>
+<p><strong>38 Chakra Moods©:</strong> 5-minütige Präzisions-Sessions für alle 7 Hauptzentren (Muladhara bis Sahasrara) – funktioniert über Raum-Lautsprecher ebenso wie über Kopfhörer.</p>
+</li>
+<li>
+<p><strong>5 Audio-Varianten pro Session:</strong> Wählbar zwischen purem Frequenz-Code und atmosphärischen Kulissen (Alpen-Gewitter, Ozeanwellen).</p>
+</li>
+<li>
+<p><strong>BONUS 1: Das E-Book „Chakra-Reise“ (PDF):</strong> 21-Tage-Missionspläne, 4-Phasen-Königsweg und das alltagstaugliche 5-Minuten-Impulsprotokoll.</p>
+</li>
+<li>
+<p><strong>BONUS 2: 23 Roh-Frequenzen:</strong> Nackte Hertz-Werte als unkomprimiertes Quellmaterial für eigene Experimente und freie Klangarbeit.</p>
+</li>
+<li>
+<p><strong>BONUS 3: Das Chakra- &amp; Solfeggio-Kompendium (PDF):</strong> Bioenergetische Schaltmatrix mit Querverweisen zu allen Rohdateien.</p>
+</li>
+<li>
+<p><strong>Sofortige Auslieferung:</strong> 8 strukturierte Zip-Dateien, direkter Download, lebenslanger Zugriff.</p>
+</li>
+</ul>
+<p><strong>Deine Affiliate-Vorteile auf einen Blick:</strong></p>
+<ul>
+<li>
+<p><strong>50 % Lifetime-Provision:</strong> Starker Warenkorbwert (154 €) bringt dir rund 69 € Netto-Gewinn pro vermitteltem Verkauf.</p>
+</li>
+<li>
+<p><strong>Extrem hohe Zielgruppen-Schnittmenge:</strong> Spricht sowohl klassische Meditations- und Schwingungs-Interessierte als auch moderne Biohacker und Pragmatiker an („Physik kümmert sich nicht um deinen Glauben“).</p>
+</li>
+<li>
+<p><strong>Minimalste Stornoquote (&lt; 2 %):</strong> Durch transparente Struktur, klare Positionierung ohne Heilversprechen und sofort spürbaren Mehrwert.</p>
+</li>
+<li>
+<p><strong>Einmalzahlung statt Abo:</strong> Hohe Conversion-Rate durch den Wegfall von monatlichen Hürden.</p>
+</li>
+</ul>
+<p><strong>Ideale Traffic-Quellen &amp; Zielgruppen:</strong></p>
+<p>Chakra-Arbeit &amp; Yoga, Solfeggio-Frequenzen &amp; Klangschalen, Biohacking &amp; Nervensystem-Regulation, Meditation &amp; Achtsamkeit, Stressbewältigung, energetische Selbstoptimierung.</p>
+<p><strong>Jetzt Partnerlink generieren, einbinden und Top-Provisionen in einer stark nachgefragten Frequenz-Nische sichern!</strong></p>
+</div>
 
 ## 2. Links
 
@@ -93,7 +139,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chakren & Solfeggio Komplettpaket (2,5 GB) 50% Provision? — Typ: Downloads, Anbieter: mldesign, gelistet seit 2017-05-14
-- Wie viel kostet es? — 0.45944599999999997 USD
+- Wie viel kostet es? — 0.458421 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

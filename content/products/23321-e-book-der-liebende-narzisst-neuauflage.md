@@ -4,34 +4,34 @@ digistore24_product_id: 201545
 title: "E-Book: \"Der liebende Narzisst\" - Neuauflage"
 vendor: "Morpheus"
 product_type: "Downloads"
-price: 23.5
+price: 23.45
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.4
+earnings_per_sale: 9.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2018-02-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.der-liebende-narzisst.de/de/komplettpaket?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/23321/adminstore/"
 sales_page: "https://www.der-liebende-narzisst.de/de/komplettpaket"
 language: "de"
 ---
 # E-Book: "Der liebende Narzisst" - Neuauflage
 
 > Product ID `23321` · Digistore24 productId `201545` · [HTML profile page](../../produkte/e-book-der-liebende-narzisst-neuauflage-23321.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.50 (Single payment) |
+| Price | $23.45 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Morpheus |
@@ -41,11 +41,59 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Neuauflage: April 2026 Seit 2018 etabliert – jetzt komplett überarbeitet, aktualisiert und erweitert. Dein Weg aus der Anziehung zwischen Hochsensiblen und Narzissten – zurück zu Dir selbst. Du spürst, dass in Deiner Beziehung etwas nicht stimmt.Du kannst Dich nicht wirklich zeigen, hast Angst vor Ablehnung oder Kritik – und trotzdem hält Dich etwas fest. Dieses Buch hilft Dir, diese Dynamik zu ve…
+**Vendor's marketplace description:** <p><span style="text-decoration:underline;"><span style="color:#ff0000;text-decoration:underline;"><strong>Neuauflage: April 2026</strong></span></span></p>
+<p><span style="text-decoration:underline;"><span style="color:#ff0000;text-decoration:underline;"><strong>Seit 2018 etabliert – jetzt komplett überarbeitet, aktualisiert und erweitert.</strong></span></span></p>
+<p><span style="color:#333333;"><strong>Dein Weg aus der Anziehung zwischen Hochsensiblen und Narzissten – zurück zu Dir selbst.</strong></span></p>
+<p>Du spürst, dass in Deiner Beziehung etwas nicht stimmt.<br />Du kannst Dich nicht wirklich zeigen, hast Angst vor Ablehnung oder Kritik – und trotzdem hält Dich etwas fest.</p>
+<p>Dieses Buch hilft Dir, diese Dynamik zu verstehen und eine klare Entscheidung zu treffen.</p>
+<p><strong>Was Dich erwartet:</strong></p>
+<ul>
+<li>
+<p>Grundlagenwissen zu narzisstischen Stilen, Schemata und Beziehungsspielen</p>
+</li>
+<li>
+<p>Klarheit darüber, wie stark die Ausprägung Deines Partners ist</p>
+</li>
+<li>
+<p>Konkrete Strategien für Grenzen, Selbstschutz und Beziehungsgestaltung</p>
+</li>
+<li>
+<p>Orientierung, ob die Beziehung noch Sinn macht</p>
+</li>
+<li>
+<p>Hilfe für eine klare und möglichst kräfteschonende Trennung</p>
+</li>
+<li>
+<p>Verständnis für Deine eigenen Bindungsmuster und dafür, warum Dich solche Beziehungen anziehen</p>
+</li>
+</ul>
+<p><strong>Ein anderer Blick auf Narzissmus</strong></p>
+<p>Jenseits einfacher Opfer-Täter-Klischees geht es um Eigenverantwortung, Selbstachtung und Mitgefühl.</p>
+<p>Nicht jede narzisstische Ausprägung bedeutet automatisch das Ende einer Beziehung. Aber Liebe allein reicht nicht.</p>
+<p>Am Ende geht es darum, klarer zu sehen, bei Dir zu bleiben und den vielleicht radikalsten Weg zu wählen:</p>
+<p><strong>den Weg der Liebe – ohne Dich selbst zu verlieren.</strong></p>
+<p><strong>Das Komplettpaket:</strong></p>
+<ul>
+<li>
+<p>E-Book <em>Der liebende Narzisst</em> – Neuauflage April 2026</p>
+</li>
+<li>
+<p>2 Bonus-Videos</p>
+</li>
+<li>
+<p>10-seitiges Booklet</p>
+</li>
+<li>
+<p>Checkliste mit 20 Fragen</p>
+</li>
+</ul>
+<p>Nach dem Kauf erhältst Du sofort Zugriff auf alle Inhalte als PDF und EPUB.</p>
+<p>----</p>
+<p><strong>Affiliate-Partner erhalten 40 % Provision pro verkauftem Komplettpaket.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.der-liebende-narzisst.de/de/komplettpaket?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/23321/adminstore/
 - Sales page: https://www.der-liebende-narzisst.de/de/komplettpaket
 - Vendor affiliate support: https://www.der-liebende-narzisst.de/de/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/201545/adminstore
@@ -91,7 +139,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: "Der liebende Narzisst" - Neuauflage? — Typ: Downloads, Anbieter: Morpheus, gelistet seit 2018-02-15
-- Wie viel kostet es? — 23.498981999999998 USD
+- Wie viel kostet es? — 23.446557000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

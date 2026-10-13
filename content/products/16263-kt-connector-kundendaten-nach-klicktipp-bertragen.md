@@ -4,34 +4,34 @@ digistore24_product_id: 394588
 title: "KT Connector / Kundendaten nach KlickTipp übertragen"
 vendor: "rabatt"
 product_type: "Remote service provided electronically"
-price: 134.47
+price: 134.17
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 26.89
+earnings_per_sale: 26.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2021-06-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://kt-connector.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/16263/adminstore/"
 sales_page: "https://kt-connector.de"
 language: "de"
 ---
 # KT Connector / Kundendaten nach KlickTipp übertragen
 
 > Product ID `16263` · Digistore24 productId `394588` · [HTML profile page](../../produkte/kt-connector-kundendaten-nach-klicktipp-bertragen-16263.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $134.47 (Subscription) |
+| Price | $134.17 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $26.89 |
+| Earnings/sale* | $26.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rabatt |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der KT Connector verbindet unterschiedliche Kundensysteme, wie z.B. Web-Shops, mit der Email-Marketing-Software KlickTipp. Somit gelangen Ihre Kundendaten automatisiert in KlickTipp und können von Ihnen über KlickTipp interessenbezogen automatisiert betreut werden.
+**Vendor's marketplace description:** <p>Der KT Connector verbindet unterschiedliche Kundensysteme, wie z.B. Web-Shops, mit der Email-Marketing-Software KlickTipp.</p>
+<p>Somit gelangen Ihre Kundendaten automatisiert in KlickTipp und können von Ihnen über KlickTipp interessenbezogen automatisiert betreut werden.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kt-connector.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/16263/adminstore/
 - Sales page: https://kt-connector.de
 - Canonical redirect: https://www.digistore24.com/redir/394588/adminstore
 
@@ -100,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KT Connector / Kundendaten nach KlickTipp übertragen? — Typ: Remote service provided electronically, Anbieter: rabatt, gelistet seit 2021-06-17
-- Wie viel kostet es? — 134.472 USD
+- Wie viel kostet es? — 134.17200000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

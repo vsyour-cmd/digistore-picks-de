@@ -4,16 +4,16 @@ digistore24_product_id: 33459
 title: "Selbstbewusstseins-Direkt-Premium"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 92.38
+price: 92.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.19
+earnings_per_sale: 46.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2014-09-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://erfolg-intuitiv.de/selbstbewusstsein-direkt/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/selbstbewusstsein-direkt/"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstbewusstseins-Direkt-Premium
 
 > Product ID `4969` · Digistore24 productId `33459` · [HTML profile page](../../produkte/selbstbewusstseins-direkt-premium-4969.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $92.38 (Single payment, Installment) |
+| Price | $92.18 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.19 |
+| Earnings/sale* | $46.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg-Intuitiv |
@@ -41,7 +41,44 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Siebenteiliger Video-Kurs zum schnellen und dauerhaften Selbstbewusstseinsaufbau für mehr Erfolg im Berufs- und Privatleben. Dieser Kurs ist ein Konzentrat und verwendet ausschließlich die effektivsten Methoden - Die Essenz! Die Inhalte sind leicht verständlich, und schnell und einfach umzusetzen. Teilnehmer fühlen sich sofort besser und erzielen bereits nach kurzer Zeit die ersten Erfolge. Zum Vi…
+**Vendor's marketplace description:** <div>
+<div>Siebenteiliger Video-Kurs zum schnellen und dauerhaften Selbstbewusstseinsaufbau für mehr Erfolg im Berufs- und Privatleben. Dieser Kurs ist ein Konzentrat und verwendet ausschließlich die effektivsten Methoden - Die Essenz! Die Inhalte sind leicht verständlich, und schnell und einfach umzusetzen. Teilnehmer fühlen sich sofort besser und erzielen bereits nach kurzer Zeit die ersten Erfolge.</div>
+<div> </div>
+<div><strong>Zum Videokurs erhält der Käufer noch drei Boni</strong></div>
+<ul>
+<li>Bonus 1 - Erfolgslisten-Management und</li>
+<li>Bonus 2 - Freiheit durch Ballastabwurf</li>
+<li>Bonus 3 - Selbstbewusster durch Atemtechnik und Meditation</li>
+</ul>
+<strong>Direktverkauf:</strong>
+<ol>
+<li>
+<h4>Verkaufsseite mit Video-Trailer:</h4>
+<p><strong>https://www.digistore24.com/redir/33459/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
+</li>
+<li>
+<p><strong>Webinar-Einladeseite:</strong></p>
+<p><strong>https://www.digistore24.com/content/33459/7927/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
+</li>
+<li>
+<p><strong>Webinar-Replay:</strong></p>
+<p><strong>https://www.digistore24.com/content/33459/9643/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
+</li>
+</ol>
+<strong><span style="background-color:#ffff00;">Vertrauensaufbauender Gratis-Content dazu:</span><br /><span style="background-color:#ffff00;">(Verkauf über Funnel):</span><br /></strong>
+<ol>
+<li><strong>Selbstbewusstsein-Checkliste (gratis) + 7€ Upsell auf Videotraining:<br /></strong><br /><strong>https://www.digistore24.com/content/306632/35262/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></li>
+</ol>
+<p><strong>&gt;&gt; </strong>Bei Eitragung durchläuft der Interessent einen Funnel mit wertvollen Tipps - Das steigert die Kaufrate im folgenden Webinar - Zudem erhält der Interessent noch weiter Angebote</p>
+<p><span style="background-color:#ffff00;"><strong>&gt;&gt; Folgeprovisionen bei weiteren Käufen</strong></span></p>
+</div>
+<p>Vorteile, wenn Sie "Selbstbewusstsein-Direkt" bewerben</p>
+<ul>
+<li>Mehrere Verkaufsprozesse verfügbar</li>
+<li>Vorgefertigte Werbe-E-Mails (Getestet)</li>
+<li>Professionelles Banner-Set (JEPG und Gif-animiert)</li>
+</ul>
+<p><strong>Bei Fragen: <span style="background-color:#ffff00;">info@erfolg-intuitiv.de</span></strong></p>
 
 ## 2. Links
 
@@ -95,7 +132,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstbewusstseins-Direkt-Premium? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2014-09-24
-- Wie viel kostet es? — 92.382264 USD
+- Wie viel kostet es? — 92.176164 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

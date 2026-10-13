@@ -4,34 +4,34 @@ digistore24_product_id: 254355
 title: "3D-Druck Profi-Wissen Softcover Buch"
 vendor: "Johannes-Lutz"
 product_type: "Book (printed)"
-price: 40.79
+price: 40.7
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 6.12
+earnings_per_sale: 6.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2018-12-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.buch.3ddruck-wissen.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/28057/adminstore/"
 sales_page: "https://www.buch.3ddruck-wissen.de/"
 language: "de"
 ---
 # 3D-Druck Profi-Wissen Softcover Buch
 
 > Product ID `28057` · Digistore24 productId `254355` · [HTML profile page](../../produkte/3d-druck-profi-wissen-softcover-buch-28057.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $40.79 (Single payment) |
+| Price | $40.70 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $6.12 |
+| Earnings/sale* | $6.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Johannes-Lutz |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehlen Sie das einzigartige 3D-Druck Profi-Wissen Softcover Buch. Verfasst von B.Eng. Johannes Lutz und Prof. Dr. Matthias Haag. Ihre Vorteile: Das einzigste Buch zum Thema 3D-Druck auf Digistore24 Provision für den Verkauf des Buches Die Verkaufswebsite wird ständig durch Splittests optimiert Provision für den anschließenden Upsell (Video Online Kurs) Bitte schreiben Sie mich an, wenn Sie das …
+**Vendor's marketplace description:** <p>Empfehlen Sie das einzigartige 3D-Druck Profi-Wissen Softcover Buch. Verfasst von B.Eng. Johannes Lutz und Prof. Dr. Matthias Haag.</p>
+<p>Ihre Vorteile:</p>
+<ul><li>Das einzigste Buch zum Thema 3D-Druck auf Digistore24</li>
+<li>Provision für den Verkauf des Buches</li>
+<li>Die Verkaufswebsite wird ständig durch Splittests optimiert</li>
+<li>Provision für den anschließenden Upsell (Video Online Kurs)</li>
+</ul><div>Bitte schreiben Sie mich an, wenn Sie das Buch bewerben wollen. Ich stelle gerne Verkaufstexte und Bilder zur Verfügung.</div>
+<div> </div>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.buch.3ddruck-wissen.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/28057/adminstore/
 - Sales page: https://www.buch.3ddruck-wissen.de/
 - Canonical redirect: https://www.digistore24.com/redir/254355/adminstore
 
@@ -58,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 3D-Druck Profi-Wissen Softcover Buch? — Typ: Book (printed), Anbieter: Johannes-Lutz, gelistet seit 2018-12-30
-- Wie viel kostet es? — 40.78984 USD
+- Wie viel kostet es? — 40.698840000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

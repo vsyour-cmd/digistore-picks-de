@@ -4,34 +4,34 @@ digistore24_product_id: 62339
 title: "Trainingspläne Schwimmen"
 vendor: "jschueren"
 product_type: "Downloads"
-price: 110.75
+price: 110.5
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 22.15
+earnings_per_sale: 22.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2015-11-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/62339/adminstore"
+promo_link: "https://www.digistore24.com/redir/26039/adminstore/"
 sales_page: "https://www.xn--kraulkraftverstrker-uwb.de/trainingsplaene-kraulschwimmen/#kraul={AFFILIATE}"
 language: "de"
 ---
 # Trainingspläne Schwimmen
 
 > Product ID `26039` · Digistore24 productId `62339` · [HTML profile page](../../produkte/trainingspl-ne-schwimmen-26039.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $110.75 (Single payment, Installment) |
+| Price | $110.50 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $22.15 |
+| Earnings/sale* | $22.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jschueren |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 40 aufeinander aufbauende Trainingspläne Über den Online-Kurs und die Schwimmstil-Video-Analyse hinaus erhalten Schwimmer ein Konstrukt von 40 aufeinander aufbauenden Trainingsplänen für unterschiedliche Leistungsstufen mit dem Schwerpunkt Kraulschwimmen. Sieh dir dazu dieses Video an, in dem ich dir erkläre, wie das im Detail funktioniert. Den ersten Trainingsplan zum Kennenlernen sowie eine ausf…
+**Vendor's marketplace description:** <div><strong>40 aufeinander aufbauende Trainingspläne</strong>
+<div>
+<div>
+<div>
+<p>Über den <a href="https://www.xn--kraulkraftverstrker-uwb.de/10-technik-fehler-kraulschwimmen/" target="_blank" rel="noreferrer noopener">Online-Kurs</a> und die <a href="https://www.xn--kraulkraftverstrker-uwb.de/video-stil-analyse-schwimmen" target="_blank" rel="noreferrer noopener">Schwimmstil-Video-Analyse</a> hinaus erhalten Schwimmer ein Konstrukt von 40 aufeinander aufbauenden Trainingsplänen für unterschiedliche Leistungsstufen mit dem Schwerpunkt Kraulschwimmen.</p>
+<p>Sieh dir dazu <a href="https://www.xn--kraulkraftverstrker-uwb.de/trainingsplaene-kraulschwimmen/" target="_blank" rel="noreferrer noopener">dieses Video</a> an, in dem ich dir erkläre, wie das im Detail funktioniert.</p>
+<p>Den ersten Trainingsplan zum Kennenlernen sowie eine ausführliche Erklärung zum Aufbau erhältst du <strong>für nur 1,- Euro</strong>. Die weiteren 39 Pläne folgen nach 1 Woche in <strong>3 Abschnitten zu je 13 aufeinander aufbauenden Plänen</strong> im Abstand von je 2 Monaten für 2,99 € pro Trainingsplan.</p>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/62339/adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/26039/adminstore/
 - Sales page: https://www.xn--kraulkraftverstrker-uwb.de/trainingsplaene-kraulschwimmen/#kraul={AFFILIATE}
 - Vendor affiliate support: https://www.xn--kraulkraftverstrker-uwb.de/affiliate-partner/
 - Canonical redirect: https://www.digistore24.com/redir/62339/adminstore
@@ -87,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trainingspläne Schwimmen? — Typ: Downloads, Anbieter: jschueren, gelistet seit 2015-11-04
-- Wie viel kostet es? — 110.748898 USD
+- Wie viel kostet es? — 110.501823 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

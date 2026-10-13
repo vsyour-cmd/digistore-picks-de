@@ -4,16 +4,16 @@ digistore24_product_id: 60947
 title: "Loslassen-Lebensenergie-Formel"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 24.77
+price: 24.71
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 50.63
+earnings_per_sale: 50.52
 cart_conversion_pct: 18
 cancel_rate_pct: 4.58
 categories: ["Personal Development"]
 listed_since: "2015-10-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/energie-webinar/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/energie-webinar/"
@@ -22,16 +22,16 @@ language: "de"
 # Loslassen-Lebensenergie-Formel
 
 > Product ID `9167` · Digistore24 productId `60947` · [HTML profile page](../../produkte/loslassen-lebensenergie-formel-9167.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $24.77 (Single payment, Installment) |
+| Price | $24.71 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $50.63 |
+| Earnings/sale* | $50.52 |
 | Cart conversion* | 18% |
 | Cancel rate* | 4.58% |
 | Vendor | Erfolg-Intuitiv |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 7 Schlüssel zur maximalen Energie! Online-Video-Coaching, das sofort verfügbar und sofort umsetzbar ist. 7 Module mit gezielten Aufgaben, Übungen und Checklisten. Die Qualität Ihrer Energie bestimmt die Qualität Ihres gesamten Lebens! Starke Methoden und Techniken heben den Energie-Level schon nach kurzer Zeit massiv an, wodurch sich Erfolge in allen Lebensbereichen erschließen. Webinar-Einladesei…
+**Vendor's marketplace description:** <h2><span style="color:#ff6600;"><strong>7 Schlüssel zur maximalen Energie!</strong></span></h2>
+<p>Online-Video-Coaching, das sofort verfügbar und sofort umsetzbar ist. 7 Module mit gezielten Aufgaben, Übungen und Checklisten.</p>
+<p><strong>Die Qualität Ihrer Energie bestimmt die Qualität Ihres gesamten Lebens!</strong></p>
+<p>Starke Methoden und Techniken heben den Energie-Level schon nach kurzer Zeit massiv an, wodurch sich Erfolge in allen Lebensbereichen erschließen.</p>
+<h4>Webinar-Einladeseite:</h4>
+<p><strong>https://www.digistore24.com/content/60947/7929/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
+<h4>Webinar-Replay:</h4>
+<p><strong>https://www.digistore24.com/content/60947/9639/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
+<p><span style="background-color:#ffff00;"><strong>&gt;&gt; Folgeprovisionen bei weiteren Käufen</strong></span></p>
+<p><strong>Verkauf über tägliches Webeniar.</strong></p>
+<p><strong>Kann jederzeit beworben werden.</strong></p>
+<p><strong>Bei Fragen: <span style="background-color:#ffff00;">info@erfolg-intuitiv.de</span></strong></p>
 
 ## 2. Links
 
@@ -87,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Loslassen-Lebensenergie-Formel? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2015-10-14
-- Wie viel kostet es? — 24.76526 USD
+- Wie viel kostet es? — 24.710010000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

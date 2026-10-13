@@ -4,16 +4,16 @@ digistore24_product_id: 665412
 title: "CleanseSana: The Gut \"Reboot\""
 vendor: "DS24-MySana"
 product_type: "Supplements - health"
-price: 158.62
+price: 158.27
 currency: "USD"
-affiliate_commission_pct: 60
-earnings_per_sale: 106.76
+affiliate_commission_pct: 65
+earnings_per_sale: 106.52
 cart_conversion_pct: 19
 cancel_rate_pct: 5.15
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-01-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://cleansesana.com/cleansesana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://cleansesana.com/cleansesana-pdp-fe"
@@ -22,16 +22,16 @@ language: "de"
 # CleanseSana: The Gut "Reboot"
 
 > Product ID `55600` · Digistore24 productId `665412` · [HTML profile page](../../produkte/cleansesana-the-gut-reboot-55600.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $158.62 (Single payment) |
-| Affiliate commission | 60% |
-| Earnings/sale* | $106.76 |
+| Price | $158.27 (Single payment) |
+| Affiliate commission | 65% |
+| Earnings/sale* | $106.52 |
 | Cart conversion* | 19% |
 | Cancel rate* | 5.15% |
 | Vendor | DS24-MySana |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** CleanseSana: The Cellular "Gut Reboot" That Will Dominate the DACH Market While US affiliates battle it out over pennies, you can print money targeting 110 million affluent German speakers in DACH (Germany, Austria, Switzerland) with the ONLY offer solving "Toxic Backup Syndrome." CleanseSana isn't another sketchy detox—it's a Stanford-backed, doctor-formulated system that removes the cellular "to…
+**Vendor's marketplace description:** <h2>CleanseSana: The Cellular "Gut Reboot" That Will Dominate the DACH Market</h2>
+<p>While US affiliates battle it out over pennies, you can print money targeting 110 million affluent German speakers in DACH (Germany, Austria, Switzerland) with the ONLY offer solving "Toxic Backup Syndrome." CleanseSana isn't another sketchy detox—it's a Stanford-backed, doctor-formulated system that removes the cellular "toxic sludge" blocking digestion, immunity, and fat loss. Same proven team behind GlucoTrust + SlimSana + MetaboSana + KetoSana. 60% commissions through the ENTIRE funnel, CPA available (€130-€150), deep funnel = fat AOV. DACH traffic is 40-60% CHEAPER than US with buyers who spend MORE. Fresh mechanism, less competition, science-backed credibility that makes skeptical Europeans buy. Stack it with SlimSana/GlucoTrust/MetaboSana for insane upsells. 60-day guarantee = low refunds, high conversions. Grab your link and get in NOW before saturation hits.</p>
 
 ## 2. Links
 
@@ -105,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CleanseSana: The Gut "Reboot"? — Typ: Supplements - health, Anbieter: DS24-MySana, gelistet seit 2026-01-30
-- Wie viel kostet es? — 158.62093000000002 USD
+- Wie viel kostet es? — 158.26705500000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

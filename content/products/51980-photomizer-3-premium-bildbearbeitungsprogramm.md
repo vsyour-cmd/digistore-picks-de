@@ -4,16 +4,16 @@ digistore24_product_id: 518666
 title: "Photomizer 3 Premium - Bildbearbeitungsprogramm"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 37.66
+price: 37.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.84
+earnings_per_sale: 18.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film","Social Media","Software"]
 listed_since: "2023-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/518666?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/518666"
@@ -22,16 +22,16 @@ language: "de"
 # Photomizer 3 Premium - Bildbearbeitungsprogramm
 
 > Product ID `51980` · Digistore24 productId `518666` · [HTML profile page](../../produkte/photomizer-3-premium-bildbearbeitungsprogramm-51980.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $37.66 (Single payment) |
+| Price | $37.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.84 |
+| Earnings/sale* | $18.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Photomizer 3 Premium Digitale Fotos optimieren und reparieren! Ganz einfach bessere Fotos - automatisch am eigenen PC. Vollautomatische Farbanpassung, inkl. Objekterkennung, Neuverteilung der Tonwerte, Weiß-Abgleich, Einstellen des Farbtons, Sättigung, Kontrastoptimierung und Hell/Dunkel-Korrektur. Neben JPG, BMP und TIFF werden auch sehr viele RAW-Formate unterstützt: raw, crw, orf, 3fr, nef, raf…
+**Vendor's marketplace description:** <p><strong>Photomizer 3 Premium</strong></p>
+<p>Digitale Fotos optimieren und reparieren! Ganz einfach bessere Fotos - automatisch am eigenen PC.</p>
+<p>Vollautomatische Farbanpassung, inkl. Objekterkennung, Neuverteilung der Tonwerte, Weiß-Abgleich, Einstellen des Farbtons, Sättigung, Kontrastoptimierung und Hell/Dunkel-Korrektur. Neben JPG, BMP und TIFF werden auch sehr viele RAW-Formate unterstützt: raw, crw, orf, 3fr, nef, raf, mrw, nrw, dng, cr2, arw, x3f, rw2</p>
+<p>Kompatibel mit Windows 7/8/10 (jeweils 32- und 64-Bit) und Windows 11.</p>
 
 ## 2. Links
 
@@ -83,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Photomizer 3 Premium - Bildbearbeitungsprogramm? — Typ: Software, Anbieter: engelmann-software, gelistet seit 2023-09-29
-- Wie viel kostet es? — 37.663366 USD
+- Wie viel kostet es? — 37.579341 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

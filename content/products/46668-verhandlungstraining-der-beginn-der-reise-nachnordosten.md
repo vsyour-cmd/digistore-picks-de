@@ -4,16 +4,16 @@ digistore24_product_id: 529562
 title: "Verhandlungstraining - Der Beginn der Reise nachnordosten"
 vendor: "nachnordosten"
 product_type: "Seminar for business customers"
-price: 1223.25
+price: 1220.52
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 244.65
+earnings_per_sale: 244.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Personal Development"]
 listed_since: "2023-12-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://nachnordosten.de/beginn-der-reise/?aff=adminstore#aff=adminstore"
 sales_page: "https://nachnordosten.de/beginn-der-reise/"
@@ -22,16 +22,16 @@ language: "de"
 # Verhandlungstraining - Der Beginn der Reise nachnordosten
 
 > Product ID `46668` · Digistore24 productId `529562` · [HTML profile page](../../produkte/verhandlungstraining-der-beginn-der-reise-nachnordosten-46668.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar for business customers |
-| Price | $1223.25 (Single payment) |
+| Price | $1220.52 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $244.65 |
+| Earnings/sale* | $244.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nachnordosten |
@@ -41,7 +41,68 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Professionell verhandeln lernen in unserem interaktiven Verhandlungstraining in Nürnberg. Wir zeigen Ihnen, wie Sie: Messbar bessere Verhandlungsergebnisse erzielen. Komplexe Verhandlungen souverän und stressfrei meistern. Ihre Ziele in Verhandlungen OHNE Beziehungsbelastung durchsetzen. Ihrem Gegenüber gezielt die richtigen Fragen stellen. Ihr neu erlerntes Wissen sofort gewinnbringend einsetzen …
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<p>Professionell verhandeln lernen in unserem<strong> interaktiven Verhandlungstraining</strong> in Nürnberg. Wir zeigen Ihnen, wie Sie:</p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<ul>
+<li>Messbar bessere Verhandlungsergebnisse erzielen.</li>
+<li>Komplexe Verhandlungen souverän und stressfrei meistern.</li>
+<li>Ihre Ziele in Verhandlungen OHNE Beziehungsbelastung durchsetzen.</li>
+<li>Ihrem Gegenüber gezielt die richtigen Fragen stellen.</li>
+<li>Ihr neu erlerntes Wissen sofort gewinnbringend einsetzen</li>
+</ul>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h4>Mehrwerte für Sie</h4>
+</div>
+</div>
+<div>
+<div>
+<ul>
+<li>Sie erfahren, wie gut Sie wirklich verhandeln</li>
+<li>Sie lernen die Grunddynamiken des Verhandelns kennen</li>
+<li>Sie verbessern Ihre Verhandlungsergebnisse (direkter ROI)</li>
+<li>Sie lernen, wie Sie wichtige Informationen vom Verhandlungspartner gewinnen</li>
+<li>Sie erweitern Ihr Netzwerk und verhandeln live mit anderen Teilnehmern.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h4>Leistungen von uns</h4>
+</div>
+</div>
+<div>
+<div>
+<ul>
+<li>Ganztägiger Workshop (09:00-17:00) in Nürnberg</li>
+<li>3 interaktive Simulationen zur Messung der Verhandlungsperformance</li>
+<li>Assessment zur individuellen Verhandlungsperformance</li>
+<li>Exklusive Publikation „Der Beginn der Reise“</li>
+<li>Elegantes Zertifikat</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -88,7 +149,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verhandlungstraining - Der Beginn der Reise nachnordosten? — Typ: Seminar for business customers, Anbieter: nachnordosten, gelistet seit 2023-12-13
-- Wie viel kostet es? — 1223.24696 USD
+- Wie viel kostet es? — 1220.51796 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

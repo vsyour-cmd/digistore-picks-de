@@ -4,34 +4,34 @@ digistore24_product_id: 585772
 title: "Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern"
 vendor: "ChristofArnold"
 product_type: "Member area and video courses"
-price: 347.48
+price: 346.7
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 166.97
+earnings_per_sale: 166.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Photography & Film"]
 listed_since: "2024-12-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://christofarnold.com/fotografie-grundkurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50875/adminstore/"
 sales_page: "https://christofarnold.com/fotografie-grundkurs/"
 language: "de"
 ---
 # Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern
 
 > Product ID `50875` · Digistore24 productId `585772` · [HTML profile page](../../produkte/fotografie-grundkurs-in-7-wochen-zu-deinen-traum-bildern-50875.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $347.48 (Single payment) |
+| Price | $346.70 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $166.97 |
+| Earnings/sale* | $166.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ChristofArnold |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Unser Fotografie-Grundkurs ist ein 7-wöchiger Online-Kurs und zeigt dir, wie du umwerfend schöne Bilder machst. Egal, welche Kamera du hast. Ideal für Anfänger und Hobbyfotografen, die sicherer und kreativer mit ihrer Kamera arbeiten wollen. Der Kurs deckt ein breites Spektrum ab. Vom sicheren Beherrschen der eigenen Kamera über Blitztechniken, Bildgestaltung, Umgang mir der Person vor der Kamera …
+**Vendor's marketplace description:** <p>Unser Fotografie-Grundkurs ist ein 7-wöchiger Online-Kurs und zeigt dir, wie du umwerfend schöne Bilder machst. Egal, welche Kamera du hast. Ideal für Anfänger und Hobbyfotografen, die sicherer und kreativer mit ihrer Kamera arbeiten wollen. Der Kurs deckt ein breites Spektrum ab. Vom sicheren Beherrschen der eigenen Kamera über Blitztechniken, Bildgestaltung, Umgang mir der Person vor der Kamera bis hin zu Bildbearbeitung in Lightroom und Photoshop und vieles mehr. Lehrreich, unterhaltsam und charmant führt Christof Arnold durch die über 30 Video-Lektionen, auf die jeder Kurs-Teilnehmer zeitlich unbegrenzt Zugriff bekommt. Sehr beliebt ist die im Preis inbegriffene App, mit der man von überall aus mit dem Handy auf die Inhalte zugreifen kann.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://christofarnold.com/fotografie-grundkurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50875/adminstore/
 - Sales page: https://christofarnold.com/fotografie-grundkurs/
 - Vendor affiliate support: https://christofarnold.com/affiliate-partner/
 - Canonical redirect: https://www.digistore24.com/redir/585772/adminstore
@@ -93,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern? — Typ: Member area and video courses, Anbieter: ChristofArnold, gelistet seit 2024-12-13
-- Wie viel kostet es? — 347.475648 USD
+- Wie viel kostet es? — 346.700448 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

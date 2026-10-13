@@ -4,34 +4,34 @@ digistore24_product_id: 634063
 title: "30-Tage Keto-Plan für Einsteiger – 60% Provision"
 vendor: "Hei-Mel"
 product_type: "E-books"
-price: 10.42
+price: 10.4
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.25
+earnings_per_sale: 6.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2025-09-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://marilia.de/ratgeber/ebook-30-tage-keto-plan-fuer-einsteiger/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53939/adminstore/"
 sales_page: "https://marilia.de/ratgeber/ebook-30-tage-keto-plan-fuer-einsteiger/"
 language: "de"
 ---
 # 30-Tage Keto-Plan für Einsteiger – 60% Provision
 
 > Product ID `53939` · Digistore24 productId `634063` · [HTML profile page](../../produkte/30-tage-keto-plan-f-r-einsteiger-60-provision-53939.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.42 (Single payment) |
+| Price | $10.40 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.25 |
+| Earnings/sale* | $6.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hei-Mel |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verdiene 60 % Provision mit unserem 30-Tage Keto-Plan für Einsteiger! Das E-Book bietet einen klar strukturierten Ernährungsplan, leckere Keto-Rezepte und leicht verständliche Grundlagen – perfekt für alle, die gesund abnehmen wollen. Hohe Nachfrage, starke Conversion-Rate und fertiges Werbematerial (Banner, Texte, Mockups) inklusive. Starte jetzt als Affiliate und sichere dir deine Provision!
+**Vendor's marketplace description:** <p>Verdiene 60 % Provision mit unserem 30-Tage Keto-Plan für Einsteiger!</p>
+<p>Das E-Book bietet einen klar strukturierten Ernährungsplan, leckere Keto-Rezepte und leicht verständliche Grundlagen – perfekt für alle, die gesund abnehmen wollen.</p>
+<p>Hohe Nachfrage, starke Conversion-Rate und fertiges Werbematerial (Banner, Texte, Mockups) inklusive.</p>
+<p>Starte jetzt als Affiliate und sichere dir deine Provision!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://marilia.de/ratgeber/ebook-30-tage-keto-plan-fuer-einsteiger/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53939/adminstore/
 - Sales page: https://marilia.de/ratgeber/ebook-30-tage-keto-plan-fuer-einsteiger/
 - Vendor affiliate support: https://marilia.de/30-tage-keto-plan/
 - Canonical redirect: https://www.digistore24.com/redir/634063/adminstore
@@ -78,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30-Tage Keto-Plan für Einsteiger – 60% Provision? — Typ: E-books, Anbieter: Hei-Mel, gelistet seit 2025-09-05
-- Wie viel kostet es? — 10.42158 USD
+- Wie viel kostet es? — 10.398330000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

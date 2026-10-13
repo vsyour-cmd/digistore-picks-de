@@ -4,16 +4,16 @@ digistore24_product_id: 666177
 title: "RESET 100 Tage zurück zu innerer Stärke"
 vendor: "Niux489"
 product_type: "Downloads"
-price: 47.08
+price: 46.97
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.83
+earnings_per_sale: 18.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-02-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/666177?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/666177"
@@ -22,16 +22,16 @@ language: "de"
 # RESET 100 Tage zurück zu innerer Stärke
 
 > Product ID `55466` · Digistore24 productId `666177` · [HTML profile page](../../produkte/reset-100-tage-zur-ck-zu-innerer-st-rke-55466.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $47.08 (Single payment) |
+| Price | $46.97 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.83 |
+| Earnings/sale* | $18.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Niux489 |
@@ -41,7 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** RESET 100 – Produktübersicht für Affiliates RESET 100 ist ein digitales 100-Tage-Selbstführungsprogramm zur Unterstützung von Menschen, die mehr Struktur, Klarheit und bewusste Alltagsroutinen entwickeln möchten. Das Programm bietet eine klare Schritt-für-Schritt-Struktur über 100 Tage und richtet sich an Personen, die ihre Gewohnheiten reflektieren, ihren Alltag ordnen und ihre Selbstorganisation…
+**Vendor's marketplace description:** <h2> RESET 100 – Produktübersicht für Affiliates</h2>
+<p><strong>RESET 100</strong> ist ein digitales 100-Tage-Selbstführungsprogramm zur Unterstützung von Menschen, die mehr Struktur, Klarheit und bewusste Alltagsroutinen entwickeln möchten.</p>
+<p>Das Programm bietet eine klare Schritt-für-Schritt-Struktur über 100 Tage und richtet sich an Personen, die ihre Gewohnheiten reflektieren, ihren Alltag ordnen und ihre Selbstorganisation verbessern wollen.<br />Die Inhalte sind ruhig aufgebaut, leicht umsetzbar und auf Alltagstauglichkeit ausgelegt.</p>
+<hr />
+<h2> Leistungsumfang für Käufer</h2>
+<p>Käufer erhalten ein digitales Begleitprogramm bestehend aus:</p>
+<p>• <strong>4 aufeinander aufbauenden Phasen</strong> (Tag 1–100)<br />• <strong>15 Wochenmodule</strong> als strukturierender Leitfaden<br />• <strong>18 Audio-Sessions</strong> (17 Haupt-Audios + 1 Bonus-Audio)<br />• <strong>24 begleitende PDFs</strong>, darunter:<br />– Start-Dokumente<br />– Wochen-PDFs<br />– Phasen-PDFs<br />– Abschluss-PDF<br />– Bonus-PDF „Notfallplan für herausfordernde Tage“</p>
+<p>Alle Inhalte sind klar gegliedert und so konzipiert, dass sie schrittweise im Alltag angewendet werden können.</p>
+<hr />
+<h2> Die 4 Programm-Phasen</h2>
+<p><strong>Phase 1 (Tag 1–25) – Stabilität im Alltag</strong><br />Fokus auf erste Routinen, bewusste Selbstbeobachtung und Reduktion von Alltagsüberforderung.</p>
+<p><strong>Phase 2 (Tag 26–50) – Struktur &amp; Selbstorganisation</strong><br />Aufbau fester Tagesstrukturen, bewusster Umgang mit Ablenkungen und Stärkung der eigenen Verlässlichkeit.</p>
+<p><strong>Phase 3 (Tag 51–75) – Selbstbild &amp; persönliche Entwicklung</strong><br />Reflexion des eigenen Auftretens, Gewohnheiten und Umfelds sowie Arbeit an langfristigen Verhaltensmustern.</p>
+<p><strong>Phase 4 (Tag 76–100) – Zukunftsorientierte Routinen</strong><br />Festigung neuer Standards, nachhaltige Alltagsroutinen und Abschluss der 100-Tage-Strukturphase.</p>
+<hr />
+<h2> Bonus-Inhalte</h2>
+<p>Zusätzlich enthalten:</p>
+<p>• <strong>Bonus-Audio:</strong> „Wenn du kurz davor bist aufzugeben“<br />• <strong>Bonus-PDF:</strong> „Notfallplan für herausfordernde Tage“</p>
+<p>Diese Inhalte dienen als zusätzliche Orientierungshilfe in schwierigen Momenten.</p>
+<hr />
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -90,7 +111,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist RESET 100 Tage zurück zu innerer Stärke? — Typ: Downloads, Anbieter: Niux489, gelistet seit 2026-02-03
-- Wie viel kostet es? — 47.076406 USD
+- Wie viel kostet es? — 46.971381 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

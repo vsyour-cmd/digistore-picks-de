@@ -4,16 +4,16 @@ digistore24_product_id: 211195
 title: "Magnetmotor selber bauen Komplettpaket 2026 - 275€ Provision"
 vendor: "deinwissen"
 product_type: "Member area and video courses"
-price: 35.32
+price: 35.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.93
+earnings_per_sale: 13.9
 cart_conversion_pct: 3
 cancel_rate_pct: 7.97
 categories: ["Green Products & Environmental Protection","Hobby & Craft","Home & Garden"]
 listed_since: "2018-03-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.magnet-motor4u.de/12-tage?aff=adminstore#aff=adminstore"
 sales_page: "https://www.magnet-motor4u.de/12-tage"
@@ -22,16 +22,16 @@ language: "de"
 # Magnetmotor selber bauen Komplettpaket 2026 - 275€ Provision
 
 > Product ID `28344` · Digistore24 productId `211195` · [HTML profile page](../../produkte/magnetmotor-selber-bauen-komplettpaket-2026-275-provision-28344.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.32 (Single payment) |
+| Price | $35.24 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.93 |
+| Earnings/sale* | $13.90 |
 | Cart conversion* | 3% |
 | Cancel rate* | 7.97% |
 | Vendor | deinwissen |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ⭐Dermagnetmotor.com⭐ Dermagnetmotor.com als Komplettpaket in verbesserter Version. in Empfehlen Sie das größte und einzigartige Magnetmotor Komplettpaket in der neuesten Ausgabe 2026 für E-Mail-Marketing, Facebook, Telegram und Marketing-Automatisierung mit geringer Stornorate! Unsere Affiliate Partnerseite: Klicke jetzt unten auf den Button um zu den Werbemittel zu gelangen! Ihre Vorteile: Bis zu…
+**Vendor's marketplace description:** <div>
+<h2><strong>⭐Dermagnetmotor.com⭐</strong></h2>
+<p>Dermagnetmotor.com als Komplettpaket in verbesserter Version. in Empfehlen Sie das größte und einzigartige Magnetmotor Komplettpaket in der neuesten Ausgabe 2026 für E-Mail-Marketing, Facebook, Telegram und Marketing-Automatisierung mit geringer Stornorate!</p>
+<p><strong>Unsere Affiliate Partnerseite: <em>Klicke jetzt unten auf den Button um zu den Werbemittel zu gelangen!</em><a href="https://bit.ly/3IDY1Me"><img src="https://www.digistore24-app.com/pb/img/merchant_831468/image/orderform_image/BR1WKQDS.png" alt="" width="203" height="59" /></a></strong></p>
+<p>Ihre Vorteile:</p>
+<ul>
+<li><strong><span style="background-color:#ffff00;">Bis zu 275 Euro Netto pro Verkauf</span> mit Up und Downsells <span style="background-color:#ffff00;">+ 200 Euro geschenkt</span> (Siehe Partnerseite)!</strong></li>
+<li><span style="text-decoration:underline;">Auch bestens geeignet für Telegram Kanäle, Telegram Gruppen und auf eigenen Blog</span></li>
+<li>Mit dabei die aktuellsten Schritt für Schritt Bauanleitungen als Komplettpaket dank unserer neuen 3D Technik!</li>
+<li>Großer neuer Mitgliederbereich wo der Kunde noch 8 weitere Produkte und hochwertige 3D Modelle von den bekanntesten Magnetmotoren kaufen kann und du davon profitierst!</li>
+<li>Für die 3D Modelle gibt es nochmal extra 48 Euro Netto Verdienst für dich!</li>
+<li>Für den Videokurs nochmal extra 98 Euro Netto Verdienst für dich!</li>
+<li>Unsere <strong>Verkaufsseiten werden konstant gesplittestet und optimiert,</strong> um Euch <strong>das meiste Geld für Euren Traffic</strong> zu garantieren.</li>
+<li>Geringe Stornoquote</li>
+</ul>
+</div>
 
 ## 2. Links
 
@@ -67,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Magnetmotor selber bauen Komplettpaket 2026 - 275€ Provision? — Typ: Member area and video courses, Anbieter: deinwissen, gelistet seit 2018-03-28
-- Wie viel kostet es? — 35.321312 USD
+- Wie viel kostet es? — 35.242512000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

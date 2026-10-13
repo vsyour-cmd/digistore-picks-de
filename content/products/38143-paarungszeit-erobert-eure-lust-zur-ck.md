@@ -4,34 +4,34 @@ digistore24_product_id: 280180
 title: "Paarungszeit - Erobert Eure Lust zurück!"
 vendor: "Kama44"
 product_type: "Downloads"
-price: 148.78
+price: 148.45
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 74.4
+earnings_per_sale: 74.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2019-07-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.die-sexualitaet.de/paarungszeit-replay?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/38143/adminstore/"
 sales_page: "https://www.die-sexualitaet.de/paarungszeit-replay"
 language: "de"
 ---
 # Paarungszeit - Erobert Eure Lust zurück!
 
 > Product ID `38143` · Digistore24 productId `280180` · [HTML profile page](../../produkte/paarungszeit-erobert-eure-lust-zur-ck-38143.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $148.78 (Single payment, Installment) |
+| Price | $148.45 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $74.40 |
+| Earnings/sale* | $74.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Kama44 |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieser 6 Wochen Kurs ist für Paare, welche Ihr Liebesleben wieder in Schwung bringen wollen und ihr Sex nachhaltig und anhaltend verbessern möchten. Der Kurs wurde von der Sexualpädagogin Anja Drews speziell entwickelt, um die Kunden mit Charm und Wissen an Ihr Ziel bringen. 6 Wochenmodule mit Videos, Meditationen + vielen Downloads sorgen für ein hochwertiges und seriöses Produkt im Bereich der o…
+**Vendor's marketplace description:** <p>Dieser <strong>6 Wochen Kurs</strong> ist für Paare, welche Ihr Liebesleben wieder in Schwung bringen wollen und ihr Sex nachhaltig und anhaltend verbessern möchten.</p>
+<p>Der Kurs wurde von der <strong>Sexualpädagogin</strong> Anja Drews speziell entwickelt, um die Kunden mit Charm und Wissen an Ihr Ziel bringen. </p>
+<p>6 Wochenmodule mit Videos, Meditationen + vielen Downloads sorgen für ein hochwertiges und seriöses Produkt im Bereich der online Sexualtherapie.</p>
+<p>Die Zufriedenheit der Kurs Teilnehmer steht bei uns im Vordergrund. Die stetige Pflege und Optimierung soll so auch unseren Affiliates zu gute kommen, um beste Verkaufsraten zu erlangen.</p>
+<p>Weitere Details zu den Inhalten des Kurses entnehmen Sie bitte der Verkaufsseite.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.die-sexualitaet.de/paarungszeit-replay?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38143/adminstore/
 - Sales page: https://www.die-sexualitaet.de/paarungszeit-replay
 - Canonical redirect: https://www.digistore24.com/redir/280180/adminstore
 
@@ -100,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Paarungszeit - Erobert Eure Lust zurück!? — Typ: Downloads, Anbieter: Kama44, gelistet seit 2019-07-22
-- Wie viel kostet es? — 148.78206200000002 USD
+- Wie viel kostet es? — 148.450137 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

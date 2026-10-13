@@ -4,16 +4,16 @@ digistore24_product_id: 599232
 title: "Im Leben klar, in Krisen stark - mit LifeSkripting®"
 vendor: "LifeSkripting_"
 product_type: "Member area and video courses"
-price: 281.56
+price: 280.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 140.78
+earnings_per_sale: 140.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-03-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://dr-hegendoerfer.de/lifeskripting-selbstlernkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://dr-hegendoerfer.de/lifeskripting-selbstlernkurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Im Leben klar, in Krisen stark - mit LifeSkripting®
 
 > Product ID `56022` · Digistore24 productId `599232` · [HTML profile page](../../produkte/im-leben-klar-in-krisen-stark-mit-lifeskripting-56022.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $281.56 (Single payment) |
+| Price | $280.93 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $140.78 |
+| Earnings/sale* | $140.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LifeSkripting_ |
@@ -41,7 +41,120 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Was du als Affiliate bewirbst LifeSkripting® ist kein weiterer Life-Hack-Kurs. Es ist ein handfestes, wissenschaftlich fundiertes System zur positiven Selbstführung – entwickelt von Dr. Katrin Hegendörfer, Psychologin, systemische Therapeutin und Coach mit über 20 Jahren Berufserfahrung. Der Kurs richtet sich an Menschen, die äußerlich vieles im Griff haben, innerlich aber im Dauerlauf sind. Die s…
+**Vendor's marketplace description:** <div>
+<div>
+<p><strong>Was du als Affiliate bewirbst</strong></p>
+</div>
+</div>
+<div>
+<div>
+<p>LifeSkripting® ist kein weiterer Life-Hack-Kurs. Es ist ein handfestes, wissenschaftlich fundiertes System zur positiven Selbstführung – entwickelt von Dr. Katrin Hegendörfer, Psychologin, systemische Therapeutin und Coach mit über 20 Jahren Berufserfahrung.</p>
+</div>
+</div>
+<div>
+<div>
+<p>Der Kurs richtet sich an Menschen, die äußerlich vieles im Griff haben, innerlich aber im Dauerlauf sind. Die sich fragen, ob das wirklich alles war. Die etwas verändern wollen, aber nicht wissen, wo sie anfangen sollen.</p>
+</div>
+</div>
+<div>
+<div>Das ist eine riesige, kaufbereite Zielgruppe.</div>
+</div>
+<div>
+<div> </div>
+</div>
+<div>
+<div>
+<p><strong>Was der Kurs enthält</strong></p>
+</div>
+</div>
+<div>
+<div>
+<p>10 Video-Einheiten mit insgesamt ca. 10 Stunden Videomaterial – flexibel und selbstbestimmt abrufbar. Die Teilnehmenden arbeiten sich durch 10 Schlüsselbereiche ihres Lebens: von Werten und Zielen über Emotionen, Charakter und Bedürfnisse bis hin zu Partnerschaft, Familie und Beruf.</p>
+</div>
+</div>
+<div>
+<div>
+<p>Das Ergebnis: ein individuelles LifeSkript – ein persönliches Lebenshandbuch, das die Teilnehmenden dauerhaft begleitet.</p>
+</div>
+</div>
+<div>
+<div>
+<p>Zusätzlich enthalten:</p>
+</div>
+</div>
+<div>
+<ul>
+<li>Arbeitsunterlagen, Reflexionsfragen und Checklisten</li>
+<li>365 Tage Zugang zu allen Inhalten</li>
+<li>Zugang zur geschlossenen LinkedIn-Community</li>
+</ul>
+</div>
+<div>
+<div>
+<p> </p>
+<p><strong>Warum dieser Kurs stark konvertiert</strong></p>
+</div>
+</div>
+<div>
+<div>
+<ul>
+<li>Klare, emotionale Zielgruppe: Berufstätige mit Familie, 30–55 Jahre, die innerlich erschöpft sind</li>
+<li>Starke Autorität der Trainerin: Doktortitel, 20 Jahre Erfahrung, Psychologin und Therapeutin</li>
+<li>Echter Mehrwert mit greifbarem Ergebnis: das persönliche LifeSkript als anfassbares Resultat</li>
+<li>Keine schnelle Zauber-Lösung – sondern ein seriöses System, das Vertrauen aufbaut</li>
+<li>Starke Testimonials und Kundenstimmen vorhanden</li>
+</ul>
+</div>
+</div>
+<div>
+<div> </div>
+</div>
+<div>
+<div>
+<p><strong>Die Zahlen für dich als Affiliate</strong></p>
+</div>
+</div>
+<div>
+<div>
+<ul>
+<li>Verkaufspreis: 299 Euro</li>
+<li>Deine Provision: 50%</li>
+<li>Dein Verdienst pro Verkauf: 149,50 Euro</li>
+<li>Cookie-Laufzeit: 180 Tage (Standard Digistore24)</li>
+</ul>
+</div>
+</div>
+<div>
+<div> </div>
+</div>
+<div>
+<div>
+<p><strong>Zielgruppe für deine Werbemittel</strong></p>
+</div>
+</div>
+<div>
+<div>
+<p>Ideal erreichbar über: LinkedIn, Instagram, Podcasts zu Persönlichkeitsentwicklung, Resilienz, mentale Gesundheit, Vereinbarkeit von Familie und Beruf, Frauen-Netzwerke, HR- und Coaching-Communitys.</p>
+</div>
+</div>
+<div>
+<div>
+<p>Ansprechbar mit Themen wie: Stress, innere Leere trotz äußerem Erfolg, Erschöpfung, Selbstfindung, Work-Life-Balance, Resilienz.</p>
+</div>
+</div>
+<div>
+<div> </div>
+</div>
+<div>
+<div>
+<p><strong>Über die Anbieterin</strong></p>
+</div>
+</div>
+<div>
+<div>
+<p>Dr. Katrin Hegendörfer ist Psychologin, systemische Therapeutin und Coach. Seit über 20 Jahren begleitet sie Menschen dabei, ihr Leben bewusster, klarer und stimmiger zu gestalten. LifeSkripting® ist ihr eigens entwickeltes System – praxiserprobt, wissenschaftlich fundiert und mit nachweisbarer Wirkung.</p>
+</div>
+</div>
 
 ## 2. Links
 
@@ -88,7 +201,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Im Leben klar, in Krisen stark - mit LifeSkripting®? — Typ: Member area and video courses, Anbieter: LifeSkripting_, gelistet seit 2025-03-01
-- Wie viel kostet es? — 281.561956 USD
+- Wie viel kostet es? — 280.933806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

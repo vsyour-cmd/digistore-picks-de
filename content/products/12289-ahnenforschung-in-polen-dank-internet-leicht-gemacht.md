@@ -4,34 +4,34 @@ digistore24_product_id: 436380
 title: "Ahnenforschung in Polen dank Internet leicht gemacht"
 vendor: "amanka"
 product_type: "E-books"
-price: 36.55
+price: 36.47
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 9.14
+earnings_per_sale: 9.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2022-03-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.ahnenforschunginpolen.eu/buch/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12289/adminstore/"
 sales_page: "https://www.ahnenforschunginpolen.eu/buch/"
 language: "de"
 ---
 # Ahnenforschung in Polen dank Internet leicht gemacht
 
 > Product ID `12289` · Digistore24 productId `436380` · [HTML profile page](../../produkte/ahnenforschung-in-polen-dank-internet-leicht-gemacht-12289.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.55 (Single payment) |
+| Price | $36.47 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $9.14 |
+| Earnings/sale* | $9.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | amanka |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wenn auch Ihr Hobby die Ahnenforschung ist, hier finden Sie ein perfektes Produkt für Ihre Internetseite! "Ahnenforschung in Polen dank Internet leicht gemacht" ist ein Buch, das allen Forscher hilft, die in Polen nach Ihren Ahnen suchen. Wenn auch die Vorfahren Ihrer Besucher aus den Gebieten kommen, die heute zu Polen gehören, können Sie mit diesem E-Buch profitieren. Die meisten Leute sprechen …
+**Vendor's marketplace description:** <p>Wenn auch Ihr Hobby die Ahnenforschung ist, hier finden Sie ein perfektes Produkt für Ihre Internetseite!</p>
+<p>"<strong><span style="background-color:#ffff00;">Ahnenforschung</span> in Polen dank Internet leicht gemacht</strong>" ist ein Buch, das allen Forscher hilft, die <span style="background-color:#ffff00;">in Polen</span> nach Ihren Ahnen suchen.</p>
+<p>Wenn auch die Vorfahren <strong>Ihrer Besucher</strong> aus den Gebieten kommen, die heute zu Polen gehören, können Sie mit diesem E-Buch profitieren. Die meisten Leute sprechen kein polnisch, wollen aber in diesem Land mit ihren Forschungen weiter kommen.</p>
+<p><span style="text-decoration:underline;">Hier stelle ich die Lösung vor</span>! In dem Buch werden folgende Informationen gefunden:</p>
+<ul>
+<li>die für einen Ahnenforscher <strong>besten Internetseiten</strong> und zwar <span style="background-color:#ffff00;">übersetzt</span>!</li>
+<li>Suchmöglichkeiten: die wichtigsten, aber auch wenig bekannte Datenbanken</li>
+<li><span style="background-color:#ffff00;">Übersetzungsvorlagen</span> für Anträge, es werden aber auch die häufigsten Antworten übersetzt</li>
+<li>zahlreiche Internettipps</li>
+<li>sonstige Informationen, Begriffe, Möglichkeiten, mit denen der Ahnenforscher in Polen weiter kommt.</li>
+</ul>
+<p><span style="text-decoration:underline;">Der Markt für dieses Buch ist sehr groß</span>! <span style="background-color:#ffff00;">Millionen Personen</span> aus Schlesien, Ostpreussen oder Preussen haben Ihre Häuser nach 1945 verlassen. Viele der Nachkommen wollen jetzt die Spuren der Vorfahren finden. Und mein Buch unterstützt sie dabei :)</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.ahnenforschunginpolen.eu/buch/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12289/adminstore/
 - Sales page: https://www.ahnenforschunginpolen.eu/buch/
 - Canonical redirect: https://www.digistore24.com/redir/436380/adminstore
 
@@ -78,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ahnenforschung in Polen dank Internet leicht gemacht? — Typ: E-books, Anbieter: amanka, gelistet seit 2022-03-29
-- Wie viel kostet es? — 36.553972 USD
+- Wie viel kostet es? — 36.472422 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-12-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://digiportale.de/chatgpt-digistore24-guide/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50805/adminstore/"
 sales_page: "https://digiportale.de/chatgpt-digistore24-guide/"
 language: "de"
 ---
 # ChatGPT & Digistore24 Guide (Freebie Gratis Buch)
 
 > Product ID `50805` · Digistore24 productId `586949` · [HTML profile page](../../produkte/chatgpt-digistore24-guide-freebie-gratis-buch-50805.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verdiene mit uns: 60 % Provision auf alle Upsells!
+**Vendor's marketplace description:** <h3><strong>Verdiene mit uns: 60 % Provision auf alle Upsells! 
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digiportale.de/chatgpt-digistore24-guide/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50805/adminstore/
 - Sales page: https://digiportale.de/chatgpt-digistore24-guide/
 - Canonical redirect: https://www.digistore24.com/redir/586949/adminstore
 

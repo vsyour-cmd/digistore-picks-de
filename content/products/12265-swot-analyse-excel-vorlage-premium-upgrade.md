@@ -4,34 +4,34 @@ digistore24_product_id: 76523
 title: "SWOT-Analyse Excel-Vorlage Premium Upgrade"
 vendor: "meckseo"
 product_type: "Downloads"
-price: 11.3
+price: 11.27
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.52
+earnings_per_sale: 4.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2016-03-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://swot-analyse.net/premium-upgrade/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/12265/adminstore/"
 sales_page: "https://swot-analyse.net/premium-upgrade/"
 language: "de"
 ---
 # SWOT-Analyse Excel-Vorlage Premium Upgrade
 
 > Product ID `12265` · Digistore24 productId `76523` · [HTML profile page](../../produkte/swot-analyse-excel-vorlage-premium-upgrade-12265.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.30 (Single payment) |
+| Price | $11.27 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.52 |
+| Earnings/sale* | $4.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meckseo |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** alle Formeln der SWOT-Analyse in Excel sichtbar VBA-Code sichtbar individuelle Anpassungen möglich Erweiterungen möglich einmalige Kosten für vollen Funktionsumfang Dieses Passwort hebt den Blattschutz der beliebten SWOT-Analyse Excel Vorlage auf und ermöglicht dem Nutzer so die uneingeschränkte Nutzung. Verdienen Sie 20% Provision bei einem erfolgreichen Verkauf des Blattschutz Passworts für die …
+**Vendor's marketplace description:** <p> </p>
+<ul><li>alle Formeln der SWOT-Analyse in Excel sichtbar</li>
+<li>VBA-Code sichtbar</li>
+<li>individuelle Anpassungen möglich</li>
+<li>Erweiterungen möglich</li>
+<li>einmalige Kosten für vollen Funktionsumfang</li>
+</ul><p> </p>
+<p>Dieses Passwort hebt den Blattschutz der beliebten SWOT-Analyse Excel Vorlage auf und ermöglicht dem Nutzer so die uneingeschränkte Nutzung. Verdienen Sie 20% Provision bei einem erfolgreichen Verkauf des Blattschutz Passworts für die SWOT-Analyse Excel Vorlage.</p>
+<p><strong><a href="http://swot-analyse.net/affiliate-partner-werden/" target="_blank" rel="noreferrer noopener">Affiliate Partner werden</a></strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://swot-analyse.net/premium-upgrade/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/12265/adminstore/
 - Sales page: https://swot-analyse.net/premium-upgrade/
 - Vendor affiliate support: http://swot-analyse.net/affiliate-partner-werden/
 - Canonical redirect: https://www.digistore24.com/redir/76523/adminstore
@@ -72,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SWOT-Analyse Excel-Vorlage Premium Upgrade? — Typ: Downloads, Anbieter: meckseo, gelistet seit 2016-03-31
-- Wie viel kostet es? — 11.295648 USD
+- Wie viel kostet es? — 11.270448000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

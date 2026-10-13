@@ -4,16 +4,16 @@ digistore24_product_id: 274342
 title: "Into The Woods Lightroom Wedding Presets"
 vendor: "Creative4life"
 product_type: "Downloads"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 29.76
+earnings_per_sale: 29.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2019-06-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://stefanundkai.de/verkaufsseite-presets/?aff=adminstore#aff=adminstore"
 sales_page: "https://stefanundkai.de/verkaufsseite-presets/"
@@ -22,16 +22,16 @@ language: "de"
 # Into The Woods Lightroom Wedding Presets
 
 > Product ID `29190` · Digistore24 productId `274342` · [HTML profile page](../../produkte/into-the-woods-lightroom-wedding-presets-29190.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $29.76 |
+| Earnings/sale* | $29.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Creative4life |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hol dir neuen kreativen Input für deine Bildbearbeitung. Egal ob du Profi-Hochzeitsfotograf oder Fotografie dein Hobby ist: Wenn du mit Lightroom deine Bilder bearbeitest, wirst du das Problem kennen. Du willst eigentlich nur deine Bildbearbeitung etwas aktualisieren und investierst Stunden damit, einen passenden Look auf deine Bilder zu packen. Von den Hochzeitsfotografen Stefan&Kai welche zusamm…
+**Vendor's marketplace description:** <p>Hol dir neuen kreativen Input für deine Bildbearbeitung. Egal ob du Profi-Hochzeitsfotograf oder Fotografie dein Hobby ist: Wenn du mit Lightroom deine Bilder bearbeitest, wirst du das Problem kennen. Du willst eigentlich nur deine Bildbearbeitung etwas aktualisieren und investierst Stunden damit, einen passenden Look auf deine Bilder zu packen. </p>
+<p>Von den Hochzeitsfotografen Stefan&amp;Kai welche zusammen seit über 12 Jahre hauptberuflich als Hochzeitsfotografen arbeiten, kannst du deinen Bildern jetzt mit nur einem Klick einen neuen Look verpassen.</p>
+<p> </p>
+<p>Dabei haben die beiden Fotografen über die letzten Jahre ihre Bearbeitung immer mehr optimiert und bieten jetzt erstmals Ihren Bildlook mit den INTO THE WOODS Presets an. Zeitlose minimalistische Bearbeitung, natürliche Hauttöne und ein freundlicher Bildlook.</p>
+<p> </p>
+<h1>JETZT 40% Provision für dich !</h1>
+<p> </p>
+<p><strong>Spare jetzt Zeit &amp; Nerven</strong> und profitiere von den vielen Jahren Erfahrung von Stefan &amp; Kai. Alles zusammen gefasst in diesen fünf Presets.</p>
+<p><strong>Hebe deinen Bildlook auf das nächste Level und sichere dir jetzt die INTO THE WOODS Presets !</strong></p>
+<p>Warum die Presets von Stefan&amp;Kai ?</p>
+<p>Vielleicht kennst du die beiden Hochzeitsfotografen schon von Ihrem YouTube-Kanal oder dem wöchentlichen Fotografie-Podcast auf Spotify und iTunes. Wir erstellen regelmäßig Inhalte, um dir zu helfen, deine Bildbearbeitung und Fotografie noch besser zu machen.</p>
+<p>▪Mehr als 100 kostenlose YouTube Videos von Stefan&amp;Kai für deine kreative Weiterentwicklung</p>
+<p>▪Videoanleitungen für die richtige Bildbearbeitung mit den neuen INTO THE WOODS Presets. </p>
+<p>▪Wöchentlicher Podcast in dem wir auch gerne auf deine Fragen eingehen.</p>
+<p>▪14 Tage Rückgabegarantie </p>
+<p>▪Persönlicher Support per E-Mail wenn du Fragen hast.</p>
+<p><strong>Und jetzt wünschen wir Viel Spaß mit deinem neuen Bildlook !</strong></p>
 
 ## 2. Links
 
@@ -89,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Into The Woods Lightroom Wedding Presets? — Typ: Downloads, Anbieter: Creative4life, gelistet seit 2019-06-03
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

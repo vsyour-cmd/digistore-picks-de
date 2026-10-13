@@ -4,34 +4,34 @@ digistore24_product_id: 738218
 title: "Hofgarten-Almanach – Gartenplaner mit Amish-Wissen, offline"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 23.44
+price: 23.39
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.04
+earnings_per_sale: 7.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Software"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.gz-ai-stacks.de/Hofgarten-Almanach/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60181/adminstore/"
 sales_page: "https://www.gz-ai-stacks.de/Hofgarten-Almanach/"
 language: "de"
 ---
 # Hofgarten-Almanach – Gartenplaner mit Amish-Wissen, offline
 
 > Product ID `60181` · Digistore24 productId `738218` · [HTML profile page](../../produkte/hofgarten-almanach-gartenplaner-mit-amish-wissen-offline-60181.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $23.44 (Single payment) |
+| Price | $23.39 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.04 |
+| Earnings/sale* | $7.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gzaistacks2aae |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Gartenplaner für den Gemüsegarten, der komplett im Browser läuft, auch ohne Netz: Beete und Fruchtfolge über Jahre planen (mit Warnung, wenn eine Pflanzenfamilie zu früh zurückkehrt), Aussaatkalender, Boden-pH, Saatgut-Vorrat mit Einkaufsliste, Gieß-, Ernte- und Schädlings-Tagebuch pro Beet und Gartenbericht zum Drucken oder als PDF. Zielgruppe: Hobbygärtner mit Gemüsebeeten, Selbstversorger, Klei…
+**Vendor's marketplace description:** <p>Gartenplaner für den Gemüsegarten, der komplett im Browser läuft, auch ohne Netz: Beete und Fruchtfolge über Jahre planen (mit Warnung, wenn eine Pflanzenfamilie zu früh zurückkehrt), Aussaatkalender, Boden-pH, Saatgut-Vorrat mit Einkaufsliste, Gieß-, Ernte- und Schädlings-Tagebuch pro Beet und Gartenbericht zum Drucken oder als PDF.</p>
+<p>Zielgruppe: Hobbygärtner mit Gemüsebeeten, Selbstversorger, Kleingärtner und alle, die ihre Gartendaten lieber auf dem eigenen Gerät behalten.</p>
+<p>Einmaliger Kaufpreis 24,90 €, kein Abo, kein Konto, keine Cloud. Verkaufsseite mit Handbuch zum Vorablesen: https://www.gz-ai-stacks.de/Hofgarten-Almanach/</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.gz-ai-stacks.de/Hofgarten-Almanach/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60181/adminstore/
 - Sales page: https://www.gz-ai-stacks.de/Hofgarten-Almanach/
 - Canonical redirect: https://www.digistore24.com/redir/738218/adminstore
 
@@ -75,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hofgarten-Almanach – Gartenplaner mit Amish-Wissen, offline? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-10-05
-- Wie viel kostet es? — 23.442952000000002 USD
+- Wie viel kostet es? — 23.390652000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

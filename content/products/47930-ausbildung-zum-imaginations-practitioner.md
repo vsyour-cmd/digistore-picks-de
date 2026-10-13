@@ -4,16 +4,16 @@ digistore24_product_id: 708069
 title: "Ausbildung zum Imaginations- Practitioner"
 vendor: "Challengefacingde"
 product_type: "Member area and video courses"
-price: 3276.14
+price: 3268.83
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 560.3
+earnings_per_sale: 559.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2024-04-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://community.einfach-leben-retreat.de/ausbildung-imaginationspractitioner?aff=adminstore#aff=adminstore"
 sales_page: "https://community.einfach-leben-retreat.de/ausbildung-imaginationspractitioner"
@@ -22,16 +22,16 @@ language: "de"
 # Ausbildung zum Imaginations- Practitioner
 
 > Product ID `47930` · Digistore24 productId `708069` · [HTML profile page](../../produkte/ausbildung-zum-imaginations-practitioner-47930.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $3276.14 (Single payment, Installment) |
+| Price | $3268.83 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $560.30 |
+| Earnings/sale* | $559.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Challengefacingde |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ausbildung zum Imaginationspractitioner – 500 € Provision pro Verkauf für dich! Bewirb eine hochwertige Ausbildung für Coaches, Therapeutinnen, Heilpraktikerinnen, Beraterinnen, Hypnose- und Entspannungsbegleiterinnen sowie Menschen in begleitenden Berufen. Die Ausbildung vermittelt Imaginationsarbeit, innere Bilder, innere Kind Arbeit, Körperwahrnehmung, emotionale Prozessbegleitung, NLP-Impulse,…
+**Vendor's marketplace description:** <p><strong>Ausbildung zum Imaginationspractitioner – 500 € Provision pro Verkauf für dich!</strong></p>
+<p>Bewirb eine hochwertige Ausbildung für Coaches, Therapeutinnen, Heilpraktikerinnen, Beraterinnen, Hypnose- und Entspannungsbegleiterinnen sowie Menschen in begleitenden Berufen.</p>
+<p>Die Ausbildung vermittelt Imaginationsarbeit, innere Bilder, innere Kind Arbeit, Körperwahrnehmung, emotionale Prozessbegleitung, NLP-Impulse, Selbsterfahrung und praktische Anwendung.</p>
+<p>Teilnehmerinnen und Teilnehmer lernen, Imaginationsprozesse professionell vorzubereiten, anzuleiten und achtsam zu begleiten.</p>
+<p><strong>Affiliate-Provision: </strong><strong>500 € pro Verkauf</strong><br />Zahlung über Digistore24, Einmalzahlung und Ratenzahlung möglich.</p>
+<p><strong>Wichtiger Hinweis: </strong>Bitte ohne Heilversprechen bewerben. Die Ausbildung ersetzt keine staatlich geregelte therapeutische, medizinische oder heilkundliche Qualifikation.</p>
 
 ## 2. Links
 
@@ -87,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ausbildung zum Imaginations- Practitioner? — Typ: Member area and video courses, Anbieter: Challengefacingde, gelistet seit 2024-04-23
-- Wie viel kostet es? — 3276.141336 USD
+- Wie viel kostet es? — 3268.832436 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

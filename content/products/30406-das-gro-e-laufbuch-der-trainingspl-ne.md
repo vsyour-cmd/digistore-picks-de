@@ -4,16 +4,16 @@ digistore24_product_id: 290934
 title: "Das große Laufbuch der Trainingspläne"
 vendor: "HDsports"
 product_type: "E-books"
-price: 33.41
+price: 33.33
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.6
+earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2019-10-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.hdsports.at/literatur/trainingsplaene-fuer-laeufer-und-laeuferinnen?aff=adminstore#aff=adminstore"
 sales_page: "https://www.hdsports.at/literatur/trainingsplaene-fuer-laeufer-und-laeuferinnen"
@@ -22,16 +22,16 @@ language: "de"
 # Das große Laufbuch der Trainingspläne
 
 > Product ID `30406` · Digistore24 productId `290934` · [HTML profile page](../../produkte/das-gro-e-laufbuch-der-trainingspl-ne-30406.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $33.41 (Single payment) |
+| Price | $33.33 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.60 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HDsports |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** E-Book mit über 50 Trainingsplänen für das Lauftraining: 16 Trainingspläne Marathon (unter 6 Stunden bis unter 2:30 Stunden) 13 Trainingspläne Halbmarathon (unter 3 Stunden bis unter 1:10 Stunden) 16 Trainingspläne 10 Kilometer (unter 75 Minuten bis unter 30 Minuten) 12 Trainingspläne 5 Kilometer (unter 40 Minuten bis unter 15 Minuten)
+**Vendor's marketplace description:** <p>E-Book mit über 50 Trainingsplänen für das Lauftraining:</p>
+<ul><li>16 Trainingspläne Marathon (unter 6 Stunden bis unter 2:30 Stunden)</li>
+<li>13 Trainingspläne Halbmarathon (unter 3 Stunden bis unter 1:10 Stunden)</li>
+<li>16 Trainingspläne 10 Kilometer (unter 75 Minuten bis unter 30 Minuten)</li>
+<li>12 Trainingspläne 5 Kilometer (unter 40 Minuten bis unter 15 Minuten)</li>
+</ul>
 
 ## 2. Links
 
@@ -58,7 +63,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das große Laufbuch der Trainingspläne? — Typ: E-books, Anbieter: HDsports, gelistet seit 2019-10-16
-- Wie viel kostet es? — 33.405086 USD
+- Wie viel kostet es? — 33.330561 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

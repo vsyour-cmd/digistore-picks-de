@@ -4,16 +4,16 @@ digistore24_product_id: 710042
 title: "Videokurs (Marketing-funnel inkl. Landingpage)"
 vendor: "worldxpb"
 product_type: "Downloads"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.32
+earnings_per_sale: 22.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2026-07-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/710042?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/710042"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs (Marketing-funnel inkl. Landingpage)
 
 > Product ID `57478` · Digistore24 productId `710042` · [HTML profile page](../../produkte/videokurs-marketing-funnel-inkl-landingpage-57478.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.32 |
+| Earnings/sale* | $22.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In diesem Videokurs (Dauer 52min 22sek) erlernt der Käufer wie man kostenlos einen E-Mail Marketing-funnel mit automatisierten E-Mails inkl. Landingpage einrichtet. In dem Kurs geht es um die Einrichtung und den Ablauf zum E-Mail Marketingfunnel. Es soll ermöglicht werden so einen Funnel welcher in der Regel 500-1.500€ kostet innerhalb unter 1h einzurichten. Dadurch wird im Videokurs lediglich der…
+**Vendor's marketplace description:** <p>In diesem Videokurs (Dauer 52min 22sek) erlernt der Käufer wie man kostenlos einen E-Mail Marketing-funnel mit automatisierten E-Mails inkl. Landingpage einrichtet. </p>
+<p>In dem Kurs geht es um die Einrichtung und den Ablauf zum E-Mail Marketingfunnel. Es soll ermöglicht werden so einen Funnel welcher in der Regel 500-1.500€ kostet innerhalb unter 1h einzurichten. Dadurch wird im Videokurs lediglich der Ablauf und die Einrichtung erklärt und das Design und andere Funktionen (wichtig, nicht berücksichtigt).</p>
+<p>Was enthalten ist:</p>
+<p>-&gt; Account Erstellung </p>
+<p>-&gt; Mailfunnel Einrichtung</p>
+<p>-&gt; Automatisch Einrichtung</p>
+<p>-&gt; Landingpage Erstellung</p>
+<p>-&gt; Verknüpfung auf der Landing-Page mit Automation</p>
+<p>-&gt; PDF-Checkliste / Dokument mit rechtlichen Infos (welche auf der Landing-Page und in den Mails mit enthalten sein müssen)</p>
+<p> </p>
+<p>Bitte bindet euren Affiliate Link auf euren Plattformen ein, sodass euer Kunde den Kauf über euren Affiliate Link abwickelt.</p>
+<p>Viel Spaß &amp; gute Provisionen! :)</p>
 
 ## 2. Links
 
@@ -90,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs (Marketing-funnel inkl. Landingpage)? — Typ: Downloads, Anbieter: worldxpb, gelistet seit 2026-07-10
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 110413
 title: "Führerscheintraining"
 vendor: "UWimmer"
 product_type: "Downloads"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.84
+earnings_per_sale: 13.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2016-12-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://fuehrerscheintraining.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/16451/adminstore/"
 sales_page: "http://fuehrerscheintraining.de/"
 language: "de"
 ---
 # Führerscheintraining
 
 > Product ID `16451` · Digistore24 productId `110413` · [HTML profile page](../../produkte/f-hrerscheintraining-16451.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.84 |
+| Earnings/sale* | $13.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UWimmer |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In nur 1 Tag mit der richtigen Lerntechnik perfekt für die Führerscheinprüfung vorbereitet! Mit der MegaMemory-Technik kommst du ohne langweiliges Auswendiglernen zum Erfolg! Anhang von lustigen Geschichten merkst du dir ganz einfach die Antworten und Zahlen. Unser Training eignet sich besonders für Menschen, die sich beim Lernen schwer tun. Es wird zunächst ein Testzugang für 1€ promoted, bei dem…
+**Vendor's marketplace description:** <p>In <strong>nur 1 Tag</strong> mit der <strong>richtigen Lerntechnik </strong>perfekt für die Führerscheinprüfung vorbereitet!</p>
+<p>Mit der <strong>MegaMemory-Technik</strong> kommst du <strong>ohne langweiliges Auswendiglernen</strong> zum Erfolg! Anhang von <strong>lustigen Geschichten</strong> merkst du dir <strong>ganz einfach die Antworten</strong> und Zahlen.</p>
+<p>Unser Training eignet sich besonders für Menschen, die sich beim Lernen schwer tun.</p>
+<p>Es wird zunächst ein <strong>Testzugang für 1€ promoted</strong>, bei dem die ersten 2 Lektionen freigeschaltet werden.</p>
+<p>Es gibt zudem einen Upsell für einen lebenslangen Zugriff im Wert von 29€.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://fuehrerscheintraining.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/16451/adminstore/
 - Sales page: http://fuehrerscheintraining.de/
 - Vendor affiliate support: http://fuehrerscheintraining.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/110413/adminstore
@@ -90,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Führerscheintraining? — Typ: Downloads, Anbieter: UWimmer, gelistet seit 2016-12-23
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

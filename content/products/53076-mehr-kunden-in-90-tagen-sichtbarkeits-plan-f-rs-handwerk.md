@@ -4,16 +4,16 @@ digistore24_product_id: 622102
 title: "Mehr Kunden in 90 Tagen: Sichtbarkeits-Plan fürs Handwerk"
 vendor: "SOMEONMARKETING"
 product_type: "Downloads"
-price: 54.91
+price: 54.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.45
+earnings_per_sale: 27.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-07-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.someonmarketing.com/sichtbarkeits-plan/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.someonmarketing.com/sichtbarkeits-plan/"
@@ -22,16 +22,16 @@ language: "de"
 # Mehr Kunden in 90 Tagen: Sichtbarkeits-Plan fürs Handwerk
 
 > Product ID `53076` · Digistore24 productId `622102` · [HTML profile page](../../produkte/mehr-kunden-in-90-tagen-sichtbarkeits-plan-f-rs-handwerk-53076.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $54.91 (Single payment) |
+| Price | $54.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.45 |
+| Earnings/sale* | $27.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SOMEONMARKETING |
@@ -41,7 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der 90-Tage-Plan für mehr Sichtbarkeit im Handwerk. Klare Schritte, fertige Ideen und ein System, das dir zuverlässig neue Anfragen bringt. Ein Social Media Plan fürs Handwerk, sofort umsetzbar und ohne Vorwissen nutzbar. Dieses Produkt ist auf Handwerksbetriebe zugeschnitten und bietet Affiliates eine klare Zielgruppe mit hohem Bedarf. Was ist drin:✔ Der komplette 90-Tage-Sichtbarkeits-Plan (18-s…
+**Vendor's marketplace description:** <h3>Der 90-Tage-Plan für mehr Sichtbarkeit im Handwerk.</h3>
+<p>Klare Schritte, fertige Ideen und ein System, das dir zuverlässig neue Anfragen bringt. Ein Social Media Plan fürs Handwerk, sofort umsetzbar und ohne Vorwissen nutzbar.</p>
+<hr />
+<p> </p>
+<p>Dieses Produkt ist auf Handwerksbetriebe zugeschnitten und bietet Affiliates eine klare Zielgruppe mit hohem Bedarf.</p>
+<p> </p>
+<p><span style="color:#008000;"><strong>Was ist drin:</strong></span><br /><strong><span style="color:#008000;">✔</span></strong> Der komplette 90-Tage-Sichtbarkeits-Plan (18-seitiges Haupt-PDF + Bonus-Dateien)<br /><span style="color:#008000;"><strong>✔</strong></span> Wöchentliche Themen und klare Wochenziele<br /><strong><span style="color:#008000;">✔</span></strong> Postideen speziell für Handwerksbetriebe<br /><span style="color:#008000;"><strong>✔</strong></span> Klare Übersicht: Was du wann postest und warum<br /><span style="color:#008000;"><strong>✔</strong></span> Canva Praxis-Guide: Inhalte gestalten wie ein Profi<br /><span style="color:#008000;"><strong>✔</strong></span> Reel-Power für dein Handwerk, mehr Sichtbarkeit mit Videos<br /><strong><span style="color:#008000;">✔</span></strong> Ideen-Booster mit 10 starken Posting-Ideen<br /><span style="color:#008000;"><strong>✔</strong></span> Hashtag-Turbo für mehr Reichweite auf Social Media<br /><span style="color:#008000;"><strong>✔</strong></span> Trend-Check mit 5 aktuellen Formaten<br /><span style="color:#008000;"><strong>✔</strong></span> Editierbarer Posting-Kalender (Excel/Sheets)<br /><span style="color:#008000;"><strong>✔</strong></span> 30-Minuten-Checkliste für den schnellen Einstieg</p>
+<p> </p>
+<hr />
+<p> </p>
+<p><span style="color:#008000;"><strong>Für wen geeignet:</strong></span><br />SHK-Betriebe, Zimmereien, Bauunternehmen, Elektriker, Metallbauer, Maler und viele weitere Handwerksbranchen.<br />Ideal für Betriebe, die regelmäßig posten wollen, aber keine Agentur beauftragen möchten.</p>
+<p> </p>
+<hr />
+<p> </p>
+<p><span style="color:#008000;"><strong>Warum dieses Produkt:</strong></span><br />Viele Handwerksbetriebe wissen, dass sie online sichtbar sein müssen, aber es fehlt an Zeit, Struktur oder Ideen.<br />Dieser Plan liefert eine klare Lösung mit System, Planung und direkt umsetzbaren Inhalten. Kein Blabla, keine Technikhürden.</p>
+<p> </p>
+<hr />
+<p> </p>
+<p><span style="color:#008000;"><strong>Affiliate-Vorteile:</strong></span><br /><span style="color:#008000;">✔</span> Klar definierte Zielgruppe mit hohem Bedarf<br /><span style="color:#008000;">✔</span> Leicht zu bewerben über Instagram, Facebook, E-Mail oder Website<br /><span style="color:#008000;">✔</span> <strong>50 % Provision</strong> auf den Netto-Verkaufspreis<br /><span style="color:#008000;">✔</span> Bewerbung unserer Social Media Pakete ebenfalls möglich<br /><span style="color:#008000;">✔</span> Perfekt für alle, die Zielgruppen im Handwerk erreichen</p>
+<p> </p>
+<hr />
+<p><strong>Jetzt als Affiliate durchstarten und mit einem praxisnahen, klar positionierten Produkt fürs Handwerk mitverdienen.</strong></p>
+<hr />
+<p><strong>Tags:</strong> sichtbarkeitsplan, handwerk, social media handwerk, online marketing, content ideen, social media vorlagen, sichtbarkeit, handwerksbetriebe, social media agentur, marketing handwerk, someonmarketing</p>
 
 ## 2. Links
 
@@ -107,7 +130,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr Kunden in 90 Tagen: Sichtbarkeits-Plan fürs Handwerk? — Typ: Downloads, Anbieter: SOMEONMARKETING, gelistet seit 2025-07-03
-- Wie viel kostet es? — 54.909400000000005 USD
+- Wie viel kostet es? — 54.7869 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

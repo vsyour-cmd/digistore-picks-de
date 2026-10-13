@@ -4,34 +4,34 @@ digistore24_product_id: 725050
 title: "Der Longevity-Guide: Fünf Säulen, ein Plan – 14,90 €"
 vendor: "emmadmrss"
 product_type: "E-books"
-price: 15.7
+price: 15.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.86
+earnings_per_sale: 7.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://mindfulhealth.de/longevity-guide/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58739/adminstore/"
 sales_page: "http://mindfulhealth.de/longevity-guide/"
 language: "de"
 ---
 # Der Longevity-Guide: Fünf Säulen, ein Plan – 14,90 €
 
 > Product ID `58739` · Digistore24 productId `725050` · [HTML profile page](../../produkte/der-longevity-guide-f-nf-s-ulen-ein-plan-14-90-58739.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.70 (Single payment) |
+| Price | $15.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.86 |
+| Earnings/sale* | $7.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | emmadmrss |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein 22-seitiger Guide zu den fünf Säulen der Longevity Der Longevity-Guide ist ein 22-seitiger PDF-Ratgeber zu den fünf Säulen gesunder Langlebigkeit: Bewegung, Ernährung, Schlaf, Herzgesundheit und Nervensystem. Statt vager Tipps liefert er konkrete Wochenprotokolle für Einsteiger und Fortgeschrittene – wissenschaftlich fundiert, mit klarer Kennzeichnung, wo die Forschung eindeutig ist und wo nic…
+**Vendor's marketplace description:** <h3>Ein 22-seitiger Guide zu den fünf Säulen der Longevity</h3>
+<p>Der Longevity-Guide ist ein 22-seitiger PDF-Ratgeber zu den fünf Säulen gesunder Langlebigkeit: <strong>Bewegung, Ernährung, Schlaf, Herzgesundheit </strong>und<strong> Nervensystem</strong>. Statt vager Tipps liefert er konkrete Wochenprotokolle für Einsteiger und Fortgeschrittene – wissenschaftlich fundiert, mit klarer Kennzeichnung, wo die Forschung eindeutig ist und wo nicht.</p>
+<ul>
+<li>Verkaufspreis: 14,90 €</li>
+<li>Sofortiger PDF-Download</li>
+<li>14 Tage Rückgaberecht</li>
+</ul>
+<p>Zielgruppe: gesundheitsbewusste Menschen, die sich für Themen wie Peter Attias „Outlive", Biohacking oder evidenzbasierte Ernährung interessieren – ein aktuell stark wachsendes Segment im deutschsprachigen Raum.</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://mindfulhealth.de/longevity-guide/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58739/adminstore/
 - Sales page: http://mindfulhealth.de/longevity-guide/
 - Canonical redirect: https://www.digistore24.com/redir/725050/adminstore
 
@@ -71,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Longevity-Guide: Fünf Säulen, ein Plan – 14,90 €? — Typ: E-books, Anbieter: emmadmrss, gelistet seit 2026-08-27
-- Wie viel kostet es? — 15.699606000000001 USD
+- Wie viel kostet es? — 15.664581000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

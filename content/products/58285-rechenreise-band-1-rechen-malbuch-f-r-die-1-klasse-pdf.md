@@ -4,34 +4,34 @@ digistore24_product_id: 720244
 title: "Rechenreise Band 1 – Rechen-Malbuch für die 1. Klasse (PDF)"
 vendor: "silviodante"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.43
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Fun & Games"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/720244?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58285/adminstore/"
 sales_page: "https://www.digistore24.com/product/720244"
 language: "de"
 ---
 # Rechenreise Band 1 – Rechen-Malbuch für die 1. Klasse (PDF)
 
 > Product ID `58285` · Digistore24 productId `720244` · [HTML profile page](../../produkte/rechenreise-band-1-rechen-malbuch-f-r-die-1-klasse-pdf-58285.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.43 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | silviodante |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Rechenreise Band 1 ist ein digitales, druckbares Rechen-Malbuch für Eltern von Kindern in der 1. Klasse sowie für Vorschulkinder mit ersten Rechenerfahrungen. 160 A4-Seiten verbinden altersgerechte Rechenübungen mit Ausmalbildern und zusätzlichem Training. Die PDF wird nach dem Kauf sofort bereitgestellt; es wird kein gedrucktes Buch versendet.Das Produkt bietet Affiliates eine klar definierte deu…
+**Vendor's marketplace description:** <p>Rechenreise Band 1 ist ein digitales, druckbares Rechen-Malbuch für Eltern von Kindern in der 1. Klasse sowie für Vorschulkinder mit ersten Rechenerfahrungen. 160 A4-Seiten verbinden altersgerechte Rechenübungen mit Ausmalbildern und zusätzlichem Training. Die PDF wird nach dem Kauf sofort bereitgestellt; es wird kein gedrucktes Buch versendet.<br /><br />Das Produkt bietet Affiliates eine klar definierte deutschsprachige Zielgruppe und visuell gut darstellbare Inhalte für Eltern-, Familien-, Lern- und Schulstart-Content.<br /><br />Verkaufspreis: 27,00€<br />Affiliate-Provision: 50,0% je erfolgreich vermitteltem Verkauf<br />Einmalzahlung ohne Abonnement</p>
+<p>Beispielbilder für Band 1: <a title="Band 1" href="https://www.directupload.eu/album/543291/r5Yt9r4QGq/" target="_blank" rel="noreferrer noopener">https://www.directupload.eu/album/543291/r5Yt9r4QGq/</a></p>
+<p>Band 2:</p>
+<p><a title="Band 2" href="https://www.directupload.eu/album/543292/K2BUf2KSZQ/" target="_blank" rel="noreferrer noopener">https://www.directupload.eu/album/543292/K2BUf2KSZQ/</a></p>
+<p>Band 3:<a title="Band 3" href="https://www.directupload.eu/album/543294/CRx52nqdVY/" target="_blank" rel="noreferrer noopener">https://www.directupload.eu/album/543294/CRx52nqdVY/</a></p>
+<p>Band 4:<a title="Band 4" href="https://www.directupload.eu/album/543295/cTDmcmK8mc/" target="_blank" rel="noreferrer noopener">https://www.directupload.eu/album/543295/cTDmcmK8mc/</a></p>
+<p><br /><br />Band 2, Band 3 und Band 4 können ebenfalls beworben werden. Produktbilder, Beispielseiten und fertige Werbetexte werden im Werbemittelbereich bereitgestellt.<br /><br />Die Käuferlizenz gilt ausschließlich für den privaten Haushalt. Eine Weitergabe sowie die Nutzung in Schulen, Kursen oder anderen Einrichtungen ist nicht gestattet.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/720244?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58285/adminstore/
 - Sales page: https://www.digistore24.com/product/720244
 - Canonical redirect: https://www.digistore24.com/redir/720244/adminstore
 
@@ -81,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rechenreise Band 1 – Rechen-Malbuch für die 1. Klasse (PDF)? — Typ: E-books, Anbieter: silviodante, gelistet seit 2026-08-11
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

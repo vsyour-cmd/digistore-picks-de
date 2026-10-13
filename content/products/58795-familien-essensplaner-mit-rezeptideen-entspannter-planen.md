@@ -4,7 +4,7 @@ digistore24_product_id: 727010
 title: "Familien-Essensplaner mit Rezeptideen – Entspannter planen,"
 vendor: "mamaplaneinfach"
 product_type: "Downloads"
-price: 10.26
+price: 10.24
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.03
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Marketing Services"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/727010?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58795/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/727010"
 language: "de"
 ---
 # Familien-Essensplaner mit Rezeptideen – Entspannter planen,
 
 > Product ID `58795` · Digistore24 productId `727010` · [HTML profile page](../../produkte/familien-essensplaner-mit-rezeptideen-entspannter-planen-58795.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $10.26 (Single payment) |
+| Price | $10.24 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.03 |
 | Cart conversion* | — |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Was gibt es heute zu essen? Mit dem Familien-Essensplaner wird die Wochenplanung einfacher und entspannter. Praktische Planungshilfe kombiniert mit leckeren Rezeptideen – perfekt für Familien, die weniger Zeit mit Überlegen und mehr Zeit miteinander verbringen möchten. Ideal für Eltern, die ihren Alltag besser organisieren und stressfreier kochen möchten.
+**Vendor's marketplace description:** <p>Was gibt es heute zu essen? Mit dem Familien-Essensplaner wird die Wochenplanung einfacher und entspannter. Praktische Planungshilfe kombiniert mit leckeren Rezeptideen – perfekt für Familien, die weniger Zeit mit Überlegen und mehr Zeit miteinander verbringen möchten. Ideal für Eltern, die ihren Alltag besser organisieren und stressfreier kochen möchten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/727010?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58795/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/727010
 - Canonical redirect: https://www.digistore24.com/redir/727010/adminstore
 
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Familien-Essensplaner mit Rezeptideen – Entspannter planen,? — Typ: Downloads, Anbieter: mamaplaneinfach, gelistet seit 2026-08-31
-- Wie viel kostet es? — 10.264696 USD
+- Wie viel kostet es? — 10.241796 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

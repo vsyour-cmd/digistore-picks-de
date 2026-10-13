@@ -4,34 +4,34 @@ digistore24_product_id: 728499
 title: "Rezeptebuch von Baby bis ins Alter"
 vendor: "mamaplaneinfach"
 product_type: "E-books"
-price: 15.61
+price: 15.58
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 1.56
+earnings_per_sale: 1.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Marketing Services"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/728499?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58893/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/728499"
 language: "de"
 ---
 # Rezeptebuch von Baby bis ins Alter
 
 > Product ID `58893` · Digistore24 productId `728499` · [HTML profile page](../../produkte/rezeptebuch-von-baby-bis-ins-alter-58893.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.61 (Single payment) |
+| Price | $15.58 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $1.56 |
+| Earnings/sale* | $1.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mamaplaneinfach |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das große Familien-Rezeptbuch – 300 Rezepte für die ganze Familie Gesund, abwechslungsreich und alltagstauglich – von Babybrei bis ins Rentenalter. Du möchtest deine Familie abwechslungsreich ernähren, hast aber im Alltag nicht immer Zeit für komplizierte Rezepte? Dann ist „Das große Familien-Rezeptbuch“ von MamaPlan.Einfach dein praktischer Begleiter für jeden Tag. Auf 300 Seiten findest du vielf…
+**Vendor's marketplace description:** <h3>Das große Familien-Rezeptbuch – 300 Rezepte für die ganze Familie</h3>
+<p><strong>Gesund, abwechslungsreich und alltagstauglich – von Babybrei bis ins Rentenalter.</strong></p>
+<p>Du möchtest deine Familie abwechslungsreich ernähren, hast aber im Alltag nicht immer Zeit für komplizierte Rezepte? Dann ist <strong>„Das große Familien-Rezeptbuch“ von MamaPlan.Einfach</strong> dein praktischer Begleiter für jeden Tag.</p>
+<p>Auf <strong>300 Seiten</strong> findest du vielfältige Rezeptideen für unterschiedliche Geschmäcker und Lebensphasen – von einfachen Gerichten für die Kleinsten bis zu leckeren Familienmahlzeiten.</p>
+<p>Digitales Produkt</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/728499?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58893/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/728499
 - Canonical redirect: https://www.digistore24.com/redir/728499/adminstore
 
@@ -71,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rezeptebuch von Baby bis ins Alter? — Typ: E-books, Anbieter: mamaplaneinfach, gelistet seit 2026-09-03
-- Wie viel kostet es? — 15.609958 USD
+- Wie viel kostet es? — 15.575133000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

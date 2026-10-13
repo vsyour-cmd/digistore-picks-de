@@ -4,34 +4,34 @@ digistore24_product_id: 131511
 title: "Online Nackt Yoga mit Elke"
 vendor: "Nacktyoga-mit-Elke"
 product_type: "Member area and video courses"
-price: 404.21
+price: 403.31
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 25.09
+earnings_per_sale: 25.03
 cart_conversion_pct: 5
 cancel_rate_pct: 2.63
 categories: ["Health & Fitness"]
 listed_since: "2017-04-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://nacktyoga.net/mitgliedschaft/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/20203/adminstore/"
 sales_page: "https://nacktyoga.net/mitgliedschaft/"
 language: "de"
 ---
 # Online Nackt Yoga mit Elke
 
 > Product ID `20203` · Digistore24 productId `131511` · [HTML profile page](../../produkte/online-nackt-yoga-mit-elke-20203.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $404.21 (Subscription) |
+| Price | $403.31 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $25.09 |
+| Earnings/sale* | $25.03 |
 | Cart conversion* | 5% |
 | Cancel rate* | 2.63% |
 | Vendor | Nacktyoga-mit-Elke |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Online Nackt Yoga Videos & Workouts mit Elke Lechner Nacktyoga.net ist die größte Nackt Yoga Mitgliederseite Deutschlands mit Kunden aus der ganzen Welt. In ihren Nackt Yoga Videos zeigt Elke verschiedene Yoga Übungen und Stellungen für Anfänger und Fortgeschrittene. BEKANNT AUS PRINT, TV, RADIO und WEB Schwerpunkte sind Gesundheit, Fitness und die anatomisch korrekte Ausführung der Übungen. www.n…
+**Vendor's marketplace description:** <p><strong>Onlin</strong><strong>e Nackt Yoga Videos &amp; Workouts mit Elke Lechner</strong></p>
+<p>Nacktyoga.net ist die größte Nackt Yoga Mitgliederseite Deutschlands mit Kunden aus der ganzen Welt. </p>
+<p>In ihren Nackt Yoga Videos zeigt Elke verschiedene Yoga Übungen und Stellungen für Anfänger und Fortgeschrittene. </p>
+<p> </p>
+<p><strong>BEKANNT AUS PRINT, TV, RADIO und WEB</strong></p>
+<p> </p>
+<p>Schwerpunkte sind Gesundheit, Fitness und die anatomisch korrekte Ausführung der Übungen. </p>
+<p> </p>
+<p><a href="https://nacktyoga.net/" target="_blank" rel="noreferrer noopener">www.nacktyoga.net</a></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nacktyoga.net/mitgliedschaft/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/20203/adminstore/
 - Sales page: https://nacktyoga.net/mitgliedschaft/
 - Vendor affiliate support: https://nacktyoga.net/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/131511/adminstore
@@ -67,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Nackt Yoga mit Elke? — Typ: Member area and video courses, Anbieter: Nacktyoga-mit-Elke, gelistet seit 2017-04-09
-- Wie viel kostet es? — 404.21162599999997 USD
+- Wie viel kostet es? — 403.30985100000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

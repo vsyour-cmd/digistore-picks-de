@@ -4,34 +4,34 @@ digistore24_product_id: 530328
 title: "Family Bootcamp"
 vendor: "flavioni"
 product_type: "Online coaching"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 13.99
+earnings_per_sale: 13.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development","Profession & Job"]
 listed_since: "2023-12-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/product/530328?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47865/adminstore/"
 sales_page: "https://www.digistore24.com/product/530328"
 language: "de"
 ---
 # Family Bootcamp
 
 > Product ID `47865` · Digistore24 productId `530328` · [HTML profile page](../../produkte/family-bootcamp-47865.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $93.22 (Subscription) |
+| Price | $93.01 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $13.99 |
+| Earnings/sale* | $13.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | flavioni |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Endlich mehr Zeit für Gott und deine Familie durch smarte Geschäftskonzepte! Speziell für christliche Angestellte wie Dich Finde die perfekte Balance zwischen Gott, Familie und Geld verdienen. Mit "Family Bootcamp" erhältst Du die Werkzeuge, in deinem Glauben zu wachsen, deine Beziehung zu vertiefen und nebenbei gutes Geld zu verdienen.
+**Vendor's marketplace description:** <p>Endlich mehr Zeit für Gott und deine Familie durch smarte Geschäftskonzepte!</p>
+<p><strong>Speziell für christliche Angestellte wie Dich</strong></p>
+<p>Finde die perfekte Balance zwischen Gott, Familie und Geld verdienen. Mit "Family Bootcamp" erhältst Du die Werkzeuge, in deinem Glauben zu wachsen, deine Beziehung zu vertiefen und nebenbei gutes Geld zu verdienen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/530328?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47865/adminstore/
 - Sales page: https://www.digistore24.com/product/530328
 - Canonical redirect: https://www.digistore24.com/redir/530328/adminstore
 
@@ -75,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Family Bootcamp? — Typ: Online coaching, Anbieter: flavioni, gelistet seit 2023-12-18
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

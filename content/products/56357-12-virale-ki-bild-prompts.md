@@ -4,7 +4,7 @@ digistore24_product_id: 687367
 title: "12 virale KI-Bild-Prompts"
 vendor: "nadine_business__reichweite"
 product_type: "E-books"
-price: 8.38
+price: 8.36
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.84
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Photography & Film"]
 listed_since: "2026-04-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/687367?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56357/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/687367"
 language: "de"
 ---
 # 12 virale KI-Bild-Prompts
 
 > Product ID `56357` · Digistore24 productId `687367` · [HTML profile page](../../produkte/12-virale-ki-bild-prompts-56357.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.38 (Single payment) |
+| Price | $8.36 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.84 |
 | Cart conversion* | — |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses E-Book enthält 12 praxiserprobte KI-Prompts, mit denen Sie in kurzer Zeit hochwertige und vielseitig einsetzbare Bilder erstellen können. Die Inhalte sind klar strukturiert und ermöglichen auch Einsteigern einen schnellen Zugang zur Arbeit mit KI-Tools. Neben den Prompts erhalten Sie eine verständliche Anleitung zur Anwendung sowie konkrete Beispiele für mögliche Einsatzbereiche, etwa im On…
+**Vendor's marketplace description:** <p> </p>
+<p>Dieses E-Book enthält 12 praxiserprobte KI-Prompts, mit denen Sie in kurzer Zeit hochwertige und vielseitig einsetzbare Bilder erstellen können.</p>
+<p>Die Inhalte sind klar strukturiert und ermöglichen auch Einsteigern einen schnellen Zugang zur Arbeit mit KI-Tools. Neben den Prompts erhalten Sie eine verständliche Anleitung zur Anwendung sowie konkrete Beispiele für mögliche Einsatzbereiche, etwa im Online-Marketing, Social Media oder für digitale Produkte.</p>
+<p>Ziel ist es, Ihnen eine sofort umsetzbare Lösung bereitzustellen, mit der Sie Zeit sparen und effizient Ergebnisse erzielen.</p>
+<p>Das Produkt eignet sich für alle, die ohne technische Vorkenntnisse professionelle Bilder erstellen und ihre kreativen oder geschäftlichen Projekte unterstützen möchten.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/687367?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56357/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/687367
 - Canonical redirect: https://www.digistore24.com/redir/687367/adminstore
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 12 virale KI-Bild-Prompts? — Typ: E-books, Anbieter: nadine_business__reichweite, gelistet seit 2026-04-24
-- Wie viel kostet es? — 8.382088000000001 USD
+- Wie viel kostet es? — 8.363388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 394354
 title: "Klavier lernen mit Andreas Czeppel"
 vendor: "meineMusikschule"
 product_type: "Member area and video courses"
-price: 347.48
+price: 346.7
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 138.99
+earnings_per_sale: 138.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://meinemusikschule.net/kurse/klavier/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinemusikschule.net/kurse/klavier/"
@@ -22,16 +22,16 @@ language: "de"
 # Klavier lernen mit Andreas Czeppel
 
 > Product ID `4727` · Digistore24 productId `394354` · [HTML profile page](../../produkte/klavier-lernen-mit-andreas-czeppel-4727.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $347.48 (Single payment, Installment) |
+| Price | $346.70 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $138.99 |
+| Earnings/sale* | $138.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meineMusikschule |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle die einzigartigen Produkte von www.meineMusikschule.net meineMusikschule.net - so lernt man heute Instrumente spielen ;-) Deine Vorteile: Einmal-/ und Aboverkäufe 40% wiederkehrende Provisionen (solange der Kunde bei uns aktiv ist!) 10% an Provision für vermittelte Affiliates umfangreiche Anleitungen für Affiliates im Partnerbereich große Auswahl an Werbemittel (Banner, Textvorlagen etc.)…
+**Vendor's marketplace description:** <p><strong>Empfehle die einzigartigen Produkte von www.meineMusikschule.net</strong></p>
+<p><em>meineMusikschule.net - so lernt man heute Instrumente spielen ;-)</em></p>
+<p><strong>Deine Vorteile:</strong></p>
+<ul>
+<li>Einmal-/ und Aboverkäufe</li>
+<li>40% wiederkehrende Provisionen (solange der Kunde bei uns aktiv ist!)</li>
+<li>10% an Provision für vermittelte Affiliates</li>
+<li>umfangreiche Anleitungen für Affiliates im Partnerbereich</li>
+<li>große Auswahl an Werbemittel (Banner, Textvorlagen etc.) im Partnerbereich</li>
+<li>persönliche und direkte Unterstützung der Affiliatepartner </li>
+<li>und vieles mehr</li>
+</ul>
+<p><strong>Besuche jetzt unser Affiliate-Center und bewerbe dich für eine Zusammenarbeit!</strong></p>
 
 ## 2. Links
 
@@ -96,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Klavier lernen mit Andreas Czeppel? — Typ: Member area and video courses, Anbieter: meineMusikschule, gelistet seit 2021-06-15
-- Wie viel kostet es? — 347.475648 USD
+- Wie viel kostet es? — 346.700448 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

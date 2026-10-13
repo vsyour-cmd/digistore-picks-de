@@ -4,34 +4,34 @@ digistore24_product_id: 488367
 title: "Microsoft Excel im Unternehmen"
 vendor: "Trainstitute"
 product_type: "Member area and video courses"
-price: 23.31
+price: 23.26
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.71
+earnings_per_sale: 33.63
 cart_conversion_pct: 12
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2023-03-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://video-schulungen.de/courses/excel-fuer-unternehmen-kurs-1/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/44157/adminstore/"
 sales_page: "https://video-schulungen.de/courses/excel-fuer-unternehmen-kurs-1/"
 language: "de"
 ---
 # Microsoft Excel im Unternehmen
 
 > Product ID `44157` · Digistore24 productId `488367` · [HTML profile page](../../produkte/microsoft-excel-im-unternehmen-44157.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.31 (Single payment, Installment) |
+| Price | $23.26 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.71 |
+| Earnings/sale* | $33.63 |
 | Cart conversion* | 12% |
 | Cancel rate* | 0% |
 | Vendor | Trainstitute |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Video-Kurs: Microsoft Excel im Unternehmen Der Lernkurs „Excel für Unternehmen“ wendet sich an Personen, die schon mit Excel arbeiten und damit die Grundlagen kennen. Diese Kursreihe umfasst drei Kurse und baut aufeinander auf. Die Kursinhalte sind auf die Tätigkeiten im Büroalltag von Unternehmen ausgerichtet. Empfehle unsere Videoschulungen weiter und verdiene bei jedem deiner Verkäufe mit! Wir …
+**Vendor's marketplace description:** <h1>Video-Kurs: Microsoft Excel im Unternehmen</h1>
+<p>Der Lernkurs „Excel für Unternehmen“ wendet sich an Personen, die schon mit Excel arbeiten und damit die Grundlagen kennen. Diese Kursreihe umfasst drei Kurse und baut aufeinander auf. Die Kursinhalte sind auf die Tätigkeiten im Büroalltag von Unternehmen ausgerichtet.</p>
+<h2><strong>Empfehle unsere Videoschulungen weiter und verdiene bei jedem deiner Verkäufe mit!</strong></h2>
+<h4>Wir bieten viele IT-Zertifizierung, System-Administration, Microsoft Office Tutorials Videoschulungen zu günstigen Preisen an.</h4>
+<p>Deine Vorteile als Affiliate Partner</p>
+<ul>
+<li><strong>Hohe Provision von bis zu 50%</strong></li>
+<li>Günstige Kurse die sich leicht verkaufen lassen</li>
+<li>Sehr zufriedene Kunden - durchschnittliche Bewertungsquote 4,7 Sterne</li>
+<li>Bekannte Dozenten durch den Heise Verlag und Udemy mit über 60.000 Verkäufen</li>
+<li>Werbemittel (Banner) verfügbar</li>
+<li>100-prozentiger Affiliate-Schutz: garantiert korrekte und pünktlich ausgezahlte Provisionen sowie Real-Time-Tracking durch Digistore24</li>
+<li>Affiliate Support direkt durch unsere Dozenten</li>
+</ul>
+<p>Werden jetzt Affiliate-Partner und überzeuge deine Zielgruppe von unseren großartigen Online-Kursen.</p>
+<p>Verdiene noch zusätzlich an Upsell und Cross-Sell-Kampagnen!</p>
+<p>Mit deiner Leidenschaft und unserem hochwertigen Angebot kannst du sicher sein, dass die Kunden die bestmögliche Erfahrung bieten und gleichzeitig Ihre Einnahmen steigern werden.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://video-schulungen.de/courses/excel-fuer-unternehmen-kurs-1/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/44157/adminstore/
 - Sales page: https://video-schulungen.de/courses/excel-fuer-unternehmen-kurs-1/
 - Vendor affiliate support: https://video-schulungen.de/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/488367/adminstore
@@ -83,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Microsoft Excel im Unternehmen? — Typ: Member area and video courses, Anbieter: Trainstitute, gelistet seit 2023-03-10
-- Wie viel kostet es? — 23.308480000000003 USD
+- Wie viel kostet es? — 23.256480000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

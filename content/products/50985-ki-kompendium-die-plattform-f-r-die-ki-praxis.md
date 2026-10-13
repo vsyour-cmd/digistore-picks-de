@@ -4,16 +4,16 @@ digistore24_product_id: 588893
 title: "KI-Kompendium: Die Plattform für die KI-Praxis"
 vendor: "MibeneUG"
 product_type: "Member area and video courses"
-price: 559.18
+price: 557.93
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 111.84
+earnings_per_sale: 111.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Profession & Job"]
 listed_since: "2025-01-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/588893?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/588893"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Kompendium: Die Plattform für die KI-Praxis
 
 > Product ID `50985` · Digistore24 productId `588893` · [HTML profile page](../../produkte/ki-kompendium-die-plattform-f-r-die-ki-praxis-50985.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $559.18 (Subscription) |
+| Price | $557.93 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $111.84 |
+| Earnings/sale* | $111.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MibeneUG |
@@ -41,7 +41,76 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Willkommen bei der KI-Trainingakademie – Ihrem Partner für praxisorientierte KI-Weiterbildung. Unser exklusives KI-Kompendium bietet Ihnen umfassende Ressourcen, um Ihr Wissen im Bereich Künstliche Intelligenz zu vertiefen und praktisch anzuwenden. Was erwartet Sie im KI-Kompendium? Prompt-Bibliothek: Greifen Sie auf eine umfangreiche Sammlung von Eingabeaufforderungen zu, die Ihnen helfen, KI-Mod…
+**Vendor's marketplace description:** <p>Willkommen bei der KI-Trainingakademie – Ihrem Partner für praxisorientierte KI-Weiterbildung.</p>
+<p>Unser exklusives KI-Kompendium bietet Ihnen umfassende Ressourcen, um Ihr Wissen im Bereich Künstliche Intelligenz zu vertiefen und praktisch anzuwenden.</p>
+<p><strong>Was erwartet Sie im KI-Kompendium?</strong></p>
+<ul>
+<li>
+<p><strong>Prompt-Bibliothek</strong>: Greifen Sie auf eine umfangreiche Sammlung von Eingabeaufforderungen zu, die Ihnen helfen, KI-Modelle effektiv zu nutzen und maßgeschneiderte Lösungen zu entwickeln.</p>
+</li>
+<li>
+<p><strong>KI-Assistenten und CustomGPTs: </strong>Nutzen Sie individuell angepasste KI-Lösungen, die auf spezifische Anforderungen zugeschnitten sind, um Arbeitsabläufe zu automatisieren, kreative Prozesse zu unterstützen und die Produktivität zu steigern.</p>
+</li>
+<li>
+<p><strong>KI-Glossar</strong>: Verstehen Sie die wichtigsten Begriffe und Konzepte der Künstlichen Intelligenz mit unserem detaillierten Nachschlagewerk.</p>
+</li>
+<li>
+<p><strong>KI-Videos und Tutorials</strong>: Lernen Sie durch anschauliche Video-Tutorials und Experteninterviews, die komplexe Themen verständlich erklären.</p>
+</li>
+<li>
+<p><strong>KI-Merkblätter: </strong>Erhalten Sie praxisorientierte Leitfäden und kompakte Übersichten, die Ihnen helfen, KI-Konzepte und -Strategien schnell zu verstehen und direkt anzuwenden.</p>
+</li>
+<li>
+<p><strong>KI-Toollisten</strong>: Entdecken Sie die besten Werkzeuge und Plattformen für Ihre KI-Projekte, sorgfältig ausgewählt und bewertet von unseren Fachleuten.</p>
+</li>
+<li>
+<p><strong>KI-News</strong>: Bleiben Sie stets informiert über die neuesten Entwicklungen und Trends in der Welt der Künstlichen Intelligenz.</p>
+</li>
+<li>
+<p><strong>KI-Whitepaper</strong>: Vertiefen Sie Ihr Wissen mit wissenschaftlichen Abhandlungen und praxisorientierten Berichten zu aktuellen KI-Themen.<br /><br /></p>
+</li>
+</ul>
+<div>
+<div>
+<div>
+<div>Jeden Tag neue Inhalte.</div>
+<div> </div>
+<div>UMFASSENDES WISSEN</div>
+</div>
+</div>
+<div>
+<p>Zugang zu einer vielfältigen Sammlung von Ressourcen, die alle relevanten Aspekte der KI abdecken.</p>
+<div><br />PRAXISORIENTIERTE INHALTE</div>
+</div>
+<div>
+<p>Die Materialien sind darauf ausgelegt, Ihnen praktische Fähigkeiten zu vermitteln, die Sie direkt in Ihren Projekten anwenden können.</p>
+<div>AKTUALITÄT</div>
+</div>
+<div>
+<p>Bleiben Sie stets auf dem neuesten Stand der KI-Entwicklungen und -Trends.</p>
+<div>KOSTEN- UND ZEITERSPARNIS</div>
+</div>
+<div>
+<p>Sparen Sie wertvolle Zeit bei der Recherche und profitieren Sie von kosteneffizienten Lernmaterialien.</p>
+<div>FLEXIBILITÄT</div>
+</div>
+<div>
+<p>Lernen Sie in Ihrem eigenen Tempo und nach Ihrem individuellen Zeitplan.</p>
+<div> </div>
+</div>
+<div><br />
+<div>
+<div>
+<div> </div>
+</div>
+</div>
+<h6>WETTBEWERBSVORTEIL</h6>
+<div>
+<p>Durch den gezielten Einsatz von KI-Technologien können Sie Ihre Geschäftsprozesse effizienter gestalten und sich einen Vorsprung gegenüber der Konkurrenz sichern.</p>
+</div>
+</div>
+</div>
+<p> </p>
 
 ## 2. Links
 
@@ -82,7 +151,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Kompendium: Die Plattform für die KI-Praxis? — Typ: Member area and video courses, Anbieter: MibeneUG, gelistet seit 2025-01-05
-- Wie viel kostet es? — 559.1794 USD
+- Wie viel kostet es? — 557.9319 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 605870
 title: "MyFormatConverter - Schweizer Taschenmesser f. Mediendateien"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 28.24
+price: 28.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.12
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Photography & Film","Software"]
 listed_since: "2025-04-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/605870?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51983/adminstore/"
 sales_page: "https://www.digistore24.com/product/605870"
 language: "de"
 ---
 # MyFormatConverter - Schweizer Taschenmesser f. Mediendateien
 
 > Product ID `51983` · Digistore24 productId `605870` · [HTML profile page](../../produkte/myformatconverter-schweizer-taschenmesser-f-mediendateien-51983.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.24 (Single payment) |
+| Price | $28.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.12 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** MyFormatConverter MyFormatConverter steht für optimale Bild- und Tonqualität auf jedem Ihrer Geräte! Mit MyFormatConverter passen Sie Ihre Musik, Filme und Fotos jeweils an Ihr Gerät an – ob Smartphone, Handy, Tablet, Media Player und viele mehr! Nie wieder Probleme mit inkompatiblen Formaten! Machen Sie Schluss mit dem Formatwirrwarr! Kompatibel mit Windows 10, Windows 8.1 und Windows 7 (jeweils …
+**Vendor's marketplace description:** <p><strong>MyFormatConverter</strong></p>
+<p>MyFormatConverter steht für optimale Bild- und Tonqualität auf jedem Ihrer Geräte! Mit MyFormatConverter passen Sie Ihre Musik, Filme und Fotos jeweils an Ihr Gerät an – ob Smartphone, Handy, Tablet, Media Player und viele mehr!</p>
+<p>Nie wieder Probleme mit inkompatiblen Formaten! Machen Sie Schluss mit dem Formatwirrwarr!</p>
+<p>Kompatibel mit Windows 10, Windows 8.1 und Windows 7 (jeweils 32- und 64-bit) und Windows 11.</p>
+<p>Die Software ist per Download direkt nach dem Kauf verfügbar. Zudem wird die Seriennummer per E-Mail versendet.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/605870?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51983/adminstore/
 - Sales page: https://www.digistore24.com/product/605870
 - Canonical redirect: https://www.digistore24.com/redir/605870/adminstore
 
@@ -83,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MyFormatConverter - Schweizer Taschenmesser f. Mediendateien? — Typ: Software, Anbieter: engelmann-software, gelistet seit 2025-04-07
-- Wie viel kostet es? — 28.23912 USD
+- Wie viel kostet es? — 28.17612 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

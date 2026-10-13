@@ -4,34 +4,34 @@ digistore24_product_id: 728106
 title: "Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten"
 vendor: "JuergenBraun-Mentoring"
 product_type: "Member area and video courses"
-price: 1109.39
+price: 1106.92
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 332.82
+earnings_per_sale: 332.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Office Organization"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://lehrgang.uhrwerk-prinzip.com/lehrgang?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58907/adminstore/"
 sales_page: "https://lehrgang.uhrwerk-prinzip.com/lehrgang"
 language: "de"
 ---
 # Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten
 
 > Product ID `58907` · Digistore24 productId `728106` · [HTML profile page](../../produkte/das-uhrwerk-prinzip-vom-nadel-hr-zum-architekten-58907.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1109.39 (Single payment) |
+| Price | $1106.92 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $332.82 |
+| Earnings/sale* | $332.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JuergenBraun-Mentoring |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochpreisiger Business-Lehrgang für Unternehmer und Geschäftsführer, die ihr Unternehmen betriebssicher weiterentwickeln, operative Abhängigkeiten von ihrer persönlichen Steuerung lösen und ihre Kraft wieder nach vorne richten wollen. Das Uhrwerk-Prinzip adressiert ein Problem, das mit wachsendem Unternehmen immer deutlicher wird: Entscheidungen, Abstimmungen, Problemlösungen und operative Ste…
+**Vendor's marketplace description:** <p><strong>Ein hochpreisiger Business-Lehrgang für Unternehmer und Geschäftsführer, die ihr Unternehmen betriebssicher weiterentwickeln, operative Abhängigkeiten von ihrer persönlichen Steuerung lösen und ihre Kraft wieder nach vorne richten wollen.</strong></p>
+<p>Das Uhrwerk-Prinzip adressiert ein Problem, das mit wachsendem Unternehmen immer deutlicher wird: Entscheidungen, Abstimmungen, Problemlösungen und operative Steuerung laufen weiterhin beim Unternehmer zusammen.</p>
+<p>Der Lehrgang macht diese strukturellen Abhängigkeiten sichtbar und zeigt, was sich in der Unternehmensarchitektur verändern muss, damit das Unternehmen zunehmend selbst leisten kann, was heute noch am Unternehmer hängt.</p>
+<p>Der Teilnehmer erhält:</p>
+<p>• einen geführten Einstieg in das Uhrwerk-Prinzip<br />• 4 aufeinander aufbauende Kernmodule<br />• eine System-Diagnose zur strukturellen Standortbestimmung<br />• eine Auswertungsmatrix zur Einordnung der Ergebnisse<br />• eine Architekturentscheidung für den nächsten Entwicklungsschritt<br />• einen Vorbereitungsbogen zur Unternehmens-Architektur-Analyse<br />• ein Glossar und Nachschlagewerk<br />• 12 Monate Zugang zum vollständigen Teilnehmerbereich</p>
+<p>Der Lehrgang richtet sich insbesondere an Unternehmer, Inhaber und Geschäftsführer etablierter Unternehmen, die ihr Unternehmen tragfähiger, klarer und unabhängiger von ihrer persönlichen Dauersteuerung entwickeln wollen.</p>
+<p><strong>Zentrale Idee:</strong></p>
+<p>Ein Unternehmen soll mit seinem Wachstum selbstständiger werden – und nicht immer abhängiger vom Unternehmer.</p>
+<p><strong>Verkaufspreis:</strong> 990 €<br /><strong>Affiliate-Provision:</strong> 30 %</p>
+<p>Für Affiliates stehen vorbereitete Verkaufslinks, Social-Media-Texte, E-Mail-Texte sowie Bild- und Bannermaterial zur Verfügung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lehrgang.uhrwerk-prinzip.com/lehrgang?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58907/adminstore/
 - Sales page: https://lehrgang.uhrwerk-prinzip.com/lehrgang
 - Vendor affiliate support: https://lehrgang.uhrwerk-prinzip.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/728106/adminstore
@@ -104,7 +113,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Uhrwerk-Prinzip – Vom Nadelöhr zum Architekten? — Typ: Member area and video courses, Anbieter: JuergenBraun-Mentoring, gelistet seit 2026-09-04
-- Wie viel kostet es? — 1109.394 USD
+- Wie viel kostet es? — 1106.919 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

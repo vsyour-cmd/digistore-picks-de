@@ -4,34 +4,34 @@ digistore24_product_id: 675824
 title: "Eigenes E-Book erstellen – Bundle mit KI-System + Canva Desi"
 vendor: "JennyKlh"
 product_type: "E-books"
-price: 51.31
+price: 51.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 25.66
+earnings_per_sale: 25.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-03-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://mama-zuhause-erfolgreich.de/ebook-erstellen-bundle/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55877/adminstore/"
 sales_page: "https://mama-zuhause-erfolgreich.de/ebook-erstellen-bundle/"
 language: "de"
 ---
 # Eigenes E-Book erstellen – Bundle mit KI-System + Canva Desi
 
 > Product ID `55877` · Digistore24 productId `675824` · [HTML profile page](../../produkte/eigenes-e-book-erstellen-bundle-mit-ki-system-canva-desi-55877.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $51.31 (Single payment) |
+| Price | $51.20 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $25.66 |
+| Earnings/sale* | $25.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JennyKlh |
@@ -41,11 +41,53 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** E-Book Creator Bundle – Eigenes E-Book mit KI erstellen & in Canva gestalten Erstelle dein eigenes E-Book – mit KI schreiben und mit Canva professionell gestalten (nur 49 €). Das E-Book Creator Bundle zeigt Schritt für Schritt, wie ein eigenes E-Book entwickelt, geschrieben und professionell gestaltet wird – auch ohne Vorerfahrung. Das Bundle kombiniert zwei Guides, die perfekt zusammenpassen: E-B…
+**Vendor's marketplace description:** <p><strong>E-Book Creator Bundle – Eigenes E-Book mit KI erstellen &amp; in Canva gestalten</strong></p>
+<p>Erstelle dein eigenes E-Book – mit KI schreiben und mit Canva professionell gestalten (nur 49 €).</p>
+<p>Das <strong>E-Book Creator Bundle</strong> zeigt Schritt für Schritt, wie ein eigenes E-Book entwickelt, geschrieben und professionell gestaltet wird – auch ohne Vorerfahrung.</p>
+<p>Das Bundle kombiniert zwei Guides, die perfekt zusammenpassen:</p>
+<p><strong>E-Book Generator PRO</strong> – entwickle dein E-Book mit einem klaren Schritt-für-Schritt-System und gezielten KI-Prompts.</p>
+<p><strong>Canva Mastery für E-Books</strong> – gestalte dein fertiges E-Book professionell mit Canva, damit es direkt hochwertig und verkaufsbereit wirkt.</p>
+<p>Das Ergebnis:<br />Ein eigenes fertiges E-Book, das als digitales Produkt verkauft, als Lead-Magnet genutzt oder als Experten-Guide eingesetzt werden kann.</p>
+<p><strong>Ideal für:</strong></p>
+<ul>
+<li>
+<p>Blogger</p>
+</li>
+<li>
+<p>Online-Business Starter</p>
+</li>
+<li>
+<p>Coaches &amp; Selbstständige</p>
+</li>
+<li>
+<p>Creator mit eigenem Wissen</p>
+</li>
+<li>
+<p>Menschen, die ihr erstes digitales Produkt erstellen möchten</p>
+</li>
+</ul>
+<p><strong>Warum sich das Bundle gut bewerben lässt:</strong></p>
+<ul>
+<li>
+<p>großes Interesse am Thema „digitales Produkt erstellen“</p>
+</li>
+<li>
+<p>aktuelle Themen: KI + Canva</p>
+</li>
+<li>
+<p>klares Ergebnis: eigenes fertiges E-Book</p>
+</li>
+<li>
+<p>besonders geeignet für Anfänger</p>
+</li>
+<li>
+<p>attraktive <strong>50 % Affiliate-Provision</strong></p>
+</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mama-zuhause-erfolgreich.de/ebook-erstellen-bundle/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55877/adminstore/
 - Sales page: https://mama-zuhause-erfolgreich.de/ebook-erstellen-bundle/
 - Vendor affiliate support: https://mama-zuhause-erfolgreich.de/e-book-creator-bundle-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/675824/adminstore
@@ -94,7 +136,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Eigenes E-Book erstellen – Bundle mit KI-System + Canva Desi? — Typ: E-books, Anbieter: JennyKlh, gelistet seit 2026-03-12
-- Wie viel kostet es? — 51.312274 USD
+- Wie viel kostet es? — 51.197799 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

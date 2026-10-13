@@ -4,16 +4,16 @@ digistore24_product_id: 734302
 title: "Hypnose-Onlinekurs Zwerchfell Aktivieren"
 vendor: "petanthony"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 11.54
+earnings_per_sale: 11.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://shop.petanthony.com/online-kurse_zwerchfell-aktivieren-DS/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.petanthony.com/online-kurse_zwerchfell-aktivieren-DS/"
@@ -22,16 +22,16 @@ language: "de"
 # Hypnose-Onlinekurs Zwerchfell Aktivieren
 
 > Product ID `60056` · Digistore24 productId `734302` · [HTML profile page](../../produkte/hypnose-onlinekurs-zwerchfell-aktivieren-60056.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $11.54 |
+| Earnings/sale* | $11.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | petanthony |
@@ -41,7 +41,37 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Befreie Deine festgehaltenen Traumaenergien, löse die chronischen Verspannungen aus Deinem Zwerchfell und atme wieder tief durch! Solange wir flach in die Brust atmen ist unser Nervensystem ständig im Alarmmodus und unser Parasympathikus kann sich nicht aktivieren. Unsere Organe leiden und die Lebensenergie kann nicht fließen. Dieser Hypnose-Onlinekurs unterstützt Dich dabei, Deinen wichtigsten At…
+**Vendor's marketplace description:** <div>
+<div>
+<p>Befreie Deine festgehaltenen Traumaenergien, löse die chronischen Verspannungen aus Deinem Zwerchfell und atme wieder tief durch!</p>
+</div>
+</div>
+<div>
+<div>
+<p>Solange wir flach in die Brust atmen ist unser Nervensystem ständig im Alarmmodus und unser Parasympathikus kann sich nicht aktivieren. Unsere Organe leiden und die Lebensenergie kann nicht fließen.</p>
+</div>
+</div>
+<div>
+<div>
+<p>Dieser Hypnose-Onlinekurs unterstützt Dich dabei, Deinen wichtigsten Atemmuskel dauerhaft aus seiner Trauma-Schockstarre zu lösen und so Deine Brustpanzerung zu sprengen.</p>
+</div>
+</div>
+<p>Inhalt dieses Online-Kurses:</p>
+<ul>
+<li>
+<p>Videolektion: Das Zwerchfell verstehen</p>
+</li>
+<li>
+<p>Videolektion: Praktische Übungen</p>
+</li>
+<li>
+<p>Videolektion: Tipps zur richtigen Hypnoseanwendung</p>
+</li>
+<li>
+<p>Hypnosevideo mit Audio-Version</p>
+</li>
+</ul>
+<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
 
 ## 2. Links
 
@@ -59,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose-Onlinekurs Zwerchfell Aktivieren? — Typ: Member area and video courses, Anbieter: petanthony, gelistet seit 2026-09-30
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 688993
 title: "Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50%"
 vendor: "travelmom89"
 product_type: "Member area and video courses"
-price: 188.29
+price: 187.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 94.15
+earnings_per_sale: 93.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness"]
 listed_since: "2026-06-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://carolina-stephan.de/kinderwunsch/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56857/adminstore/"
 sales_page: "https://carolina-stephan.de/kinderwunsch/"
 language: "de"
 ---
 # Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50%
 
 > Product ID `56857` · Digistore24 productId `688993` · [HTML profile page](../../produkte/kinderwunsch-kurs-199-top-nische-frauengesundheit-50-56857.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $188.29 (Single payment, Installment) |
+| Price | $187.87 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $94.15 |
+| Earnings/sale* | $93.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | travelmom89 |
@@ -41,11 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Kinderwunsch Kurs von Carolina Stephan (@travelmom89, 46.000+ Follower auf TikTok und Instagram) richtet sich an Frauen, die beim Kinderwunsch nicht weiterkommen oder nach einer Fehlgeburt Antworten suchen, bevor sie in die Kinderwunschklinik gehen. 6 Module, 36 Lektionen: Blutwerte verstehen (Normbereich vs. optimal für Kinderwunsch) Zyklus lesen Supplements nach Studienlage Lebensstil Männli…
+**Vendor's marketplace description:** <p>Der Kinderwunsch Kurs von Carolina Stephan (@travelmom89, 46.000+ Follower auf TikTok und Instagram) richtet sich an Frauen, die beim Kinderwunsch nicht weiterkommen oder nach einer Fehlgeburt Antworten suchen, bevor sie in die Kinderwunschklinik gehen.</p>
+<p>6 Module, 36 Lektionen:</p>
+<ul>
+<li>Blutwerte verstehen (Normbereich vs. optimal für Kinderwunsch)</li>
+<li>Zyklus lesen</li>
+<li>Supplements nach Studienlage</li>
+<li>Lebensstil</li>
+<li>Männliche Fruchtbarkeit</li>
+<li>Der richtige Zeitpunkt für die Klinik</li>
+</ul>
+<p>Evidenzbasiert aufbereitet, mit klarer Abgrenzung: Bildung und Information, kein Heilversprechen, keine medizinische Beratung. Rechtssicher formulierte Verkaufsseite und Werbematerialien.</p>
+<p>Warum sich die Promotion lohnt:</p>
+<ul>
+<li>Die Zielgruppe ist hochmotiviert und gibt in dieser Lebensphase bereits dreistellige Beträge für Tests und Supplements aus. Preis 199 € (Einführungspreis, später 249 €),</li>
+<li>Ratenzahlung ab 49,99 €</li>
+<li>30 Tage Geld-zurück-Garantie für niedrige Kaufhürde.</li>
+<li>Conversion-optimierte Verkaufsseite mit Video</li>
+<li>Kostenfreier Lead-Magnet (PDF "7 Ursachen die kaum jemand testet") als Einstieg für deine Liste.</li>
+</ul>
+<p>Passend für:</p>
+<p>Affiliates und Creator in den Bereichen Frauengesundheit, Mama, Schwangerschaft, Zyklus, ganzheitliche Gesundheit, Ernährung. Email-Listen mit weiblicher Zielgruppe 28 bis 42.</p>
+<p>Werbematerial (Email-Vorlagen, Grafiken, Textbausteine) auf Anfrage. Kontakt: affiliate@carolina-stephan.de</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://carolina-stephan.de/kinderwunsch/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56857/adminstore/
 - Sales page: https://carolina-stephan.de/kinderwunsch/
 - Canonical redirect: https://www.digistore24.com/redir/688993/adminstore
 
@@ -93,7 +114,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50%? — Typ: Member area and video courses, Anbieter: travelmom89, gelistet seit 2026-06-10
-- Wie viel kostet es? — 188.294418 USD
+- Wie viel kostet es? — 187.874343 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

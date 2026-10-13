@@ -4,34 +4,34 @@ digistore24_product_id: 408366
 title: "Aquarell Online Kurs"
 vendor: "Timothy90"
 product_type: "Member area and video courses"
-price: 85.18
+price: 84.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.18
+earnings_per_sale: 37.1
 cart_conversion_pct: 8
 cancel_rate_pct: 0.59
 categories: ["Hobby & Craft"]
 listed_since: "2021-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://manylearn.com/kurse/aquarell-zauber?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39841/adminstore/"
 sales_page: "https://manylearn.com/kurse/aquarell-zauber"
 language: "de"
 ---
 # Aquarell Online Kurs
 
 > Product ID `39841` · Digistore24 productId `408366` · [HTML profile page](../../produkte/aquarell-online-kurs-39841.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $85.18 (Single payment, Installment) |
+| Price | $84.99 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.18 |
+| Earnings/sale* | $37.10 |
 | Cart conversion* | 8% |
 | Cancel rate* | 0.59% |
 | Vendor | Timothy90 |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Achtung: Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst. Aquarell Online Grundkurs mit 34 Lektionen verteilt auf 8 starke Module Inklusive Vorlagen zum Ausdrucken und Farbangaben Der perfekte Einstieg in die wunderbare Welt der Aquarellmalerei Wichtiges Materialwissen, um Frust zu vermeiden und…
+**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>Achtung:</strong> Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst. </span></p>
+<hr />
+<ul>
+<li>Aquarell Online Grundkurs mit 34 Lektionen verteilt auf 8 starke Module</li>
+<li>Inklusive Vorlagen zum Ausdrucken und Farbangaben</li>
+<li>Der perfekte Einstieg in die wunderbare Welt der Aquarellmalerei</li>
+<li>Wichtiges Materialwissen, um Frust zu vermeiden und schnell Erfolge zu sehen.</li>
+<li>Basistechniken lernen ohne sich selbst dabei zu kritisieren.</li>
+<li>Viele Motive malen lernen mit aufeinander aufbauenden Techniken.</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://manylearn.com/kurse/aquarell-zauber?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39841/adminstore/
 - Sales page: https://manylearn.com/kurse/aquarell-zauber
 - Canonical redirect: https://www.digistore24.com/redir/408366/adminstore
 
@@ -88,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aquarell Online Kurs? — Typ: Member area and video courses, Anbieter: Timothy90, gelistet seit 2021-09-21
-- Wie viel kostet es? — 85.17680600000001 USD
+- Wie viel kostet es? — 84.98678100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

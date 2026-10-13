@@ -4,34 +4,34 @@ digistore24_product_id: 260497
 title: "Raspberry Pi Anleitung für Einsteiger"
 vendor: "FIMA2011"
 product_type: "Downloads"
-price: 23.53
+price: 23.48
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.77
+earnings_per_sale: 11.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2019-02-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.raspi-config.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/28161/adminstore/"
 sales_page: "https://www.raspi-config.de"
 language: "de"
 ---
 # Raspberry Pi Anleitung für Einsteiger
 
 > Product ID `28161` · Digistore24 productId `260497` · [HTML profile page](../../produkte/raspberry-pi-anleitung-f-r-einsteiger-28161.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.53 (Single payment) |
+| Price | $23.48 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.77 |
+| Earnings/sale* | $11.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FIMA2011 |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Deine Vorteile als Affiliate - Teaser Video für hohe Conversion Rates- Werbebanner- Social Media Bilder Jetzt "Raspberry Pi für Einsteiger" Videokurs bewerben ... ... und sofort loslegen! Zur Affiliate Support Seite (Klick) Zielgruppen sind:- Raspberry Pi Interessenten- Technik Blog Leser- Bastler- Technikbegeisterte Menschen- Unternehmen- Computerschulen Um so vielen Webseitenbetreibern und Liste…
+**Vendor's marketplace description:** <h1><span style="background-color:#ccffcc;color:#000000;"><strong>Deine Vorteile als Affiliate</strong></span></h1>
+<h2>- <span style="color:#ff0000;">Teaser Video</span> <span style="color:#000000;">für hohe Conversion Rates</span><br />- Werbebanner<br />- Social Media Bilder</h2>
+<h2>Jetzt "Raspberry Pi für Einsteiger" Videokurs bewerben ...</h2>
+<h2>... und sofort loslegen!</h2>
+<h1><span style="background-color:#ffff00;"><a style="background-color:#ffff00;" href="https://www.raspi-config.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"><span style="color:#99cc00;background-color:#993366;"><span style="color:#000000;"><span style="background-color:#ffff00;">Zur Affiliate Support Seite</span></span><span style="color:#ffff00;background-color:#ffff00;"><span style="color:#ffffff;"><span style="color:#000000;"> (Klick)</span></span></span></span></a></span></h1>
+<h2><strong>Zielgruppen sind:</strong><br /><br /><strong>- Raspberry Pi Interessenten<br /></strong>- Technik Blog Leser<br /><strong>- Bastler</strong><br /><strong>- Technikbegeisterte Menschen</strong><strong><br />- Unternehmen<br />- Computerschulen</strong></h2>
+<p><strong>Um so vielen Webseitenbetreibern und Listeninhabern die Teilnahme am Partnerprogramm zu ermöglichen, biete ich einen Sonderservice für zielgruppenspezifische Werbung an. </strong></p>
+<p><strong>Für diese Vertriebspartner stelle ich nach vorheriger Anfrage (Mail an <a>amim@freenet.de</a>) maßgeschneiderte Werbemittel wie z.B. Squeezepages, Branchenspezifische Banner und Newsletter-Texte zur Verfügung.</strong></p>
+<p><strong>Videokurs Inhalte:</strong></p>
+<p><strong>25 Lektionen kompaktes Raspberry Pi Know-How:</strong></p>
+<p><strong>+ Was ist ein Raspberry PI?<br />+ Welche spannenden Projekte gibt es bereits?<br />+ Welche Modelle gibt es und welches ist das richtige für mich?<br />+ Wo kann ich einen Raspberry + Zubehör kaufen?<br />+ Technische Daten und Schnittstellen des Raspberry PI 3B+<br />+ Was kann ich nach dem ersten Start bereits mit einem Raspberry machen?<br />+ Herunterladen der Images aus dem Internet<br />+ Installation des Betriebssystems auf der microSD Karte (für PC)<br />+ Installation des Betriebssystems auf der microSD Karte (für Mac)<br />+ Installation des Betriebssystems mit NOOBS<br />+ Inbetriebnahme des Raspberry mit einem Monitor<br />+ Inbetriebnahme des Raspberry ohne Monitor (headless Installation)<br />+ microSD Backup erstellen &amp; Image Wiederherstellung<br />+ microSD Karte mit leeren (Mac + PC)<br />+ Welche Projekte sind softwarebasiert möglich?<br />+ Software Projekt: PI-Hole netzwerkweiter Werbeblocker<br />+ Software Projekt: Homebridge (Beispiel: Lampensteuerung)<br />+ Software Projekt: Webmin zur Systemverwaltung<br />+ Software Projekt: Retropi (Spielekonsole) + Kodi (Media Center)<br />+ Was kann ich für Sensoren am Raspberry anschließen?<br />+ Hardware Projekt: Kamera-Modul<br />+ Hardware Projekt: Bodenfeuchtigkeit-Modul<br />+ Hardware Projekt: Lichtempfindlichkeit-Modul<br />+ Hardware Projekt: Laserstrahl-Modul<br />+ Einführung Programmieren mit Scratch<br />+ Einführung Programmieren mit Thonny (Python)</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.raspi-config.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/28161/adminstore/
 - Sales page: https://www.raspi-config.de
 - Vendor affiliate support: https://www.raspi-config.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/260497/adminstore
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raspberry Pi Anleitung für Einsteiger? — Typ: Downloads, Anbieter: FIMA2011, gelistet seit 2019-02-15
-- Wie viel kostet es? — 23.532600000000002 USD
+- Wie viel kostet es? — 23.4801 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

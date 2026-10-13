@@ -4,16 +4,16 @@ digistore24_product_id: 739008
 title: "Alte Heizung – was jetzt? Ratgeber zum neuen Heizungsgesetz (GModG) | 50 % Provision"
 vendor: "info0eba"
 product_type: "E-books"
-price: 18.33
+price: 18.29
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.17
+earnings_per_sale: 9.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Law & Justice","Real Estate"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://myhome-makler.de/immobilien-guides/ebooks/1-alte-heizung/?aff=adminstore#aff=adminstore"
 sales_page: "https://myhome-makler.de/immobilien-guides/ebooks/1-alte-heizung/"
@@ -22,16 +22,16 @@ language: "de"
 # Alte Heizung – was jetzt? Ratgeber zum neuen Heizungsgesetz (GModG) | 50 % Provision
 
 > Product ID `60212` · Digistore24 productId `739008` · [HTML profile page](../../produkte/alte-heizung-was-jetzt-ratgeber-zum-neuen-heizungsgesetz-gmodg-50-provision-60212.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.33 (Single payment) |
+| Price | $18.29 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.17 |
+| Earnings/sale* | $9.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info0eba |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Seit dem 29. Juli 2026 gilt das neue Gebäudemodernisierungsgesetz (GModG). Viele Eigentümer mit älterer Öl- oder Gasheizung fragen sich jetzt: Muss die Heizung raus? Was kostet das Weiterheizen? Welche Förderung gibt es? Der Ratgeber „Alte Heizung – was jetzt?“ von Immobilienmakler Marko Will (myhome-Makler, Nürnberg) beantwortet genau diese Fragen – verständlich, mit Rechenbeispielen und Checklis…
+**Vendor's marketplace description:** <p>Seit dem 29. Juli 2026 gilt das neue Gebäudemodernisierungsgesetz (GModG). Viele Eigentümer mit älterer Öl- oder Gasheizung fragen sich jetzt: Muss die Heizung raus? Was kostet das Weiterheizen? Welche Förderung gibt es?</p>
+<p>Der Ratgeber <strong>„Alte Heizung – was jetzt?“</strong> von Immobilienmakler Marko Will (myhome-Makler, Nürnberg) beantwortet genau diese Fragen – verständlich, mit Rechenbeispielen und Checklisten:</p>
+<ul>
+<li>Austauschpflicht und 30-Jahre-Regel nach dem neuen Gesetz</li>
+<li>Biotreppe und CO₂-Preis</li>
+<li>Förderung bis 80 % mit Rechenbeispielen und der richtigen Reihenfolge beim Antrag</li>
+<li>Kaufen, verkaufen und vermieten mit alter Heizung</li>
+<li>Fahrplan in sieben Schritten, Checklisten, FAQ und Glossar</li>
+</ul>
+<p>Format: E-Book als PDF, 50 Seiten, Sofort-Download.</p>
+<p><strong>Für Partner:</strong></p>
+<ul>
+<li>50 % Provision pro Verkauf</li>
+<li>Zielgruppe: Eigentümer, Käufer, Verkäufer, Erben und Vermieter von Häusern mit älterer Öl- oder Gasheizung</li>
+<li>Fertige Werbemittel für Facebook, Instagram, TikTok, YouTube und Google Ads sowie Werbetexte auf der Affiliate-Support-Seite</li>
+<li>Bitte keine übertriebenen Versprechen (z. B. garantierte Förderung); der Ratgeber ersetzt keine Rechts-, Steuer- oder Energieberatung. Keine Google-Ads-Anzeigen auf die Marke „myhome-Makler“.</li>
+</ul>
 
 ## 2. Links
 
@@ -73,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Alte Heizung – was jetzt? Ratgeber zum neuen Heizungsgesetz (GModG) | 50 % Provision? — Typ: E-books, Anbieter: info0eba, gelistet seit 2026-10-05
-- Wie viel kostet es? — 18.333016 USD
+- Wie viel kostet es? — 18.292116 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

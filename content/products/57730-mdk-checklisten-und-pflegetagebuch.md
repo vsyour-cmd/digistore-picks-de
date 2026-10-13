@@ -4,16 +4,16 @@ digistore24_product_id: 706701
 title: "MDK-Checklisten und Pflegetagebuch"
 vendor: "PflegekommpassAutismusRecht"
 product_type: "Downloads"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Marketing Services"]
 listed_since: "2026-07-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/706701?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/706701"
@@ -22,16 +22,16 @@ language: "de"
 # MDK-Checklisten und Pflegetagebuch
 
 > Product ID `57730` · Digistore24 productId `706701` · [HTML profile page](../../produkte/mdk-checklisten-und-pflegetagebuch-57730.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PflegekommpassAutismusRecht |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerben Sie die Hilfestellungen und Checkliste zur richtigen Vorbereitungen auf den MDK Begutachtungstermin. Um den Pflegegrad zu erhalten und eine Ablehnung zu vermeiden.
+**Vendor's marketplace description:** <p style="padding-left:40px;">Bewerben Sie die Hilfestellungen und Checkliste zur richtigen Vorbereitungen auf den MDK Begutachtungstermin. Um den Pflegegrad zu erhalten und eine Ablehnung zu vermeiden. </p>
 
 ## 2. Links
 
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MDK-Checklisten und Pflegetagebuch? — Typ: Downloads, Anbieter: PflegekommpassAutismusRecht, gelistet seit 2026-07-24
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

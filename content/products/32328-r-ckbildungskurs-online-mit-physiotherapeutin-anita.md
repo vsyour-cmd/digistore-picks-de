@@ -4,16 +4,16 @@ digistore24_product_id: 316841
 title: "Rückbildungskurs online mit Physiotherapeutin Anita"
 vendor: "GesundeKurse"
 product_type: "Member area and video courses"
-price: 63.09
+price: 62.95
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 25.24
+earnings_per_sale: 25.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-03-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.online-rueckbildungscoach.de/rueckbildungskurs-online?aff=adminstore#aff=adminstore"
 sales_page: "https://www.online-rueckbildungscoach.de/rueckbildungskurs-online"
@@ -22,16 +22,16 @@ language: "de"
 # Rückbildungskurs online mit Physiotherapeutin Anita
 
 > Product ID `32328` · Digistore24 productId `316841` · [HTML profile page](../../produkte/r-ckbildungskurs-online-mit-physiotherapeutin-anita-32328.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $63.09 (Single payment) |
+| Price | $62.95 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $25.24 |
+| Earnings/sale* | $25.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GesundeKurse |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieser Rückbildungskurs online ist ein 10-wöchiges-Online-Rückbildungsprogramm für Frauen nach einer Schwangerschaft mit Physiotherapeutin & Rückbildungscoach Anita. Verkaufpreis 67 - 97 Euro 40% Provision perfekt für Partner die im Bereich Schwangerschaft, Rückbildung, Baby und Mamas unterwegs sind. Physiotherapeutin Anita unterstützt seit Jahren Frauen nach einer Schwangerschaft, um wieder eine …
+**Vendor's marketplace description:** <p>Dieser <strong>Rückbildungskurs online</strong> ist ein 10-wöchiges-Online-Rückbildungsprogramm für Frauen nach einer Schwangerschaft mit <strong>Physiotherapeutin &amp; Rückbildungscoach Anita</strong>.</p>
+<ul style="list-style-type:circle;">
+<li>Verkaufpreis 67 - 97 Euro</li>
+<li>40% Provision</li>
+<li>perfekt für Partner die im Bereich Schwangerschaft, Rückbildung, Baby und Mamas unterwegs sind.</li>
+</ul>
+<p>Physiotherapeutin Anita unterstützt seit Jahren Frauen nach einer Schwangerschaft, um wieder eine stabile &amp; schöne Körpermitte zu erhalten. Anita ist auf Rückbildung, Beckenboden und Rektusdiastase therapeutisch spezialisiert.</p>
+<p>Die Frauen lernen effektive Übungen für den Bauch und Beckenboden, um Beckenbodenprobleme und Rückenschmerzen vorzubeugen oder loszuwerden und um wieder einen schönen, stabilen Bauch zu erhalten. Dieser Kurs beinhaltet zusätzlich ein Workbook mit allen wichtigen Infos, Tests und Übungen zum Downloaden.</p>
 
 ## 2. Links
 
@@ -93,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rückbildungskurs online mit Physiotherapeutin Anita? — Typ: Member area and video courses, Anbieter: GesundeKurse, gelistet seit 2020-03-30
-- Wie viel kostet es? — 63.08978 USD
+- Wie viel kostet es? — 62.94903 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

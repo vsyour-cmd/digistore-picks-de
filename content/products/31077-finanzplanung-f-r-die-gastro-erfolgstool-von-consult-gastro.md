@@ -4,34 +4,34 @@ digistore24_product_id: 192013
 title: "Finanzplanung für die Gastro- Erfolgstool von Consult Gastro"
 vendor: "Energiekur"
 product_type: "Downloads"
-price: 22.4
+price: 22.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.21
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2018-01-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/192013?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/31077/adminstore/"
 sales_page: "https://www.digistore24.com/product/192013"
 language: "de"
 ---
 # Finanzplanung für die Gastro- Erfolgstool von Consult Gastro
 
 > Product ID `31077` · Digistore24 productId `192013` · [HTML profile page](../../produkte/finanzplanung-f-r-die-gastro-erfolgstool-von-consult-gastro-31077.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.40 (Single payment) |
+| Price | $22.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.21 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Energiekur |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Jeder Gastronom benötigt bei der Gründung für sich oder für den Business Plan eine Finanzplanung. Promoten Sie das führende Excel-Tool der Finanzplanung von Consult Gastro. Es hat sich bereits in hunderten von Beratungsprojekten bewährt. Erhalten Sie 50% Provision! Im Bereich SEM und SEO ist alles erlaubt. Die Kunden erhalten: Excel Tool "Finanzplanung für die Gastronomie" Ausführliche Schritt für…
+**Vendor's marketplace description:** <p>Jeder Gastronom benötigt bei der Gründung für sich oder für den Business Plan eine Finanzplanung. </p>
+<p>Promoten Sie das führende Excel-Tool der Finanzplanung von Consult Gastro. Es hat sich bereits in hunderten von Beratungsprojekten bewährt.</p>
+<p>Erhalten Sie 50% Provision! Im Bereich SEM und SEO ist alles erlaubt. </p>
+<p><strong>Die Kunden erhalten:</strong></p>
+<ul>
+<li>Excel Tool "Finanzplanung für die Gastronomie"</li>
+<li>Ausführliche Schritt für Schritt Video-Anleitung zum Ausfüllen des Tools</li>
+<li>Email Support bei Fragen</li>
+</ul>
+<p><strong>Warum ist die Finanzplanung wichtig?</strong></p>
+<p>Vor Gründung, zu Beginn aller Überlegungen und vor finanziellen Verpflichtungen, steht die Finanzplanung. Wenn Ihr Restaurant nicht nur ein teures Hobby sein soll, sondern Sie mit der Selbständigkeit Geld verdienen wollen, müssen Sie kalkulieren, ob es sich wirklich für Sie lohnt.</p>
+<p><strong>Welche Fragen bekommen die Gastronomen beantwortet? </strong></p>
+<p>Was müssen Sie mindestens verdienen, damit sich der Aufwand lohnt? Welche Fähigkeiten bringen Sie selber mit? Welche Ressourcen benötigen Sie darüber hinaus noch? Wie genau sieht Ihr Konzept aus? Welche Öffnungszeiten bieten Sie an? Wie hoch ist die Anfangsinvestition, um starten zu können? Das sind u.a. alles wichtige Fragen, die Sie sich automatisch stellen werden bei der Bearbeitung der Finanzplanung. Daher wird schon ersichtlich welchen Stellenwert diese Aufgabe hat. Sie setzen sich mit allen relevanten Themen auseinander.</p>
+<p><strong>Wie funktioniert das Tool?</strong></p>
+<p>Das Tool für den Finanzplan basiert auf Excel und führt Sie Schritt für Schritt zu Ihrem Finanzplan. Sie berechnen die Investitionen, erstellen Ihre Gewinn- und Verlustrechnung, überprüfen die Liquiditätsplanung und bestimmen den gesamten Kapitalbedarf. Die Rentabilitätsrechnung wird dann final vom Excel Finanzplan-Tool automatisch für Sie erstellt. Es generiert außerdem Grafiken, die Sie in den Businessplan übernehmen können.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/192013?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/31077/adminstore/
 - Sales page: https://www.digistore24.com/product/192013
 - Canonical redirect: https://www.digistore24.com/redir/192013/adminstore
 
@@ -78,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanzplanung für die Gastro- Erfolgstool von Consult Gastro? — Typ: Downloads, Anbieter: Energiekur, gelistet seit 2018-01-07
-- Wie viel kostet es? — 22.400793999999998 USD
+- Wie viel kostet es? — 22.350819 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

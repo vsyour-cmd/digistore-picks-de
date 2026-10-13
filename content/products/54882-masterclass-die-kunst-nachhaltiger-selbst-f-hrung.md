@@ -4,16 +4,16 @@ digistore24_product_id: 650117
 title: "Masterclass „Die Kunst nachhaltiger (Selbst)Führung“"
 vendor: "DariusGoetsch"
 product_type: "Member area and video courses"
-price: 234.47
+price: 233.95
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 93.79
+earnings_per_sale: 93.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2025-11-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.wald-fuehrung.de/masterclass-d?aff=adminstore#aff=adminstore"
 sales_page: "https://www.wald-fuehrung.de/masterclass-d"
@@ -22,16 +22,16 @@ language: "de"
 # Masterclass „Die Kunst nachhaltiger (Selbst)Führung“
 
 > Product ID `54882` · Digistore24 productId `650117` · [HTML profile page](../../produkte/masterclass-die-kunst-nachhaltiger-selbst-f-hrung-54882.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $234.47 (Single payment) |
+| Price | $233.95 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $93.79 |
+| Earnings/sale* | $93.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DariusGoetsch |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Eine praxisnahe Masterclass für Führungskräfte, Unternehmer:innen und Menschen, die bewusst wachsen wollen. Sie verbindet Natur, Führung und innere Klarheit und bietet über 11 Stunden Videotraining plus hochwertige Materialien zum Download. Alleinstellungsmerkmale (USP) 1.Einzigartige Verbindung aus Natur, Führung & persönlicher Entwicklung – inspiriert, entschleunigt und eröffnet tiefe Erkenntnis…
+**Vendor's marketplace description:** <p>Eine <strong>praxisnahe</strong> Masterclass für Führungskräfte, Unternehmer:innen und Menschen, die bewusst <strong>wachsen</strong> wollen.</p>
+<p>Sie verbindet <strong>Natur</strong>, <strong>Führung</strong> und innere Klarheit und bietet über 11 Stunden Videotraining plus hochwertige Materialien zum Download.</p>
+<p> </p>
+<p><strong>Alleinstellungsmerkmale (USP)</strong></p>
+<p>1.<strong>Einzigartige Verbindung aus Natur, Führung &amp; persönlicher Entwicklung</strong></p>
+<p>– inspiriert, entschleunigt und eröffnet tiefe Erkenntnisse.</p>
+<p>2.<strong>Praxisnah, fundiert, erprobt</strong></p>
+<p>– keine Theorieflut, sondern klare Werkzeuge für den Führungsalltag.</p>
+<p>3.<strong>Erfahrung + Wissen kombiniert</strong></p>
+<p>– der Autor und Trainer bringt 20+ Jahre Führungserfahrung ein und zeigt Wege, die wirklich funktionieren.</p>
+<p>4.<strong>Lebensnah, inspirierend, sofort umsetzbar</strong></p>
+<p>– ideal für Menschen, die echte Veränderungen erreichen wollen.</p>
+<p>5.<strong>Hochwertige Materialien</strong></p>
+<p>– Buch, Arbeitsblätter, Inspirationskarten: professionell gestaltet und sofort als Download nutzbar.</p>
 
 ## 2. Links
 
@@ -89,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Masterclass „Die Kunst nachhaltiger (Selbst)Führung“? — Typ: Member area and video courses, Anbieter: DariusGoetsch, gelistet seit 2025-11-21
-- Wie viel kostet es? — 234.47434400000003 USD
+- Wie viel kostet es? — 233.95124400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

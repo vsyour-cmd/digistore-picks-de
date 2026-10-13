@@ -4,34 +4,34 @@ digistore24_product_id: 686091
 title: "Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin."
 vendor: "annette99cf"
 product_type: "Member area and video courses"
-price: 328.65
+price: 327.92
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 131.46
+earnings_per_sale: 131.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Profession & Job"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/686091?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58353/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/686091"
 language: "de"
 ---
 # Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin.
 
 > Product ID `58353` · Digistore24 productId `686091` · [HTML profile page](../../produkte/prompting-kurs-2-0-prompt-engineering-inkl-context-engin-58353.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $328.65 (Single payment) |
+| Price | $327.92 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $131.46 |
+| Earnings/sale* | $131.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | annette99cf |
@@ -41,11 +41,190 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Supportseite Verdiene 40% an jedem Verkauf Do you speak Prompting? 2.0 Prompting Kurs inkl. Context Engineering Schön, dass du dabei bist! Hier findest du alles, was du brauchst, um diesen Kurs überzeugend zu bewerben: Zahlen, Argumente, Bilder und Texte, direkt einsatzbereit. 40% Provision Kurspreis: 349 € inkl. MwSt. Zur Verkaufsseite des Kurses So einfach funktioniert's 1 Link nutzen: Du bewirb…
+**Vendor's marketplace description:** <p> </p>
+<div class="hero"><br />
+<div class="overlay"> </div>
+<div class="wrap"><a><span class="badge">Supportseite</span></a>
+<h1>Verdiene 40% an jedem Verkauf</h1>
+<p class="subtitle">Do you speak Prompting? 2.0 Prompting Kurs inkl. Context Engineering</p>
+<p class="lead">Schön, dass du dabei bist! Hier findest du alles, was du brauchst, um diesen Kurs überzeugend zu bewerben: Zahlen, Argumente, Bilder und Texte, direkt einsatzbereit.</p>
+<div class="pill-row"><span class="pill">40% Provision</span> <span class="pill">Kurspreis: 349 € inkl. MwSt.</span></div>
+<div><a class="btn" href="https://www.ai-marketing-learnagency.de/marketing-kurse-online-ki/prompting-kurs/" target="_blank" rel="noreferrer noopener">Zur Verkaufsseite des Kurses</a></div>
+</div>
+</div>
+<div class="wrap">
+<h2 style="font-size:20px;">So einfach funktioniert's</h2>
+<div class="steps">
+<div class="step"><span class="num">1</span>
+<p><strong>Link nutzen:</strong> Du bewirbst den Kurs mit deinem persönlichen Digistore24-Affiliate-Link.</p>
+</div>
+<div class="step"><span class="num">2</span>
+<p><strong>Kurs empfehlen und verkaufen:</strong> Auf deiner Website, E-Mail-Liste, Social Media, wo auch immer. Material stellen wir dir hier auf dieser Seite zur Verfügung, falls du keine individuellen Werbemittel brauchst.</p>
+</div>
+<div class="step"><span class="num">3</span>
+<p><strong>Provision erhalten:</strong> 40% auf jeden Verkauf, zuverlässig ausgezahlt über Digistore24.</p>
+</div>
+</div>
+</div>
+<div class="wrap">
+<h2 style="font-size:24px;">Deine Zielgruppe für diesen Kurs</h2>
+<ul class="check">
+<li><strong>KMU Inhaber:innen und Marketingverantwortliche:</strong> rund 3,2 Mio. KMU in Deutschland (2024)</li>
+<li><strong>Soloselbständige:</strong> rund 1,8 Mio. in Deutschland</li>
+<li><strong>Gründer:innen:</strong> rund 277.000 Neugründungen in Deutschland (2025)</li>
+</ul>
+<p style="font-size:15px;max-width:640px;">Warum gerade jetzt: KI gehört für diese Zielgruppen längst zum Alltag, aber die meisten nutzen sie ohne System und bekommen deshalb mittelmäßige Ergebnisse, das schafft echten Kaufdruck. Warum dieser Kurs die Lösung ist: Er vermittelt nicht nur Tricks für ein einzelnes Tool, sondern das Grundprinzip, mit dem sich jede KI gezielt steuern lässt, heute und bei jedem neuen Tool, das noch kommt, ein Vorsprung gegenüber allen, die nie gelernt haben, KI richtig zu verstehen. Das macht ihn für dich besonders leicht verkaufbar.</p>
+</div>
+<div class="wrap">
+<div class="box">
+<h2 style="font-size:20px;">Brauchst du Visuals, Texte oder Blogartikel?</h2>
+<p style="font-size:15px;margin:0;">Sobald du freigegebener Affiliate bist, kannst du zusätzliche Werbemittel wie Grafiken und Textvorlagen von uns erhalten. Du kannst uns aber auch gerne schon vorher kontaktieren, dann besprechen wir gemeinsam, was du genau brauchst. Wir veröffentlichen regelmäßig Blogartikel zu den Kursthemen.</p>
+</div>
+</div>
+<div class="wrap">
+<div class="box on-alt-bg">
+<h2 style="font-size:20px;">Hol dir deine eigene Landingpage!</h2>
+<p style="font-size:15px;">Bei mindestens 10 Kursverkäufen im Monat bekommst du eine individualisierte Landingpage im gleichen Stil wie die echte Kurs-Infoseite, nur mit deinem eigenen Link und deinen eigenen Kontaktdaten. Mehr Vertrauen bei deiner Community, mehr Klicks, mehr Verkäufe.</p>
+<div class="lp-grid"><br />
+<div>
+<p style="font-size:14px;font-weight:bold;margin-bottom:8px;">Das wird für dich individualisiert:</p>
+<ul class="check" style="font-size:14px;">
+<li><strong>Dein Affiliate-Link:</strong> Der Kauf-Button verlinkt direkt auf deinen persönlichen Digistore24-Affiliate-Link statt auf den Standard-Checkout.</li>
+<li><strong>Deine Kontaktdaten:</strong> Statt unserer E-Mail und Telefonnummer erscheinen deine eigenen Kontaktdaten auf der Seite.</li>
+<li><strong>Weitere Bereiche:</strong> Nach Absprache lassen sich auch einzelne andere Bereiche der Seite individuell anpassen.</li>
+</ul>
+<a class="btn" href="mailto:annette@ai-marketing-learnagency.de?subject=Individualisierte%20Landingpage">Jetzt anfragen</a></div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<h2 style="font-size:24px;">Was du zum Verkaufen des Kurses wissen solltest</h2>
+<p style="font-size:18px;font-weight:500;max-width:680px;">Deine Kundschaft versteht KI, gibt ihr den richtigen Kontext und bewertet ihre Ergebnisse souverän. So entwickelt sie ihre eigenen KI-Arbeitsweisen, statt bei jedem neuen Tool wieder bei null anzufangen, das ist die Grundlage, mit der sie auch jedes neue KI-Tool schnell versteht und steuert, egal was als Nächstes auf den Markt kommt.</p>
+<div class="grid3">
+<div class="card">
+<h3>KI verstehen statt nur bedienen</h3>
+<p>Während andere bei jedem neuen KI-Tool wieder bei null anfangen, verstehst du das Prinzip dahinter und bist sofort startklar, egal was als Nächstes auf den Markt kommt.</p>
+</div>
+<div class="card">
+<h3>Prompting &amp; Frameworks</h3>
+<p>Du denkst wie ein Prompt Engineer und triffst ins Schwarze, statt zu raten.</p>
+</div>
+<div class="card">
+<h3>Markdown</h3>
+<p>Du sprichst die Sprache, die KI präzise versteht, für Ergebnisse ohne Missverständnisse.</p>
+</div>
+<div class="card">
+<h3>Bildprompting</h3>
+<p>Du erstellst auf Anhieb professionelle Visuals, mit präzisen Text-zu-Bild-Prompts statt Trial-and-Error.</p>
+</div>
+<div class="card">
+<h3>Iteratives Arbeiten</h3>
+<p>Du analysierst Ergebnisse, gibst Feedback und verbesserst Schritt für Schritt, statt auf den einen perfekten Prompt zu hoffen.</p>
+</div>
+<div class="card">
+<h3>Deine Prompt Library</h3>
+<p>Du dokumentierst, was funktioniert, und baust dir reproduzierbare KI-Workflows auf.</p>
+</div>
+</div>
+<p style="border-left:4px solid;padding-left:16px;font-size:18px;font-weight:500;max-width:680px;">Context Engineering: Du gibst KI die richtigen Informationen und Strukturen und baust dir eigene KI-Assistenten, die zuverlässig für dich arbeiten, das gilt auch für agentenbasierte Workflows wie Claude.</p>
+<p style="font-size:15px;max-width:680px;">Die meisten prompten einfach drauflos und wundern sich über mittelmäßige Ergebnisse. Dieser Kurs macht dich zur Ausnahme: Du verstehst KI wirklich, statt nur Prompts abzutippen, und erzeugst systematisch bessere Ergebnisse in einem Bruchteil der Zeit, mit deinem Fachwissen im Mittelpunkt, iterativem Arbeiten statt Zufallstreffern, und Context Engineering als nächstem Kompetenzlevel. Genau diese Kombination bietet sonst kein anderer Kurs.</p>
+<div style="margin-top:24px;">
+<div class="arg">
+<h3>Zeit: Deutlich weniger Frust</h3>
+<p>„Deutlich weniger 'Nein, das meinte ich nicht' an die KI, weil du von Anfang an präziser formulierst. Du gehst raus mit einer eigenen Prompt Library, die du sofort einsetzen kannst."</p>
+</div>
+<div class="arg">
+<h3>Geld: Jede gesparte Stunde zahlt sich aus</h3>
+<p>„Jede Stunde, die du nicht mehr mit Ausprobieren verlierst, ist bares Geld, das nicht mehr in Rumprobieren verpufft."</p>
+</div>
+<div class="arg">
+<h3>Wissen &amp; Sicherheit: Mehr Sicherheit im Umgang mit KI</h3>
+<p>„Du verstehst, wie KI Antworten erzeugt, und kannst ihre Ergebnisse dadurch selbst besser einschätzen, statt dich blind darauf zu verlassen."</p>
+</div>
+<div class="arg">
+<h3>Erfolg: Ein echter Wissensvorsprung</h3>
+<p>„Während viele KI nur oberflächlich nutzen, gehst du strukturiert vor, das ist ein Wissensvorsprung, den du in deiner Arbeit direkt einsetzen kannst."</p>
+</div>
+<div class="arg">
+<h3>Zukunftssicher statt Tool-gebunden</h3>
+<p>„Das ist kein Trick für ein Tool, das morgen veraltet ist, das ist das Prinzip dahinter. Es funktioniert bei ChatGPT genauso wie bei Claude oder dem KI-Tool, das es heute noch gar nicht gibt."</p>
+</div>
+<div class="arg">
+<h3>Den Schmerzpunkt direkt ansprechen</h3>
+<p>„Kennst du das? Du tippst eine Frage in die KI, bekommst eine enttäuschende Antwort und gibst auf, dabei liegt es fast nie an der KI, sondern daran, wie die Frage gestellt wurde. Genau da setzt der Kurs an."</p>
+</div>
+<div class="arg">
+<h3>Risiko nehmen, nicht den Kund:innen überlassen</h3>
+<p>„365 Tage Zugang, ein Teilnahmezertifikat, echte Kundenstimmen, und wer unsicher ist, kann vorab kostenlos in den Mini-Kurs reinschnuppern, bevor die Kaufentscheidung fällt."</p>
+</div>
+<div class="arg">
+<h3>Steuerlich absetzbar</h3>
+<p>„Für Selbstständige und Unternehmer:innen als Betriebsausgabe absetzbar, wenn der Kurs einen beruflichen Bezug hat, das ist bei Positionierung, Prompting, Marketing und KI-Kompetenz für Gründer:innen und Selbstständige eindeutig der Fall. Für Angestellte als Werbungskosten absetzbar, wenn der Kurs mit der beruflichen Tätigkeit zusammenhängt, für Marketingmitarbeitende ist das plausibel. Die endgültige Entscheidung trifft immer das Finanzamt der Käufer:innen, eine 100%ige Zusage kann niemand geben."</p>
+</div>
+</div>
+<div class="takeaway-box">
+<h3 style="font-size:17px;">Das nimmt dein Kunde mit</h3>
+<ul class="check" style="font-size:14px;margin:0;">
+<li><strong>Sichere Prompting-Grundlagen:</strong> Du verstehst, wie KI funktioniert und wie du sie zielgerichtet einsetzt, ohne Angst vor falschen Ergebnissen.</li>
+<li><strong>Eigenständiges System:</strong> Du baust dir deinen eigenen, wiederholbaren Prompting-Workflow auf, der zu deinem Stil passt.</li>
+<li><strong>Souverän mit KI arbeiten:</strong> Du steuerst die KI selbst und bleibst unabhängig von einzelnen Tools oder Anbieter:innen. Neu dabei: das Zusatzmodul Context Engineering, ein entscheidender Baustein, um KI-Assistenten wirklich zuverlässig zu machen.</li>
+</ul>
+</div>
+</div>
+<div class="wrap">
+<h2 style="font-size:24px;">Werbetexte</h2>
+<p style="font-size:15px;">Fertig zum Kopieren, für Social Media oder Newsletter:</p>
+<div class="promo">
+<p>Der einzige Prompting-Kurs, mit dem du verstehst, wie KI wirklich funktioniert, inklusive Context Engineering und 2 Teilnahmezertifikaten.</p>
+Kopieren</div>
+<div class="promo">
+<p>Der einzige Prompting-Kurs, mit dem du verstehst, wie KI wirklich funktioniert, inklusive Context Engineering. Du lernst nicht nur Tricks für ein Tool, sondern das Prinzip dahinter, das bei jeder KI funktioniert, heute und in Zukunft. 5 Stunden, sofortiger Zugang, 2 Zertifikate.</p>
+Kopieren</div>
+<div class="promo">
+<p>Kennst du das? Du fragst die KI etwas, bekommst eine Antwort und weißt sofort: das war nicht das, was du wolltest. Das liegt nicht an der KI, sondern daran, dass Prompting eine Fähigkeit ist, die kaum jemand wirklich lernt. „Do you speak Prompting? 2.0" ändert das: Du lernst, wie KI denkt, arbeitest mit bewährten Frameworks und baust dir deine eigene Prompt Library auf. Neu dabei: das Zusatzmodul Context Engineering, damit du auch KI-Assistenten wie Claude zuverlässig steuerst. 349 € inkl. MwSt., 365 Tage Zugang, zwei Teilnahmezertifikate.</p>
+Kopieren</div>
+</div>
+<div class="wrap">
+<h2 style="font-size:24px;">Kurs-Feedbacks, die du weiterverwenden kannst</h2>
+<p style="font-size:15px;">Echte Stimmen von Teilnehmer:innen, frei nutzbar für deine Bewerbung:</p>
+<blockquote>„Sehr empfehlenswerter Kurs für alle, die KI effizient und praxisnah einsetzen wollen. Der Kurs ist sehr gut aufgebaut und klar strukturiert, sodass man Schritt für Schritt an das Thema Prompting herangeführt wird. Besonders begeistert haben mich die vorgestellten Frameworks zur Optimierung von Prompts. Hier konnte ich nicht nur viel Neues lernen, sondern das Gelernte auch direkt in die Praxis umsetzen, mit beeindruckenden Ergebnissen. Die Effizienzsteigerung bei der Arbeit mit KI-Tools war sofort spürbar. Insgesamt ein durchdachter und praxisorientierter Kurs, den ich jederzeit weiterempfehlen würde."<cite>Matthias U.</cite></blockquote>
+<blockquote>„Der Kurs vermittelt die Inhalte rund um KI und Prompting sehr klar und praxisnah und hinterlässt insgesamt einen sehr positiven Eindruck. Besonders überzeugend ist die Kombination aus verständlicher Erklärung und direkter Anwendbarkeit. Die Inhalte sind sinnvoll strukturiert und übersichtlich aufgebaut, sodass man sich jederzeit gut orientieren kann. Besonders hilfreich ist dabei die Kombination aus Video- und Textinhalten: Die Videos erklären anschaulich und praxisnah, während die begleitenden Texte das Gelernte zusätzlich festigen und als Nachschlagewerk dienen. Ein weiterer großer Vorteil ist die Verfügbarkeit sowohl in einer Web- als auch in einer Mobile-Ansicht. Der Kurs überzeugt zudem durch seine inhaltliche Tiefe und umfassende Darstellung der KI-bezogenen Themen. Insgesamt bietet der Kurs einen hohen Mehrwert für alle, die sich mit KI und effektivem Prompting beschäftigen möchten und ist sowohl für Einsteiger als auch für Fortgeschrittene lehrreich."<cite>Niklas P.</cite></blockquote>
+</div>
+<div class="wrap">
+<div class="box on-alt-bg">
+<h2 style="font-size:20px;">Deine Türöffner: Schnupperlektionen und Mini-Kurs</h2>
+<p style="font-size:15px;">Du kannst deiner Community vorab <strong>kostenlose Schnupperlektionen</strong> aus dem echten Kurs zeigen, oder unseren <strong>kostenlosen KI-Kennzeichnungspflicht-Mini-Kurs</strong> anbieten, beides niedrigschwellige Einstiege ohne Kaufhürde, mit denen du Vertrauen aufbaust, bevor du diesen Kurs empfiehlst.</p>
+<a class="btn outline" href="https://www.ai-marketing-learnagency.de/marketing-kurse-online-ki/ki-kennzeichnungspflicht/" target="_blank" rel="noreferrer noopener">Zum kostenlosen Mini-Kurs</a></div>
+</div>
+<div class="wrap">
+<div class="gallery-box">
+<h3>Einblicke in den Kurs</h3>
+<div class="gallery-grid"><a href="https://www.ai-marketing-learnagency.de/images/courses/prompting-kurs/screenshot-lektion-modul3.jpg" target="_blank" rel="noreferrer noopener"> <img src="https://www.ai-marketing-learnagency.de/images/courses/prompting-kurs/screenshot-lektion-modul3.jpg" alt="Lektionsansicht in der Lernplattform: Modul 3, Lektion" /> </a> <a href="https://www.ai-marketing-learnagency.de/images/courses/prompting-kurs/screenshot-lektion-modul4.jpg" target="_blank" rel="noreferrer noopener"> <img src="https://www.ai-marketing-learnagency.de/images/courses/prompting-kurs/screenshot-lektion-modul4.jpg" alt="Lektionsansicht in der Lernplattform: Zusatzmodul Context Engineering, Lektion" /> </a> <a href="https://www.ai-marketing-learnagency.de/images/courses/prompting-kurs/zertifikat-prompting.jpg" target="_blank" rel="noreferrer noopener"> <img src="https://www.ai-marketing-learnagency.de/images/courses/prompting-kurs/zertifikat-prompting.jpg" alt="Beispiel-Teilnahmezertifikat für den Kurs Do you speak Prompting? KI wie ein Profi steuern" /> </a></div>
+<p style="color:rgba(255,255,255,0.8);font-size:14px;margin-top:16px;margin-bottom:2px;">Schau dir vorab original Lektionen in unserer Lernakademie an.</p>
+<p style="color:rgba(255,255,255,0.7);font-size:14px;">Kostenlos, erfordert eine einmalige Anmeldung in unserer Akademie.</p>
+<a style="background:#fff;font-weight:bold;padding:12px 24px;text-decoration:none;margin-top:8px;" href="https://akademie.ai-marketing-learnagency.de" target="_blank" rel="noreferrer noopener">Einmalige Anmeldung zur Akademie →</a></div>
+</div>
+<div class="wrap">
+<div class="box on-alt-bg" style="border-color:rgba(176,45,20,0.3);background:rgba(176,45,20,0.04);max-width:680px;margin:0 auto;">
+<p style="font-weight:bold;font-size:15px;margin-bottom:4px;">Was uns wichtig ist:</p>
+<p style="font-size:14px;margin:0;">Dieser Kurs bietet tiefes Fachwissen, gut erklärt, und die Inhalte sind sehr breit aufgestellt, das bietet so kein anderer Kurs in einem Paket. Gerade das Zusatzmodul Context Engineering ist neu und wird gebraucht, um KI-Assistenten wie Claude wirklich gut bedienen zu können. Der Kurs ist eine Bereicherung für alle, die mit KI arbeiten, hier steckt Wissen drin, das die wenigsten haben, auch die nicht, die täglich mit KI arbeiten. Dieses Wissen ist der Welle voraus, jetzt ist die Gelegenheit, als eine der Ersten genau das anzubieten. Aber bitte wirb nicht mit falschen Versprechen, die der Kurs nicht halten kann.</p>
+</div>
+</div>
+<div class="wrap">
+<div class="team-box"><img src="https://www.ai-marketing-learnagency.de/images/team/annette-schneider.webp" alt="Annette Schneider-Desgranges" />
+<h2>Annette Schneider-Desgranges</h2>
+<p class="role">Marketing-Expertin seit 25 Jahren, KI-Train-the-Trainerin, Certified KI Architect, Certified AI Marketing Innovation Leader, Certified AI Prompt Engineer</p>
+<p style="color:rgba(255,255,255,0.85);">Fragen zur Zusammenarbeit, zu Sonderkonditionen oder individuellen Werbemitteln? Melde dich einfach direkt bei mir.</p>
+<a class="email" href="mailto:annette@ai-marketing-learnagency.de">annette@ai-marketing-learnagency.de</a>
+<p style="color:rgba(255,255,255,0.6);font-size:14px;margin-top:16px;">Möchtest du diesen Kurs auf Englisch oder Französisch verkaufen? Dann kontaktiere uns bitte.</p>
+</div>
+</div>
+<p><a href="https://www.ai-marketing-learnagency.de/marketing-kurse-online-ki/prompting-kurs/">Zur Verkaufsseite des Kurses: www.ai-marketing-learnagency.de/marketing-kurse-online-ki/prompting-kurs/</a></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/686091?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58353/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/686091
 - Vendor affiliate support: https://www.ai-marketing-learnagency.de/affiliates/prompting-a7k9/
 - Canonical redirect: https://www.digistore24.com/redir/686091/adminstore
@@ -87,7 +266,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin.? — Typ: Member area and video courses, Anbieter: annette99cf, gelistet seit 2026-08-14
-- Wie viel kostet es? — 328.649568 USD
+- Wie viel kostet es? — 327.916368 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 722790
 title: "DeutschLern Kids"
 vendor: "manuelcosta"
 product_type: "Software"
-price: 14.03
+price: 14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.01
+earnings_per_sale: 7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2026-08-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://deutschlernerkids.netlify.app/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58467/adminstore/"
 sales_page: "https://deutschlernerkids.netlify.app/"
 language: "de"
 ---
 # DeutschLern Kids
 
 > Product ID `58467` · Digistore24 productId `722790` · [HTML profile page](../../produkte/deutschlern-kids-58467.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $14.03 (Single payment) |
+| Price | $14.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.01 |
+| Earnings/sale* | $7.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DeutschLern Kids
+**Vendor's marketplace description:** <p>DeutschLern Kids</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://deutschlernerkids.netlify.app/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58467/adminstore/
 - Sales page: https://deutschlernerkids.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/722790/adminstore
 
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DeutschLern Kids? — Typ: Software, Anbieter: manuelcosta, gelistet seit 2026-08-19
-- Wie viel kostet es? — 14.029912 USD
+- Wie viel kostet es? — 13.998612000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

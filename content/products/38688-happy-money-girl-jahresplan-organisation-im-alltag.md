@@ -4,16 +4,16 @@ digistore24_product_id: 421775
 title: "Happy Money Girl Jahresplan - Organisation im Alltag"
 vendor: "NadjaHorlacher"
 product_type: "Member area and video courses"
-price: 9.32
+price: 9.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.66
+earnings_per_sale: 4.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-12-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://nadjahorlacher.com/nadjas-jahresplan/?aff=adminstore#aff=adminstore"
 sales_page: "https://nadjahorlacher.com/nadjas-jahresplan/"
@@ -22,16 +22,16 @@ language: "de"
 # Happy Money Girl Jahresplan - Organisation im Alltag
 
 > Product ID `38688` · Digistore24 productId `421775` · [HTML profile page](../../produkte/happy-money-girl-jahresplan-organisation-im-alltag-38688.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.32 (Single payment) |
+| Price | $9.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.66 |
+| Earnings/sale* | $4.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NadjaHorlacher |
@@ -41,7 +41,41 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Umgib dich mit Leuten, die dich inspirieren, die ehrlich zu dir sind, die dich in Krisenzeiten zum Durchhalten motivieren und dich bei deinen Zielen - besonders bei deinen finanziellen Zielen - unterstützen. Ich würde gerne dein Coach und Mentor sein. Jeden Tag begleite ich dich für mehr Erfolg im Alltag. Wähle den heutigen Tag und lies dir durch was du heute in Angriff nehmen könntest oder worübe…
+**Vendor's marketplace description:** <p>Umgib dich mit Leuten, die dich inspirieren, die ehrlich zu dir sind, die dich in Krisenzeiten zum Durchhalten motivieren und dich bei deinen Zielen - besonders bei deinen finanziellen Zielen - unterstützen.</p>
+<p>Ich würde gerne dein Coach und Mentor sein.</p>
+<p> </p>
+<p>Jeden Tag begleite ich dich für mehr Erfolg im Alltag. Wähle den heutigen Tag und lies dir durch was du heute in Angriff nehmen könntest oder worüber du dir Gedanken machen kannst.</p>
+<ul>
+<li>Motivation</li>
+<li>Zeitmanagement</li>
+<li>Persönlichkeitsentwicklung</li>
+<li>Spass und Hobby</li>
+<li>Technologie und Social Media</li>
+<li>Zuhause</li>
+<li>Kleine Schritte - Grosse Wirkung</li>
+<li>Gedankenkraft - Glücklich sein</li>
+<li>Gesundheit und Fitness</li>
+<li>Geld und Finanzen</li>
+<li>Business / Selbständigkeit / Karriere</li>
+<li>Freundschaften / Familie</li>
+<li>Mahlzeiten</li>
+</ul>
+<div>
+<div>
+<div>
+<div>Du kannst sofort loslegen.</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>Wenn du mehr Zeit &amp; Lust hast, kommst du mehr rein, wenn es nicht passt, dann nicht, bis du wieder Motivation brauchst. Wir sind für dich da. Jederzeit.</div>
+</div>
+</div>
+</div>
+<div> </div>
+<div> </div>
 
 ## 2. Links
 
@@ -59,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Happy Money Girl Jahresplan - Organisation im Alltag? — Typ: Member area and video courses, Anbieter: NadjaHorlacher, gelistet seit 2021-12-22
-- Wie viel kostet es? — 9.323392 USD
+- Wie viel kostet es? — 9.302592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

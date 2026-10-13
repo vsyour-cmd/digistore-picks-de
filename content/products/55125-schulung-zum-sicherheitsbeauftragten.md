@@ -4,34 +4,34 @@ digistore24_product_id: 659261
 title: "Schulung zum Sicherheitsbeauftragten"
 vendor: "SifAmed"
 product_type: "Remote service provided electronically"
-price: 273.09
+price: 272.48
 currency: "USD"
 affiliate_commission_pct: 5
-earnings_per_sale: 13.66
+earnings_per_sale: 13.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2026-01-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/659261?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55125/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/659261"
 language: "de"
 ---
 # Schulung zum Sicherheitsbeauftragten
 
 > Product ID `55125` · Digistore24 productId `659261` · [HTML profile page](../../produkte/schulung-zum-sicherheitsbeauftragten-55125.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $273.09 (Single payment) |
+| Price | $272.48 (Single payment) |
 | Affiliate commission | 5% |
-| Earnings/sale* | $13.66 |
+| Earnings/sale* | $13.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SifAmed |
@@ -41,11 +41,42 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Machen Sie Ihr Unternehmen sicherer – flexibel und ortsunabhängig. Unsere Online-Schulung zum Sicherheitsbeauftragten vermittelt alle notwendigen Grundlagen für eine wirksame Unterstützung des Arbeitsschutzes im Betrieb. Schulungsinhalte: Aufgaben, Rechte und Pflichten des Sicherheitsbeauftragten Grundlagen des Arbeits- und Gesundheitsschutzes Erkennen und Bewerten von Gefährdungen Unfallverhütung…
+**Vendor's marketplace description:** <p>Machen Sie Ihr Unternehmen sicherer – flexibel und ortsunabhängig.</p>
+<p>Unsere Online-Schulung zum Sicherheitsbeauftragten vermittelt alle notwendigen Grundlagen für eine wirksame Unterstützung des Arbeitsschutzes im Betrieb.</p>
+<p> </p>
+<p>Schulungsinhalte:</p>
+<p> </p>
+<ul>
+<li>Aufgaben, Rechte und Pflichten des Sicherheitsbeauftragten</li>
+<li>Grundlagen des Arbeits- und Gesundheitsschutzes</li>
+<li>Erkennen und Bewerten von Gefährdungen</li>
+<li>Unfallverhütung und sicheres Verhalten im Arbeitsalltag</li>
+<li>Zusammenarbeit mit Führungskräften und Fachkräften für Arbeitssicherheit</li>
+<li>Praxisnahe Beispiele aus dem Betriebsalltag</li>
+</ul>
+<p> </p>
+<p> </p>
+<p>Rahmenbedingungen:</p>
+<p> </p>
+<ul>
+<li>Umfang: 16 Unterrichtseinheiten à 45 Minuten</li>
+<li>Format: 100 % Online-Schulung</li>
+<li>Zielgruppe: Bestellte oder angehende Sicherheitsbeauftragte</li>
+<li>Abschluss: Teilnahmebescheinigung</li>
+</ul>
+<p> </p>
+<p> </p>
+<p>Ihre Vorteile:</p>
+<p> </p>
+<ul>
+<li>Teilnahme von überall möglich</li>
+<li>Keine Reise- oder Übernachtungskosten</li>
+<li>Aktuelle Inhalte gemäß gesetzlichen Vorgaben</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/659261?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55125/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/659261
 - Canonical redirect: https://www.digistore24.com/redir/659261/adminstore
 
@@ -79,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schulung zum Sicherheitsbeauftragten? — Typ: Remote service provided electronically, Anbieter: SifAmed, gelistet seit 2026-01-06
-- Wie viel kostet es? — 273.09022 USD
+- Wie viel kostet es? — 272.48097 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

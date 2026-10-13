@@ -4,16 +4,16 @@ digistore24_product_id: 684407
 title: "Der Teamleiter PDF Werkzeugkasten"
 vendor: "AT-Media"
 product_type: "Downloads"
-price: 279.68
+price: 279.06
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 97.88
+earnings_per_sale: 97.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Leadership & Management"]
 listed_since: "2026-04-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://at-teamtools.de/teamleiter-werkzeugkasten/?aff=adminstore#aff=adminstore"
 sales_page: "https://at-teamtools.de/teamleiter-werkzeugkasten/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Teamleiter PDF Werkzeugkasten
 
 > Product ID `56246` · Digistore24 productId `684407` · [HTML profile page](../../produkte/der-teamleiter-pdf-werkzeugkasten-56246.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $279.68 (Single payment) |
+| Price | $279.06 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $97.88 |
+| Earnings/sale* | $97.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AT-Media |
@@ -41,7 +41,45 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Attraktives Partnerprogramm – Teamleiter-Werkzeugkasten (Praxisprodukt für Führungskräfte) Provision 35 % Provision pro Verkauf Faire Vergütung und einfache Abwicklung über Digistore24. Produkt & Zielgruppe Praxisorientiertes System für Führungskräfte im operativen Alltag: Teamleiter Service & Industrie Produktion & Werkstatt Löst typische Probleme wie: fehlende Struktur Kommunikationsprobleme wie…
+**Vendor's marketplace description:** <p><strong>Attraktives Partnerprogramm – Teamleiter-Werkzeugkasten </strong></p>
+<p><strong>(Praxisprodukt für Führungskräfte)</strong></p>
+<p>Provision</p>
+<p>35 % Provision pro Verkauf</p>
+<p>Faire Vergütung und einfache Abwicklung über Digistore24.</p>
+<p>Produkt &amp; Zielgruppe</p>
+<p>Praxisorientiertes System für Führungskräfte im operativen Alltag:</p>
+<ul>
+<li>Teamleiter</li>
+<li>Service &amp; Industrie</li>
+<li>Produktion &amp; Werkstatt</li>
+</ul>
+<p>Löst typische Probleme wie:</p>
+<ul>
+<li>fehlende Struktur</li>
+<li>Kommunikationsprobleme</li>
+<li>wiederkehrende Fehler</li>
+<li>hoher Arbeitsdruck</li>
+</ul>
+<p>Inhalt</p>
+<p>Der Teamleiter-Werkzeugkasten besteht aus 6 Modulen:</p>
+<ul>
+<li>Struktur &amp; Planung</li>
+<li>Kommunikation &amp; Übergaben</li>
+<li>Fehleranalyse</li>
+<li>Mitarbeiterführung</li>
+<li>Prioritäten &amp; Zeitmanagement</li>
+<li>System &amp; Umsetzung</li>
+</ul>
+<p>Direkt im Alltag einsetzbar (keine Theorie)</p>
+<p>Vorteile für Affiliates</p>
+<ul>
+<li>klare Zielgruppe mit echtem Bedarf</li>
+<li>einfach zu erklären und zu bewerben</li>
+<li>digitales Produkt (sofort verfügbar)</li>
+<li>kein Supportaufwand</li>
+</ul>
+<p>Kontakt</p>
+<p>Info@at-teamtools.de</p>
 
 ## 2. Links
 
@@ -92,7 +130,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Teamleiter PDF Werkzeugkasten? — Typ: Downloads, Anbieter: AT-Media, gelistet seit 2026-04-13
-- Wie viel kostet es? — 279.679348 USD
+- Wie viel kostet es? — 279.055398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

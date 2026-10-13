@@ -4,34 +4,34 @@ digistore24_product_id: 728861
 title: "Wohnungsübergabe-Paket 2026 — 50 %, 24,95 €"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 26.13
+price: 26.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.07
+earnings_per_sale: 13.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://wohnungsuebergabe.pages.dev/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58935/adminstore/"
 sales_page: "https://wohnungsuebergabe.pages.dev/"
 language: "de"
 ---
 # Wohnungsübergabe-Paket 2026 — 50 %, 24,95 €
 
 > Product ID `58935` · Digistore24 productId `728861` · [HTML profile page](../../produkte/wohnungs-bergabe-paket-2026-50-24-95-58935.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.13 (Single payment) |
+| Price | $26.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.07 |
+| Earnings/sale* | $13.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vorlagen-ZIP (5 PDFs) Einzug/Auszug, 24,95 , 50 %, 14 Tage. Seite https://wohnungsuebergabe.pages.dev/ Orderform https://www.digistore24.com/product/728861. Private Arbeitsvorlagen, kein amtliches Formular, keine Rechtsberatung.
+**Vendor's marketplace description:** <p>Vorlagen-ZIP (5 PDFs) Einzug/Auszug, 24,95 , 50 %, 14 Tage. Seite <a href="https://wohnungsuebergabe.pages.dev/">https://wohnungsuebergabe.pages.dev/</a> Orderform <a href="https://www.digistore24.com/product/728861">https://www.digistore24.com/product/728861</a>. Private Arbeitsvorlagen, kein amtliches Formular, keine Rechtsberatung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wohnungsuebergabe.pages.dev/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58935/adminstore/
 - Sales page: https://wohnungsuebergabe.pages.dev/
 - Vendor affiliate support: https://wohnungsuebergabe.pages.dev/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/728861/adminstore
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wohnungsübergabe-Paket 2026 — 50 %, 24,95 €? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-05
-- Wie viel kostet es? — 26.132392000000003 USD
+- Wie viel kostet es? — 26.074092000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

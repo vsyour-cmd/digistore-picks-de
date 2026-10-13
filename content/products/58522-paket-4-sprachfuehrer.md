@@ -4,16 +4,16 @@ digistore24_product_id: 724901
 title: "paket_4_sprachfuehrer"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 17.81
+price: 17.77
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.91
+earnings_per_sale: 8.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Leadership & Management"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724901?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/724901"
@@ -22,16 +22,16 @@ language: "de"
 # paket_4_sprachfuehrer
 
 > Product ID `58522` · Digistore24 productId `724901` · [HTML profile page](../../produkte/paket-4-sprachfuehrer-58522.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.81 (Single payment) |
+| Price | $17.77 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.91 |
+| Earnings/sale* | $8.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Paket mit 4 Sprachführern – 50% Provision Ein Premium-Bundle mit 4 kompletten Sprachführern (Englisch, Spanisch, Französisch, Portugiesisch): fertige Sätze für Reise, Job und Alltag, gezielter Wortschatz und vereinfachte Aussprache, ganz ohne Umweg über trockene Grammatik – zu einem deutlich attraktiveren Preis als beim Einzelkauf. 4 x 46 vollständige Kapitel mit Übungsdialogen und 7-Tage-Plan pro…
+**Vendor's marketplace description:** <p>Paket mit 4 Sprachführern – 50% Provision</p>
+<p> </p>
+<p>Ein Premium-Bundle mit 4 kompletten Sprachführern (Englisch, Spanisch, Französisch, Portugiesisch): fertige Sätze für Reise, Job und Alltag, gezielter Wortschatz und vereinfachte Aussprache, ganz ohne Umweg über trockene Grammatik – zu einem deutlich attraktiveren Preis als beim Einzelkauf.</p>
+<p> </p>
+<p>4 x 46 vollständige Kapitel mit Übungsdialogen und 7-Tage-Plan pro Sprache – ein besonders hoher wahrgenommener Wert, der sich auch im Verkaufspreis widerspiegelt und dir dadurch einen höheren Provisionsertrag pro Verkauf bringt.</p>
+<p> </p>
+<p>Ideale Zielgruppe: Vielreisende, Auswanderer mit mehreren Zielländern, international tätige Berufstätige, und alle, die mehrere Sprachen parallel lernen wollen.</p>
 
 ## 2. Links
 
@@ -71,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist paket_4_sprachfuehrer? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-22
-- Wie viel kostet es? — 17.806334 USD
+- Wie viel kostet es? — 17.766609000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

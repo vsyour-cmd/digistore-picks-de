@@ -4,34 +4,34 @@ digistore24_product_id: 359862
 title: "Onlinekurs Fotos im Gemäldelook"
 vendor: "KuhwedeMedia"
 product_type: "Downloads"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.68
+earnings_per_sale: 45.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2020-11-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://fotogrow.de/fotos-im-gemaeldelook/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/22231/adminstore/"
 sales_page: "https://fotogrow.de/fotos-im-gemaeldelook/"
 language: "de"
 ---
 # Onlinekurs Fotos im Gemäldelook
 
 > Product ID `22231` · Digistore24 productId `359862` · [HTML profile page](../../produkte/onlinekurs-fotos-im-gem-ldelook-22231.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.68 |
+| Earnings/sale* | $45.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KuhwedeMedia |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DER EINZIGE KURS ZU DIESEM THEMA Der ultimative Videokurs, wie Fotografen ohne großes »Drumherum« auf den Punkt genau erfahren, wie sie Bilder erzeugen, bei denen sich alle fragen, ob es ein Foto oder Gemälde ist. √ Alles über Lichtsetzung√ Profi-Tipps für das Shooting√ kompletter Workflow in Photoshop√ .psd Datei inkl. aller Ebenen√ 3D Setplan zum Download Dieses Seminar vermittelt das komplette …
+**Vendor's marketplace description:** <p><strong>DER EINZIGE KURS ZU DIESEM THEMA</strong></p>
+<p>Der ultimative Videokurs, wie Fotografen ohne großes »Drumherum« auf den Punkt genau erfahren, wie sie Bilder erzeugen, bei denen sich alle fragen, ob es ein Foto oder Gemälde ist.</p>
+<p><strong>√ Alles über Lichtsetzung</strong><br /><strong>√ Profi-Tipps für das Shooting</strong><br /><strong>√ kompletter Workflow in Photoshop</strong><br /><strong>√ .psd Datei inkl. aller Ebenen</strong><br /><strong>√ 3D Setplan zum Download</strong></p>
+<p><strong>Dieses Seminar vermittelt das komplette Wissen</strong></p>
+<p>In diesem Videoseminar (Dauer 80 Minuten) erhalten Hobby- und Profifotografen das komplette Profi-Wissen, wie Sie Bilder erstellen, die auf viele Menschen eine absolut große Faszination ausüben. Corwin von Kuhwede gibt in diesem Videokurs das komplette Wissen von der Idee, über das Fotografieren bis hin zur Bildbearbeitung weiter.</p>
+<p><strong><br />KPI's:</strong></p>
+<ul>
+<li>Cart Conversion: 35 - 45 %</li>
+<li>Stornoquote: 0,3 %</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fotogrow.de/fotos-im-gemaeldelook/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/22231/adminstore/
 - Sales page: https://fotogrow.de/fotos-im-gemaeldelook/
 - Vendor affiliate support: https://fotogrow.de/affiliates/fotos-im-gemaeldelook/
 - Canonical redirect: https://www.digistore24.com/redir/359862/adminstore
@@ -89,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs Fotos im Gemäldelook? — Typ: Downloads, Anbieter: KuhwedeMedia, gelistet seit 2020-11-27
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

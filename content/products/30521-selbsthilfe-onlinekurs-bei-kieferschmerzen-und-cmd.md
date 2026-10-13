@@ -4,34 +4,34 @@ digistore24_product_id: 284857
 title: "Selbsthilfe: Onlinekurs bei Kieferschmerzen und CMD"
 vendor: "bodyLIFE"
 product_type: "Member area and video courses"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.2
+earnings_per_sale: 37.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-08-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://cmd-kiefer.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/30521/adminstore/"
 sales_page: "https://cmd-kiefer.de/"
 language: "de"
 ---
 # Selbsthilfe: Onlinekurs bei Kieferschmerzen und CMD
 
 > Product ID `30521` · Digistore24 productId `284857` · [HTML profile page](../../produkte/selbsthilfe-onlinekurs-bei-kieferschmerzen-und-cmd-30521.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.20 |
+| Earnings/sale* | $37.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bodyLIFE |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Craniomandibuläre Dys­funktion, kurz CMD, ist eine Volkskrankheit, an der viele leiden, ohne es zu wissen! https://cmd-kiefer.de/ Von und mit Erfolgsautor Dr. Torsten Pfitzer! Sichern Sie sich jetzt 50% Affiliateprovision!! - Klickstarke Werbemittel - Aktuelles Gesundheitsthema - Medienschwerpunkt - Amazon-Bestseller - Empfohlen von Deutschlands erfolgreichstem Sachbuchverlag riva Zu den häufigste…
+**Vendor's marketplace description:** <h2><span style="color:#339966;"><strong>Craniomandibuläre Dys­funktion, kurz CMD, ist eine Volkskrankheit, an der viele leiden, ohne es zu wissen!</strong></span></h2>
+<h5><span style="color:#666699;"><strong><a style="color:#666699;">https://cmd-kiefer.de/</a></strong></span></h5>
+<p><span style="color:#339966;"><strong>Von und mit Erfolgsautor Dr. Torsten Pfitzer!</strong></span></p>
+<p><span style="color:#339966;"><strong>Sichern Sie sich jetzt 50% Affiliateprovision!!</strong></span></p>
+<p><strong><span style="color:#339966;">- Klickstarke Werbemittel</span></strong></p>
+<p><strong><span style="color:#339966;">- Aktuelles Gesundheitsthema</span></strong></p>
+<p><strong><span style="color:#339966;">- Medienschwerpunkt</span></strong></p>
+<p><strong><span style="color:#339966;">- Amazon-Bestseller</span></strong></p>
+<p><strong><span style="color:#339966;">- Empfohlen von Deutschlands erfolgreichstem Sachbuchverlag riva</span></strong></p>
+<p><span style="color:#666699;"><strong>Zu den häufigsten Beschwerden zählen:</strong></span></p>
+<p>Zähneknirschen, Kiefer- und Kopfschmerzen beziehungsweise Migräne, Nackenverspannungen, Tinnitus, bis hin zu Abgeschlagenheit, Konzentrationsstörungen, Nervenreizungen, chronischen Rücken- und Gelenkschmerzen.</p>
+<p><strong><span style="color:#666699;">Wie wäre es, wenn Sie wieder ein schmerzfreies, leichtes Leben haben und Ihren geliebten Hobbies nachgehen könnten?</span></strong></p>
+<p>Um Menschen wie Ihnen zu helfen, hat Dr. Torsten Pfitzer - ganzheitlicher Schmerzexperte und Osteopath - sein ganzes Wissen und Herzblut in ein neuartiges Onlineprogramm gesteckt.</p>
+<p><span style="color:#666699;"><strong>Denn oft scheitern Menschen bei der Erstellung Ihres persönlichen Übungsprogramms. Oder sie tun sich schwer, Ihre Übungspläne durchzuziehen, weil sie nicht klar strukturiert aufgeschrieben sind. </strong></span></p>
+<p>Im "Befreit von CMD"-Onlineprogramm begleitet Sie Dr. Pfitzer zusätzlich zu den über 60 Videos mit einem Umsetzungscoaching per E-Mail über vier Monate. So können Sie sich Schritt für Schritt in kleinen Etappen und ohne Überforderung durch Ihren CMD-Befreiungsprozess navigieren lassen. On top gibt er in den E-Mails noch mehr Tipps und weiterführende Empfehlungen.</p>
+<p>Werben Sie in Social Media, Newsletter, Webseiten/Blogs...</p>
+<p><span style="color:#666699;"><strong>Fragen immer, jederzeit und gerne an: onlinekurs@m-vg.de</strong></span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://cmd-kiefer.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/30521/adminstore/
 - Sales page: https://cmd-kiefer.de/
 - Vendor affiliate support: https://cmd-kiefer.de/affiliateprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/284857/adminstore
@@ -93,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbsthilfe: Onlinekurs bei Kieferschmerzen und CMD? — Typ: Member area and video courses, Anbieter: bodyLIFE, gelistet seit 2019-08-30
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

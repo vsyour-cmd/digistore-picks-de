@@ -4,16 +4,16 @@ digistore24_product_id: 701379
 title: "Erfolgreich als Coach mit Twitch"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-twitch?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-twitch"
@@ -22,16 +22,16 @@ language: "de"
 # Erfolgreich als Coach mit Twitch
 
 > Product ID `56944` · Digistore24 productId `701379` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-twitch-56944.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du Live-Streams nutzt, um Vertrauen aufzubauen und Kunden zu gewinnen Als Coach ist Live-Präsenz dein stärkstes Verkaufsargument – und Twitch gibt dir eine Bühne, die genau das ermöglicht. Dieses E-Book zeigt dir, wie du regelmäßige Live-Sessions nutzt, um Vertrauen aufzubauen, Fachwissen zu demonstrieren und planbar Erstgespräche zu generieren. Du lernst, wie du Q&A-Streams und Coaching-Demos…
+**Vendor's marketplace description:** <p><strong>Wie du Live-Streams nutzt, um Vertrauen aufzubauen und Kunden zu gewinnen</strong></p>
+<p>Als Coach ist Live-Präsenz dein stärkstes Verkaufsargument – und Twitch gibt dir eine Bühne, die genau das ermöglicht. Dieses E-Book zeigt dir, wie du regelmäßige Live-Sessions nutzt, um Vertrauen aufzubauen, Fachwissen zu demonstrieren und planbar Erstgespräche zu generieren. Du lernst, wie du Q&amp;A-Streams und Coaching-Demos strukturierst, deinen Twitch-Kanal mit deinen Angeboten verknüpfst und über Chat-Interaktionen echte Interessenten identifizierst. Statt auf Reichweite zu hoffen, hast du nach diesem E-Book ein System: von der Kategorie-Wahl über Sub-Zonen als exklusive Kunden-Community bis zum Funnel in dein Coaching-Angebot.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Live-Content-Strategie, die Vertrauen und Coaching-Anfragen erzeugt</li>
+<li>Q&amp;A-Streams und Coaching-Demos professionell strukturieren</li>
+<li>Subscriber-Zonen als exklusive Community für bestehende Kunden nutzen</li>
+<li>Chat als Qualifizierungs-Tool: Interessenten erkennen und ansprechen</li>
+<li>Twitch-Kanal mit externem Funnel und Buchungs-Links verknüpfen</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit Twitch? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

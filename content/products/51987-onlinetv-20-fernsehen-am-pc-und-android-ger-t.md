@@ -4,34 +4,34 @@ digistore24_product_id: 600405
 title: "OnlineTV 20 - Fernsehen am PC und Android Gerät"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 28.24
+price: 28.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.12
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Photography & Film","Software"]
 listed_since: "2025-03-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/600405?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51987/adminstore/"
 sales_page: "https://www.digistore24.com/product/600405"
 language: "de"
 ---
 # OnlineTV 20 - Fernsehen am PC und Android Gerät
 
 > Product ID `51987` · Digistore24 productId `600405` · [HTML profile page](../../produkte/onlinetv-20-fernsehen-am-pc-und-android-ger-t-51987.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.24 (Single payment) |
+| Price | $28.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.12 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** OnlineTV 20 - Das Original seit 2002 OnlineTV bietet Zugang zu einer Vielzahl von TV- und Radio-Sendern sowie Live-Streams aus der ganzen Welt. Neben Musikvideos und Webcams können Nutzer auch auf Online-Medien zugreifen. Für Windows 7, 8, 8.1, 10 und 11. Plus eine App für Android. Die Software ist per Download direkt nach dem Kauf verfügbar. Zudem wird die Seriennummer per E-Mail versendet.
+**Vendor's marketplace description:** <p><strong>OnlineTV 20 - Das Original seit 2002</strong></p>
+<p>OnlineTV bietet Zugang zu einer Vielzahl von TV- und Radio-Sendern sowie Live-Streams aus der ganzen Welt. Neben Musikvideos und Webcams können Nutzer auch auf Online-Medien zugreifen. Für Windows 7, 8, 8.1, 10 und 11. Plus eine App für Android.</p>
+<p>Die Software ist per Download direkt nach dem Kauf verfügbar. Zudem wird die Seriennummer per E-Mail versendet. </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/600405?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51987/adminstore/
 - Sales page: https://www.digistore24.com/product/600405
 - Canonical redirect: https://www.digistore24.com/redir/600405/adminstore
 
@@ -83,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist OnlineTV 20 - Fernsehen am PC und Android Gerät? — Typ: Software, Anbieter: engelmann-software, gelistet seit 2025-03-07
-- Wie viel kostet es? — 28.23912 USD
+- Wie viel kostet es? — 28.17612 USD
 - Garantie? — 60
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

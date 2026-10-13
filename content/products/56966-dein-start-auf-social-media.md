@@ -4,16 +4,16 @@ digistore24_product_id: 701333
 title: "Dein Start auf Social Media"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 19.9
+price: 19.86
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.95
+earnings_per_sale: 9.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/dein-start-auf-social-media?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/dein-start-auf-social-media"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Start auf Social Media
 
 > Product ID `56966` · Digistore24 productId `701333` · [HTML profile page](../../produkte/dein-start-auf-social-media-56966.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.90 (Single payment) |
+| Price | $19.86 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.95 |
+| Earnings/sale* | $9.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die richtige Plattform wählen, deinen ersten Content veröffentlichen und echte Follower gewinnen Du willst auf Social Media starten, aber weißt nicht, welche Plattform zu dir passt – Instagram, TikTok, YouTube oder LinkedIn? Dieses E-Book nimmt dich Schritt für Schritt an die Hand: Du lernst, wie du anhand deiner Zielgruppe, deines Contents und deiner Ziele die richtige Plattform auswählst, dein P…
+**Vendor's marketplace description:** <p><strong>Die richtige Plattform wählen, deinen ersten Content veröffentlichen und echte Follower gewinnen</strong></p>
+<p>Du willst auf Social Media starten, aber weißt nicht, welche Plattform zu dir passt – Instagram, TikTok, YouTube oder LinkedIn? Dieses E-Book nimmt dich Schritt für Schritt an die Hand: Du lernst, wie du anhand deiner Zielgruppe, deines Contents und deiner Ziele die richtige Plattform auswählst, dein Profil professionell einrichtest und deinen ersten Content veröffentlichst. Du verstehst, wie Algorithmen auf allen Plattformen grundsätzlich funktionieren, was guten Content auszeichnet und warum Konsistenz entscheidender ist als Perfektion. Kein Fachjargon, keine teuren Tools – nur ein klarer, umsetzbarer Fahrplan, den du heute starten kannst. Am Ende hast du nicht nur einen aktiven Account, sondern ein System, das dich langfristig wachsen lässt.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Die richtige Plattform wählen: ein ehrlicher Vergleich von Instagram, TikTok, YouTube &amp; LinkedIn</li>
+<li>Profil-Optimierung: Bio, Profilbild und erstes Impression auf jeder Plattform</li>
+<li>Content-Grundlagen: Formate, Häufigkeit und der erste Redaktionsplan</li>
+<li>Algorithmus-Prinzipien allgemein: was alle Plattformen belohnen</li>
+<li>Konsistenz-System: so bleibst du langfristig am Ball ohne dich zu überfordern</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Start auf Social Media? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 19.901856000000002 USD
+- Wie viel kostet es? — 19.857456000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 620102
 title: "Fitnesstrainer C-Lizenz"
 vendor: "kafakademie"
 product_type: "Distance learning (Germany)"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.76
+earnings_per_sale: 19.71
 cart_conversion_pct: 30
 cancel_rate_pct: 2.94
 categories: ["Education"]
 listed_since: "2025-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://kaf-akademie.de/fitnesstrainer-c-lizenz?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53875/adminstore/"
 sales_page: "https://kaf-akademie.de/fitnesstrainer-c-lizenz"
 language: "de"
 ---
 # Fitnesstrainer C-Lizenz
 
 > Product ID `53875` · Digistore24 productId `620102` · [HTML profile page](../../produkte/fitnesstrainer-c-lizenz-53875.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Distance learning (Germany) |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.76 |
+| Earnings/sale* | $19.71 |
 | Cart conversion* | 30% |
 | Cancel rate* | 2.94% |
 | Vendor | kafakademie |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Staatlich anerkannte Fitnesstrainer C-Lizenz zu einem unschlagbarem Preis. Jetzt mit profitieren!
+**Vendor's marketplace description:** <p>Staatlich anerkannte Fitnesstrainer C-Lizenz zu einem unschlagbarem Preis. Jetzt mit profitieren!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kaf-akademie.de/fitnesstrainer-c-lizenz?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53875/adminstore/
 - Sales page: https://kaf-akademie.de/fitnesstrainer-c-lizenz
 - Canonical redirect: https://www.digistore24.com/redir/620102/adminstore
 
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fitnesstrainer C-Lizenz? — Typ: Distance learning (Germany), Anbieter: kafakademie, gelistet seit 2025-06-23
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

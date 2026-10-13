@@ -4,34 +4,34 @@ digistore24_product_id: 701528
 title: "Cash-Buffer System — 14-Tage Geldmanagement für Freelancer"
 vendor: "akonfin"
 product_type: "Downloads"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 7.34
+earnings_per_sale: 7.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Finances"]
 listed_since: "2026-06-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.akonfin.de/produkte/cash-buffer-system/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57073/adminstore/"
 sales_page: "https://www.akonfin.de/produkte/cash-buffer-system/"
 language: "de"
 ---
 # Cash-Buffer System — 14-Tage Geldmanagement für Freelancer
 
 > Product ID `57073` · Digistore24 productId `701528` · [HTML profile page](../../produkte/cash-buffer-system-14-tage-geldmanagement-f-r-freelancer-57073.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $7.34 |
+| Earnings/sale* | $7.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | akonfin |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Cashflow-Planung, Puffer-Aufbau und Steuer-Rücklage für Freelancer, Creator und Solo-Selbstständige. Komplettes System mit PDF-Guide, Google Sheets Vorlage, Notion-Template und 14-Tage Implementierungsplan. Themen: Finanzplanung, Geldmanagement, Selbstständige, Freelancer Finanzen, Cash-Flow, Steuer-Rücklage, Budgetierung.
+**Vendor's marketplace description:** <div>Cashflow-Planung, Puffer-Aufbau und Steuer-Rücklage für Freelancer, Creator und Solo-Selbstständige.</div>
+<div> </div>
+<div>Komplettes System mit PDF-Guide, Google Sheets Vorlage, Notion-Template und 14-Tage Implementierungsplan.</div>
+<div> </div>
+<div>Themen: Finanzplanung, Geldmanagement, Selbstständige, Freelancer Finanzen, Cash-Flow, Steuer-Rücklage, Budgetierung.</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.akonfin.de/produkte/cash-buffer-system/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57073/adminstore/
 - Sales page: https://www.akonfin.de/produkte/cash-buffer-system/
 - Canonical redirect: https://www.digistore24.com/redir/701528/adminstore
 
@@ -69,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cash-Buffer System — 14-Tage Geldmanagement für Freelancer? — Typ: Downloads, Anbieter: akonfin, gelistet seit 2026-06-19
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

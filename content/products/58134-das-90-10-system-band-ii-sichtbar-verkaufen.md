@@ -4,16 +4,16 @@ digistore24_product_id: 718278
 title: "Das 90/10-System – Band II: Sichtbar verkaufen"
 vendor: "rs-onlineagentur"
 product_type: "Downloads"
-price: 16.01
+price: 15.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.01
+earnings_per_sale: 7.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://rita-scheer.de/90-10-system-band2-verkaufsseite/?aff=adminstore#aff=adminstore"
 sales_page: "https://rita-scheer.de/90-10-system-band2-verkaufsseite/"
@@ -22,16 +22,16 @@ language: "de"
 # Das 90/10-System – Band II: Sichtbar verkaufen
 
 > Product ID `58134` · Digistore24 productId `718278` · [HTML profile page](../../produkte/das-90-10-system-band-ii-sichtbar-verkaufen-58134.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.01 (Single payment) |
+| Price | $15.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.01 |
+| Earnings/sale* | $7.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Das 90/10-System – Band II: Sichtbar verkaufen“ ist ein digitales Workbook für Anfängerinnen und Anfänger, die ihr fertiges digitales Produkt klar präsentieren und sichtbar machen möchten. Das Workbook zeigt Schritt für Schritt, wie du eine verständliche Verkaufsbotschaft entwickelst, passende Inhalte erstellst, eine geeignete Plattform auswählst und einen einfachen Verkaufsprozess aufbaust. Beha…
+**Vendor's marketplace description:** <p>„Das 90/10-System – Band II: Sichtbar verkaufen“ ist ein digitales Workbook für Anfängerinnen und Anfänger, die ihr fertiges digitales Produkt klar präsentieren und sichtbar machen möchten.</p>
+<p>Das Workbook zeigt Schritt für Schritt, wie du eine verständliche Verkaufsbotschaft entwickelst, passende Inhalte erstellst, eine geeignete Plattform auswählst und einen einfachen Verkaufsprozess aufbaust.</p>
+<p>Behandelt werden unter anderem:</p>
+<p>• klare Botschaften und aufmerksamkeitsstarke Hooks <br />• Content für Instagram, TikTok und Pinterest <br />• Auswahl einer passenden Hauptplattform <br />• Funnel, Freebie und Verkaufsseite <br />• Preisfindung und E-Mail-Marketing <br />• ein realistischer 7-Tage-Mini-Launch <br />• Auswertung und kontinuierliche Verbesserung</p>
+<p>Das Produkt richtet sich an Menschen, die ihr digitales Produkt bereits erstellt haben und nun ohne übertriebene Versprechen oder komplizierte Marketingstrategien sichtbar werden möchten.</p>
+<p>Preis: 27 € einmalig.</p>
+<p>Affiliate-Support mit Werbetexten und weiteren Informationen:<br />https://rita-scheer.de/affiliate-support/</p>
 
 ## 2. Links
 
@@ -74,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das 90/10-System – Band II: Sichtbar verkaufen? — Typ: Downloads, Anbieter: rs-onlineagentur, gelistet seit 2026-08-04
-- Wie viel kostet es? — 16.013374 USD
+- Wie viel kostet es? — 15.977649 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

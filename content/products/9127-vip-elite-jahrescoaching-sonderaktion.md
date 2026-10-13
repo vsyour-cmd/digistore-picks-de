@@ -4,16 +4,16 @@ digistore24_product_id: 112097
 title: "VIP ELITE JahresCoaching - SONDERAKTION"
 vendor: "vipdigi"
 product_type: "Remote service provided electronically"
-price: 3955.06
+price: 3946.23
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 791.01
+earnings_per_sale: 789.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2017-01-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "http://www.focusing-power.com/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.focusing-power.com/"
@@ -22,16 +22,16 @@ language: "de"
 # VIP ELITE JahresCoaching - SONDERAKTION
 
 > Product ID `9127` · Digistore24 productId `112097` · [HTML profile page](../../produkte/vip-elite-jahrescoaching-sonderaktion-9127.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $3955.06 (Single payment, Installment) |
+| Price | $3946.23 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $791.01 |
+| Earnings/sale* | $789.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | vipdigi |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Tägliches (!) ELITE VIP Erfolgs-Coaching per Video mit Helmut Ament365 Videos - Weltweit einzigartig (!) 365 Tage ein weltweit einzigartiges Erfolgs-Coaching!Insgesamt 365 Coaching-Videos+ auch ausdruckbar (1.240 Seiten A4)+ SelfControl-Panel für Erfolgs-Entwicklung+ zahlreiche Wordfiles mit eindrucksvollen Übungsvorlagen+ 12 Hörbücher als mp3 (monatliche Zusammenfassung des Coachings)+ tägliche m…
+**Vendor's marketplace description:** <h2>Tägliches (!) ELITE VIP Erfolgs-Coaching per Video mit Helmut Ament<br />365 Videos - Weltweit einzigartig (!)</h2>
+<p><strong>365 Tage ein weltweit einzigartiges Erfolgs-Coaching!<br />Insgesamt 365 Coaching-Videos<br />+ auch ausdruckbar (1.240 Seiten A4)<br />+ SelfControl-Panel für Erfolgs-Entwicklung<br />+ zahlreiche Wordfiles mit eindrucksvollen Übungsvorlagen<br />+ 12 Hörbücher als mp3 (monatliche Zusammenfassung des Coachings)<br />+ tägliche motivierende Erfolgs-Zitate<br />+ abends Zusammenfassung der Tageslektion via E-Mail<br />+ tägliche Erinnerung der gesetzten Ziele<br />+ Kommentarmöglichkeit zu jeder Coaching-Einheit</strong></p>
+<p><strong>Die Erstellung dieses Coachings benötigte<br />mehr als 2 Jahre und kostete über 400.000 Euro</strong></p>
+<h2> </h2>
 
 ## 2. Links
 
@@ -80,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VIP ELITE JahresCoaching - SONDERAKTION? — Typ: Remote service provided electronically, Anbieter: vipdigi, gelistet seit 2017-01-06
-- Wie viel kostet es? — 3955.056846 USD
+- Wie viel kostet es? — 3946.233321 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

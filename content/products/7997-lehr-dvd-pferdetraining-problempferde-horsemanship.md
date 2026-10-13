@@ -4,16 +4,16 @@ digistore24_product_id: 53165
 title: "Lehr DVD Pferdetraining / Problempferde / Horsemanship"
 vendor: "Linnon"
 product_type: "Deliverable"
-price: 38.56
+price: 38.47
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 9.64
+earnings_per_sale: 9.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2015-06-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.martinkreuzer.com/produkte/lehr-dvds/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.martinkreuzer.com/produkte/lehr-dvds/"
@@ -22,16 +22,16 @@ language: "de"
 # Lehr DVD Pferdetraining / Problempferde / Horsemanship
 
 > Product ID `7997` · Digistore24 productId `53165` · [HTML profile page](../../produkte/lehr-dvd-pferdetraining-problempferde-horsemanship-7997.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $38.56 (Single payment) |
+| Price | $38.47 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $9.64 |
+| Earnings/sale* | $9.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Linnon |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Pferde/Pferdetraining/Problempferde/Horsemanship DVD HORSEMANSHIP - BODENARBEIT 1.1 Die DVD Reihe gibt Anleitungen, die sofort umsetzbar die notwendigen Übungselemente zeigen und gleichzeitig deren Zweck verständlich erklären. Ideal für den ambitionierten Freizeitreiter.Dauer: ca. 108 min. Genau diese Übungselemente setzen wir täglich in unserem Pferdetraining ein, um unzureichend trainierte Pferd…
+**Vendor's marketplace description:** <p><span style="color:#0000ff;"><strong>Pferde/Pferdetraining/Problempferde/Horsemanship</strong></span></p>
+<p><span style="color:#0000ff;"><strong>DVD HORSEMANSHIP - BODENARBEIT 1.1</strong></span></p>
+<p>Die DVD Reihe gibt Anleitungen, die sofort umsetzbar die notwendigen Übungselemente zeigen und gleichzeitig deren Zweck verständlich erklären.</p>
+<p><strong>Ideal für den ambitionierten Freizeitreiter.<br /></strong>Dauer: ca. 108 min.</p>
+<p><strong>Genau diese Übungselemente setzen wir täglich in unserem Pferdetraining ein, um unzureichend trainierte Pferde auszubilden oder Probleme jeglicher Art zu lösen. <em>Martin Kreuzer</em></strong></p>
+<p>Martin Kreuzer zeigt auf dieser DVD, wie mit der korrekten Bodenarbeit der Grundstock für die Beziehung zum Pferd gelegt wird. Respekt, Kontrolle und Sicherheit stehen dabei an erster Stelle. Die richtige Kommunikation mit dem Pferd unterliegt den Naturgesetzen und die Trainings- und Ausbildungsmethode von Martin Kreuzer beschäftigt sich ausschließlich mit dieser. Vertrauen durch Verstehen steht im Mittelpunkt des Ausbildungsprogramms. Schritt für Schritt erklärt Martin Kreuzer, wie das Vertrauen des Pferdes erlangt werden kann.</p>
+<p><strong>Lieber Affiliate, ich freue mich auf eine gute Zusammenarbeit! </strong><em>Martin Kreuzer</em></p>
+<p><em>Mehr über uns erfährst du <a title="MKA Partner werden" href="https://martinkreuzer.com/mka_partner_werden/" target="_blank" rel="noreferrer noopener">hier</a></em></p>
+<p> </p>
+<p>Seit vielen Jahren inspiriert und begeistert Martin Kreuzers Philosophie des „Modernen Pferdetrainings“ viele Pferdebesitzer im gesamten deutschsprachigen Raum. Mit seinem umfassenden Hintergrundwissen über die Natur der Pferde und deren Lernpsychologie, ist es ihm gelungen, sein modernes Pferdetraining als solides und ansprechendes Handwerk über die Grenzen Deutschlands hinaus bekannt zu machen. In der eigens dafür gegründeten MKA Horsemanship Academy haben seither viele hunderte Pferdebesitzer fasziniert und begeistert die Ausbildung für eine bessere Pferd-Mensch-Beziehung erfahren.</p>
 
 ## 2. Links
 
@@ -81,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lehr DVD Pferdetraining / Problempferde / Horsemanship? — Typ: Deliverable, Anbieter: Linnon, gelistet seit 2015-06-29
-- Wie viel kostet es? — 38.559846 USD
+- Wie viel kostet es? — 38.473821 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

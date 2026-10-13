@@ -4,34 +4,34 @@ digistore24_product_id: 719271
 title: "Digitales Praxis-Handbuch für Kindergartenfotografie"
 vendor: "proleitfaden"
 product_type: "Downloads"
-price: 135.6
+price: 135.3
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 27.12
+earnings_per_sale: 27.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Photography & Film","Profession & Job"]
 listed_since: "2026-08-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/719271?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58251/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/719271"
 language: "de"
 ---
 # Digitales Praxis-Handbuch für Kindergartenfotografie
 
 > Product ID `58251` · Digistore24 productId `719271` · [HTML profile page](../../produkte/digitales-praxis-handbuch-f-r-kindergartenfotografie-58251.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $135.60 (Single payment) |
+| Price | $135.30 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $27.12 |
+| Earnings/sale* | $27.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | proleitfaden |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Handbuch begleitet Sie von der ersten Geschäftsidee bis zum fertigen Auftrag. Ob Kameraeinstellungen, Rechtliches, der Kita-Einsatz vor Ort, Online-Abwicklung oder Buchhaltung: Sie erhalten alle wichtigen Informationen, um Ihre Kita-Fotografie von A bis Z professionell und sicher umzusetzen.
+**Vendor's marketplace description:** <p>Dieses Handbuch begleitet Sie von der ersten Geschäftsidee bis zum fertigen Auftrag. Ob Kameraeinstellungen, Rechtliches, der Kita-Einsatz vor Ort, Online-Abwicklung oder Buchhaltung: Sie erhalten alle wichtigen Informationen, um Ihre Kita-Fotografie von A bis Z professionell und sicher umzusetzen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/719271?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58251/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/719271
 - Canonical redirect: https://www.digistore24.com/redir/719271/adminstore
 
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitales Praxis-Handbuch für Kindergartenfotografie? — Typ: Downloads, Anbieter: proleitfaden, gelistet seit 2026-08-10
-- Wie viel kostet es? — 135.60380600000002 USD
+- Wie viel kostet es? — 135.30128100000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

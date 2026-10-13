@@ -4,34 +4,34 @@ digistore24_product_id: 689384
 title: "Ebook - Warum die Dümmsten die Macht übernehmen"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.8
+price: 6.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.41
+earnings_per_sale: 3.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy","Social Media"]
 listed_since: "2026-05-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/689384?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56415/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/689384"
 language: "de"
 ---
 # Ebook - Warum die Dümmsten die Macht übernehmen
 
 > Product ID `56415` · Digistore24 productId `689384` · [HTML profile page](../../produkte/ebook-warum-die-d-mmsten-die-macht-bernehmen-56415.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.80 (Single payment) |
+| Price | $6.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.41 |
+| Earnings/sale* | $3.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochrelevantes, kontroverses Thema mit starkem Diskussionspotenzial: Dieses Buch trifft den Nerv aktueller politischer und gesellschaftlicher Debatten und spricht eine breite, meinungsstarke Zielgruppe an. Die Kombination aus Psychologie, Medienkritik und realen Fallanalysen liefert klare Aha-Momente und hohe Engagement-Raten bei Lesern. Besonders attraktiv für Affiliates im Bereich Politik, G…
+**Vendor's marketplace description:** <p>Ein hochrelevantes, kontroverses Thema mit starkem Diskussionspotenzial:</p>
+<p>Dieses Buch trifft den Nerv aktueller politischer und gesellschaftlicher Debatten und spricht eine breite, meinungsstarke Zielgruppe an.</p>
+<p>Die Kombination aus Psychologie, Medienkritik und realen Fallanalysen liefert klare Aha-Momente und hohe Engagement-Raten bei Lesern.</p>
+<p>Besonders attraktiv für Affiliates im Bereich Politik, Gesellschaft, Mindset und kritisches Denken, da das Thema polarisiert und Aufmerksamkeit erzeugt.</p>
+<p>Die klare Problemstellung und der lösungsorientierte Ansatz steigern die Kaufmotivation deutlich.</p>
+<p>Ein Produkt mit starkem Viral- und Empfehlungsfaktor.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689384?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56415/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/689384
 - Canonical redirect: https://www.digistore24.com/redir/689384/adminstore
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Warum die Dümmsten die Macht übernehmen? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-01
-- Wie viel kostet es? — 6.802042 USD
+- Wie viel kostet es? — 6.786867000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

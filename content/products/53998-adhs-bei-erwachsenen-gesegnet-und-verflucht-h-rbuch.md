@@ -4,16 +4,16 @@ digistore24_product_id: 634968
 title: "ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch"
 vendor: "Keto-Fasten"
 product_type: "Audio book (download)"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-09-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.keto.jetzt/adhs-gesegnet-und-verflucht-das-hoerbuch/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.keto.jetzt/adhs-gesegnet-und-verflucht-das-hoerbuch/"
@@ -22,16 +22,16 @@ language: "de"
 # ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch
 
 > Product ID `53998` · Digistore24 productId `634968` · [HTML profile page](../../produkte/adhs-bei-erwachsenen-gesegnet-und-verflucht-h-rbuch-53998.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Keto-Fasten |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ADHS bei Erwachsenen: Oft spät diagnostiziert bringt Herausforderungen, aber auch verborgene Stärken mit sich. In Gesegnet und Verflucht erzählt Timo Konzelmann seine persönliche Geschichte und zeigt, wie die ketogene Ernährung (Keto) und eine neue Sichtweise helfen können, den Alltag zu meistern. Dieses Hörbuch richtet sich an Erwachsene mit ADHS, die nach Klarheit, praktischen Lösungen und Impul…
+**Vendor's marketplace description:** <p>ADHS bei Erwachsenen: Oft spät diagnostiziert bringt Herausforderungen, aber auch verborgene Stärken mit sich. In <em>Gesegnet und Verflucht</em> erzählt Timo Konzelmann seine persönliche Geschichte und zeigt, wie die ketogene Ernährung (Keto) und eine neue Sichtweise helfen können, den Alltag zu meistern. Dieses Hörbuch richtet sich an Erwachsene mit ADHS, die nach Klarheit, praktischen Lösungen und Impulsen suchen. Authentisch, ehrlich und voller Energie. Ein Hörbuch, bei dem du direkt von echten Erfahrungen profitierst.</p>
+<p>Hörbuch im m4b-Format mit Kapitelmarken + exklusive Bonus-PDFs mit Kapitelsammlungen &amp; Keto-Guides.Starte jetzt.</p>
 
 ## 2. Links
 
@@ -74,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ADHS bei Erwachsenen – Gesegnet und Verflucht | Hörbuch? — Typ: Audio book (download), Anbieter: Keto-Fasten, gelistet seit 2025-09-10
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

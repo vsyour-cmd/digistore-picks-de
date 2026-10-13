@@ -4,16 +4,16 @@ digistore24_product_id: 734170
 title: "Medienzeit ohne Streit – der Praxis-Guide für klare Regeln u"
 vendor: "MarkusGerbig"
 product_type: "E-books"
-price: 31.41
+price: 31.34
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.56
+earnings_per_sale: 12.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.mg-wissen.de/medienzeit-ohne-streit/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mg-wissen.de/medienzeit-ohne-streit/"
@@ -22,16 +22,16 @@ language: "de"
 # Medienzeit ohne Streit – der Praxis-Guide für klare Regeln u
 
 > Product ID `59328` · Digistore24 productId `734170` · [HTML profile page](../../produkte/medienzeit-ohne-streit-der-praxis-guide-f-r-klare-regeln-u-59328.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.41 (Single payment) |
+| Price | $31.34 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.56 |
+| Earnings/sale* | $12.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MarkusGerbig |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Medienzeit ohne Streit... ist der praktische Familienratgeber für alle, die weniger Diskussionen und mehr Klarheit bei der Bildschirmzeit wollen... Statt starrer Verbote setzt das Buch auf ein faires... Punkte und Bonussystem... das Verantwortung belohnt... Mit alltagstauglichen Beispielen... Checklisten und Vorlagen... für Medienregeln... Wochenziele und Belohnungen... Eltern bekommen damit eine …
+**Vendor's marketplace description:** <p style="text-align:center;">Medienzeit ohne Streit... ist der praktische Familienratgeber für alle, die weniger Diskussionen und mehr Klarheit bei der Bildschirmzeit wollen... Statt starrer Verbote setzt das Buch auf ein faires... Punkte und Bonussystem... das Verantwortung belohnt... Mit alltagstauglichen Beispielen... Checklisten und Vorlagen... für Medienregeln... Wochenziele und Belohnungen... Eltern bekommen damit eine klare Struktur... und Kinder und Jugendliche echte Mitgestaltung.</p>
 
 ## 2. Links
 
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Medienzeit ohne Streit – der Praxis-Guide für klare Regeln u? — Typ: E-books, Anbieter: MarkusGerbig, gelistet seit 2026-09-17
-- Wie viel kostet es? — 31.410418000000004 USD
+- Wie viel kostet es? — 31.340343000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

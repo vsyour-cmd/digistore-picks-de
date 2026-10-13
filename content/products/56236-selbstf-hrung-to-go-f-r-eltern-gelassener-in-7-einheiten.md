@@ -4,16 +4,16 @@ digistore24_product_id: 412211
 title: "Selbstführung to go – für Eltern. Gelassener in 7 Einheiten."
 vendor: "LifeSkripting_"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.84
+earnings_per_sale: 13.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development"]
 listed_since: "2021-10-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/412211/?email=katrin@dr-hegendoerfer.de&aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/412211/?email=katrin@dr-hegendoerfer.de"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstführung to go – für Eltern. Gelassener in 7 Einheiten.
 
 > Product ID `56236` · Digistore24 productId `412211` · [HTML profile page](../../produkte/selbstf-hrung-to-go-f-r-eltern-gelassener-in-7-einheiten-56236.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.84 |
+| Earnings/sale* | $13.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LifeSkripting_ |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Warum dieser Kurs für deine Zielgruppe perfekt ist: Eltern, die im Alltag nur noch „funktionieren", gestresst reagieren und sich mehr Gelassenheit und echte Verbindung mit ihren Kindern wünschen – genau hier setzt dieser Kurs an. Alltagstauglich, ohne Vorwissen, ohne Extra-Zeit. Das Produkt auf einen Blick: 7 kompakte Video-Einheiten zur Selbstführung im Familienalltag – entwickelt von Dr. Katrin …
+**Vendor's marketplace description:** <p><strong>Warum dieser Kurs für deine Zielgruppe perfekt ist:</strong> Eltern, die im Alltag nur noch „funktionieren", gestresst reagieren und sich mehr Gelassenheit und echte Verbindung mit ihren Kindern wünschen – genau hier setzt dieser Kurs an. Alltagstauglich, ohne Vorwissen, ohne Extra-Zeit.</p>
+<p><strong>Das Produkt auf einen Blick:</strong> 7 kompakte Video-Einheiten zur Selbstführung im Familienalltag – entwickelt von Dr. Katrin Hegendörfer, Psychologin und systemische Therapeutin mit über 20 Jahren Erfahrung. Erprobt mit hunderten Eltern.</p>
+<p>✅ 7 Video-Einheiten mit klaren Impulsen &amp; direkten Übungen <br />✅ Begleitendes Workbook mit Reflexionsfragen <br />✅ 12 Monate Zugang – jederzeit &amp; im eigenen Tempo <br />✅ Sofort nach Kauf verfügbar <br />✅ Für Eltern mit Kindern jeden Alters (4–14 Jahre und darüber hinaus)</p>
+<p><strong>Die 7 Themen:</strong> Präsenz · Werte · Bedürfnisse · Sprache · Gedanken · Positive Gefühle · Schwierige Gefühle</p>
+<p><strong>Preis:</strong> 49 € (inkl. MwSt.) <br /><strong>Zielgruppe:</strong> Eltern, die gelassener, klarer und verbundener sein wollen – ohne sich selbst zu verlieren <strong>Conversion-Stärke:</strong> Extrem breite Zielgruppe, emotionales Thema, günstiger Einstiegspreis, starke Identifikation</p>
 
 ## 2. Links
 
@@ -88,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstführung to go – für Eltern. Gelassener in 7 Einheiten.? — Typ: Member area and video courses, Anbieter: LifeSkripting_, gelistet seit 2021-10-17
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

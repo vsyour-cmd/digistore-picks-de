@@ -4,34 +4,34 @@ digistore24_product_id: 501143
 title: "5-Schritte-Meditations-Videotraining"
 vendor: "Erfolg-Intuitiv"
 product_type: "Member area and video courses"
-price: 32.7
+price: 32.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.05
 cart_conversion_pct: 17
 cancel_rate_pct: 6.36
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-05-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://erfolg-intuitiv.de/meditation-anleitung-videotraining/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/44325/adminstore/"
 sales_page: "https://erfolg-intuitiv.de/meditation-anleitung-videotraining/"
 language: "de"
 ---
 # 5-Schritte-Meditations-Videotraining
 
 > Product ID `44325` · Digistore24 productId `501143` · [HTML profile page](../../produkte/5-schritte-meditations-videotraining-44325.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.70 (Single payment) |
+| Price | $32.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.05 |
 | Cart conversion* | 17% |
 | Cancel rate* | 6.36% |
 | Vendor | Erfolg-Intuitiv |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die 5-Schritte-Meditations-Anleitung ist ein Initial-Produkt... Das bedeutet, dass der Interessent als erstes die kostenlose "5-Schritte-Meditations-Anleitung" bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Anleitung das passende "Videotraining" für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-A…
+**Vendor's marketplace description:** <h4><strong>Die 5-Schritte-Meditations-Anleitung ist ein Initial-Produkt...</strong></h4>
+<p>Das bedeutet, dass der Interessent als erstes die kostenlose <strong>"5-Schritte-Meditations-Anleitung</strong><strong>"</strong> bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Anleitung das passende <strong>"Videotraining"</strong> für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-Angebote auf <strong>"Anziehungskraft-Dreieck"</strong> (47,- Euro) und auf das <strong>"Anziehungskraft-Masterplan-Videocoaching"</strong> (97,- Euro).</p>
+<p><span style="background-color:#ffff00;"><strong>Provision jeweils 50%</strong></span></p>
+<p><strong>Danach geht es weiter im Funnel, wo noch </strong><strong>weitere Folgeprovisionen auf Dich warten.</strong></p>
+<p><strong>Promo-Link Optin-Seite:</strong></p>
+<p><strong>https://www.digistore24.com/content/501143/43715/AFFILIATE/CAMPAIGNKEY<br /></strong></p>
+<p><strong>Promo-Link Verkaufsseite:</strong></p>
+<p><strong>https://www.digistore24.com/content/501143/43716/AFFILIATE/CAMPAIGNKEY</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://erfolg-intuitiv.de/meditation-anleitung-videotraining/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/44325/adminstore/
 - Sales page: https://erfolg-intuitiv.de/meditation-anleitung-videotraining/
 - Vendor affiliate support: https://erfolg-intuitiv.de/partnerprogramm-mav/
 - Canonical redirect: https://www.digistore24.com/redir/501143/adminstore
@@ -82,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 5-Schritte-Meditations-Videotraining? — Typ: Member area and video courses, Anbieter: Erfolg-Intuitiv, gelistet seit 2023-05-30
-- Wie viel kostet es? — 32.699108 USD
+- Wie viel kostet es? — 32.626158000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 642294
 title: "eBook: Anatomie und Biomechanik"
 vendor: "Dreihundertsechziggradpferd"
 product_type: "E-books"
-price: 38.75
+price: 38.66
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.88
+earnings_per_sale: 3.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-10-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://360gradpferd.de/workbook-anatomie-biomechanik/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55267/adminstore/"
 sales_page: "https://360gradpferd.de/workbook-anatomie-biomechanik/"
 language: "de"
 ---
 # eBook: Anatomie und Biomechanik
 
 > Product ID `55267` · Digistore24 productId `642294` · [HTML profile page](../../produkte/ebook-anatomie-und-biomechanik-55267.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.75 (Single payment) |
+| Price | $38.66 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.88 |
+| Earnings/sale* | $3.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Dreihundertsechziggradpferd |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hat dein Pferd einen Senkrücken? Neigt es womöglich zur Trageerschöpfung? Gibt es Muskellöcher und falls ja, wo kommen sie her und wie kannst du sie wegtrainieren? Mit meinem Workbook Rückenfitte Pferde – Anatomie & Biomechanik möchte ich dich dabei unterstützen, den Blick deines Pferdes zu schärfen. Ich möchte dir helfen, dein Pferd objektiv zu betrachten und mögliche Schwachpunkte zu identifizie…
+**Vendor's marketplace description:** <p>Hat dein Pferd einen Senkrücken? Neigt es womöglich zur Trageerschöpfung? Gibt es Muskellöcher und falls ja, wo kommen sie her und wie kannst du sie wegtrainieren?</p>
+<p>Mit meinem Workbook <em>Rückenfitte Pferde – Anatomie &amp; Biomechanik</em> möchte ich dich dabei unterstützen, den Blick deines Pferdes zu schärfen. Ich möchte dir helfen, dein Pferd objektiv zu betrachten und mögliche Schwachpunkte zu identifizieren. Außerdem möchte ich dich ermutigen, die alten Trampelpfade zu verlassen um ein paar neue Wege zu gehen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://360gradpferd.de/workbook-anatomie-biomechanik/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55267/adminstore/
 - Sales page: https://360gradpferd.de/workbook-anatomie-biomechanik/
 - Canonical redirect: https://www.digistore24.com/redir/642294/adminstore
 
@@ -78,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook: Anatomie und Biomechanik? — Typ: E-books, Anbieter: Dreihundertsechziggradpferd, gelistet seit 2025-10-19
-- Wie viel kostet es? — 38.750348 USD
+- Wie viel kostet es? — 38.663898 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

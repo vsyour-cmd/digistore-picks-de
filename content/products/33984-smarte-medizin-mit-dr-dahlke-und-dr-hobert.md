@@ -4,16 +4,16 @@ digistore24_product_id: 275410
 title: "Smarte Medizin mit Dr. Dahlke und Dr. Hobert"
 vendor: "Ingohobert"
 product_type: "Member area and video courses"
-price: 468.02
+price: 466.97
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 93.6
+earnings_per_sale: 93.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-06-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ethnomed.de/smarte-medizin/?aff=adminstore#aff=adminstore"
 sales_page: "https://ethnomed.de/smarte-medizin/"
@@ -22,16 +22,16 @@ language: "de"
 # Smarte Medizin mit Dr. Dahlke und Dr. Hobert
 
 > Product ID `33984` · Digistore24 productId `275410` · [HTML profile page](../../produkte/smarte-medizin-mit-dr-dahlke-und-dr-hobert-33984.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $468.02 (Single payment) |
+| Price | $466.97 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $93.60 |
+| Earnings/sale* | $93.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ingohobert |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** WERDE ZUR BESTEN VERSION VON DIR SELBST!Wir begleiten "gemeinsam" bereits seit etwa 80 Arztjahren Menschen durch Ihre Symptomatiken und Lebenskrisen. Und unser Fazit lautet: "Entscheide Dich für die Gesundheit und packe die Dinge in Deinem Leben an, die Dich daran hindern Dein volles Lebenspotenzial zu entfalten.Wir wollen Dir in diesem Seminar ganz konkrete Lebenskonzepte an die Hand geben, damit…
+**Vendor's marketplace description:** <p><strong>WERDE ZUR BESTEN VERSION VON DIR SELBST!</strong><br /><br />Wir begleiten "gemeinsam" bereits seit etwa 80 Arztjahren Menschen durch Ihre Symptomatiken und Lebenskrisen. Und unser Fazit lautet: "Entscheide Dich für die Gesundheit und packe die Dinge in Deinem Leben an, die Dich daran hindern Dein volles Lebenspotenzial zu entfalten.<br /><br />Wir wollen Dir in diesem Seminar ganz konkrete Lebenskonzepte an die Hand geben, damit Du den Hintergrund Deiner Krankheit verstehen kannst, die Verantwortung dafür übernimmst und aus dem Hamsterrad der Schulmedizin ausbrichst, um ein bewussteres, gesünderes und vor allem längeres Leben zu geniessen.<br /><br /><strong>12 stündige Intensivausbildung zu einer neuen Aufwachmedizin<br /><br /></strong>Alle wichtigen Infos zum Partnerprogramm erhältst Du hier: <a href="https://ethnomed.de/partner/" target="_blank" rel="noreferrer noopener"><strong>https://ethnomed.de/partner/</strong></a></p>
+<p><strong><br /><br /></strong></p>
 
 ## 2. Links
 
@@ -91,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Smarte Medizin mit Dr. Dahlke und Dr. Hobert? — Typ: Member area and video courses, Anbieter: Ingohobert, gelistet seit 2019-06-12
-- Wie viel kostet es? — 468.01859 USD
+- Wie viel kostet es? — 466.974465 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 426640
 title: "Kinderbuch - Familie ist besonders, einzigartig, ganz normal"
 vendor: "franziboerner"
 product_type: "Book (printed)"
-price: 15.71
+price: 15.68
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.72
+earnings_per_sale: 4.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2022-01-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.franziboerner.de?aff=adminstore#aff=adminstore"
 sales_page: "http://www.franziboerner.de"
@@ -22,16 +22,16 @@ language: "de"
 # Kinderbuch - Familie ist besonders, einzigartig, ganz normal
 
 > Product ID `39076` · Digistore24 productId `426640` · [HTML profile page](../../produkte/kinderbuch-familie-ist-besonders-einzigartig-ganz-normal-39076.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $15.71 (Single payment) |
+| Price | $15.68 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.72 |
+| Earnings/sale* | $4.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | franziboerner |
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 52 Seiten, Hardcover, ab 4 J., deutsch. Produktion: Klimaneutral in Deutschland Was dieses Buch für dich bereithält: 1. Kurzgeschichten ​​Vielseitig: 13 Kurzgeschichten zu unterschiedlichen Familienmodellen ​Kurz und prägnant: Super geeignet zum Lesen "zwischendurch" ​Leicht verständlich: Zum Vorlesen und selber lesen 2. Fachwissen Über Pflege- & Adoptivfamillien: Wo liegen die Unterschiede? ​​Übe…
+**Vendor's marketplace description:** <p style="text-align:left;">52 Seiten, Hardcover, ab 4 J., deutsch. </p>
+<p>Produktion: Klimaneutral in Deutschland</p>
+<p> </p>
+<p><strong>Was dieses Buch für dich bereithält:</strong></p>
+<p> </p>
+<p><strong>1. Kurzgeschichten</strong></p>
+<p>​​Vielseitig: 13 Kurzgeschichten zu unterschiedlichen Familienmodellen</p>
+<p>​Kurz und prägnant: Super geeignet zum Lesen "zwischendurch"</p>
+<p>​Leicht verständlich: Zum Vorlesen und selber lesen</p>
+<p> </p>
+<p><strong>2. Fachwissen</strong></p>
+<p>Über Pflege- &amp; Adoptivfamillien: Wo liegen die Unterschiede?</p>
+<p>​​Über das Jugendamt: Welche Rolle spielt es und wie geht es vor? </p>
+<p>Begriffserklärungen: z. B. Bauchmama, Besuchskontakte, Leihmutterschaft uvm.</p>
+<p> </p>
+<p style="text-align:left;"><strong>3. Zur Wertevermittlung: </strong></p>
+<p>Offenheit, Toleranz und Akzeptanz</p>
+<p>​Zum Fragen stellen: Um Neues zu erlernen und zu verstehen</p>
+<p>​​Für tiefgehende Gespräche: zur eigenen Familienform und Herkunft</p>
 
 ## 2. Links
 
@@ -76,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kinderbuch - Familie ist besonders, einzigartig, ganz normal? — Typ: Book (printed), Anbieter: franziboerner, gelistet seit 2022-01-25
-- Wie viel kostet es? — 15.710812 USD
+- Wie viel kostet es? — 15.675762 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

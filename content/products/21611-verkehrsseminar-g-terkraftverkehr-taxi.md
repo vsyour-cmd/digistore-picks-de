@@ -4,34 +4,34 @@ digistore24_product_id: 135597
 title: "Verkehrsseminar Güterkraftverkehr / Taxi"
 vendor: "Industrie"
 product_type: "Downloads"
-price: 366.31
+price: 365.5
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 54.94
+earnings_per_sale: 54.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2017-05-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://www.verkehrsseminare-online.de/home/g%C3%BCterkraftverkehr/?aff=adminstore#aff=adminstore"
+promo_link: "http://marketing2go.at/workshops#aff=adminstore"
 sales_page: "http://www.verkehrsseminare-online.de/home/g%C3%BCterkraftverkehr/"
 language: "de"
 ---
 # Verkehrsseminar Güterkraftverkehr / Taxi
 
 > Product ID `21611` · Digistore24 productId `135597` · [HTML profile page](../../produkte/verkehrsseminar-g-terkraftverkehr-taxi-21611.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $366.31 (Single payment) |
+| Price | $365.50 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $54.94 |
+| Earnings/sale* | $54.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Industrie |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ###Achtung Nischenprodukt Vorbereitung auf die IHK Prüfung! Konkurenz nur durch Standort - Seminare vorhanden. ***hohe Provision und Wettbewerbsvorteil durch 50 % weniger Kurskosten*** Verdiene mit an Verkehrsseminare 3.0 Die Sach- und Fachkundeprüfung werden benötigt um auf Selbstständiger Basis in den Bereichen tätig zu werden. z.B. der Taxifahrer welcher sich sein eigenes Taxi kauft, jeder der …
+**Vendor's marketplace description:** <p><strong><span style="background-color:#ffff00;color:#ff0000;">###Achtung Nischenprodukt</span></strong></p>
+<p><span style="color:#000000;"><strong><span style="background-color:#ffff00;">Vorbereitung auf die IHK Prüfung!</span></strong></span></p>
+<p><span style="color:#000000;"><strong><span style="background-color:#ffff00;">Konkurenz nur durch Standort - Seminare vorhanden.</span></strong></span></p>
+<p><span style="color:#339966;"><strong><span style="background-color:#ffffff;">***hohe Provision und Wettbewerbsvorteil durch      50 % weniger Kurskosten***<br /></span></strong></span></p>
+<p><span style="color:#000000;"><span style="background-color:#ffffff;">Verdiene mit an Verkehrsseminare 3.0</span></span></p>
+<p> </p>
+<p><span style="color:#000000;"><span style="background-color:#ffffff;">Die Sach- und Fachkundeprüfung werden benötigt um auf Selbstständiger Basis in den Bereichen tätig zu werden. </span></span></p>
+<p><span style="color:#000000;"><span style="background-color:#ffffff;">z.B. der Taxifahrer welcher sich sein eigenes Taxi kauft,</span></span></p>
+<p><span style="color:#000000;"><span style="background-color:#ffffff;">jeder der ein Verkehrsunternehmen erbt und weiterführen möchte....</span></span></p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.verkehrsseminare-online.de/home/g%C3%BCterkraftverkehr/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://marketing2go.at/workshops#aff=adminstore
 - Sales page: http://www.verkehrsseminare-online.de/home/g%C3%BCterkraftverkehr/
 - Canonical redirect: https://www.digistore24.com/redir/135597/adminstore
 
@@ -88,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verkehrsseminar Güterkraftverkehr / Taxi? — Typ: Downloads, Anbieter: Industrie, gelistet seit 2017-05-01
-- Wie viel kostet es? — 366.312934 USD
+- Wie viel kostet es? — 365.49570900000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

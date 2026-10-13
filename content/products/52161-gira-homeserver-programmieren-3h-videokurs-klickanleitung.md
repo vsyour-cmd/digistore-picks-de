@@ -4,34 +4,34 @@ digistore24_product_id: 320544
 title: "Gira Homeserver programmieren - 3h Videokurs Klickanleitung"
 vendor: "smarthomeknx"
 product_type: "Downloads"
-price: 238.5
+price: 237.97
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 78.88
+earnings_per_sale: 78.7
 cart_conversion_pct: 13
 cancel_rate_pct: 4.84
 categories: ["Computer & Internet"]
 listed_since: "2020-04-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.smartest-home.com/gira-homeserver-programmieren/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52161/adminstore/"
 sales_page: "https://www.smartest-home.com/gira-homeserver-programmieren/"
 language: "de"
 ---
 # Gira Homeserver programmieren - 3h Videokurs Klickanleitung
 
 > Product ID `52161` · Digistore24 productId `320544` · [HTML profile page](../../produkte/gira-homeserver-programmieren-3h-videokurs-klickanleitung-52161.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $238.50 (Single payment, Installment) |
+| Price | $237.97 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $78.88 |
+| Earnings/sale* | $78.70 |
 | Cart conversion* | 13% |
 | Cancel rate* | 4.84% |
 | Vendor | smarthomeknx |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Gira Homeserver in 3 Stunden einrichten/programmieren ist der Videokurs, der dich dauerhaft von Programmierern und GIRA-Systemintegratoren unabhängig macht und dir ermöglicht, mit geringstmöglichem Zeitaufwand jedes Haus/Villa mit GIRA Homeserver selbst zu programmieren und in Betrieb zu nehmen. Bauherren, Elektriker und Systemintegratoren, die schnell ein „Haus/Villa oder Gewerbegebäude“ per GIRA…
+**Vendor's marketplace description:** <h3>Gira Homeserver in 3 Stunden einrichten/programmieren</h3>
+<div>
+<p>ist der Videokurs, der dich dauerhaft von <strong>Programmierern und GIRA-Systemintegratoren</strong> <strong>unabhängig macht</strong> und dir ermöglicht, mit geringstmöglichem Zeitaufwand jedes Haus/Villa mit GIRA Homeserver selbst zu programmieren und in Betrieb zu nehmen.</p>
+<ul>
+<li><strong>Bauherren, Elektriker und Systemintegratoren</strong>, die schnell ein „Haus/Villa oder Gewerbegebäude“ per GIRA Homeserver steuern wollen</li>
+<li>Elektriker, die <strong>viel Zeit und Geld sparen</strong> und die Gira Homeserver <strong>Visualisierung auf Tablet/Smartphone/Touchscreen</strong> einrichten wollen</li>
+<li><strong>Interessenten ohne Vorkenntnisse</strong>, die am PC mit der kostenlosen GIRA Experte<strong> Software</strong> alles selbst einrichten und programmieren wollen</li>
+</ul>
+<p> </p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.smartest-home.com/gira-homeserver-programmieren/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52161/adminstore/
 - Sales page: https://www.smartest-home.com/gira-homeserver-programmieren/
 - Vendor affiliate support: https://www.smartest-home.com/affiliateprogramm
 - Canonical redirect: https://www.digistore24.com/redir/320544/adminstore
@@ -96,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gira Homeserver programmieren - 3h Videokurs Klickanleitung? — Typ: Downloads, Anbieter: smarthomeknx, gelistet seit 2020-04-14
-- Wie viel kostet es? — 238.49729800000003 USD
+- Wie viel kostet es? — 237.96522300000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

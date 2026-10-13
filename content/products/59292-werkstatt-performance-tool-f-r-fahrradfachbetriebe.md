@@ -4,16 +4,16 @@ digistore24_product_id: 733334
 title: "Werkstatt-Performance Tool für Fahrradfachbetriebe"
 vendor: "markplenert7400"
 product_type: "Downloads"
-price: 55.56
+price: 55.44
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 22.22
+earnings_per_sale: 22.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software","Finances"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.bikeworkshop-performance.de/werkstatt-performance-tool/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.bikeworkshop-performance.de/werkstatt-performance-tool/"
@@ -22,16 +22,16 @@ language: "de"
 # Werkstatt-Performance Tool für Fahrradfachbetriebe
 
 > Product ID `59292` · Digistore24 productId `733334` · [HTML profile page](../../produkte/werkstatt-performance-tool-f-r-fahrradfachbetriebe-59292.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $55.56 (Single payment) |
+| Price | $55.44 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $22.22 |
+| Earnings/sale* | $22.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | markplenert7400 |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Werkstatt-Performance Tool ist ein Excel-basiertes Controlling- und Planungswerkzeug speziell für Fahrradfachbetriebe mit eigener Werkstatt. Es unterstützt Betriebe dabei, Personalkosten, produktive Kapazität, Arbeitsumsatz, Teileumsatz und Jahresplanung strukturiert zusammenzuführen und wirtschaftlich auszuwerten. Käufer erhalten eine sofort einsetzbare Excel-Datei sowie eine ausgefüllte Must…
+**Vendor's marketplace description:** <p>Das Werkstatt-Performance Tool ist ein Excel-basiertes Controlling- und Planungswerkzeug speziell für Fahrradfachbetriebe mit eigener Werkstatt.</p>
+<p>Es unterstützt Betriebe dabei, Personalkosten, produktive Kapazität, Arbeitsumsatz, Teileumsatz und Jahresplanung strukturiert zusammenzuführen und wirtschaftlich auszuwerten.</p>
+<p>Käufer erhalten eine sofort einsetzbare Excel-Datei sowie eine ausgefüllte Musterdatei zur Orientierung.</p>
+<p><strong>Verkaufspreis:</strong> 59 € einmalig<br /><strong>Kein Abo</strong></p>
+<p><strong>Zielgruppe:</strong><br />Fahrradfachhändler und etablierte Fahrradbetriebe mit eigener Werkstatt, die ihre Werkstatt wirtschaftlich steuern und Kennzahlen wie Kosten, Kapazität, Leistung und Umsatz besser beurteilen möchten.</p>
+<p><strong>Für Affiliates interessant:</strong><br />Das Produkt adressiert ein klar abgegrenztes B2B-Problem innerhalb der Fahrradbranche. Es eignet sich insbesondere für Partner mit Reichweite bei Fahrradhändlern, Werkstattinhabern, Geschäftsführern und Entscheidern im Fahrradfachhandel.</p>
+<p>Die Verkaufsseite erklärt Einsatzbereich, Funktionsumfang und Zielgruppe ausführlich. Der Kauf und die digitale Auslieferung erfolgen vollständig über Digistore24.</p>
 
 ## 2. Links
 
@@ -91,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werkstatt-Performance Tool für Fahrradfachbetriebe? — Typ: Downloads, Anbieter: markplenert7400, gelistet seit 2026-09-16
-- Wie viel kostet es? — 55.559348 USD
+- Wie viel kostet es? — 55.435398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

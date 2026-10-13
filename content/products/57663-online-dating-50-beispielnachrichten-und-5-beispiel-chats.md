@@ -4,34 +4,34 @@ digistore24_product_id: 713101
 title: "Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats"
 vendor: "MF-Digital-Solutions"
 product_type: "E-books"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.04
+earnings_per_sale: 13.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/713101?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57663/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/713101"
 language: "de"
 ---
 # Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats
 
 > Product ID `57663` · Digistore24 productId `713101` · [HTML profile page](../../produkte/online-dating-50-beispielnachrichten-und-5-beispiel-chats-57663.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.04 |
+| Earnings/sale* | $13.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MF-Digital-Solutions |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Praxisnaher Online-Dating-Ratgeber für Singles, die ihre Kommunikation auf Dating-Apps verbessern möchten. Dieses E-Book begleitet den Leser vom eigenen Profil über die erste Nachricht bis hin zum Gesprächsaufbau und dem Übergang zum Date. Produktinhalt: Über 50 Beispielnachrichten 5 Schritt-für-Schritt erklärte Beispiel-Chatverläufe Schritt-für-Schritt-Anleitung vom Match bis zum Date Ideal für C…
+**Vendor's marketplace description:** <p>Praxisnaher Online-Dating-Ratgeber für Singles, die ihre Kommunikation auf Dating-Apps verbessern möchten.</p>
+<p>Dieses E-Book begleitet den Leser vom eigenen Profil über die erste Nachricht bis hin zum Gesprächsaufbau und dem Übergang zum Date.</p>
+<p>Produktinhalt:</p>
+<ul>
+<li>Über 50 Beispielnachrichten</li>
+<li>5 Schritt-für-Schritt erklärte Beispiel-Chatverläufe</li>
+<li>Schritt-für-Schritt-Anleitung vom Match bis zum Date</li>
+</ul>
+<p>Ideal für Content rund um Online-Dating, Beziehungen und Persönlichkeitsentwicklung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/713101?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57663/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/713101
 - Canonical redirect: https://www.digistore24.com/redir/713101/adminstore
 
@@ -71,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Dating: 50 Beispielnachrichten und  5 Beispiel-Chats? — Typ: E-books, Anbieter: MF-Digital-Solutions, gelistet seit 2026-07-21
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

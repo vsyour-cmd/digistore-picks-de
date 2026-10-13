@@ -4,34 +4,34 @@ digistore24_product_id: 701409
 title: "Neukundengewinnung über Skool"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.43
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-skool?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56989/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-skool"
 language: "de"
 ---
 # Neukundengewinnung über Skool
 
 > Product ID `56989` · Digistore24 productId `701409` · [HTML profile page](../../produkte/neukundengewinnung-ber-skool-56989.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.43 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie Unternehmen und Dienstleister Skool als Community-Funnel nutzen und planbar Neukunden gewinnen Skool ist nicht nur eine Community-Plattform – für Unternehmen ist es ein Akquise-System, das auf Vertrauen statt auf Kaltakquise setzt. Dieses E-Book zeigt dir, wie du eine kostenlose oder kostenpflichtige Skool-Gruppe als Top-of-Funnel nutzt, Interessenten durch Kurse und Community-Inhalte zu Kunde…
+**Vendor's marketplace description:** <p><strong>Wie Unternehmen und Dienstleister Skool als Community-Funnel nutzen und planbar Neukunden gewinnen</strong></p>
+<p>Skool ist nicht nur eine Community-Plattform – für Unternehmen ist es ein Akquise-System, das auf Vertrauen statt auf Kaltakquise setzt. Dieses E-Book zeigt dir, wie du eine kostenlose oder kostenpflichtige Skool-Gruppe als Top-of-Funnel nutzt, Interessenten durch Kurse und Community-Inhalte zu Kunden konvertierst und Gamification so einsetzt, dass Mitglieder aktiv, sichtbar und kaufbereit bleiben. Du lernst, wie du die Community von außen befüllst – über Content-Marketing, Ads und Partnerschaften –, wie du den Onboarding-Prozess als ersten Vertrauensschritt gestaltest und wie du den Übergang von Community-Mitglied zu zahlenden Kunden strukturiert und wiederholbar machst. Das Ergebnis: ein Community-Funnel, der rund um die Uhr für dich arbeitet.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Skool als Community-Funnel verstehen und strategisch aufbauen</li>
+<li>Kostenlose Einstiegsgruppe als Lead-Magnet und Vertrauensaufbau nutzen</li>
+<li>Classroom mit Mehrwert-Kursen bestücken, die Kaufbereitschaft erzeugen</li>
+<li>Gamification: Leaderboard und Levels als Engagement- und Sichtbarkeits-Hebel</li>
+<li>Community von außen befüllen: Content-Marketing, Ads und Partnerschaften</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/neukundengewinnung-ueber-skool?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56989/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/neukundengewinnung-ueber-skool
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701409/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neukundengewinnung über Skool? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

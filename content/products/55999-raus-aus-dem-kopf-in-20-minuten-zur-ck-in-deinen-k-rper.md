@@ -4,34 +4,34 @@ digistore24_product_id: 608891
 title: "Raus aus dem Kopf – in 20 Minuten zurück in deinen Körper"
 vendor: "yogalounge"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.66
+earnings_per_sale: 13.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-04-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.yogalounge.de/phantasiereisen-fuer-mamas/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55999/adminstore/"
 sales_page: "https://www.yogalounge.de/phantasiereisen-fuer-mamas/"
 language: "de"
 ---
 # Raus aus dem Kopf – in 20 Minuten zurück in deinen Körper
 
 > Product ID `55999` · Digistore24 productId `608891` · [HTML profile page](../../produkte/raus-aus-dem-kopf-in-20-minuten-zur-ck-in-deinen-k-rper-55999.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.66 |
+| Earnings/sale* | $13.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | yogalounge |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Produkt richtet sich an Menschen, die ständig „im Kopf“ sind und nicht abschalten können. Geführte Fantasiereisen bringen den Nutzer innerhalb von 20 Minuten zurück in einen ruhigen, klaren Zustand – ohne Meditationstechniken oder Vorkenntnisse. Ideal für: Stress im Alltag Einschlafprobleme innere Unruhe mentale Überlastung Besonderheit:Funktioniert auch für Menschen, die sagen: „Meditation…
+**Vendor's marketplace description:** <p>Dieses Produkt richtet sich an Menschen, die ständig „im Kopf“ sind und nicht abschalten können.</p>
+<p>Geführte Fantasiereisen bringen den Nutzer innerhalb von 20 Minuten zurück in einen ruhigen, klaren Zustand – ohne Meditationstechniken oder Vorkenntnisse.</p>
+<p>Ideal für:</p>
+<ul>
+<li>Stress im Alltag</li>
+<li>Einschlafprobleme</li>
+<li>innere Unruhe</li>
+<li>mentale Überlastung</li>
+</ul>
+<p>Besonderheit:<br />Funktioniert auch für Menschen, die sagen: „Meditation klappt bei mir nicht.“</p>
+<p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.yogalounge.de/phantasiereisen-fuer-mamas/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55999/adminstore/
 - Sales page: https://www.yogalounge.de/phantasiereisen-fuer-mamas/
 - Canonical redirect: https://www.digistore24.com/redir/608891/adminstore
 
@@ -85,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raus aus dem Kopf – in 20 Minuten zurück in deinen Körper? — Typ: Downloads, Anbieter: yogalounge, gelistet seit 2025-04-23
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

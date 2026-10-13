@@ -4,16 +4,16 @@ digistore24_product_id: 732943
 title: "KI-Handbuch + KI-Grundkurs | bis ca. 168 € Provision"
 vendor: "lunaboxbindik"
 product_type: "E-books"
-price: 52.26
+price: 52.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.13
+earnings_per_sale: 26.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://kikompass.cloud/?aff=adminstore#aff=adminstore"
 sales_page: "https://kikompass.cloud/"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Handbuch + KI-Grundkurs | bis ca. 168 € Provision
 
 > Product ID `59216` · Digistore24 productId `732943` · [HTML profile page](../../produkte/ki-handbuch-ki-grundkurs-bis-ca-168-provision-59216.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.26 (Single payment) |
+| Price | $52.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.13 |
+| Earnings/sale* | $26.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lunaboxbindik |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ★ Neu in der KI-Nische: Handbuch + Live-Grundkurs aus einer Hand ★ Bewirb zwei Produkte über eine Verkaufsseite: Das große KI-Handbuch – Die 4K-Methode (49,90 €) und den KI-Grundkurs für Anfänger (399 €). Deine Provision:✔︎ KI-Handbuch: 50 % – ca. 23 € pro Verkauf✔︎ KI-Grundkurs: 50 % – ca. 168 € pro Verkauf Warum sich das Bewerben lohnt:✔︎ Starkes Kaufargument: Zum Handbuch gibt es 4 Stunden Live…
+**Vendor's marketplace description:** <p><strong>★ Neu in der KI-Nische: Handbuch + Live-Grundkurs aus einer Hand ★</strong></p>
+<p>Bewirb zwei Produkte über eine Verkaufsseite: <strong>Das große KI-Handbuch – Die 4K-Methode</strong> (49,90 €) und den <strong>KI-Grundkurs für Anfänger</strong> (399 €).</p>
+<p><strong>Deine Provision:</strong><br />✔︎ KI-Handbuch: 50 % – ca. 23 € pro Verkauf<br />✔︎ KI-Grundkurs: 50 % – ca. 168 € pro Verkauf</p>
+<p><strong>Warum sich das Bewerben lohnt:</strong><br />✔︎ Starkes Kaufargument: Zum Handbuch gibt es 4 Stunden Live-Schulung gratis dazu (2 Termine à 2 Stunden)<br />✔︎ KI-Grundkurs: 7 Live-Termine à 2 Stunden, mit Teilnahmezertifikat und Buchbonus<br />✔︎ Verständlich für Einsteiger, Selbstständige und Berufstätige – mit der 4K-Methode als rotem Faden<br />✔︎ Partnerschaften werden automatisch angenommen – du kannst sofort starten<br />✔︎ Zuverlässige Zuordnung per Digistore24-Promocode auf der Verkaufsseite</p>
+<p><strong>So verlinkst du:</strong><br />https://kikompass.cloud/?aff=DEINE_DIGISTORE_ID</p>
+<p>Fragen oder Wünsche zu Werbemitteln? Schreib an lewentbindik@gmail.com</p>
 
 ## 2. Links
 
@@ -98,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Handbuch + KI-Grundkurs | bis ca. 168 € Provision? — Typ: E-books, Anbieter: lunaboxbindik, gelistet seit 2026-09-14
-- Wie viel kostet es? — 52.264784000000006 USD
+- Wie viel kostet es? — 52.14818400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 736759
 title: "Social Media Beratung"
 vendor: "DigitalIncomeDE"
 product_type: "E-books"
-price: 15.7
+price: 15.66
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.71
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2026-09-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/736759?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/736759"
@@ -22,16 +22,16 @@ language: "de"
 # Social Media Beratung
 
 > Product ID `59806` · Digistore24 productId `736759` · [HTML profile page](../../produkte/social-media-beratung-59806.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.70 (Single payment) |
+| Price | $15.66 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DigitalIncomeDE |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Social Media Beratung – Dein Guide für mehr Reichweite, bessere Inhalte und einen professionellen Auftritt Du möchtest Social Media professioneller nutzen, mehr Menschen erreichen und deine Inhalte gezielt aufbauen – weißt aber nicht genau, wo du anfangen sollst? Dann ist dieses E-Book genau für dich. In diesem praxisorientierten Guide lernst du die wichtigsten Grundlagen, Strategien und Methoden …
+**Vendor's marketplace description:** <p>Social Media Beratung – Dein Guide für mehr Reichweite, bessere Inhalte und einen professionellen Auftritt</p>
+<p>Du möchtest Social Media professioneller nutzen, mehr Menschen erreichen und deine Inhalte gezielt aufbauen – weißt aber nicht genau, wo du anfangen sollst?</p>
+<p>Dann ist dieses E-Book genau für dich.</p>
+<p>In diesem praxisorientierten Guide lernst du die wichtigsten Grundlagen, Strategien und Methoden kennen, mit denen du deinen Social-Media-Auftritt Schritt für Schritt verbessern kannst.</p>
+<p>Das erwartet dich:</p>
+<p> </p>
 
 ## 2. Links
 
@@ -75,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media Beratung? — Typ: E-books, Anbieter: DigitalIncomeDE, gelistet seit 2026-09-26
-- Wie viel kostet es? — 15.699606000000001 USD
+- Wie viel kostet es? — 15.664581000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

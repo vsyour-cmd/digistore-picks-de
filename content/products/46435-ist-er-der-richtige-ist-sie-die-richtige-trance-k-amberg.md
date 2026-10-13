@@ -4,34 +4,34 @@ digistore24_product_id: 485352
 title: "Ist Er der Richtige? Ist Sie die Richtige?|TRANCE| K.Amberg"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 23.52
+price: 23.47
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 5.88
+earnings_per_sale: 5.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2023-02-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://katja-amberg-shop.de/trance-ist-er-der-richtige-ist-sie-die-richtige?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46435/adminstore/"
 sales_page: "https://katja-amberg-shop.de/trance-ist-er-der-richtige-ist-sie-die-richtige"
 language: "de"
 ---
 # Ist Er der Richtige? Ist Sie die Richtige?|TRANCE| K.Amberg
 
 > Product ID `46435` · Digistore24 productId `485352` · [HTML profile page](../../produkte/ist-er-der-richtige-ist-sie-die-richtige-trance-k-amberg-46435.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.52 (Single payment) |
+| Price | $23.47 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $5.88 |
+| Earnings/sale* | $5.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** IST ER DER RICHTIGE? IST SIE DIE RICHTIGE? | Trance | Katja Amberg Audioanwendung Vorwort (2:26) Anwendung/ Trance 27:49 Online, Zusätzlich Download vorhanden Zugang zum Produkt: über https://katja-amberg-coaching.de/ (Mitgliederbereich von Katja Amberg Coaching | Zugang wird automatisch erstellt). Bist Du in einer Beziehung und Du weisst nicht genau ob Dein Partner/ Deine Partnerin zu Dir passt? …
+**Vendor's marketplace description:** <p>IST ER DER RICHTIGE? IST SIE DIE RICHTIGE? | Trance | Katja Amberg</p>
+<p>Audioanwendung </p>
+<p>Vorwort (2:26)</p>
+<p>Anwendung/ Trance 27:49</p>
+<p>Online, Zusätzlich Download vorhanden </p>
+<p>Zugang zum Produkt: über <a>https://katja-amberg-coaching.de/</a> (Mitgliederbereich von Katja Amberg Coaching | Zugang wird automatisch erstellt). </p>
+<h4>Bist Du in einer Beziehung und Du weisst nicht genau ob Dein Partner/ Deine Partnerin zu Dir passt? Vielleicht bist Du auch gerade im Dating Prozess und Du bist Dir unsicher, ob Du Dich auf ihn oder sie einlassen kannst? Oder Du überlegst ob Du mit Deinem neuen Partner zusammenziehen sollst, bist Dir aber noch unsicher?</h4>
+<p>Mit dieser Trance-Reise kannst Du mit Hilfe Deines Unterbewusstseins herausfinden ob Du den richtigen Partner/ die richtige Partnerin gewählt hast. Dein Unterbewusstsein und Dein seelischer Anteil wissen die Antwort bereits. Auch Dein Herz schickt Dir ständig Botschaften, was für Dich richtig und stimmig ist. Nur leider können wir oft die Botschaft nicht wirklich empfangen oder verstehen.<br />Mit dieser Trance-Reise ist es möglich Antworten auf Deine Fragen zu erhalten. Ich wünsche Dir viel Freude damit.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://katja-amberg-shop.de/trance-ist-er-der-richtige-ist-sie-die-richtige?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46435/adminstore/
 - Sales page: https://katja-amberg-shop.de/trance-ist-er-der-richtige-ist-sie-die-richtige
 - Canonical redirect: https://www.digistore24.com/redir/485352/adminstore
 
@@ -73,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ist Er der Richtige? Ist Sie die Richtige?|TRANCE| K.Amberg? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2023-02-20
-- Wie viel kostet es? — 23.521394 USD
+- Wie viel kostet es? — 23.468919 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

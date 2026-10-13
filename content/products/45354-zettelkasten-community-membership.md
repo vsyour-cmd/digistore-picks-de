@@ -4,16 +4,16 @@ digistore24_product_id: 516474
 title: "Zettelkasten-Community - Membership"
 vendor: "StephanieSelmer"
 product_type: "Member area and video courses"
-price: 389.97
+price: 389.1
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 39
+earnings_per_sale: 38.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2023-09-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/516474?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/516474"
@@ -22,16 +22,16 @@ language: "de"
 # Zettelkasten-Community - Membership
 
 > Product ID `45354` · Digistore24 productId `516474` · [HTML profile page](../../produkte/zettelkasten-community-membership-45354.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $389.97 (Subscription) |
+| Price | $389.10 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $39.00 |
+| Earnings/sale* | $38.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StephanieSelmer |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein persönliches Wiki ist mehr als ein reiner Wissensspeicher.
+**Vendor's marketplace description:** <p>Ein persönliches Wiki ist mehr als ein reiner Wissensspeicher.</p>
 
 ## 2. Links
 
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zettelkasten-Community - Membership? — Typ: Member area and video courses, Anbieter: StephanieSelmer, gelistet seit 2023-09-14
-- Wie viel kostet es? — 389.9688 USD
+- Wie viel kostet es? — 389.09880000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

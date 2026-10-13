@@ -4,34 +4,34 @@ digistore24_product_id: 566325
 title: "MET Einsteigerkurs. Gesundheit und Glück in deinem Leben"
 vendor: "franke2met"
 product_type: "Online coaching"
-price: 189.26
+price: 188.84
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 27.62
+earnings_per_sale: 27.56
 cart_conversion_pct: 5
 cancel_rate_pct: 18.09
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2024-08-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://franke-akademie.de/klopfen-sie-sich-frei/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/49115/adminstore/"
 sales_page: "https://franke-akademie.de/klopfen-sie-sich-frei/"
 language: "de"
 ---
 # MET Einsteigerkurs. Gesundheit und Glück in deinem Leben
 
 > Product ID `49115` · Digistore24 productId `566325` · [HTML profile page](../../produkte/met-einsteigerkurs-gesundheit-und-gl-ck-in-deinem-leben-49115.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $189.26 (Single payment) |
+| Price | $188.84 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $27.62 |
+| Earnings/sale* | $27.56 |
 | Cart conversion* | 5% |
 | Cancel rate* | 18.09% |
 | Vendor | franke2met |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das vielleicht wichtigste Live-Onlineseminar, was du jemals gemacht hast! Die Epigenetik bietet bahnbrechende Beweise, dass wir nicht einfach nur Opfer unserer Gene oder Umstände sind. Vielmehr haben wir die Möglichkeit, aktiv Einfluss auf unsere Gene zu nehmen. Und genau hier setzt METgenetik® an. Denn mit MET wirst du in der Lage sein, positiv auf deine Gene einzuwirken und damit den Grundstein …
+**Vendor's marketplace description:** <p><strong>Das vielleicht wichtigste Live-Onlineseminar, was du jemals gemacht hast!</strong></p>
+<p>Die Epigenetik bietet bahnbrechende Beweise, dass wir nicht einfach nur Opfer unserer Gene oder Umstände sind. Vielmehr haben wir die Möglichkeit, aktiv Einfluss auf unsere Gene zu nehmen. Und genau hier setzt <strong>METgenetik®</strong> an. Denn mit MET wirst du in der Lage sein, positiv auf deine Gene einzuwirken und damit den Grundstein für dein körperliches und seelisches Wohlbefinden zu setzen.</p>
+<p>Der jeweilige Seminarleiter wird live demonstrieren, wie MET bei verschiedenen Themen angewendet werden kann. In kleinen Übungen wirst du MET an dir selbst ausprobieren und erleben. Selbstverständlich erhältst du ausführliche Seminarunterlagen. Was ist dein Nutzen? Du wirst zunehmend mehr Selbstbewusstsein und Selbstvertrauen, mehr körperliche Gesundheit, mehr Lebensfreude und Leistungsfähigkeit, mehr Glücksgefühle im täglichen Leben, mehr Freude und Gelassenheit entwickeln.</p>
+<p><strong>Inhalte</strong>:</p>
+<ul>
+<li>Einführung energetische Psychologie</li>
+<li>Die 5 Elemente der MET-Klopftechnik</li>
+<li>Anwendungsgebiete von MET</li>
+<li>MET bei Süchten (Schokolade usw.)</li>
+<li>METgenetik® (Projekt innere Wunden heilen)</li>
+<li>MET mit Kindern – inneres Kind heilen</li>
+<li>MET mit Tieren</li>
+<li>Glaubenssätze auflösen</li>
+<li>Körperliche Symptome beklopfen</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://franke-akademie.de/klopfen-sie-sich-frei/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/49115/adminstore/
 - Sales page: https://franke-akademie.de/klopfen-sie-sich-frei/
 - Vendor affiliate support: https://franke-akademie.de/klopfen-sie-sich-frei-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/566325/adminstore
@@ -89,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MET Einsteigerkurs. Gesundheit und Glück in deinem Leben? — Typ: Online coaching, Anbieter: franke2met, gelistet seit 2024-08-21
-- Wie viel kostet es? — 189.25813399999998 USD
+- Wie viel kostet es? — 188.835909 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

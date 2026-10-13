@@ -4,34 +4,34 @@ digistore24_product_id: 462842
 title: "Coaching-Programm WINNER 1:1"
 vendor: "OneHeart4All"
 product_type: "Online coaching"
-price: 4358.1
+price: 4348.38
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 336.18
+earnings_per_sale: 335.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2022-10-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.christianrupp.ch/coaching-programm-winner/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48403/adminstore/"
 sales_page: "https://www.christianrupp.ch/coaching-programm-winner/"
 language: "de"
 ---
 # Coaching-Programm WINNER 1:1
 
 > Product ID `48403` · Digistore24 productId `462842` · [HTML profile page](../../produkte/coaching-programm-winner-1-1-48403.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $4358.10 (Single payment, Installment) |
+| Price | $4348.38 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $336.18 |
+| Earnings/sale* | $335.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | OneHeart4All |
@@ -41,11 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Coaching-Programm WINNER-VIP 1:1" | 8 Wochen Live Premium Coaching | von Christian Rupp | 5 Upsell-Module Ganzheitliche mentale Gesundheit und psychische Gesundheit sind sehr wichtig für die kommenden Jahre. Geist/Spiritualität, Seele/Gefühle und Körper/Verstand werden ganzheitlich wahrgenommen. Werde GeWINNER über dein Leben und deine Zukunft. Das WINNER-Programm verfolgt das Ziel, Menschen Sinn…
+**Vendor's marketplace description:** <h1><strong>"Coaching-Programm WINNER-VIP 1:1"</strong> | 8 Wochen Live Premium Coaching | von Christian Rupp | 5 Upsell-Module</h1>
+<p> </p>
+<p><strong>Ganzheitliche mentale Gesundheit und psychische Gesundheit sind sehr wichtig für die kommenden Jahre. Geist/Spiritualität, Seele/Gefühle und Körper/Verstand werden ganzheitlich wahrgenommen. </strong></p>
+<p><strong>Werde GeWINNER über dein Leben und deine Zukunft. Das WINNER-Programm verfolgt das Ziel, Menschen Sinn, Erfüllung und eine klare Neuorientierung zu schenken in allen 8 Lebensbereichen. Als Grundlage dient der HERZcode mit seinen wissenschaftlichen Grundlagen. Über 8 Wochen bauen die Themen aufeinander auf. In den 1:1 Coachings von 75-90 Minuten pro Woche wird auf individuelle Themen eingangangen und viel Mind-Set-Arbeit gemacht.</strong></p>
+<p><strong>Das WINNER-Programm wurde 2020 erstmals gestartet, laufend optimiert und bis dato ohne Affiliates vermarktet. </strong></p>
+<p><strong>Christian Rupp </strong>hat sich nach seinem Burnout und Klinikaufenthalt der Persönlichkeitsentwicklung verschrieben. Heute ist er im Vorstand des grössten Branchenverbands "Schweizer Dachverband für Persönlichkeitsentwicklung VPT", Beirat beim Schweizer Konsumentenbund SKB und arbeitet mit Hochschulen, Ärzten und Wissenschafter zusammen. Seine Expertenthemen sind Berufung finden, Hochsensibilität als Gabe nutzen und Burnout-Prävention und Genesung.<br />Christian Rupp ist Autor des bekannten Buches "Entschlüssle deinen HERZcode - Das Geheimnis deiner Berufung und eines erfüllten Lebens." </p>
+<p>Brian Tracy (Autor, Speaker &amp; Consultant) sagt: <em><strong>"Christian Rupp gehört du den innovativsten und besten Trainers, Coaches und Mentoren. Erfolg ist bei ihm Programm."</strong></em></p>
+<p><strong>Für Affiliates</strong></p>
+<ul>
+<li><strong>Provision auf das WINNER-VIP 1:1 Coaching: € 300.-</strong></li>
+<li><strong>Upsell-Provision pro Modul 20% (€ 200.-)<br /></strong></li>
+<li><strong>Im Schnitt wird 1 Modul dazu gekauft.</strong> Verfügbare Module sind:
+<ul>
+<li>Hochsensibilität<br /><a href="https://www.checkout-ds24.com/product/535160/">https://www.checkout-ds24.com/product/535160/</a> </li>
+<li>Selbständigkeit<br /><a href="https://www.checkout-ds24.com/product/463506/">https://www.checkout-ds24.com/product/463506/</a> </li>
+<li>Single<br /><a href="https://www.checkout-ds24.com/product/463519/">https://www.checkout-ds24.com/product/463519/</a> </li>
+<li>Paare<br /><a href="https://www.checkout-ds24.com/product/463512/">https://www.checkout-ds24.com/product/463512/</a> </li>
+<li>Job-Booster<br /><a href="https://www.checkout-ds24.com/product/463516/">https://www.checkout-ds24.com/product/463516/</a> </li>
+</ul>
+</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.christianrupp.ch/coaching-programm-winner/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48403/adminstore/
 - Sales page: https://www.christianrupp.ch/coaching-programm-winner/
 - Canonical redirect: https://www.digistore24.com/redir/462842/adminstore
 
@@ -91,7 +111,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Coaching-Programm WINNER 1:1? — Typ: Online coaching, Anbieter: OneHeart4All, gelistet seit 2022-10-01
-- Wie viel kostet es? — 4358.103048 USD
+- Wie viel kostet es? — 4348.380348000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

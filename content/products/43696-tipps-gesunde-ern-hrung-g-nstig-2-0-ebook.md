@@ -4,16 +4,16 @@ digistore24_product_id: 495370
 title: "Tipps gesunde Ernährung günstig 2.0 (EBook)"
 vendor: "RSMedicalWorldwide"
 product_type: "E-books"
-price: 15.7
+price: 15.66
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 4.48
+earnings_per_sale: 4.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2023-04-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/495370?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/495370"
@@ -22,16 +22,16 @@ language: "de"
 # Tipps gesunde Ernährung günstig 2.0 (EBook)
 
 > Product ID `43696` · Digistore24 productId `495370` · [HTML profile page](../../produkte/tipps-gesunde-ern-hrung-g-nstig-2-0-ebook-43696.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.70 (Single payment) |
+| Price | $15.66 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $4.48 |
+| Earnings/sale* | $4.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RSMedicalWorldwide |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Tipps gesunde Ernährung günstig 2.0 Möchten Sie sich gesünder ernähren und wissen nicht, wo Sie anfangen sollen? Unser brandneues Ebook "Tipps zur gesunden Ernährung" gibt Ihnen alle Werkzeuge, die Sie benötigen, um eine ausgewogene und nahrhafte Ernährung zu genießen. Mit einer klaren Anleitung und einfachen Tipps werden Sie lernen, welche Lebensmittel Sie essen sollten und welche Sie vermeiden s…
+**Vendor's marketplace description:** <table>
+<tbody>
+<tr>
+<td>
+<div><strong>Tipps gesunde Ernährung günstig 2.0</strong></div>
+<div>
+<p>Möchten Sie sich gesünder ernähren und wissen nicht, wo Sie anfangen sollen? Unser brandneues Ebook "Tipps zur gesunden Ernährung" gibt Ihnen alle Werkzeuge, die Sie benötigen, um eine ausgewogene und nahrhafte Ernährung zu genießen. Mit einer klaren Anleitung und einfachen Tipps werden Sie lernen, welche Lebensmittel Sie essen sollten und welche Sie vermeiden sollten, um ein gesundes Gewicht und eine starke, vitale Energie zu erhalten. Unser Ebook ist ideal für Menschen, die schnell und einfach auf eine gesunde Ernährung umsteigen möchten, ohne sich überfordert zu fühlen. Bestellen Sie noch heute und beginnen Sie Ihren Weg zu einem gesünderen Leben!</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## 2. Links
 
@@ -68,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tipps gesunde Ernährung günstig 2.0 (EBook)? — Typ: E-books, Anbieter: RSMedicalWorldwide, gelistet seit 2023-04-21
-- Wie viel kostet es? — 15.699606000000001 USD
+- Wie viel kostet es? — 15.664581000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

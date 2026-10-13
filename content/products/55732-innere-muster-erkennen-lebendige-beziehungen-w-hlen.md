@@ -4,16 +4,16 @@ digistore24_product_id: 666803
 title: "Innere Muster erkennen - lebendige Beziehungen wählen"
 vendor: "HeidiPro"
 product_type: "Member area and video courses"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.63
+earnings_per_sale: 7.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-02-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://hpheidi-hoeck.systeme.io/ad12725c?aff=adminstore#aff=adminstore"
 sales_page: "https://hpheidi-hoeck.systeme.io/ad12725c"
@@ -22,16 +22,16 @@ language: "de"
 # Innere Muster erkennen - lebendige Beziehungen wählen
 
 > Product ID `55732` · Digistore24 productId `666803` · [HTML profile page](../../produkte/innere-muster-erkennen-lebendige-beziehungen-w-hlen-55732.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.63 |
+| Earnings/sale* | $7.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeidiPro |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Innere Muster erkennen & lebendige Beziehungen frei wählen Dieser Online Selbstlernkurs richtet sich an Menschen aller Altersklassen, die bereit sind, Verantwortung für ihre inneren Prozesse zu übernehmen - und sich für neue, lebendige Beziehungserfahrungen zu öffnen. - Persönlichkeitsentwicklung - Eine eigene etablierte Website mit über 15 Jahren Berufserfahrung als Beziehungs-Coach, Heilpraktike…
+**Vendor's marketplace description:** <h3>Innere Muster erkennen &amp; lebendige Beziehungen frei wählen</h3>
+<p>Dieser Online Selbstlernkurs richtet sich an Menschen aller Altersklassen, die bereit sind, Verantwortung für ihre inneren Prozesse zu übernehmen - und sich für neue, lebendige Beziehungserfahrungen zu öffnen. - Persönlichkeitsentwicklung - </p>
+<p>Eine eigene etablierte Website mit über 15 Jahren Berufserfahrung als Beziehungs-Coach, Heilpraktikerin und Autorin: <a href="http://www.naturheilpraxis-hoeck.de">www.naturheilpraxis-hoeck.de</a></p>
+<p>Gerne gebe ich 30 % Affiliate Provision bei Verkauf</p>
+<p>Cookielaufzeit gemäß Digistore 24 Standard (üblich 180 Tage)</p>
+<p>Zuverlässiges Tracking über Digistore24</p>
+<p>Suche gerne den Kontakt über <a href="mailto:hpheidi.hoeck@gmail.com">hpheidi.hoeck@gmail.com</a> bezüglich weiteres Werbematerial, Texte, Bilder.</p>
+<p> </p>
 
 ## 2. Links
 
@@ -62,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innere Muster erkennen - lebendige Beziehungen wählen? — Typ: Member area and video courses, Anbieter: HeidiPro, gelistet seit 2026-02-05
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

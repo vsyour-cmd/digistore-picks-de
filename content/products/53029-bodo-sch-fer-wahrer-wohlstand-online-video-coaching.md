@@ -4,34 +4,34 @@ digistore24_product_id: 619337
 title: "Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching)"
 vendor: "BodoSchaefer"
 product_type: "Member area and video courses"
-price: 609.27
+price: 607.91
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 121.85
+earnings_per_sale: 121.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-06-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://millionaer7.de/wahrer-wohlstand-aff/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53029/adminstore/"
 sales_page: "https://millionaer7.de/wahrer-wohlstand-aff/"
 language: "de"
 ---
 # Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching)
 
 > Product ID `53029` · Digistore24 productId `619337` · [HTML profile page](../../produkte/bodo-sch-fer-wahrer-wohlstand-online-video-coaching-53029.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $609.27 (Single payment) |
+| Price | $607.91 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $121.85 |
+| Earnings/sale* | $121.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BodoSchaefer |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Online Videokurs „Wahrer Wohlstand“ + Aufbruch-Ticket Beinhaltet:• 12 Video-Coachings• 5 exklusive BonusseBonus 1: 46 Coachingbriefe über einen Zeitraum von 6 MonatenBonus 2: Audio + Video-Seminar: In 7 Jahren Deine erste MillionBonus 3: Audio-Seminar: Erfolgreich denkenBonus 4: Handbuch "Ihre erste Million in 7 Jahren"Bonus 5: TelefoncoachingExklusiver Sonderbonus: 1 ONLINE / LIVE - Ticket für da…
+**Vendor's marketplace description:** <div>
+<h4><u>Online Videokurs „Wahrer Wohlstand“ + Aufbruch-Ticket</u> </h4>
+</div>
+<div>
+<div>
+<p>Beinhaltet:<br /><br />• 12 Video-Coachings<br />• 5 exklusive Bonusse<br /><br />Bonus 1: 46 Coachingbriefe über einen Zeitraum von 6 Monaten<br />Bonus 2: Audio + Video-Seminar: In 7 Jahren Deine erste Million<br />Bonus 3: Audio-Seminar: Erfolgreich denken<br />Bonus 4: Handbuch "Ihre erste Million in 7 Jahren"<br />Bonus 5: Telefoncoaching<br />Exklusiver Sonderbonus: 1 ONLINE / LIVE - Ticket für das Seminar Aufbruch<br /><br />• Dauer 6 Monate</p>
+</div>
+<div>
+<h3> 647€¹</h3>
+<h6>inkl. gesetzl. MwSt.</h6>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://millionaer7.de/wahrer-wohlstand-aff/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53029/adminstore/
 - Sales page: https://millionaer7.de/wahrer-wohlstand-aff/
 - Vendor affiliate support: https://www.bodoschaefer.de/partnerprogramm-werbemittel/
 - Canonical redirect: https://www.digistore24.com/redir/619337/adminstore
@@ -97,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching)? — Typ: Member area and video courses, Anbieter: BodoSchaefer, gelistet seit 2025-06-18
-- Wie viel kostet es? — 609.2702200000001 USD
+- Wie viel kostet es? — 607.9109700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

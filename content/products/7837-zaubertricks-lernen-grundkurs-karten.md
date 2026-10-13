@@ -4,16 +4,16 @@ digistore24_product_id: 52623
 title: "Zaubertricks lernen - Grundkurs Karten"
 vendor: "Magingo"
 product_type: "Member area and video courses"
-price: 44.26
+price: 44.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.13
+earnings_per_sale: 22.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2015-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ich-lerne-zaubern.de/kartenzauberei-teil-1/?aff=adminstore#aff=adminstore"
 sales_page: "https://ich-lerne-zaubern.de/kartenzauberei-teil-1/"
@@ -22,16 +22,16 @@ language: "de"
 # Zaubertricks lernen - Grundkurs Karten
 
 > Product ID `7837` · Digistore24 productId `52623` · [HTML profile page](../../produkte/zaubertricks-lernen-grundkurs-karten-7837.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.26 (Single payment) |
+| Price | $44.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.13 |
+| Earnings/sale* | $22.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Magingo |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du wolltest schon immer das Zaubern erlernen?Kartentricks interessieren dich besonders? Niemand verrät dir, wei die Tricks funktionieren? Die Lösung ist dieser Kurs!Hier erlernst du alles, was die Profis wissen. Alle Geheimnisse werden offen gelegt. Nichts wird verschwiegen. Erhalte sofort Zugang zu den Tricks der Profis. In diesem Grundkurs, der über 4 Stunden läuft, erlernst du die Grundtechnike…
+**Vendor's marketplace description:** <p>Du wolltest schon immer das Zaubern erlernen?<br />Kartentricks interessieren dich besonders?</p>
+<p>Niemand verr&auml;t dir, wei die Tricks funktionieren?</p>
+<p>Die L&ouml;sung ist dieser Kurs!<br />Hier erlernst du alles, was die Profis wissen. Alle Geheimnisse werden offen gelegt. Nichts wird verschwiegen. Erhalte sofort Zugang zu den Tricks der Profis. In diesem Grundkurs, der &uuml;ber 4 Stunden l&auml;uft, erlernst du die Grundtechniken f&uuml;r Kartenk&uuml;nstler und kannst danach selbst deine Freunde verbl&uuml;ffen. 11 Starke Kartentricks sind Bestandteil dieses Kurses.</p>
 
 ## 2. Links
 
@@ -101,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zaubertricks lernen - Grundkurs Karten? — Typ: Member area and video courses, Anbieter: Magingo, gelistet seit 2015-06-23
-- Wie viel kostet es? — 44.2637 USD
+- Wie viel kostet es? — 44.164950000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

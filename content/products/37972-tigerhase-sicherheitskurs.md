@@ -4,16 +4,16 @@ digistore24_product_id: 406643
 title: "Tigerhase Sicherheitskurs"
 vendor: "tigerhase"
 product_type: "Member area and video courses"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 18.27
+earnings_per_sale: 18.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-09-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://werde.tigerhase.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://werde.tigerhase.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Tigerhase Sicherheitskurs
 
 > Product ID `37972` · Digistore24 productId `406643` · [HTML profile page](../../produkte/tigerhase-sicherheitskurs-37972.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $18.27 |
+| Earnings/sale* | $18.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tigerhase |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mehr als nur ein Sicherheitskurs Mit unserem einzigartigen und preisgekrönten Konzept „Tigerhase“ haben wir es uns zur Herzensaufgabe gemacht, die Persönlichkeit und das Selbstbewusstsein von Kindern nachhaltig zu stärken. In kurzer Zeit lernt Dein Kind spielerisch selbstbewusst authentisch empathisch und intuitiv zu handeln
+**Vendor's marketplace description:** <table>
+<tbody>
+<tr>
+<td>
+<div>
+<h2>Mehr als nur ein Sicherheitskurs</h2>
+<p>Mit unserem einzigartigen und preisgekrönten Konzept „Tigerhase“ haben wir es uns zur Herzensaufgabe gemacht, die Persönlichkeit und das Selbstbewusstsein von Kindern nachhaltig zu stärken. <strong>In kurzer Zeit lernt Dein Kind spielerisch</strong></p>
+<ul>
+<li>selbstbewusst</li>
+<li>authentisch</li>
+<li>empathisch und</li>
+<li>intuitiv zu handeln</li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## 2. Links
 
@@ -66,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tigerhase Sicherheitskurs? — Typ: Member area and video courses, Anbieter: tigerhase, gelistet seit 2021-09-09
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

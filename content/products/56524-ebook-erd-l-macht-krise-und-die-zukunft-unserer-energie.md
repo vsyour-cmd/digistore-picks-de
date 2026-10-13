@@ -4,16 +4,16 @@ digistore24_product_id: 692340
 title: "Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 12.56
+price: 12.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.29
+earnings_per_sale: 6.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Politics & Economy"]
 listed_since: "2026-05-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/692340?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/692340"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie
 
 > Product ID `56524` · Digistore24 productId `692340` · [HTML profile page](../../produkte/ebook-erd-l-macht-krise-und-die-zukunft-unserer-energie-56524.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.56 (Single payment) |
+| Price | $12.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.29 |
+| Earnings/sale* | $6.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses fundierte Sachbuch beleuchtet die enorme Bedeutung von Erdöl für Wirtschaft, Geopolitik, Energieversorgung und Klimawandel – verständlich aufbereitet und hochaktuell. Die Kombination aus Geschichte, Machtpolitik, globalen Krisen und Zukunftsfragen spricht eine breite Zielgruppe an, die sich für Energie, Wirtschaft, Politik und gesellschaftliche Entwicklungen interessiert. Durch die starke A…
+**Vendor's marketplace description:** <p>Dieses fundierte Sachbuch beleuchtet die enorme Bedeutung von Erdöl für Wirtschaft, Geopolitik, Energieversorgung und Klimawandel – verständlich aufbereitet und hochaktuell.</p>
+<p>Die Kombination aus Geschichte, Machtpolitik, globalen Krisen und Zukunftsfragen spricht eine breite Zielgruppe an, die sich für Energie, Wirtschaft, Politik und gesellschaftliche Entwicklungen interessiert.</p>
+<p>Durch die starke Aktualität des Themas und die klare Struktur bietet das Buch hervorragendes Potenzial für organischen Traffic, Diskussionen und hohe Relevanz im Wissens- und Bildungsmarkt.</p>
+<p>Ideal für Affiliates, die hochwertige Sachbücher mit gesellschaftlicher Brisanz und langfristiger Nachfrage erfolgreich vermarkten möchten.</p>
 
 ## 2. Links
 
@@ -71,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Erdöl Macht, Krise und die Zukunft unserer Energie? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-13
-- Wie viel kostet es? — 12.561926000000001 USD
+- Wie viel kostet es? — 12.533901000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

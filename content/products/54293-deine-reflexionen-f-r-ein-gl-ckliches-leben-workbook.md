@@ -4,34 +4,34 @@ digistore24_product_id: 631548
 title: "„Deine Reflexionen – Für ein glückliches Leben“ - Workbook"
 vendor: "MissionVerantwortung"
 product_type: "E-books"
-price: 80.64
+price: 80.46
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 8.07
+earnings_per_sale: 8.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-08-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.berndkiesewetter.com/deine-reflexionen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54293/adminstore/"
 sales_page: "https://www.berndkiesewetter.com/deine-reflexionen"
 language: "de"
 ---
 # „Deine Reflexionen – Für ein glückliches Leben“ - Workbook
 
 > Product ID `54293` · Digistore24 productId `631548` · [HTML profile page](../../produkte/deine-reflexionen-f-r-ein-gl-ckliches-leben-workbook-54293.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $80.64 (Single payment) |
+| Price | $80.46 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $8.07 |
+| Earnings/sale* | $8.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MissionVerantwortung |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Deine Reflexionen – Für ein glückliches Leben“ Workbook „Deine Reflexionen“ ist mehr als ein Workbook – es ist dein persönlicher Coach in Papierform!Bernd Kiesewetter, Berlins Erfolgscoach Nr. 1, hat hier ein Werkzeug geschaffen, das Menschen hilft, sich selbst zu erkennen, zu fokussieren und endlich das Leben zu gestalten, das sie wirklich wollen. Mit klaren Strukturen, kraftvollen Fragen und pr…
+**Vendor's marketplace description:** <p><strong>„Deine Reflexionen – Für ein glückliches Leben“ Workbook</strong></p>
+<p><strong>„Deine Reflexionen“</strong> ist mehr als ein Workbook – es ist dein persönlicher Coach in Papierform!<br />Bernd Kiesewetter, Berlins Erfolgscoach Nr<em>. </em>1, hat hier ein Werkzeug geschaffen, das Menschen hilft, sich selbst zu erkennen, zu fokussieren und endlich das Leben zu gestalten, das sie wirklich wollen.</p>
+<p>Mit klaren Strukturen, kraftvollen Fragen und praktischen Übungen führt dieses Workbook Schritt für Schritt zu mehr:</p>
+<p><br />✅ Klarheit über Ziele und Werte<br />✅ Bewusstsein für innere Blockaden<br />✅ Fokus auf das Wesentliche<br />✅ Freude, Energie und Erfüllung</p>
+<p> </p>
+<p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.berndkiesewetter.com/deine-reflexionen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54293/adminstore/
 - Sales page: https://www.berndkiesewetter.com/deine-reflexionen
 - Canonical redirect: https://www.digistore24.com/redir/631548/adminstore
 
@@ -69,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Deine Reflexionen – Für ein glückliches Leben“ - Workbook? — Typ: E-books, Anbieter: MissionVerantwortung, gelistet seit 2025-08-25
-- Wie viel kostet es? — 80.638376 USD
+- Wie viel kostet es? — 80.458476 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

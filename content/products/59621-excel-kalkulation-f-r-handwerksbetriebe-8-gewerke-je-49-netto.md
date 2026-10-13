@@ -4,34 +4,34 @@ digistore24_product_id: 734487
 title: "Excel-Kalkulation für Handwerksbetriebe — 8 Gewerke, je 49 € netto"
 vendor: "Meisterblatt"
 product_type: "Downloads"
-price: 54.91
+price: 54.79
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 16.47
+earnings_per_sale: 16.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software","Office Organization"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://meisterblatt.de/Landingpage_Elektro.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59621/adminstore/"
 sales_page: "https://meisterblatt.de/Landingpage_Elektro.html"
 language: "de"
 ---
 # Excel-Kalkulation für Handwerksbetriebe — 8 Gewerke, je 49 € netto
 
 > Product ID `59621` · Digistore24 productId `734487` · [HTML profile page](../../produkte/excel-kalkulation-f-r-handwerksbetriebe-8-gewerke-je-49-netto-59621.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $54.91 (Single payment) |
+| Price | $54.79 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $16.47 |
+| Earnings/sale* | $16.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Meisterblatt |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Zielgruppe: Handwerksbetriebe mit 1 bis 20 Mitarbeitern, die Angebote heute in Word tippen oder in einer selbstgebauten Excel-Liste rechnen. Acht Gewerke: Elektro, SHK, Trockenbau, Maler, Fliesen, Dach, Garten- und Landschaftsbau, Maurer. Das Produkt: eine .xlsx-Datei je Gewerk mit fertigem Leistungskatalog (25 bis 41 Leistungen mit Materialpreis und Zeitwert). Der Betrieb wählt Leistung und Menge…
+**Vendor's marketplace description:** <p><strong>Zielgruppe:</strong> Handwerksbetriebe mit 1 bis 20 Mitarbeitern, die Angebote heute in Word tippen oder in einer selbstgebauten Excel-Liste rechnen. Acht Gewerke: Elektro, SHK, Trockenbau, Maler, Fliesen, Dach, Garten- und Landschaftsbau, Maurer.</p>
+<p><strong>Das Produkt:</strong> eine .xlsx-Datei je Gewerk mit fertigem Leistungskatalog (25 bis 41 Leistungen mit Materialpreis und Zeitwert). Der Betrieb wählt Leistung und Menge, die Datei rechnet Material, Lohn und Zuschläge und druckt ein fertiges Kundenangebot auf A4. Keine Makros, kein Abo, keine Cloud.</p>
+<p><strong>Warum es verkauft:</strong></p>
+<ul>
+<li>Konkreter Nutzen statt Versprechen: Das Ergebnis ist ein Angebot, das der Betrieb noch am selben Tag verschicken kann.</li>
+<li>Kostenlose Testversion als Einstieg — zehn Positionen, gekürzter Katalog.</li>
+<li>Einmalpreis von 49 € netto, kein Abo-Erklärungsbedarf.</li>
+<li>Musterangebot als PDF auf jeder Verkaufsseite.</li>
+</ul>
+<p><strong>Passende Reichweiten:</strong> Handwerker-Communitys und Fachforen, YouTube-Kanäle zu Handwerk und Selbstständigkeit, Newsletter zur Betriebsführung, Gründer- und Steuerberatung im Handwerk, regionale Innungsnetzwerke.</p>
+<p><strong>Provision:</strong> 30 % je Verkauf. Werbemittel (Banner, Textlinks, Musterangebote als PDF) über support@meisterblatt.de.</p>
+<p><strong>Nicht erlaubt:</strong> bezahlte Suchanzeigen auf den Markennamen „Meisterblatt“, Gutschein- und Cashback-Seiten, unaufgeforderte E-Mails, eigene Aussagen über Funktionen oder Ersparnisse, die nicht auf den Verkaufsseiten stehen. Das Angebot richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB. Bitte bewerben Sie es nicht gegenüber Verbrauchern.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://meisterblatt.de/Landingpage_Elektro.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59621/adminstore/
 - Sales page: https://meisterblatt.de/Landingpage_Elektro.html
 - Vendor affiliate support: https://meisterblatt.de/Partner.html
 - Canonical redirect: https://www.digistore24.com/redir/734487/adminstore
@@ -88,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Excel-Kalkulation für Handwerksbetriebe — 8 Gewerke, je 49 € netto? — Typ: Downloads, Anbieter: Meisterblatt, gelistet seit 2026-09-23
-- Wie viel kostet es? — 54.909400000000005 USD
+- Wie viel kostet es? — 54.7869 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

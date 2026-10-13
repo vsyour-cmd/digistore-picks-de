@@ -4,7 +4,7 @@ digistore24_product_id: 655747
 title: "Die Ära der Asche - Epischer Fantasy-Bestseller für GoT-Fans"
 vendor: "Tits79"
 product_type: "E-books"
-price: 11.09
+price: 11.07
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.11
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2025-12-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/655747?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/655747"
@@ -22,14 +22,14 @@ language: "de"
 # Die Ära der Asche - Epischer Fantasy-Bestseller für GoT-Fans
 
 > Product ID `54954` · Digistore24 productId `655747` · [HTML profile page](../../produkte/die-ra-der-asche-epischer-fantasy-bestseller-f-r-got-fans-54954.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.09 (Single payment) |
+| Price | $11.07 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.11 |
 | Cart conversion* | — |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ​Das Licht stirbt. Der Preis der Magie ist deine Seele. ​Suchen Sie ein Fantasy-Epos, das Leser nicht mehr loslässt? „Die Ära der Asche“ ist eine düstere High-Fantasy-Saga, die genau den Nerv der Zeit trifft. In einer Welt, in der die Sonne zerbrochen ist und Magie mit dem Verlust der eigenen Erinnerungen bezahlt wird, beginnt ein gnadenloser Kampf um das Überleben der Menschheit. ​Warum dieses Bu…
+**Vendor's marketplace description:** <p>​Das Licht stirbt. Der Preis der Magie ist deine Seele.</p>
+<p>​Suchen Sie ein Fantasy-Epos, das Leser nicht mehr loslässt? „Die Ära der Asche“ ist eine düstere High-Fantasy-Saga, die genau den Nerv der Zeit trifft. In einer Welt, in der die Sonne zerbrochen ist und Magie mit dem Verlust der eigenen Erinnerungen bezahlt wird, beginnt ein gnadenloser Kampf um das Überleben der Menschheit.</p>
+<p>​Warum dieses Buch ein Bestseller-Potenzial hat:</p>
+<p>​Targeting: Perfekt für die riesige Zielgruppe von Game of Thrones, The Witcher und Joe Abercrombie.</p>
+<p>​Einzigartiges Magiesystem: Ein innovativer Ansatz – Magie gegen Erinnerung. Das sorgt für tiefgründige Charaktere und dramatische Wendungen.</p>
+<p>​High-Quality Content: Professionell strukturiert mit packenden POV-Charakteren (Point of View), moralischen Grauzonen und politischer Tiefe.</p>
+<p>​Inklusive Bonusmaterial: Käufer erhalten exklusiven Zugriff auf eine detaillierte Weltkarte und das Kompendium von Aethelgard.</p>
 
 ## 2. Links
 
@@ -70,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Ära der Asche - Epischer Fantasy-Bestseller für GoT-Fans? — Typ: E-books, Anbieter: Tits79, gelistet seit 2025-12-16
-- Wie viel kostet es? — 11.09394 USD
+- Wie viel kostet es? — 11.06919 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

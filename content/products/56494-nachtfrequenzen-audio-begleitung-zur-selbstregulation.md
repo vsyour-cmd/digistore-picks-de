@@ -4,16 +4,16 @@ digistore24_product_id: 682513
 title: "Nachtfrequenzen – Audio-Begleitung zur Selbstregulation"
 vendor: "praxiskaulbarsch"
 product_type: "Downloads"
-price: 149.72
+price: 149.39
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 14.97
+earnings_per_sale: 14.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/682513?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/682513"
@@ -22,16 +22,16 @@ language: "de"
 # Nachtfrequenzen – Audio-Begleitung zur Selbstregulation
 
 > Product ID `56494` · Digistore24 productId `682513` · [HTML profile page](../../produkte/nachtfrequenzen-audio-begleitung-zur-selbstregulation-56494.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $149.72 (Single payment) |
+| Price | $149.39 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $14.97 |
+| Earnings/sale* | $14.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | praxiskaulbarsch |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Nachtfrequenzen sind professionelle deutschsprachige Audio-Sessions zur Selbstregulation für verschiedene Alltagssituationen und innere Zustände. Die Editionen begleiten unter anderem bei: * Kopfkino/innerer Unruhe (Einschlafen/Schlaf) * Liebeskummer (Abstand halten) * Süßimpuls (Naschen) * Prokrastination (Aufschieben) Die Audio-Begleitungen bestehen aus hochwertig produzierten Studioaufnahmen. J…
+**Vendor's marketplace description:** <p>Nachtfrequenzen sind professionelle deutschsprachige Audio-Sessions zur Selbstregulation für verschiedene Alltagssituationen und innere Zustände.</p>
+<p>Die Editionen begleiten unter anderem bei:</p>
+<p>* Kopfkino/innerer Unruhe (Einschlafen/Schlaf)</p>
+<p>* Liebeskummer (Abstand halten)</p>
+<p>* Süßimpuls (Naschen)</p>
+<p>* Prokrastination (Aufschieben)</p>
+<p>Die Audio-Begleitungen bestehen aus hochwertig produzierten Studioaufnahmen. Jede Edition verbindet eine warme, klare Stimme mit einer psychologisch fundierten Audio-Struktur. Im Premium Mix kommen zusätzlich fein gesetzte neuroakustische Elemente und dezente Links-Rechts-Impulse zum Einsatz. So entsteht ein Audio-Erlebnis, das deutlich über einfache Entspannungsaufnahmen hinausgeht. Es werden zwei Versionen ausgeliefert: Stimme pur und Premium Mix.</p>
+<p>Erhältlich sind Einzel-Editionen sowie Paketkombinationen.</p>
+<p>Digitales Download-Produkt. Kein Heilversprechen. Kein Ersatz für medizinische oder therapeutische Behandlung.</p>
+<p> </p>
 
 ## 2. Links
 
@@ -79,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nachtfrequenzen – Audio-Begleitung zur Selbstregulation? — Typ: Downloads, Anbieter: praxiskaulbarsch, gelistet seit 2026-04-06
-- Wie viel kostet es? — 149.72336600000003 USD
+- Wie viel kostet es? — 149.38934100000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

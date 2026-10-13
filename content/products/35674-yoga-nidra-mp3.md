@@ -4,16 +4,16 @@ digistore24_product_id: 66237
 title: "Yoga Nidra MP3"
 vendor: "ReginaPotocnik"
 product_type: "Downloads"
-price: 14.03
+price: 14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.01
+earnings_per_sale: 7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2015-12-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.go-rosa.com/shop/yoga-nidra-mp3/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.go-rosa.com/shop/yoga-nidra-mp3/"
@@ -22,16 +22,16 @@ language: "de"
 # Yoga Nidra MP3
 
 > Product ID `35674` · Digistore24 productId `66237` · [HTML profile page](../../produkte/yoga-nidra-mp3-35674.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.03 (Single payment) |
+| Price | $14.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.01 |
+| Earnings/sale* | $7.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ReginaPotocnik |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Yoga Nidra - der yogische Schlaf. Meditieren, Entspannen, Stress abbauen – Ruhe, Achtsamkeit und Ausgeglichenheit im Alltag. Yoga Nidra kann von jedermann erlernt werden! Auch wenn Meditieren schwer fällt oder noch nie Yoga praktiziert wurde, ist Yoga Nidra eine wunderbare Tiefenentspannungstechnik, die aus der tantrischen Wissenschaft stammt. Übersetzt bedeutet Nidra Schlaf. Aber Yoga Nidra ist w…
+**Vendor's marketplace description:** <h2>Yoga Nidra - der yogische Schlaf.</h2>
+<p><strong>Meditieren, Entspannen, Stress abbauen</strong> – Ruhe, Achtsamkeit und Ausgeglichenheit im Alltag. </p>
+<p><strong>Yoga Nidra</strong> kann von jedermann erlernt werden! Auch wenn Meditieren schwer fällt oder noch nie Yoga praktiziert wurde, ist Yoga Nidra eine <strong>wunderbare Tiefenentspannungstechnik</strong>, die aus der tantrischen Wissenschaft stammt.</p>
+<p>Übersetzt bedeutet <em>Nidra</em> Schlaf. Aber <strong>Yoga Nidra ist weit mehr als Schlaf</strong>. Die Essenz der Übung liegt im Sankalpa, einem Vorsatz oder Entschluss, der achtsam gewählt werden sollte, denn er kann unser Leben nachhaltig verändern.</p>
+<p>Yoga Nidra <strong>steigert das allgemeine Wohlbefinden</strong> und die Lebensqualität und hilft bei Stress, Unruhe, Nervosität, Angespanntheit, Müdigkeit, Burnout und sogar Krankheiten. Darüber hinaus ist Yoga Nidra eine wunderbare Unterstützung zur Entwicklung der Intuition, verbessert Gedächtnis und Konzentration; ist somit eine mystische Form von <strong>mentalem Training</strong>.</p>
+<div>
+<h2>Yoga Nidra MP3 Download</h2>
+</div>
+<div>
+<p><strong>Dauer:</strong> 26,13 min<br /><strong>Datei-Paket:</strong> 32 MB<br /><strong>Voraussetzung:</strong> MP3-fähiges Abspielgerät</p>
+</div>
+<p>gesprochen von Dr. Regina Potocnik<br />music, recordings and mixed by Hannes Oberwalder - TOM TON studio productions</p>
 
 ## 2. Links
 
@@ -74,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Yoga Nidra MP3? — Typ: Downloads, Anbieter: ReginaPotocnik, gelistet seit 2015-12-15
-- Wie viel kostet es? — 14.029912 USD
+- Wie viel kostet es? — 13.998612000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

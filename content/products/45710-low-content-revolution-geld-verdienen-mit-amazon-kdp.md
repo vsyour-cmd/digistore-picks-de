@@ -4,16 +4,16 @@ digistore24_product_id: 513325
 title: "Low Content Revolution - Geld verdienen mit Amazon KDP"
 vendor: "nomadpublishing"
 product_type: "Member area and video courses"
-price: 1201.5
+price: 1198.82
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 252.4
+earnings_per_sale: 251.84
 cart_conversion_pct: 8
 cancel_rate_pct: 10.93
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2023-08-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://lowcontent.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://lowcontent.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Low Content Revolution - Geld verdienen mit Amazon KDP
 
 > Product ID `45710` · Digistore24 productId `513325` · [HTML profile page](../../produkte/low-content-revolution-geld-verdienen-mit-amazon-kdp-45710.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1201.50 (Single payment, Installment) |
+| Price | $1198.82 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $252.40 |
+| Earnings/sale* | $251.84 |
 | Cart conversion* | 8% |
 | Cancel rate* | 10.93% |
 | Vendor | nomadpublishing |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Nr. 1 Low Content Videokurs für Amazon KDP Verdiene 30% Provision für jeden Sale! Die Low Content Revolution ist ein innovativer Videokurs von Nomad Publishing. Er zeigt in über 20h Video-Content, wie man sich mit Low Content Büchern auf Amazon ein Einkommen aufbaut. Hier unsere Highlights: ▶️ Alleine im Launch wurde der Kurs über 400x verkauft ▶️ Wahnsinnig positives Feedback (4,92 Sterne auf…
+**Vendor's marketplace description:** <h2>Der Nr. 1 Low Content Videokurs für Amazon KDP</h2>
+<p><span style="text-decoration:underline;">Verdiene 30% Provision für jeden Sale!</span></p>
+<p>Die Low Content Revolution ist ein innovativer Videokurs von Nomad Publishing. Er zeigt in über 20h Video-Content, wie man sich mit Low Content Büchern auf Amazon ein Einkommen aufbaut.</p>
+<p><strong>Hier unsere Highlights:</strong></p>
+<p>▶️ Alleine im Launch wurde der Kurs <strong>über 400x verkauft</strong></p>
+<p>▶️ Wahnsinnig <strong>positives Feedback</strong> (4,92 Sterne auf ProvenExpert - Stand März 2024).</p>
+<p>▶️ Pro Verkauf zum Vollpreis von 997€ macht das eine <strong>Provision von satten 232,79€</strong>. </p>
+<p><a class="w3-button w3-blue w3-hover-orange" href="https://lowcontent.de/affiliate-support-seite/">Zum Partnerprogramm</a></p>
 
 ## 2. Links
 
@@ -94,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Low Content Revolution - Geld verdienen mit Amazon KDP? — Typ: Member area and video courses, Anbieter: nomadpublishing, gelistet seit 2023-08-23
-- Wie viel kostet es? — 1201.496114 USD
+- Wie viel kostet es? — 1198.8156390000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

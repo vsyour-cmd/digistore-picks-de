@@ -4,16 +4,16 @@ digistore24_product_id: 689559
 title: "Ebook - Der letzte Dialog"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.8
+price: 6.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.41
+earnings_per_sale: 3.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-05-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689559?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689559"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Der letzte Dialog
 
 > Product ID `56431` · Digistore24 productId `689559` · [HTML profile page](../../produkte/ebook-der-letzte-dialog-56431.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.80 (Single payment) |
+| Price | $6.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.41 |
+| Earnings/sale* | $3.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein emotional hochrelevantes Thema mit universeller Zielgruppe: Dieses Buch trifft den wachsenden Bedarf nach Orientierung im Umgang mit Sterben, Abschied und Trauer. Die Kombination aus praktischen Hilfestellungen, psychologischer Tiefe und spirituellen Perspektiven sorgt für starke Identifikation und echten Mehrwert in einer sensiblen Lebensphase. Besonders attraktiv für Affiliates in den Bereic…
+**Vendor's marketplace description:** <p>Ein emotional hochrelevantes Thema mit universeller Zielgruppe:</p>
+<p>Dieses Buch trifft den wachsenden Bedarf nach Orientierung im Umgang mit Sterben, Abschied und Trauer.</p>
+<p>Die Kombination aus praktischen Hilfestellungen, psychologischer Tiefe und spirituellen Perspektiven sorgt für starke Identifikation und echten Mehrwert in einer sensiblen Lebensphase.</p>
+<p>Besonders attraktiv für Affiliates in den Bereichen Lebenshilfe, Coaching, Pflege und persönliche Entwicklung.</p>
+<p>Die klare Positionierung als Leitfaden für bewusste Abschiede erzeugt Vertrauen und Kaufbereitschaft.</p>
+<p>Ein intensives, sinnstiftendes Produkt mit hohem Empfehlungs- und Conversion-Potenzial.</p>
 
 ## 2. Links
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Der letzte Dialog? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-02
-- Wie viel kostet es? — 6.802042 USD
+- Wie viel kostet es? — 6.786867000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

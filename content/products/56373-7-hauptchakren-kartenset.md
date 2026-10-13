@@ -4,34 +4,34 @@ digistore24_product_id: 687904
 title: "7 Hauptchakren Kartenset"
 vendor: "Spiritual-Power"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 5.46
+earnings_per_sale: 5.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/687904?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56373/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/687904"
 language: "de"
 ---
 # 7 Hauptchakren Kartenset
 
 > Product ID `56373` · Digistore24 productId `687904` · [HTML profile page](../../produkte/7-hauptchakren-kartenset-56373.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $5.46 |
+| Earnings/sale* | $5.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spiritual-Power |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 8 hochwertige Karten im Set, basierend auf handgemalten Originalbildern und wichtigen Informationen zum jeweiligen Chakra auf der Rückseite. Die Vorderseite zeigt das handgemalte Symbol als hochwertigen Kunstdruck. Auf der Rückseite der Übersichtskarte findest du wichtige Informationen zu jedem Chakra sowie konkrete Inspirationen, wie du die Karten in deinen Alltag und deine Praxis integrierst. Pe…
+**Vendor's marketplace description:** <p>8 hochwertige Karten im Set, basierend auf handgemalten Originalbildern und wichtigen Informationen zum jeweiligen Chakra auf der Rückseite.</p>
+<p>Die Vorderseite zeigt das handgemalte Symbol als hochwertigen Kunstdruck. Auf der Rückseite der Übersichtskarte findest du wichtige Informationen zu jedem Chakra sowie konkrete Inspirationen, wie du die Karten in deinen Alltag und deine Praxis integrierst.</p>
+<p><strong>Perfekte Zielgruppe</strong></p>
+<p>Lichtarbeiter, Yoga- und Meditationspraktizierende, Coaches, Heilpraktikerinnen und spirituell Interessierte. Hohe Nachfrage, einzigartiges Produkt, starke Conversion durch emotionale Ansprache.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/687904?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56373/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/687904
 - Canonical redirect: https://www.digistore24.com/redir/687904/adminstore
 
@@ -75,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7 Hauptchakren Kartenset? — Typ: Downloads, Anbieter: Spiritual-Power, gelistet seit 2026-04-27
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

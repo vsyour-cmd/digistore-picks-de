@@ -4,16 +4,16 @@ digistore24_product_id: 322151
 title: "TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 469.9
+price: 468.85
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 117.47
+earnings_per_sale: 117.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2020-04-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://katja-amberg-shop.de/komplettpakettoxischebeziehungen?aff=adminstore#aff=adminstore"
 sales_page: "https://katja-amberg-shop.de/komplettpakettoxischebeziehungen"
@@ -22,16 +22,16 @@ language: "de"
 # TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg
 
 > Product ID `32998` · Digistore24 productId `322151` · [HTML profile page](../../produkte/toxische-beziehungen-das-komplettpaket-katja-amberg-32998.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $469.90 (Single payment, Installment) |
+| Price | $468.85 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $117.47 |
+| Earnings/sale* | $117.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Komplett-Paket besteht aus 2 auch einzeln erhältlichen Kursen "RAUS AUS TOXISCHEN BEZIEHUNGEN - HIN ZUR LIEBE" und "LIEBESKUMMER EXTREM". (Online-Anwendung) Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von www.katja-amberg-coaching.de über gesonderten Login. Die Login-Daten werden nach Kaufabschluß per Mail übermittelt. Dieses Paket ist DEIN MUST HAVE für Lebens - und Lie…
+**Vendor's marketplace description:** <p style="text-align:left;">Dieses Komplett-Paket besteht aus 2 auch einzeln erhältlichen Kursen "RAUS AUS TOXISCHEN BEZIEHUNGEN - HIN ZUR LIEBE" und "LIEBESKUMMER EXTREM". (Online-Anwendung)</p>
+<p style="text-align:left;"><strong>Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von <a>www.katja-amberg-coaching.de</a> über gesonderten Login. Die Login-Daten werden nach Kaufabschluß per Mail übermittelt. </strong></p>
+<p style="text-align:left;">Dieses Paket ist DEIN MUST HAVE für Lebens - und Liebesglück und die Grundvoraussetzung für eine glückliche Beziehung, wenn die Vergangenheit durch eine toxische Beziehung belastet war - oder auch noch ist!</p>
+<p style="text-align:left;">Du leidest unter einem extremen Liebeskummer? Du willst Dich endlich wieder besser fühlen und den EX-Partner vergessen? Nimmt dieser Liebeskummer absolut kein Ende, egal was Du tust, egal wieviel Zeit verstreicht? Warst Du in einer ON/OFF-Beziehung, einer toxischen Beziehung mit einem Narzissten oder einem Menschen mit starker Bindungsangst?</p>
+<p style="text-align:left;">Du hast Liebeskummer OBWOHL Du Dich noch in der Beziehung befindest? Hast Du also Liebeskummer IN der Beziehung?  </p>
+<p style="text-align:left;">Dann ist dieser Doppelkurs genau das Richtige für Dich!</p>
+<p style="text-align:left;"> </p>
+<div> </div>
 
 ## 2. Links
 
@@ -87,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-04-21
-- Wie viel kostet es? — 469.901198 USD
+- Wie viel kostet es? — 468.85287300000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

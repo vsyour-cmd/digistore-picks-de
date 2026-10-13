@@ -4,34 +4,34 @@ digistore24_product_id: 404226
 title: "Ziehharmonika Anfängerkurs"
 vendor: "harmonicademy"
 product_type: "Member area and video courses"
-price: 202.84
+price: 202.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 72.83
+earnings_per_sale: 72.67
 cart_conversion_pct: 6
 cancel_rate_pct: 5.61
 categories: ["Dancing & Music"]
 listed_since: "2021-08-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://www.harmonicademy.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37901/adminstore/"
 sales_page: "http://www.harmonicademy.com"
 language: "de"
 ---
 # Ziehharmonika Anfängerkurs
 
 > Product ID `37901` · Digistore24 productId `404226` · [HTML profile page](../../produkte/ziehharmonika-anf-ngerkurs-37901.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $202.84 (Single payment) |
+| Price | $202.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $72.83 |
+| Earnings/sale* | $72.67 |
 | Cart conversion* | 6% |
 | Cancel rate* | 5.61% |
 | Vendor | harmonicademy |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ziehharmonika Online Kurs Der Anfängerkurs ist ein perfekte Möglichkeit für jeden Harmonika interessierten das Harmonika spielen gut und sauber zu lernen. Der Kurs besteht aus 21 Lektionen in den Stimmungen G/C/F/B und B/Es/As/Des. Für Affiliates: Beim Anfängerkurs erhalten Sie 50%. Sollten Sie mehr Informationen brauchen, zögern Sie nicht mir eine E-Mail zu schreiben. Euer Manuel!
+**Vendor's marketplace description:** <p><strong>Ziehharmonika Online Kurs</strong></p>
+<p>Der Anfängerkurs ist ein perfekte Möglichkeit für jeden Harmonika interessierten das Harmonika spielen gut und sauber zu lernen. Der Kurs besteht aus 21 Lektionen in den Stimmungen G/C/F/B und B/Es/As/Des.<strong> <br /></strong></p>
+<p> </p>
+<p><strong>Für Affiliates: </strong></p>
+<p>Beim Anfängerkurs erhalten Sie 50%.</p>
+<p> </p>
+<p> </p>
+<p>Sollten Sie mehr Informationen brauchen, zögern Sie nicht mir eine E-Mail zu schreiben. Euer Manuel!</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.harmonicademy.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37901/adminstore/
 - Sales page: http://www.harmonicademy.com
 - Canonical redirect: https://www.digistore24.com/redir/404226/adminstore
 
@@ -92,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ziehharmonika Anfängerkurs? — Typ: Member area and video courses, Anbieter: harmonicademy, gelistet seit 2021-08-25
-- Wie viel kostet es? — 202.839806 USD
+- Wie viel kostet es? — 202.387281 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

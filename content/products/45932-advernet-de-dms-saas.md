@@ -4,7 +4,7 @@ digistore24_product_id: 544850
 title: "Advernet.de DMS SaaS"
 vendor: "advernetde"
 product_type: "Remote service provided electronically"
-price: 9.32
+price: 9.3
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.33
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Software"]
 listed_since: "2024-03-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.advernet.de/dms-saas.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advernet.de/dms-saas.html"
@@ -22,14 +22,14 @@ language: "de"
 # Advernet.de DMS SaaS
 
 > Product ID `45932` · Digistore24 productId `544850` · [HTML profile page](../../produkte/advernet-de-dms-saas-45932.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $9.32 (Subscription) |
+| Price | $9.30 (Subscription) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.33 |
 | Cart conversion* | — |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehlen Sie das Advernet.de DMS! Es kann auch als Software-as-a-Service genutzt werden und bietet unter anderem eine webbasierte Benutzeroberfläche, eine REST-API und verschiedene Automatisierungsmöglichkeiten. Sehen Sie sich die Affiliate-Support-Seite und die verschiedenen Varianten der Software auf der Verkaufsseite an. Impressum der Advernet.de GmbH
+**Vendor's marketplace description:** <p>Empfehlen Sie das Advernet.de DMS!</p>
+<p>Es kann auch als Software-as-a-Service genutzt werden und bietet unter anderem eine webbasierte Benutzeroberfläche, eine REST-API und verschiedene Automatisierungsmöglichkeiten.</p>
+<p>Sehen Sie sich die Affiliate-Support-Seite und die verschiedenen Varianten der Software auf der Verkaufsseite an.</p>
+<p><a title="Impressum der Advernet.de GmbH" href="https://www.advernet.de/impressum.html" target="_blank" rel="noreferrer noopener">Impressum der Advernet.de GmbH</a></p>
 
 ## 2. Links
 
@@ -75,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Advernet.de DMS SaaS? — Typ: Remote service provided electronically, Anbieter: advernetde, gelistet seit 2024-03-22
-- Wie viel kostet es? — 9.323392 USD
+- Wie viel kostet es? — 9.302592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

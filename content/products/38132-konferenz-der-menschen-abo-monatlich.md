@@ -4,16 +4,16 @@ digistore24_product_id: 399693
 title: "KONFERENZ DER MENSCHEN - ABO (monatlich)"
 vendor: "PlanetSOL"
 product_type: "Downloads"
-price: 94.16
+price: 93.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 47.09
+earnings_per_sale: 46.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-07-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://konferenzdermenschen.com/konferenzpaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://konferenzdermenschen.com/konferenzpaket/"
@@ -22,16 +22,16 @@ language: "de"
 # KONFERENZ DER MENSCHEN - ABO (monatlich)
 
 > Product ID `38132` · Digistore24 productId `399693` · [HTML profile page](../../produkte/konferenz-der-menschen-abo-monatlich-38132.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $94.16 (Single payment, Subscription) |
+| Price | $93.95 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $47.09 |
+| Earnings/sale* | $46.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PlanetSOL |
@@ -41,7 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** MONAT FÜR MONAT € 7,12 für jeden einzelnen Verkauf (variiert nach Land) 50% Lifetime-Provision auf 20,00 € netto (für Abo) Folglich sind deine Verdienstmöglichkeiten: In D kannst du 1000 € PRO MONAT mit 137 Conversions verdienen In A kannst du 1000 € PRO MONAT mit 139 Conversions verdienen In CH kannst du 1000 € PRO MONAT mit 119 Conversions verdienen Deine Vorteile: Du wächst mit einem sich schne…
+**Vendor's marketplace description:** <p><strong><span style="background-color:#ffff00;">MONAT FÜR MONAT</span> € 7,12 für jeden einzelnen Verkauf </strong>(variiert nach Land) </p>
+<p><br /><span style="background-color:#ffff00;"><strong>50%</strong></span> Lifetime-Provision auf 20,00 € netto (für Abo)</p>
+<p>Folglich sind deine Verdienstmöglichkeiten:</p>
+<ul>
+<li>In D kannst du <strong>1000 € PRO MONAT</strong> mit <strong>137 Conversions </strong>verdienen</li>
+<li>In A kannst du <strong>1000 € PRO MONAT</strong> mit <strong>139 Conversions </strong>verdienen</li>
+<li>In CH kannst du <strong>1000 € PRO MONAT</strong> mit <strong>119 Conversions </strong>verdienen</li>
+</ul>
+<p> </p>
+<p><span style="background-color:#ffff00;"><strong>Deine Vorteile:</strong></span></p>
+<ul>
+<li>Du wächst mit einem sich schnell hochkommenden Projekt mit Sinn. Wir setzen uns mit den Vorträgen der Konferenz für eine gesunde Welt ein.</li>
+<li>Wir halten unsere Conversions über das ganze Jahr mit dem spannenden Programm von RadioSOL (dem Berteiber der KONFERENZ DER MENSCHEN)</li>
+<li>Sehr aktives Publikum mit einer Interaktionsratre von 51%</li>
+<li>Schnelle und persönliche Unterstützung auf Deutsch und Englisch unter <a href="https://konferenzdermenschen.com/kontakt/" target="_blank" rel="noreferrer noopener">Konferenz Support</a></li>
+</ul>
+<p> </p>
+<p><strong>Du möchtest das Konferenzprogramm selbst erfahren?</strong> Melde dich kostenfei an bei der <a href="https://konferenzdermenschen.com" target="_blank" rel="noreferrer noopener">KONFERENZ DER MENSCHEN</a></p>
+<p> </p>
+<p><strong>Du hast noch weitere Fragen?</strong></p>
+<p>Detaillierte Infos zum Ablauf des Affiliate-Programms auf unserer <a href="https://konferenzdermenschen.com/partnerprogramm/" target="_blank" rel="noreferrer noopener">AFFILIATE SUPPORT Seite &gt;&gt;</a></p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -91,7 +113,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KONFERENZ DER MENSCHEN - ABO (monatlich)? — Typ: Downloads, Anbieter: PlanetSOL, gelistet seit 2021-07-26
-- Wie viel kostet es? — 94.164018 USD
+- Wie viel kostet es? — 93.95394300000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

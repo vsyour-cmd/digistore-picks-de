@@ -4,34 +4,34 @@ digistore24_product_id: 358149
 title: "Perspektiven Zeichnen Video-Kurs und eBook"
 vendor: "DrawTut"
 product_type: "Member area and video courses"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.09
+earnings_per_sale: 8.07
 cart_conversion_pct: 7
 cancel_rate_pct: 0.22
 categories: ["Profession & Job"]
 listed_since: "2020-11-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://drawtut.com/de/kurse/perspektiven/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/35235/adminstore/"
 sales_page: "https://drawtut.com/de/kurse/perspektiven/"
 language: "de"
 ---
 # Perspektiven Zeichnen Video-Kurs und eBook
 
 > Product ID `35235` · Digistore24 productId `358149` · [HTML profile page](../../produkte/perspektiven-zeichnen-video-kurs-und-ebook-35235.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.09 |
+| Earnings/sale* | $8.07 |
 | Cart conversion* | 7% |
 | Cancel rate* | 0.22% |
 | Vendor | DrawTut |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Perspektiven Zeichnen Video-Kurs und eBook. Damit kann jeder schnell und einfach das perspektivische Zeichnen erlernen. Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen Übungsblättern und dazugehöriger Video-Tutorials kann mit diesem Kurs wirklich jeder schnell lernen, wie man Bilder aus unterschiedlichen Perspektiven zeichnet. Dieser Kurs beinhaltet 52 Videos (4 Stunden) mit Erk…
+**Vendor's marketplace description:** <p><strong>Perspektiven Zeichnen Video-Kurs und eBook. Damit kann jeder schnell und einfach das perspektivische Zeichnen erlernen.</strong> Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen <strong>Übungsblättern</strong> und dazugehöriger <strong>Video-Tutorials</strong> kann mit diesem Kurs wirklich jeder schnell lernen, wie man Bilder aus unterschiedlichen Perspektiven zeichnet. </p>
+<p>Dieser Kurs beinhaltet</p>
+<ul>
+<li>52 Videos (4 Stunden) mit Erklärungen &amp; Zeichenübungen</li>
+<li>47 Übungsblätter</li>
+<li>Umfangreiches eBook mit Wissen rund um das perspektivische Zeichnen</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://drawtut.com/de/kurse/perspektiven/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/35235/adminstore/
 - Sales page: https://drawtut.com/de/kurse/perspektiven/
 - Canonical redirect: https://www.digistore24.com/redir/358149/adminstore
 
@@ -83,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Perspektiven Zeichnen Video-Kurs und eBook? — Typ: Member area and video courses, Anbieter: DrawTut, gelistet seit 2020-11-17
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

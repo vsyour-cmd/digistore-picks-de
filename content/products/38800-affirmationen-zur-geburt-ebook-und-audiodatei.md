@@ -4,16 +4,16 @@ digistore24_product_id: 405502
 title: "Affirmationen zur Geburt - Ebook und Audiodatei"
 vendor: "KTolle"
 product_type: "Downloads"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.02
+earnings_per_sale: 10.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ichgebaere.com/affirmationen-e-book-audio-meditation/?aff=adminstore#aff=adminstore"
 sales_page: "https://ichgebaere.com/affirmationen-e-book-audio-meditation/"
@@ -22,16 +22,16 @@ language: "de"
 # Affirmationen zur Geburt - Ebook und Audiodatei
 
 > Product ID `38800` · Digistore24 productId `405502` · [HTML profile page](../../produkte/affirmationen-zur-geburt-ebook-und-audiodatei-38800.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.02 |
+| Earnings/sale* | $10.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KTolle |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Nur die Theorie nutzt nichts, wenn man nicht handelt. Nur die Praxis nutzt nichts, wenn man nicht weiß, warum es funktioniert. Die Kombination aus beidem macht es. Deshalb besteht dieses Set aus einem E-Book mit Hintergrundinfos und einer über zwanzigminütigen Mp3-Datei mit stärkenden Geburtsaffirmationen. Natürlich gibt es ein Rückgaberecht bei Nichtgefallen.
+**Vendor's marketplace description:** <p>Nur die Theorie nutzt nichts, wenn man nicht handelt.</p>
+<p>Nur die Praxis nutzt nichts, wenn man nicht weiß, warum es funktioniert.</p>
+<p>Die Kombination aus beidem macht es.</p>
+<p>Deshalb besteht dieses Set aus einem E-Book mit Hintergrundinfos und einer über zwanzigminütigen Mp3-Datei mit stärkenden Geburtsaffirmationen.</p>
+<p>Natürlich gibt es ein Rückgaberecht bei Nichtgefallen.</p>
 
 ## 2. Links
 
@@ -82,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affirmationen zur Geburt - Ebook und Audiodatei? — Typ: Downloads, Anbieter: KTolle, gelistet seit 2021-09-02
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

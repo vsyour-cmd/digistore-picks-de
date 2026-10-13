@@ -4,16 +4,16 @@ digistore24_product_id: 716171
 title: "Quantologisch Du bist der Guru (Leitfaden mit Übungen)"
 vendor: "praxiswulfsmoorf724"
 product_type: "E-books"
-price: 38.75
+price: 38.66
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 15.5
+earnings_per_sale: 15.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Personal Development","Marketing Services"]
 listed_since: "2026-07-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.schamanenzauber.com/aktuelles/e-book-quantologisch-du-bist-der-guru/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.schamanenzauber.com/aktuelles/e-book-quantologisch-du-bist-der-guru/"
@@ -22,16 +22,16 @@ language: "de"
 # Quantologisch Du bist der Guru (Leitfaden mit Übungen)
 
 > Product ID `57826` · Digistore24 productId `716171` · [HTML profile page](../../produkte/quantologisch-du-bist-der-guru-leitfaden-mit-bungen-57826.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.75 (Single payment) |
+| Price | $38.66 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $15.50 |
+| Earnings/sale* | $15.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | praxiswulfsmoorf724 |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Quantologisch - Dein digitaler Leitfaden für energetische Souveränität & Klarheit Schütze deinen energetischen Raum konsequent, halte dich von fremden Einflüssen frei und bleibe in deiner vollen Kraft. Dieses kompakte Praxis-E-Book liefert deinen Kunden klare, direkt umsetzbare Werkzeuge für maximale energetische Klarheit im Alltag. Worum geht es im E-Book? Deine Community erhält einen fundierten …
+**Vendor's marketplace description:** <p><strong>Quantologisch - Dein digitaler Leitfaden für energetische Souveränität &amp; Klarheit</strong></p>
+<p>Schütze deinen energetischen Raum konsequent, halte dich von fremden Einflüssen frei und bleibe in deiner vollen Kraft. Dieses kompakte Praxis-E-Book liefert deinen Kunden klare, direkt umsetzbare Werkzeuge für maximale energetische Klarheit im Alltag. </p>
+<p><strong>Worum geht es im E-Book?</strong></p>
+<p>Deine Community erhält einen fundierten Leitfaden, um energetische Blockaden zu erkennen, sich effektiv abzugrenzen und die eigene Frequenz stabil und rein zu halten. Perfekt für alle, die sich persönlich und mental weiterentwickeln und geschützt durch den Alltag gehen wollen. </p>
+<p><strong>Deine Vorteile als Affiliate-Partner</strong></p>
+<ul>
+<li>Hohe Nachfrage: Themen wie energetische Abgrenzung, Schutz und mentale Klarheit treffen genau den Nerv der Zeit. </li>
+<li>Starke Provision: Profitiere von attraktiven <strong>40 % pro vermitteltem Verkauf.</strong></li>
+<li>Fertige Werbemittel: Sofort einsatzbereit für deine Kanäle, deine Liste oder deine Community. </li>
+</ul>
+<p>Sichere dir jetzt deinen Affiliate-Link direkt über den <strong>Digistore24-Marktplatz</strong> und starte mit der Vermarktung! </p>
 
 ## 2. Links
 
@@ -89,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Quantologisch Du bist der Guru (Leitfaden mit Übungen)? — Typ: E-books, Anbieter: praxiswulfsmoorf724, gelistet seit 2026-07-31
-- Wie viel kostet es? — 38.750348 USD
+- Wie viel kostet es? — 38.663898 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

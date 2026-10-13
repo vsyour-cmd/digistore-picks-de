@@ -4,16 +4,16 @@ digistore24_product_id: 741561
 title: "Online-Buchungen mit Anzahlung für italienischsprachige Betriebe: 1.680 €, ca. 305 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 1882.61
+price: 1878.41
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 376.52
+earnings_per_sale: 375.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.direzionex.com/offerta/prenotazioni-con-caparra?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/prenotazioni-con-caparra"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Buchungen mit Anzahlung für italienischsprachige Betriebe: 1.680 €, ca. 305 € Provision
 
 > Product ID `60294` · Digistore24 productId `741561` · [HTML profile page](../../produkte/online-buchungen-mit-anzahlung-f-r-italienischsprachige-betriebe-1-680-ca-305-provision-60294.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $1882.61 (Single payment) |
+| Price | $1878.41 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $376.52 |
+| Earnings/sale* | $375.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Buchungssystem mit Anzahlung per Karte: Tische, Liegen, Termine oder Mietfahrzeuge, alles in einem Kalender. Erscheint der Kunde nicht, ist die Anzahlung schon auf dem Konto.Für wen: Restaurants, Strandbäder, Vermietungen, Praxen.Deine Provision: 20 % pro Verkauf, ca. 305 € bei 1.680 € netto. Einmalzahlung, kein Abo.Wichtig: Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn …
+**Vendor's marketplace description:** <p>Buchungssystem mit Anzahlung per Karte: Tische, Liegen, Termine oder Mietfahrzeuge, alles in einem Kalender. Erscheint der Kunde nicht, ist die Anzahlung schon auf dem Konto.</p><p><strong>Für wen:</strong> Restaurants, Strandbäder, Vermietungen, Praxen.</p><p><strong>Deine Provision:</strong> 20 % pro Verkauf, ca. 305 € bei 1.680 € netto. Einmalzahlung, kein Abo.</p><p><strong>Wichtig:</strong> Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst.</p><p><strong>So läuft es:</strong> Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.</p>
 
 ## 2. Links
 
@@ -86,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Buchungen mit Anzahlung für italienischsprachige Betriebe: 1.680 €, ca. 305 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 1882.6080000000002 USD
+- Wie viel kostet es? — 1878.4080000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

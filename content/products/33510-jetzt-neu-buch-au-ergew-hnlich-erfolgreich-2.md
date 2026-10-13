@@ -4,16 +4,16 @@ digistore24_product_id: 461682
 title: "[JETZT NEU] Buch Außergewöhnlich Erfolgreich 2"
 vendor: "digitalbeat"
 product_type: "Book (printed)"
-price: 6.25
+price: 6.24
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.5
+earnings_per_sale: 5.49
 cart_conversion_pct: 7
 cancel_rate_pct: 1.8
 categories: ["Personal Development"]
 listed_since: "2022-09-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/461682/adminstore"
 sales_page: "https://start.gruender.de/aussergewoehnlich-erfolgreich-2/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # [JETZT NEU] Buch Außergewöhnlich Erfolgreich 2
 
 > Product ID `33510` · Digistore24 productId `461682` · [HTML profile page](../../produkte/jetzt-neu-buch-au-ergew-hnlich-erfolgreich-2-33510.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $6.25 (Single payment) |
+| Price | $6.24 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.50 |
+| Earnings/sale* | $5.49 |
 | Cart conversion* | 7% |
 | Cancel rate* | 1.8% |
 | Vendor | digitalbeat |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenke unseren neuen Bestseller "Außergewöhnlich Erfolgreich" an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung! über 270 Seiten extrem guter Content 30 außergewöhnlich erfolgreiche Persönlichkeiten verraten, wie sie ihr Geld verdienen Mit dabei: Lena Gercke, Nico Rosberg, Joey & Luke Kelly, Knossi uvm. Sehr geringe Stornoquote Wir zahlen dir 5€ Provision für jede Bes…
+**Vendor's marketplace description:** <h2><span style="color:#ff0000;">Verschenke unseren neuen Bestseller "Außergewöhnlich Erfolgreich" an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung!</span></h2>
+<ul>
+<li>über 270 Seiten extrem guter Content</li>
+<li>30 außergewöhnlich erfolgreiche Persönlichkeiten verraten, wie sie ihr Geld verdienen</li>
+<li>Mit dabei: Lena Gercke, Nico Rosberg, Joey &amp; Luke Kelly, Knossi uvm.</li>
+<li>Sehr geringe Stornoquote</li>
+</ul>
+<p>Wir zahlen dir 5€ Provision für jede Bestellung! Melde dich jetzt als Affiliate an und wir schicken dir sofort eine perfekte Textvorlage zu! </p>
+<p>Beste Grüße aus Köln<br />Dein Thomas Klußmann und Christoph J.F. Schreiber<br />- Gründer.de -</p>
 
 ## 2. Links
 
@@ -73,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [JETZT NEU] Buch Außergewöhnlich Erfolgreich 2? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2022-09-22
-- Wie viel kostet es? — 6.252948 USD
+- Wie viel kostet es? — 6.2389980000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 697156
 title: "Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm"
 vendor: "PERSOFIT"
 product_type: "Remote service provided electronically"
-price: 110.94
+price: 110.69
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.28
+earnings_per_sale: 33.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Office Organization"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/697156?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/697156"
@@ -22,16 +22,16 @@ language: "de"
 # Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm
 
 > Product ID `56768` · Digistore24 productId `697156` · [HTML profile page](../../produkte/sicherheitsbeauftragter-sibe-selbstlernprogramm-56768.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $110.94 (Single payment) |
+| Price | $110.69 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.28 |
+| Earnings/sale* | $33.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PERSOFIT |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sicherheitsbeauftragter (SiBe) Praxisorientiertes Online-Selbstlernprogramm für den betrieblichen Arbeitsschutz Mehr Sicherheit beginnt mit Wissen, Aufmerksamkeit und Verantwortung. In Unternehmen mit regelmäßig mehr als 20 Beschäftigten sind Sicherheitsbeauftragte gemäß § 22 SGB VII in ausreichender Anzahl zu bestellen. Sie unterstützen Arbeitgeber, Führungskräfte, Fachkräfte für Arbeitssicherhei…
+**Vendor's marketplace description:** <h3>Sicherheitsbeauftragter (SiBe)</h3>
+<h3>Praxisorientiertes Online-Selbstlernprogramm für den betrieblichen Arbeitsschutz Mehr Sicherheit beginnt mit Wissen, Aufmerksamkeit und Verantwortung.</h3>
+<h3>In Unternehmen mit regelmäßig mehr als 20 Beschäftigten sind Sicherheitsbeauftragte gemäß § 22 SGB VII in ausreichender Anzahl zu bestellen. Sie unterstützen Arbeitgeber, Führungskräfte, Fachkräfte für Arbeitssicherheit und Betriebsärzte bei der Verhütung von Arbeitsunfällen, Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren.</h3>
+<h3>Doch die bloße Bestellung eines Sicherheitsbeauftragten genügt nicht. Wer Risiken erkennen und Kolleginnen und Kollegen für sicheres Verhalten sensibilisieren möchte, benötigt ein solides Grundverständnis der wichtigsten Arbeitsschutzthemen.</h3>
+<h3>Genau hier setzt dieses praxisorientierte Online-Selbstlernprogramm an. Warum dieses Selbstlernprogramm?</h3>
+<h3>Arbeitsunfälle entstehen selten zufällig. Oft sind es kleine Nachlässigkeiten, fehlende Aufmerksamkeit oder nicht erkannte Gefahren, die schwerwiegende Folgen haben können.</h3>
+<h3>Dieses Selbstlernprogramm vermittelt die wichtigsten Grundlagen für Sicherheitsbeauftragte verständlich, praxisnah und direkt anwendbar. Die Inhalte orientieren sich an den gesetzlichen Anforderungen des Arbeitsschutzes sowie an den Vorgaben und Empfehlungen der Deutschen Gesetzlichen Unfallversicherung (DGUV). Ihre Vorteile</h3>
+<h3>✔ Lernen im eigenen Tempo</h3>
+<h3>✔ Sofortiger Zugriff auf die Schulungsunterlagen</h3>
+<h3>✔ Keine festen Schulungstermine</h3>
+<h3>✔ Keine Reise- oder Übernachtungskosten ✔ Praxisnahe Inhalte aus dem betrieblichen Alltag</h3>
+<h3>✔ Ideal für Unternehmen, Handwerk, Industrie und Personaldienstleister</h3>
+<h3>✔ Verständliche Vermittlung wichtiger Arbeitsschutzthemen Schulungsinhalte</h3>
+<h3>Die digitalen Schulungsunterlagen umfassen rund 30 Folien und behandeln unter anderem folgende Themen: Aufgaben und Rolle des Sicherheitsbeauftragten Grundlagen des Arbeitsschutzes Unfallursachen und Prävention Gefährdungen erkennen und melden Zusammenarbeit mit Führungskräften und Fachkräften für Arbeitssicherheit Betriebsanweisungen und Unterweisungen Sicherheitskennzeichnungen Verhalten bei Arbeitsunfällen Verhalten im Brandfall Praxisbeispiele aus dem Arbeitsalltag Inklusive Selbsttest zur Wissensvertiefung Zusätzlich zu den Schulungsunterlagen erhalten Sie einen freiwilligen Selbsttest. Dieser dient der persönlichen Wiederholung und Vertiefung der behandelten Inhalte und unterstützt dabei, das erworbene Wissen noch einmal zu reflektieren. Teilnahmebescheinigung Nach Abschluss des Selbstlernprogramms erhalten Sie eine Teilnahmebescheinigung über die bereitgestellten Schulungsinhalte. Für die Ausstellung einer personalisierten Teilnahmebescheinigung benötigen wir die entsprechenden Teilnehmerdaten (Name und Vorname, Geburtsort und Geburtsdatum). Ideal für Unternehmen, die Sicherheit, Prävention und eine starke Arbeitsschutzkultur nachhaltig fördern möchten.</h3>
+<h4><strong>Persofit – Wir machen Ihr Personal fit.</strong></h4>
+<h1>Affiliate-Materialien &amp; Provisionsübersicht </h1>
+<p><a title="Affiliate-Materialien &amp; Provisionsübersicht" href="https://sites.google.com/view/persofit/affiliate-support-seite/affiliate-materialien" target="_blank" rel="noreferrer noopener">https://sites.google.com/view/persofit/affiliate-support-seite/affiliate-materialien</a></p>
 
 ## 2. Links
 
@@ -91,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sicherheitsbeauftragter (SiBe) – Selbstlernprogramm? — Typ: Remote service provided electronically, Anbieter: PERSOFIT, gelistet seit 2026-06-01
-- Wie viel kostet es? — 110.9394 USD
+- Wie viel kostet es? — 110.6919 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

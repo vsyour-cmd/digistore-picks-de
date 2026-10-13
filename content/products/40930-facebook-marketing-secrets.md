@@ -4,16 +4,16 @@ digistore24_product_id: 456396
 title: "Facebook Marketing Secrets"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 8.29
+earnings_per_sale: 8.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-08-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/pdirgAigjLG8pNTam?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/pdirgAigjLG8pNTam"
@@ -22,16 +22,16 @@ language: "de"
 # Facebook Marketing Secrets
 
 > Product ID `40930` · Digistore24 productId `456396` · [HTML profile page](../../produkte/facebook-marketing-secrets-40930.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $8.29 |
+| Earnings/sale* | $8.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Facebook Marketing Secrets Das ist alles drinnen: ✅ Das erstellen von gezielten Anzeigen ✅ Schritt für Schritt zu Deiner ersten Facebook Anzeige ✅ Tipps und Trick zur Klickrate ✅ 5BS? ist natürlich erlaubt Du bekommst 80 % des Netto-Gewinns (ca. 5 Euro) Inklusive 70 % des Netto Gewinn vom Upsell (Video Kurs über Affiliate Marketing ca. 150 Euro Netto Provision) Hohe Conversion, da es eine Testwoch…
+**Vendor's marketplace description:** <div>
+<div>
+<p><span style="background-color:#ffff00;"><strong>Facebook Marketing Secrets </strong></span></p>
+</div>
+</div>
+<div>
+<p><strong>Das ist alles drinnen:</strong></p>
+<p>✅  Das erstellen von gezielten Anzeigen</p>
+<p>✅  Schritt für Schritt zu Deiner ersten Facebook Anzeige</p>
+<p>✅  Tipps und Trick zur Klickrate</p>
+<p>✅  5BS? ist natürlich erlaubt</p>
+<p><span style="background-color:#ffff00;"><strong>Du bekommst 80 % des Netto-Gewinns </strong><strong>(ca. 5 Euro) </strong></span></p>
+<p><span style="background-color:#ffff00;"> <strong>Inklusive 70 % des Netto Gewinn vom Upsell (Video Kurs über Affiliate Marketing ca. 150 Euro Netto Provision)</strong></span></p>
+<p><span style="background-color:#ffff00;"><strong>Hohe Conversion, da es eine Testwoche gibt an der Du mitverdienst!</strong></span></p>
+</div>
 
 ## 2. Links
 
@@ -58,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Facebook Marketing Secrets? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-08-20
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

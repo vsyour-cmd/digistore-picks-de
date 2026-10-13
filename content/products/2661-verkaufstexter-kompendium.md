@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2014-03-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://verkaufstexter-kompendium.de?aff=adminstore#aff=adminstore"
 sales_page: "https://verkaufstexter-kompendium.de"
@@ -22,7 +22,7 @@ language: "de"
 # Verkaufstexter-Kompendium
 
 > Product ID `2661` · Digistore24 productId `22655` · [HTML profile page](../../produkte/verkaufstexter-kompendium-2661.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Autor: Bernfried Opala Verkaufstexter-Kompendium Das Standardwerk für angehende Verkaufs- und Werbetexter. Lehrbuch der Deutschen Verkaufstexter-Akademie. 312 Seiten, erschienen: März 2014 Das sagen Kunden: Das Verkaufstexter-Kompendium ist für mich als ausgebildete Verkaufstexterin ein wunderbares Nachschlagewerk. Alles, was wirklich wichtig ist und was man immer zur Hand haben sollte, ist darin …
+**Vendor's marketplace description:** <p><strong>Autor: Bernfried Opala<br /></strong></p>
+<h1><span style="color:#800000;">Verkaufstexter-Kompendium</span></h1>
+<h2><span style="color:#3366ff;">Das Standardwerk für angehende Verkaufs- und Werbetexter. </span></h2>
+<p>Lehrbuch der Deutschen Verkaufstexter-Akademie.</p>
+<p>312 Seiten, erschienen: März 2014</p>
+<p> </p>
+<p><strong>Das sagen Kunden:</strong></p>
+<p>Das Verkaufstexter-Kompendium ist für mich als ausgebildete Verkaufstexterin ein wunderbares Nachschlagewerk. Alles, was wirklich wichtig ist und was man immer zur Hand haben sollte, ist darin auf über 300 Seiten sehr übersichtlich und gut lesbar zusammengefasst. Gerade wenn man sich, wie ich, einige Zeit anderen Dingen zuwendet und dann wieder Verkaufstexte (und Blogartikel!) schreibt - egal ob für Kunden, oder für eigene Produkte und Dienstleistungen - ist ein Blick ins Verkaufstexter-Kompendium unerlässlich.</p>
+<p><em>Dipl.-Ing. Annette Scholz</em><br /><em>freiberufliche Verkaufstexterin und Technische Redakteurin</em></p>
+<p> </p>
+<p>Bei meinen Vorbildern hat es in den vergangenen Monaten einen großen Rutsch gegeben. Ich las viel über Claude Hopkins, Albert E. Lasker, Joe Sugarman und Ted Nicholas. Alles Verkäufer. Sie sind schon lange meine Vorbilder, aber jetzt fast ausschließlich. Ich kann keine Theorien mehr hören. Ich will Praxis. Wie die der genannten Verkaufsmillionäre. Sehr kritisch las ich nun in den letzten 2 Wochen Bernfried Opalas „Verkaufstexter-Kompendium”. Es ist absolut das Handbuch eines Verkäufers. Ich gab in den letzten 20 Jahren locker 100.000 Dollar für Weiterbildung in den USA aus. Immer mehr meine ich, dass uns Kartoffeln manche US-Gurus ganz schön verarschen. Und Theorien erzählen, die sie selbst nicht anwenden. Deshalb: Kauft das „Verkaufstexter-Kompendium” mit bestem Gefühl. Wer dann nicht sofort erfolgreich mit dem Verkaufen loslegt, hat keine Ausrede mehr...</p>
+<p><em>Peter Jürgen Beck</em><br /><em>DM-Texter</em></p>
+<p> </p>
 
 ## 2. Links
 
@@ -78,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verkaufstexter-Kompendium? — Typ: Downloads, Anbieter: Beopal, gelistet seit 2014-03-15
-- Wie viel kostet es? — 0.941304 USD
+- Wie viel kostet es? — 0.939204 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

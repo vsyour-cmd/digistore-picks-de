@@ -4,34 +4,34 @@ digistore24_product_id: 698309
 title: "50% Provision! 365 Tage KI content (Notion,Prompts)"
 vendor: "svetoslavdzhabirski0be5"
 product_type: "Downloads"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-06-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/698309?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56805/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/698309"
 language: "de"
 ---
 # 50% Provision! 365 Tage KI content (Notion,Prompts)
 
 > Product ID `56805` · Digistore24 productId `698309` · [HTML profile page](../../produkte/50-provision-365-tage-ki-content-notion-prompts-56805.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | svetoslavdzhabirski0be5 |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verdienen Sie mühelos 50% Provision mit einem hochkonvertierenden Premium-Digitalprodukt! Unser Bundle enthält einen kompletten 365-Tage Notion Social Media Planer, 50 editierbare Canva-Vorlagen und copy-paste ChatGPT-Prompts. Perfekt für die Nischen: Business, Marketing, Content Creation und KI.
+**Vendor's marketplace description:** <p>Verdienen Sie mühelos 50% Provision mit einem hochkonvertierenden Premium-Digitalprodukt!</p>
+<p>Unser Bundle enthält einen kompletten 365-Tage Notion Social Media Planer, 50 editierbare Canva-Vorlagen und copy-paste ChatGPT-Prompts.</p>
+<p>Perfekt für die Nischen: Business, Marketing, Content Creation und KI.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/698309?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56805/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/698309
 - Canonical redirect: https://www.digistore24.com/redir/698309/adminstore
 
@@ -71,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision! 365 Tage KI content (Notion,Prompts)? — Typ: Downloads, Anbieter: svetoslavdzhabirski0be5, gelistet seit 2026-06-04
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

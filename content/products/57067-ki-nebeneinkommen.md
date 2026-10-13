@@ -4,34 +4,34 @@ digistore24_product_id: 703408
 title: "KI-Nebeneinkommen"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-06-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ratgeberplatz.de/ratgeber/ki-nebeneinkommen-7-modelle?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57067/adminstore/"
 sales_page: "https://ratgeberplatz.de/ratgeber/ki-nebeneinkommen-7-modelle"
 language: "de"
 ---
 # KI-Nebeneinkommen
 
 > Product ID `57067` · Digistore24 productId `703408` · [HTML profile page](../../produkte/ki-nebeneinkommen-57067.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „KI-Nebeneinkommen" Sieben erprobte Wege, mit KI nebenbei Geld zu verdienen – ehrlich verglichen: was sie verlangen, was realistisch drin ist und für wen sie passen. Du brauchst nur das eine Modell, das zu dir passt. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: KI, Online-Business & Geld verdienen Professionelle…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „KI-Nebeneinkommen"</strong></p>
+<p>Sieben erprobte Wege, mit KI nebenbei Geld zu verdienen – ehrlich verglichen: was sie verlangen, was realistisch drin ist und für wen sie passen. Du brauchst nur das eine Modell, das zu dir passt.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
+<li>Gefragtes Thema: KI, Online-Business &amp; Geld verdienen</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Sieben KI-Nebeneinkommens-Modelle ehrlich vergleichen</li>
+<li>Erkennen, was jedes Modell verlangt und für wen es passt</li>
+<li>Die wichtigsten KI-Tools je Modell kennenlernen</li>
+<li>Dich auf ein passendes Modell festlegen statt zu verzetteln</li>
+<li>Mit einem klaren ersten Schritt starten</li>
+</ul>
+<p><strong>Für deine Zielgruppe:</strong> Menschen, die mit KI und Online-Business ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
+<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/ki-nebeneinkommen-7-modelle?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57067/adminstore/
 - Sales page: https://ratgeberplatz.de/ratgeber/ki-nebeneinkommen-7-modelle
 - Vendor affiliate support: https://ratgeberplatz.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/703408/adminstore
@@ -86,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Nebeneinkommen? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-19
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

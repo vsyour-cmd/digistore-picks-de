@@ -4,34 +4,34 @@ digistore24_product_id: 662143
 title: "Future Skills für Einsteiger – Orientierung in der KI-Arbeit"
 vendor: "SkillVibeCampus"
 product_type: "Downloads"
-price: 276.79
+price: 276.17
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 83.04
+earnings_per_sale: 82.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-01-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.skillvibecampus.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55379/adminstore/"
 sales_page: "https://www.skillvibecampus.de"
 language: "de"
 ---
 # Future Skills für Einsteiger – Orientierung in der KI-Arbeit
 
 > Product ID `55379` · Digistore24 productId `662143` · [HTML profile page](../../produkte/future-skills-f-r-einsteiger-orientierung-in-der-ki-arbeit-55379.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $276.79 (Single payment) |
+| Price | $276.17 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $83.04 |
+| Earnings/sale* | $82.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SkillVibeCampus |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Future Skills für Einsteiger ist ein strukturierter Onlinekurs für Menschen, die Orientierung in einer sich wandelnden, KI-geprägten Arbeitswelt suchen. Der Kurs richtet sich an Einsteiger ohne technisches Vorwissen und vermittelt Denkmodelle, Zukunftskompetenzen und Entscheidungsgrundlagen. Es handelt sich nicht um einen Tool- oder Technik-Kurs. Der Fokus liegt auf Verständnis, Einordnung und pra…
+**Vendor's marketplace description:** <p>Future Skills für Einsteiger ist ein strukturierter Onlinekurs für Menschen, die Orientierung in einer sich wandelnden, KI-geprägten Arbeitswelt suchen.</p>
+<p>Der Kurs richtet sich an Einsteiger ohne technisches Vorwissen und vermittelt Denkmodelle, Zukunftskompetenzen und Entscheidungsgrundlagen.</p>
+<p>Es handelt sich nicht um einen Tool- oder Technik-Kurs. Der Fokus liegt auf Verständnis, Einordnung und praxisnaher Orientierung.</p>
+<p>Zielgruppe sind Berufstätige, Selbstständige und Weiterbildungsinteressierte, die sich mit den Auswirkungen von KI auf Arbeit und Gesellschaft auseinandersetzen möchten.</p>
+<p>Affiliates erhalten 30 % Provision pro Verkauf.</p>
+<p>Keine Einkommensversprechen. Keine Jobgarantien. Seriöses Bildungsprodukt.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.skillvibecampus.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55379/adminstore/
 - Sales page: https://www.skillvibecampus.de
 - Vendor affiliate support: https://affiliate-informationen--iluu2pl.gamma.site/
 - Canonical redirect: https://www.digistore24.com/redir/662143/adminstore
@@ -67,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Future Skills für Einsteiger – Orientierung in der KI-Arbeit? — Typ: Downloads, Anbieter: SkillVibeCampus, gelistet seit 2026-01-17
-- Wie viel kostet es? — 276.7882 USD
+- Wie viel kostet es? — 276.1707 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

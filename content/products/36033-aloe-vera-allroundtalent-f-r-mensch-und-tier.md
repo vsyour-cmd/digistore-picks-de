@@ -4,34 +4,34 @@ digistore24_product_id: 378176
 title: "ALOE VERA - Allroundtalent für Mensch und Tier"
 vendor: "chef63"
 product_type: "E-books"
-price: 7.23
+price: 7.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.62
+earnings_per_sale: 3.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-03-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://aloe-vera.funnelcockpit.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/36033/adminstore/"
 sales_page: "https://aloe-vera.funnelcockpit.com/"
 language: "de"
 ---
 # ALOE VERA - Allroundtalent für Mensch und Tier
 
 > Product ID `36033` · Digistore24 productId `378176` · [HTML profile page](../../produkte/aloe-vera-allroundtalent-f-r-mensch-und-tier-36033.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.23 (Single payment) |
+| Price | $7.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.62 |
+| Earnings/sale* | $3.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | chef63 |
@@ -41,11 +41,40 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ALOE VERA - Allroundtalent für Mensch und Tier ! > Brandneues Ebook < - Inklusive BONUS Produkt - --<>--<>--<>-- Empfehle dieses neue eBook und Du erhältst 50% Provision! --<>--<>--<>-- Aloe-Vera, deiner Gesundheit zu Liebe! Die Natur schenkte uns mit der Aloe eine der erstaunlichsten Pflanze auf unserer Erde. Aloe-Vera ist für Frauen, Männer und Kinder, sowie Tiere geeignet. Was bekommen Sie in d…
+**Vendor's marketplace description:** <p style="text-align:center;"><strong><span style="background-color:#00ff00;">ALOE VERA - Allroundtalent für Mensch und Tier !</span></strong></p>
+<p style="text-align:center;"><em><strong>&gt; Brandneues Ebook &lt;</strong></em></p>
+<p style="text-align:center;"><em><strong>- Inklusive BONUS Produkt -</strong></em></p>
+<p style="text-align:center;"><em><strong>--&lt;&gt;--&lt;&gt;--&lt;&gt;--</strong></em></p>
+<p style="text-align:center;"><span style="color:#008000;"><strong>Empfehle dieses neue eBook und Du erhältst 50% Provision!</strong></span></p>
+<p style="text-align:center;"><strong>--&lt;&gt;--&lt;&gt;--&lt;&gt;--</strong></p>
+<p style="text-align:center;"> </p>
+<p>Aloe-Vera, deiner Gesundheit zu Liebe!  </p>
+<p>Die Natur schenkte uns mit der Aloe eine der erstaunlichsten Pflanze auf unserer Erde.  </p>
+<p>Aloe-Vera ist für Frauen, Männer und Kinder, sowie Tiere geeignet.</p>
+<p> <em><strong>Was bekommen Sie in diesem Ebook „ALOE VERA - Allroundtalent für Mensch und Tier“:</strong></em></p>
+<p>&gt; Sie erhalten jede Menge Informationen über die Aloe-Vera, deren Eigenschaften, Einsatzgebiete, Wirkstoffe und Wirkungsweisen.</p>
+<p>&gt; In diesem Buch finden Sie eine Auflistung von über 210 Krankheiten, Krankheitsbildern und Verletzungen, wo Aloe-Vera erfolgreiche Anwendung gefunden hat. </p>
+<p>&gt; Sie bekommen viele allgemeine gesundheitliche Informationen und Tipps für sich und ihren Körper!</p>
+<p>&gt; Sie erfahren viel Hintergrundwissen</p>
+<p>&gt; In diesem Buch sind viele meiner persönlichen Erfahrungen eingebracht.  </p>
+<p> </p>
+<p><strong><span style="text-decoration:underline;">BONUS (Gratis dabei):</span></strong></p>
+<p><span style="background-color:#99cc00;"><strong>"45 Cocktail Rezepte mit ALOE-VERA"</strong></span></p>
+<p>( <span style="text-decoration:line-through;">Wert = 13,90 Euro</span> )</p>
+<p> </p>
+<p><em><strong>Weiters bekommst Du noch:</strong></em></p>
+<p><strong>&gt; </strong>Hohe Affiliateprovison von 50 %</p>
+<p>&gt; Erlaubnis zur Verwendung aller Werbemittel</p>
+<p> </p>
+<p><strong><span style="text-decoration:underline;">Einmaliger Sonderpreis:</span></strong></p>
+<p><strong>&gt;&gt; Das Ebook ist zur Zeit von 24,90 Euro auf</strong><strong>  6,90 Euro reduziert! &lt;&lt;</strong></p>
+<p><strong>&gt;&gt; Gratis Ebook - Wert 13,90 Euro &lt;&lt;</strong></p>
+<p style="text-align:center;"><span style="background-color:#99cc00;"><strong>28,90 Ersparniss für den Käufer</strong></span></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://aloe-vera.funnelcockpit.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36033/adminstore/
 - Sales page: https://aloe-vera.funnelcockpit.com/
 - Canonical redirect: https://www.digistore24.com/redir/378176/adminstore
 
@@ -58,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ALOE VERA - Allroundtalent für Mensch und Tier? — Typ: E-books, Anbieter: chef63, gelistet seit 2021-03-09
-- Wie viel kostet es? — 7.22787 USD
+- Wie viel kostet es? — 7.2117450000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

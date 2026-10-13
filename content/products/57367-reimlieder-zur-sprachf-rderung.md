@@ -4,34 +4,34 @@ digistore24_product_id: 676727
 title: "Reimlieder zur Sprachförderung"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 36.98
+price: 36.9
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.7
+earnings_per_sale: 3.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://lexosophie.mydigibiz24.com/reimlieder?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57367/adminstore/"
 sales_page: "https://lexosophie.mydigibiz24.com/reimlieder"
 language: "de"
 ---
 # Reimlieder zur Sprachförderung
 
 > Product ID `57367` · Digistore24 productId `676727` · [HTML profile page](../../produkte/reimlieder-zur-sprachf-rderung-57367.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.98 (Subscription) |
+| Price | $36.90 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.70 |
+| Earnings/sale* | $3.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Speziell konzipierte Reimlieder, die den Rhythmus der Sprache unterstützen. Die deutsche Sprache basiert auf einem bestimmten Betonungsmuster auf dem alle sprachlichen Regeln basieren. Dieses wird mit den Reimliedern unterstützt. Zugang 12 Monate.
+**Vendor's marketplace description:** <p>Speziell konzipierte Reimlieder, die den Rhythmus der Sprache unterstützen.</p>
+<p>Die deutsche Sprache basiert auf einem bestimmten Betonungsmuster auf dem alle sprachlichen Regeln basieren. Dieses wird mit den Reimliedern unterstützt.</p>
+<p>Zugang 12 Monate.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lexosophie.mydigibiz24.com/reimlieder?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57367/adminstore/
 - Sales page: https://lexosophie.mydigibiz24.com/reimlieder
 - Canonical redirect: https://www.digistore24.com/redir/676727/adminstore
 
@@ -72,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reimlieder zur Sprachförderung? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 36.979800000000004 USD
+- Wie viel kostet es? — 36.8973 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

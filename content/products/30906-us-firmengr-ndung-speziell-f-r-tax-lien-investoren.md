@@ -4,16 +4,16 @@ digistore24_product_id: 298769
 title: "US-Firmengründung speziell für Tax-Lien-Investoren"
 vendor: "floridagb"
 product_type: "Remote service provided electronically"
-price: 2801.5
+price: 2795.25
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 700.38
+earnings_per_sale: 698.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2019-12-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.florida-grundbesitz.com/firma/tax-lien/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.florida-grundbesitz.com/firma/tax-lien/"
@@ -22,16 +22,16 @@ language: "de"
 # US-Firmengründung speziell für Tax-Lien-Investoren
 
 > Product ID `30906` · Digistore24 productId `298769` · [HTML profile page](../../produkte/us-firmengr-ndung-speziell-f-r-tax-lien-investoren-30906.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2801.50 (Subscription) |
+| Price | $2795.25 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $700.38 |
+| Earnings/sale* | $698.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | floridagb |
@@ -41,7 +41,40 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** US-Firmengründung speziell für Tax-Lien-Investoren Dieses vergünstigte Paket ist speziell für deutschsprachige Tax-Lien-Investoren zusammengestellt und beinhaltet alles Wichtige, was ein Investor braucht, um seine Tax-Lien-Investments umzusetzen: Gründung einer LLC oder Corporation Registered Agent Service (gesetzlich vorgeschrieben) Geschäfts­adresse Post­service Professionelles Lifetime-Partnerp…
+**Vendor's marketplace description:** <h4>US-Firmengründung speziell für Tax-Lien-Investoren</h4>
+<p>Dieses vergünstigte Paket ist speziell für deutschsprachige <strong>Tax-Lien-Investoren</strong> zusammengestellt und beinhaltet alles Wichtige, was ein Investor braucht, um seine Tax-Lien-Investments umzusetzen:</p>
+<ul><li>Gründung einer LLC oder Corporation </li>
+<li>Registered Agent Service (gesetzlich vorgeschrieben)</li>
+<li>Geschäfts­adresse</li>
+<li>Post­service</li>
+</ul><p><strong>Professionelles Lifetime-Partnerprogramm ✅</strong></p>
+<p>Ihre Vorteile:</p>
+<ul><li>Lebenslang 25 % wiederkehrende Provisionen auf Ihre Verkäufe</li>
+<li>individuelle Rabattcodes</li>
+<li>Schnelle und persönliche Unterstützung durch Ihre Affiliate-Manager</li>
+</ul><h4> </h4>
+<h4>Weitere Produkte:</h4>
+<p> </p>
+<h4>US Firmengründung VIP oder Vision Paket</h4>
+<p>Das Paket beinhaltet:</p>
+<ul><li>Firmengründung im US Bundesstaat Florida (wahlweise als LLC oder Corporation)</li>
+<li>jährliche Meldungen und Gebührenzahlungen an den Bundesstaat</li>
+<li>falls gewünscht kann der Register Agent Service und eine Geschäftsadresse als Addon hinzugebucht werden <span style="background-color:#ffff99;"><strong>(erhöht Ihre Affiliate-Provision!)</strong></span></li>
+</ul><h4> </h4>
+<h4>Florida Grundbesitz Gold Mitgliedschaft</h4>
+<p><strong>Vorteile der Gold-Mitgliedschaft:</strong></p>
+<ul><li>Anlegen und Ändern eines Immobiliensuchauftrags (kostenlos)</li>
+<li>Verkaufsplattform für Immobilien nutzen</li>
+<li>Vergünstige Tarife für Club-Leistungen</li>
+</ul><h4> </h4>
+<h4>Suchauftrag</h4>
+<p>Unsere Investoren lieben es und deswegen bieten wir als Service an sofort und automatisiert über genau die Grundstücke und Häuser informiert zu werden, die passend auf Ihre Wunsch­vorstellungen auf den Markt kommen oder eine Preisveränderung bekommen haben.</p>
+<p><strong>Einstiegs-Partnerprogramm ✅</strong></p>
+<p>Ihre Vorteile:</p>
+<ul><li>50 % Provisionen für jeden Suchauftrag</li>
+<li>individuelle Rabattcodes</li>
+<li>Schnelle und persönliche Unterstützung durch Ihre Affiliate-Manager</li>
+</ul>
 
 ## 2. Links
 
@@ -83,7 +116,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist US-Firmengründung speziell für Tax-Lien-Investoren? — Typ: Remote service provided electronically, Anbieter: floridagb, gelistet seit 2019-12-08
-- Wie viel kostet es? — 2801.5 USD
+- Wie viel kostet es? — 2795.2500000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

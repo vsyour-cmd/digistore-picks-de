@@ -4,16 +4,16 @@ digistore24_product_id: 87693
 title: "Online Briefmarken Katalog Deutschland 14 Tage-Laufzeit"
 vendor: "abartl"
 product_type: "Software"
-price: 4.7
+price: 4.68
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 1.18
+earnings_per_sale: 1.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2016-07-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://rund-um-briefmarken.de/lp-hp/?aff=adminstore#aff=adminstore"
 sales_page: "https://rund-um-briefmarken.de/lp-hp/"
@@ -22,16 +22,16 @@ language: "de"
 # Online Briefmarken Katalog Deutschland 14 Tage-Laufzeit
 
 > Product ID `2951` · Digistore24 productId `87693` · [HTML profile page](../../produkte/online-briefmarken-katalog-deutschland-14-tage-laufzeit-2951.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $4.70 (Single payment) |
+| Price | $4.68 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $1.18 |
+| Earnings/sale* | $1.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | abartl |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Online-Briefmarken-Katalog mit fester Laufzeit mit einmaliger Suche für die Sammelgebiete DDR, Bund, Deutsches Reich, Westberlin, Altdeutschland, Saarland, Besatzungszonen 1945-1949.
+**Vendor's marketplace description:** <p>Online-Briefmarken-Katalog mit fester Laufzeit mit einmaliger Suche für die Sammelgebiete DDR, Bund, Deutsches Reich, Westberlin, Altdeutschland, Saarland, Besatzungszonen 1945-1949.</p>
 
 ## 2. Links
 
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Briefmarken Katalog Deutschland 14 Tage-Laufzeit? — Typ: Software, Anbieter: abartl, gelistet seit 2016-07-13
-- Wie viel kostet es? — 4.695314000000001 USD
+- Wie viel kostet es? — 4.684839000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

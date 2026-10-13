@@ -4,16 +4,16 @@ digistore24_product_id: 726272
 title: "Handwerker KI-Büro – 30 % Provision auf 39 € Starter-Paket"
 vendor: "handwerkerkibuero2026"
 product_type: "Downloads"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.02
+earnings_per_sale: 10.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://amtsbuechler-digital.de/handwerker-ki-buero-v1-0.html?v=20260915&aff=adminstore#aff=adminstore"
 sales_page: "https://amtsbuechler-digital.de/handwerker-ki-buero-v1-0.html?v=20260915"
@@ -22,16 +22,16 @@ language: "de"
 # Handwerker KI-Büro – 30 % Provision auf 39 € Starter-Paket
 
 > Product ID `60174` · Digistore24 productId `726272` · [HTML profile page](../../produkte/handwerker-ki-b-ro-30-provision-auf-39-starter-paket-60174.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.02 |
+| Earnings/sale* | $10.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | handwerkerkibuero2026 |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Handwerker KI-Büro V1.0 ist ein digitales Starter-Paket für kleine Handwerksbetriebe und Einzelunternehmer, die Angebote, Aufträge, Nachfassaktionen und Kundenkommunikation übersichtlicher organisieren möchten. Veraufspreis: 39 € einmalig Affiliate-Provision: 30% Kein monatlicher Produktpreis. Enthalten sind unter anderem: -Excel-Cockpit -Nachichtenvorlagen -KI-Prompts -Musterauftrag -START-HI…
+**Vendor's marketplace description:** <p>Das Handwerker KI-Büro V1.0 ist ein digitales Starter-Paket für kleine Handwerksbetriebe und Einzelunternehmer, die Angebote, Aufträge, Nachfassaktionen und Kundenkommunikation übersichtlicher organisieren möchten.</p>
+<p>Veraufspreis: 39 € einmalig</p>
+<p>Affiliate-Provision: 30%</p>
+<p>Kein monatlicher Produktpreis.</p>
+<p>Enthalten sind unter anderem:</p>
+<p>-Excel-Cockpit</p>
+<p>-Nachichtenvorlagen</p>
+<p>-KI-Prompts</p>
+<p>-Musterauftrag</p>
+<p>-START-HIER und Anleitung</p>
+<p>-Onboarding-Video</p>
+<p>Zielgruppe: Kleine Handwerksbetriebe und Einzelunternehmer, die ihre Büroorganisation bisher mit einzelnen Dateien, Nachichten, Notizen oder einfachen Listen erledigen.</p>
+<p>Geeignet für Affiliates mit Zielgruppen rund um Handwerk, Selbstständigkeit, Digitalisierung, KI, Büroorganisation und Zeitersparnis.</p>
 
 ## 2. Links
 
@@ -76,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Handwerker KI-Büro – 30 % Provision auf 39 € Starter-Paket? — Typ: Downloads, Anbieter: handwerkerkibuero2026, gelistet seit 2026-10-04
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

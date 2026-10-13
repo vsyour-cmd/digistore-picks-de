@@ -4,34 +4,34 @@ digistore24_product_id: 634143
 title: "Freiheitssystem Masterclass"
 vendor: "online-sales"
 product_type: "Member area and video courses"
-price: 339
+price: 338.25
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 203.4
+earnings_per_sale: 202.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2025-09-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.freiheitssystem.de/gratis-liveworkshop/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53885/adminstore/"
 sales_page: "https://www.freiheitssystem.de/gratis-liveworkshop/"
 language: "de"
 ---
 # Freiheitssystem Masterclass
 
 > Product ID `53885` · Digistore24 productId `634143` · [HTML profile page](../../produkte/freiheitssystem-masterclass-53885.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $339.00 (Single payment, Installment) |
+| Price | $338.25 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $203.40 |
+| Earnings/sale* | $202.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | online-sales |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit künstlicher Intelligenz und digitalen Produkten über Social Media Geld verdienen + Fertige 1:1 Vorlagen und Templates gratis Heute noch durchstarten: ✅ Verdiene Geld nur mit deinem Handy✅ Exakte Schritt für Schritt Anleitung✅ Passive Provisionen durch KI-Tools✅ Reichweite in Rekordzeit aufbauen✅ 5-Säulen System (absolut konkurrenzlos) Bonus Inhalte: Bonus #1: 1:1 Video- und TextvorlagenBonus #…
+**Vendor's marketplace description:** <p>Mit künstlicher Intelligenz und digitalen Produkten über Social Media Geld verdienen</p>
+<p>+ Fertige 1:1 Vorlagen und Templates gratis</p>
+<p><strong>Heute noch durchstarten:</strong></p>
+<p>✅ Verdiene <strong>Geld</strong> <strong>nur mit</strong> <strong>deinem Handy</strong><br />✅ Exakte Schritt für Schritt Anleitung<br />✅ Passive <strong>Provisionen</strong> durch KI-Tools<br />✅ Reichweite in Rekordzeit aufbauen<br />✅ 5-Säulen System (absolut konkurrenzlos)</p>
+<p> </p>
+<p><strong>Bonus Inhalte:</strong></p>
+<p><strong>Bonus #1:</strong> 1:1 Video- und Textvorlagen<br /><strong>Bonus #2:</strong> Mein komplettes KI Template<br /><strong>Bonus #3:</strong> Instagram Shoutout (40.000+ Follower)</p>
+<p> </p>
+<p>Nach deiner Bestellung bekommst du <strong>dirkten Zugang</strong> zur Freiheitssystem Masterclass</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.freiheitssystem.de/gratis-liveworkshop/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53885/adminstore/
 - Sales page: https://www.freiheitssystem.de/gratis-liveworkshop/
 - Canonical redirect: https://www.digistore24.com/redir/634143/adminstore
 
@@ -66,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Freiheitssystem Masterclass? — Typ: Member area and video courses, Anbieter: online-sales, gelistet seit 2025-09-06
-- Wie viel kostet es? — 339.003912 USD
+- Wie viel kostet es? — 338.247612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

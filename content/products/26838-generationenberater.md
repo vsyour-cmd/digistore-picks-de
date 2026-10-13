@@ -4,16 +4,16 @@ digistore24_product_id: 202689
 title: "Generationenberater"
 vendor: "verkaufsbegleiter"
 product_type: "Downloads"
-price: 100.85
+price: 100.63
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 13.45
+earnings_per_sale: 13.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-02-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/202689?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/202689"
@@ -22,16 +22,16 @@ language: "de"
 # Generationenberater
 
 > Product ID `26838` · Digistore24 productId `202689` · [HTML profile page](../../produkte/generationenberater-26838.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $100.85 (Subscription) |
+| Price | $100.63 (Subscription) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $13.45 |
+| Earnings/sale* | $13.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | verkaufsbegleiter |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der GenerationenBerater bietet Ihnen die Möglichkeit individueller und flexibler Generationenberatung. Themen wie Sorgerecht, Testament, Patientenverfügung etc. können inkl. Notizen und ToDo-Listen Schritt für Schritt bearbeitet und strukturiert erledigt werden.Ebenso findet diese Anwendung als Cross-Selling-Werkzeug Verwendung, wenn es darum geht, Themen wie Altersvorsorge oder Absicherung im ges…
+**Vendor's marketplace description:** <p><strong><img src="http://www.gb-online.de/digistoreDankeSeite/digistore_GB_Preisetikett_Komplett.jpg" alt="digistore_GB_Preisetikett_Komplett.jpg" /></strong></p>
+<p><strong>Der GenerationenBerater bietet Ihnen die Möglichkeit individueller und flexibler Generationenberatung. Themen wie Sorgerecht, Testament, Patientenverfügung etc. können inkl. Notizen und ToDo-Listen Schritt für Schritt bearbeitet und strukturiert erledigt werden.</strong><br /><br /><strong>Ebenso findet diese Anwendung als Cross-Selling-Werkzeug Verwendung, wenn es darum geht, Themen wie Altersvorsorge oder Absicherung im gesamten verwandtschaftlichen Umfeld anzusprechen.</strong> <br /><br />Der Aufruf der Anwendung erfolgt auf Ihrem Rechner oder Ihrem Tablet mittels Browser-Anwendung. <br /><br /><strong>Somit steht Ihnen der GenerationenBerater als plattformunabhängige WebApp online zur Verfügung. Eine Offline-Nutzung ist ebenfalls gewährleistet.</strong></p>
+<p> </p>
+<p>Kündigungsfrist: 3 Monate vor Ablauf der 12 monatigen Laufzeit. Gilt ab Leistungsdatum lt. erster Rechnungslegung;<br /> <br />Update-/Release-Versionen im lfd. Jahr: - kostenfrei -</p>
 
 ## 2. Links
 
@@ -74,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Generationenberater? — Typ: Downloads, Anbieter: verkaufsbegleiter, gelistet seit 2018-02-20
-- Wie viel kostet es? — 100.854 USD
+- Wie viel kostet es? — 100.629 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

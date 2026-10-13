@@ -4,34 +4,34 @@ digistore24_product_id: 255194
 title: "Musik von Sayama - Richard Hiebinger"
 vendor: "sayamaapps"
 product_type: "Downloads"
-price: 18.14
+price: 18.1
 currency: "USD"
 affiliate_commission_pct: 33.3
-earnings_per_sale: 5.23
+earnings_per_sale: 5.22
 cart_conversion_pct: 3
 cancel_rate_pct: 0.88
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-01-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.sayama-music.de/cd/herzschwingungen-venus/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/32913/adminstore/"
 sales_page: "https://www.sayama-music.de/cd/herzschwingungen-venus/"
 language: "de"
 ---
 # Musik von Sayama - Richard Hiebinger
 
 > Product ID `32913` · Digistore24 productId `255194` · [HTML profile page](../../produkte/musik-von-sayama-richard-hiebinger-32913.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.14 (Single payment) |
+| Price | $18.10 (Single payment) |
 | Affiliate commission | 33.3% |
-| Earnings/sale* | $5.23 |
+| Earnings/sale* | $5.22 |
 | Cart conversion* | 3% |
 | Cancel rate* | 0.88% |
 | Vendor | sayamaapps |
@@ -41,11 +41,39 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle die einzigartige Musik von Sayama:https://www.sayama-music.de/affiliate/HOHE PROVISION von 33,3% Alben Übersicht: Jetzt Erwachen Ayurveda Ayurveda Herz Meditation Herzschwingungen: Venus Herzschwingungen: OM Herzschwingungen: Erd Herz Herzschwingungen: Trilogie Im Herzen von Shambhala Qi Gong ~ Tai Chi Heilsame Licht~Klänge Klangschalen Chakra Meditation Quelle der Entspannung und Lebensk…
+**Vendor's marketplace description:** <p><strong>Empfehle die einzigartige Musik von Sayama:<br /></strong><a href="https://www.sayama-music.de/affiliate/" target="_blank" rel="noreferrer noopener">https://www.sayama-music.de/affiliate/</a><br /><br /><strong>HOHE PROVISION</strong> von <strong>33,3%</strong></p>
+<p><strong><br />Alben Übersicht:</strong></p>
+<ul>
+<li>Jetzt Erwachen</li>
+<li>Ayurveda</li>
+<li>Ayurveda Herz Meditation</li>
+<li>Herzschwingungen: Venus</li>
+<li>Herzschwingungen: OM</li>
+<li>Herzschwingungen: Erd Herz</li>
+<li>Herzschwingungen: Trilogie</li>
+<li>Im Herzen von Shambhala</li>
+<li>Qi Gong ~ Tai Chi</li>
+<li>Heilsame Licht~Klänge</li>
+<li>Klangschalen Chakra Meditation</li>
+<li>Quelle der Entspannung und Lebenskraft</li>
+<li>Earth Sound Blessing #1</li>
+<li>Earth Sound Blessing #2</li>
+</ul>
+<p> </p>
+<p>Download in CD+MP3 Qualität:</p>
+<ul>
+<li>Hochwertige CD Qualität in 16bit/44.1kHz und 32bit/96kHz Mastering - obertonreich, transparent, räumlich</li>
+<li>MP3 Qualität in 320 kbit/s </li>
+<li>Artwork komplett mit Cover,  Booklet, Inlaycard, CD Label und allen Infos.</li>
+<li>Die Musik ist GEMA frei</li>
+<li>Inklusive Nutzungslizenz für Massagen, Yogastunden und Seminare etc.</li>
+<li><strong>CD+MP3 Qualität VK: 18,90€</strong></li>
+</ul>
+<p><br />Besuche unsere Affiliate Informationsseite - dort findest Du den Einladungslink für alle Alben und weitere Informationen:<br /><strong><a href="https://www.sayama-music.de/affiliate/" target="_blank" rel="noreferrer noopener">https://www.sayama-music.de/affiliate/</a></strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.sayama-music.de/cd/herzschwingungen-venus/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/32913/adminstore/
 - Sales page: https://www.sayama-music.de/cd/herzschwingungen-venus/
 - Vendor affiliate support: https://www.sayama-music.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/255194/adminstore
@@ -73,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Musik von Sayama - Richard Hiebinger? — Typ: Downloads, Anbieter: sayamaapps, gelistet seit 2019-01-05
-- Wie viel kostet es? — 18.142514000000002 USD
+- Wie viel kostet es? — 18.102039 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 735081
 title: "Der große Mallorca-Guide"
 vendor: "blockchainmediagroupes"
 product_type: "E-books"
-price: 13.51
+price: 13.48
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.76
+earnings_per_sale: 6.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/735081?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59415/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/735081"
 language: "de"
 ---
 # Der große Mallorca-Guide
 
 > Product ID `59415` · Digistore24 productId `735081` · [HTML profile page](../../produkte/der-gro-e-mallorca-guide-59415.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.51 (Single payment) |
+| Price | $13.48 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.76 |
+| Earnings/sale* | $6.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | blockchainmediagroupes |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der große Mallorca-Guide – Mallorca entdecken, erleben und verstehen Über 250 Seiten Mallorca pur: Der große Mallorca-Guide von Nachrichten.es ist der umfassende digitale Ratgeber für alle, die Mallorca nicht nur besuchen, sondern wirklich entdecken und verstehen möchten. Ob Urlauber, Mallorca-Liebhaber, Langzeiturlauber oder Menschen, die über ein Leben auf der Insel nachdenken – dieser Guide ver…
+**Vendor's marketplace description:** <h2>Der große Mallorca-Guide – Mallorca entdecken, erleben und verstehen</h2>
+<p><strong>Über 250 Seiten Mallorca pur:</strong> Der große Mallorca-Guide von Nachrichten.es ist der umfassende digitale Ratgeber für alle, die Mallorca nicht nur besuchen, sondern wirklich entdecken und verstehen möchten.</p>
+<p>Ob Urlauber, Mallorca-Liebhaber, Langzeiturlauber oder Menschen, die über ein Leben auf der Insel nachdenken – dieser Guide verbindet praktische Informationen, Inspiration, Insiderwissen und das besondere Lebensgefühl Mallorcas.</p>
+<p>Du liebst Spanien und hast eine Community, die sich für <strong>Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien</strong> interessiert?</p>
+<p>Dann werde <strong>Creator &amp; Influencer Partner von Nachrichten.es</strong> und empfehle unsere digitalen Spanien-Ratgeber deiner Community.</p>
+<p>Du erhältst dabei <strong>50 % Provision auf jeden erfolgreichen Verkauf</strong> über deinen persönlichen Affiliate-Link.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/735081?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59415/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/735081
 - Vendor affiliate support: https://nachrichten.es/creator-influencer-partner-von-nachrichten-es/
 - Canonical redirect: https://www.digistore24.com/redir/735081/adminstore
@@ -72,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der große Mallorca-Guide? — Typ: E-books, Anbieter: blockchainmediagroupes, gelistet seit 2026-09-20
-- Wie viel kostet es? — 13.514436000000002 USD
+- Wie viel kostet es? — 13.484286 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

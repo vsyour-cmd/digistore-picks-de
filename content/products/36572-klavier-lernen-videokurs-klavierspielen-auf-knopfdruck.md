@@ -4,16 +4,16 @@ digistore24_product_id: 323603
 title: "Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck'"
 vendor: "modernmusic"
 product_type: "Member area and video courses"
-price: 185.52
+price: 185.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 92.76
+earnings_per_sale: 92.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-04-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.modern-music.org/klavierspielen-auf-knopfdruck?aff=adminstore#aff=adminstore"
 sales_page: "https://www.modern-music.org/klavierspielen-auf-knopfdruck"
@@ -22,16 +22,16 @@ language: "de"
 # Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck'
 
 > Product ID `36572` · Digistore24 productId `323603` · [HTML profile page](../../produkte/klavier-lernen-videokurs-klavierspielen-auf-knopfdruck-36572.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.52 (Single payment, Installment) |
+| Price | $185.10 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $92.76 |
+| Earnings/sale* | $92.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | modernmusic |
@@ -41,7 +41,50 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lerne Pop Piano bis zu 10x schneller Gesamtpaket: Videokurs für Einsteiger, Wiedereinsteiger und Umsteiger vom klassischen Klavierspiel über 60 frei einteilbare Videos, mehr als 8 Stunden reine Spielzeit. Alle Vorteile auf einen Blick: Lerne Pop Piano von Grund auf spielen zu einem sensationellen Preis ​ 3-Schritt Methodik zum Erarbeiten Deiner Lieblingssongs nach Akkorden ​​ Erarbeite Klavierbegl…
+**Vendor's marketplace description:** <h3>Lerne Pop Piano bis zu 10x schneller </h3>
+<p><strong>Gesamtpaket: Videokurs für Einsteiger, Wiedereinsteiger und Umsteiger vom klassischen Klavierspiel</strong> über 60 frei einteilbare Videos, mehr als 8 Stunden reine Spielzeit.</p>
+<p> </p>
+<p><strong>Alle Vorteile auf einen Blick:</strong></p>
+<p>  </p>
+<ul>
+<li>Lerne Pop Piano von Grund auf spielen zu einem sensationellen Preis</li>
+</ul>
+<p>​</p>
+<ul>
+<li>3-Schritt Methodik zum Erarbeiten Deiner Lieblingssongs nach Akkorden</li>
+</ul>
+<p>​​</p>
+<ul>
+<li>Erarbeite Klavierbegleitungen sowie das Solo Pianospiel</li>
+</ul>
+<p>​</p>
+<ul>
+<li>Auch das Notenspiel und die Musiktheorie kommen nicht zu kurz</li>
+</ul>
+<p>​</p>
+<ul>
+<li>Von zu Hause aus, zu Deiner Zeit an Deinem Instrument lernen​</li>
+</ul>
+<p>​</p>
+<ul>
+<li>Komplettpreis für alle Videos und Noten im PDF-Format zum Download</li>
+</ul>
+<p>​</p>
+<ul>
+<li>Zusätzlich mehr als 10 Stunden ergänzende Videolektionen</li>
+</ul>
+<p>​</p>
+<ul>
+<li>Online Zugang zeitlich unbegrenzt</li>
+</ul>
+<p> </p>
+<ul>
+<li>Neu:<strong> optionales 1-zu-1 online Piano Coaching buchbar!!!</strong></li>
+</ul>
+<p> </p>
+<p>Es gibt <strong>keine</strong> Rabatte!<strong> </strong>Das Kurspaket wird um weitere wertvolle Inhalte erweitert. Der Preis wird weiter steigen.</p>
+<p><strong>Deshalb: Nutze dieses sensationelle Angebot und steige jetzt noch günstig ein!</strong></p>
+<p>Direkt nach der Bezahlung bekommst du deine Zugangsdaten per E-Mail zugeschickt und kannst sofort beginnen!</p>
 
 ## 2. Links
 
@@ -104,7 +147,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck'? — Typ: Member area and video courses, Anbieter: modernmusic, gelistet seit 2020-04-28
-- Wie viel kostet es? — 185.51533 USD
+- Wie viel kostet es? — 185.10145500000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

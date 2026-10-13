@@ -4,16 +4,16 @@ digistore24_product_id: 409253
 title: "COOK HEALTHY WITH DONA"
 vendor: "Liridonasuljevic"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.19
+earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://stayhealthywithdona.com/cook-healthy-with-dona?aff=adminstore#aff=adminstore"
 sales_page: "https://stayhealthywithdona.com/cook-healthy-with-dona"
@@ -22,16 +22,16 @@ language: "de"
 # COOK HEALTHY WITH DONA
 
 > Product ID `38130` · Digistore24 productId `409253` · [HTML profile page](../../produkte/cook-healthy-with-dona-38130.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.19 |
+| Earnings/sale* | $5.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Liridonasuljevic |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "COOK HEALTHY WITH DONA" (lowcarb/keto) ✔️Abnehmen OHNE verzicht ✔️Gratis Lipödem Downloads ✔️48 Seiten kreative Ideen, die dir deine LowCarb Küche sofort vereinfachen ✔️integrierte Einkauflinks direkt zu den verwendeten Produkten ✔️ Zwei Beispielstage "FULL DAY OF EATING"
+**Vendor's marketplace description:** <p><strong>"COOK HEALTHY WITH DONA" </strong>(lowcarb/keto)</p>
+<p> </p>
+<p>✔️Abnehmen OHNE verzicht</p>
+<p>✔️Gratis <strong>Lipödem Downloads</strong></p>
+<p>✔️48 Seiten <strong>kreative </strong><strong>Ideen</strong>, die dir deine LowCarb Küche sofort vereinfachen</p>
+<p>✔️integrierte <strong>Einkauflinks</strong> direkt zu den verwendeten Produkten</p>
+<p>✔️ Zwei Beispielstage "FULL DAY OF EATING"</p>
 
 ## 2. Links
 
@@ -58,7 +64,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist COOK HEALTHY WITH DONA? — Typ: E-books, Anbieter: Liridonasuljevic, gelistet seit 2021-09-25
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

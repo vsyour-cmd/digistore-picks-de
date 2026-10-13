@@ -4,34 +4,34 @@ digistore24_product_id: 569953
 title: "Cash Connect + E-Mail Funnel"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 880.47
+price: 878.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 87
+earnings_per_sale: 86.81
 cart_conversion_pct: 5
 cancel_rate_pct: 5.86
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-09-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.cashconnect.online/Mailkampagne/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47099/adminstore/"
 sales_page: "https://www.cashconnect.online/Mailkampagne/"
 language: "de"
 ---
 # Cash Connect + E-Mail Funnel
 
 > Product ID `47099` · Digistore24 productId `569953` · [HTML profile page](../../produkte/cash-connect-e-mail-funnel-47099.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $880.47 (Single payment, Installment) |
+| Price | $878.50 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $87.00 |
+| Earnings/sale* | $86.81 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.86% |
 | Vendor | AndreasLang |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Unsere Plattform Affiliateking.net – nutze sie, um zusätzlich zu den Provisionen saftige Zusatzeinnahmen zu kassieren. Hier direkt zur Partnerseite + Werbemittel - klick Außerdem gibt es eine Rangliste mit Awards und weiteren Vorteilen. Hier die aktuelle Rangliste - klick Eventuell stehst du schon drauf, ohne dass du es weißt – prüfe es also schnell ;-)
+**Vendor's marketplace description:** <h3><strong>Unsere Plattform <a href="https://affiliateking.net/" target="_blank" rel="noreferrer noopener">Affiliateking.net</a> – nutze sie, um zusätzlich zu den Provisionen saftige Zusatzeinnahmen zu kassieren.<br /></strong></h3>
+<hr />
+<h4><br /><a href="https://affiliateking.net/" target="_blank" rel="noreferrer noopener"><strong>Hier direkt zur Partnerseite + Werbemittel - klick</strong></a></h4>
+<h4>Außerdem gibt es eine Rangliste mit Awards und weiteren Vorteilen.</h4>
+<h4><a href="https://affiliateking.net/wettbewerb" target="_blank" rel="noreferrer noopener"><strong>Hier die aktuelle Rangliste - klick</strong></a></h4>
+<h4>Eventuell stehst du schon drauf, ohne dass du es weißt – prüfe es also schnell ;-)</h4>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.cashconnect.online/Mailkampagne/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47099/adminstore/
 - Sales page: https://www.cashconnect.online/Mailkampagne/
 - Vendor affiliate support: https://affiliateking.net/
 - Canonical redirect: https://www.digistore24.com/redir/569953/adminstore
@@ -67,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cash Connect + E-Mail Funnel? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-11
-- Wie viel kostet es? — 880.466626 USD
+- Wie viel kostet es? — 878.5023510000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

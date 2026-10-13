@@ -4,34 +4,34 @@ digistore24_product_id: 724354
 title: "ContentPlan 30"
 vendor: "rs-onlineagentur"
 product_type: "Software"
-price: 18.74
+price: 18.69
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.5
+earnings_per_sale: 7.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/724354?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58631/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/724354"
 language: "de"
 ---
 # ContentPlan 30
 
 > Product ID `58631` · Digistore24 productId `724354` · [HTML profile page](../../produkte/contentplan-30-58631.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $18.74 (Single payment) |
+| Price | $18.69 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.50 |
+| Earnings/sale* | $7.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ContentPlan 30 nimmt dir einen großen Teil der täglichen Content-Arbeit für Pinterest ab. Statt nur Themenvorschläge oder allgemeine Ideen zu bekommen, erhältst du für jeden Tag einen konkret ausgearbeiteten Pin. Dazu gehören ein neugierig machender Hook, der Text für die Pin-Grafik, ein Pinterest-Titel, eine fertige Pinterest-Beschreibung, ein passender Call-to-Action, Alt-Text, relevante Suchbeg…
+**Vendor's marketplace description:** <p><strong>ContentPlan 30</strong> nimmt dir einen großen Teil der täglichen Content-Arbeit für Pinterest ab.</p>
+<p>Statt nur Themenvorschläge oder allgemeine Ideen zu bekommen, erhältst du für jeden Tag einen konkret ausgearbeiteten Pin.</p>
+<p>Dazu gehören ein neugierig machender Hook, der Text für die Pin-Grafik, ein Pinterest-Titel, eine fertige Pinterest-Beschreibung, ein passender Call-to-Action, Alt-Text, relevante Suchbegriffe und eine leicht umsetzbare Bildidee.</p>
+<p>Die Hooks sollen nicht nach typischen Standard-Pins klingen. ContentPlan 30 erstellt unterschiedliche Varianten und versucht, Neugier zu erzeugen, ohne falsche Versprechen oder künstliches Clickbait zu verwenden.</p>
+<p>Du kannst komplette Pläne speichern und später wieder öffnen. Einzelne Pins lassen sich verbessern oder neu erstellen. Bereits vorhandene Inhalte kannst du kopieren, bearbeiten und weiterverwenden.</p>
+<p>Zusätzlich kannst du aus einem Pin eine Pinterest-Grafik im Hochformat erstellen und als PNG verwenden. Die Gestaltung basiert auf einfachen Vorlagen, damit die Pins übersichtlich und gut lesbar bleiben.</p>
+<p>ContentPlan 30 richtet sich besonders an Anfänger, Selbstständige, Creator und Online-Marketer, die Pinterest nutzen möchten, aber nicht jeden Tag überlegen wollen, was sie veröffentlichen sollen.</p>
+<p>Im Basic-Tarif kannst du pro Monat bis zu 2 neue 30-Tage-Pläne erstellen und bis zu 10 zusätzliche KI-Aktionen nutzen. Bereits erstellte Inhalte bleiben verfügbar und können weiter geöffnet, bearbeitet und kopiert werden.</p>
+<p>ContentPlan 30 ist eine unterstützende Software. Die Anwendung kann dir die Content-Erstellung erleichtern, garantiert jedoch keine bestimmten Reichweiten, Klickzahlen, Verkäufe oder Einnahmen.</p>
+<p>Der Zugang erfolgt online über deinen persönlichen Benutzeraccount.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724354?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58631/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/724354
 - Vendor affiliate support: https://rita-scheer.de/affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/724354/adminstore
@@ -75,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ContentPlan 30? — Typ: Software, Anbieter: rs-onlineagentur, gelistet seit 2026-08-24
-- Wie viel kostet es? — 18.736432 USD
+- Wie viel kostet es? — 18.694632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 528752
 title: "Mindset Shift Abnehmen - health-generation Mindset-Training"
 vendor: "Josef85"
 product_type: "Member area and video courses"
-price: 138.43
+price: 138.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 69.22
+earnings_per_sale: 69.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-12-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://academy.health-generation.com/abnehmen-coaching?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46377/adminstore/"
 sales_page: "https://academy.health-generation.com/abnehmen-coaching"
 language: "de"
 ---
 # Mindset Shift Abnehmen - health-generation Mindset-Training
 
 > Product ID `46377` · Digistore24 productId `528752` · [HTML profile page](../../produkte/mindset-shift-abnehmen-health-generation-mindset-training-46377.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $138.43 (Single payment) |
+| Price | $138.12 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $69.22 |
+| Earnings/sale* | $69.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Josef85 |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle unsere Mindset Programme von health-generation und verdiene an allen weiteren Upsells/Cross-Sells! Deine Vorteile: --> Hohe Provisionen von 55% für alle Produkte im Bereich zwischen 7-200 Euro --> Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren hochoptimierten Segmentierungs-Verkaufsfunneln --> Schneller und professioneller Support durch unseren Affiliate-Manager Nach dem…
+**Vendor's marketplace description:** <h4><strong>Empfehle unsere Mindset Programme von health-generation und verdiene an allen weiteren Upsells/Cross-Sells!</strong></h4>
+<div>
+<p><strong>Deine Vorteile:</strong></p>
+<p>--&gt; Hohe Provisionen von <strong>55%</strong> für alle Produkte im Bereich zwischen 7-200 Euro</p>
+<p>--&gt; Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren <strong>hochoptimierten Segmentierungs-Verkaufsfunneln </strong></p>
+<p>--&gt; Schneller und professioneller Support durch unseren Affiliate-Manager</p>
+<p> </p>
+<p>Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt.</p>
+<p>Du erhältst Provisionen für jeden weiteren Verkauf!</p>
+<p>Melde dich jetzt als Affiliate an und baue dir ein passives Einkommen auf.</p>
+<p>Auf eine erfolgreiche Aktion!</p>
+<p>health-generation ist <strong>Experte für Mental Coaching &amp; Hypnose</strong>. Mit allen Programmen kannst du jederzeit höchste menschliche Erfahrungen machen. Diese Erfahrungen können deine Selbstheilungskräfte aktivieren, inneres Glück &amp; Frieden freisetzen, deine Weltsicht transformieren, dich von Ängsten befreien oder dich zum erreichen deiner Ziele, Wünsche und Ideale befähigen.</p>
+<p>Beste Grüße,<br />Josef Kryenbuehl von health-geneation</p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://academy.health-generation.com/abnehmen-coaching?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46377/adminstore/
 - Sales page: https://academy.health-generation.com/abnehmen-coaching
 - Vendor affiliate support: https://health-generation.com/affiliate-support-seite-healthgeneration/
 - Canonical redirect: https://www.digistore24.com/redir/528752/adminstore
@@ -96,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mindset Shift Abnehmen - health-generation Mindset-Training? — Typ: Member area and video courses, Anbieter: Josef85, gelistet seit 2023-12-07
-- Wie viel kostet es? — 138.427718 USD
+- Wie viel kostet es? — 138.118893 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

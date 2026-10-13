@@ -4,16 +4,16 @@ digistore24_product_id: 584114
 title: "Die 12 Musik-Frequenzen als Medizin"
 vendor: "Musik-Apotheke"
 product_type: "Downloads"
-price: 54.46
+price: 54.34
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 14.74
+earnings_per_sale: 14.7
 cart_conversion_pct: 15
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2024-12-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.compose-media.de/die-12-musik-frequenzen-als-medizin/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.compose-media.de/die-12-musik-frequenzen-als-medizin/"
@@ -22,16 +22,16 @@ language: "de"
 # Die 12 Musik-Frequenzen als Medizin
 
 > Product ID `28964` · Digistore24 productId `584114` · [HTML profile page](../../produkte/die-12-musik-frequenzen-als-medizin-28964.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $54.46 (Single payment) |
+| Price | $54.34 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $14.74 |
+| Earnings/sale* | $14.70 |
 | Cart conversion* | 15% |
 | Cancel rate* | 0% |
 | Vendor | Musik-Apotheke |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die 12 Musik-Frequenzen als Medizin „Die Medizin der Zukunft wird eine Medizin der Frequenzen sein!“ Zitat von Albert Einstein ⇒ 12 Titel in einem Paket (MP3) – Laufzeit insgesamt 2 Stunden, 19 Minuten und 12 Sekunden Verkaufspreis: 48,00 Euro Du verdienst 30 % Provision. Wir freuen uns auf Dich! Herzliche Grüße!
+**Vendor's marketplace description:** <h3>Die 12 Musik-Frequenzen als Medizin</h3>
+<div>
+<p> </p>
+<p><strong>„Die Medizin der Zukunft wird eine Medizin der Frequenzen sein!“ </strong><em>Zitat von Albert Einstein</em></p>
+<p> </p>
+<p>⇒ 12 Titel in einem Paket (MP3) – Laufzeit insgesamt 2 Stunden, 19 Minuten und 12 Sekunden</p>
+<p><strong>Verkaufspreis:</strong> <strong>48,00 Euro</strong></p>
+</div>
+<p>Du verdienst 30 % Provision.</p>
+<p>Wir freuen uns auf Dich!</p>
+<p>Herzliche Grüße!</p>
+<p> </p>
 
 ## 2. Links
 
@@ -82,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 12 Musik-Frequenzen als Medizin? — Typ: Downloads, Anbieter: Musik-Apotheke, gelistet seit 2024-12-04
-- Wie viel kostet es? — 54.46116000000001 USD
+- Wie viel kostet es? — 54.33966000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

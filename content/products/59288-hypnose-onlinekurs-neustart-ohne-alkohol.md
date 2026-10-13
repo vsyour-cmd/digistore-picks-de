@@ -4,16 +4,16 @@ digistore24_product_id: 488220
 title: "Hypnose-Onlinekurs Neustart Ohne Alkohol"
 vendor: "petanthony"
 product_type: "Member area and video courses"
-price: 140.31
+price: 140
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 35.07
+earnings_per_sale: 35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://shop.petanthony.com/online-kurse_neustart-ohne-alkohol_DS/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.petanthony.com/online-kurse_neustart-ohne-alkohol_DS/"
@@ -22,16 +22,16 @@ language: "de"
 # Hypnose-Onlinekurs Neustart Ohne Alkohol
 
 > Product ID `59288` · Digistore24 productId `488220` · [HTML profile page](../../produkte/hypnose-onlinekurs-neustart-ohne-alkohol-59288.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.31 (Single payment) |
+| Price | $140.00 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $35.07 |
+| Earnings/sale* | $35.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | petanthony |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit diesem Hypnose-Onlinekurs von Pet Anthony befreist Du Dich von Deinem Hang zum Alkohol und genießt Dein Leben in Gesundeheit und Freiheit. Dieser 5-wöchige Kurs enthält 3 spezielle Hypnosen und inkludiert eine 4-wöchige Nachbetreuung per e-mail. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich…
+**Vendor's marketplace description:** <p>Mit diesem Hypnose-Onlinekurs von Pet Anthony befreist Du Dich von Deinem Hang zum Alkohol und genießt Dein Leben in Gesundeheit und Freiheit.</p>
+<p>Dieser 5-wöchige Kurs enthält 3 spezielle Hypnosen und inkludiert eine 4-wöchige Nachbetreuung per e-mail. </p>
+<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
 
 ## 2. Links
 
@@ -66,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose-Onlinekurs Neustart Ohne Alkohol? — Typ: Member area and video courses, Anbieter: petanthony, gelistet seit 2026-09-16
-- Wie viel kostet es? — 140.310326 USD
+- Wie viel kostet es? — 139.997301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

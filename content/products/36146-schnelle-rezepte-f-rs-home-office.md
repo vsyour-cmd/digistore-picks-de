@@ -4,16 +4,16 @@ digistore24_product_id: 379290
 title: "Schnelle Rezepte fürs Home-Office"
 vendor: "avocadooo"
 product_type: "E-books"
-price: 15.61
+price: 15.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.81
+earnings_per_sale: 7.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-03-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/379290/adminstore"
 sales_page: "https://www.avocadooo.de/ebooks/ebook-schnelle-rezepte-fuers-home-office/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,16 +22,16 @@ language: "de"
 # Schnelle Rezepte fürs Home-Office
 
 > Product ID `36146` · Digistore24 productId `379290` · [HTML profile page](../../produkte/schnelle-rezepte-f-rs-home-office-36146.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.61 (Single payment) |
+| Price | $15.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.81 |
+| Earnings/sale* | $7.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | avocadooo |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Als Affiliate bekommst du 50% Provision! Das tägliche Kochen im Home-Office ist ein brandaktuelles Thema. Das EBook (58 Seiten) enthält 40 Rezepte, jeweils mit Foto und Nährwertangabe. Außerdem gibt es Tipps&Tricks für ein leichtes (Koch-)Leben. Die Rezepte sind schnell zubereitet (max. 30 min.) glutenfrei ohne Zucker voller Nährstoffe ungewöhnlich vorwiegend vegetarisch, leicht in eine vegane For…
+**Vendor's marketplace description:** <p><strong>Als Affiliate bekommst du 50% Provision!</strong></p>
+<p>Das tägliche Kochen im Home-Office ist ein brandaktuelles Thema.</p>
+<p>Das EBook (58 Seiten) enthält <strong>40 Rezepte</strong>, jeweils mit Foto und Nährwertangabe. Außerdem gibt es Tipps&amp;Tricks für ein leichtes (Koch-)Leben. </p>
+<p>Die Rezepte sind</p>
+<ul>
+<li>schnell zubereitet (max. 30 min.)</li>
+<li>glutenfrei</li>
+<li>ohne Zucker</li>
+<li>voller Nährstoffe</li>
+<li>ungewöhnlich</li>
+<li>vorwiegend vegetarisch, leicht in eine vegane Form abwandelbar</li>
+<li>kindergeeigent, da Gemüse versteckt und vor allem mit Obst gesüßt wird</li>
+</ul>
+<p>Das EBook kostet €14,90.</p>
+<p>Du bekommst für jeden Verkauf des EBooks über deinen Affiliate-Link €5,87.</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -77,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schnelle Rezepte fürs Home-Office? — Typ: E-books, Anbieter: avocadooo, gelistet seit 2021-03-16
-- Wie viel kostet es? — 15.609958 USD
+- Wie viel kostet es? — 15.575133000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

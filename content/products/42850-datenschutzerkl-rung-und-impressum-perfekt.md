@@ -4,16 +4,16 @@ digistore24_product_id: 461891
 title: "Datenschutzerklärung und Impressum perfekt"
 vendor: "Interev"
 product_type: "Downloads"
-price: 220.76
+price: 220.27
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 22.08
+earnings_per_sale: 22.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-09-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://dsgvo-erklärung.de?aff=adminstore#aff=adminstore"
 sales_page: "https://dsgvo-erklärung.de"
@@ -22,16 +22,16 @@ language: "de"
 # Datenschutzerklärung und Impressum perfekt
 
 > Product ID `42850` · Digistore24 productId `461891` · [HTML profile page](../../produkte/datenschutzerkl-rung-und-impressum-perfekt-42850.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $220.76 (Single payment) |
+| Price | $220.27 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $22.08 |
+| Earnings/sale* | $22.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Interev |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Due vermittelst mit diesem Produkt eine rechtskonforme Datenschutzerklärung inkl. Impressum. Wir erstellen diese individuell und als Experte. Die Käufer haben die Möglichkeit eine permanente Aktualisdierung dazu zu buchen.
+**Vendor's marketplace description:** <p>Due vermittelst mit diesem Produkt eine rechtskonforme Datenschutzerklärung inkl. Impressum. Wir erstellen diese individuell und als Experte. Die Käufer haben die Möglichkeit eine permanente Aktualisdierung dazu zu buchen.</p>
 
 ## 2. Links
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Datenschutzerklärung und Impressum perfekt? — Typ: Downloads, Anbieter: Interev, gelistet seit 2022-09-24
-- Wie viel kostet es? — 220.75820000000002 USD
+- Wie viel kostet es? — 220.2657 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

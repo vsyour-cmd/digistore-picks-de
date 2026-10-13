@@ -4,7 +4,7 @@ digistore24_product_id: 438049
 title: "eBook Jagdpraxis zur Vorbereitung auf Jägerprüfung"
 vendor: "BenediktAltrogge"
 product_type: "E-books"
-price: 5.22
+price: 5.21
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.04
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2022-04-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/438049?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/438049"
@@ -22,14 +22,14 @@ language: "de"
 # eBook Jagdpraxis zur Vorbereitung auf Jägerprüfung
 
 > Product ID `40424` · Digistore24 productId `438049` · [HTML profile page](../../produkte/ebook-jagdpraxis-zur-vorbereitung-auf-j-gerpr-fung-40424.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.22 (Single payment) |
+| Price | $5.21 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.04 |
 | Cart conversion* | — |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Alle Inhalte zur Vorbereitung auf die Jägerprüfung.Zusammengefasst als eBook auf 125 SeitenEinfach zu lesen, reichlich bebildert.Die ideale Ergänzung zu bestehenden Lernmedien. Zum lernen, nachschlagen, Wissen vertiefen oder auffrischen.Versand als PDF.
+**Vendor's marketplace description:** <p><strong>Alle Inhalte zur Vorbereitung auf die Jägerprüfung.<br />Zusammengefasst als eBook auf 125 Seiten<br />Einfach zu lesen, reichlich bebildert.<br />Die ideale Ergänzung zu bestehenden Lernmedien. Zum lernen, nachschlagen, Wissen vertiefen oder auffrischen.<br />Versand als PDF.</strong></p>
 
 ## 2. Links
 
@@ -72,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook Jagdpraxis zur Vorbereitung auf Jägerprüfung? — Typ: E-books, Anbieter: BenediktAltrogge, gelistet seit 2022-04-08
-- Wie viel kostet es? — 5.221996000000001 USD
+- Wie viel kostet es? — 5.210346 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

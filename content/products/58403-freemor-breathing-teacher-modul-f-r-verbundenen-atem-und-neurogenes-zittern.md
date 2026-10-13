@@ -4,34 +4,34 @@ digistore24_product_id: 663323
 title: "Freemor Breathing® — Teacher Modul für verbundenen Atem und neurogenes Zittern"
 vendor: "BeamdreamBreathworks"
 product_type: "Member area and video courses"
-price: 480.26
+price: 479.18
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 48.03
+earnings_per_sale: 47.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.beamdream.com/freemor-breathing-teacher-modul?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58403/adminstore/"
 sales_page: "https://www.beamdream.com/freemor-breathing-teacher-modul"
 language: "de"
 ---
 # Freemor Breathing® — Teacher Modul für verbundenen Atem und neurogenes Zittern
 
 > Product ID `58403` · Digistore24 productId `663323` · [HTML profile page](../../produkte/freemor-breathing-teacher-modul-f-r-verbundenen-atem-und-neurogenes-zittern-58403.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $480.26 (Single payment, Installment) |
+| Price | $479.18 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $48.03 |
+| Earnings/sale* | $47.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BeamdreamBreathworks |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die einzige Ausbildung in einer Methode, die es ausschließlich bei Beamdream Breathworks gibt: verbundener Atem kombiniert mit neurogenem Zittern. Über 4 Stunden Videomaterial: Zwei geführte Selbsterfahrungssessions Umfassendes PDF-Skript zu Neurobiologie und Praxis Einführungsvideos und Materialien für die eigene professionelle Anwendung Literaturliste 6 Monate kostenfreie Mitgliedschaft im Teach…
+**Vendor's marketplace description:** <p><strong>Die einzige Ausbildung in einer Methode, die es ausschließlich bei Beamdream Breathworks gibt: verbundener Atem kombiniert mit neurogenem Zittern.</strong></p>
+<p>Über 4 Stunden Videomaterial:</p>
+<ul>
+<li>Zwei geführte Selbsterfahrungssessions</li>
+<li>Umfassendes PDF-Skript zu Neurobiologie und Praxis</li>
+<li>Einführungsvideos und Materialien für die eigene professionelle Anwendung</li>
+<li>Literaturliste</li>
+<li>6 Monate kostenfreie Mitgliedschaft im Teacher Tribe</li>
+</ul>
+<p><strong>Für wen:</strong> Menschen mit abgeschlossener Beambreath®- oder vergleichbarer Breathwork-Ausbildung, die somatische Entladung und Nervensystemregulation vertiefen wollen.</p>
+<p><strong>Warum es konvertiert:</strong> 490 € oder in Raten (3 x 165 € / 6 x 85 €). Offizielles Zertifikat als Freemor Breathing® Facilitator, keine Prüfung nötig. Alleinstellungsmerkmal: Die Methode ist nirgendwo sonst erhältlich.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.beamdream.com/freemor-breathing-teacher-modul?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58403/adminstore/
 - Sales page: https://www.beamdream.com/freemor-breathing-teacher-modul
 - Canonical redirect: https://www.digistore24.com/redir/663323/adminstore
 
@@ -96,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Freemor Breathing® — Teacher Modul für verbundenen Atem und neurogenes Zittern? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-08-16
-- Wie viel kostet es? — 480.255542 USD
+- Wie viel kostet es? — 479.184117 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

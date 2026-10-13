@@ -4,16 +4,16 @@ digistore24_product_id: 607630
 title: "Profistarter Kurs: Fahrzeug-Beauty Consultant"
 vendor: "jan133"
 product_type: "Member area and video courses"
-price: 183.63
+price: 183.22
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 64.27
+earnings_per_sale: 64.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-04-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.profistarter.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.profistarter.de"
@@ -22,16 +22,16 @@ language: "de"
 # Profistarter Kurs: Fahrzeug-Beauty Consultant
 
 > Product ID `52112` · Digistore24 productId `607630` · [HTML profile page](../../produkte/profistarter-kurs-fahrzeug-beauty-consultant-52112.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $183.63 (Single payment, Installment) |
+| Price | $183.22 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $64.27 |
+| Earnings/sale* | $64.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jan133 |
@@ -41,7 +41,84 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Profistarter Kurs: Schnelle Kratzerbeseitigung, Lackkorrektur, Scheinwerferaufbereitung & Lackveredelung Fahrzeug-Beauty Consultant – Onlinekurs mit Zertifikat Kursüberblick:In diesem Kurs lernst du die professionelle Fahrzeugaufbereitung mit Fokus auf: Schnelle Kratzerentfernung Lackkorrektur Scheinwerferaufbereitung Lackveredelung Alle Inhalte sind leicht verständlich und Schritt für Schritt erk…
+**Vendor's marketplace description:** <div>
+<p><strong><u>Profistarter Kurs:</u></strong></p>
+<p>Schnelle Kratzerbeseitigung, Lackkorrektur, Scheinwerferaufbereitung &amp; Lackveredelung</p>
+<p><strong>Fahrzeug-Beauty Consultant – Onlinekurs mit Zertifikat</strong></p>
+<p><strong>Kursüberblick:</strong><br />In diesem Kurs lernst du die professionelle Fahrzeugaufbereitung mit Fokus auf:</p>
+<ul>
+<li>
+<p>Schnelle Kratzerentfernung</p>
+</li>
+<li>
+<p>Lackkorrektur</p>
+</li>
+<li>
+<p>Scheinwerferaufbereitung</p>
+</li>
+<li>
+<p>Lackveredelung</p>
+</li>
+</ul>
+<p>Alle Inhalte sind leicht verständlich und Schritt für Schritt erklärt. Ideal zum direkten Nachmachen – auch ohne Vorerfahrung.<br /><br /></p>
+<p><strong>Das ist enthalten:</strong></p>
+<ul>
+<li>
+<p>Klare und praxiserprobte Anleitungen</p>
+</li>
+<li>
+<p>Alle bewährten Vorlagen direkt zum Einsatz</p>
+</li>
+<li>
+<p>Strukturiertes Vorgehen für jede Anwendung</p>
+</li>
+<li>
+<p>Bonus: Marketingstrategien für Kundengewinnung in den ersten 10 Tagen</p>
+</li>
+<li>
+<p>Geschäftliche Vorlagen, Checklisten und Zugang zu Fördermittel-Listen</p>
+</li>
+<li>
+<p>Material- und Gerätelisten aus der Praxis</p>
+</li>
+</ul>
+<p><strong>Zugang &amp; Extras:</strong></p>
+<ul>
+<li>
+<p>Mindestens 48 Monate Kurszugriff</p>
+</li>
+<li>
+<p><strong>Update-Garantie:</strong> Alle zukünftigen Erweiterungen sind inklusive</p>
+</li>
+<li>
+<p>Zertifikat: Du erhältst nach Abschluss dein persönliches Kurszertifikat „<strong>Fahrzeug-Beauty Consultant“</strong><br /><br /></p>
+</li>
+</ul>
+<p><strong>Perfekt für:</strong><br />Einsteiger, mobile Aufbereiter, Werkstätten und Selbstständige, die ihr Angebot professionell erweitern wollen.</p>
+</div>
+<div>
+<div>
+<div>
+<p>Direkt nach einer Buchung werden die Zugangsdaten für alle Inhalte vom Kurs automatisch versendet und du kannst sofort beginnen.</p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<p><strong>Nutze jetzt für unsere begrenzte</strong></p>
+<p><strong>Feedback-Aktion* den Code</strong><strong>"SB-2025"</strong><strong> und spare für kurze Zeit 50%. Zahle</strong><del><strong> statt 194</strong></del><strong> €</strong></p>
+<p><strong>NUR 97 €</strong></p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<p>Gib dazu den CODE in das "Rabattcode" Feld ein und der Betrag wird automatisch vom Normalpreis abgezogen.</p>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -92,7 +169,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Profistarter Kurs: Fahrzeug-Beauty Consultant? — Typ: Member area and video courses, Anbieter: jan133, gelistet seit 2025-04-15
-- Wie viel kostet es? — 183.632722 USD
+- Wie viel kostet es? — 183.223047 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

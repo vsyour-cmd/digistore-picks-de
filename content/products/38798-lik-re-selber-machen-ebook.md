@@ -4,16 +4,16 @@ digistore24_product_id: 423293
 title: "Liköre selber machen - EBook"
 vendor: "alchef12"
 product_type: "E-books"
-price: 8.37
+price: 8.35
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 5.02
+earnings_per_sale: 5.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2022-01-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://likoere-selber-herstellen.de/likoere-selber-machen-mein-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://likoere-selber-herstellen.de/likoere-selber-machen-mein-ebook/"
@@ -22,16 +22,16 @@ language: "de"
 # Liköre selber machen - EBook
 
 > Product ID `38798` · Digistore24 productId `423293` · [HTML profile page](../../produkte/lik-re-selber-machen-ebook-38798.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.37 (Single payment) |
+| Price | $8.35 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $5.02 |
+| Earnings/sale* | $5.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | alchef12 |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses EBook ist der perfekte Einstieg in die Welt der Liköre. Auf 164 Seiten wird man Schritt für Schritt in die Likörherstellung eingeführt. Geeignet für Anfänger und Fortgeschrittene! Ich verkaufe das EBook über meine Website, freue mich aber über jeden Affiliate. Für jeden vermittelten Verkauf gibt es 60% Provision. Für weitere Infos zum Produkt siehe Verkaufsseite. Bei weiteren Fragen einfach…
+**Vendor's marketplace description:** <p>Dieses EBook ist der perfekte Einstieg in die Welt der Liköre. </p>
+<p>Auf 164 Seiten wird man Schritt für Schritt in die Likörherstellung eingeführt. </p>
+<p>Geeignet für Anfänger und Fortgeschrittene! </p>
+<p>Ich verkaufe das EBook über meine Website, freue mich aber über jeden Affiliate. </p>
+<p>Für jeden vermittelten Verkauf gibt es 60% Provision. </p>
+<p>Für weitere Infos zum Produkt siehe Verkaufsseite. </p>
+<p>Bei weiteren Fragen einfach mich kontaktieren. </p>
 
 ## 2. Links
 
@@ -79,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Liköre selber machen - EBook? — Typ: E-books, Anbieter: alchef12, gelistet seit 2022-01-05
-- Wie viel kostet es? — 8.370882 USD
+- Wie viel kostet es? — 8.352207 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

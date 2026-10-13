@@ -7,13 +7,13 @@ product_type: "Member area and video courses"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 9.78
+earnings_per_sale: 9.76
 cart_conversion_pct: 23
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-03-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/geldmaschine-chat-gpt/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/geldmaschine-chat-gpt/"
@@ -22,7 +22,7 @@ language: "de"
 # Chat GPT - Dein KI Geldmaschine
 
 > Product ID `47392` · Digistore24 productId `542502` · [HTML profile page](../../produkte/chat-gpt-dein-ki-geldmaschine-47392.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $9.78 |
+| Earnings/sale* | $9.76 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe den Kurs: Chat GPT - Deine KI Geldmaschine Das bekommt Deine Community: ✅ Rocke Chat GPT mit den besten Insider Tipps! ✅ Alles was Du wissen musst über Chat GPT ✅ Geldmaschine Chat GPT! So gehts... Sehr gute Conversion: Deine Community bekommt den YouTube Kurs + 3 Kurse Geschenkt und Du verdienst am Upsell Prozess (YouTube und KI Produkte) bis zu 137 Euro
+**Vendor's marketplace description:** <p><strong>Bewerbe den Kurs: Chat GPT - Deine KI Geldmaschine</strong></p>
+<p> </p>
+<p><span style="background-color:#ffff00;"><strong>Das bekommt Deine Community:</strong></span></p>
+<p><strong>✅ Rocke Chat GPT mit den besten Insider Tipps! </strong></p>
+<p><strong>✅ Alles was Du wissen musst über Chat GPT</strong></p>
+<p><strong>✅ Geldmaschine Chat GPT! So gehts...</strong></p>
+<p> </p>
+<p><span style="background-color:#ffff00;"><strong>Sehr gute Conversion:</strong></span></p>
+<p><strong>Deine Community bekommt den YouTube Kurs + 3 Kurse Geschenkt und Du verdienst am Upsell Prozess (YouTube und KI Produkte) bis zu 137 Euro</strong></p>
 
 ## 2. Links
 

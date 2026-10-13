@@ -4,16 +4,16 @@ digistore24_product_id: 228291
 title: "Acrylic Pouring 1X1 E-Book - Atemberaubende Fließkunst!"
 vendor: "Maxruebensal"
 product_type: "Downloads"
-price: 14.13
+price: 14.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.24
+earnings_per_sale: 4.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2018-06-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://blog.maxruebensal.com/acrylic-pouring-1x1/?aff=adminstore#aff=adminstore"
 sales_page: "http://blog.maxruebensal.com/acrylic-pouring-1x1/"
@@ -22,16 +22,16 @@ language: "de"
 # Acrylic Pouring 1X1 E-Book - Atemberaubende Fließkunst!
 
 > Product ID `26756` · Digistore24 productId `228291` · [HTML profile page](../../produkte/acrylic-pouring-1x1-e-book-atemberaubende-flie-kunst-26756.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.13 (Single payment) |
+| Price | $14.10 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.24 |
+| Earnings/sale* | $4.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Maxruebensal |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Acrylic Pouring 1X1 - E-Book ist der perfekte Einstieg für Hobbykünstler und Fortgeschrittene in die neue Welt des Acrylic Pourings! Hier lernen sie die erfolgreiche Anwendung der Farben-Fließtechnik, die im letzten Jahr einen regelrechten Hype erfahren hat. Thema: Zeitgenössische Kunst, DIY, Handwerken, Acrylic Pouring, Dekoration, Design, Crafts, Kunterbunte Farben, UpcyclingZielgruppe: Insb…
+**Vendor's marketplace description:** <p><em><strong>Das Acrylic Pouring 1X1 - E-Book ist der perfekte Einstieg für Hobbykünstler und Fortgeschrittene in die neue Welt des Acrylic Pourings! Hier lernen sie die erfolgreiche Anwendung der Farben-Fließtechnik, die im letzten Jahr einen regelrechten Hype erfahren hat.</strong></em></p>
+<p><em>Thema</em>: Zeitgenössische Kunst, DIY, Handwerken, Acrylic Pouring, Dekoration, Design, Crafts, Kunterbunte Farben, Upcycling<br /><br /><em>Zielgruppe</em>: Insbesondere Neulinge in der Fließkunst aus dem Handwerken / Upcycling und DIY-Bereich.</p>
+<p><em>Inhalt</em> des über 60-seitigen Ebook:</p>
+<ul><li>Alle notwendigen Materialien, Hacks und Tools für die besten Resultate</li>
+<li>Acrylic Pouring verstehen und richtig umsetzen</li>
+<li>Leicht verständliche Schritt-für-Schritt Anleitungen zum Mischen und der richtigen Konsistenz</li>
+<li>Detailierte Beschreibungen zu allen Techniken wie z.B. Swipe, Dirty Pour, Flip-Cup, etc.</li>
+<li>Wirkungsvolle Lösungen für gängige Fehlerquellen</li>
+<li>Exklusive Tipps &amp; Tricks für bessere Pours und den 'besonderen Touch'</li>
+</ul><p>Das E-Book ist für jeden geeignet und setzt <strong>keinerlei Vorkenntnisse </strong>im Pouring vorraus. Es geht schließlich darum, zu vermitteln, wie viel Spaß die Fließkunst machen kann!<br /><br /></p>
+<p><strong>Über den Autor:</strong></p>
+<p>Mein Name ist Max Ruebensal - seit Jahren bin ich nicht nur leidenschaftlicher Künstler, sondern gebe mein Wissen und meine Erfahrung als Blogger weiter. Dabei sind vor allem meine eigenen Acrylic Pouring Werke sehr gut angenommen wurden - nach etlichen Nachfragen habe ich mich dann dazu entschlossen, dieses E-Book zu schreiben. Es ist derzeit das einzig deutsprachige Werk, dass in diesem Umfang das Thema Acrylic Pouring behandelt. Ich hoffe dadurch, möglichst viele Leute für die noch junge Art der Kunst zu begeistern und ihnen bei ihren ersten Schritten die nötige Unterstützung zukommen zu lassen.</p>
 
 ## 2. Links
 
@@ -79,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Acrylic Pouring 1X1 E-Book - Atemberaubende Fließkunst!? — Typ: Downloads, Anbieter: Maxruebensal, gelistet seit 2018-06-17
-- Wie viel kostet es? — 14.130766 USD
+- Wie viel kostet es? — 14.099241000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 274760
 title: "Yoga Fit - Das Yogaworkoutprogramm"
 vendor: "andrea-szodruch"
 product_type: "Member area and video courses"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.43
+earnings_per_sale: 17.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-06-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://simsix.lpages.co/yoga-fit/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/30395/adminstore/"
 sales_page: "https://simsix.lpages.co/yoga-fit/"
 language: "de"
 ---
 # Yoga Fit - Das Yogaworkoutprogramm
 
 > Product ID `30395` · Digistore24 productId `274760` · [HTML profile page](../../produkte/yoga-fit-das-yogaworkoutprogramm-30395.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.43 |
+| Earnings/sale* | $17.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andrea-szodruch |
@@ -41,11 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Yoga Fit - Das Yoga - Fitnessprogramm für einen straffen und entspannten Körper Möchtest du dieses programm bewerben? Dann schreib mir eine Anfrage an info@andrea-szodruch.de Dieses Programm hilft Frauen schlanker, sexier und glücklicher zu werden und dabei noch zu entspannen Yoga Fit ist ein 12 Wochen Programm speziell für Frauen entwickelt, welches strategisch in 3 Phasen aufgeteilt ist um den w…
+**Vendor's marketplace description:** <div>
+<h2><span style="color:#000000;"><strong>Yoga Fit - Das Yoga - Fitnessprogramm für einen straffen und entspannten Körper</strong></span></h2>
+<p> </p>
+<p><span style="color:#000000;"><strong>Möchtest du dieses programm bewerben? Dann schreib mir eine Anfrage an info@andrea-szodruch.de</strong></span></p>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div>
+<div>Dieses Programm hilft Frauen schlanker, sexier und glücklicher zu werden und dabei noch zu entspannen</div>
+<div> </div>
+<div>Yoga Fit ist ein 12 Wochen Programm speziell für Frauen entwickelt, welches strategisch in 3 Phasen aufgeteilt ist um den weiblichen Körper und die Problemzonen wie Bauch, Beine und Po zu formen. Es kann die Gewichtsreduktion unterstützen, hilft bei der Entspannung und unterstützt Frauen dabei sich wieder selbstbewusst und stark zu fühlen. Die dynamischen Bewegungsabläufe bringen den Kreislauf in Schwung, kurbeln die Fettverbrennung an und gleichzeitig sorgen sie dafür, dass die wilden Gedanken im Kopf mal zur Ruhe kommen. </div>
+<div> </div>
+<div> </div>
+<div>Du als Affiliate erhältst 50% Provision auf das Hauptprodukt und den Upsell.</div>
+<div> </div>
+<div>Du bekommst Landingpages und Emailvorlagen</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://simsix.lpages.co/yoga-fit/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/30395/adminstore/
 - Sales page: https://simsix.lpages.co/yoga-fit/
 - Vendor affiliate support: https://www.andrea-szodruch.de/partnerprogramm-yoga-fit/
 - Canonical redirect: https://www.digistore24.com/redir/274760/adminstore
@@ -75,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Yoga Fit - Das Yogaworkoutprogramm? — Typ: Member area and video courses, Anbieter: andrea-szodruch, gelistet seit 2019-06-06
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

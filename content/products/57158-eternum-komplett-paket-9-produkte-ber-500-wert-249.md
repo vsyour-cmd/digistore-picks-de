@@ -4,16 +4,16 @@ digistore24_product_id: 706619
 title: "ETERNUM Komplett-Paket – 9 Produkte, über 500 € Wert | 249 €"
 vendor: "megareichtum"
 product_type: "Member area and video courses"
-price: 234.47
+price: 233.95
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 140.68
+earnings_per_sale: 140.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-06-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://eternumtech.eu/komplett-paket?aff=adminstore#aff=adminstore"
 sales_page: "https://eternumtech.eu/komplett-paket"
@@ -22,16 +22,16 @@ language: "de"
 # ETERNUM Komplett-Paket – 9 Produkte, über 500 € Wert | 249 €
 
 > Product ID `57158` · Digistore24 productId `706619` · [HTML profile page](../../produkte/eternum-komplett-paket-9-produkte-ber-500-wert-249-57158.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $234.47 (Single payment) |
+| Price | $233.95 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $140.68 |
+| Earnings/sale* | $140.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megareichtum |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das ETERNUM Komplett-Paket bündelt 9 Produkte rund um KI, Content und Sichtbarkeit in einem Bundle – entwickelt von Ernst Schrempf, Unternehmer mit über 20 Jahren Erfahrung, der seine KI-Systeme selbst programmiert. Enthalten sind u.a.: KI-Cockpit (sonst 199 €), KI-Komplettsystem mit 5 Workbooks (sonst 99 €), Knowledge Vault (sonst 97 €), Digital Business System (sonst 47 ), Content Ignition Kit (…
+**Vendor's marketplace description:** <p>Das ETERNUM Komplett-Paket bündelt 9 Produkte rund um KI, Content und Sichtbarkeit in einem Bundle – entwickelt von Ernst Schrempf, Unternehmer mit über 20 Jahren Erfahrung, der seine KI-Systeme selbst programmiert.</p>
+<p> </p>
+<p>Enthalten sind u.a.: KI-Cockpit (sonst 199 €), KI-Komplettsystem mit 5 Workbooks (sonst 99 €), Knowledge Vault (sonst 97 €), Digital Business System (sonst 47 ), Content Ignition Kit (220 Hooks + 80 KI-Prompts), Content Creation System, Instagram Growth Workbook + Content-Planer sowie das Google Review Response Kit.</p>
+<p> </p>
+<p>Einzeln über 500 € Wert – im Paket einmalig 249 €. Kein Abo, sofortiger Zugang, 30 Tage Geld-zurück-Garantie über Digistore24.</p>
+<p> </p>
+<p>Für Affiliates: 50 % Provision, 180 Tage Cookie-Laufzeit, Auto-Freigabe. Fertige Werbemittel und E-Mail-Swipes auf <a href="https://eternumtech.eu/partner">https://eternumtech.eu/partner</a>. Bitte seriöses Branding, keine falschen Gewinnversprechen, transparente Affiliate-Kennzeichnung.</p>
 
 ## 2. Links
 
@@ -84,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ETERNUM Komplett-Paket – 9 Produkte, über 500 € Wert | 249 €? — Typ: Member area and video courses, Anbieter: megareichtum, gelistet seit 2026-06-28
-- Wie viel kostet es? — 234.47434400000003 USD
+- Wie viel kostet es? — 233.95124400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

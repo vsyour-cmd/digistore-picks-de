@@ -4,16 +4,16 @@ digistore24_product_id: 682474
 title: "Canva Templates für Instagram"
 vendor: "momentwelt"
 product_type: "Downloads"
-price: 30.26
+price: 30.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.13
+earnings_per_sale: 15.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-04-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://marketingatelier.online/templates/?aff=adminstore#aff=adminstore"
 sales_page: "https://marketingatelier.online/templates/"
@@ -22,16 +22,16 @@ language: "de"
 # Canva Templates für Instagram
 
 > Product ID `56188` · Digistore24 productId `682474` · [HTML profile page](../../produkte/canva-templates-f-r-instagram-56188.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $30.26 (Single payment) |
+| Price | $30.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.13 |
+| Earnings/sale* | $15.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | momentwelt |
@@ -41,7 +41,58 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Social-Media-TEMPLATE BUNDLE "Work & Flow" Deine Abkürzung für deinen Instagram Feed Du möchtest einen ansprechenden Instagram-Account haben, dir fehlt aber die Zeit, stundenlang Beitragsbilder zu erstellen? Meine Designvorlagen nehmen dir die meiste Arbeit ab! Mit diesem Template-Bundle erhältst du gesamt über 350 Designvorlagen, die du alle auf deine Farben, Schriften und deine Marke anpassen ka…
+**Vendor's marketplace description:** <div>
+<div>
+<h1>Social-Media-TEMPLATE BUNDLE "Work &amp; Flow"</h1>
+</div>
+</div>
+<div>
+<div>
+<h2>Deine Abkürzung für deinen Instagram Feed</h2>
+</div>
+</div>
+<div> </div>
+<div>
+<p>Du möchtest einen ansprechenden Instagram-Account haben, dir fehlt aber die Zeit, stundenlang Beitragsbilder zu erstellen? Meine Designvorlagen nehmen dir die meiste Arbeit ab! Mit diesem Template-Bundle erhältst du gesamt über 350 Designvorlagen, die du alle auf deine Farben, Schriften und deine Marke anpassen kannst. Alle Vorlagen wurden mit dem kostenlosen Online-Tool CANVA erstellt.</p>
+<p> </p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div><strong>Das Template-Bundle enthält:</strong></div>
+<div> </div>
+<div>
+<div>
+<ul>
+<li>6 unterschiedliche Feed-Designs, gesamt über 350 Vorlagen</li>
+<li>Vielseitig kombinierbar</li>
+<li>Frei anpassbar auf deine Marke</li>
+<li>inkl. CANVA-Anleitung </li>
+<li>Bonus: Workshop "Produktivitätsbooster" für Selbstständige</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -81,7 +132,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Canva Templates für Instagram? — Typ: Downloads, Anbieter: momentwelt, gelistet seit 2026-04-06
-- Wie viel kostet es? — 30.2562 USD
+- Wie viel kostet es? — 30.188700000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

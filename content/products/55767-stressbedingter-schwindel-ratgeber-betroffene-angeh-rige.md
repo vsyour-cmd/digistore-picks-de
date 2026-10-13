@@ -4,34 +4,34 @@ digistore24_product_id: 417751
 title: "Stressbedingter Schwindel - Ratgeber Betroffene - Angehörige"
 vendor: "aktiv-entspannt-eifel"
 product_type: "E-books"
-price: 19.79
+price: 19.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.89
+earnings_per_sale: 9.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-11-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://natuerlich-einfach.de/stressbedingter-schwindel/?aff=adminstore#aff=adminstore"
+promo_link: "http://www.vokabeln-lernen-wie-2037.de/grand-slam-premium/#aff=adminstore"
 sales_page: "https://natuerlich-einfach.de/stressbedingter-schwindel/"
 language: "de"
 ---
 # Stressbedingter Schwindel - Ratgeber Betroffene - Angehörige
 
 > Product ID `55767` · Digistore24 productId `417751` · [HTML profile page](../../produkte/stressbedingter-schwindel-ratgeber-betroffene-angeh-rige-55767.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.79 (Single payment) |
+| Price | $19.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.89 |
+| Earnings/sale* | $9.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aktiv-entspannt-eifel |
@@ -41,11 +41,74 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Stressbedingter Schwindel - ein Ratgeber für Betroffene Bei ungefähr 30 – 50 Prozent der Menschen, die unter Schwindel leiden, können die Ärzte keine organische Ursache feststellen. Der Gleichgewichtssinn funktioniert hervorragend, andere Grunderkrankungen werden ausgeschlossen und doch haben die Patienten das Gefühl, der Boden wanke unter Ihnen oder der Raum würde sich um sie drehen. Sie leiden u…
+**Vendor's marketplace description:** <h1>Stressbedingter Schwindel - ein Ratgeber für Betroffene</h1>
+<p> </p>
+<p>Bei ungefähr 30 – 50 Prozent der Menschen, die unter Schwindel leiden, können die Ärzte keine organische Ursache feststellen.</p>
+<p>Der Gleichgewichtssinn funktioniert hervorragend, andere Grunderkrankungen werden ausgeschlossen und doch haben die Patienten das Gefühl, der Boden wanke unter Ihnen oder der Raum würde sich um sie drehen.</p>
+<p>Sie leiden unter stressbedingtem (psychogenem) Schwindel.</p>
+<p>Besonders gefährdet sind Personen, die eine erste Schwindelattacke als besonders bedrohlich und gefährlich empfinden. Bei Ihnen besteht die Gefahr, dass es nicht bei einem Schwindelanfall bleibt, sondern dass der Schwindel immer öfter auftritt oder sich sogar zu einem Dauerschwindel entwickelt. Sie beobachten sich furchtsam und achten auf jede Körperbewegung, ob sie vielleicht schwanken oder taumeln. Jedes Unwohlsein wird ab sofort mit Angst vor einer erneuten Schwindelattacke registriert und führt zu einem Teufelskreis. Die Angst vor dem Schwindel begleitet die Betroffenen nun ständig und ist oftmals die Ursache für die nächste Schwindelattacke. </p>
+<p>Bis zur Diagnose von psychogenem Schwindel vergehen mitunter Monate bis Jahre. Für Betroffene eine quälende Zeit.</p>
+<p>Zur Angst vorm Schwindel kommen Sorgen um den Arbeitsplatz, wenn sie sich wieder krankmelden müssen und Probleme in der Partnerschaft, Familie oder mit Freunden, wenn diese Ihre Erkrankung nicht ernst nehmen. Haben Sie auch schon mal den Satz gehört: „Stell dich nicht so an!“ Für Betroffene ein Schlag, da sie nicht ernst genommen werden. In solchen Situationen wachsen die Angst und die Unsicherheit enorm. Das Befinden und die Lebensqualität werden stark eingeschränkt.</p>
+<p>Nicht nur das Familienleben und das Freizeitverhalten sind betroffen. Viele Patienten mit stressbedingtem Schwindel können Ihrer Arbeit nicht mehr in vollem Umfang nachkommen oder werden sogar arbeitsunfähig. </p>
+<p>Dieser Ratgeber bietet Ihnen eine Fülle an Informationen und Tipps, damit Sie die Entstehung des stressbedingten Schwindels nachvollziehen und sich selbst bei akuten Schwindelanfällen helfen können – für ein Leben ohne Schwindel mit mehr Lebensqualität und Leichtigkeit. </p>
+<p><strong>Format</strong>: PDF</p>
+<p><strong>Seiten</strong>: 39</p>
+<p><strong>Preis</strong>: 6,90€</p>
+<div> </div>
+<h2>Inhaltsverzeichnis:</h2>
+<ul>
+<li>Was ist Schwindel?</li>
+<li>Wie entsteht das Schwindelgefühl?</li>
+<li>Was verursacht Schwindel?</li>
+<li>Welche verschiedenen Arten von Schwindel gibt es?</li>
+<li>Checkliste: Kommt mein Schwindel vom Stress?</li>
+</ul>
+<p> </p>
+<ul>
+<li>Der stressbedingte Schwindel</li>
+<li>Wer ist von stressbedingtem Schwindel betroffen?</li>
+<li>Bilde ich mir den Schwindel vielleicht nur ein?</li>
+<li>Wie äußert sich stressbedingter Schwindel?</li>
+<li>Auswirkungen und Folgen von stressbedingtem Schwindel</li>
+</ul>
+<p> </p>
+<ul>
+<li>Schwindel: Was will mir mein Körper sagen?</li>
+<li>Schwindel: Bin ich selber schuld?</li>
+</ul>
+<p> </p>
+<ul>
+<li>Wann sollte man bei Schwindel zum Arzt gehen?</li>
+<li>Wie wird stressbedingter Schwindel behandelt?</li>
+</ul>
+<p> </p>
+<ul>
+<li>Hilfe im Akutfall</li>
+<li>Langfristige Hilfe</li>
+</ul>
+<p> </p>
+<ul>
+<li>Heiße-7 nach Dr. Schüßler bei Schwindel</li>
+<li>Homöopathie gegen Schwindel</li>
+<li>Lavendel gegen Ängste</li>
+<li>Ginseng zur Stärkung der Widerstandskräfte</li>
+</ul>
+<p> </p>
+<ul>
+<li>Besser mit Stress umgehen</li>
+<li>Wie schnell wirken Entspannungsübungen?</li>
+<li>Autogenes Training (inkl. Anleitung)</li>
+<li>Progressive Muskelentspannung (inkl. Anleitung)</li>
+<li>Meditation (inkl. Anleitung)</li>
+<li>Achtsamkeitstraining (inkl. Achtsamkeitsübung)</li>
+<li>Sport gegen stressbedingten Schwindel</li>
+</ul>
+<div> </div>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://natuerlich-einfach.de/stressbedingter-schwindel/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://www.vokabeln-lernen-wie-2037.de/grand-slam-premium/#aff=adminstore
 - Sales page: https://natuerlich-einfach.de/stressbedingter-schwindel/
 - Canonical redirect: https://www.digistore24.com/redir/417751/adminstore
 
@@ -72,7 +135,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stressbedingter Schwindel - Ratgeber Betroffene - Angehörige? — Typ: E-books, Anbieter: aktiv-entspannt-eifel, gelistet seit 2021-11-24
-- Wie viel kostet es? — 19.789796000000003 USD
+- Wie viel kostet es? — 19.745646 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

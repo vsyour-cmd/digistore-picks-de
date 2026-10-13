@@ -4,16 +4,16 @@ digistore24_product_id: 306828
 title: "Ideenreiche Frisuren - das Bundle"
 vendor: "LaurieMakeupArtist"
 product_type: "Downloads"
-price: 136.55
+price: 136.24
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 28.02
+earnings_per_sale: 27.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-02-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.laurie-ibsen.de/das-bundle-ideenreiche-frisuren?aff=adminstore#aff=adminstore"
 sales_page: "https://www.laurie-ibsen.de/das-bundle-ideenreiche-frisuren"
@@ -22,16 +22,16 @@ language: "de"
 # Ideenreiche Frisuren - das Bundle
 
 > Product ID `32010` · Digistore24 productId `306828` · [HTML profile page](../../produkte/ideenreiche-frisuren-das-bundle-32010.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $136.55 (Single payment) |
+| Price | $136.24 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $28.02 |
+| Earnings/sale* | $27.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LaurieMakeupArtist |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In diesem Videotraining erlernst du die Techniken dieser 3 schnellen Hochsteckfrisuren, die du einfach nachstecken und kreativ umwandeln kannst. Mit diesen Frisuren möchte ich dir zeigen, dass es auch ohne viel Aufwand und lästiges Vorarbeiten möglich, ist schnell und einfach lang haltende Frisuren zu kreieren. Die richtige Technik und die passende Produktwahl sorgt für lockere und haltbare Frisur…
+**Vendor's marketplace description:** <p>In diesem Videotraining erlernst du die Techniken dieser 3 schnellen Hochsteckfrisuren, die du einfach nachstecken und kreativ umwandeln kannst.</p>
+<p>Mit diesen Frisuren möchte ich dir zeigen, dass es auch ohne viel Aufwand und lästiges Vorarbeiten möglich, ist schnell und einfach lang haltende Frisuren zu kreieren. Die richtige Technik und die passende Produktwahl sorgt für lockere und haltbare Frisuren, die oft ohne oder nur mit wenig Einsatz von Lockenstab oder Glätteisen erzielt werden können. Mein Ziel für dich ist es, dass du sicherer und einfallsreicher im Hochstecken wirst und bei Hochzeitsgesellschaften mehr Gaststylings in kürzerer Zeit annehmen und umsetzen kannst.</p>
 
 ## 2. Links
 
@@ -88,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ideenreiche Frisuren - das Bundle? — Typ: Downloads, Anbieter: LaurieMakeupArtist, gelistet seit 2020-02-05
-- Wie viel kostet es? — 136.54511 USD
+- Wie viel kostet es? — 136.240485 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

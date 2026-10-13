@@ -4,16 +4,16 @@ digistore24_product_id: 616962
 title: "Gold Book Bundle"
 vendor: "MoneyCreators"
 product_type: "E-books"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.23
+earnings_per_sale: 5.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2025-06-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/gold-book-bundle?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/gold-book-bundle"
@@ -22,16 +22,16 @@ language: "de"
 # Gold Book Bundle
 
 > Product ID `52824` · Digistore24 productId `616962` · [HTML profile page](../../produkte/gold-book-bundle-52824.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.23 |
+| Earnings/sale* | $5.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoneyCreators |
@@ -41,7 +41,51 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Profitiere von 50% Provision auf das Bundle + Addons + Upsells Das Gold Book Bundle – Dein digitaler Start mit 100 % Einnahmen Du willst digitale Produkte verkaufen, aber keine Zeit zum Schreiben?Mit diesem Bundle bekommst du 3 professionelle E-Books inkl. PLR Lizenz, die du unter deinem eigenen Namen weiterverkaufen darfst – und jeden Euro selbst behältst. Enthalten sind: Story Selling – 7 Story-…
+**Vendor's marketplace description:** <p>Profitiere von 50% Provision auf das Bundle + Addons + Upsells</p>
+<h3>Das Gold Book Bundle – Dein digitaler Start mit 100 % Einnahmen</h3>
+<p><strong>Du willst digitale Produkte verkaufen, aber keine Zeit zum Schreiben?</strong><br />Mit diesem Bundle bekommst du <strong>3 professionelle E-Books inkl. PLR Lizenz</strong>, die du <strong>unter deinem eigenen Namen weiterverkaufen</strong> darfst – und <strong>jeden Euro selbst behältst</strong>.</p>
+<hr />
+<h3>Enthalten sind:</h3>
+<ul>
+<li>
+<p><strong>Story Selling</strong> – 7 Story-Skripte, Canva-Vorlagen &amp; Verkaufsstrategien für Instagram Stories.</p>
+</li>
+<li>
+<p><strong>ChatGPT x Insta</strong> – Dein Monetarisierungs-Blueprint für automatisierte Inhalte &amp; Einnahmen mit KI.</p>
+</li>
+<li>
+<p><strong>Manychat Guide</strong> – Automatisiere dein Business &amp; gewinne Leads auf Autopilot.</p>
+</li>
+</ul>
+<hr />
+<h3>Deine Vorteile:</h3>
+<ul>
+<li>
+<p><strong>PLR Lizenz</strong>: Verkaufe die Inhalte als eigene Produkte – 100 % der Einnahmen gehören dir.</p>
+</li>
+<li>
+<p><strong>Sofort startklar</strong>: Mit Canva-Vorlagen &amp; Schritt-für-Schritt Guides.</p>
+</li>
+<li>
+<p><strong>Vollständig anpassbar</strong>: Gestalte alles individuell für deine Marke.</p>
+</li>
+<li>
+<p><strong>Keine Programmier- oder Designkenntnisse nötig.</strong></p>
+</li>
+</ul>
+<hr />
+<h3>Ideal für:</h3>
+<ul>
+<li>
+<p>Einsteiger, Affiliates, Coaches, Agenturen &amp; Content-Creator</p>
+</li>
+<li>
+<p>Alle, die ein digitales Produkt mit echtem Mehrwert verkaufen möchten</p>
+</li>
+<li>
+<p>Nutzer von Funnels, Telegram-Kanälen, E-Mail-Marketing und Co.</p>
+</li>
+</ul>
 
 ## 2. Links
 
@@ -61,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gold Book Bundle? — Typ: E-books, Anbieter: MoneyCreators, gelistet seit 2025-06-05
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

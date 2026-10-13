@@ -4,16 +4,16 @@ digistore24_product_id: 270579
 title: "Der Udemy Code (228 Seiten E-Book)"
 vendor: "Abhaker"
 product_type: "E-books"
-price: 38.75
+price: 38.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.38
+earnings_per_sale: 19.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2019-05-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://sebastian-gloeckner-bonn.de/der-udemy-code/?aff=adminstore#aff=adminstore"
 sales_page: "https://sebastian-gloeckner-bonn.de/der-udemy-code/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Udemy Code (228 Seiten E-Book)
 
 > Product ID `28904` · Digistore24 productId `270579` · [HTML profile page](../../produkte/der-udemy-code-228-seiten-e-book-28904.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.75 (Single payment) |
+| Price | $38.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.38 |
+| Earnings/sale* | $19.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Abhaker |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 228 Seiten Content pur! Top 10% Udemy Dozent Sebastian Glöckner packt aus. Hallo lieber Affiliate! Dieses Buch kostet regulär 37 Euro, Ihr könnt es aber auch mit dem Code "30-EURO-EINMALIG" auf 7 Euro reduzieren. Ihr bekommt immer 50% Provision, aber das Interessante ist vor allem der Upsell! Direkt nach dem Kauf des E-Books wird ein 13-stündiger Online-Kurs angeboten für 247 Euro. Wenn der Kunde …
+**Vendor's marketplace description:** <p><strong>228 Seiten Content pur! Top 10% Udemy Dozent Sebastian Glöckner packt aus.</strong></p>
+<p> </p>
+<p><strong>Hallo lieber Affiliate!</strong></p>
+<p>Dieses Buch kostet regulär 37 Euro, Ihr könnt es aber auch mit dem Code "30-EURO-EINMALIG" auf 7 Euro reduzieren.</p>
+<p>Ihr bekommt immer 50% Provision, aber das Interessante ist vor allem der Upsell!</p>
+<p>Direkt nach dem Kauf des E-Books wird ein 13-stündiger Online-Kurs angeboten für 247 Euro. Wenn der Kunde nicht kauft, bekommt er hinterher eine Webinar-Einladung für das Hauptprodukt per E-Mail. Und Deine Affiliate-ID ist immer mit dabei!</p>
+<p> </p>
+<p><strong>Bitte schau unbedingt auf meiner Affiliate Support-Seite! </strong></p>
+<p><a>https://sebastian-gloeckner-bonn.de/partnerprogramm/</a></p>
+<p>Du kannst das Produkt direkt bewerben oder es über ein Webinar verkaufen.</p>
+<p> </p>
+<p>Achtung: Ich garantiere als vielleicht einziger Vendor ein 100% Cross-Device Tracking! Das bedeutet, wenn sich jemand auf dem Handy für das Webinar anmeldet und später auf dem Tablet kauft - Du bekommst Deine Provision!</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -79,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Udemy Code (228 Seiten E-Book)? — Typ: E-books, Anbieter: Abhaker, gelistet seit 2019-05-05
-- Wie viel kostet es? — 38.750348 USD
+- Wie viel kostet es? — 38.663898 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

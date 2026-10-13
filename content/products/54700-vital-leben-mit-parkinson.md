@@ -4,16 +4,16 @@ digistore24_product_id: 648026
 title: "Vital Leben mit Parkinson"
 vendor: "Erfolg2026"
 product_type: "E-books"
-price: 52.26
+price: 52.15
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 10.46
+earnings_per_sale: 10.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Services","Marketing Services"]
 listed_since: "2025-11-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/648026?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/648026"
@@ -22,16 +22,16 @@ language: "de"
 # Vital Leben mit Parkinson
 
 > Product ID `54700` · Digistore24 productId `648026` · [HTML profile page](../../produkte/vital-leben-mit-parkinson-54700.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.26 (Single payment) |
+| Price | $52.15 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $10.46 |
+| Earnings/sale* | $10.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg2026 |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** AFFILIATE INFO – Vital Leben mit Parkinson „Vital Leben mit Parkinson“ ist mehr als ein eBook – es gibt Menschen Hoffnung, Mut und neue Kraft. Als Affiliate teilst du echte Erfahrungen, die Betroffenen helfen, ihren Alltag vitaler zu leben – und verdienst dabei attraktiv mit. Ein emotional starkes Thema, hohe Nachfrage, sinnvolle Mission. Du empfiehlst Licht – und wirst dafür belohnt. Gemeinsam ve…
+**Vendor's marketplace description:** <p>AFFILIATE INFO – Vital Leben mit Parkinson</p>
+<p>„Vital Leben mit Parkinson“ ist mehr als ein eBook – es gibt Menschen Hoffnung, Mut und neue Kraft.</p>
+<p>Als Affiliate teilst du echte Erfahrungen, die Betroffenen helfen, ihren Alltag vitaler zu leben – und verdienst dabei attraktiv mit.</p>
+<p>Ein emotional starkes Thema, hohe Nachfrage, sinnvolle Mission.</p>
+<p>Du empfiehlst Licht – und wirst dafür belohnt.</p>
+<p>Gemeinsam verändern wir Leben. </p>
 
 ## 2. Links
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vital Leben mit Parkinson? — Typ: E-books, Anbieter: Erfolg2026, gelistet seit 2025-11-12
-- Wie viel kostet es? — 52.264784000000006 USD
+- Wie viel kostet es? — 52.14818400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

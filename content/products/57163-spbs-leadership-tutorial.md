@@ -4,34 +4,34 @@ digistore24_product_id: 703031
 title: "SPBS Leadership Tutorial"
 vendor: "SPBS-Business"
 product_type: "Downloads"
-price: 112.91
+price: 112.66
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 11.3
+earnings_per_sale: 11.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Profession & Job"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/703031?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57163/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/703031"
 language: "de"
 ---
 # SPBS Leadership Tutorial
 
 > Product ID `57163` · Digistore24 productId `703031` · [HTML profile page](../../produkte/spbs-leadership-tutorial-57163.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $112.91 (Single payment) |
+| Price | $112.66 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $11.30 |
+| Earnings/sale* | $11.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SPBS-Business |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Produkt: SPBS Leadership Tutorial – Führen in Zeiten von KI, Wirtschaftskrise & Generation Z Format: Digitales Selbstlern‑Tutorial (PDF/Online) mit Übungen, Praxisbeispielen & Studien Zielgruppe: Unternehmer, Selbstständige, Führungskräfte, Coaches, Personalverantwortliche Provision: Attraktive Vergütung pro Verkauf über deinen Affiliate‑Link
+**Vendor's marketplace description:** <p><strong>Produkt:</strong> <em>SPBS Leadership Tutorial – Führen in Zeiten von KI, Wirtschaftskrise &amp; Generation Z</em></p>
+<p><strong>Format:</strong> Digitales Selbstlern‑Tutorial (PDF/Online) mit Übungen, Praxisbeispielen &amp; Studien</p>
+<p><strong>Zielgruppe:</strong> Unternehmer, Selbstständige, Führungskräfte, Coaches, Personalverantwortliche</p>
+<p><strong>Provision:</strong> Attraktive Vergütung pro Verkauf über deinen Affiliate‑Link</p>
+<div> </div>
+<h2> </h2>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/703031?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57163/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/703031
 - Canonical redirect: https://www.digistore24.com/redir/703031/adminstore
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SPBS Leadership Tutorial? — Typ: Downloads, Anbieter: SPBS-Business, gelistet seit 2026-06-29
-- Wie viel kostet es? — 112.91165600000001 USD
+- Wie viel kostet es? — 112.65975600000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

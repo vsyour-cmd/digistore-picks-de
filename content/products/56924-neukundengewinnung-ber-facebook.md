@@ -4,16 +4,16 @@ digistore24_product_id: 701356
 title: "Neukundengewinnung über Facebook"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.43
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-facebook?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-facebook"
@@ -22,16 +22,16 @@ language: "de"
 # Neukundengewinnung über Facebook
 
 > Product ID `56924` · Digistore24 productId `701356` · [HTML profile page](../../produkte/neukundengewinnung-ber-facebook-56924.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.43 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Gruppen-Funnel, lokale Leadgenerierung und planbare Anfragen ohne Werbebudget Facebook ist für Unternehmen kein Netzwerk mehr – es ist ein Vertriebskanal mit Millionen lokaler und themenaffiner Nutzer. Dieses E-Book zeigt dir, wie du Facebook gezielt zur Neukundengewinnung einsetzt: mit einer eigenen Gruppe als Community-Funnel, mit lokalen Veranstaltungen, die dein Einzugsgebiet aktivieren, und m…
+**Vendor's marketplace description:** <p><strong>Gruppen-Funnel, lokale Leadgenerierung und planbare Anfragen ohne Werbebudget</strong></p>
+<p>Facebook ist für Unternehmen kein Netzwerk mehr – es ist ein Vertriebskanal mit Millionen lokaler und themenaffiner Nutzer. Dieses E-Book zeigt dir, wie du Facebook gezielt zur Neukundengewinnung einsetzt: mit einer eigenen Gruppe als Community-Funnel, mit lokalen Veranstaltungen, die dein Einzugsgebiet aktivieren, und mit organischen Strategien, die Anfragen statt nur Klicks bringen. Du lernst, wie du Diskussions-Posts und native Videos nutzt, um Vertrauen aufzubauen, wie du über Messenger-Kampagnen qualifizierte Leads einleitest und wie du Facebook-Veranstaltungen als Lead-Magnet nutzt. Für Dienstleister, lokale Betriebe und B2B-Unternehmen gleichermaßen. Inklusive Funnel-Vorlage, Messenger-Skripten und einem Reporting-Sheet, das deinen ROI sichtbar macht.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Deine Facebook-Gruppe als Community-Funnel aufbauen</li>
+<li>Lokale Leadgenerierung: dein Einzugsgebiet aktivieren</li>
+<li>Veranstaltungen und Events als Lead-Magnet nutzen</li>
+<li>Diskussions-Posts und native Videos als Vertrauensanker</li>
+<li>Messenger-Strategie: von der Anfrage zum Auftrag</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -98,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neukundengewinnung über Facebook? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

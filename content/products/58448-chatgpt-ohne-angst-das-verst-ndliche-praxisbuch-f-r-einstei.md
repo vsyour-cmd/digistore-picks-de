@@ -4,16 +4,16 @@ digistore24_product_id: 721041
 title: "ChatGPT ohne Angst: Das verständliche Praxisbuch für Einstei"
 vendor: "rs-onlineagentur"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://rita-scheer.de/chatgpt-ohne-angst/?aff=adminstore#aff=adminstore"
 sales_page: "https://rita-scheer.de/chatgpt-ohne-angst/"
@@ -22,16 +22,16 @@ language: "de"
 # ChatGPT ohne Angst: Das verständliche Praxisbuch für Einstei
 
 > Product ID `58448` · Digistore24 productId `721041` · [HTML profile page](../../produkte/chatgpt-ohne-angst-das-verst-ndliche-praxisbuch-f-r-einstei-58448.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ChatGPT ohne Angst ist ein verständliches Praxisbuch für Einsteiger, die ChatGPT sicher und sinnvoll nutzen möchten. Das Workbook zeigt Schritt für Schritt, wie klare Eingaben entstehen, Ergebnisse geprüft und typische Anfängerfehler vermieden werden. Die Leser lernen, wie sie ChatGPT für Ideen, Texte, Planung und wiederkehrende Aufgaben im Online-Business einsetzen können. Das Produkt richtet sic…
+**Vendor's marketplace description:** <p>ChatGPT ohne Angst ist ein verständliches Praxisbuch für Einsteiger, die ChatGPT sicher und sinnvoll nutzen möchten.</p>
+<p>Das Workbook zeigt Schritt für Schritt, wie klare Eingaben entstehen, Ergebnisse geprüft und typische Anfängerfehler vermieden werden. Die Leser lernen, wie sie ChatGPT für Ideen, Texte, Planung und wiederkehrende Aufgaben im Online-Business einsetzen können.</p>
+<p>Das Produkt richtet sich besonders an Selbstständige, Content Creator und Menschen, die sich nebenberuflich ein Online-Business aufbauen möchten. Technische Vorkenntnisse sind nicht erforderlich.</p>
+<p>Enthalten sind verständliche Erklärungen, konkrete Beispiele und praktische Übungen für die direkte Umsetzung.</p>
+<p>Die Leser erfahren unter anderem:</p>
+<p>• wie gute Eingaben aufgebaut sind<br />• warum ungenaue Prompts oft zu unbrauchbaren Ergebnissen führen<br />• wie Antworten geprüft und verbessert werden<br />• wie ChatGPT bei Content, Planung und Texten unterstützen kann<br />• welche Daten und Informationen nicht eingegeben werden sollten</p>
+<p>Das Praxisbuch vermittelt eine realistische Arbeitsweise mit ChatGPT. Es enthält keine Einkommensversprechen und ersetzt keine individuelle Rechts-, Datenschutz- oder Unternehmensberatung.</p>
 
 ## 2. Links
 
@@ -81,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ChatGPT ohne Angst: Das verständliche Praxisbuch für Einstei? — Typ: E-books, Anbieter: rs-onlineagentur, gelistet seit 2026-08-18
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

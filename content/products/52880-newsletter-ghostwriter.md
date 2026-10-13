@@ -4,16 +4,16 @@ digistore24_product_id: 611315
 title: "Newsletter Ghostwriter"
 vendor: "marike_frick"
 product_type: "Downloads"
-price: 297.53
+price: 296.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.69
+earnings_per_sale: 139.38
 cart_conversion_pct: 15
 cancel_rate_pct: 3.05
 categories: ["Email Marketing","Online Marketing","Marketing Services"]
 listed_since: "2025-05-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.wasjournalistenwollen.de/claude-workshops/email-ghostwriter/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.wasjournalistenwollen.de/claude-workshops/email-ghostwriter/"
@@ -22,16 +22,16 @@ language: "de"
 # Newsletter Ghostwriter
 
 > Product ID `52880` · Digistore24 productId `611315` · [HTML profile page](../../produkte/newsletter-ghostwriter-52880.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $297.53 (Single payment) |
+| Price | $296.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.69 |
+| Earnings/sale* | $139.38 |
 | Cart conversion* | 15% |
 | Cancel rate* | 3.05% |
 | Vendor | marike_frick |
@@ -41,7 +41,45 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Newsletter Ghostwriter Lass dir spannende Storytelling Newsletter schreiben – in wenigen Minuten! Der Newsletter Ghostwriter ist ein KI-gestütztes Tool, entwickelt von Schreib-Profi Marike Frick – für ultraschnelle, spannende Newsletter ganz ohne Selbstquälen So funktioniert der Ghostwriter: >> Du loggst dich ein und gibst Stichworte oder Sprachnachrichten ein >> Das Tool fragt gezielt nach un…
+**Vendor's marketplace description:** <h2><strong>Der Newsletter Ghostwriter</strong></h2>
+<p><strong><br />Lass dir spannende Storytelling Newsletter schreiben – in wenigen Minuten!</strong></p>
+<p>Der Newsletter Ghostwriter ist ein KI-gestütztes Tool, entwickelt von Schreib-Profi Marike Frick – für ultraschnelle, spannende Newsletter ganz ohne Selbstquälen</p>
+<p><strong><br />So funktioniert der Ghostwriter:</strong></p>
+<p>&gt;&gt; Du loggst dich ein und gibst Stichworte oder Sprachnachrichten ein</p>
+<p>&gt;&gt; Das Tool fragt gezielt nach und extrahiert deine Story</p>
+<p>&gt;&gt; In wenigen Minuten liefert es einen schlüssig aufgebauten, spannend zu lesenden Newsletter</p>
+<p><strong><br />Was macht den Ghostwriter besonders?</strong></p>
+<ul>
+<li>
+<p>Er wurde trainiert auf Marikes persönliche Schreib‑Regeln und klingt deshalb echt, persönlich und nicht nach Standard‑KI</p>
+</li>
+<li>
+<p>Lernt deinen eigenen Stil oder lässt dich „wie Marike“ schreiben – flexibel und individuell</p>
+</li>
+</ul>
+<p><strong><br />Vorteile auf einen Blick:</strong></p>
+<ul>
+<li>
+<p><strong>Massive Zeitersparnis</strong> – statt Stunden in wenigen Minuten mit dem Newsletter fertig</p>
+</li>
+<li>
+<p><strong>Storytelling wie ein Profi</strong> – Texte, die fesseln statt langweilen</p>
+</li>
+<li>
+<p><strong>Anfängerfreundlich</strong> – sehr gut geeignet, wenn du Newsletter endlich konsequent starten willst </p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Nutzung:</strong></p>
+<ul>
+<li>Nutzung über ChatGPT (kostenlos oder Pro‑Account), browser- und geräteübergreifend .</li>
+</ul>
+<p> </p>
+<p>----------------------------------</p>
+<p><strong>Nutzungsbedingungen für Affiliates:</strong></p>
+<ul>
+<li>Irreführende und intransparente Werbung durch den Affiliate, wie z.B. Schaltung von Google Ads auf die eigene Vendor-URL, ist nicht erlaubt!</li>
+</ul>
 
 ## 2. Links
 
@@ -85,7 +123,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Newsletter Ghostwriter? — Typ: Downloads, Anbieter: marike_frick, gelistet seit 2025-05-07
-- Wie viel kostet es? — 297.530506 USD
+- Wie viel kostet es? — 296.866731 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

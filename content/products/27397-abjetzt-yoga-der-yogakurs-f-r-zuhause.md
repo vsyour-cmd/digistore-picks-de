@@ -4,34 +4,34 @@ digistore24_product_id: 245625
 title: "ABJETZT/YOGA - Der Yogakurs für Zuhause"
 vendor: "abjetzt-daag"
 product_type: "Member area and video courses"
-price: 83.81
+price: 83.62
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 33.53
+earnings_per_sale: 33.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-10-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/245625/adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/27397/adminstore/"
 sales_page: "https://abjetztyoga.de/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
 language: "de"
 ---
 # ABJETZT/YOGA - Der Yogakurs für Zuhause
 
 > Product ID `27397` · Digistore24 productId `245625` · [HTML profile page](../../produkte/abjetzt-yoga-der-yogakurs-f-r-zuhause-27397.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.81 (Single payment) |
+| Price | $83.62 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $33.53 |
+| Earnings/sale* | $33.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | abjetzt-daag |
@@ -41,11 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Kurs: ABJETZT/YOGA ist einer der ersten nach § 20 SGB V zertifizierten online Yoga-Präventionskurse, mit bis zu 80 bis 100 % Kostenerstattung durch die gesetzlichen Krankenkassen. Der ABJETZT/YOGA Präventionskurs gleicht Stress und psychische Belastungen des Alltags aus. Der 10-wöchige Yogakurs besteht aus zehn Trainingseinheiten Alle Yogaübungen werden von einer zertifizierten Yogalehrerin ge…
+**Vendor's marketplace description:** <h4><strong>Der Kurs:</strong></h4>
+<p>ABJETZT/YOGA ist einer der ersten nach § 20 SGB V zertifizierten online Yoga-Präventionskurse, mit bis zu 80 bis 100 % Kostenerstattung durch die gesetzlichen Krankenkassen. Der ABJETZT/YOGA Präventionskurs gleicht Stress und psychische Belastungen des Alltags aus.</p>
+<ul>
+<li>Der 10-wöchige Yogakurs besteht aus zehn Trainingseinheiten</li>
+<li>Alle Yogaübungen werden von einer zertifizierten Yogalehrerin geleitet</li>
+<li>Teilnehmer haben zu jeder Zeit Zugriff</li>
+<li>ABJETZT/YOGA bietet ein Gesamtkonzept für den Körper und ist ideal dafür geeignet, den Geist zu stärken, die richtigen Entspannungstechniken zu lernen und Bewegung in den Alltag zu integrieren</li>
+<li>Teilnehmer erhalten nach jedem Trainingsvideo begleitende Inhalte zum Lesen, die das Thema der jeweiligen Woche noch einmal aufgreifen und festigen</li>
+</ul>
+<p> </p>
+<h4><strong>Vorteile für Affiliates:</strong></h4>
+<ul>
+<li><strong>35,60€</strong> Provision pro Kauf </li>
+<li>Yoga befindet sich in einem schnell wachsenden Markt</li>
+<li>Umfassende Werbemittel</li>
+<li>Mobil optimierte Verkaufsseite</li>
+<li>Du förderst die Gesundheit anderer Menschen</li>
+<li>Der Yogakurs entspricht hohen Qualitätskriterien der Krankenkassen </li>
+</ul>
+<p>Hast Du noch Fragen zum Affiliate-Programm? Dann schreibt uns einfach eine Mail an <a>support@abjetzt.de</a>.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/245625/adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/27397/adminstore/
 - Sales page: https://abjetztyoga.de/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]
 - Vendor affiliate support: https://abjetztyoga.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/245625/adminstore
@@ -79,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ABJETZT/YOGA - Der Yogakurs für Zuhause? — Typ: Member area and video courses, Anbieter: abjetzt-daag, gelistet seit 2018-10-29
-- Wie viel kostet es? — 83.80967400000002 USD
+- Wie viel kostet es? — 83.62269900000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

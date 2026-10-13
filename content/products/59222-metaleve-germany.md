@@ -4,16 +4,16 @@ digistore24_product_id: 728953
 title: "Metaleve Germany"
 vendor: "DS24-nordinary"
 product_type: "Supplements - health"
-price: 127.46
+price: 127.17
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 76.47
+earnings_per_sale: 76.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-09-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://metaleve.com/home-page-de/?aff=adminstore#aff=adminstore"
 sales_page: "https://metaleve.com/home-page-de/"
@@ -22,16 +22,16 @@ language: "de"
 # Metaleve Germany
 
 > Product ID `59222` · Digistore24 productId `728953` · [HTML profile page](../../produkte/metaleve-germany-59222.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $127.46 (Single payment) |
+| Price | $127.17 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $76.47 |
+| Earnings/sale* | $76.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS24-nordinary |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Metaleve is a new metabolic support product focused on common issues like low energy, slow metabolism, and weight management. Built with a clear concept and positioned as a natural solution, it’s easy to test and adapt for a broad audience (35–55+). For affiliates, this is a strong opportunity to grow and scale with a new offer at an early stage, combined with a 60% commission on the entire funnel…
+**Vendor's marketplace description:** <p><strong>Metaleve</strong> is a new metabolic support product focused on common issues like low energy, slow metabolism, and weight management. Built with a clear concept and positioned as a natural solution, it’s easy to test and adapt for a broad audience (35–55+).</p>
+<p>For affiliates, this is a strong opportunity to grow and scale with a new offer at an early stage, combined with a 60% commission on the entire funnel.</p>
+<p><strong>GEO</strong>: Germany</p>
+<p><strong>Allowed traffic</strong>: FB, Google, Native, Email,YouTube</p>
+<p><strong>Non-allowed</strong>: Mobile, Push, SEO, TikTok</p>
+<p><strong>Affiliate Page</strong>: https://metaleve.com/affiliates/</p>
+<p><strong>Affiliate Support</strong>: affiliates@metaleve.com</p>
 
 ## 2. Links
 
@@ -94,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Metaleve Germany? — Typ: Supplements - health, Anbieter: DS24-nordinary, gelistet seit 2026-09-14
-- Wie viel kostet es? — 127.457044 USD
+- Wie viel kostet es? — 127.172694 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-05-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/611125?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52359/adminstore/"
 sales_page: "https://www.digistore24.com/product/611125"
 language: "de"
 ---
 # Kostenloses E-Book zum Thema Copywriting
 
 > Product ID `52359` · Digistore24 productId `611125` · [HTML profile page](../../produkte/kostenloses-e-book-zum-thema-copywriting-52359.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hier erhälst du ein Kostenloses E-Book zum Thema Copywriting.
+**Vendor's marketplace description:** <p>Hier erhälst du ein Kostenloses E-Book zum Thema Copywriting. </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/611125?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52359/adminstore/
 - Sales page: https://www.digistore24.com/product/611125
 - Canonical redirect: https://www.digistore24.com/redir/611125/adminstore
 

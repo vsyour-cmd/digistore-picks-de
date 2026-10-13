@@ -4,16 +4,16 @@ digistore24_product_id: 23599
 title: "Pilates&Friends Abo - Das Online Pilates Paket"
 vendor: "rudingo"
 product_type: "Member area and video courses"
-price: 405.89
+price: 404.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 215.36
+earnings_per_sale: 214.88
 cart_conversion_pct: 15
 cancel_rate_pct: 0.71
 categories: ["Health & Fitness","Sport"]
 listed_since: "2014-04-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://pilatesandfriends.com/abo?aff=adminstore#aff=adminstore"
 sales_page: "https://pilatesandfriends.com/abo"
@@ -22,16 +22,16 @@ language: "de"
 # Pilates&Friends Abo - Das Online Pilates Paket
 
 > Product ID `3663` · Digistore24 productId `23599` · [HTML profile page](../../produkte/pilates-friends-abo-das-online-pilates-paket-3663.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $405.89 (Subscription) |
+| Price | $404.99 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $215.36 |
+| Earnings/sale* | $214.88 |
 | Cart conversion* | 15% |
 | Cancel rate* | 0.71% |
 | Vendor | rudingo |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Pilates&Friends Abo Das Online Pilates Paket Das Pilates&Friends Abo ist die Standardmitgliedschaft, die monatlich, halbjährlich oder jährlich abgeschlossen werden kann. Mit dem Pilates&Friends Abo hat der Kunde Zugriff auf über 1.300 Pilates Videos, zu denen wöchentlich neue hinzukommen. Die Videos haben eine Länge von 10 Minuten bis zu über einer Stunde und sind in verschiedenste Schwierigkeitss…
+**Vendor's marketplace description:** <p><strong>Pilates&amp;Friends Abo</strong></p>
+<p><strong>Das Online Pilates Paket</strong></p>
+<div>Das Pilates&amp;Friends Abo ist die Standardmitgliedschaft, die monatlich, halbjährlich oder jährlich abgeschlossen werden kann. Mit dem Pilates&amp;Friends Abo hat der Kunde Zugriff auf über 1.300 Pilates Videos, zu denen wöchentlich neue hinzukommen.</div>
+<div>Die Videos haben eine Länge von 10 Minuten bis zu über einer Stunde und sind in verschiedenste Schwierigkeitsstufen aufgeteilt. Das Mitglied kann somit seine Pilates Übungen von überall und zu jeder Zeit durchführen und profitiert dabei von einer Such- und Filterfunktion nach Ausbildungsschule, Trainer, Länge, Geräte, Kleingeräte und Schwerpunkt. Es gibt keine Vertragsbindung.</div>
+<div> </div>
+<p><strong>Kundenvorteile bei Pilates&amp;Friends:</strong></p>
+<ul style="list-style-type:disc;">
+<li>• Wöchentlich neue Videos</li>
+<li>• Videos aus unterschiedlichen Bereichen mit den besten Trainern</li>
+<li>• Übungsvideos in allen Schwierigkeitsgraden</li>
+<li>• Videos in unterschiedlichen Längen, von 10 Minuten bis über eine Stunde</li>
+<li>• Videos mit Pilates Kleingeräten - überall durchführbar</li>
+<li>• Pilates an den Studiogeräten - inbesondere als Inspiration für Trainer</li>
+<li>• Pilates&amp;Friends Austausch - wöchentliche Video-Calls für die Community</li>
+<li>• Keine Vertragsbindung</li>
+</ul>
 
 ## 2. Links
 
@@ -101,7 +116,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pilates&Friends Abo - Das Online Pilates Paket? — Typ: Member area and video courses, Anbieter: rudingo, gelistet seit 2014-04-03
-- Wie viel kostet es? — 405.892526 USD
+- Wie viel kostet es? — 404.987001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

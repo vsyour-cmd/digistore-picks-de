@@ -4,16 +4,16 @@ digistore24_product_id: 627890
 title: "Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision"
 vendor: "jusaconsulting"
 product_type: "Member area and video courses"
-price: 241.86
+price: 241.32
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 71.4
+earnings_per_sale: 71.25
 cart_conversion_pct: 7
 cancel_rate_pct: 7.53
 categories: ["Social Media"]
 listed_since: "2025-08-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://contentcreaitorclone.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://contentcreaitorclone.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision
 
 > Product ID `53596` · Digistore24 productId `627890` · [HTML profile page](../../produkte/content-creaitor-clone-ki-fotos-und-videos-70-provision-53596.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $241.86 (Single payment) |
+| Price | $241.32 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $71.40 |
+| Earnings/sale* | $71.25 |
 | Cart conversion* | 7% |
 | Cancel rate* | 7.53% |
 | Vendor | jusaconsulting |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In meinem Online-Kurs Content CreAItor Clone zeige ich, wie du mit eigenen Fotos einen KI-Klon erstellst und ihn für neue Bilder und kurze Social-Media-Videos nutzt. Dazu gehören Ideen, Videotexte und die Vorbereitung mehrerer Beiträge. Du lernst mit Videolektionen in deinem Tempo und kannst dich in meiner Skool-Community austauschen. Der Kurs kostet 111 € einmalig. Für die verwendeten KI-Tools kö…
+**Vendor's marketplace description:** <p>In meinem Online-Kurs Content CreAItor Clone zeige ich, wie du mit eigenen Fotos einen KI-Klon erstellst und ihn für neue Bilder und kurze Social-Media-Videos nutzt. Dazu gehören Ideen, Videotexte und die Vorbereitung mehrerer Beiträge. Du lernst mit Videolektionen in deinem Tempo und kannst dich in meiner Skool-Community austauschen.</p>
+<p>Der Kurs kostet 111 € einmalig. Für die verwendeten KI-Tools können separate Kosten anfallen.</p>
+<p>Als Affiliate erhältst du 70 % Provision auf die Digistore24-Provisionsbasis nach Abzug von Umsatzsteuer und Digistore24-Marge. Partnerschaften werden automatisch angenommen. Auf meiner Affiliate-Support-Seite findest du den Partnerbeitritt, einen Werbelink-Generator sowie Texte und Bilder für deine Empfehlung.</p>
+<p>Der Kurs eignet sich für Selbstständige, Coaches und Creator, die eigene KI-Fotos und Videos erstellen möchten. Die Umsetzung erfordert eigene Mitarbeit; bestimmte Reichweiten oder Einnahmen werden nicht versprochen.</p>
 
 ## 2. Links
 
@@ -95,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Content CreAItor Clone | KI-Fotos und Videos | 70 % Provision? — Typ: Member area and video courses, Anbieter: jusaconsulting, gelistet seit 2025-08-05
-- Wie viel kostet es? — 241.85909800000002 USD
+- Wie viel kostet es? — 241.31952300000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

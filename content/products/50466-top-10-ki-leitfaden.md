@@ -4,16 +4,16 @@ digistore24_product_id: 579165
 title: "Top 10 KI Leitfaden"
 vendor: "DS-AffiliateSolution"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 15.55
+earnings_per_sale: 15.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-11-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/zLMTvfhtetqQbGu93?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/zLMTvfhtetqQbGu93"
@@ -22,16 +22,16 @@ language: "de"
 # Top 10 KI Leitfaden
 
 > Product ID `50466` · Digistore24 productId `579165` · [HTML profile page](../../produkte/top-10-ki-leitfaden-50466.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $15.55 |
+| Earnings/sale* | $15.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS-AffiliateSolution |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe den Bestseller Top 10 KI Leitfaden inklusive Kurs: ✅ Das 10 KI Handbuch ist ein praxisorientierter Leitfaden ✅ Für Anfänger und Profis ✅ Ideal wenn Du mit KI online Geld verdienen möchtest ✅ Verschenke dieses E-Book inklusive Kurs an Deine Community Im Upsell warten über 100 Euro Netto Provision auf Dich!
+**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Bewerbe den Bestseller Top 10 KI Leitfaden inklusive Kurs:</strong></span></p>
+<p> </p>
+<p><strong>✅  Das 10 KI Handbuch ist ein praxisorientierter Leitfaden</strong></p>
+<p><strong>✅  Für Anfänger und Profis</strong></p>
+<p><strong>✅  Ideal wenn Du mit KI online Geld verdienen möchtest</strong></p>
+<p><strong>✅  Verschenke dieses E-Book inklusive Kurs an Deine Community</strong></p>
+<p> </p>
+<p><span style="background-color:#ffff00;"><strong>Im Upsell warten über 100 Euro Netto Provision auf Dich! </strong></span></p>
 
 ## 2. Links
 
@@ -67,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Top 10 KI Leitfaden? — Typ: E-books, Anbieter: DS-AffiliateSolution, gelistet seit 2024-11-06
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

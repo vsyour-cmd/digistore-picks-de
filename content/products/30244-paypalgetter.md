@@ -4,16 +4,16 @@ digistore24_product_id: 291390
 title: "PaypalGetter"
 vendor: "kalilasoft"
 product_type: "Software"
-price: 4.62
+price: 4.61
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 1.85
+earnings_per_sale: 1.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-10-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "http://www.kalilasoft.de/paypalgetter/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.kalilasoft.de/paypalgetter/"
@@ -22,16 +22,16 @@ language: "de"
 # PaypalGetter
 
 > Product ID `30244` · Digistore24 productId `291390` · [HTML profile page](../../produkte/paypalgetter-30244.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $4.62 (Single payment) |
+| Price | $4.61 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $1.85 |
+| Earnings/sale* | $1.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kalilasoft |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit unserem Excel Programm lassen sich Paypaltransaktionen einfach runterladen und weiterverarbeiten. Die API Informationen sind im Paypal Login Bereich in das Excel Programm einfach zu kopieren. Schon ist das Programm nutzbar. Unter Add-Ins sieht man unter Skriptoptionen die Möglichkeit die Transaktionen von Paypal direkt in Excel herunterzuladen. Die Transaktionen können nach dem herunterladen w…
+**Vendor's marketplace description:** <p>Mit unserem Excel Programm lassen sich Paypaltransaktionen einfach runterladen und weiterverarbeiten.</p>
+<p>Die API Informationen sind im Paypal Login Bereich in das Excel Programm einfach zu kopieren. Schon ist das Programm nutzbar.</p>
+<p>Unter Add-Ins sieht man unter Skriptoptionen die Möglichkeit die Transaktionen von Paypal direkt in Excel herunterzuladen.</p>
+<p>Die Transaktionen können nach dem herunterladen weiterverarbeitet werden.</p>
 
 ## 2. Links
 
@@ -77,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PaypalGetter? — Typ: Software, Anbieter: kalilasoft, gelistet seit 2019-10-19
-- Wie viel kostet es? — 4.616872 USD
+- Wie viel kostet es? — 4.606572000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

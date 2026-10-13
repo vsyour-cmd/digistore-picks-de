@@ -4,16 +4,16 @@ digistore24_product_id: 701398
 title: "Mein Start auf Mastodon"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 19.9
+price: 19.86
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.95
+earnings_per_sale: 9.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/mein-start-auf-mastodon?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/mein-start-auf-mastodon"
@@ -22,16 +22,16 @@ language: "de"
 # Mein Start auf Mastodon
 
 > Product ID `56978` · Digistore24 productId `701398` · [HTML profile page](../../produkte/mein-start-auf-mastodon-56978.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.90 (Single payment) |
+| Price | $19.86 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.95 |
+| Earnings/sale* | $9.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Instanz wählen, Profil einrichten und in der dezentralen Community Fuß fassen Mastodon fühlt sich anfangs anders an als alle anderen Netzwerke – und genau das ist das Beste daran. Kein Algorithmus sortiert dir die Timeline um, keine Werbung lenkt ab: Du entscheidest, was du siehst. Dieses E-Book begleitet dich vom ersten Klick bis zur aktiven Präsenz im Fediverse. Du lernst, wie du die richtige In…
+**Vendor's marketplace description:** <p><strong>Instanz wählen, Profil einrichten und in der dezentralen Community Fuß fassen</strong></p>
+<p>Mastodon fühlt sich anfangs anders an als alle anderen Netzwerke – und genau das ist das Beste daran. Kein Algorithmus sortiert dir die Timeline um, keine Werbung lenkt ab: Du entscheidest, was du siehst. Dieses E-Book begleitet dich vom ersten Klick bis zur aktiven Präsenz im Fediverse. Du lernst, wie du die richtige Instanz für deine Interessen wählst, dein Profil so einrichtest, dass andere dir gerne folgen, und warum Hashtags auf Mastodon unverzichtbar sind – nicht optional. Dazu erkläre ich dir, wie Boosts funktionieren, warum Alt-Texte hier zur echten Kultur gehören und wie du dich in Nischen-Communities einbringst, ohne aufzufallen. Nach der Lektüre weißt du, wie das Fediverse tickt – und du bist mittendrin statt nur dabei.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Die richtige Instanz finden: Kriterien und Empfehlungen für deinen Start</li>
+<li>Profil &amp; Bio optimieren, damit andere dir mit gutem Grund folgen</li>
+<li>Hashtags als primäres Entdeckungs-Werkzeug konsequent nutzen</li>
+<li>Boosts verstehen und gezielt einsetzen, um Reichweite zu teilen</li>
+<li>Alt-Texte schreiben: die Barrierefreiheits-Kultur von Mastodon leben</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein Start auf Mastodon? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 19.901856000000002 USD
+- Wie viel kostet es? — 19.857456000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 325103
 title: "Bauanleitung - Transporter Kombibett"
 vendor: "mobilesbett"
 product_type: "E-books"
-price: 30.31
+price: 30.24
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 11.97
+earnings_per_sale: 11.94
 cart_conversion_pct: 1
 cancel_rate_pct: 3.32
 categories: ["Hobby & Craft"]
 listed_since: "2020-05-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://mobiles-bett.de/transporter?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/35155/adminstore/"
 sales_page: "https://mobiles-bett.de/transporter"
 language: "de"
 ---
 # Bauanleitung - Transporter Kombibett
 
 > Product ID `35155` · Digistore24 productId `325103` · [HTML profile page](../../produkte/bauanleitung-transporter-kombibett-35155.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.31 (Single payment) |
+| Price | $30.24 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $11.97 |
+| Earnings/sale* | $11.94 |
 | Cart conversion* | 1% |
 | Cancel rate* | 3.32% |
 | Vendor | mobilesbett |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Schritt-für-Schritt Bauanleitung für ein Transporter Kombibett. Die Anleitung beschreibt alle Maße, Materialien und Hölzer, die im Baumarkt zugeschnitten und besorgt werden können. Danach werden die Hölzer und Winkel wie ein Bausatz zusammengesetzt. Das Autobett lässt sich zusammengeschoben platzsparend im Kofferraum transportieren und in wenigen Minuten zum Schlafen ausziehen.
+**Vendor's marketplace description:** <p>Schritt-für-Schritt <strong>Bauanleitung</strong> für ein <strong>Transporter Kombibett</strong>. Die Anleitung beschreibt alle Maße, Materialien und Hölzer, die im Baumarkt zugeschnitten und besorgt werden können. Danach werden die Hölzer und Winkel wie ein Bausatz zusammengesetzt.</p>
+<p> </p>
+<p>Das <strong>Autobett</strong> lässt sich zusammengeschoben platzsparend<strong> im Kofferraum</strong> transportieren und in <strong>wenigen Minuten zum Schlafen ausziehen</strong>.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mobiles-bett.de/transporter?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/35155/adminstore/
 - Sales page: https://mobiles-bett.de/transporter
 - Vendor affiliate support: https://mobiles-bett.de/partnerschaft/
 - Canonical redirect: https://www.digistore24.com/redir/325103/adminstore
@@ -81,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bauanleitung - Transporter Kombibett? — Typ: E-books, Anbieter: mobilesbett, gelistet seit 2020-05-05
-- Wie viel kostet es? — 30.312230000000003 USD
+- Wie viel kostet es? — 30.244605000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

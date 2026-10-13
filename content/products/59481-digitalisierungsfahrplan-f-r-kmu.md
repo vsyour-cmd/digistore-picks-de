@@ -4,34 +4,34 @@ digistore24_product_id: 730606
 title: "Digitalisierungsfahrplan für KMU"
 vendor: "kontakta101"
 product_type: "E-books"
-price: 31.31
+price: 31.24
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.53
+earnings_per_sale: 12.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://digitalisierungsfahrplan-kmu.klarer-kurs.online?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59481/adminstore/"
 sales_page: "https://digitalisierungsfahrplan-kmu.klarer-kurs.online"
 language: "de"
 ---
 # Digitalisierungsfahrplan für KMU
 
 > Product ID `59481` · Digistore24 productId `730606` · [HTML profile page](../../produkte/digitalisierungsfahrplan-f-r-kmu-59481.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.31 (Single payment) |
+| Price | $31.24 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.53 |
+| Earnings/sale* | $12.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kontakta101 |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Digitalisierungs-Fahrplan für KMU ist eine kompakte PDF-Broschüre (ca. 26 Seiten) für Inhaberinnen und Inhaber kleiner und mittlerer Unternehmen ohne IT- oder Steuervorwissen. Inhalt:- Selbstcheck mit Punktesystem zur Standortbestimmung- Vier-Schritte-Methode: Bestandsaufnahme, Zielbild, SMART-Ziele, Maßnahmenplan- Prozesse ohne Spezialsoftware sichtbar machen- Verständlicher Kurzüberblick zu …
+**Vendor's marketplace description:** <p>Der Digitalisierungs-Fahrplan für KMU ist eine kompakte PDF-Broschüre (ca. 26 Seiten) für Inhaberinnen und Inhaber kleiner und mittlerer Unternehmen ohne IT- oder Steuervorwissen.</p>
+<p>Inhalt:<br />- Selbstcheck mit Punktesystem zur Standortbestimmung<br />- Vier-Schritte-Methode: Bestandsaufnahme, Zielbild, SMART-Ziele, Maßnahmenplan<br />- Prozesse ohne Spezialsoftware sichtbar machen<br />- Verständlicher Kurzüberblick zu GoBD, E-Rechnung, Datenschutz und NIS2<br />- Schnellcheck-Tabelle und ausfüllbarer 90-Tage-Fahrplan<br />- Glossar</p>
+<p>Preis: 29,90 EUR inkl. MwSt., Sofort-Download als PDF. Es gilt das gesetzliche 14-Tage-Widerrufsrecht.</p>
+<p>Wichtig für die Bewerbung: Die Broschüre ist eine praxisnahe Orientierungshilfe und ersetzt keine individuelle Steuer- oder Rechtsberatung. Rechtsstand: August 2026. Bitte keine Garantien, Erfolgsversprechen, erfundenen Zahlen oder Bewertungen verwenden, keine Aussagen zum Ausschluss des Widerrufs und keine Rabatt- oder Knappheitsaktionen. Empfehlungen mit Affiliate-Link bitte als Werbung kennzeichnen.</p>
+<p>Verkaufsseite: https://digitalisierungsfahrplan-kmu.klarer-kurs.online/</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digitalisierungsfahrplan-kmu.klarer-kurs.online?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59481/adminstore/
 - Sales page: https://digitalisierungsfahrplan-kmu.klarer-kurs.online
 - Vendor affiliate support: https://digitalisierungsfahrplan-kmu.klarer-kurs.online/affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/730606/adminstore
@@ -76,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitalisierungsfahrplan für KMU? — Typ: E-books, Anbieter: kontakta101, gelistet seit 2026-09-21
-- Wie viel kostet es? — 31.309564 USD
+- Wie viel kostet es? — 31.239714000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

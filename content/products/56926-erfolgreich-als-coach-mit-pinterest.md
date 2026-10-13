@@ -4,16 +4,16 @@ digistore24_product_id: 701358
 title: "Erfolgreich als Coach mit Pinterest"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-pinterest?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-pinterest"
@@ -22,16 +22,16 @@ language: "de"
 # Erfolgreich als Coach mit Pinterest
 
 > Product ID `56926` · Digistore24 productId `701358` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-pinterest-56926.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du mit Evergreen-Pins konstant neue Interessenten auf dein Angebot lenkst Als Coach brauchst du keine virale Reichweite – du brauchst einen konstanten Strom qualifizierter Interessenten, die aktiv nach deiner Lösung suchen. Genau das liefert Pinterest. Diese visuelle Suchmaschine schickt dir täglich Menschen, die gezielt nach deinem Thema suchen, direkt auf deine Landingpage, deinen Freebie-Do…
+**Vendor's marketplace description:** <p><strong>Wie du mit Evergreen-Pins konstant neue Interessenten auf dein Angebot lenkst</strong></p>
+<p>Als Coach brauchst du keine virale Reichweite – du brauchst einen konstanten Strom qualifizierter Interessenten, die aktiv nach deiner Lösung suchen. Genau das liefert Pinterest. Diese visuelle Suchmaschine schickt dir täglich Menschen, die gezielt nach deinem Thema suchen, direkt auf deine Landingpage, deinen Freebie-Download oder dein Erstgespräch. Dieses E-Book zeigt dir, wie du deine Pins strategisch mit Keywords belegst, die deine Wunschkunden eintippen, wie du einen funktionierenden Traffic-Funnel vom Pin zur Buchung aufbaust und wie du mit wenigen Pins pro Woche ein System schaffst, das monatelang im Hintergrund für dich arbeitet. Statt täglich Content zu produzieren, investierst du einmal – und erntets langfristig.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Die Keyword-Strategie, die deine Wunschkunden direkt zu dir führt</li>
+<li>Board-Struktur für Coaches: Themen, die Kaufabsicht zeigen</li>
+<li>Pin-Texte, die Vertrauen aufbauen und zum Klick einladen</li>
+<li>Der Traffic-Funnel: vom Pin zur Landingpage zum Erstgespräch</li>
+<li>Freebie-Strategien: Lead-Magnete, die über Pinterest funktionieren</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit Pinterest? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

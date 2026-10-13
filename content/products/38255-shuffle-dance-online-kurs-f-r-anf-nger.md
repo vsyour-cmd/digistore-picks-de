@@ -4,34 +4,34 @@ digistore24_product_id: 413659
 title: "Shuffle Dance Online Kurs - Für Anfänger"
 vendor: "shuffledancemunich"
 product_type: "Member area and video courses"
-price: 47.93
+price: 47.82
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.1
+earnings_per_sale: 12.08
 cart_conversion_pct: 14
 cancel_rate_pct: 2.89
 categories: ["Dancing & Music"]
 listed_since: "2021-10-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.shuffledancemunich.com/shuffle-dance-onlinekurs?aff=adminstore#aff=adminstore"
+promo_link: "http://magiclearning.at/akademie-sl/#aff=adminstore"
 sales_page: "https://www.shuffledancemunich.com/shuffle-dance-onlinekurs"
 language: "de"
 ---
 # Shuffle Dance Online Kurs - Für Anfänger
 
 > Product ID `38255` · Digistore24 productId `413659` · [HTML profile page](../../produkte/shuffle-dance-online-kurs-f-r-anf-nger-38255.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $47.93 (Single payment) |
+| Price | $47.82 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.10 |
+| Earnings/sale* | $12.08 |
 | Cart conversion* | 14% |
 | Cancel rate* | 2.89% |
 | Vendor | shuffledancemunich |
@@ -41,11 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Shuffle Dance tanzen lernen Wann und Wo man will - und das vor allem mit Spaß. Es gibt tausende Festival-Liebhaber und Menschen, die Elektro/House Musik feiern. Selbst auf Social Media findet man tagtäglich Shuffle Dance Videos mit mehreren tausenden an Views und Likes. Als erfahrener Shuffle Dance Trainer habe ich erlebt wie Kinder als auch Erwachsene, sich für die mitreißenden Beats und Moves be…
+**Vendor's marketplace description:** <p><strong>Shuffle Dance tanzen lernen Wann und Wo man will - und das vor allem mit Spaß.</strong></p>
+<p>Es gibt tausende Festival-Liebhaber und Menschen, die Elektro/House Musik feiern.</p>
+<p>Selbst auf Social Media findet man tagtäglich Shuffle Dance Videos mit mehreren tausenden an Views und Likes.</p>
+<p>Als erfahrener Shuffle Dance Trainer habe ich erlebt wie Kinder als auch Erwachsene, sich für die mitreißenden Beats und Moves begeistern lassen konnten und die <strong>Altersgruppe der Tänzer zwischen - 8-60</strong> liegen kann.</p>
+<p>Dieser Shuffle Dance Online Kurs #1 ist einer von einer Reihe von Shuffle Dance Kursen, die in den kommenden Monaten auf den Markt kommen werden.</p>
+<p><strong>#1-#3 der Anfängerkurse sind bereits abgedreht und #4-#6 sind in Planung für 2022.</strong></p>
+<p> </p>
+<p><strong>Dieser Shuffle Dance Onlinekurs beinhaltet 6 Kapitel, 57 Lektionen und über 2 Stunden Videomaterial. </strong></p>
+<p>In diesem Shuffle Dance Online Kurs #1 geht es um die Grundlagen des Shuffle Dance, die ersten Variationsmöglichkeiten und vor allem darum - in seinem eigenen Lerntempo zu trainieren.</p>
+<p>Der Kurs ist ideal für alle tanzbegeisterten Anfänger und bring mit einer guten Struktur, den Spaß am Tanzen nach Hause.</p>
+<p>Es werden die bekanntesten Shuffle Dance Moves unterrichtet, wie zum Beispiel der <strong>Running Man, T-Step, Charleston oder Happyfeet.</strong></p>
+<p>Nach jedem Move und seinen dazugehörigen Variationen, folgt eine Kombination mit den gelernten Schritten, um diese erst langsam und dann immer schneller auf Musik zu üben.</p>
+<p>Anders als bei den üblichen Tutorials, die es überall auf Social Media gibt, werden hier nicht nur Moves, sondern auch Vorübungen zu den Tanzschritten, Trainingstipps zur Geschwindigkeit, Informationen zu Schwerpunktverlagerung und individuelles Feedback gegeben!</p>
+<p> </p>
+<p>Ich freue mich auf alle Kooperationen und stehe für Fragen und Ideen jederzeit zur Verfügung.</p>
+<p> </p>
+<p>Fabian Richt</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.shuffledancemunich.com/shuffle-dance-onlinekurs?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://magiclearning.at/akademie-sl/#aff=adminstore
 - Sales page: https://www.shuffledancemunich.com/shuffle-dance-onlinekurs
 - Vendor affiliate support: https://www.shuffledancemunich.com/affiliate-shuffledance
 - Canonical redirect: https://www.digistore24.com/redir/413659/adminstore
@@ -83,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Shuffle Dance Online Kurs - Für Anfänger? — Typ: Member area and video courses, Anbieter: shuffledancemunich, gelistet seit 2021-10-26
-- Wie viel kostet es? — 47.928062000000004 USD
+- Wie viel kostet es? — 47.82113700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

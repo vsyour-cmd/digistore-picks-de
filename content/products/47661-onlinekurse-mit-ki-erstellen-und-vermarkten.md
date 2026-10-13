@@ -4,34 +4,34 @@ digistore24_product_id: 546518
 title: "Onlinekurse mit KI erstellen und vermarkten"
 vendor: "Ararembe"
 product_type: "Member area and video courses"
-price: 71.39
+price: 71.23
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 13.59
+earnings_per_sale: 13.56
 cart_conversion_pct: 6
 cancel_rate_pct: 4.08
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-04-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://onlinekurse-von-experten.com/ki-onlinekurs-business-frontend499/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47661/adminstore/"
 sales_page: "https://onlinekurse-von-experten.com/ki-onlinekurs-business-frontend499/"
 language: "de"
 ---
 # Onlinekurse mit KI erstellen und vermarkten
 
 > Product ID `47661` · Digistore24 productId `546518` · [HTML profile page](../../produkte/onlinekurse-mit-ki-erstellen-und-vermarkten-47661.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $71.39 (Single payment) |
+| Price | $71.23 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $13.59 |
+| Earnings/sale* | $13.56 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.08% |
 | Vendor | Ararembe |
@@ -41,11 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Geld verdienen mit dem Produkt: "KI Onlinekurs Business - Schnelle und einfache Erstellung von KI gestützten Videokursen" Initial 5,00 € fixe Sale-Provisionen (für jede 4,99 € Einmalzahlung) Upsell 30-50% Und so verdienst Du Provisionen: 1. Fixe Sale Provisionen Sofern sich Deine Kontakte, die Interessenten, dazu entschließen, in das KI-Onlinekurs-Business einzusteigen, können sie ab sofort auf un…
+**Vendor's marketplace description:** <p>Geld verdienen mit dem Produkt: <br /><br /><strong>"KI Onlinekurs Business - Schnelle und einfache Erstellung von KI gestützten Videokursen"</strong> <br /><br />Initial 5,00 € fixe Sale-Provisionen (für jede 4,99 € Einmalzahlung)</p>
+<p> </p>
+<p>Upsell 30-50%</p>
+<p> </p>
+<p>Und so verdienst Du Provisionen:</p>
+<p>1. Fixe Sale Provisionen Sofern sich Deine Kontakte, die Interessenten, dazu entschließen, in das KI-Onlinekurs-Business einzusteigen, können sie ab sofort auf unserer Seite für eine Einmalzahlung von nur 4,99 € auf die Produkt-Vollversion "<strong>KI Onlinekurs Business</strong>" erstellen Die Käufer erhalten durch diese Einmalzahlung Vollzugriff auf das komplette Produkt (kein abgespecktes Produkt, kein Infoprodukt!).</p>
+<p>Wir sind transparent und spielen mit offenen Karten. Und deshalb bieten wir den vollen Zugang für einen symbolischen Preis an. So können die Interessenten ohne Limits das Produkt in aller Ruhe nutzen (was übrigens extrem gut bei den Leuten ankommt!). Pro Sale erhältst Du hier eine fixe Provision von 5,00 €!*</p>
+<p><br />2. Direktes Upsell</p>
+<p>Im Upsell des Bezahlverlaufs erhalten die 4,99 €-Zahler ein weiteres Top Angebot zu einem unserer Marketing-Produkte, das i.d.R. mit 30-50% verprovisioniert wird!</p>
+<p> </p>
+<p>3. Weitere Angebote im Upsell/Bezahlverlauf Natürlich gibt es noch weitere Upsell-Angebote im Bezahlverlauf. Diese werden fortlaufend erneuert / optimiert. Die Sale- bzw. Lifetime-Provisionen variieren zwischen 20-50%! Darüber hinaus kannst Du als Affiliate auch ganze 180 Tage von Angeboten profitieren, die wir anschließend fast täglich im Newsletter präsentieren!</p>
+<p>*Hinweis: Alle Affiliate-Angebote und Provisionen können sich jederzeit ändern, da wir hier ständig optimieren, um für alle Beteiligten das Beste Ergebnis zu erzielen!</p>
+<p>Detaillierte Infos zum Ablauf des Affiliate-Programms auf unserer <a href="https://www.ararembe.com/serviceportal/online-einkommen/" target="_blank" rel="noreferrer noopener">Affiliate Support Seite &gt;&gt;</a></p>
+<p> </p>
+<p>Zum Produkt:</p>
+<p>Die hochwertige Video-Verdienstanleitung "KI Onlinekurs Business - Schnelle &amp; einfache Erstellung von KI gestützten Videokursen" vermittelt Anwendern eine smarte KI-Strategie, mit der sie KI-generierte Onlinekurse erstellen und vermarkten können. Ziel ist es, ein eigenes Onlinekurs-Business aufzubauen. Noch Fragen?</p>
+<p> </p>
+<p><a href="https://www.ararembe.com/serviceportal/online-einkommen/" target="_blank" rel="noreferrer noopener">Affiliate-Supportseite &gt;&gt;</a></p>
+<p> </p>
+<p>Partner-Programm-Support: partner@ararembe.com</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://onlinekurse-von-experten.com/ki-onlinekurs-business-frontend499/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47661/adminstore/
 - Sales page: https://onlinekurse-von-experten.com/ki-onlinekurs-business-frontend499/
 - Vendor affiliate support: https://www.ararembe.com/serviceportal/online-einkommen/
 - Canonical redirect: https://www.digistore24.com/redir/546518/adminstore
@@ -85,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurse mit KI erstellen und vermarkten? — Typ: Member area and video courses, Anbieter: Ararembe, gelistet seit 2024-04-02
-- Wie viel kostet es? — 71.393426 USD
+- Wie viel kostet es? — 71.23415100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

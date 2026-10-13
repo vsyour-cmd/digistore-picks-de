@@ -4,34 +4,34 @@ digistore24_product_id: 253102
 title: "Premium Mastermind Coaching - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 505.68
+price: 504.55
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 151.71
+earnings_per_sale: 151.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2018-12-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://gunnarkesslerwebinar.de/pmc-workshop-1400/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/30311/adminstore/"
 sales_page: "https://gunnarkesslerwebinar.de/pmc-workshop-1400/"
 language: "de"
 ---
 # Premium Mastermind Coaching - von Gunnar Kessler
 
 > Product ID `30311` · Digistore24 productId `253102` · [HTML profile page](../../produkte/premium-mastermind-coaching-von-gunnar-kessler-30311.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $505.68 (Single payment, Installment) |
+| Price | $504.55 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $151.71 |
+| Earnings/sale* | $151.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GTK-littlefreilich |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit dem Premium Mastermind Coaching bis zu 625€ pro Kunden verdienen (gesamter Upsell Funnel)! Im Premium Mastermind Coaching dreht sich alles um den persönlichen Erfolg. Da es sich um ein Coaching mit direkter Rückmeldung von Gunnar Kessler handelt, wird es ausschließlich über ein Auto-Webinar (Wir sagen Online Workshop) verkauft und Du wirst mit 30% am Frontsell beteiligt.Der Vorteil: Persönlich…
+**Vendor's marketplace description:** <h4>Mit dem Premium Mastermind Coaching bis zu 625€ pro Kunden verdienen (gesamter Upsell Funnel)!</h4>
+<p><br /> Im Premium Mastermind Coaching dreht sich alles um den persönlichen Erfolg. Da es sich um ein Coaching mit direkter Rückmeldung von Gunnar Kessler handelt, wird es ausschließlich über ein Auto-Webinar (Wir sagen Online Workshop) verkauft und Du wirst mit 30% am Frontsell beteiligt.<br /><br /><strong>Der Vorteil:</strong> <strong>Persönliches Coaching fast komplett automatisiert</strong><br /> Wir haben es geschafft eine Mischung aus automatisiertem Kurs und Persönlichem Coaching auf die Beine zu stellen. Daher ist es uns möglich dem Kunden diese Coaching so günstig anzubieten. <br /><br /> Die Mitglieder werden mit Aufgaben und Arbeitsblättern dahin geführt, dass <strong>ihre Persönlichkeit und ihr Mindset wachsen.</strong> <strong>Gunnar persönlich gibt Feedback</strong> zu den ausgefüllten Aufgabenblättern und nach erfolgreichem Absolvieren dieser Aufgaben, schaltet er ihnen das Folgemodul frei.<br /><br /> Willst Du deinen Kunden solch eine Möglichkeit nicht verwehren und ihnen die Möglichkeit geben am persönlichen Coaching von Gunnar Kessler teil zu nehmen? Dann bewirb jetzt das Online Auto-Webinar und lass uns den Rest übernehmen.<br /><br /> Durch den engen Kundenkontakt, konnten wir feststellen, dass <strong>unsere Kunden</strong> von diesem Coaching <strong>außerordentlich begeistert</strong> sind und starke Fortschritte machen. Da wir das Premium Mastermind Coaching ausschließlich über ein Webinar zum Kauf anbieten, ist die Kaufbereitschaft sehr hoch.<br /><br /><strong>Bewirb jetzt den Online Workshop und profitiere bereits heute vom gesamten Upsell Funnel!</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://gunnarkesslerwebinar.de/pmc-workshop-1400/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/30311/adminstore/
 - Sales page: https://gunnarkesslerwebinar.de/pmc-workshop-1400/
 - Canonical redirect: https://www.digistore24.com/redir/253102/adminstore
 
@@ -76,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premium Mastermind Coaching - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2018-12-18
-- Wie viel kostet es? — 505.681956 USD
+- Wie viel kostet es? — 504.553806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

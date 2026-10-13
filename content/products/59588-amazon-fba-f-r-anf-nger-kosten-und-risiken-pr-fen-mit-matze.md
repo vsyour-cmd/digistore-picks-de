@@ -4,16 +4,16 @@ digistore24_product_id: 736415
 title: "Amazon FBA für Anfänger – Kosten und Risiken prüfen mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 140.31
+price: 140
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.12
+earnings_per_sale: 55.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736415?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736415"
@@ -22,16 +22,16 @@ language: "de"
 # Amazon FBA für Anfänger – Kosten und Risiken prüfen mit Matze
 
 > Product ID `59588` · Digistore24 productId `736415` · [HTML profile page](../../produkte/amazon-fba-f-r-anf-nger-kosten-und-risiken-pr-fen-mit-matze-59588.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $140.31 (Single payment) |
+| Price | $140.00 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.12 |
+| Earnings/sale* | $55.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Amazon FBA für Anfänger – Kosten und Risiken prüfen mit Matze Produktidee, Stückrechnung, Lieferkette und Pilotentscheidung bewerten. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: eine Kostenrechnung und Kriterien für eine kleine Pilotentscheidung. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projek…
+**Vendor's marketplace description:** <p>Amazon FBA für Anfänger – Kosten und Risiken prüfen mit Matze</p>
+<p>Produktidee, Stückrechnung, Lieferkette und Pilotentscheidung bewerten. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: eine Kostenrechnung und Kriterien für eine kleine Pilotentscheidung. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt.</p>
+<p>Das lernst du:<br />1. Modell und Kapitalbedarf<br />2. Kundenbedarf und Produktregeln<br />3. Lieferanten und Muster<br />4. Vollständige Stückrechnung<br />5. Listing, Bestand und Test<br />6. Pilot auswerten</p>
+<p>Für wen? Einsteiger, die ein physisches Produkt für Amazon FBA sorgfältig prüfen möchten.</p>
+<p>Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben.</p>
+<p>Transparenz: Das Beispiel ist fiktiv. Ein eigener dokumentierter FBA-Pilotfall des Kursanbieters fehlt noch; diese Fassung bleibt bis dahin unveröffentlicht.</p>
+<p>Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %.</p>
+<p>Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.</p>
 
 ## 2. Links
 
@@ -90,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Amazon FBA für Anfänger – Kosten und Risiken prüfen mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 140.310326 USD
+- Wie viel kostet es? — 139.997301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

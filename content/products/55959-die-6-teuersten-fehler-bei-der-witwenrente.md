@@ -4,34 +4,34 @@ digistore24_product_id: 671223
 title: "Die 6 teuersten Fehler bei der Witwenrente"
 vendor: "verwitwet-leben"
 product_type: "Member area and video courses"
-price: 41.2
+price: 41.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 37.3
+earnings_per_sale: 37.22
 cart_conversion_pct: 18
 cancel_rate_pct: 0.45
 categories: ["Business & Investment","Education"]
 listed_since: "2026-02-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://verwitwet-leben.de/videokurs-stolperfallen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55959/adminstore/"
 sales_page: "https://verwitwet-leben.de/videokurs-stolperfallen/"
 language: "de"
 ---
 # Die 6 teuersten Fehler bei der Witwenrente
 
 > Product ID `55959` · Digistore24 productId `671223` · [HTML profile page](../../produkte/die-6-teuersten-fehler-bei-der-witwenrente-55959.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.20 (Single payment) |
+| Price | $41.11 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $37.30 |
+| Earnings/sale* | $37.22 |
 | Cart conversion* | 18% |
 | Cancel rate* | 0.45% |
 | Vendor | verwitwet-leben |
@@ -41,11 +41,35 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die 6 teuersten Fehler bei der Witwenrente (Online-Videokurs) In diesem kompakten Videokurs erfährst Du, worauf es bei Witwenrente, Steuern und Einkommen wirklich ankommt – verständlich erklärt und direkt anwendbar. Du lernst unter anderem: die wichtigsten Grundlagen der gesetzlichen Rentenversicherung typische Rentenminderungen und wie Du sie erkennst Besonderheiten bei Witwen-, Witwer- und Erzie…
+**Vendor's marketplace description:** <p><strong>Die 6 teuersten Fehler bei der Witwenrente (Online-Videokurs)</strong></p>
+<p>In diesem kompakten Videokurs erfährst Du, worauf es bei Witwenrente, Steuern und Einkommen wirklich ankommt – verständlich erklärt und direkt anwendbar.</p>
+<p>Du lernst unter anderem:</p>
+<ul>
+<li>
+<p>die wichtigsten Grundlagen der gesetzlichen Rentenversicherung</p>
+</li>
+<li>
+<p>typische Rentenminderungen und wie Du sie erkennst</p>
+</li>
+<li>
+<p>Besonderheiten bei Witwen-, Witwer- und Erziehungsrente</p>
+</li>
+<li>
+<p>steuerliche Aspekte wie das Witwensplitting</p>
+</li>
+<li>
+<p>wichtige Regelungen für Deine Kinder</p>
+</li>
+<li>
+<p>die Hinzuverdienstgrenze und einen praktischen Lifehack</p>
+</li>
+</ul>
+<p>Der Kurs dauert ca. 2 Stunden und enthält zusätzliche Materialien zum Download. Du hast 30 Tage Zugriff und kannst alles beliebig oft ansehen.</p>
+<p><strong>Bonus:</strong> Inklusive beliebter Excel-Berechnungshilfe zur direkten Umsetzung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://verwitwet-leben.de/videokurs-stolperfallen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55959/adminstore/
 - Sales page: https://verwitwet-leben.de/videokurs-stolperfallen/
 - Canonical redirect: https://www.digistore24.com/redir/671223/adminstore
 
@@ -84,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 6 teuersten Fehler bei der Witwenrente? — Typ: Member area and video courses, Anbieter: verwitwet-leben, gelistet seit 2026-02-24
-- Wie viel kostet es? — 41.20446200000001 USD
+- Wie viel kostet es? — 41.11253700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

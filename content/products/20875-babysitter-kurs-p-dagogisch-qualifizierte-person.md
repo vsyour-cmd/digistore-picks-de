@@ -4,34 +4,34 @@ digistore24_product_id: 116929
 title: "Babysitter-Kurs: \"Pädagogisch qualifizierte Person\""
 vendor: "IT-Projekte"
 product_type: "Downloads"
-price: 184.9
+price: 184.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 92.45
+earnings_per_sale: 92.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2017-02-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.abc-kinderbetreuung.at/?aff=adminstore#aff=adminstore"
+promo_link: "http://start.norbert-kloiber.at/xibutler-sp/#aff=adminstore"
 sales_page: "https://www.abc-kinderbetreuung.at/"
 language: "de"
 ---
 # Babysitter-Kurs: "Pädagogisch qualifizierte Person"
 
 > Product ID `20875` · Digistore24 productId `116929` · [HTML profile page](../../produkte/babysitter-kurs-p-dagogisch-qualifizierte-person-20875.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $184.90 (Single payment, Installment) |
+| Price | $184.49 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $92.45 |
+| Earnings/sale* | $92.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IT-Projekte |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 35-Stunden-Fernkurs für Au-Pairs, Babysitter, Eltern, Großeltern und sonstige Kinderbetreuungspersonen - inklusive Online-Prüfung. Der einzige Kurs, der die Ausbildung selbstbestimmt binnen 3 Tagen ermöglicht, bei eigener Zeiteinteilung. Die 3 Module gibt es wahlweise als download-bare Audio-Dateien (MP3), sodass ein Lernen unterwegs bzw. ohne Lesen möglich ist. Nach bestandener Prüfung erhalten S…
+**Vendor's marketplace description:** <p><strong>35-Stunden-Fernkurs</strong> für Au-Pairs, Babysitter, Eltern, Großeltern und sonstige Kinderbetreuungspersonen - inklusive Online-Prüfung.</p>
+<p><strong>Der einzige Kurs</strong>, der die Ausbildung selbstbestimmt binnen 3 Tagen ermöglicht, bei eigener Zeiteinteilung. Die 3 Module gibt es wahlweise als download-bare Audio-Dateien (MP3), sodass ein Lernen unterwegs bzw. ohne Lesen möglich ist.</p>
+<p>Nach bestandener Prüfung erhalten Sie eine Urkunde, die Sie als "<strong>Pädagogisch qualifizierte Person</strong>" auszeichnet. Dieser Titel ist in Österreich gesetzlich anerkannt.</p>
+<p><span style="background-color:#ffff99;"><strong>=&gt; 30 Tage Geld-zurück-Garantie. &lt;=</strong></span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.abc-kinderbetreuung.at/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://start.norbert-kloiber.at/xibutler-sp/#aff=adminstore
 - Sales page: https://www.abc-kinderbetreuung.at/
 - Vendor affiliate support: https://www.abc-kinderbetreuung.at/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/116929/adminstore
@@ -97,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Babysitter-Kurs: "Pädagogisch qualifizierte Person"? — Typ: Downloads, Anbieter: IT-Projekte, gelistet seit 2017-02-01
-- Wie viel kostet es? — 184.899 USD
+- Wie viel kostet es? — 184.4865 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 416568
 title: "Praxis Elektrik - Handwerkzeuge der Elektroinstallation"
 vendor: "elektricks"
 product_type: "E-books"
-price: 105.81
+price: 105.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.84
+earnings_per_sale: 18.8
 cart_conversion_pct: 24
 cancel_rate_pct: 8.4
 categories: ["Education"]
 listed_since: "2021-11-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://elektricks.com/praxis-elektrik-handwerkzeuge-der-elektroinstallation/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/41851/adminstore/"
 sales_page: "https://elektricks.com/praxis-elektrik-handwerkzeuge-der-elektroinstallation/"
 language: "de"
 ---
 # Praxis Elektrik - Handwerkzeuge der Elektroinstallation
 
 > Product ID `41851` · Digistore24 productId `416568` · [HTML profile page](../../produkte/praxis-elektrik-handwerkzeuge-der-elektroinstallation-41851.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $105.81 (Single payment) |
+| Price | $105.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.84 |
+| Earnings/sale* | $18.80 |
 | Cart conversion* | 24% |
 | Cancel rate* | 8.4% |
 | Vendor | elektricks |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Fachbuch zum Thema Handwerkzeuge der Elektroinstallation Empfehlen Sie das Fachbuch zum Thema Elektrik. Der Leser lernt jedes einzelne Werkzeug genaustens kennen. In diesem eBook erfährt der Leser, wie jedes Werkzeug aussieht, bei welchen Arbeiten es eingesetzt wird und wie man es Schritt für Schritt professionell einsetzt. 50% Provision hohe Conversionsrate niedrige Storoquote 288 Seiten 492 …
+**Vendor's marketplace description:** <p><strong>Das Fachbuch zum Thema Handwerkzeuge der Elektroinstallation</strong></p>
+<p>Empfehlen Sie das Fachbuch zum Thema Elektrik. Der Leser lernt <strong>jedes einzelne Werkzeug genaustens kennen</strong>.</p>
+<p>In diesem eBook erfährt der Leser, wie jedes Werkzeug aussieht, bei welchen Arbeiten es eingesetzt wird und wie man es Schritt für Schritt professionell einsetzt.</p>
+<p> </p>
+<ul>
+<li>50% Provision<br /> </li>
+<li>hohe Conversionsrate<br /><br /></li>
+<li>niedrige Storoquote<br /><br /></li>
+<li>288 Seiten<br /><br /></li>
+<li>492 Bilder<br /><br /></li>
+<li>20'000 Wörter</li>
+</ul>
+<p> </p>
+<p>Dieses Buch eignet sich für Laien, Schüler, Lehrlinge und Ausgebildete und einfach für jeden, der sich für dieses Thema interessiert.</p>
+<p>Potenzielle Kunden haben die Möglichkeit, das erste Kapitel (30-Seiten) komplett kostenlos Probe zu lesen.</p>
+<p><strong>Werden Sie jetzt unser Partner</strong> und empfehlen Sie Ihren Kontakten unser eBook.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://elektricks.com/praxis-elektrik-handwerkzeuge-der-elektroinstallation/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/41851/adminstore/
 - Sales page: https://elektricks.com/praxis-elektrik-handwerkzeuge-der-elektroinstallation/
 - Vendor affiliate support: https://elektricks.com/partnerprogramm-handwerkzeuge-der-elektroinstallation/
 - Canonical redirect: https://www.digistore24.com/redir/416568/adminstore
@@ -107,7 +122,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Praxis Elektrik - Handwerkzeuge der Elektroinstallation? — Typ: E-books, Anbieter: elektricks, gelistet seit 2021-11-17
-- Wie viel kostet es? — 105.807052 USD
+- Wie viel kostet es? — 105.57100200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

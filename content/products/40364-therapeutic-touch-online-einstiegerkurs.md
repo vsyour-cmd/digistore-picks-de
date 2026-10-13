@@ -4,16 +4,16 @@ digistore24_product_id: 447934
 title: "THERAPEUTIC TOUCH Online-Einstiegerkurs"
 vendor: "TT-Coach"
 product_type: "Member area and video courses"
-price: 197.75
+price: 197.31
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 49.44
+earnings_per_sale: 49.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2022-06-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://therapeutictouchausbildung.de/therapeutic-touch-online-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://therapeutictouchausbildung.de/therapeutic-touch-online-kurs/"
@@ -22,16 +22,16 @@ language: "de"
 # THERAPEUTIC TOUCH Online-Einstiegerkurs
 
 > Product ID `40364` · Digistore24 productId `447934` · [HTML profile page](../../produkte/therapeutic-touch-online-einstiegerkurs-40364.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $197.75 (Single payment, Installment) |
+| Price | $197.31 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $49.44 |
+| Earnings/sale* | $49.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TT-Coach |
@@ -41,7 +41,51 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der THERAPEUTIC TOUCH Online-EinstiegerkursDie Kunst der heilsamen Berührung THERAPEUTIC TOUCH (TT) ist eine ganzheitliche Pflegeintervention und komplementäre Behandlungsmethode. Vor mehr als 40 Jahren wurde die standardisierte Methode an der New Yorker Universität 1972 von der Professorin für Krankenpflege Prof. Dr. Dolores Krieger gemeinsam mit Dora Kunz für den Einsatz in der modernen Krankenp…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<p><strong>Der THERAPEUTIC TOUCH </strong>Online-Einstiegerkurs<br /><strong>Die Kunst der heilsamen Berührung</strong></p>
+<p><strong>THERAPEUTIC TOUCH (TT) ist eine ganzheitliche Pflegeintervention und komplementäre Behandlungsmethode.</strong> <br />Vor mehr als 40 Jahren wurde die standardisierte Methode an der New Yorker Universität 1972 von der Professorin für Krankenpflege Prof. Dr. Dolores Krieger gemeinsam mit Dora Kunz für den Einsatz in der modernen Krankenpflege auf der Basis alter Heiltraditionen entwickelt.<br /><br />THERAPEUTIC TOUCH sieht den Menschen im Sinne des Pflegemodells der Pflegewissenschaftlerin Prof. Martha Rogers als offenes bioelektronisches Energiesystem, das sich im ständigen Austausch mit der Umgebung befindet.</p>
+<div>Das Ziel von THERAPEUTIC TOUCH</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<p>Das Ziel der Behandlungsmethode ist es, das Energiefeld des Menschen mittels der Hände zu harmonisieren und dadurch indirekt die Selbstheilungskräfte des Menschen anzuregen.</p>
+<div><strong>Die klinische Praxis zeigt, dass THERAPEUTIC TOUCH eine erfolgreiche energetische Unterstützungsmaßnahme ist</strong></div>
+</div>
+<div>
+<div>
+<ul>
+<li>
+<p>bei chronischen Erkrankungen</p>
+</li>
+<li>
+<p>bei onkologischen Erkrankungen im Bereich der Entspannung</p>
+</li>
+<li>
+<p>bei prä- und postoperativen Phasen</p>
+</li>
+<li>
+<p>in der Schwangerschaft</p>
+</li>
+<li>
+<p>in der Palliativpflege und Sterbebegleitung</p>
+</li>
+<li>
+<p>bei Maßnahmen zur Gesundheitsförderung und Prävention</p>
+</li>
+</ul>
+</div>
+</div>
+<div>
+<div>
+<p><strong>Die THERAPEUTIC TOUCH Methode ist durch mehr als 600 Pilot- und Fallstudien in ihrer Wirksamkeit belegt.</strong> In den USA und in Europa wird THERAPEUTIC TOUCH in Klinken und in freien Praxen erfolgreich angewandt. </p>
+</div>
+</div>
+</div>
+<p><strong>Als Affiliate erhältst Du 25% Provision für jeden Verkauf. </strong> </p>
 
 ## 2. Links
 
@@ -74,7 +118,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist THERAPEUTIC TOUCH Online-Einstiegerkurs? — Typ: Member area and video courses, Anbieter: TT-Coach, gelistet seit 2022-06-22
-- Wie viel kostet es? — 197.752282 USD
+- Wie viel kostet es? — 197.31110700000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

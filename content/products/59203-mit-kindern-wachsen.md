@@ -4,34 +4,34 @@ digistore24_product_id: 728038
 title: "Mit Kindern wachsen"
 vendor: "wissenskind"
 product_type: "E-books"
-price: 5.19
+price: 5.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 2.6
+earnings_per_sale: 2.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Marketing Services"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://mit-kinder-wachsen.my.canva.site/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59203/adminstore/"
 sales_page: "https://mit-kinder-wachsen.my.canva.site/"
 language: "de"
 ---
 # Mit Kindern wachsen
 
 > Product ID `59203` · Digistore24 productId `728038` · [HTML profile page](../../produkte/mit-kindern-wachsen-59203.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.19 (Single payment) |
+| Price | $5.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $2.60 |
+| Earnings/sale* | $2.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wissenskind |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit Kindern wachsen - von Sarah J. Bennett In diesem umfassenden Praxis-Guide übersetzen wir die stärksten Werkzeuge des Neuro-Linguistischen Programmierens (NLP) in kinderleichte, alltagstaugliche Strategien für Familien. ​Keine graue Theorie. Keine komplizierten Fachbegriffe. Sondern sofort anwendbare Lösungen für Ihren Alltag.
+**Vendor's marketplace description:** <p>Mit Kindern wachsen - von Sarah J. Bennett </p>
+<p> </p>
+<p>In diesem umfassenden Praxis-Guide übersetzen wir die stärksten Werkzeuge des Neuro-Linguistischen Programmierens (NLP) in kinderleichte, alltagstaugliche Strategien für Familien.</p>
+<p>​Keine graue Theorie. Keine komplizierten Fachbegriffe. Sondern sofort anwendbare Lösungen für Ihren Alltag.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mit-kinder-wachsen.my.canva.site/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59203/adminstore/
 - Sales page: https://mit-kinder-wachsen.my.canva.site/
 - Canonical redirect: https://www.digistore24.com/redir/728038/adminstore
 
@@ -59,7 +63,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit Kindern wachsen? — Typ: E-books, Anbieter: wissenskind, gelistet seit 2026-09-13
-- Wie viel kostet es? — 5.188378 USD
+- Wie viel kostet es? — 5.1768030000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

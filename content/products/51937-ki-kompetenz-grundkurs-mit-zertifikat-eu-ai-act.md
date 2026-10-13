@@ -4,34 +4,34 @@ digistore24_product_id: 601432
 title: "KI Kompetenz Grundkurs mit Zertifikat, EU-AI-Act"
 vendor: "lairnen"
 product_type: "Member area and video courses"
-price: 324.97
+price: 324.25
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 56.03
+earnings_per_sale: 55.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Software","Marketing Services"]
 listed_since: "2025-03-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://lairnen.mydigibiz24.com/verkauf-ki-kompetenz?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51937/adminstore/"
 sales_page: "https://lairnen.mydigibiz24.com/verkauf-ki-kompetenz"
 language: "de"
 ---
 # KI Kompetenz Grundkurs mit Zertifikat, EU-AI-Act
 
 > Product ID `51937` · Digistore24 productId `601432` · [HTML profile page](../../produkte/ki-kompetenz-grundkurs-mit-zertifikat-eu-ai-act-51937.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $324.97 (Single payment) |
+| Price | $324.25 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $56.03 |
+| Earnings/sale* | $55.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lairnen |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die neue EU-KI-Verordnung kommt – sind Sie bereit? Unser KI-Kompetenz Grundkurs vermittelt Ihnen praxisnah, wie Sie KI-Tools im Office-Alltag sicher nutzen und steuern. Erwerben Sie essentielles Wissen, um KI effektiv einzusetzen, Risiken zu minimieren und produktiver zu arbeiten. Lernen Sie von Experten, erhalten Sie ein anerkanntes Zertifikat und sichern Sie sich einen entscheidenden Vorteil im …
+**Vendor's marketplace description:** <p>Die neue EU-KI-Verordnung kommt – sind Sie bereit? Unser KI-Kompetenz Grundkurs vermittelt Ihnen praxisnah, wie Sie KI-Tools im Office-Alltag sicher nutzen und steuern. Erwerben Sie essentielles Wissen, um KI effektiv einzusetzen, Risiken zu minimieren und produktiver zu arbeiten. Lernen Sie von Experten, erhalten Sie ein anerkanntes Zertifikat und sichern Sie sich einen entscheidenden Vorteil im Berufsleben. Einfach, verständlich, sofort anwendbar!<br /><br /></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lairnen.mydigibiz24.com/verkauf-ki-kompetenz?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51937/adminstore/
 - Sales page: https://lairnen.mydigibiz24.com/verkauf-ki-kompetenz
 - Vendor affiliate support: https://www.lairnen.de/ki-kompetenz
 - Canonical redirect: https://www.digistore24.com/redir/601432/adminstore
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Kompetenz Grundkurs mit Zertifikat, EU-AI-Act? — Typ: Member area and video courses, Anbieter: lairnen, gelistet seit 2025-03-13
-- Wie viel kostet es? — 324.974 USD
+- Wie viel kostet es? — 324.249 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

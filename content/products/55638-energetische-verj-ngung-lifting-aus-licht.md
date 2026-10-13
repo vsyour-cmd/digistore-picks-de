@@ -4,16 +4,16 @@ digistore24_product_id: 620580
 title: "Energetische Verjüngung / Lifting aus Licht"
 vendor: "margit-eres"
 product_type: "Member area and video courses"
-price: 374.78
+price: 373.95
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 93.69
+earnings_per_sale: 93.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-06-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://energetischesfacelifting.funnelcockpit.com/sales/?aff=adminstore#aff=adminstore"
 sales_page: "https://energetischesfacelifting.funnelcockpit.com/sales/"
@@ -22,16 +22,16 @@ language: "de"
 # Energetische Verjüngung / Lifting aus Licht
 
 > Product ID `55638` · Digistore24 productId `620580` · [HTML profile page](../../produkte/energetische-verj-ngung-lifting-aus-licht-55638.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $374.78 (Single payment) |
+| Price | $373.95 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $93.69 |
+| Earnings/sale* | $93.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | margit-eres |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hochwertiger Video-Kurs mit Mitgliederbereich Energetische Selbstanwendung Der Kurs läuft über eine optimierte Salespage mit integriertem Funnel-System Zielgruppe: Frauen 45+, spirituell offen, interessiert an energetischer Verjüngung ohne kosmetische Eingriffe
+**Vendor's marketplace description:** <p><strong> Hochwertiger Video-Kurs mit Mitgliederbereich</strong></p>
+<p>Energetische Selbstanwendung</p>
+<p>Der Kurs läuft über eine optimierte Salespage mit integriertem Funnel-System  </p>
+<p>Zielgruppe: Frauen 45+, spirituell offen, interessiert an energetischer Verjüngung ohne kosmetische Eingriffe</p>
 
 ## 2. Links
 
@@ -67,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Energetische Verjüngung / Lifting aus Licht? — Typ: Member area and video courses, Anbieter: margit-eres, gelistet seit 2025-06-25
-- Wie viel kostet es? — 374.78467 USD
+- Wie viel kostet es? — 373.948545 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

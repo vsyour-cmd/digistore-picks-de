@@ -4,16 +4,16 @@ digistore24_product_id: 58215
 title: "Digistore Connect für Joomla!"
 vendor: "RolandSM"
 product_type: "Downloads"
-price: 55.69
+price: 55.57
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 11.14
+earnings_per_sale: 11.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2015-09-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect?aff=adminstore#aff=adminstore"
 sales_page: "https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect"
@@ -22,16 +22,16 @@ language: "de"
 # Digistore Connect für Joomla!
 
 > Product ID `8547` · Digistore24 productId `58215` · [HTML profile page](../../produkte/digistore-connect-f-r-joomla-8547.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $55.69 (Single payment, Subscription) |
+| Price | $55.57 (Single payment, Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $11.14 |
+| Earnings/sale* | $11.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RolandSM |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit der Digistore Connect Erweiterung verbinden Sie Ihre Joomla! Webseite mit dem Affiliate- und Bezahldienstleister Digistore24.Sie können mit Joomla! eigenen Funktionen oder anderen Erweiterungen ein Verkaufsportal u.a. für Digitale Produkte, Downloads, Seminare o.Ä. anbieten. Infos zur aktuellen Version, den Funktionen und Dokumentation finden Sie unter:https://medialekt.de/de/webdesign-entwick…
+**Vendor's marketplace description:** <p>Mit der <strong>Digistore Connect Erweiterung</strong> verbinden Sie Ihre Joomla! Webseite mit dem Affiliate- und Bezahldienstleister <strong>Digistore24</strong>.<br /><br />Sie können mit Joomla! eigenen Funktionen oder anderen Erweiterungen ein Verkaufsportal u.a. für Digitale Produkte, Downloads, Seminare o.Ä. anbieten.</p>
+<p>Infos zur aktuellen Version, den Funktionen und Dokumentation finden Sie unter:<br /><a title="https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect" href="https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect" target="_blank" rel="noreferrer noopener">https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect</a></p>
+<p> </p>
+<p><strong>Erhalten Sie 20% bei Verkauf des Pakets über Ihren Promo Link!</strong></p>
+<p> </p>
 
 ## 2. Links
 
@@ -83,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digistore Connect für Joomla!? — Typ: Downloads, Anbieter: RolandSM, gelistet seit 2015-09-06
-- Wie viel kostet es? — 55.69382 USD
+- Wie viel kostet es? — 55.569570000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 687990
 title: "Nischen Cash System"
 vendor: "privat16850fc2"
 product_type: "Member area and video courses"
-price: 22.3
+price: 22.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.15
+earnings_per_sale: 11.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-04-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.onlinebusiness-wissen.de/nischencashsystem/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.onlinebusiness-wissen.de/nischencashsystem/"
@@ -22,16 +22,16 @@ language: "de"
 # Nischen Cash System
 
 > Product ID `56518` · Digistore24 productId `687990` · [HTML profile page](../../produkte/nischen-cash-system-56518.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $22.30 (Single payment) |
+| Price | $22.25 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.15 |
+| Earnings/sale* | $11.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | privat16850fc2 |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Perfekter Kurs Anfänger und Fortgeschrittene, wie man spielend leicht und erfolgreich mit Nischenseiten ein Online Business aufbaut Der Kurs kostet für den Kunden nur 19,90€ Über € 51 Provision beim Funneldurchlauf für Dich möglich Deine Provision dafür ist 50 %
+**Vendor's marketplace description:** <p><strong>Perfekter Kurs Anfänger und Fortgeschrittene, wie man spielend leicht und erfolgreich mit Nischenseiten ein Online Business aufbaut</strong></p>
+<p><strong>Der Kurs kostet für den Kunden nur 19,90€</strong></p>
+<p> </p>
+<p>Über € 51 Provision beim Funneldurchlauf für Dich möglich</p>
+<p>Deine Provision dafür ist 50 %</p>
 
 ## 2. Links
 
@@ -59,7 +63,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nischen Cash System? — Typ: Member area and video courses, Anbieter: privat16850fc2, gelistet seit 2026-04-27
-- Wie viel kostet es? — 22.29994 USD
+- Wie viel kostet es? — 22.25019 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

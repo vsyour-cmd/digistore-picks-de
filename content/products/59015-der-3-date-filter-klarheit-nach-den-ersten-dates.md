@@ -4,34 +4,34 @@ digistore24_product_id: 711057
 title: "Der 3-Date-Filter – Klarheit nach den ersten Dates"
 vendor: "artigital"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.19
+earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://artigital.de/der-3-date-filter/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59015/adminstore/"
 sales_page: "https://artigital.de/der-3-date-filter/"
 language: "de"
 ---
 # Der 3-Date-Filter – Klarheit nach den ersten Dates
 
 > Product ID `59015` · Digistore24 productId `711057` · [HTML profile page](../../produkte/der-3-date-filter-klarheit-nach-den-ersten-dates-59015.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.19 |
+| Earnings/sale* | $5.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | artigital |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein konkretes Dating-Thema für deine Zielgruppe: Ein Date war schön, doch danach bleiben Fragen offen. Der 3-Date-Filter hilft dabei, Beobachtungen nach den ersten Treffen festzuhalten und Entwicklungen bei Konsistenz, Zuwendung und möglichen Warnsignalen zu vergleichen. Die Entscheidung, ob jemand weitergedatet wird, bleibt bei der Käuferin. Das Produkt: Ein deutschsprachiges PDF-Workbook mit 35 …
+**Vendor's marketplace description:** <p><strong>Ein konkretes Dating-Thema für deine Zielgruppe:</strong> Ein Date war schön, doch danach bleiben Fragen offen. Der 3-Date-Filter hilft dabei, Beobachtungen nach den ersten Treffen festzuhalten und Entwicklungen bei Konsistenz, Zuwendung und möglichen Warnsignalen zu vergleichen. Die Entscheidung, ob jemand weitergedatet wird, bleibt bei der Käuferin.</p>
+<p><strong>Das Produkt:</strong> Ein deutschsprachiges PDF-Workbook mit 35 Seiten, sechs Modulen und einem Bewertungsbogen. Im selben PDF enthalten sind drei Bonusbereiche: 12 Red-Flag-Karten, 20 Fragen fürs dritte Date und acht Textvorlagen für klare Absagen. Das Workbook kann ausgedruckt oder in einer PDF-App beschriftet werden; es enthält keine interaktiven Formularfelder.</p>
+<p><strong>Deine Partnerschaft:</strong> Der Verkaufspreis beträgt 9,90 €. Du erhältst 50 % Affiliate-Provision; Partnerschaftsanfragen werden automatisch angenommen. Dein persönlicher Promolink führt zur Verkaufsseite. Bestellung und digitale Auslieferung laufen über Digistore24.</p>
+<p>Das Workbook bietet Orientierung für eigene Beobachtungen. Es verspricht weder eine Beziehung noch ersetzt es professionelle Beratung oder Therapie.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://artigital.de/der-3-date-filter/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59015/adminstore/
 - Sales page: https://artigital.de/der-3-date-filter/
 - Canonical redirect: https://www.digistore24.com/redir/711057/adminstore
 
@@ -77,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 3-Date-Filter – Klarheit nach den ersten Dates? — Typ: E-books, Anbieter: artigital, gelistet seit 2026-09-07
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

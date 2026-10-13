@@ -4,34 +4,34 @@ digistore24_product_id: 742548
 title: "ShowUp - das Live-Mentoring"
 vendor: "businessdesignrocks"
 product_type: "Member area and video courses"
-price: 3585.92
+price: 3577.92
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1792.96
+earnings_per_sale: 1788.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/742548?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60229/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/742548"
 language: "de"
 ---
 # ShowUp - das Live-Mentoring
 
 > Product ID `60229` · Digistore24 productId `742548` · [HTML profile page](../../produkte/showup-das-live-mentoring-60229.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $3585.92 (Single payment) |
+| Price | $3577.92 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1792.96 |
+| Earnings/sale* | $1788.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | businessdesignrocks |
@@ -41,11 +41,90 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** SHOWUP 3 Monate Strategie- und Umsetzungsbegleitung für dein Business. Du steckst Zeit und Arbeit in deinen Content, feilst an Angeboten und denkst über deine Preise nach. Trotzdem bleibt oft die Unsicherheit: Arbeite ich gerade am richtigen Thema? Mehr Einsatz bringt nichts, wenn der Ansatz an der falschen Stelle ansetzt. Wenn das Angebot nicht passt, löst mehr Sichtbarkeit das Grundproblem nicht…
+**Vendor's marketplace description:** <h1>SHOWUP</h1>
+<h3>3 Monate Strategie- und Umsetzungsbegleitung für dein Business.</h3>
+<p>Du steckst Zeit und Arbeit in deinen Content, feilst an Angeboten und denkst über deine Preise nach. Trotzdem bleibt oft die Unsicherheit:</p>
+<p><strong>Arbeite ich gerade am richtigen Thema?</strong></p>
+<p>Mehr Einsatz bringt nichts, wenn der Ansatz an der falschen Stelle ansetzt.</p>
+<ul>
+<li>
+<p>Wenn das Angebot nicht passt, löst mehr Sichtbarkeit das Grundproblem nicht.</p>
+</li>
+<li>
+<p>Wenn der Wert nicht klar ist, hilft auch eine Preissenkung nicht.</p>
+</li>
+<li>
+<p>Wenn der Verkaufsweg klemmt, baut ein neues Produkt keinen Umsatz auf.</p>
+</li>
+<li>
+<p>Und wenn deine Kapazitäten voll sind, sorgt mehr Nachfrage nur für Stress.</p>
+</li>
+</ul>
+<p>Wenn du deinen aktuellen Engpass nicht kennst, investierst du Energie in Dinge, die dich wirtschaftlich nicht weiterbringen.</p>
+<p>In SHOWUP arbeiten wir sechs Monate lang an deinem konkreten Business. Sechs Monate geben uns genug Zeit, nicht nur einen Engpass zu erkennen, sondern Veränderungen umzusetzen, ihre Wirkung zu prüfen und danach den nächsten sinnvollen Schritt zu entscheiden.</p>
+<h3>Warum Abwarten Zeit und Geld kostet</h3>
+<p>Der falsche Fokus kostet Energie.</p>
+<p>Du erstellst vielleicht wochenlang Content für ein Angebot, das nicht gekauft wird. Du schraubst an Preisen, obwohl das eigentliche Problem im Angebot oder Verkaufsweg liegt. Oder du versuchst zu wachsen, obwohl deine Abläufe das noch gar nicht aushalten.</p>
+<p>Nicht jede Baustelle ist jetzt wichtig. SHOWUP hilft dir zu entscheiden, was heute dran ist und was warten kann.</p>
+<h3>Was SHOWUP beinhaltet</h3>
+<p><strong>Strategische Bestandsaufnahme</strong></p>
+<p>Wir schauen nüchtern auf dein Business: Angebot, Preise, Nachfrage, Sichtbarkeit, Vertrieb, Geschäftsmodell, Marge, Abläufe oder Kapazitäten.</p>
+<p><strong>Klare Prioritäten</strong></p>
+<p>Kein Zickzack-Kurs. Du arbeitest Schritt für Schritt an dem Thema, das für dich gerade ansteht.</p>
+<p><strong>Regelmäßige Live-Begleitung</strong></p>
+<p>Gruppen-Calls, Business Clinics, Q&amp;As, Hotseats und Feedback direkt im Businessalltag.</p>
+<p><strong>KICKSTART &amp; SCALE IT</strong></p>
+<p>Egal ob du dein Fundament aufbaust oder ein bestehendes Business weiterentwickelst: Wir setzen dort an, wo du heute stehst.</p>
+<p><strong>Mitgliederbereich &amp; Ressourcen</strong></p>
+<p>Du bekommst Zugang zu den für SHOWUP freigegebenen Kursen, Anleitungen und Ressourcen im BDR-Mitgliederbereich.</p>
+<h3>Für wen SHOWUP passt</h3>
+<p><strong>SHOWUP ist richtig für dich, wenn du:</strong></p>
+<ul>
+<li>
+<p>dein Business gezielt aufbauen oder weiterentwickeln willst.</p>
+</li>
+<li>
+<p>viel tust, aber Klarheit bei den nächsten Schritten suchst.</p>
+</li>
+<li>
+<p>pragmatische Entscheidungen für dein eigenes Business treffen willst.</p>
+</li>
+<li>
+<p>bereit bist, Dinge auszuprobieren und anzupassen.</p>
+</li>
+</ul>
+<p><strong>SHOWUP passt nicht, wenn du:</strong></p>
+<ul>
+<li>
+<p>eine Abkürzung oder Erfolgsgarantie erwartest.</p>
+</li>
+<li>
+<p>reine Theorie suchst, ohne selbst umzusetzen.</p>
+</li>
+<li>
+<p>möchtest, dass jemand die Arbeit für dich übernimmt.</p>
+</li>
+<li>
+<p>ein reines 1:1-Coaching suchst.</p>
+</li>
+</ul>
+<h3>Eckdaten &amp; Investment</h3>
+<ul>
+<li>
+<p><strong>Dauer:</strong> 3 Monate</p>
+</li>
+<li>
+<p><strong>Format:</strong> Gruppenmentoring mit Live-Calls, Business Clinics, Q&amp;As, Hotseats und Zugang zum BDR-Mitgliederbereich</p>
+</li>
+<li>
+<p><strong>Investment:</strong> 3.200 € netto (zzgl. MwSt.)</p>
+</li>
+</ul>
+<p><strong>Hinweise:</strong> SHOWUP ist ein Gruppenmentoring, keine 1:1-Einzelbetreuung. Es gibt keinen Anspruch auf Bearbeitung in jedem Call und keine 24/7-Erreichbarkeit. Formate können je nach Gruppe angepasst werden. Die Begleitung ersetzt keine Rechts-, Steuer- oder Finanzberatung. Wirtschaftliche Ergebnisse hängen von deiner Umsetzung und dem Markt ab und werden nicht garantiert. Operative Umsetzung (Done-for-you) ist nicht enthalten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/742548?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60229/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/742548
 - Canonical redirect: https://www.digistore24.com/redir/742548/adminstore
 
@@ -120,7 +199,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ShowUp - das Live-Mentoring? — Typ: Member area and video courses, Anbieter: businessdesignrocks, gelistet seit 2026-10-06
-- Wie viel kostet es? — 3585.92 USD
+- Wie viel kostet es? — 3577.92 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

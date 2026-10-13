@@ -4,16 +4,16 @@ digistore24_product_id: 570822
 title: "Hypnose-Onlinekurs Grenzen Setzen und Nein sagen"
 vendor: "petanthony"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 11.54
+earnings_per_sale: 11.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://shop.petanthony.com/online-kurse_grenzen-setzen_DS/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.petanthony.com/online-kurse_grenzen-setzen_DS/"
@@ -22,16 +22,16 @@ language: "de"
 # Hypnose-Onlinekurs Grenzen Setzen und Nein sagen
 
 > Product ID `60058` · Digistore24 productId `570822` · [HTML profile page](../../produkte/hypnose-onlinekurs-grenzen-setzen-und-nein-sagen-60058.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $11.54 |
+| Earnings/sale* | $11.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | petanthony |
@@ -41,7 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sag JA zur Dir selbst! Mit diesem Hypnose-Onlinekurs kannst Du mit dem schädlichen Verhalten aus Deiner Vergangenheit abschließen und lernst mit gutem Gewissen Grenzen zu setzen und Nein zu sagen. Damit baust Du Schritt für Schritt ein neues Selbstbewusst auf und kannst Dich gestärkt auf Deinen ganz persönlichen Lebens-Weg machen: nach Deinen Zielen, Wünschen und Bedürfnissen. Kursinhalt Video Lek…
+**Vendor's marketplace description:** <div>
+<div>
+<p>Sag JA zur Dir selbst!</p>
+</div>
+</div>
+<div>
+<div>
+<p>Mit diesem Hypnose-Onlinekurs kannst Du mit dem schädlichen Verhalten aus Deiner Vergangenheit abschließen und lernst mit gutem Gewissen Grenzen zu setzen und Nein zu sagen.</p>
+<p>Damit baust Du Schritt für Schritt ein neues Selbstbewusst auf und kannst Dich gestärkt auf Deinen ganz persönlichen Lebens-Weg machen: nach Deinen Zielen, Wünschen und Bedürfnissen.</p>
+</div>
+</div>
+<div>
+<div>
+<p>Kursinhalt</p>
+</div>
+</div>
+<div>
+<ul>
+<li>Video Lektion Grenzen setzen und Nein sagen</li>
+<li>Info-Video für die richtige Hypnoseanwendung</li>
+<li>Hypnose-Video mit Audioversion zum Download für Unterwegs</li>
+</ul>
+</div>
+<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
 
 ## 2. Links
 
@@ -59,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose-Onlinekurs Grenzen Setzen und Nein sagen? — Typ: Member area and video courses, Anbieter: petanthony, gelistet seit 2026-09-30
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 649034
 title: "70% Provision und Conversions ohne Ende  Project Profit X"
 vendor: "funnelprofits"
 product_type: "Member area and video courses"
-price: 77.5
+price: 77.33
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 77.38
+earnings_per_sale: 77.2
 cart_conversion_pct: 11
 cancel_rate_pct: 10.92
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-11-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.projectprofitx.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54803/adminstore/"
 sales_page: "https://www.projectprofitx.com/"
 language: "de"
 ---
 # 70% Provision und Conversions ohne Ende  Project Profit X
 
 > Product ID `54803` · Digistore24 productId `649034` · [HTML profile page](../../produkte/70-provision-und-conversions-ohne-ende-project-profit-x-54803.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $77.50 (Single payment) |
+| Price | $77.33 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $77.38 |
+| Earnings/sale* | $77.20 |
 | Cart conversion* | 11% |
 | Cancel rate* | 10.92% |
 | Vendor | funnelprofits |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die heftigste VSL im Deutschen Geld verdienen Markt? Gib uns 20 Sekunden deiner Zeit. Schau dir den Anfang unserer VSL an und Du verstehst sofort, warum dieses System Provisionen druckt!Bis zu 70% Provision im Funnel!Schnapp dir deine E-Mail Vorlagen, drücke auf senden und schaue zu, wie dieses Produkt zu einem Gewinner für deine Liste wird. Hier ist alles, was du brauchst: https://www.projectprof…
+**Vendor's marketplace description:** <h1><span style="color:#ff0000;">Die heftigste VSL im Deutschen Geld verdienen Markt?</span></h1>
+<p><span style="color:#000000;">Gib uns 20 Sekunden deiner Zeit. Schau dir den Anfang unserer VSL an und Du verstehst sofort, warum dieses System <strong>Provisionen druckt!</strong><br /><br /><strong>Bis zu 70% Provision im Funnel!</strong><br /><br />Schnapp dir deine E-Mail Vorlagen, drücke auf senden und schaue zu, wie dieses Produkt zu einem Gewinner für deine Liste wird. <br /><br />Hier ist alles, was du brauchst:  <a href="https://www.projectprofitx.com/affiliates/" target="_blank" rel="noreferrer noopener">https://www.projectprofitx.com/affiliates/</a></span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.projectprofitx.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54803/adminstore/
 - Sales page: https://www.projectprofitx.com/
 - Vendor affiliate support: https://www.projectprofitx.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/649034/adminstore
@@ -67,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 70% Provision und Conversions ohne Ende  Project Profit X? — Typ: Member area and video courses, Anbieter: funnelprofits, gelistet seit 2025-11-17
-- Wie viel kostet es? — 77.500696 USD
+- Wie viel kostet es? — 77.327796 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 648703
 title: "Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis"
 vendor: "liebezumleben"
 product_type: "Downloads"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.2
+earnings_per_sale: 37.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Hobby & Craft"]
 listed_since: "2025-11-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://malenmitanke.de/acrylmalkurs-meer-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "https://malenmitanke.de/acrylmalkurs-meer-bundle/"
@@ -22,16 +22,16 @@ language: "de"
 # Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis
 
 > Product ID `54660` · Digistore24 productId `648703` · [HTML profile page](../../produkte/die-grosse-meer-auszeit-4-acryl-kurse-zum-spar-preis-54660.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.20 |
+| Earnings/sale* | $37.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | liebezumleben |
@@ -41,7 +41,40 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis - Malen mit Anke Brauchst du eine echte Pause vom Alltag, die dir Freude und neue Kraft schenkt? Dann tauch ein in die schöne Welt von Strand, Gräsern und Licht – ganz gemütlich bei dir zuhause. Dieses Paket schenkt dir vier entspannte Mal-Momente am Meer. Das ist alles drin in deinem Paket: Du bekommst 4 komplette Kurs-Aufzeichnungen zum Them…
+**Vendor's marketplace description:** <h1>Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis - Malen mit Anke</h1>
+<p>Brauchst du eine echte Pause vom Alltag, die dir Freude und neue Kraft schenkt? Dann tauch ein in die schöne Welt von Strand, Gräsern und Licht – ganz gemütlich bei dir zuhause. Dieses Paket schenkt dir <strong>vier entspannte Mal-Momente</strong> am Meer.</p>
+<p><strong>Das ist alles drin in deinem Paket:</strong></p>
+<p>Du bekommst <strong>4 komplette Kurs-Aufzeichnungen</strong> zum Thema <strong>Meer und Küste</strong>. Wenn du die Kurse einzeln kaufst, zahlst du 96 €. Du sparst sofort <strong>14 €</strong> (das sind 15 %) und kannst mit diesen vier Motiven anfangen:</p>
+<ul>
+<li>
+<p>Leuchtturm im Sonnenuntergang</p>
+</li>
+<li>
+<p>Dünen im Abendlicht</p>
+</li>
+<li>
+<p>Dünen, Gräser und Meer</p>
+</li>
+<li>
+<p>Abend am Meer im Vollmond</p>
+</li>
+</ul>
+<p><strong>Dein Vorteil: So einfach und entspannt startest du:</strong></p>
+<ul>
+<li>
+<p><strong>4x Schritt-für-Schritt:</strong> Du malst jedes Bild von den ersten Strichen bis zum fertigen Ergebnis einfach mit – perfekt für jeden Anfänger.</p>
+</li>
+<li>
+<p><strong>Bonus-Geschenk:</strong> Der <strong>Mini-Ratgeber „Start in die Acrylmalerei“ als PDF</strong> ist sofort dabei!</p>
+</li>
+<li>
+<p><strong>Über 6 Stunden Malfreude:</strong> Du hast über 6 Stunden reine Malzeit und kannst jederzeit pausieren und dein Tempo wählen.</p>
+</li>
+</ul>
+<p>Im Kauf enthalten:</p>
+<p><strong>Materiallisten &amp; Malvorlagen</strong></p>
+<p>Nach dem Kauf erhältst du sofort eine E-Mail mit deinen Downloads – die Dateien gehören ganz dir. Speichere sie auf Computer, Tablet oder Handy und male, wann immer dir danach ist.</p>
+<p><span style="background-color:#cc99ff;"><strong>15% Rabatt mit dem Gutschein Code: Meerbundle</strong></span></p>
 
 ## 2. Links
 
@@ -87,7 +120,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis? — Typ: Downloads, Anbieter: liebezumleben, gelistet seit 2025-11-15
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

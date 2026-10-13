@@ -4,16 +4,16 @@ digistore24_product_id: 733775
 title: "NORD AKADEMIE – Norsk A1 | Norwegisch auf Deutsch"
 vendor: "norwegenkompass"
 product_type: "Member area and video courses"
-price: 122.15
+price: 121.87
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 36.64
+earnings_per_sale: 36.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://nordakademi.no?aff=adminstore#aff=adminstore"
 sales_page: "https://nordakademi.no"
@@ -22,16 +22,16 @@ language: "de"
 # NORD AKADEMIE – Norsk A1 | Norwegisch auf Deutsch
 
 > Product ID `60130` · Digistore24 productId `733775` · [HTML profile page](../../produkte/nord-akademie-norsk-a1-norwegisch-auf-deutsch-60130.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $122.15 (Single payment) |
+| Price | $121.87 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $36.64 |
+| Earnings/sale* | $36.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | norwegenkompass |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** NORD AKADEMIE – Norsk A1 Strukturierter deutschsprachiger Onlinekurs für den Einstieg ins Norwegische – mit Hören, Lesen, Schreiben, Sprechen, Grammatik, Wortschatz und Kompetenzchecks. Für Affiliates: • 30 % Affiliate-Provision pro Verkauf • vollständiger A1-Kurs mit 5 Modulen • klare Positionierung: Norwegisch lernen auf Deutsch, kein Umweg über Englisch • digitales Produkt ohne Versand • profes…
+**Vendor's marketplace description:** <p><strong>NORD AKADEMIE – Norsk A1</strong></p>
+<p>Strukturierter deutschsprachiger Onlinekurs für den Einstieg ins Norwegische – mit Hören, Lesen, Schreiben, Sprechen, Grammatik, Wortschatz und Kompetenzchecks.</p>
+<p><strong>Für Affiliates:</strong><br />
+• 30 % Affiliate-Provision pro Verkauf<br />
+• vollständiger A1-Kurs mit 5 Modulen<br />
+• klare Positionierung: Norwegisch lernen auf Deutsch, kein Umweg über Englisch<br />
+• digitales Produkt ohne Versand<br />
+• professionelle Verkaufsseite<br />
+• Affiliate-Support-Seite mit Webinar, Promolink-Hilfe und Werbeinformationen</p>
+<p>Geeignet für Norwegen-, Auswanderungs-, Sprachlern- und Skandinavien-Communities sowie passende Blogs und Social-Media-Kanäle.</p>
 
 ## 2. Links
 
@@ -91,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NORD AKADEMIE – Norsk A1 | Norwegisch auf Deutsch? — Typ: Member area and video courses, Anbieter: norwegenkompass, gelistet seit 2026-10-02
-- Wie viel kostet es? — 122.14540000000001 USD
+- Wie viel kostet es? — 121.87290000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

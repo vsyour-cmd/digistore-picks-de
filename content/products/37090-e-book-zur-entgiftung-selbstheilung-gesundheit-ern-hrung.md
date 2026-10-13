@@ -4,16 +4,16 @@ digistore24_product_id: 396921
 title: "E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung"
 vendor: "Uwi2016"
 product_type: "E-books"
-price: 11.09
+price: 11.07
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 8.88
+earnings_per_sale: 8.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-07-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.mhs-4-you.com/entgiftungsplan?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mhs-4-you.com/entgiftungsplan"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung
 
 > Product ID `37090` · Digistore24 productId `396921` · [HTML profile page](../../produkte/e-book-zur-entgiftung-selbstheilung-gesundheit-ern-hrung-37090.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.09 (Single payment) |
+| Price | $11.07 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $8.88 |
+| Earnings/sale* | $8.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Uwi2016 |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote auch unser E-Book "Wie entgifte ich meinen Körper?" an deine Leser / Kunden und wir zahlen dir ganze 80% Provision für jedes Buch! Hochwertig als echtes E-Book produziert Über 11 exklusive Kapitel mit allen essenziellen Themen für den Start einer erfolgreichen Entgiftung von Darm, Leber und Kopf Null Stornoquote! Schnelle und persönliche Unterstützung auf Deutsch und weiteren Sprachen! ✔ E…
+**Vendor's marketplace description:** <p style="text-align:center;"><span style="background-color:#ffffff;"> </span><strong>Promote auch unser E-Book "Wie entgifte ich meinen Körper?" an deine Leser / Kunden und wir zahlen dir ganze <span style="color:#008000;">80% Provision für jedes Buch!</span></strong></p>
+<ul>
+<li>Hochwertig als echtes E-Book produziert</li>
+<li>Über 11 exklusive Kapitel mit allen essenziellen Themen für den Start einer erfolgreichen Entgiftung von Darm, Leber und Kopf</li>
+<li><strong>Null Stornoquote</strong>!</li>
+<li>Schnelle und persönliche Unterstützung auf Deutsch und weiteren Sprachen!</li>
+</ul>
+<p>✔ Erhalte <strong>ganze 80% </strong><em><strong>Affiliate-Provision</strong>.</em></p>
+<p><br />Melde dich jetzt als Affiliate an und starte mit dem Promoten von unserem neuen Buch.</p>
+<p>Beste Grüße aus Rhein-Main,</p>
+<p>mhs-4-you.com</p>
+<p> </p>
 
 ## 2. Links
 
@@ -86,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung? — Typ: E-books, Anbieter: Uwi2016, gelistet seit 2021-07-05
-- Wie viel kostet es? — 11.09394 USD
+- Wie viel kostet es? — 11.06919 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

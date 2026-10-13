@@ -4,16 +4,16 @@ digistore24_product_id: 422496
 title: "Brot backen: 10 Rezepte ohne Backofen"
 vendor: "ypsilon"
 product_type: "E-books"
-price: 14.66
+price: 14.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.33
+earnings_per_sale: 7.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2021-12-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ousuca.com/buecher/brot-backen-rezepte-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://ousuca.com/buecher/brot-backen-rezepte-ebook/"
@@ -22,16 +22,16 @@ language: "de"
 # Brot backen: 10 Rezepte ohne Backofen
 
 > Product ID `38724` · Digistore24 productId `422496` · [HTML profile page](../../produkte/brot-backen-10-rezepte-ohne-backofen-38724.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.66 (Single payment) |
+| Price | $14.62 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.33 |
+| Earnings/sale* | $7.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ypsilon |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen. Bewerbe das eBook 10 Brot Rezepte / Outdoor leckeres Brot backen des SRSC-Survival-Onlineprogramms. Vorteile für Nutzer: 10 leckere Brot Rezepte für das Backen ohne Backofen Outdoor und am Lagerfeuer 38-seitiges eBook mit vielen Bildern Erlangung sämtlicher Kenntnisse zum selbsändigen …
+**Vendor's marketplace description:** <p>Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen.</p>
+<p>Bewerbe das eBook <strong><em>10 Brot Rezepte / Outdoor leckeres Brot backen</em></strong><em> des SRSC-Survival-Onlineprogramms.</em></p>
+<p><strong>Vorteile für Nutzer:</strong></p>
+<ul>
+<li>10 leckere Brot Rezepte für das Backen ohne Backofen Outdoor und am Lagerfeuer</li>
+<li>38-seitiges eBook mit vielen Bildern</li>
+<li>Erlangung sämtlicher Kenntnisse zum selbsändigen Brotbacken unter unterschiedlichsten Voraussetzungen </li>
+</ul>
+<p><strong>Deine Vorteile als Affiliate:</strong></p>
+<ul>
+<li>50 % für jeden Verkauf</li>
+<li>ousuca® SRSC Branding und somit hoher Wiedererkennungswert</li>
+<li>Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich</li>
+</ul>
+<p>Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Einzelkurse oder SRSC eBooks und Anleitungen und baue dir ein passives Einkommen auf.</p>
 
 ## 2. Links
 
@@ -78,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Brot backen: 10 Rezepte ohne Backofen? — Typ: E-books, Anbieter: ypsilon, gelistet seit 2021-12-30
-- Wie viel kostet es? — 14.657448 USD
+- Wie viel kostet es? — 14.624748000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

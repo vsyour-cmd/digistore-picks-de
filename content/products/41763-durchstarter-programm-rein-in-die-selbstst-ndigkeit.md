@@ -4,34 +4,34 @@ digistore24_product_id: 305512
 title: "Durchstarter Programm - Rein in die Selbstständigkeit"
 vendor: "coach-felix"
 product_type: "Member area and video courses"
-price: 32.5
+price: 32.42
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.25
+earnings_per_sale: 3.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-01-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://felix.team/gruenderpaket?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41763/adminstore/"
 sales_page: "https://felix.team/gruenderpaket"
 language: "de"
 ---
 # Durchstarter Programm - Rein in die Selbstständigkeit
 
 > Product ID `41763` · Digistore24 productId `305512` · [HTML profile page](../../produkte/durchstarter-programm-rein-in-die-selbstst-ndigkeit-41763.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.50 (Single payment) |
+| Price | $32.42 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.25 |
+| Earnings/sale* | $3.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | coach-felix |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** WOW, das gab es noch nie. Für gerade mal 79 Euro gibt es ein pickepackevolles Programm um erfolgreich in die Selbstständigkeit zu starten. Das Programm hat es in sich. SATTE 20 Prozent Provision für dich. ✅ Sofort umsetzbarer Gründerkurs - In meinem Gründerkurs erkläre ich dir alles, was du für deine Gründung brauchst. Die richtige Rechtsform, der passende Aufbau und das perfekte Marketing. (Wert …
+**Vendor's marketplace description:** <p>WOW, das gab es noch nie. Für gerade mal 79 Euro gibt es ein pickepackevolles Programm um erfolgreich in die Selbstständigkeit zu starten. Das Programm hat es in sich. <strong>SATTE 20 Prozent Provision für dich.</strong> </p>
+<p>✅ <strong>Sofort umsetzbarer Gründerkurs</strong> - In meinem Gründerkurs erkläre ich dir alles, was du für deine Gründung brauchst. Die richtige Rechtsform, der passende Aufbau und das perfekte Marketing. (Wert 499.00 Euro)</p>
+<p>✅ <strong>Ganz konkrete Anleitung</strong> - Mit meiner Anleitung gebe ich dir eine perfekte Checkliste an die Hand, welchen Punkt du wann machen solltest. (Wert 89.00 Euro)</p>
+<p>✅ <strong>Inhaltsstarke Ebooks </strong>- Auf über hundert Seiten und in mehreren Ebooks kriegst du mein komplettes Wissen zu Finanzierung, Ideenentwicklung und Kundengewinnung. (Wert 79.00 Euro)</p>
+<p>✅ <strong>Vorlagen für die direkte Umsetzung</strong> - Du bekommst mehrere Vorlagen mit denen du sofort loslegen kannst.</p>
+<ul>
+<li>Du bekommst eine Vorlage für den Businessplan, in der du genau erkennst, wo was einzutragen ist.</li>
+<li>Du bekommst eine Vorlage für die komplette Finanzkalkulation deines Unternehmens, inklusive einer Videoanleitung, wie du alles ausfüllen musst.</li>
+</ul>
+<p> (Wert 579.00 Euro)</p>
+<p>✅ <strong>Steuern im Griff</strong> - Professor Christoph Juhn gibt dir die wichtigsten Infos zum Thema Steuern in seinem Kurs (Wert 299.00 Euro)</p>
+<p>✅ <strong>Exklusiver Business Plan Kurs -</strong> Holger Grünhagen erklärt, wie du den perfekten Business Plan schreibst</p>
+<p>✅ <strong>Interner Mitgliederbereich mit Sofortzugriff</strong> - Du kannst auf alle Inhalte sofort zugreifen und gleich in die Umsetzung kommen.  </p>
+<p>...und weitere Inhalte.</p>
+<p><strong>DAS BESTE: Der Käufer kann ein Zertifikat erwerben und hat so einen Nachweis für Banken oder die Arbeitsagentur. </strong></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://felix.team/gruenderpaket?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41763/adminstore/
 - Sales page: https://felix.team/gruenderpaket
 - Canonical redirect: https://www.digistore24.com/redir/305512/adminstore
 
@@ -87,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Durchstarter Programm - Rein in die Selbstständigkeit? — Typ: Member area and video courses, Anbieter: coach-felix, gelistet seit 2020-01-28
-- Wie viel kostet es? — 32.4974 USD
+- Wie viel kostet es? — 32.4249 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

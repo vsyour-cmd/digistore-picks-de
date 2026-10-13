@@ -4,16 +4,16 @@ digistore24_product_id: 463188
 title: "3 Tage LOSLASSEN intensiv Seminar"
 vendor: "InaRudolph"
 product_type: "Webinar"
-price: 36.2
+price: 36.11
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 37.69
+earnings_per_sale: 37.6
 cart_conversion_pct: 28
 cancel_rate_pct: 0.85
 categories: ["Personal Development"]
 listed_since: "2022-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://inarudolph.de/3-tage-intensiv-seminar/?aff=adminstore#aff=adminstore"
 sales_page: "https://inarudolph.de/3-tage-intensiv-seminar/"
@@ -22,16 +22,16 @@ language: "de"
 # 3 Tage LOSLASSEN intensiv Seminar
 
 > Product ID `41506` · Digistore24 productId `463188` · [HTML profile page](../../produkte/3-tage-loslassen-intensiv-seminar-41506.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $36.20 (Single payment) |
+| Price | $36.11 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $37.69 |
+| Earnings/sale* | $37.60 |
 | Cart conversion* | 28% |
 | Cancel rate* | 0.85% |
 | Vendor | InaRudolph |
@@ -41,7 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** LOSLASSEN in verrückten Zeiten 3 Tages intensiv Workshop für mehr Energie & Klarheit Kummer und Ängste spürbar loslassen Fr. 2.12.: Sofort Angst und Unsicherheiten loslassenSa. 3.12.: Selbstzweifel loslassenSo. 4.12.: Nachhaltig loslassen + Audio Coaching mit einer geführten Work (zum sofort-Download) zum Glaubenssatz "Ich schaffe das nicht" Hinweise für Affiliates: Sehr gute Conversion durch hohe…
+**Vendor's marketplace description:** <h4><strong>LOSLASSEN in verrückten Zeiten</strong></h4>
+<h4><strong>3 Tages intensiv Workshop für mehr Energie &amp; Klarheit </strong></h4>
+<p><strong>Kummer und Ängste spürbar loslassen<br /><br /></strong></p>
+<p><span style="color:#ff6600;"><strong>Fr.  2.12.: Sofort Angst und Unsicherheiten loslassen<br />Sa. 3.12.: Selbstzweifel loslassen<br />So. 4.12.: Nachhaltig loslassen</strong></span></p>
+<p><br /><strong>+ Audio Coaching mit einer geführten Work (zum sofort-Download) zum Glaubenssatz "Ich schaffe das nicht"<br /></strong></p>
+<h2>Hinweise für Affiliates:</h2>
+<p>Sehr gute Conversion durch hohen Wert für Teilnehmer (3-Tage live Online-Seminar) und Einzigartigkeit des Events. Wir rechnen damit wieder hunderte von Teilnehmern zu gewinnen. </p>
+<p>80% Affiliate Provision. </p>
+<h2>Was die Teilnehmer im Workshop erwartet:</h2>
+<ul>
+<li>Ich zeige dir einfache und alltagstaugliche Möglichkeiten, wie du loslassen kannst, was dich stresst</li>
+<li>Du wirst belastende Glaubenssätze auflösen und dich dadurch freier fühlen</li>
+<li>Freundliche Blickwinkel warten auf dich, die du als wahr erkennen wirst</li>
+<li>Du lernst, wie du Zeit und Energie sparst, die du dann für dich zur Verfügung hast</li>
+<li>Du erfährst, wie du dir selber gut tun kannst</li>
+<li>Du entdeckst Fähigkeiten und Eigenschaften, die (unentdeckt) in dir schlummern</li>
+<li>Du kommst aus dem übermäßigen Nachdenken raus.<br /><br /></li>
+</ul>
+<p>Dieses 3 Tage Intensiv-Seminar findet nur am <strong>2.12. – 4.12.22</strong> statt.<br />Die Seminarzeiten sind jeweils 18.30 – 21.00 Uhr</p>
+<p><strong><span style="color:#ff9900;"><br /></span></strong>Solltest du einmal nicht dabei sein können, so wird es eine Aufzeichnung geben. </p>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
 
 ## 2. Links
 
@@ -87,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 3 Tage LOSLASSEN intensiv Seminar? — Typ: Webinar, Anbieter: InaRudolph, gelistet seit 2022-10-04
-- Wie viel kostet es? — 36.19538 USD
+- Wie viel kostet es? — 36.11463 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

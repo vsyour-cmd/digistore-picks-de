@@ -4,34 +4,34 @@ digistore24_product_id: 679390
 title: "Schluss mit Rückzug, Mauern und Vorwürfen"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.82
+earnings_per_sale: 7.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58435/adminstore/"
 sales_page: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/"
 language: "de"
 ---
 # Schluss mit Rückzug, Mauern und Vorwürfen
 
 > Product ID `58435` · Digistore24 productId `679390` · [HTML profile page](../../produkte/schluss-mit-r-ckzug-mauern-und-vorw-rfen-58435.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.82 |
+| Earnings/sale* | $7.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das E-Book „Schluss mit Rückzug, Mauern & Vorwürfen“ richtet sich an Menschen, deren Grenzen häufig erst sehr spät und dann in Form von Distanz, Härte oder Abwehr sichtbar werden. Das E-Book beschäftigt sich mit unterschiedlichen Formen zu harter Grenzen und zeigt, was hinter diesen Reaktionen stecken kann. Dazu gehören Rückzug und Nichtreden, Ghosting, Kontaktabbruch, emotionale Selbstisolation, …
+**Vendor's marketplace description:** <p>Das E-Book „Schluss mit Rückzug, Mauern &amp; Vorwürfen“ richtet sich an Menschen, deren Grenzen häufig erst sehr spät und dann in Form von Distanz, Härte oder Abwehr sichtbar werden.</p>
+<p>Das E-Book beschäftigt sich mit unterschiedlichen Formen zu harter Grenzen und zeigt, was hinter diesen Reaktionen stecken kann. Dazu gehören Rückzug und Nichtreden, Ghosting, Kontaktabbruch, emotionale Selbstisolation, Vorwürfe, Kälte und Zynismus, Abwertung, Druck und emotionale Überreaktionen. Auch Kontrolle als Form der Abgrenzung wird behandelt. Zu jedem Muster werden konkrete Alltagssituationen, mögliche Entwicklungsschritte und der Umgang damit betrachtet, wenn dieses Verhalten beim Gegenüber auftritt.<br />Das E-Book eignet sich zur Bewerbung bei einer Zielgruppe, die Rückzug, Mauern oder Härte in Beziehungen besser verstehen und lernen möchte, Grenzen früher und klarer auszudrücken, bevor sich so viel innerer Druck aufbaut, dass nur noch Distanz oder Abwehr möglich erscheinen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58435/adminstore/
 - Sales page: https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/
 - Canonical redirect: https://www.digistore24.com/redir/679390/adminstore
 
@@ -79,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schluss mit Rückzug, Mauern und Vorwürfen? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

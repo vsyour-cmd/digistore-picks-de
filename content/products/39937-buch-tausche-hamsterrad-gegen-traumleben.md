@@ -4,34 +4,34 @@ digistore24_product_id: 378010
 title: "Buch | Tausche Hamsterrad gegen Traumleben"
 vendor: "jochenlilleike"
 product_type: "Book (printed)"
-price: 7.28
+price: 7.27
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.6
+earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-03-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://buch.berufungscode.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39937/adminstore/"
 sales_page: "https://buch.berufungscode.com"
 language: "de"
 ---
 # Buch | Tausche Hamsterrad gegen Traumleben
 
 > Product ID `39937` · Digistore24 productId `378010` · [HTML profile page](../../produkte/buch-tausche-hamsterrad-gegen-traumleben-39937.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $7.28 (Single payment) |
+| Price | $7.27 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.60 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jochenlilleike |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenke mein Buch „Tausche Hamsterrad gegen Traumleben“ und erhalte: - 5 € Provision auf jedes verschenkte Buch- 50% Provison auf das Hörbuch - 25% Provision auf das gedruckte WorkbookIn unserem Affiliate Bereich findest du dein Werbematerial, um sofort zu starten.
+**Vendor's marketplace description:** <h3><strong>Verschenke mein Buch „Tausche Hamsterrad gegen Traumleben“ und erhalte: <br /><br /></strong>- 5 € Provision auf jedes verschenkte Buch<br />- 50% Provison auf das Hörbuch <br />- 25% Provision auf das gedruckte Workbook<br /><br />In unserem Affiliate Bereich findest du dein Werbematerial, um sofort zu starten. <br /><br /><br /></h3>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://buch.berufungscode.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39937/adminstore/
 - Sales page: https://buch.berufungscode.com
 - Vendor affiliate support: https://buch.berufungscode.com/partner
 - Canonical redirect: https://www.digistore24.com/redir/378010/adminstore
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch | Tausche Hamsterrad gegen Traumleben? — Typ: Book (printed), Anbieter: jochenlilleike, gelistet seit 2021-03-09
-- Wie viel kostet es? — 7.2839 USD
+- Wie viel kostet es? — 7.267650000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

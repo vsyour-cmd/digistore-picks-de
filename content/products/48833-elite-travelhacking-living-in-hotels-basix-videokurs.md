@@ -4,34 +4,34 @@ digistore24_product_id: 553720
 title: "Elite travelhacking - Living in Hotels BasiX Videokurs"
 vendor: "Business2travel"
 product_type: "Member area and video courses"
-price: 87.73
+price: 87.54
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 93
+earnings_per_sale: 92.79
 cart_conversion_pct: 14
 cancel_rate_pct: 1.19
 categories: ["Education","Hotels & Gastronomy","Travel & Culture"]
 listed_since: "2024-05-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://elitetravelhacking.de/basix?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48833/adminstore/"
 sales_page: "https://elitetravelhacking.de/basix"
 language: "de"
 ---
 # Elite travelhacking - Living in Hotels BasiX Videokurs
 
 > Product ID `48833` · Digistore24 productId `553720` · [HTML profile page](../../produkte/elite-travelhacking-living-in-hotels-basix-videokurs-48833.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $87.73 (Single payment) |
+| Price | $87.54 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $93.00 |
+| Earnings/sale* | $92.79 |
 | Cart conversion* | 14% |
 | Cancel rate* | 1.19% |
 | Vendor | Business2travel |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Elite Travelhacking Living in Hotels Basix Videokurs + Für Urlauber & Einsteiger in das Travelhacking + Aufgenommen in über 30 gehackten Suiten/Flügen/Lounges + Über 5 Stunden Videolektionen + Special: 1 Monat zusätzlich Elite Travelhacking Live Webinars, bei upgrade auf Living in Hotels Xtrem oder Deluxe. (momentaner Wert: 100€) Lifetime Provision: Das Einsteigerprodukt Living in Hotels BasiX die…
+**Vendor's marketplace description:** <h2><br />Elite Travelhacking Living in Hotels Basix Videokurs</h2>
+<ul>
+<li>+ Für <strong>Urlauber &amp; Einsteiger</strong> in das Travelhacking</li>
+<li>+ Aufgenommen in über <strong>30 gehackten Suiten/Flügen/Lounges</strong></li>
+<li>+ Über <strong>5 Stunden</strong> Videolektionen</li>
+<li>+ Special: 1 Monat zusätzlich Elite Travelhacking Live Webinars, bei upgrade auf Living in Hotels Xtrem oder Deluxe. (momentaner <strong>Wert: 100€</strong>)<br /><br /></li>
+</ul>
+<h2>Lifetime Provision:</h2>
+<p>Das Einsteigerprodukt Living in Hotels BasiX dient hier als <strong>Lead-Magnet</strong> und richtet sich zusätzlich an Personen die weniger reisen (Urlauber und Einsteiger ins Travelhacking). Mit dem Rabattcode "BasiX_start" gibt es das Produkt beriets für günstige 49€ (zzgl. Mwst.) Dadurch lässt es sich leicht verkaufen.</p>
+<p>Mit dem Verkauf von Living in Hotels BasiX wird eine Lifetime Provision aktiv, wodurch Affiliates bei Upgrades zu den hochpreisigen Produkten zusätzlich Provision erhalten.<br /><br />Für den Living in Hotels BasiX Kurs vergeben wir <strong>30% Provision</strong>. Darauf folgt <strong>15% Provision</strong> auf alle weiteren Käufe nach dem BasiX Kurs.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://elitetravelhacking.de/basix?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48833/adminstore/
 - Sales page: https://elitetravelhacking.de/basix
 - Vendor affiliate support: https://elitetravelhacking.de/affiliate-supportseite/
 - Canonical redirect: https://www.digistore24.com/redir/553720/adminstore
@@ -98,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Elite travelhacking - Living in Hotels BasiX Videokurs? — Typ: Member area and video courses, Anbieter: Business2travel, gelistet seit 2024-05-23
-- Wie viel kostet es? — 87.73177400000002 USD
+- Wie viel kostet es? — 87.53604900000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

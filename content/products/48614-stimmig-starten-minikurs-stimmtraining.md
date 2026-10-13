@@ -4,16 +4,16 @@ digistore24_product_id: 560561
 title: "Stimmig starten: Minikurs Stimmtraining"
 vendor: "Stimmfluencer"
 product_type: "Downloads"
-price: 7.84
+price: 7.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.92
+earnings_per_sale: 3.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-07-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.stimmfluencer.de/stimmig-starten-minikurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.stimmfluencer.de/stimmig-starten-minikurs"
@@ -22,16 +22,16 @@ language: "de"
 # Stimmig starten: Minikurs Stimmtraining
 
 > Product ID `48614` · Digistore24 productId `560561` · [HTML profile page](../../produkte/stimmig-starten-minikurs-stimmtraining-48614.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.84 (Single payment) |
+| Price | $7.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.92 |
+| Earnings/sale* | $3.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Stimmfluencer |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du bekommst 50% Provision! Infos zum Kurs: Formate: Bearbeitbares Workbook Anleitungs-Video Inhalte: Reflexion des Ist-Zustands von: Sprechen, Stimme, Auftreten und Kommunikation Zielsetzung anhand der Reflexionsergebnisse für dieselben Bereiche - für ein direktes Optimieren der eigenen Kommunikation, beruflich wie privat Zielgruppe: Alle, die auch beruflich sprechen Menschen, die noch nie ein Sti…
+**Vendor's marketplace description:** <h2>Du bekommst 50% Provision!</h2>
+<h3>Infos zum Kurs:</h3>
+<p><strong>Formate:</strong></p>
+<ul>
+<li>Bearbeitbares Workbook</li>
+<li>Anleitungs-Video</li>
+</ul>
+<p><strong>Inhalte:</strong></p>
+<ul>
+<li>Reflexion des Ist-Zustands von: Sprechen, Stimme, Auftreten und Kommunikation</li>
+<li>Zielsetzung anhand der Reflexionsergebnisse für dieselben Bereiche - für ein direktes Optimieren der eigenen Kommunikation, beruflich wie privat</li>
+</ul>
+<p><strong>Zielgruppe:</strong></p>
+<ul>
+<li>Alle, die auch beruflich sprechen</li>
+<li>Menschen, die noch nie ein Stimmtraining gemacht haben</li>
+<li>Aber auch Fortgeschrittene, die noch tiefer einsteigen möchten</li>
+</ul>
 
 ## 2. Links
 
@@ -67,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stimmig starten: Minikurs Stimmtraining? — Typ: Downloads, Anbieter: Stimmfluencer, gelistet seit 2024-07-10
-- Wie viel kostet es? — 7.844200000000001 USD
+- Wie viel kostet es? — 7.826700000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

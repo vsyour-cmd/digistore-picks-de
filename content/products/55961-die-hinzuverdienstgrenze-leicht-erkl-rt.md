@@ -4,34 +4,34 @@ digistore24_product_id: 645534
 title: "Die Hinzuverdienstgrenze leicht erklärt"
 vendor: "verwitwet-leben"
 product_type: "Member area and video courses"
-price: 41.2
+price: 41.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 37.3
+earnings_per_sale: 37.22
 cart_conversion_pct: 18
 cancel_rate_pct: 0.45
 categories: ["Business & Investment","Education"]
 listed_since: "2025-11-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://verwitwet-leben.de/videokurs-hinzuverdienstgrenze-leicht-erklaert/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55961/adminstore/"
 sales_page: "https://verwitwet-leben.de/videokurs-hinzuverdienstgrenze-leicht-erklaert/"
 language: "de"
 ---
 # Die Hinzuverdienstgrenze leicht erklärt
 
 > Product ID `55961` · Digistore24 productId `645534` · [HTML profile page](../../produkte/die-hinzuverdienstgrenze-leicht-erkl-rt-55961.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.20 (Single payment) |
+| Price | $41.11 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $37.30 |
+| Earnings/sale* | $37.22 |
 | Cart conversion* | 18% |
 | Cancel rate* | 0.45% |
 | Vendor | verwitwet-leben |
@@ -41,11 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Hinzuverdienstgrenze leicht erklärt (Online-Videokurs) Verstehe endlich, wie die Hinzuverdienstgrenze funktioniert – und wie Du durch kluge Planung Deine Hinterbliebenenrente optimal nutzt und unnötige Kürzungen vermeidest. In diesem Videokurs lernst Du verständlich und praxisnah: die wichtigsten Grundlagen der gesetzlichen Rentenversicherung wie Einkommensanrechnung und Freibeträge wirken wel…
+**Vendor's marketplace description:** <p><strong>Die Hinzuverdienstgrenze leicht erklärt (Online-Videokurs)</strong></p>
+<p>Verstehe endlich, wie die Hinzuverdienstgrenze funktioniert – und wie Du durch kluge Planung Deine Hinterbliebenenrente optimal nutzt und unnötige Kürzungen vermeidest.</p>
+<p>In diesem Videokurs lernst Du verständlich und praxisnah:</p>
+<ul>
+<li>
+<p>die wichtigsten Grundlagen der gesetzlichen Rentenversicherung</p>
+</li>
+<li>
+<p>wie Einkommensanrechnung und Freibeträge wirken</p>
+</li>
+<li>
+<p>welche Einkommensarten berücksichtigt werden</p>
+</li>
+<li>
+<p>wie Du den Lifehack gezielt einsetzt</p>
+</li>
+<li>
+<p>worauf Du bei Steuerjahr, Rentenjahr und Sonderzahlungen achten musst</p>
+</li>
+<li>
+<p>wie Steuern Deine Rente beeinflussen und wie Du besser planst</p>
+</li>
+</ul>
+<p>Du erhältst klare Erklärungen, konkrete Beispiele und direkt umsetzbares Wissen für Deine finanzielle Planung.</p>
+<p>Dauer: ca. 3,5 Stunden Videomaterial<br />Zugriff: 30 Tage, beliebig oft abrufbar</p>
+<p><strong>Bonus:</strong> Inklusive Excel-Berechnungshilfe mit Lifehack.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://verwitwet-leben.de/videokurs-hinzuverdienstgrenze-leicht-erklaert/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55961/adminstore/
 - Sales page: https://verwitwet-leben.de/videokurs-hinzuverdienstgrenze-leicht-erklaert/
 - Canonical redirect: https://www.digistore24.com/redir/645534/adminstore
 
@@ -83,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Hinzuverdienstgrenze leicht erklärt? — Typ: Member area and video courses, Anbieter: verwitwet-leben, gelistet seit 2025-11-01
-- Wie viel kostet es? — 41.20446200000001 USD
+- Wie viel kostet es? — 41.11253700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

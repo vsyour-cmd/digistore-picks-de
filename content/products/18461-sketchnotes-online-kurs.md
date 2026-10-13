@@ -4,34 +4,34 @@ digistore24_product_id: 111195
 title: "Sketchnotes Online Kurs"
 vendor: "Timothy90"
 product_type: "Member area and video courses"
-price: 83.5
+price: 83.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.35
+earnings_per_sale: 37.27
 cart_conversion_pct: 9
 cancel_rate_pct: 0.56
 categories: ["Education","Hobby & Craft","Profession & Job"]
 listed_since: "2016-12-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://sketchnotes.com/sketchnotes-online-kurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.verfuehre-mit-persoenlichkeit.de/kommunikation-mit-frauen/#aff=adminstore"
 sales_page: "https://sketchnotes.com/sketchnotes-online-kurs/"
 language: "de"
 ---
 # Sketchnotes Online Kurs
 
 > Product ID `18461` · Digistore24 productId `111195` · [HTML profile page](../../produkte/sketchnotes-online-kurs-18461.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.50 (Single payment, Installment) |
+| Price | $83.31 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.35 |
+| Earnings/sale* | $37.27 |
 | Cart conversion* | 9% |
 | Cancel rate* | 0.56% |
 | Vendor | Timothy90 |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein exzellentes Produkt für die Bereiche Kreativität, Beruf und Hobbies! Achtung: Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst. In meinem großen Sketchnotes Kurs zeige ich den TeinehmerInnen, wie sie geniale Sketchnotes erstellen können – sei es für Flipcharts, Coachings, Präsentationen oder …
+**Vendor's marketplace description:** <p><strong>Ein exzellentes Produkt für die Bereiche Kreativität, Beruf und Hobbies!</strong></p>
+<hr />
+<p><span style="color:#ff0000;"><strong>Achtung:</strong> Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst.</span></p>
+<hr />
+<p>In meinem großen Sketchnotes Kurs zeige ich den TeinehmerInnen, wie sie geniale Sketchnotes erstellen können – sei es für Flipcharts, Coachings, Präsentationen oder einfach nur für die privaten Notizen.</p>
+<ul>
+<li>Sketchnoting Workshop <strong>für Anfänger</strong></li>
+<li><strong>Schritt für Schritt</strong> und <strong>Strich für Strich</strong> Bildsprache lernen</li>
+<li><strong>33 Lektionen und Videos</strong> mit Live-Sketchnotings (fast 5 Stunden reines Video-Material!)</li>
+<li><strong>Insider-Tipps</strong> für zukünftige SketchnoterInnen</li>
+<li><strong>Bonus #1: Exklusive Sketchnote-Spickzettel</strong> zum selber ausdrucken. Am Ende hast du ein richtiges Heft mit wertvollen Erinnerungen an die Inhalte des Workshops.</li>
+<li><strong>Bonus #2: Exklusive Übungsaufgaben</strong> zu jeder Lektion trainieren das frisch Erlernte. Sehr effektiv!</li>
+<li><strong>Bonus #3:</strong> Zugriff auf alle <strong>zukünftigen Inhalte</strong> des Workshops</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sketchnotes.com/sketchnotes-online-kurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.verfuehre-mit-persoenlichkeit.de/kommunikation-mit-frauen/#aff=adminstore
 - Sales page: https://sketchnotes.com/sketchnotes-online-kurs/
 - Canonical redirect: https://www.digistore24.com/redir/111195/adminstore
 
@@ -98,7 +111,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sketchnotes Online Kurs? — Typ: Member area and video courses, Anbieter: Timothy90, gelistet seit 2016-12-30
-- Wie viel kostet es? — 83.495906 USD
+- Wie viel kostet es? — 83.30963100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

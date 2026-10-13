@@ -4,16 +4,16 @@ digistore24_product_id: 711198
 title: "Selbstbewusstsein stärken - Endlich selbstbewusster werden"
 vendor: "FreedomBusinessSH3"
 product_type: "Member area and video courses"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 53
-earnings_per_sale: 49.41
+earnings_per_sale: 49.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://endlich-selbstbewusst-leben.de?aff=adminstore#aff=adminstore"
 sales_page: "https://endlich-selbstbewusst-leben.de"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstbewusstsein stärken - Endlich selbstbewusster werden
 
 > Product ID `57502` · Digistore24 productId `711198` · [HTML profile page](../../produkte/selbstbewusstsein-st-rken-endlich-selbstbewusster-werden-57502.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 53% |
-| Earnings/sale* | $49.41 |
+| Earnings/sale* | $49.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FreedomBusinessSH3 |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In diesem intensiven Selbstbewusstseins-stärken-Kurs lernst du in 7 kompakten Lektionen, wie du alte Muster durchbrichst, selbstbewusster werden kannst und endlich das Leben führst, das du wirklich willst. Inkl. Bonus-Material im Wert von 139 € (E-Books zu Stress, Selbstwert, Glück, Ernährung, Motivation)
+**Vendor's marketplace description:** <p>In diesem intensiven Selbstbewusstseins-stärken-Kurs lernst du in 7 kompakten Lektionen, wie du alte Muster durchbrichst, selbstbewusster werden kannst und endlich das Leben führst, das du wirklich willst.</p>
+<p>Inkl. Bonus-Material im Wert von 139 € (E-Books zu Stress, Selbstwert, Glück, Ernährung, Motivation)</p>
 
 ## 2. Links
 
@@ -66,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstbewusstsein stärken - Endlich selbstbewusster werden? — Typ: Member area and video courses, Anbieter: FreedomBusinessSH3, gelistet seit 2026-07-13
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

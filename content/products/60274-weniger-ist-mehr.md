@@ -4,16 +4,16 @@ digistore24_product_id: 742853
 title: "Weniger Ist Mehr"
 vendor: "Book2Book"
 product_type: "Downloads"
-price: 20.16
+price: 20.11
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.09
+earnings_per_sale: 12.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/742853?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/742853"
@@ -22,16 +22,16 @@ language: "de"
 # Weniger Ist Mehr
 
 > Product ID `60274` · Digistore24 productId `742853` · [HTML profile page](../../produkte/weniger-ist-mehr-60274.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.16 (Single payment) |
+| Price | $20.11 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.09 |
+| Earnings/sale* | $12.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** WENIGER IST MEHR – Der praktische 30-Tage-Plan Der Titel: WENIGER IST MEHR: Der praktische 30-Tage-Plan für weniger Gedankenchaos, weniger Stress und mehr innere Ruhe Preis: 17,99 € Provision: 60 % Kurzbeschreibung (Ideal für Promos & Netzwerke): Ständiges Gedankenkarussell, Alltagsstress und die Sehnsucht nach echter Ruhe? Dieses E-book liefert den Ausweg! Mit dem 30-Tage-Plan an die Hand begleit…
+**Vendor's marketplace description:** <h2>WENIGER IST MEHR – Der praktische 30-Tage-Plan</h2>
+<p>Der Titel: WENIGER IST MEHR: Der praktische 30-Tage-Plan für weniger Gedankenchaos, weniger Stress und mehr innere Ruhe</p>
+<p>Preis: 17,99 €</p>
+<p>Provision: 60 %</p>
+<p> </p>
+<p>Kurzbeschreibung (Ideal für Promos &amp; Netzwerke):</p>
+<p>Ständiges Gedankenkarussell, Alltagsstress und die Sehnsucht nach echter Ruhe? Dieses E-book liefert den Ausweg! Mit dem 30-Tage-Plan an die Hand begleitet dieser Ratgeber deine Zielgruppe Schritt für Schritt zu mehr mentaler Klarheit und einem entspannteren Leben. Kein theoretisches Blabla, sondern sofort umsetzbare, praktische Impulse für den Alltag.</p>
+<p>Warum sich die Bewerbung für dich lohnt:</p>
+<p> * Hohe Conversion: Das Thema Mentale Gesundheit, Stressabbau und Minimalismus trifft genau den Nerv der Zeit.</p>
+<p> * Attraktive Provision: Du erhältst 60 % Provision (ca. 10,79 €) bei einem fairen Endkundenpreis von 17,99 €.</p>
+<p> * Perfekt für breite Zielgruppen: Ob Angestellte, Eltern oder Selbstständige – jeder, der unter Strom steht, profitiert davon.</p>
+<p> </p>
+<p>Jetzt Affiliate-Link sichern und direkt von hoher Nachfrage profitieren!</p>
+<p> </p>
 
 ## 2. Links
 
@@ -81,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Weniger Ist Mehr? — Typ: Downloads, Anbieter: Book2Book, gelistet seit 2026-10-07
-- Wie viel kostet es? — 20.159594 USD
+- Wie viel kostet es? — 20.114619 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

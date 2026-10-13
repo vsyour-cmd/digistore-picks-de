@@ -4,16 +4,16 @@ digistore24_product_id: 689739
 title: "InnenWerk-System – Werde, wer Du wirklich bist"
 vendor: "JuergenBraun-Mentoring"
 product_type: "Member area and video courses"
-price: 974.92
+price: 972.75
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 292.48
+earnings_per_sale: 291.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://innenwerk-system.systeme.io/?aff=adminstore#aff=adminstore"
 sales_page: "https://innenwerk-system.systeme.io/"
@@ -22,16 +22,16 @@ language: "de"
 # InnenWerk-System – Werde, wer Du wirklich bist
 
 > Product ID `57668` · Digistore24 productId `689739` · [HTML profile page](../../produkte/innenwerk-system-werde-wer-du-wirklich-bist-57668.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $974.92 (Single payment, Installment) |
+| Price | $972.75 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $292.48 |
+| Earnings/sale* | $291.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JuergenBraun-Mentoring |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das InnenWerk-System ist ein geführter digitaler Entwicklungsweg für Menschen, die spüren, dass ihr bisheriger Weg nicht mehr wirklich passt und die klarer erkennen möchten, was zu ihnen gehört und wie daraus eine neue, tragfähige Richtung entsteht. Das System führt Schritt für Schritt durch drei aufeinander aufbauende Entwicklungsräume: Klärung – Fühlen wird bewusst.Prägungen, innere Muster und b…
+**Vendor's marketplace description:** <p>Das <strong>InnenWerk-System</strong> ist ein geführter digitaler Entwicklungsweg für Menschen, die spüren, dass ihr bisheriger Weg nicht mehr wirklich passt und die klarer erkennen möchten, was zu ihnen gehört und wie daraus eine neue, tragfähige Richtung entsteht.</p>
+<p>Das System führt Schritt für Schritt durch drei aufeinander aufbauende Entwicklungsräume:</p>
+<p><strong>Klärung – Fühlen wird bewusst.</strong><br />Prägungen, innere Muster und bisher unbewusste Bewegungen werden erkennbar.</p>
+<p><strong>Ausrichtung – Denken wird geordnet.</strong><br />Eigene Gaben, Potenziale, Werte und die persönliche Richtung werden klarer.</p>
+<p><strong>Verwirklichung – Das LebensWerk nimmt Form an.</strong><br />Erkenntnisse werden in Entscheidungen, konkrete Schritte und eine stimmige Form für das eigene Leben überführt.</p>
+<p>Das InnenWerk-System umfasst:</p>
+<p>• 6 aufeinander aufbauende Module<br />• 66 geführte Lektionen<br />• 6 begleitende Journale<br />• Reflexionsfragen<br />• praktische Übungen und Integrationsimpulse<br />• einen vollständigen digitalen Selbstlernweg</p>
+<p><strong>Deine Vorteile als Affiliate</strong></p>
+<p>• Verkaufspreis: <strong>770 €</strong><br />• Affiliate-Provision: <strong>30 %</strong><br />• Das entspricht aktuell <strong>231 € Provision pro Verkauf</strong><br />• Klar positionierte Zielgruppe im Bereich Persönlichkeitsentwicklung, Neuorientierung und Selbstverwirklichung<br />• Hochwertiges digitales Premiumprodukt mit professionell aufgebauter Verkaufsseite<br />• Produktbilder und Social-Media-Materialien für die Bewerbung<br />• Automatische Verkaufsabwicklung und Provisionsauszahlung über Digistore24</p>
+<p>Das InnenWerk-System eignet sich besonders zur Empfehlung an Menschen, die sich persönlich neu ausrichten, ihren eigenen Weg klarer erkennen und ihrem Leben oder LebensWerk eine stimmigere Form geben möchten.</p>
 
 ## 2. Links
 
@@ -93,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist InnenWerk-System – Werde, wer Du wirklich bist? — Typ: Member area and video courses, Anbieter: JuergenBraun-Mentoring, gelistet seit 2026-07-22
-- Wie viel kostet es? — 974.922 USD
+- Wie viel kostet es? — 972.7470000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

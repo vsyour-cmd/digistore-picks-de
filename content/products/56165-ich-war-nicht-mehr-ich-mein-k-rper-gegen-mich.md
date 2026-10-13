@@ -4,34 +4,34 @@ digistore24_product_id: 672126
 title: "Ich war nicht mehr ich mein Körper gegen mich"
 vendor: "fantasticman36"
 product_type: "E-books"
-price: 20.93
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 8.37
+earnings_per_sale: 8.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-02-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://hormoncod.pages.dev?aff=adminstore#aff=adminstore"
+promo_link: "https://www.veronica-gerritzen.de/die-ernaehrungsloesung-fig5/#aff=adminstore"
 sales_page: "https://hormoncod.pages.dev"
 language: "de"
 ---
 # Ich war nicht mehr ich mein Körper gegen mich
 
 > Product ID `56165` · Digistore24 productId `672126` · [HTML profile page](../../produkte/ich-war-nicht-mehr-ich-mein-k-rper-gegen-mich-56165.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.93 (Single payment) |
+| Price | $20.89 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $8.37 |
+| Earnings/sale* | $8.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fantasticman36 |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ich dachte, es ist nur Stress. Bis sein Körper komplett aufgegeben hat. Nach einem Herzinfarkt wurde klar:Es war nie nur Überlastung. Es war ein System, das ihn langsam zerstört hat. Dieses E-Book zeigt dir,warum dein Körper plötzlich gegen dich arbeitet– und wie du ihn wieder unter Kontrolle bekommst. Kein Gerede.Ein klarer Plan. Du bekommst: – Einen strukturierten Trainingsplan (Kraft & Cardio p…
+**Vendor's marketplace description:** <p>Ich dachte, es ist nur Stress.</p>
+<p>Bis sein Körper komplett aufgegeben hat.</p>
+<p>Nach einem Herzinfarkt wurde klar:<br />Es war nie nur Überlastung.</p>
+<p>Es war ein System, das ihn langsam zerstört hat.</p>
+<p>Dieses E-Book zeigt dir,<br />warum dein Körper plötzlich gegen dich arbeitet<br />– und wie du ihn wieder unter Kontrolle bekommst.</p>
+<p>Kein Gerede.<br />Ein klarer Plan.</p>
+<p>Du bekommst:</p>
+<p>– Einen strukturierten Trainingsplan (Kraft &amp; Cardio pro Woche) <br />– Die größten Fehler, die dich trotz Training ausbrennen <br />– Konkrete Strategien für stabile Energie im Alltag <br />– Wie du deinen Blutzucker (inkl. Langzeitblutzucker) wieder in den Griff bekommst <br />– Wie du dein Cholesterin nachhaltig verbesserst <br />– Welche Nahrungsergänzungsmittel wirklich Sinn machen <br />– Wie Hormone deinen Zustand beeinflussen <br />– Einblick in die Umsetzung mit Hormonersatztherapie (TRT)</p>
+<p>Das ist kein Motivationsbuch.</p>
+<p>Das ist ein System,<br />mit dem du deinen Körper wieder verstehst,<br />deine Werte verbesserst<br />und Schritt für Schritt zurück zu Energie kommst.</p>
+<p>Zielgruppe:<br />Menschen mit Stress, Erschöpfung, Energieverlust und körperlichem Zusammenbruch</p>
+<p>Preis: 19 €<br />Provision: 40 %</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://hormoncod.pages.dev?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.veronica-gerritzen.de/die-ernaehrungsloesung-fig5/#aff=adminstore
 - Sales page: https://hormoncod.pages.dev
 - Canonical redirect: https://www.digistore24.com/redir/672126/adminstore
 
@@ -79,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ich war nicht mehr ich mein Körper gegen mich? — Typ: E-books, Anbieter: fantasticman36, gelistet seit 2026-02-27
-- Wie viel kostet es? — 20.932808 USD
+- Wie viel kostet es? — 20.886108 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

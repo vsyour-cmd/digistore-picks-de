@@ -4,34 +4,34 @@ digistore24_product_id: 437776
 title: "Heilige Geometrie - Zeichen- und Bastelkurs Torus"
 vendor: "AndreasBeutel"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.46
+earnings_per_sale: 18.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2022-04-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://andreas-beutel.tv/wir-malen-einen-torus/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39697/adminstore/"
 sales_page: "https://andreas-beutel.tv/wir-malen-einen-torus/"
 language: "de"
 ---
 # Heilige Geometrie - Zeichen- und Bastelkurs Torus
 
 > Product ID `39697` · Digistore24 productId `437776` · [HTML profile page](../../produkte/heilige-geometrie-zeichen-und-bastelkurs-torus-39697.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.46 |
+| Earnings/sale* | $18.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasBeutel |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Von Andreas Beutel Entwickle mit mir wundervolle Torusmandalas! Bau mit mir Dein eigenes Torusmodell! Lerne die Feldgeometrie des Torusses verstehen! Ich zeige Dir den Weg zu Deinem eigenen Torusbild und der Geometrie unserer Lebensfelder Was Du in diesem Materialkurs bekommst: 1:08 h Video in HD Qualität in 3 Kapiteln Mit 3 Kameras aufgenommen für beste Sichtbarkeit Wiederholt abrufbar Das beste …
+**Vendor's marketplace description:** <div style="text-align:left;">
+<div align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Von Andreas Beutel</span></strong></div>
+<div align="center">
+<h1 align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">Entwickle mit mir wundervolle Torusmandalas!</span></strong></h1>
+<h1 align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">Bau mit mir Dein eigenes Torusmodell!</span></strong></h1>
+<h1 align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">Lerne die Feldgeometrie des Torusses verstehen!</span></strong></h1>
+</div>
+</div>
+<h3 align="center"><span style="color:#000000;"><span style="font-size:18.6667px;">Ich zeige Dir den Weg zu Deinem eigenen Torusbild und der Geometrie unserer Lebensfelder</span></span></h3>
+<h4 class="MsoNormal" style="margin-bottom:0.0001pt;">Was Du in diesem Materialkurs bekommst:</h4>
+<ul style="list-style-type:disc;">
+<li>1:08 h Video in HD Qualität in 3 Kapiteln</li>
+<li>Mit 3 Kameras aufgenommen für beste Sichtbarkeit</li>
+<li>Wiederholt abrufbar</li>
+<li>Das beste praktische Wissen zur Geometrie</li>
+<li>7 verschiedene Torusbilder angeleitet mit Detailvideos und Fotos sowie den passenden Stifthinweisen und Farbnummern.</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://andreas-beutel.tv/wir-malen-einen-torus/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39697/adminstore/
 - Sales page: https://andreas-beutel.tv/wir-malen-einen-torus/
 - Vendor affiliate support: https://andreas-beutel.tv/affiliate-info/
 - Canonical redirect: https://www.digistore24.com/redir/437776/adminstore
@@ -83,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilige Geometrie - Zeichen- und Bastelkurs Torus? — Typ: Member area and video courses, Anbieter: AndreasBeutel, gelistet seit 2022-04-06
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

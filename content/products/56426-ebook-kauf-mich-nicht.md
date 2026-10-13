@@ -4,16 +4,16 @@ digistore24_product_id: 689548
 title: "Ebook - Kauf mich nicht"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.8
+price: 6.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.41
+earnings_per_sale: 3.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business","Personal Development"]
 listed_since: "2026-05-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689548?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689548"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Kauf mich nicht
 
 > Product ID `56426` · Digistore24 productId `689548` · [HTML profile page](../../produkte/ebook-kauf-mich-nicht-56426.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.80 (Single payment) |
+| Price | $6.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.41 |
+| Earnings/sale* | $3.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochaktuelles und stark polarisierendes Thema mit enormem Viralpotenzial: Dieses Buch deckt auf, wie Konsumenten täglich durch psychologische Tricks, Preisstrategien und digitale Manipulation beeinflusst werden. Es trifft exakt den Nerv einer aufgeklärten, kritischen Zielgruppe, die verstehen will, wie Marketing wirklich funktioniert – und sich davor schützen möchte. Die Kombination aus Psycho…
+**Vendor's marketplace description:** <p>Ein hochaktuelles und stark polarisierendes Thema mit enormem Viralpotenzial:</p>
+<p>Dieses Buch deckt auf, wie Konsumenten täglich durch psychologische Tricks, Preisstrategien und digitale Manipulation beeinflusst werden.</p>
+<p>Es trifft exakt den Nerv einer aufgeklärten, kritischen Zielgruppe, die verstehen will, wie Marketing wirklich funktioniert – und sich davor schützen möchte.</p>
+<p>Die Kombination aus Psychologie, Praxisbeispielen und konkreten Strategien sorgt für hohe Relevanz und starke Kaufimpulse.</p>
+<p>Besonders geeignet für Content in den Bereichen Mindset, Finanzen, Marketing und kritisches Denken.</p>
+<p>Ein aufmerksamkeitsstarkes Produkt mit hoher Klickrate und exzellentem Conversion-Potenzial.</p>
 
 ## 2. Links
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Kauf mich nicht? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-02
-- Wie viel kostet es? — 6.802042 USD
+- Wie viel kostet es? — 6.786867000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

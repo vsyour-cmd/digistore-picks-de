@@ -4,34 +4,34 @@ digistore24_product_id: 191879
 title: "Großer Handlettering Online Kurs"
 vendor: "Timothy90"
 product_type: "Member area and video courses"
-price: 76.73
+price: 76.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.45
+earnings_per_sale: 37.37
 cart_conversion_pct: 23
 cancel_rate_pct: 0.39
 categories: ["Family & Children","Fun & Games","Hobby & Craft"]
 listed_since: "2018-01-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://handletteringlernen.de/handlettering-online-kurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/22119/adminstore/"
 sales_page: "https://handletteringlernen.de/handlettering-online-kurs/"
 language: "de"
 ---
 # Großer Handlettering Online Kurs
 
 > Product ID `22119` · Digistore24 productId `191879` · [HTML profile page](../../produkte/gro-er-handlettering-online-kurs-22119.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $76.73 (Single payment, Installment) |
+| Price | $76.56 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.45 |
+| Earnings/sale* | $37.37 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0.39% |
 | Vendor | Timothy90 |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Handlettering Online Kurs - ein großartiges, kreatives Produkt mit viel Potential. Achtung: Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst. Profitiere vom Trend der kreativen Handschrift. Immer mehr Menschen suchen einen Ausgleich zur Arbeit am PC, und zu seelenloser KI-Kunst. Das Handlette…
+**Vendor's marketplace description:** <p><strong>Der Handlettering Online Kurs - ein großartiges, kreatives Produkt mit viel Potential.</strong></p>
+<hr />
+<p> <span style="color:#ff0000;"><strong>Achtung:</strong> Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst.</span></p>
+<hr />
+<p>Profitiere vom Trend der kreativen Handschrift. Immer mehr Menschen suchen einen Ausgleich zur Arbeit am PC, und zu seelenloser KI-Kunst. Das Handlettering ist dabei das ideale Hobby.</p>
+<ul>
+<li>In meinem Handlettering Online Kurs lernen die Teilnehmer das Handlettering vom ersten Strich bis zum finalen Foto.</li>
+<li>Unzählige exklusive Übungsblätter (PDFs) begleiten den Workshop und helfen beim effektiven Lernen.</li>
+<li>Massig Material, das auch nach dem Kurs noch hilfreich ist (Grundlinienraster mit verschiedenen Proportionen, Punktraster)</li>
+<li>In 55 Lektionen &amp; Videos bringe ich dem Teilnehmer alles bei, um selbst zum Handlettering Artist zu werden.</li>
+<li>Selbst entwickelte, exklusive Zusatztools (Style-Picker, Layout-Designer) für alle Kursteilnehmer.</li>
+<li>Eine private Community zum Kurs, um seine Werke mit Gleichgesinnten teilen zu können</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://handletteringlernen.de/handlettering-online-kurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/22119/adminstore/
 - Sales page: https://handletteringlernen.de/handlettering-online-kurs/
 - Vendor affiliate support: https://handletteringlernen.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/191879/adminstore
@@ -92,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Großer Handlettering Online Kurs? — Typ: Member area and video courses, Anbieter: Timothy90, gelistet seit 2018-01-06
-- Wie viel kostet es? — 76.727482 USD
+- Wie viel kostet es? — 76.556307 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

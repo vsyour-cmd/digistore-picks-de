@@ -4,34 +4,34 @@ digistore24_product_id: 414062
 title: "Kreativer online Malkurs \"Food Sketching\""
 vendor: "kolibrischool"
 product_type: "Member area and video courses"
-price: 26.28
+price: 26.22
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 5.26
+earnings_per_sale: 5.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2021-10-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://kolibri-school.de/food-sketching-malen-lernen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/38261/adminstore/"
 sales_page: "https://kolibri-school.de/food-sketching-malen-lernen/"
 language: "de"
 ---
 # Kreativer online Malkurs "Food Sketching"
 
 > Product ID `38261` · Digistore24 productId `414062` · [HTML profile page](../../produkte/kreativer-online-malkurs-food-sketching-38261.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $26.28 (Single payment) |
+| Price | $26.22 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $5.26 |
+| Earnings/sale* | $5.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kolibrischool |
@@ -41,11 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kolibri School ist eine online Malschule für Kinder, in der jedes Kind ab 6 ganz einfach und praktisch online malen lernen kann. In diesem Malkurs lernt man vier leckere Süßspeisen zu skizzieren und anschließend mit Aquarell zu kolorieren: Ein appetitliches Eis im Becher, verlockende französische Macarons, ein frisches Croissant mit Marmelade im Glass und ein Stück verführerische Himbeertorte. Du …
+**Vendor's marketplace description:** <p>Kolibri School ist eine <strong>online Malschule für Kinder</strong>, in der jedes Kind ab 6 ganz einfach und praktisch online malen lernen kann.</p>
+<p>In diesem Malkurs lernt man <strong>vier</strong> leckere Süßspeisen zu skizzieren und anschließend mit Aquarell zu kolorieren: Ein appetitliches <strong>Eis im Becher</strong>, verlockende französische <strong>Macarons</strong>, ein frisches <strong>Croissant</strong> mit Marmelade im Glass und ein Stück verführerische <strong>Himbeertorte</strong>.</p>
+<p>Du hast Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an.</p>
+<p> </p>
+<p><strong>Zum Produkt:</strong></p>
+<ul>
+<li>4 Lernvideos je ca 45 Min</li>
+<li>4 selbstgemalte Bilder in Aquarell</li>
+<li>pädagogisch aufbereitete Schritt-für-Schritt-Anleitung</li>
+<li>geeignet für Kinder und Jugendliche ab 14 Jahren, sowie Erwachsene</li>
+<li>von Profi-Künstlerin erstellt</li>
+</ul>
+<p><strong>Deine Vorteile:</strong></p>
+<ul>
+<li>20% Provision pro Verkauf</li>
+<li>Hochwertiges Produkt zum atraktiven Preis</li>
+<li>zufriedene Kunden</li>
+<li>sicheres Partnerprogram verwaltet durch Digistore24</li>
+<li>perfekte Nische, kaum Wettbewerb</li>
+<li>Werbemittel nach Anfrage  </li>
+</ul>
+<p>Bei weiteren Fragen stehen wir gerne per E-mail kunst@kolibri-school.de zur Verfügung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kolibri-school.de/food-sketching-malen-lernen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38261/adminstore/
 - Sales page: https://kolibri-school.de/food-sketching-malen-lernen/
 - Canonical redirect: https://www.digistore24.com/redir/414062/adminstore
 
@@ -69,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kreativer online Malkurs "Food Sketching"? — Typ: Member area and video courses, Anbieter: kolibrischool, gelistet seit 2021-10-29
-- Wie viel kostet es? — 26.27807 USD
+- Wie viel kostet es? — 26.219445 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 328647
 title: "Bauanleitung - Renault Kangoo W Einzelbett"
 vendor: "mobilesbett"
 product_type: "E-books"
-price: 30.31
+price: 30.24
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 11.97
+earnings_per_sale: 11.94
 cart_conversion_pct: 1
 cancel_rate_pct: 3.32
 categories: ["Hobby & Craft"]
 listed_since: "2020-05-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://mobiles-bett.de/renault-kangoo-w?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/35151/adminstore/"
 sales_page: "https://mobiles-bett.de/renault-kangoo-w"
 language: "de"
 ---
 # Bauanleitung - Renault Kangoo W Einzelbett
 
 > Product ID `35151` · Digistore24 productId `328647` · [HTML profile page](../../produkte/bauanleitung-renault-kangoo-w-einzelbett-35151.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.31 (Single payment) |
+| Price | $30.24 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $11.97 |
+| Earnings/sale* | $11.94 |
 | Cart conversion* | 1% |
 | Cancel rate* | 3.32% |
 | Vendor | mobilesbett |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Schritt-für-Schritt Bauanleitung für ein Renault Kangoo W Einzelbett. Die Anleitung beschreibt alle Maße, Materialien und Hölzer, die im Baumarkt zugeschnitten und besorgt werden können. Danach werden die Hölzer und Winkel wie ein Bausatz zusammengesetzt. Das Autobett lässt sich zusammengeschoben platzsparend im Kofferraum transportieren und in wenigen Minuten zum Schlafen ausziehen.
+**Vendor's marketplace description:** <p>Schritt-für-Schritt <strong>Bauanleitung</strong> für ein <strong>Renault Kangoo W Einzelbett</strong>. Die Anleitung beschreibt alle Maße, Materialien und Hölzer, die im Baumarkt zugeschnitten und besorgt werden können. Danach werden die Hölzer und Winkel wie ein Bausatz zusammengesetzt.</p>
+<p> </p>
+<p>Das <strong>Autobett</strong> lässt sich zusammengeschoben platzsparend<strong> im Kofferraum</strong> transportieren und in <strong>wenigen Minuten zum Schlafen ausziehen</strong>.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mobiles-bett.de/renault-kangoo-w?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/35151/adminstore/
 - Sales page: https://mobiles-bett.de/renault-kangoo-w
 - Vendor affiliate support: https://mobiles-bett.de/partnerschaft/
 - Canonical redirect: https://www.digistore24.com/redir/328647/adminstore
@@ -81,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bauanleitung - Renault Kangoo W Einzelbett? — Typ: E-books, Anbieter: mobilesbett, gelistet seit 2020-05-26
-- Wie viel kostet es? — 30.312230000000003 USD
+- Wie viel kostet es? — 30.244605000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

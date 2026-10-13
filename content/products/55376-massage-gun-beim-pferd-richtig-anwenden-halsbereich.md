@@ -4,16 +4,16 @@ digistore24_product_id: 661235
 title: "Massage Gun beim Pferd richtig anwenden – Halsbereich"
 vendor: "Faszienloesen"
 product_type: "Member area and video courses"
-price: 33.9
+price: 33.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.95
+earnings_per_sale: 16.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Health & Fitness"]
 listed_since: "2026-01-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.equinemassagegun.de/pferd-hals-genick/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.equinemassagegun.de/pferd-hals-genick/"
@@ -22,16 +22,16 @@ language: "de"
 # Massage Gun beim Pferd richtig anwenden – Halsbereich
 
 > Product ID `55376` · Digistore24 productId `661235` · [HTML profile page](../../produkte/massage-gun-beim-pferd-richtig-anwenden-halsbereich-55376.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $33.90 (Single payment) |
+| Price | $33.82 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.95 |
+| Earnings/sale* | $16.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Faszienloesen |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hals & Genick – Losgelassenheit verbessern und feine Anlehnung ermöglichen Gezielte Massage‑Gun‑Anwendung für Hals & Genick Klare Punkte, klare Reihenfolge, sofort umsetzbar Ideal bei fester Oberlinie, fehlender Stellung/Biegung und Problemen im Vorwärts‑Abwärts Perfekt für Trainer & Pferdebesitzer Unterstützt Losgelassenheit, Dehnungshaltung und feine Anlehnung 50 % Provision auf den Kurs + 70 % …
+**Vendor's marketplace description:** <h3><strong>Hals &amp; Genick – Losgelassenheit verbessern und feine Anlehnung ermöglichen</strong></h3>
+<p><br /><strong>Gezielte Massage‑Gun‑Anwendung für Hals &amp; Genick</strong></p>
+<ul>
+<li>Klare Punkte, klare Reihenfolge, sofort umsetzbar</li>
+<li>Ideal bei fester Oberlinie, fehlender Stellung/Biegung und Problemen im Vorwärts‑Abwärts</li>
+<li>Perfekt für Trainer &amp; Pferdebesitzer</li>
+<li>Unterstützt Losgelassenheit, Dehnungshaltung und feine Anlehnung</li>
+</ul>
+<p><strong>50 % Provision auf den Kurs + 70 % auf den Komplettkurs‑Upsell.</strong></p>
 
 ## 2. Links
 
@@ -67,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Massage Gun beim Pferd richtig anwenden – Halsbereich? — Typ: Member area and video courses, Anbieter: Faszienloesen, gelistet seit 2026-01-14
-- Wie viel kostet es? — 33.89815 USD
+- Wie viel kostet es? — 33.822525000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

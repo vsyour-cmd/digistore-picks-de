@@ -4,34 +4,34 @@ digistore24_product_id: 727952
 title: "Canva für Einsteiger - Schritt für Schritt zum ersten Design"
 vendor: "jaqui19926004"
 product_type: "Downloads"
-price: 37.57
+price: 37.49
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 13.16
+earnings_per_sale: 13.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media","Online Marketing"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://ki-richtig-nutzen.my.canva.site/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-eigenen-design?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58861/adminstore/"
 sales_page: "https://ki-richtig-nutzen.my.canva.site/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-eigenen-design"
 language: "de"
 ---
 # Canva für Einsteiger - Schritt für Schritt zum ersten Design
 
 > Product ID `58861` · Digistore24 productId `727952` · [HTML profile page](../../produkte/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-design-58861.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.57 (Single payment) |
+| Price | $37.49 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $13.16 |
+| Earnings/sale* | $13.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jaqui19926004 |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du möchtest Canva nutzen, weißt aber noch nicht genau, wo du anfangen sollst? Dieser verständliche Einsteiger-Guide führt dich Schritt für Schritt durch die wichtigsten Grundlagen von Canva. Mit einfachen Erklärungen und vielen anschaulichen Screenshots lernst du die wichtigsten Funktionen kennen und kannst die einzelnen Schritte direkt selbst ausprobieren. Digitaler Guide zum downloaden
+**Vendor's marketplace description:** <p><strong>Du möchtest Canva nutzen, weißt aber noch nicht genau, wo du anfangen sollst? </strong></p>
+<p><strong><span style="color:#ff6600;">Dieser verständliche Einsteiger-Guide führt dich Schritt für Schritt durch die wichtigsten Grundlagen von Canva. Mit einfachen Erklärungen und vielen anschaulichen Screenshots lernst du die wichtigsten Funktionen kennen und kannst die einzelnen Schritte direkt selbst ausprobieren.</span></strong></p>
+<p>Digitaler Guide zum downloaden</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ki-richtig-nutzen.my.canva.site/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-eigenen-design?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58861/adminstore/
 - Sales page: https://ki-richtig-nutzen.my.canva.site/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-eigenen-design
 - Canonical redirect: https://www.digistore24.com/redir/727952/adminstore
 
@@ -60,7 +62,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Canva für Einsteiger - Schritt für Schritt zum ersten Design? — Typ: Downloads, Anbieter: jaqui19926004, gelistet seit 2026-09-02
-- Wie viel kostet es? — 37.573718 USD
+- Wie viel kostet es? — 37.489893 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

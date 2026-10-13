@@ -4,16 +4,16 @@ digistore24_product_id: 729781
 title: "E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein"
 vendor: "lvlBoZzlvl"
 product_type: "Software"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.37
+earnings_per_sale: 18.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://e-rechnung-kit.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://e-rechnung-kit.pages.dev/"
@@ -22,16 +22,16 @@ language: "de"
 # E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein
 
 > Product ID `59100` · Digistore24 productId `729781` · [HTML profile page](../../produkte/e-rechnung-kit-2026-python-cli-software-50-39-ein-59100.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.37 |
+| Earnings/sale* | $18.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Software-ZIP / Python-CLI (v1.0.1): Stripe/JSON → XRechnung 3.0.2 & ZUGFeRD 2.5.2, plus Empfang und lokale Archivierung. Selbst gehostet, offline — kein Cloud-SaaS. Verkaufspreis 39,00 € einmalig. Affiliate-Provision 50 %. Rückerstattung 14 Tage. Verkaufsseite: https://e-rechnung-kit.pages.dev — Orderform: https://www.digistore24.com/product/729781. Produkttyp Software (nicht E-Book). Kein Steuer-…
+**Vendor's marketplace description:** <p>Software-ZIP / Python-CLI (v1.0.1): Stripe/JSON → XRechnung 3.0.2 &amp; ZUGFeRD 2.5.2, plus Empfang und lokale Archivierung. Selbst gehostet, offline — kein Cloud-SaaS. Verkaufspreis 39,00 € einmalig. Affiliate-Provision 50 %. Rückerstattung 14 Tage. Verkaufsseite: <a href="https://e-rechnung-kit.pages.dev">https://e-rechnung-kit.pages.dev</a> — Orderform: <a href="https://www.digistore24.com/product/729781">https://www.digistore24.com/product/729781</a>. Produkttyp Software (nicht E-Book). Kein Steuer-/Rechtsrat; validate  KoSIT. Nicht verwechseln mit Finanzamt-klar (PDF-Workbook für Solos).</p>
 
 ## 2. Links
 
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Rechnung Kit 2026 — Python-CLI (Software) – 50 %, 39 € ein? — Typ: Software, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-10
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

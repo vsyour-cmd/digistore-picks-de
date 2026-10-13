@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2019-05-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.volleyballfreak.de/videocrashkurs-fuer-sprungkrafttraining?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/29113/adminstore/"
 sales_page: "https://www.volleyballfreak.de/videocrashkurs-fuer-sprungkrafttraining"
 language: "de"
 ---
 # Sprungkrafttraining Crashkurs für Volleyballer
 
 > Product ID `29113` · Digistore24 productId `273833` · [HTML profile page](../../produkte/sprungkrafttraining-crashkurs-f-r-volleyballer-29113.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In unserem 12 minütigen Crashkurs zeigt dir Volleyballer und Personaltrainer Tim Burwitz Basisübungen, damit du als Volleyballer selbst deine Sprungkraft trainieren kannst.
+**Vendor's marketplace description:** <p>In unserem 12 minütigen Crashkurs zeigt dir Volleyballer und Personaltrainer Tim Burwitz Basisübungen, damit du als Volleyballer selbst deine Sprungkraft trainieren kannst. </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.volleyballfreak.de/videocrashkurs-fuer-sprungkrafttraining?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/29113/adminstore/
 - Sales page: https://www.volleyballfreak.de/videocrashkurs-fuer-sprungkrafttraining
 - Canonical redirect: https://www.digistore24.com/redir/273833/adminstore
 
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sprungkrafttraining Crashkurs für Volleyballer? — Typ: Downloads, Anbieter: volleyballfreak, gelistet seit 2019-05-29
-- Wie viel kostet es? — 3.75401 USD
+- Wie viel kostet es? — 3.7456350000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 351146
 title: "Tai Chi Kurs on demand - online lernen über 15 Monate"
 vendor: "WuWeiSchule"
 product_type: "Member area and video courses"
-price: 23.07
+price: 23.02
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 5.77
+earnings_per_sale: 5.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2020-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.wuwei-schule.de/lp/tai-chi/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/35249/adminstore/"
 sales_page: "https://www.wuwei-schule.de/lp/tai-chi/"
 language: "de"
 ---
 # Tai Chi Kurs on demand - online lernen über 15 Monate
 
 > Product ID `35249` · Digistore24 productId `351146` · [HTML profile page](../../produkte/tai-chi-kurs-on-demand-online-lernen-ber-15-monate-35249.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.07 (Subscription) |
+| Price | $23.02 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $5.77 |
+| Earnings/sale* | $5.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | WuWeiSchule |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Wu Wei Online Schule hat ein einmaliges Konzept, da zeitgesteuert über 15 Monate die 24 Bilder Choreografie des Tai Chi Chuan vermittelt wird. Diese Abfolge ist die weltweit erfolgreichste Art Tai Chi zu praktizieren und wird von dem langjährigen Lehrer, Ausbilder und Autor des Standardwerkes für diese Choreografie Jan Leminsky vermittelt. 30 Trainings mit wechselnden Orten führen den Teilnehm…
+**Vendor's marketplace description:** <p>Die Wu Wei Online Schule hat ein einmaliges Konzept, da zeitgesteuert über 15 Monate die 24 Bilder Choreografie des Tai Chi Chuan vermittelt wird.</p>
+<p>Diese Abfolge ist die weltweit erfolgreichste Art Tai Chi zu praktizieren und wird von dem langjährigen Lehrer, Ausbilder und Autor des Standardwerkes für diese Choreografie Jan Leminsky vermittelt.</p>
+<p>30 Trainings mit wechselnden Orten führen den Teilnehmer an Tai Chi heran und sorgen für Abwechslung und Freude beim Lernen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.wuwei-schule.de/lp/tai-chi/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/35249/adminstore/
 - Sales page: https://www.wuwei-schule.de/lp/tai-chi/
 - Canonical redirect: https://www.digistore24.com/redir/351146/adminstore
 
@@ -72,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tai Chi Kurs on demand - online lernen über 15 Monate? — Typ: Member area and video courses, Anbieter: WuWeiSchule, gelistet seit 2020-10-06
-- Wie viel kostet es? — 23.073154000000002 USD
+- Wie viel kostet es? — 23.021679000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

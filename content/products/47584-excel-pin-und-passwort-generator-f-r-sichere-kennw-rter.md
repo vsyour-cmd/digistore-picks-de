@@ -4,7 +4,7 @@ digistore24_product_id: 488581
 title: "Excel PIN- und Passwort-Generator für sichere Kennwörter"
 vendor: "amexio"
 product_type: "Downloads"
-price: 18.78
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.88
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Software"]
 listed_since: "2023-03-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/488581?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/488581"
@@ -22,14 +22,14 @@ language: "de"
 # Excel PIN- und Passwort-Generator für sichere Kennwörter
 
 > Product ID `47584` · Digistore24 productId `488581` · [HTML profile page](../../produkte/excel-pin-und-passwort-generator-f-r-sichere-kennw-rter-47584.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.78 (Single payment) |
+| Price | $18.74 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.88 |
 | Cart conversion* | — |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Excel PIN- & Passwortgenerator bietet Premiumfunktionen für extra starke Passwörter. Mit Version 2.1 können: bis zu 100 Passwörter oder PIN-Codes gleichzeitig erstellen die generierten Passwärter oder PIN-Codes können in die Zwischenablage kopiert, oder als Textdatei exportiert werden es können Passwörter mit bis zu 20 Zeichen erstellt werden Zahlen PIN-Codes können mit bis zu 10 Zeichen erste…
+**Vendor's marketplace description:** <p>Der Excel PIN- &amp; Passwortgenerator bietet Premiumfunktionen für extra starke Passwörter.</p>
+<p>Mit Version 2.1 können:</p>
+<ul>
+<li>bis zu 100 Passwörter oder PIN-Codes gleichzeitig erstellen</li>
+<li>die generierten Passwärter oder PIN-Codes können in die Zwischenablage kopiert, oder als Textdatei exportiert werden</li>
+<li>es können Passwörter mit bis zu 20 Zeichen erstellt werden</li>
+<li>Zahlen PIN-Codes können mit bis zu 10 Zeichen erstellt werden</li>
+<li>ausgehend von den gewählten Zeichenoptionen und der Passwortlänge wird die Passwortstärke ermittelt</li>
+</ul>
+<p>Die aktuelle Version 2.1 des Excel PIN- &amp; Passwortgenerators ist für 9,95 Euro bei Digistore24 erhältlich.</p>
+<p>Verdienen Sie pro Verkauf 10% Provision. </p>
 
 ## 2. Links
 
@@ -70,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Excel PIN- und Passwort-Generator für sichere Kennwörter? — Typ: Downloads, Anbieter: amexio, gelistet seit 2023-03-11
-- Wie viel kostet es? — 18.781256000000003 USD
+- Wie viel kostet es? — 18.739356000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

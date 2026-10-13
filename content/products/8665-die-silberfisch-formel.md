@@ -4,16 +4,16 @@ digistore24_product_id: 59641
 title: "Die Silberfisch-Formel"
 vendor: "mike_r"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.19
+earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2015-09-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://die-silberfisch-formel.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://die-silberfisch-formel.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Die Silberfisch-Formel
 
 > Product ID `8665` · Digistore24 productId `59641` · [HTML profile page](../../produkte/die-silberfisch-formel-8665.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.19 |
+| Earnings/sale* | $5.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mike_r |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Silberfisch-Formel ist eine leicht verständliche und effektive Schritt-für-Schritt Anleitung, die zeigt, wie man Silberfische erfolgreich bekämpft. Und zwar innerhalb kürzester Zeit, mit einfachsten Mitteln, ohne Chemie und vollständig. Diese Anleitung hat sich vielfach bewährt und ist einfach nachvollziehbar. Vom Finden der Quelle bis zur restlosen Vernichtung ohne Chance auf Wiederkehr, ist …
+**Vendor's marketplace description:** <p><strong>Die Silberfisch-Formel</strong> ist eine leicht verst&auml;ndliche und effektive Schritt-f&uuml;r-Schritt Anleitung, die zeigt, wie man Silberfische erfolgreich bek&auml;mpft. Und zwar innerhalb k&uuml;rzester Zeit, mit einfachsten Mitteln, ohne Chemie und vollst&auml;ndig.</p>
+<p>&nbsp;</p>
+<p>Diese Anleitung hat sich vielfach bew&auml;hrt und ist einfach nachvollziehbar. Vom&nbsp;Finden der Quelle bis zur restlosen Vernichtung ohne Chance auf Wiederkehr, ist alles Schritt f&uuml;r Schritt erkl&auml;rt.&nbsp;Egal welches Ausma&szlig; die Plage hat, der Erfolg ist garantiert!</p>
+<p>&nbsp;</p>
+<p>JETZT AFFILIATE WERDEN!</p>
 
 ## 2. Links
 
@@ -70,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Silberfisch-Formel? — Typ: E-books, Anbieter: mike_r, gelistet seit 2015-09-24
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

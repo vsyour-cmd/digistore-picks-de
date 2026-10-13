@@ -4,16 +4,16 @@ digistore24_product_id: 297717
 title: "Unterrichtsvideo \"Shiatsu in der Sitzposition\""
 vendor: "shiatsuart"
 product_type: "Downloads"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.49
+earnings_per_sale: 32.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-12-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.shiatsu.de/muenchen/node/909?aff=adminstore#aff=adminstore"
 sales_page: "https://www.shiatsu.de/muenchen/node/909"
@@ -22,16 +22,16 @@ language: "de"
 # Unterrichtsvideo "Shiatsu in der Sitzposition"
 
 > Product ID `30860` · Digistore24 productId `297717` · [HTML profile page](../../produkte/unterrichtsvideo-shiatsu-in-der-sitzposition-30860.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.97 (Single payment) |
+| Price | $64.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.49 |
+| Earnings/sale* | $32.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | shiatsuart |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verkaufe den Videokurs "Shiatsu in der Sitzposition" (mit Klaus Metzner) und erhalte 50% Provision! Shiatsu ist eine japanische Massagetechnik, die Wohlbefinden, Lebensfreude und Leistungsvermögen fördert. Shiatsu hilft, zu entschleunigen und im Jetzt zu sein. Deine Vorteile: Geräteübergreifende Affiliate-Attribution durch Deinen personalisierten Link 50% Provision Das Produkt: 45-minütiges Lehrvi…
+**Vendor's marketplace description:** <p><strong>Verkaufe den Videokurs "Shiatsu in der Sitzposition" (mit Klaus Metzner) und erhalte 50% Provision!</strong></p>
+<p>Shiatsu ist eine japanische Massagetechnik, die Wohlbefinden, Lebensfreude und Leistungsvermögen fördert. Shiatsu hilft, zu entschleunigen und im Jetzt zu sein.</p>
+<p><strong>Deine Vorteile:</strong></p>
+<ul><li>Geräteübergreifende Affiliate-Attribution durch Deinen personalisierten Link</li>
+<li>50% Provision</li>
+</ul><p><strong>Das Produkt:</strong></p>
+<ul><li>45-minütiges Lehrvideo mit Shiatsu-Massagetechniken in der Sitzposition</li>
+<li>das Video steht unmittelbar nach dem Kauf als mp4-Datei zur Verfügung (knapp 1,8 GB)</li>
+<li>zum Shiatsu Lernen, Mitmachen, Üben</li>
+<li>Kurslehrer ist Klaus Metzner, der seit über 30 Jahren das Europäische Shiatsu Institut in München leitet.</li>
+</ul><p>Gerne beantwortet Dir Klaus Metzner alle Fragen rund um das Video und Shiatsu, so wie Du es für Deinen Content brauchst.</p>
+<p>E-Mail: <a href="mailto:klaus.metzner@shiatsu.de">klaus.metzner@shiatsu.de</a></p>
+<p>Telefon: 0163 / 914 78 75</p>
+<p>Auf dem YouTube Channel <em>ESI München ShiatsuArt</em> findest Du viele Videos rund um Shiatsu und das ESI München.</p>
+<p>Infos zum ESI München findest Du auf www.shiatsu.de/muenchen</p>
+<p> </p>
 
 ## 2. Links
 
@@ -81,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Unterrichtsvideo "Shiatsu in der Sitzposition"? — Typ: Downloads, Anbieter: shiatsuart, gelistet seit 2019-12-01
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

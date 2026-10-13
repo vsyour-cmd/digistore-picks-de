@@ -4,16 +4,16 @@ digistore24_product_id: 732148
 title: "Dehnübungen für Tänzer"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 20.16
+price: 20.11
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.09
+earnings_per_sale: 12.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2026-09-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/732148?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/732148"
@@ -22,16 +22,16 @@ language: "de"
 # Dehnübungen für Tänzer
 
 > Product ID `59112` · Digistore24 productId `732148` · [HTML profile page](../../produkte/dehn-bungen-f-r-t-nzer-59112.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.16 (Single payment) |
+| Price | $20.11 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.09 |
+| Earnings/sale* | $12.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dehnübungen für Tänzer – Das ultimative E-Book Bewerbe einen hochkonvertierenden Bestseller in der Tanz- und Fitness-Nische und sichere dir lukrative Provisionen. Das E-Book bietet effektive, sichere Dehntechniken für Spagat, Beweglichkeit und schmerzfreies Training. • Verkaufspreis: 17,99 € • Provision: 60 % (starke Marge für Affiliates) • Plattform: Digistore24 • Zielgruppe: Tänzer, Turner, Chee…
+**Vendor's marketplace description:** <h2><strong>Dehnübungen für Tänzer – Das ultimative E-Book</strong></h2>
+<p>Bewerbe einen hochkonvertierenden Bestseller in der Tanz- und Fitness-Nische und sichere dir lukrative Provisionen. Das E-Book bietet effektive, sichere Dehntechniken für Spagat, Beweglichkeit und schmerzfreies Training.</p>
+<p> <strong>• Verkaufspreis:</strong> 17,99 €</p>
+<p> <strong>• Provision:</strong> 60 % (starke Marge für Affiliates)</p>
+<p> <strong>• Plattform:</strong> Digistore24</p>
+<p> <strong>• Zielgruppe:</strong> Tänzer, Turner, Cheerleader und Fitness-Enthusiasten aller Level</p>
+<p>Nutze jetzt das starke Interesse an Flexibilitäts-Training für deine Kampagnen auf Instagram, TikTok, per E-Mail-Marketing oder auf deinem Blog.</p>
 
 ## 2. Links
 
@@ -83,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dehnübungen für Tänzer? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-11
-- Wie viel kostet es? — 20.159594 USD
+- Wie viel kostet es? — 20.114619 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

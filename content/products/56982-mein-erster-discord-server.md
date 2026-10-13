@@ -4,16 +4,16 @@ digistore24_product_id: 701402
 title: "Mein erster Discord-Server"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 19.9
+price: 19.86
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.95
+earnings_per_sale: 9.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/mein-erster-discord-server?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/mein-erster-discord-server"
@@ -22,16 +22,16 @@ language: "de"
 # Mein erster Discord-Server
 
 > Product ID `56982` · Digistore24 productId `701402` · [HTML profile page](../../produkte/mein-erster-discord-server-56982.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.90 (Single payment) |
+| Price | $19.86 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.95 |
+| Earnings/sale* | $9.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Von der leeren Oberfläche zum aktiven Community-Treffpunkt, dem Menschen gern angehören Du willst endlich deinen eigenen Discord-Server gründen, weißt aber nicht, wo du anfangen sollst? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der ersten Servereinrichtung über die Channel-Struktur bis zu deinen ersten 100 aktiven Mitgliedern. Du lernst, wie du Text-, Voice-, Forum- und Stage-…
+**Vendor's marketplace description:** <p><strong>Von der leeren Oberfläche zum aktiven Community-Treffpunkt, dem Menschen gern angehören</strong></p>
+<p>Du willst endlich deinen eigenen Discord-Server gründen, weißt aber nicht, wo du anfangen sollst? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der ersten Servereinrichtung über die Channel-Struktur bis zu deinen ersten 100 aktiven Mitgliedern. Du lernst, wie du Text-, Voice-, Forum- und Stage-Channels sinnvoll kombinierst, Rollen und ein Onboarding-System einrichtest, das neue Mitglieder sofort willkommen heißt, und wie du die Community am Leben hältst. Kein Entwicklerwissen nötig, keine teuren Bots: nur ein klarer, umsetzbarer Plan, den du heute Abend umsetzen kannst. Nach der Lektüre weißt du nicht nur, was zu tun ist – du verstehst auch, warum bestimmte Server wachsen und andere einschlafen.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Serverstruktur planen: die richtige Mischung aus Text-, Voice-, Forum- und Stage-Channels</li>
+<li>Rollen-System einrichten, das Mitglieder motiviert und Ordnung schafft</li>
+<li>Onboarding mit Verifizierung und Willkommenskanal aufsetzen</li>
+<li>Die 5 häufigsten Einsteigerfehler – und wie du sie souverän vermeidest</li>
+<li>Erste Mitglieder gewinnen, ohne bereits eine große Reichweite zu haben</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein erster Discord-Server? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 19.901856000000002 USD
+- Wie viel kostet es? — 19.857456000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

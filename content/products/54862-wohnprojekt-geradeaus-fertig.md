@@ -4,16 +4,16 @@ digistore24_product_id: 653624
 title: "Wohnprojekt. Geradeaus. Fertig."
 vendor: "BaukeinScheiss"
 product_type: "Telephone coaching"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 95
-earnings_per_sale: 88.56
+earnings_per_sale: 88.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Leadership & Management","Project Management","Real Estate"]
 listed_since: "2025-12-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.hofmann-projektmanagement.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.hofmann-projektmanagement.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Wohnprojekt. Geradeaus. Fertig.
 
 > Product ID `54862` · Digistore24 productId `653624` · [HTML profile page](../../produkte/wohnprojekt-geradeaus-fertig-54862.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 95% |
-| Earnings/sale* | $88.56 |
+| Earnings/sale* | $88.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BaukeinScheiss |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ulf Hofmann über 30 Jahre Erfahrung in der Immobilienwirtschaft – von der Projektidee bis zur schlüsselfertigen Übergabe, umfangreichste Expertise als Unternehmer, Bauträger, Totalübernehmer, Projektentwickler und Senior Consultant, Erfahrung aus tausenden Gesprächen mit Eigennutzern, Kapitalanlegern, Notaren, Architekten, Behörden, Handwerkern, Maklern, Eigentümern, Mietern, Anwälten ... speziali…
+**Vendor's marketplace description:** <p><strong>Ulf Hofmann </strong></p>
+<p>über 30 Jahre Erfahrung in der Immobilienwirtschaft – von der Projektidee bis zur schlüsselfertigen Übergabe, umfangreichste Expertise als Unternehmer, Bauträger, Totalübernehmer, Projektentwickler und Senior Consultant, Erfahrung aus tausenden Gesprächen mit Eigennutzern, Kapitalanlegern, Notaren, Architekten, Behörden, Handwerkern, Maklern, Eigentümern, Mietern, Anwälten ... spezialisiert auf wirtschaftliche und organisatorische Stabilisierung von Bau- und Immobilienprojekten in schwierigen Phasen - insbesondere auch für die/den Erwerber</p>
+<p><a title="Homepage" href="https://www.hofmann-projektmanagement.com" target="_blank" rel="noreferrer noopener">https://www.hofmann-projektmanagement.com</a></p>
 
 ## 2. Links
 
@@ -92,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wohnprojekt. Geradeaus. Fertig.? — Typ: Telephone coaching, Anbieter: BaukeinScheiss, gelistet seit 2025-12-06
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

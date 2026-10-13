@@ -4,16 +4,16 @@ digistore24_product_id: 309523
 title: "Optionsgewinne mit System: Wie jeder an der Börse mit Option"
 vendor: "r2finance"
 product_type: "Book (printed)"
-price: 45.7
+price: 45.6
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 5.58
+earnings_per_sale: 5.57
 cart_conversion_pct: 5
 cancel_rate_pct: 2.16
 categories: ["Business & Investment","Education","Trading Products"]
 listed_since: "2020-02-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://duo-strategie.com/buch-kaufen/?aff=adminstore#aff=adminstore"
 sales_page: "https://duo-strategie.com/buch-kaufen/"
@@ -22,16 +22,16 @@ language: "de"
 # Optionsgewinne mit System: Wie jeder an der Börse mit Option
 
 > Product ID `48800` · Digistore24 productId `309523` · [HTML profile page](../../produkte/optionsgewinne-mit-system-wie-jeder-an-der-b-rse-mit-option-48800.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $45.70 (Single payment) |
+| Price | $45.60 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $5.58 |
+| Earnings/sale* | $5.57 |
 | Cart conversion* | 5% |
 | Cancel rate* | 2.16% |
 | Vendor | r2finance |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mittlerweile begeistern sich in Deutschland immer mehr Anleger für Optionen und die Möglichkeiten, mit durchdachten Strategien das Risiko teilweise auszuschalten und planvoll Geld an der Börse zu verdienen. Für diesen Kreis legt Jens Rabe nun ein neues Buch vor: „Optionsgewinnen mit System“ vermittelt das grundlegende Wissen, das alle Anleger vor ihrem ersten Optionstrade verinnerlicht haben sollt…
+**Vendor's marketplace description:** <p>Mittlerweile begeistern sich in Deutschland immer mehr Anleger für Optionen und die Möglichkeiten, mit durchdachten Strategien das Risiko teilweise auszuschalten und planvoll Geld an der Börse zu verdienen. Für diesen Kreis legt Jens Rabe nun ein neues Buch vor: „Optionsgewinnen mit System“ vermittelt das grundlegende Wissen, das alle Anleger vor ihrem ersten Optionstrade verinnerlicht haben sollten, und stellt eine elementare Strategie vor, mit der Profis rund um den Globus ihr Geld verdienen. Die geschickte Kombination von Optionen und Dividenden ist für kundige Anleger bares Geld wert. In diesem Buch teilt Jens Rabe sein Wissen.<br /><br />Sein erstes Buch „Optionsstrategien für die Praxis“ gilt ebenfalls als das Standardwerk der Optionshändler. Der Bestseller erscheint inzwischen in der 4. Auflage. </p>
 
 ## 2. Links
 
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Optionsgewinne mit System: Wie jeder an der Börse mit Option? — Typ: Book (printed), Anbieter: r2finance, gelistet seit 2020-02-24
-- Wie viel kostet es? — 45.698068000000006 USD
+- Wie viel kostet es? — 45.596118000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

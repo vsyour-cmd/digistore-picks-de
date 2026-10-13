@@ -4,34 +4,34 @@ digistore24_product_id: 701397
 title: "Neukundengewinnung über Bluesky"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.43
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-bluesky?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56977/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-bluesky"
 language: "de"
 ---
 # Neukundengewinnung über Bluesky
 
 > Product ID `56977` · Digistore24 productId `701397` · [HTML profile page](../../produkte/neukundengewinnung-ber-bluesky-56977.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.43 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie Unternehmen und Selbstständige auf der dezentralen X-Alternative planbar Anfragen generieren Während andere Unternehmen noch auf übersättigten Plattformen um Sichtbarkeit kämpfen, öffnet sich auf Bluesky ein neues Vertriebsfenster – mit organischer Reichweite, die es auf X oder Instagram schon lange nicht mehr gibt. Das AT-Protocol sorgt dafür, dass dein Unternehmensaccount unabhängig von Konz…
+**Vendor's marketplace description:** <p><strong>Wie Unternehmen und Selbstständige auf der dezentralen X-Alternative planbar Anfragen generieren</strong></p>
+<p>Während andere Unternehmen noch auf übersättigten Plattformen um Sichtbarkeit kämpfen, öffnet sich auf Bluesky ein neues Vertriebsfenster – mit organischer Reichweite, die es auf X oder Instagram schon lange nicht mehr gibt. Das AT-Protocol sorgt dafür, dass dein Unternehmensaccount unabhängig von Konzernentscheidungen bleibt, und Custom Feeds ermöglichen gezielte Sichtbarkeit genau dort, wo deine Zielgruppe aktiv ist. Dieses E-Book zeigt dir, wie du Bluesky systematisch als Akquise-Kanal aufbaust: von der Profil-Optimierung mit eigener Domain über Starter Packs als Netzwerk-Beschleuniger bis hin zu einer Konversationsstrategie, die aus Replies qualifizierte Erstgespräche macht. Du bekommst ein System, das nicht auf viralen Zufall setzt, sondern auf die strukturellen Vorteile einer dezentralen Plattform im Wachstum.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Das AT-Protocol als Business-Vorteil: eigene Domain als Vertrauenssignal einsetzen</li>
+<li>Custom Feeds strategisch platzieren, um von der Zielgruppe gefunden zu werden</li>
+<li>Starter Packs als Netzwerk- und Sichtbarkeits-Beschleuniger erstellen</li>
+<li>Konversationsstrategie: aus Replies planbar qualifizierte Anfragen machen</li>
+<li>Den Funnel auf Bluesky aufbauen: vom ersten Kontakt zur Conversion</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/neukundengewinnung-ueber-bluesky?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56977/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/neukundengewinnung-ueber-bluesky
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701397/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neukundengewinnung über Bluesky? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

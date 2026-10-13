@@ -4,16 +4,16 @@ digistore24_product_id: 701282
 title: "So wirst du Influencer auf YouTube"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 25.14
+price: 25.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.57
+earnings_per_sale: 12.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-youtube?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-youtube"
@@ -22,16 +22,16 @@ language: "de"
 # So wirst du Influencer auf YouTube
 
 > Product ID `56964` · Digistore24 productId `701282` · [HTML profile page](../../produkte/so-wirst-du-influencer-auf-youtube-56964.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.14 (Single payment) |
+| Price | $25.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.57 |
+| Earnings/sale* | $12.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Reichweite aufbauen, eine Community binden und Markendeals landen Influencer zu werden ist kein Zufall, sondern Handwerk. Dieses E-Book zeigt dir den Weg vom kleinen Kanal zur gefragten Marke: wie du virale Formate baust, eine loyale Community aufbaust und dich für Kooperationen interessant machst. Du lernst, wie der Vorschlags-Algorithmus große Reichweite erzeugt, wie du aus Zuschauern echte Fans…
+**Vendor's marketplace description:** <p><strong>Reichweite aufbauen, eine Community binden und Markendeals landen</strong></p>
+<p>Influencer zu werden ist kein Zufall, sondern Handwerk. Dieses E-Book zeigt dir den Weg vom kleinen Kanal zur gefragten Marke: wie du virale Formate baust, eine loyale Community aufbaust und dich für Kooperationen interessant machst. Du lernst, wie der Vorschlags-Algorithmus große Reichweite erzeugt, wie du aus Zuschauern echte Fans machst und wie du Markendeals verhandelst, die fair bezahlt sind. Dazu: alle Einnahmequellen im Überblick – von Werbeerlösen über Sponsoring bis zu eigenen Produkten. Dein Kanal wird vom Hobby zur Marke mit mehreren Standbeinen.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Virale Formate, die der Vorschlags-Algorithmus liebt</li>
+<li>Aus Zuschauern echte Fans &amp; eine Community machen</li>
+<li>Dein Marken-Kit: so wirst du für Kooperationen attraktiv</li>
+<li>Markendeals finden, anfragen und fair verhandeln</li>
+<li>Alle Einnahmequellen: Ads, Sponsoring, Merch, Produkte</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So wirst du Influencer auf YouTube? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 25.135058 USD
+- Wie viel kostet es? — 25.078983 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 738781
 title: "Creator Content Kit (Deutsch)"
 vendor: "xarutacom"
 product_type: "E-books"
-price: 24.09
+price: 24.04
 currency: "USD"
-affiliate_commission_pct: 25
-earnings_per_sale: 6.03
+affiliate_commission_pct: 30
+earnings_per_sale: 7.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://xaruta4.wordpress.com/ai-content-prompt-pack-de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60037/adminstore/"
 sales_page: "https://xaruta4.wordpress.com/ai-content-prompt-pack-de/"
 language: "de"
 ---
 # Creator Content Kit (Deutsch)
 
 > Product ID `60037` · Digistore24 productId `738781` · [HTML profile page](../../produkte/creator-content-kit-deutsch-60037.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $24.09 (Single payment) |
-| Affiliate commission | 25% |
-| Earnings/sale* | $6.03 |
+| Price | $24.04 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $7.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Total: 200+ Content Assets✅ All-in-One-Produkt – alles, was du brauchst, um bessere Instagram-Inhalte zu erstellen. Format: CanvaInhalt:100x Instagram Hook Pack30x Reel Cover Pack15x Instagram Post Vorlagen10x Carousel Vorlagen15x Story Vorlagen30x Caption Vorlagen30x CTA Pack50x Content IdeenMini Brand KitKurzanleitung für Creator
+**Vendor's marketplace description:** <p>Total: 200+ Content Assets<br />✅ All-in-One-Produkt – alles, was du brauchst, um bessere Instagram-Inhalte zu erstellen.</p>
+<p><strong>Format</strong>: Canva<br /><br /><strong>Inhalt:</strong><br />100x Instagram Hook Pack<br />30x Reel Cover Pack<br />15x Instagram Post Vorlagen<br />10x Carousel Vorlagen<br />15x Story Vorlagen<br />30x Caption Vorlagen<br />30x CTA Pack<br />50x Content Ideen<br />Mini Brand Kit<br />Kurzanleitung für Creator</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://xaruta4.wordpress.com/ai-content-prompt-pack-de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60037/adminstore/
 - Sales page: https://xaruta4.wordpress.com/ai-content-prompt-pack-de/
 - Canonical redirect: https://www.digistore24.com/redir/738781/adminstore
 
@@ -67,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Creator Content Kit (Deutsch)? — Typ: E-books, Anbieter: xarutacom, gelistet seit 2026-09-29
-- Wie viel kostet es? — 24.0929 USD
+- Wie viel kostet es? — 24.039150000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

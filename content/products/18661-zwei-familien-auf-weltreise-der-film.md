@@ -4,34 +4,34 @@ digistore24_product_id: 138853
 title: "Zwei Familien auf Weltreise – Der Film"
 vendor: "thorbraarvig"
 product_type: "Downloads"
-price: 14.13
+price: 14.1
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 5.65
+earnings_per_sale: 5.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2017-05-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://zwei-familien-auf-weltreise.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/18661/adminstore/"
 sales_page: "http://zwei-familien-auf-weltreise.de/"
 language: "de"
 ---
 # Zwei Familien auf Weltreise – Der Film
 
 > Product ID `18661` · Digistore24 productId `138853` · [HTML profile page](../../produkte/zwei-familien-auf-weltreise-der-film-18661.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.13 (Single payment) |
+| Price | $14.10 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $5.65 |
+| Earnings/sale* | $5.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | thorbraarvig |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein inspirierender Feel-good-Film über zwei Familien, die alles hinter sich lassen, um die Welt zu entdecken und um herauszufinden, was sie vom Leben wirklich wollen. Ihre Vorteile: Sie erhalten 40 % Provision für jeden verkauften Film Sie können unseren Trailer benutzen/einbinden, der es Ihnen leichter macht, Ihre Kunden neugierig auf unseren Film zu machen
+**Vendor's marketplace description:** <p>Ein inspirierender Feel-good-Film über zwei Familien, die alles hinter sich lassen, um die Welt zu entdecken und um herauszufinden, was sie vom Leben wirklich wollen.</p>
+<p> </p>
+<p>Ihre Vorteile:</p>
+<ul><li>Sie erhalten 40 % Provision für jeden verkauften Film</li>
+<li>Sie können unseren <a href="https://vimeo.com/218017433/ca0b64f79a" target="_blank" rel="noreferrer noopener">Trailer</a> benutzen/einbinden, der es Ihnen leichter macht, Ihre Kunden neugierig auf unseren Film zu machen</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://zwei-familien-auf-weltreise.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/18661/adminstore/
 - Sales page: http://zwei-familien-auf-weltreise.de/
 - Canonical redirect: https://www.digistore24.com/redir/138853/adminstore
 
@@ -74,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zwei Familien auf Weltreise – Der Film? — Typ: Downloads, Anbieter: thorbraarvig, gelistet seit 2017-05-19
-- Wie viel kostet es? — 14.130766 USD
+- Wie viel kostet es? — 14.099241000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

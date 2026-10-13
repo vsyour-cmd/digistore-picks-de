@@ -4,7 +4,7 @@ digistore24_product_id: 373521
 title: "Wie glänze ich in Interviews?"
 vendor: "stumpfine"
 product_type: "E-books"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 3.66
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-02-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://petrastumpf.at/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/35733/adminstore/"
 sales_page: "https://petrastumpf.at/"
 language: "de"
 ---
 # Wie glänze ich in Interviews?
 
 > Product ID `35733` · Digistore24 productId `373521` · [HTML profile page](../../produkte/wie-gl-nze-ich-in-interviews-35733.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $3.66 |
 | Cart conversion* | — |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** HOW to "WOW!" in INTERVIEWSMedia Secrets by Petra Stumpf für Business * Sports * Artists * Personality Du stehst vor einem Interview? Dein Auftritt ist gefragt? Aber du weißt nicht worauf es ankommt? In diesem Crash-Guide verrät Moderatorin & Media Coach Petra Stumpf die wichtigsten Geheimnisse! Wie Medien ticken und wie du dich bestmöglich präsentierst! Für deinen Dialog mit Journalisten und der …
+**Vendor's marketplace description:** <h4>HOW to "WOW!" in INTERVIEWS<br />Media Secrets by Petra Stumpf</h4>
+<h4>für Business * Sports * Artists * Personality</h4>
+<p>Du stehst vor einem Interview? Dein Auftritt ist gefragt? Aber du weißt nicht worauf es ankommt? In diesem <strong>Crash-Guide</strong> verrät Moderatorin &amp; Media Coach <strong>Petra Stumpf</strong> die wichtigsten Geheimnisse! Wie Medien ticken und wie du dich bestmöglich präsentierst! Für deinen Dialog mit Journalisten und der Öffentlichkeit. Außerdem erfährst du, wie dein Business in die Medien kommt, und wie du einen Medien-Pitch gestaltest.</p>
+<p>Und: auch prominente Persönlichkeiten plaudern aus dem Nähkästchen!</p>
+<ul>
+<li><strong>Julian F.M. Stoeckel</strong> (Moderator &amp; Entertainer)</li>
+<li><strong>Viktor Gernot</strong> (Künstler &amp; Entertainer)</li>
+<li><strong>Reinfried Herbst</strong> (Ex-Skistar &amp; Unternehmer)</li>
+<li><strong>Gerda Rogers</strong> (Star-Astrologin)</li>
+<li><strong>Kevin Wimmer</strong> (Fußballprofi)</li>
+<li><strong>Simone von Anhalt</strong> (Internationale Künstlerin)</li>
+<li><strong>Paul Zödi</strong> (Immobilieninvestor)</li>
+<li><strong>Dr. Günther Marek</strong> (Sektionsleiter Stv. BMI, Gruppe I/C)</li>
+</ul>
+<p>Petras "Erfahrungs-Schatz" aus 15 Jahren &amp; die Tipps der Stars - auf 34 Seiten komprimiert. Simply the essential!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://petrastumpf.at/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/35733/adminstore/
 - Sales page: https://petrastumpf.at/
 - Canonical redirect: https://www.digistore24.com/redir/373521/adminstore
 
@@ -71,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wie glänze ich in Interviews?? — Typ: E-books, Anbieter: stumpfine, gelistet seit 2021-02-12
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

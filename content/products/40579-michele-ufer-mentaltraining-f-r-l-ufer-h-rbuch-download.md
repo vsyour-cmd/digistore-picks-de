@@ -4,34 +4,34 @@ digistore24_product_id: 451371
 title: "Michele Ufer – Mentaltraining für Läufer – Hörbuch-Download"
 vendor: "isidde"
 product_type: "Audio book (download)"
-price: 23.03
+price: 22.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.52
+earnings_per_sale: 11.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2022-07-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.isid.de/michele-ufer-mentaltraining-fuer-laeufer-hoerbuch-download/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40579/adminstore/"
 sales_page: "https://www.isid.de/michele-ufer-mentaltraining-fuer-laeufer-hoerbuch-download/"
 language: "de"
 ---
 # Michele Ufer – Mentaltraining für Läufer – Hörbuch-Download
 
 > Product ID `40579` · Digistore24 productId `451371` · [HTML profile page](../../produkte/michele-ufer-mentaltraining-f-r-l-ufer-h-rbuch-download-40579.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $23.03 (Single payment) |
+| Price | $22.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.52 |
+| Earnings/sale* | $11.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Weil Laufen auch Kopfsache ist Dieser Ratgeber gibt dem Leser in kompakter Form hochwirksame Übungen zum psychologisch fundierten Selbstcoaching und mentalen Training sowie Denkanstöße zur Selbstreflexion an die Hand. Die Ansätze haben sich im Rahmen von Coachings mit zahlreichen Ausdauersportlern im In- und Ausland bewährt, um signifikante, teils auch dramatische Verbesserungen in den Bereichen M…
+**Vendor's marketplace description:** <h2>Weil Laufen auch Kopfsache ist</h2>
+<div>
+<p>Dieser Ratgeber gibt dem Leser in kompakter Form hochwirksame Übungen zum psychologisch fundierten Selbstcoaching und mentalen Training sowie Denkanstöße zur Selbstreflexion an die Hand. Die Ansätze haben sich im Rahmen von Coachings mit zahlreichen Ausdauersportlern im In- und Ausland bewährt, um signifikante, teils auch dramatische Verbesserungen in den Bereichen Motivation, Leistung und Gesundheit/Wohlbefinden zu erzielen. Das Ganze wird ergänzt um spannende Fallstudien aus der Coachingpraxis. Hier oder da hilft ein kleiner Exkurs in die Wissenschaft, um die Gründe für bestimmte Vorgehensweisen zu verstehen. Aber stets bleiben die Praxis und direkte Anwendung des Know-hows im Fokus. Abseits marktschreierischer Versprechungen wird der Leser angeleitet, auf der Basis einer persönlichen Standortbestimmung einen individuell zugeschnittenen mentalen Trainingsplan zu entwickeln und in den sportlichen Alltag zu integrieren.</p>
+<p>Das Buch präsentiert auf einmalige Weise die Erfahrungen und das Know-how eines sportpsychologischen Experten, der zahlreiche Läufer und andere Ausdauersportler psychologisch coacht, darüber hinaus zu psychologischen Aspekten im Laufsport forscht, regelmäßig über seine Arbeit in Vorträgen, auf wissenschaftlichen Kongressen und in Zeitschriftenartikeln berichtet und selbst wiederholt bei internationalen (Extrem-)Läufen TOP-10-Platzierungen erzielt.</p>
+<p>Zielgruppe:</p>
+<p>· Läufer &amp; Triathleten aller Leistungsstufen<br />· Lauftrainer, Personal Trainer, (Sport-) Psychologen, Mentaltrainer<br />· Nichtläufer, die sich für den Einsatz mentaler Strategien in anderen (Ausdauer-) Sportarten sowie im Beruf und Alltag interessieren</p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.isid.de/michele-ufer-mentaltraining-fuer-laeufer-hoerbuch-download/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40579/adminstore/
 - Sales page: https://www.isid.de/michele-ufer-mentaltraining-fuer-laeufer-hoerbuch-download/
 - Vendor affiliate support: https://www.isid.de/michele-ufer-mentaltraining-fuer-laeufer-affiliate-support-seite/
 - Canonical redirect: https://www.digistore24.com/redir/451371/adminstore
@@ -71,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Michele Ufer – Mentaltraining für Läufer – Hörbuch-Download? — Typ: Audio book (download), Anbieter: isidde, gelistet seit 2022-07-16
-- Wie viel kostet es? — 23.02833 USD
+- Wie viel kostet es? — 22.976955000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

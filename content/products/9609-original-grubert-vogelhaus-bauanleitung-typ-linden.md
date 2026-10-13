@@ -4,16 +4,16 @@ digistore24_product_id: 62295
 title: "Original Grubert Vogelhaus Bauanleitung Typ \"Linden\""
 vendor: "spike76"
 product_type: "Member area and video courses"
-price: 55.56
+price: 55.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.78
+earnings_per_sale: 27.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2015-11-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://vogelhaus.com/vogelhaus-selber-bauen-linden/?aff=adminstore#aff=adminstore"
 sales_page: "https://vogelhaus.com/vogelhaus-selber-bauen-linden/"
@@ -22,16 +22,16 @@ language: "de"
 # Original Grubert Vogelhaus Bauanleitung Typ "Linden"
 
 > Product ID `9609` · Digistore24 productId `62295` · [HTML profile page](../../produkte/original-grubert-vogelhaus-bauanleitung-typ-linden-9609.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $55.56 (Single payment) |
+| Price | $55.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.78 |
+| Earnings/sale* | $27.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | spike76 |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Orginal Grubert Vogelhäuser. Feinste Vogelhaus Manufaktur aus Bayern. Handgemachte Luxus Vogelhäuser aus Bestem Lärchenholz. Blockhausoptik. Für das Modell Typ "Linden" haben wir eine Bauanleitung erstellt. Die Anleitung wird sehr gut angenommen und richtet sich an Bastler, Handwerker und Heimwerker mit Haus und Garten. Oder an Personen die gerne etwas Luxus verschenken wollen. Die Zielgruppe ist …
+**Vendor's marketplace description:** <p><strong>Orginal Grubert Vogelh&auml;user. Feinste Vogelhaus Manufaktur aus Bayern.</strong></p>
+<p>Handgemachte Luxus Vogelh&auml;user aus Bestem L&auml;rchenholz. Blockhausoptik.&nbsp;</p>
+<p>F&uuml;r das Modell Typ "Linden" haben wir eine Bauanleitung erstellt.</p>
+<p><strong>Die Anleitung wird sehr gut angenommen und richtet sich an Bastler, Handwerker und Heimwerker mit Haus und Garten. Oder an Personen die gerne etwas Luxus verschenken wollen.</strong></p>
+<p>Die Zielgruppe ist im Alter 45 + und verf&uuml;gt &uuml;ber ein Eigenheim mit Garten.</p>
+<p>Es wird eine .pdf datei ausgeliefert und 85 Videos, die ganz genau bis ins Detail die Arbeitsschritte beschreiben um ein Original Grubert Vogelhaus zu bauen.</p>
+<p>Die Conversion ist super und die Stornoquote sehr gering!</p>
+<p>Provision ist 50%</p>
+<p>&nbsp;</p>
 
 ## 2. Links
 
@@ -94,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Original Grubert Vogelhaus Bauanleitung Typ "Linden"? — Typ: Member area and video courses, Anbieter: spike76, gelistet seit 2015-11-04
-- Wie viel kostet es? — 55.559348 USD
+- Wie viel kostet es? — 55.435398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

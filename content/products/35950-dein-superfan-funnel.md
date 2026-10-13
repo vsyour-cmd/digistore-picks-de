@@ -4,16 +4,16 @@ digistore24_product_id: 356369
 title: "Dein Superfan-Funnel"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 69.48
+price: 69.32
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 20.84
+earnings_per_sale: 20.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-11-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://jyotimaflak.com/superfan-funnel/?aff=adminstore#aff=adminstore"
 sales_page: "https://jyotimaflak.com/superfan-funnel/"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Superfan-Funnel
 
 > Product ID `35950` · Digistore24 productId `356369` · [HTML profile page](../../produkte/dein-superfan-funnel-35950.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $69.48 (Single payment, Installment) |
+| Price | $69.32 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $20.84 |
+| Earnings/sale* | $20.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jyotima |
@@ -41,7 +41,61 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du möchtest mehr Klarheit und Fokus in deinem Online-Businessaufbau?Erfahre hier, wie du deinen Funnel mit Herz und Verstand so aufbaust, dass du ganz automatisch Kunden anziehst, und Follower zu Superfans machst! Geht es dir so: Du bist im Businessaufbau oder schon etwas dabei, aber du bist nicht happy mit deinen Ergebnissen? Du sehnst dich nach: es soll nicht immer so mühsam sein, Kunden zu gewi…
+**Vendor's marketplace description:** <p><strong><span style="color:#ff0000;">Du möchtest mehr Klarheit und Fokus in deinem Online-Businessaufbau?</span><br /><br />Erfahre hier, wie du deinen Funnel mit Herz und Verstand so aufbaust, dass du ganz automatisch Kunden anziehst, und Follower zu Superfans machst! <br /></strong></p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><span style="color:#ff0000;">Geht es dir so:</span></p>
+<ul>
+<li>Du bist im Businessaufbau oder schon etwas dabei, aber du bist nicht happy mit deinen Ergebnissen?</li>
+<li>Du sehnst dich nach: es soll nicht immer so mühsam sein, Kunden zu gewinnen?</li>
+</ul>
+</div>
+</div>
+<div>
+<div>
+<p><span style="color:#ff0000;">Du möchtest:</span></p>
+<ul>
+<li>Mehr Kunden gewinnen, eine leichtere, automatische Form für dein Herzensbusiness, welches du dir gerade mit viel Liebe aufbaust?</li>
+</ul>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Funnel, was? Onlinebusiness kann oft ganz schön verwirrend sein.<strong><br /></strong></p>
+<p><br /><strong>Hier kommt die Lösung für dich:</strong><br /><br /><strong>Der Kurs zum Funnel-Aufbau für dein (zukünftiges) Online-Herzensbusiness! Dein Tribe wartet darauf, dass du endlich in die Puschen kommst!</strong><br /><br /><strong><br />DIE BESTANDTEILE:</strong> <br /><br /><strong>Leichtes Marketing –</strong> du wirst deinen Funnel nach der<br />Strategie SEE – THINK – DO – CARE aufbauen!<br /><br /><strong>Klare Struktur –</strong> die Anleitung, wie du einen wirkungsvollen Funnel aufbaust, der deinen Kunden eine glasklare Lösung bietet!<br /><br /><strong>2 tiefe Meditationen,</strong> um einen einzigartigen Kontakt zu deinem Tribe zu visualisieren!<br /><br /><strong>Magische Landingpage –</strong> die Anleitung, die ich erfolgreich für meine 5-stelligen Launches nutze!<br />Strategie für Werbeanzeigen, uvm.<strong><br /></strong><br />9 Videos + umfangreichen Workbook (31 Seiten)<br /><br /><strong>BONI</strong> <br />• die 7 x 7 x 7 Contentideen für Blogs und Videos!<br />• Besten Techniktools aus über 9 J. Onlinebusiness!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Hol dir den Superfan-Funnel – perfekt, um nicht nur Kunden, sondern Superfans zu gewinnen!</p>
+<p><strong>Nur jetzt:</strong><br /><span style="text-decoration:line-through;"><strong>Statt 89 €</strong></span>  <span style="color:#ff0000;">nur 57 €</span> zzgl. MwSt.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -83,7 +137,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Superfan-Funnel? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2020-11-08
-- Wie viel kostet es? — 69.4772 USD
+- Wie viel kostet es? — 69.32220000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

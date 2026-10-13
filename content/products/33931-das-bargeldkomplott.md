@@ -4,34 +4,34 @@ digistore24_product_id: 307047
 title: "Das Bargeldkomplott"
 vendor: "wertvollleben"
 product_type: "E-books"
-price: 17.8
+price: 17.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.9
+earnings_per_sale: 8.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2020-02-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.wertvollleben.net/onlineshop/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/33931/adminstore/"
 sales_page: "https://www.wertvollleben.net/onlineshop/"
 language: "de"
 ---
 # Das Bargeldkomplott
 
 > Product ID `33931` · Digistore24 productId `307047` · [HTML profile page](../../produkte/das-bargeldkomplott-33931.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.80 (Single payment) |
+| Price | $17.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.90 |
+| Earnings/sale* | $8.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wertvollleben |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bargeld ist tot! … unsere Freiheit stirbt mit.Dieses düstere Bild verdichtet sich immer mehr bei Wissenschaftlern und auch in den Medien – das Bild einer unfreien, fremdbestimmten und ferngesteuerten Gesellschaft. Der Autor entlarvt in seinem Buch detailliert die Hintergründe der schleichenden, aber keineswegs zufälligen Abschaffung des Bargelds und skizziert deren verheerende Folgen. Mehr als 100…
+**Vendor's marketplace description:** <p>Bargeld ist tot! … unsere Freiheit stirbt mit.<br />Dieses düstere Bild verdichtet sich immer mehr bei  Wissenschaftlern und auch in den Medien – das Bild einer unfreien, fremdbestimmten und ferngesteuerten Gesellschaft. Der Autor entlarvt in seinem Buch detailliert die Hintergründe der schleichenden, aber keineswegs zufälligen Abschaffung des Bargelds und skizziert deren verheerende Folgen.</p>
+<p><br />Mehr als 100 Grafiken ermöglichen es auch Laien, die komplexen Zusammenhänge leicht zu verstehen. Dabei folgt Hansjörg Stützle seinem Anspruch, nicht nur aufzuklären, sondern auch Lösungen aufzuzeigen. So beleuchtet er die Bargeldabschaffung auch aus dem Blickwinkel der morphischen Felder. Dieser Perspektivenwechsel schafft Raum für Hoffnung und bietet jedem Einzelnen die Chance, ein wichtiger und unverzichtbarer Teil der Lösung zu sein.</p>
+<p><span style="background-color:#ffff99;">Dieses Produkt gibt es auch als physisches Buch. Auch hierfür können Sie sich einen Affiliate-Link generieren. Infos dazu finden Sie auf der <a href="https://www.wertvollleben.net/affiliate-supportseite-bargeldkomplott/" target="_blank" rel="noreferrer noopener">Affiliate-Support-Seite</a>.</span></p>
+<p>Zu unseren <a href="https://bargeldverbot.info/das-buch/#rezension-buch-bargeldkomplott" target="_blank" rel="noreferrer noopener">Kundenrezessionen</a></p>
+<p>Schauen Sie sich auch gerne eine <a href="https://wertvollleben.net/pdf-dateien/Leseprobe_Bargeldkomplott_Kapitel_1_und_2.pdf" target="_blank" rel="noreferrer noopener">Leseprobe</a> an</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.wertvollleben.net/onlineshop/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/33931/adminstore/
 - Sales page: https://www.wertvollleben.net/onlineshop/
 - Vendor affiliate support: https://www.wertvollleben.net/affiliate-supportseite-bargeldkomplott
 - Canonical redirect: https://www.digistore24.com/redir/307047/adminstore
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Bargeldkomplott? — Typ: E-books, Anbieter: wertvollleben, gelistet seit 2020-02-07
-- Wie viel kostet es? — 17.795128000000002 USD
+- Wie viel kostet es? — 17.755428000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 743202
 title: "OLVIX Digital Business Bundle – Digital + Marketing"
 vendor: "olvixdigok8f53"
 product_type: "Member area and video courses"
-price: 130.9
+price: 130.61
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 52.35
+earnings_per_sale: 52.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/743202?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60393/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/743202"
 language: "de"
 ---
 # OLVIX Digital Business Bundle – Digital + Marketing
 
 > Product ID `60393` · Digistore24 productId `743202` · [HTML profile page](../../produkte/olvix-digital-business-bundle-digital-marketing-60393.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $130.90 (Single payment) |
+| Price | $130.61 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $52.35 |
+| Earnings/sale* | $52.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | olvixdigok8f53 |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ZWEI KURSE. EIN PAKET. DEIN DIGITALER START. Das OLVIX Digital Business Bundle verbindet zwei sich ergänzende Kurse: ✓ DIGITAL BUSINESS BASE Verständlicher Einstieg ins digitale Business – von den Grundlagen bis zu konkreten Möglichkeiten, eigene digitale Produkte aufzubauen und anzubieten. ✓ MIND HACK MARKETING Verstehe, wie modernes Marketing funktioniert, wie Aufmerksamkeit entsteht und wie du …
+**Vendor's marketplace description:** <p><strong>ZWEI KURSE. EIN PAKET. DEIN DIGITALER START.</strong></p>
+<p> </p>
+<p>Das OLVIX Digital Business Bundle verbindet zwei sich ergänzende Kurse:</p>
+<p> </p>
+<p><strong>✓ DIGITAL BUSINESS BASE</strong></p>
+<p>Verständlicher Einstieg ins digitale Business – von den Grundlagen bis zu konkreten Möglichkeiten, eigene digitale Produkte aufzubauen und anzubieten.</p>
+<p> </p>
+<p><strong>✓ MIND HACK MARKETING</strong></p>
+<p>Verstehe, wie modernes Marketing funktioniert, wie Aufmerksamkeit entsteht und wie du digitale Produkte überzeugender präsentieren und vermarkten kannst.</p>
+<p> </p>
+<p><strong>Statt beide Kurse einzeln für 148 € zu kaufen, erhältst du das komplette Bundle für 139 €.</strong></p>
+<p> </p>
+<p>Digital starten. Marketing verstehen. Wissen praktisch anwenden.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/743202?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60393/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/743202
 - Canonical redirect: https://www.digistore24.com/redir/743202/adminstore
 
@@ -79,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist OLVIX Digital Business Bundle – Digital + Marketing? — Typ: Member area and video courses, Anbieter: olvixdigok8f53, gelistet seit 2026-10-07
-- Wie viel kostet es? — 130.897286 USD
+- Wie viel kostet es? — 130.605261 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

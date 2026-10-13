@@ -12,8 +12,8 @@ cart_conversion_pct: 51
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2023-02-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://insta-reels-bundle.digitalkigeldzauber.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://insta-reels-bundle.digitalkigeldzauber.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Insta Reel Bundle
 
 > Product ID `42814` · Digistore24 productId `484620` · [HTML profile page](../../produkte/insta-reel-bundle-42814.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenke das Insta Reel Bundle an deine Community und verdiene bis zu 120 € Provision im Funnel, auf alle Up & Downsells. Ideales Produkt für jeden der Instagram nutzt Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert Bis zu 120 € im Funnel für Dich möglich! Welche Provisionen verdienst du?50% Hauptprodukt - 2 €50% Provision vom Upsell 1 - 37 €50% Provision vom Upsell 2 - 47 …
+**Vendor's marketplace description:** <p><strong>Verschenke das Insta Reel Bundle an deine Community und <span style="background-color:#ffff00;">verdiene bis zu 120 € Provision</span> im Funnel, auf alle Up &amp; Downsells.</strong></p>
+<p> </p>
+<ul>
+<li>Ideales Produkt für <strong>jeden der Instagram nutzt</strong></li>
+<li>Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert</li>
+<li>Bis zu 120 € im Funnel für Dich möglich!</li>
+</ul>
+<div> </div>
+<div><strong>Welche Provisionen verdienst du?</strong><br /><br />50% Hauptprodukt - 2 €<br />50% Provision vom Upsell 1 - 37 €<br />50% Provision vom Upsell 2 - 47 €<br />50% Provision vom Upsell 3 - 67 € + 47 € Orderbump</div>
+<div>50% Provision vom Upsell 4 - 27 €</div>
+<div> </div>
 
 ## 2. Links
 
@@ -62,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Insta Reel Bundle? — Typ: Downloads, Anbieter: DigiInfoMichl, gelistet seit 2023-02-15
-- Wie viel kostet es? — 0.403416 USD
+- Wie viel kostet es? — 0.40251600000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 735841
 title: "TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 52.15
+price: 52.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.08
+earnings_per_sale: 26.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://trade-04.pages.dev/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59489/adminstore/"
 sales_page: "https://trade-04.pages.dev/"
 language: "de"
 ---
 # TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate
 
 > Product ID `59489` · Digistore24 productId `735841` · [HTML profile page](../../produkte/trade-04-gesch-ftsschutz-workbook-50-affiliate-59489.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.15 (Single payment) |
+| Price | $52.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.08 |
+| Earnings/sale* | $26.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate Für Affiliates: Ein evergreen Workbook der TRADE/CONTROL-Serie zum Thema Geschäftsschutz und strukturierte Kontrolle klar erklärt auf der Salespage. Warum bewerben: 50 % Affiliate-Provision bei einem einmaligen Preis von 49,80 €. Fertige Swipes stehen auf der Affiliate-Support-Seite bereit. 14-Tage-Rückgaberecht. Digistore24 ist Merchant of Reco…
+**Vendor's marketplace description:** <p>TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate</p>
+<p> </p>
+<p>Für Affiliates: Ein evergreen Workbook der TRADE/CONTROL-Serie zum Thema Geschäftsschutz und strukturierte Kontrolle  klar erklärt auf der Salespage.</p>
+<p> </p>
+<p>Warum bewerben: 50 % Affiliate-Provision bei einem einmaligen Preis von 49,80 €. Fertige Swipes stehen auf der Affiliate-Support-Seite bereit.</p>
+<p> </p>
+<p>14-Tage-Rückgaberecht. Digistore24 ist Merchant of Record.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://trade-04.pages.dev/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59489/adminstore/
 - Sales page: https://trade-04.pages.dev/
 - Vendor affiliate support: https://trade-04.pages.dev/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/735841/adminstore
@@ -96,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-21
-- Wie viel kostet es? — 52.152724 USD
+- Wie viel kostet es? — 52.036374 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

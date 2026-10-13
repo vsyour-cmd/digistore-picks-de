@@ -4,34 +4,34 @@ digistore24_product_id: 689388
 title: "ADHS-Fokus-Test: Muster erkennen - Selbstreflexion"
 vendor: "Keto-Fasten"
 product_type: "Remote service provided electronically"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 5.46
+earnings_per_sale: 5.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2026-05-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://adhs-online-test.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56669/adminstore/"
 sales_page: "https://adhs-online-test.de"
 language: "de"
 ---
 # ADHS-Fokus-Test: Muster erkennen - Selbstreflexion
 
 > Product ID `56669` · Digistore24 productId `689388` · [HTML profile page](../../produkte/adhs-fokus-test-muster-erkennen-selbstreflexion-56669.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $5.46 |
+| Earnings/sale* | $5.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Keto-Fasten |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der ADHS-Fokus-Test ist ein digitaler Selbstreflexions-Test für Menschen, die ihre Aufmerksamkeitsmuster, Fokusprobleme und typischen Alltagshürden besser verstehen möchten. Das Produkt ersetzt keine Diagnose, bietet aber eine strukturierte Orientierung mit konkreter Auswertung und PDF-Report. Ideal für Zielgruppen rund um ADHS, Neurodivergenz, Selbstorganisation, Konzentration, Beruf, Bewerbung u…
+**Vendor's marketplace description:** <p>Der ADHS-Fokus-Test ist ein digitaler Selbstreflexions-Test für Menschen, die ihre Aufmerksamkeitsmuster, Fokusprobleme und typischen Alltagshürden besser verstehen möchten.</p>
+<p>Das Produkt ersetzt keine Diagnose, bietet aber eine strukturierte Orientierung mit konkreter Auswertung und PDF-Report. Ideal für Zielgruppen rund um ADHS, Neurodivergenz, Selbstorganisation, Konzentration, Beruf, Bewerbung und persönliche Entwicklung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://adhs-online-test.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56669/adminstore/
 - Sales page: https://adhs-online-test.de
 - Canonical redirect: https://www.digistore24.com/redir/689388/adminstore
 
@@ -60,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ADHS-Fokus-Test: Muster erkennen - Selbstreflexion? — Typ: Remote service provided electronically, Anbieter: Keto-Fasten, gelistet seit 2026-05-25
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

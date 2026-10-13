@@ -4,34 +4,34 @@ digistore24_product_id: 327210
 title: "BUSINESS SCHOOL für Fotografen"
 vendor: "juliaundgil"
 product_type: "Member area and video courses"
-price: 2229.99
+price: 2225.02
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 89.65
+earnings_per_sale: 89.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-05-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://juliaandgil.education/business-school/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/43529/adminstore/"
 sales_page: "https://juliaandgil.education/business-school/"
 language: "de"
 ---
 # BUSINESS SCHOOL für Fotografen
 
 > Product ID `43529` · Digistore24 productId `327210` · [HTML profile page](../../produkte/business-school-f-r-fotografen-43529.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2229.99 (Single payment, Installment) |
+| Price | $2225.02 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $89.65 |
+| Earnings/sale* | $89.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | juliaundgil |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bekommst du Anerkennung und Zuspruch für deine Fotos? Denkst du darüber nach, dein Hobby zum Beruf zu machen oder möchtest du deinen Umsatz erhöhen? Möchtest du weniger arbeiten, aber mehr verdienen? Hier bist du richtig! Dieser Online-Kurs wird dir die Angst vor der Selbstständigkeit nehmen und dir zeigen, wie du dich im Hochpreissegment aufstellst. Egal ob Teilzeit oder Vollzeit - Wenn du darübe…
+**Vendor's marketplace description:** <p>Bekommst du Anerkennung und Zuspruch für deine Fotos? <strong>Denkst du darüber nach, dein Hobby zum Beruf zu machen oder möchtest du deinen Umsatz erhöhen? </strong>Möchtest du weniger arbeiten, aber mehr verdienen? Hier bist du richtig! Dieser Online-Kurs wird dir die Angst vor der Selbstständigkeit nehmen und dir zeigen, wie du dich im Hochpreissegment aufstellst. Egal ob Teilzeit oder Vollzeit - Wenn du darüber nachdenkst, Geld mit der Fotografie zu verdienen, dann ist dieser Workshop dein Kickstart in ein professionelles Business.</p>
+<div>
+<div>
+<p> </p>
+<p>Nachdem du alle Module absolviert hast, wirst du dich sicher und rund um gut aufgestellt fühlen. <strong>Du wirst herausfinden, wer deine Kund*innen sind und wie du für sie sichtbar wirst.</strong> Egal ob Instagram, Website, Preise oder Workflow - Alles wird dir leichter fallen. In der exklusiven Facebookgruppe und auf unserem Discordserver kannst du dich außerdem mit anderen Teilnehmer*innen austauschen.</p>
+<p> </p>
+<p>Die Kosten um gesehen zu werden, waren nie geringer. Das führt dazu, dass täglich neue Fotograf*innen in den Markt drängen. Die Auswahl wird größer, zeitgleich sinkt die Aufmerksamkeitsspanne potentieller Kunden. <strong>Gute Fotos allein reichen daher nicht mehr aus, um uns von den vielen Kolleg*innen zu unterscheiden.</strong> Wenn du dich allein auf deine Fotos verlässt und du dich über deine Preise oder Leistungen vermarktest, wirst du immer in Konkurrenz mit anderen Fotograf*innen stehen.</p>
+<p> </p>
+<p>In der Business School lernst du, wie du dein Business langfristig und beständig aufbaust, sodass du stolz darauf sein kannst. Es erwartet dich der umfangreichste Kurs über das Business hinter der Fotografie im deutschsprachigen Raum. <strong>Lass dir von niemandem erzählen, dass es nicht möglich ist, von der Fotografie zu leben.</strong></p>
+</div>
+ </div>
+<div>
+<blockquote>
+<p>"Der Workshop ist jeden Cent wert und schon jetzt die beste Business-Entscheidung 2021 gewesen. Von Herzen Danke an euch Beiden für all die Denkanstöße, eure ehrliche und sympathische Art und die Einblicke." - Annika &amp; Gabriel Fotografie</p>
+</blockquote>
+</div>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://juliaandgil.education/business-school/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/43529/adminstore/
 - Sales page: https://juliaandgil.education/business-school/
 - Canonical redirect: https://www.digistore24.com/redir/327210/adminstore
 
@@ -97,7 +113,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BUSINESS SCHOOL für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2020-05-18
-- Wie viel kostet es? — 2229.994 USD
+- Wie viel kostet es? — 2225.0190000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

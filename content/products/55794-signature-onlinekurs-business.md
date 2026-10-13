@@ -4,16 +4,16 @@ digistore24_product_id: 646623
 title: "Signature-Onlinekurs-Business"
 vendor: "rrwenda"
 product_type: "Member area and video courses"
-price: 1203.52
+price: 1200.84
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 601.76
+earnings_per_sale: 600.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-11-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://expertscalingsystem.ralfwenda.education/webinar-training/?aff=adminstore#aff=adminstore"
 sales_page: "https://expertscalingsystem.ralfwenda.education/webinar-training/"
@@ -22,16 +22,16 @@ language: "de"
 # Signature-Onlinekurs-Business
 
 > Product ID `55794` · Digistore24 productId `646623` · [HTML profile page](../../produkte/signature-onlinekurs-business-55794.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1203.52 (Single payment, Installment) |
+| Price | $1200.84 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $601.76 |
+| Earnings/sale* | $600.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rrwenda |
@@ -41,7 +41,41 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Viele haben ein gutes Angebot – aber verkaufen es „nett“ statt überzeugend.Das Viele haben ein gutes Angebot – aber verkaufen es „nett“ statt überzeugend.Das Signature-Onlinekurs-Business zeigt, wie du VSLs und Webinare so aufbaust, dass Menschen nicht nur zuschauen, sondern kaufen. Enthalten sind: klare Video- und Webinar-Strukturen (roter Faden) „Fill-in-the-Blank“-Folienvorlagen Prompts/Skripte…
+**Vendor's marketplace description:** <p>Viele haben ein gutes Angebot – aber verkaufen es „nett“ statt überzeugend.<br />Das</p>
+<p>Viele haben ein gutes Angebot – aber verkaufen es „nett“ statt überzeugend.<br />Das <strong>Signature-Onlinekurs-Business</strong> zeigt, wie du <strong>VSLs und Webinare</strong> so aufbaust, dass Menschen nicht nur zuschauen, sondern kaufen.</p>
+<p>Enthalten sind:</p>
+<ul>
+<li>
+<p>klare Video- und Webinar-Strukturen (roter Faden)</p>
+</li>
+<li>
+<p>„Fill-in-the-Blank“-Folienvorlagen</p>
+</li>
+<li>
+<p>Prompts/Skripte für Headlines, Story, Offer, Einwandbehandlung</p>
+</li>
+<li>
+<p>fertige Frameworks, um aus einem Angebot ein Premium-Asset zu machen</p>
+</li>
+</ul>
+<p>Für Coaches/Trainer/Berater, die mehr Umsatz pro Kunde wollen und ein System suchen, das sie sofort umsetzen können.</p>
+<p> zeigt, wie du <strong>VSLs und Webinare</strong> so aufbaust, dass Menschen nicht nur zuschauen, sondern kaufen.</p>
+<p>Enthalten sind:</p>
+<ul>
+<li>
+<p>klare Video- und Webinar-Strukturen (roter Faden)</p>
+</li>
+<li>
+<p>„Fill-in-the-Blank“-Folienvorlagen</p>
+</li>
+<li>
+<p>Prompts/Skripte für Headlines, Story, Offer, Einwandbehandlung</p>
+</li>
+<li>
+<p>fertige Frameworks, um aus einem Angebot ein Premium-Asset zu machen</p>
+</li>
+</ul>
+<p>Für Coaches/Trainer/Berater, die mehr Umsatz pro Kunde wollen und ein System suchen, das sie sofort umsetzen können.</p>
 
 ## 2. Links
 
@@ -67,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Signature-Onlinekurs-Business? — Typ: Member area and video courses, Anbieter: rrwenda, gelistet seit 2025-11-06
-- Wie viel kostet es? — 1203.5244 USD
+- Wie viel kostet es? — 1200.8394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

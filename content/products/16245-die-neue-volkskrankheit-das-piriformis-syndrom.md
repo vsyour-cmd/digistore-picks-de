@@ -4,34 +4,34 @@ digistore24_product_id: 132977
 title: "Die neue Volkskrankheit: Das Piriformis-Syndrom"
 vendor: "bodyLIFE"
 product_type: "Downloads"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.37
+earnings_per_sale: 18.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-04-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://ischias-schmerzen.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/16245/adminstore/"
 sales_page: "http://ischias-schmerzen.de/"
 language: "de"
 ---
 # Die neue Volkskrankheit: Das Piriformis-Syndrom
 
 > Product ID `16245` · Digistore24 productId `132977` · [HTML profile page](../../produkte/die-neue-volkskrankheit-das-piriformis-syndrom-16245.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.37 |
+| Earnings/sale* | $18.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bodyLIFE |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ISCHIASBESCHWERDEN UND DAS PIRIFORMIS-SYNDROM Einfache und effektive Techniken gegen Gesäß-, Bein- und Rückenschmerzen Nach dem Amazon-Buchbestseller folgt jetzt das erste deutschsprachige Online-Programm! https://ischias-schmerzen.de/ Immer mehr Menschen leiden unter Rückenschmerzen, die bis hinunter in die Beine ausstrahlen? Und sie sind nicht allein: Fast jeder Dritte in Deutschland ist davon b…
+**Vendor's marketplace description:** <h1><strong>ISCHIASBESCHWERDEN UND DAS PIRIFORMIS-SYNDROM</strong></h1>
+<p>Einfache und effektive Techniken gegen Gesäß-, Bein- und Rückenschmerzen</p>
+<h2>Nach dem Amazon-Buchbestseller folgt jetzt das erste deutschsprachige Online-Programm!</h2>
+<p><a href="https://ischias-schmerzen.de/" target="_blank" rel="noreferrer noopener">https://ischias-schmerzen.de/</a></p>
+<p>Immer mehr Menschen leiden unter Rückenschmerzen, die bis hinunter in die Beine ausstrahlen? Und sie sind nicht allein: Fast jeder Dritte in Deutschland ist davon betroffen.<br />Klassischerweise gehen Ärzte automatisch von einem Bandscheibenvorfall aus. Aber nicht immer sind die Bandscheiben der Auslöser. In vielen Fällen handelt es sich um eine Entzündung des Piriformis-Muskels, der auf den Ischiasnerv drückt und dadurch die Beschwerden auslöst.</p>
+<p>Der Vorteil: Wenn das Piriformis-Syndrom erkannt wurde, lässt es sich sehr viel gezielter und erfolgreicher behandeln als ein Bandscheibenvorfall. Schon einfache Dehnungsübungen zeigen erstaunliche Wirkung.</p>
+<h2>"Nummer-1-Bestseller" unter den Rückenbüchern auf Amazon</h2>
+<p>Der Sportredakteur Nicolai Napolski, der aus eigener Erfahrung weiß, wie schmerzhaft das Piriformis-Syndrom ist, hat zusammen mit der Sporttherapeutin und Personal Trainerin Katharina Brinkmann das erste Online-Programm entwickelt, das sich mit dieser Erkrankung dezidiert auseinandersetzt.</p>
+<p>Die Autoren haben nicht nur die wichtigsten Informationen zu Hintergrund und Entstehung zusammengetragen, sondern auch ein eigens auf das Piriformis-Syndrom zugeschnittenes Übungskonzept entwickelt, das einfache und effektive Techniken vorstellt, mit deren Hilfe Sie den verkürzten Muskel dehnen, den Beckengürtel stärken und Haltungsschäden korrigieren können.</p>
+<h2><strong>Profitieren auch Sie vom derzeit einzigen explizit auf das Piriformis-Syndrom zugeschnittene Online-Programm!</strong></h2>
+<h2>Der 4-Stufe-Plan für Zuhause!</h2>
+<p><strong>Ein detailliertes Video-Übungsprogramm bestehend aus über 20 einfachen aber effektiven Techniken in Echtzeitlänge!</strong></p>
+<ul><li>Myofaszinales Entspannen ✓</li>
+<li>Effektive Dehnübungen gegen akute Schmerzen ✓</li>
+<li>Die Kräftigung der Hüftmuskulatur ✓</li>
+<li>Langfristiger Kraftaufbau ✓</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://ischias-schmerzen.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/16245/adminstore/
 - Sales page: http://ischias-schmerzen.de/
 - Canonical redirect: https://www.digistore24.com/redir/132977/adminstore
 
@@ -88,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die neue Volkskrankheit: Das Piriformis-Syndrom? — Typ: Downloads, Anbieter: bodyLIFE, gelistet seit 2017-04-18
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

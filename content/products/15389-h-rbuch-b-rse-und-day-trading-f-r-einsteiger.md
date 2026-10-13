@@ -4,34 +4,34 @@ digistore24_product_id: 122973
 title: "Hörbuch Börse und (Day) - Trading für Einsteiger"
 vendor: "Wirtschaftverstehen"
 product_type: "Downloads"
-price: 12.19
+price: 12.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.1
+earnings_per_sale: 6.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2017-03-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.wirtschaftleichtverstehen.de/hoerbuch-boerse/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/15389/adminstore/"
 sales_page: "https://www.wirtschaftleichtverstehen.de/hoerbuch-boerse/"
 language: "de"
 ---
 # Hörbuch Börse und (Day) - Trading für Einsteiger
 
 > Product ID `15389` · Digistore24 productId `122973` · [HTML profile page](../../produkte/h-rbuch-b-rse-und-day-trading-f-r-einsteiger-15389.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.19 (Single payment) |
+| Price | $12.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.10 |
+| Earnings/sale* | $6.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Wirtschaftverstehen |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Durch Videokurs Upsell (Preis: 92 € und 197 €) höhere Provisionsmöglichkeiten! • über 2 Stunden vollgepackt mit handfesten Börsenwissen, praktischen Tipps und echten Erfahrungen • Tradingstrategien • Chartanalysen • Trading-Regeln • Emotionale Faktoren • praktische Tipps zum Trader-Leben Landingpage mit Hörproben, Inhaltsverzeichnis und Video.Börsenerfahrene Sprecher mit Praxisbezug. Der Hauptspre…
+**Vendor's marketplace description:** <h4 style="text-align:center;"><span style="color:#ff0000;"> <strong>Durch Videokurs Upsell <br />(Preis: 92 € und 197 €) <br />höhere Provisionsmöglichkeiten! <br /></strong></span></h4>
+<h4><span style="color:#800000;">• über 2 Stunden vollgepackt mit handfesten Börsenwissen, </span><br /><span style="color:#800000;"> praktischen Tipps und echten Erfahrungen</span></h4>
+<div>
+<h4><span style="color:#800000;">• Tradingstrategien</span></h4>
+<h4><span style="color:#800000;">• Chartanalysen</span></h4>
+<h4><span style="color:#800000;">• Trading-Regeln</span></h4>
+<h4><span style="color:#800000;">• Emotionale Faktoren</span></h4>
+<h4><span style="color:#800000;">• praktische Tipps zum Trader-Leben </span></h4>
+<p> </p>
+<h4 style="text-align:center;"><span style="color:#800000;">Landingpage mit Hörproben, Inhaltsverzeichnis und Video.</span><br /><br /><span style="color:#800000;">Börsenerfahrene Sprecher mit Praxisbezug. </span></h4>
+<h4 style="text-align:center;"><span style="color:#800000;">Der Hauptsprecher lebt von der Börse. </span></h4>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.wirtschaftleichtverstehen.de/hoerbuch-boerse/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/15389/adminstore/
 - Sales page: https://www.wirtschaftleichtverstehen.de/hoerbuch-boerse/
 - Canonical redirect: https://www.digistore24.com/redir/122973/adminstore
 
@@ -73,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hörbuch Börse und (Day) - Trading für Einsteiger? — Typ: Downloads, Anbieter: Wirtschaftverstehen, gelistet seit 2017-03-01
-- Wie viel kostet es? — 12.192128000000002 USD
+- Wie viel kostet es? — 12.164928000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

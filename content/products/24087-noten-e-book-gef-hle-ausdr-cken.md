@@ -4,34 +4,34 @@ digistore24_product_id: 193571
 title: "Noten-E-Book Gefühle ausdrücken"
 vendor: "musikbegeisterung"
 product_type: "Downloads"
-price: 15.91
+price: 15.88
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.96
+earnings_per_sale: 7.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2018-01-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://musikbegeisterung.de/notenbuch-gefuehle/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/24087/adminstore/"
 sales_page: "http://musikbegeisterung.de/notenbuch-gefuehle/"
 language: "de"
 ---
 # Noten-E-Book Gefühle ausdrücken
 
 > Product ID `24087` · Digistore24 productId `193571` · [HTML profile page](../../produkte/noten-e-book-gef-hle-ausdr-cken-24087.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.91 (Single payment) |
+| Price | $15.88 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.96 |
+| Earnings/sale* | $7.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | musikbegeisterung |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Noten-E-Book Gefühle durch eigene Musik ausdrücken ist ein besonderes Notenbuch. Es hilft, sich auf die eigene Musik einzulassen. Dazu enthält es neben den Noten auch Erläuterungen zum jeweiligen Gefühl, die ein bewusstes Fühlen in der Musik fördern. Auf diese Weise hilft das Noten-E-Book auch bei der persönlichen Weiterentwicklung. Playalongs inklusive! Die Kombination aus Noten und Psycholog…
+**Vendor's marketplace description:** <p>Das Noten-E-Book <em>Gefühle durch eigene Musik ausdrücken</em> ist ein <strong>besonderes Notenbuch</strong>. Es hilft, sich auf die eigene Musik einzulassen. Dazu enthält es neben den Noten auch Erläuterungen zum jeweiligen Gefühl, die ein bewusstes Fühlen in der Musik fördern. Auf diese Weise hilft das Noten-E-Book auch bei der persönlichen Weiterentwicklung. Playalongs inklusive!</p>
+<p>Die Kombination aus Noten und Psychologie ist etwas Einmaliges, das es sonst nicht gibt. Dabei ist das Musizieren in Einklang mit dem momentanen Gefühl das Wertvollste, was du mit deinem Instrument erleben kannst!</p>
+<p>Mit Noten für C-, Eb- und Bb-Instrumente sind die Noten mit fast allen Instrumenten zu den Playalongs spielbar!</p>
+<p><strong>Dein Vorteil als Affiliate:</strong></p>
+<p>Du empfiehlst deinen Kunden ein Produkt mit einem echten Mehrwert für alle, die gerne musizieren und sich persönlich weiterentwickeln möchten, und erhältst 50 % des Kaufpreises.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://musikbegeisterung.de/notenbuch-gefuehle/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/24087/adminstore/
 - Sales page: http://musikbegeisterung.de/notenbuch-gefuehle/
 - Canonical redirect: https://www.digistore24.com/redir/193571/adminstore
 
@@ -77,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Noten-E-Book Gefühle ausdrücken? — Typ: Downloads, Anbieter: musikbegeisterung, gelistet seit 2018-01-13
-- Wie viel kostet es? — 15.91252 USD
+- Wie viel kostet es? — 15.87702 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

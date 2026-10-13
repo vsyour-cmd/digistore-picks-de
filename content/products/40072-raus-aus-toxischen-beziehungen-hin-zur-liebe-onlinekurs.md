@@ -4,16 +4,16 @@ digistore24_product_id: 311659
 title: "Raus aus TOXISCHEN Beziehungen - Hin zur Liebe | Onlinekurs"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 356.9
+price: 356.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 107.07
+earnings_per_sale: 106.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2020-03-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "http://katja-amberg-shop.de/rausaustoxischenbeziehungen?aff=adminstore#aff=adminstore"
 sales_page: "http://katja-amberg-shop.de/rausaustoxischenbeziehungen"
@@ -22,16 +22,16 @@ language: "de"
 # Raus aus TOXISCHEN Beziehungen - Hin zur Liebe | Onlinekurs
 
 > Product ID `40072` · Digistore24 productId `311659` · [HTML profile page](../../produkte/raus-aus-toxischen-beziehungen-hin-zur-liebe-onlinekurs-40072.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $356.90 (Single payment, Installment) |
+| Price | $356.10 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $107.07 |
+| Earnings/sale* | $106.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
@@ -41,7 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Katja Amberg Raus aus TOXISCHEN Beziehungen - Hin zur Liebe! | Onlinekurs Video/ Audio - ONLINEKURS (incl .zusätzlicher Downloadmöglichkeit der Audiodateien) Mehr als 5 Stunden Video. Mehr als 5 Stunden Audio. Schnellübersicht Inhalt: 17 Kursvideos 1 Hörbuch 7 Selbsthypnosen 1 Meditation Arbeitsblätter zur Selbsthilfe Die Anleitung zur SELBSTBEFREIUNG aus einer toxischen Beziehung! DAS SELBSBEFREI…
+**Vendor's marketplace description:** <h3><strong><span style="color:#ff0000;">Katja Amberg</span></strong></h3>
+<h3><strong><span style="color:#ff0000;">Raus aus TOXISCHEN Beziehungen - Hin zur Liebe! | Onlinekurs</span></strong></h3>
+<div>
+<p>Video/ Audio - ONLINEKURS (incl .zusätzlicher Downloadmöglichkeit der Audiodateien)</p>
+<ul>
+<li>Mehr als 5 Stunden Video.</li>
+<li>Mehr als 5 Stunden Audio.</li>
+</ul>
+<p>Schnellübersicht Inhalt:</p>
+<ul>
+<li>17 Kursvideos</li>
+<li>1 Hörbuch</li>
+<li>7 Selbsthypnosen</li>
+<li>1 Meditation</li>
+<li>Arbeitsblätter zur Selbsthilfe</li>
+</ul>
+<p>Die Anleitung zur SELBSTBEFREIUNG aus einer toxischen Beziehung!</p>
+<p>DAS SELBSBEFREIUNGSPROGRAMM!</p>
+<p>BEZIEHUNGSKURS LEVEL 2</p>
+<p><strong>Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von <a>www.katja-amberg-coaching.de</a> über gesonderten login. Die login-Daten werden nach Kaufabschluß per Mail übermittelt. </strong></p>
+<hr />
+<p> Genauer Inhalt des Kurses:</p>
+<p>1.  - 1.0 Video | Begruessung und Vorwort<br />2.  - 1.1 HÖRBUCH MP3 | Verhaengnisvolle Kraefte in TOXISCHEN Beziehungen - ICH OEFFNE DIR DIE AUGEN!<br />3.  - 2.0 Video | Schmerzhafte Gefuehle aufloesen<br />4.  - 2.1 MP3 | Vorwort zur Meditation NEGATIVE GEFUEHLE AUFLOESEN<br />5.  - 2.2 MP3 | Meditation NEGATIVE GEFUEHLE AUFLOESEN<br />6.  - 3.0 Video | Das Gedankenkarussell stoppen<br />7.  - 4.0 Video | SOS Quaelende Sehnsucht<br />8.  - 4.1 MP3 | Vorwort und Sicherheitshinweise fuer HYPNOSEN<br />9.  - 4.2 MP3 | Vorwort zur Hypnose DEIN INNERES KIND KENNEN LERNEN UND HEILEN<br />10.  - 4.3 MP3 | Hypnose DEIN INNERES KIND KENNEN LERNEN UND HEILEN<br />11.  - 5.0 Video | Der verborgene Schatz<br />12.  - 6.0 Video | Das gebrochene Herz heilen<br />13.  - 6.1 Video | Was ist Hypnose<br />14.  - 6.2 MP3 | Vorwort zur Hypnose URSACHEN FINDEN UND LOESEN<br />15.  - 6.3 MP3 | Hypnose URSACHEN FINDEN UND LOESEN<br />16.  - 7.0 Video | Frei werden vom Partner ENERGETISCHE TRENNUNG<br />17.  - 7.1 MP3 | Hypnose ENERGETISCHE TRENNUNG<br />18.  - 8.0 Video | Aufruhr im Niemandsland<br />19.  - 8.1 MP3 | Vorwort zur Hypnose DEINE INTUITION ERKENNEN UND TRAINIEREN<br />20.  - 8.2 MP3 | Hypnose DEINE INTUITION ERKENNEN UND TRAINIEREN<br />21.  - 9.0 Video | SPEZIALFALL Narzisstische Partner<br />22.  - 10.0 Video | Den Partner loslassen - Aber RICHTIG<br />23.  - 10.1 MP3 | Hypnose LOSLASSEN<br />24.  - 11.0 Video | Der erste Tag<br />25.  - 11.1 MP3 | Hypnose DEIN INNERES LEUCHTEN<br />26.  - 12.0 Video | LEBE DEINE TRAEUME<br />27.  - 12.1 MP3 | Vorwort zur Hypnose BLICK IN DIE ZUKUNFT<br />28.  - 12.2 MP3 | Hypnose BLICK IN DIE ZUKUNFT<br />29.  - 13.0 Video | Programmiere Deine Gedanken auf POSITIV<br />30.  - 14.0 Video | Dein TURBO in die FREIHEIT<br />31.  - 15.0 Video | HIN ZUR LIEBE<br />32.  - 16.0 Video | Nachwort<br />33.  - Arbeitsblatt VERPFLICHTUNGSERKLAERUNG zu 1.0<br />34.  - Arbeitsblatt MAENGELLISTE Erklaerung zu 8.0<br />35. Katja Amberg - Arbeitsblatt MAENGELLISTE LISTE zu 8.0<br />36.  - Arbeitsblatt DANKBARKEITSLISTE Erklaerung zu 14.0<br />37.  - Arbeitsblatt DANKBARKEITSLISTE LISTE Teil 1 zu 14.0<br />38.  - Arbeitsblatt DANKBARKEITSLISTE LISTE Teil 2 zu 14.0</p>
+</div>
 
 ## 2. Links
 
@@ -92,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raus aus TOXISCHEN Beziehungen - Hin zur Liebe | Onlinekurs? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-03-07
-- Wie viel kostet es? — 356.899894 USD
+- Wie viel kostet es? — 356.103669 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

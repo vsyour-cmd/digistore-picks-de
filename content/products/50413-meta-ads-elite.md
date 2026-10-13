@@ -4,34 +4,34 @@ digistore24_product_id: 568194
 title: "Meta Ads Elite"
 vendor: "Homer25"
 product_type: "Member area and video courses"
-price: 107.35
+price: 107.11
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 53.68
+earnings_per_sale: 53.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.jonasklaholz.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50413/adminstore/"
 sales_page: "https://www.jonasklaholz.de/"
 language: "de"
 ---
 # Meta Ads Elite
 
 > Product ID `50413` · Digistore24 productId `568194` · [HTML profile page](../../produkte/meta-ads-elite-50413.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $107.35 (Single payment, Installment) |
+| Price | $107.11 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $53.68 |
+| Earnings/sale* | $53.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Homer25 |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verdiene satte 50% Provision für jeden Kunden den du uns bringst! Auf das erste Upsell gibt es nochmals 50% und auf das zweite 10%, da es ein Highprice Coaching ist. Insgesamt kannst du über 250,-€ netto Provision pro vermittelten Kunden verdienen! Im Kurs Meta Ads Elite, geht es um PPC Marketing mit Facebook und Instagram. Wir zeigen deinen Kunden alles von A-Z, sodass diese ihr Unternehmen skali…
+**Vendor's marketplace description:** <h2>Verdiene satte 50% Provision für jeden Kunden den du uns bringst!</h2>
+<p> </p>
+<p>Auf das erste Upsell gibt es nochmals 50% und auf das zweite 10%, da es ein Highprice Coaching ist.</p>
+<p> </p>
+<p><strong>Insgesamt kannst du über 250,-€ netto Provision pro vermittelten Kunden verdienen!</strong></p>
+<p> </p>
+<p>Im Kurs Meta Ads Elite, geht es um PPC Marketing mit Facebook und Instagram. Wir zeigen deinen Kunden alles von A-Z, sodass diese ihr Unternehmen skalieren können.</p>
+<p> </p>
+<p>Bei Fragen, schreibt uns gerne direkt an:<br />ultimateaffiliatesystem-team@gv9.de</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.jonasklaholz.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50413/adminstore/
 - Sales page: https://www.jonasklaholz.de/
 - Vendor affiliate support: https://www.jonasklaholz.de/partnerprogramm-2/
 - Canonical redirect: https://www.digistore24.com/redir/568194/adminstore
@@ -67,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Meta Ads Elite? — Typ: Member area and video courses, Anbieter: Homer25, gelistet seit 2024-09-02
-- Wie viel kostet es? — 107.35348 USD
+- Wie viel kostet es? — 107.11398000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

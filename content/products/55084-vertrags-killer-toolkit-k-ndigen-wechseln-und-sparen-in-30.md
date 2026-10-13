@@ -4,7 +4,7 @@ digistore24_product_id: 658682
 title: "Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30"
 vendor: "Sparwerk96"
 product_type: "Downloads"
-price: 9.41
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.94
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Services"]
 listed_since: "2026-01-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658682?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658682"
@@ -22,14 +22,14 @@ language: "de"
 # Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30
 
 > Product ID `55084` · Digistore24 productId `658682` · [HTML profile page](../../produkte/vertrags-killer-toolkit-k-ndigen-wechseln-und-sparen-in-30-55084.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.41 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ✅ 25+ rechtssichere Kündigungs- & Wechsel-Vorlagen (PDF/Word)✅ Fristen-Checker & Mustertexte inkl. Sonderkündigung/Preiserhöhung✅ Schritt-für-Schritt-Guide: Was wann wohin (E-Mail/Brief/Einschreiben)✅ Bonus: Anschreiben-Generator (Copy-&-Paste) + Checkliste „Gebührenfrei raus“ Zielgruppe: Azubis, Studierende, Haushalte – alle, die laufende Kosten senken wollen.Hinweis: Kein Ersatz für Rechtsberatu…
+**Vendor's marketplace description:** <p>✅ 25+ rechtssichere Kündigungs- &amp; Wechsel-Vorlagen (PDF/Word)<br />✅ Fristen-Checker &amp; Mustertexte inkl. Sonderkündigung/Preiserhöhung<br />✅ Schritt-für-Schritt-Guide: Was wann wohin (E-Mail/Brief/Einschreiben)<br />✅ Bonus: Anschreiben-Generator (Copy-&amp;-Paste) + Checkliste „Gebührenfrei raus“</p>
+<p>Zielgruppe: Azubis, Studierende, Haushalte – alle, die laufende Kosten senken wollen.<br />Hinweis: Kein Ersatz für Rechtsberatung.</p>
 
 ## 2. Links
 
@@ -71,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vertrags-Killer Toolkit–Kündigen, wechseln und sparen in 30? — Typ: Downloads, Anbieter: Sparwerk96, gelistet seit 2026-01-03
-- Wie viel kostet es? — 9.41304 USD
+- Wie viel kostet es? — 9.392040000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

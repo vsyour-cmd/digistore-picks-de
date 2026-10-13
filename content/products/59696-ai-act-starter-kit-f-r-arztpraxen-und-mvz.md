@@ -4,16 +4,16 @@ digistore24_product_id: 649020
 title: "AI Act Starter-Kit für Arztpraxen und MVZ"
 vendor: "MindshiftDigitalStudio"
 product_type: "E-books"
-price: 103.68
+price: 103.45
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.11
+earnings_per_sale: 31.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/649020?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/649020"
@@ -22,16 +22,16 @@ language: "de"
 # AI Act Starter-Kit für Arztpraxen und MVZ
 
 > Product ID `59696` · Digistore24 productId `649020` · [HTML profile page](../../produkte/ai-act-starter-kit-f-r-arztpraxen-und-mvz-59696.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $103.68 (Single payment) |
+| Price | $103.45 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.11 |
+| Earnings/sale* | $31.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -41,7 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** AI Act Starter-Kit für Arztpraxen & MVZ – 105 Master-Prompts Dieses digitale Produkt enthält 105 sofort nutzbare Master-Prompts im PDF-Format speziell für Arztpraxen, MVZ, Facharztzentren und medizinische Einrichtungen. Die Prompts unterstützen bei der strukturierten und verantwortungsvollen Nutzung von KI im Praxisalltag und decken wichtige Themen rund um EU AI Act, DSGVO, Dokumentation, Qualität…
+**Vendor's marketplace description:** <p><strong>AI Act Starter-Kit für Arztpraxen &amp; MVZ – 105 Master-Prompts</strong></p>
+<p>Dieses digitale Produkt enthält <strong>105 sofort nutzbare Master-Prompts im PDF-Format</strong> speziell für Arztpraxen, MVZ, Facharztzentren und medizinische Einrichtungen.</p>
+<p>Die Prompts unterstützen bei der strukturierten und verantwortungsvollen Nutzung von KI im Praxisalltag und decken wichtige Themen rund um <strong>EU AI Act, DSGVO, Dokumentation, Qualitätsmanagement und Organisation</strong> ab.</p>
+<p><strong>Geeignet für:</strong></p>
+<ul>
+<li>Arztpraxen und Gemeinschaftspraxen</li>
+<li>Medizinische Versorgungszentren (MVZ)</li>
+<li>Facharztzentren</li>
+<li>Gesundheitszentren und medizinische Einrichtungen</li>
+<li>Praxismanagement und QM-Verantwortliche</li>
+</ul>
+<p><strong>Themenschwerpunkte:</strong></p>
+<ul>
+<li>Dokumentation und Praxisorganisation</li>
+<li>Patientenkommunikation</li>
+<li>Qualitätsmanagement</li>
+<li>Datenschutz und DSGVO</li>
+<li>KI-Risikoanalyse</li>
+<li>Hygiene und interne Abläufe</li>
+<li>strukturierte Nutzung von KI im medizinischen Arbeitsumfeld</li>
+</ul>
+<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales PDF mit 105 Master-Prompts</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
+<p>Die Inhalte dienen der Organisation, Dokumentation und Unterstützung interner Arbeitsprozesse. Sie ersetzen keine medizinische Diagnose, Therapieempfehlung oder individuelle Rechtsberatung.</p>
+<p>Ein klar positioniertes B2B-Produkt für Arztpraxen und medizinische Einrichtungen, die KI strukturiert und nachvollziehbar in ihre bestehenden Abläufe integrieren möchten.</p>
 
 ## 2. Links
 
@@ -92,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Act Starter-Kit für Arztpraxen und MVZ? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
-- Wie viel kostet es? — 103.677912 USD
+- Wie viel kostet es? — 103.446612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

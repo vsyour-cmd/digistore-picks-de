@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://frequenzguide.empfehlungsmeister.com?aff=adminstore#aff=adminstore"
 sales_page: "https://frequenzguide.empfehlungsmeister.com"
@@ -22,7 +22,7 @@ language: "de"
 # Frequenz-Guide
 
 > Product ID `58332` · Digistore24 productId `638011` · [HTML profile page](../../produkte/frequenz-guide-58332.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle diesen Guide weiter und erhalte 50% Provision auf alle Up- & Down-Sells. Auf der Partnerseite ist für dich alles vorbereitet. eMail Vorlagen, Social Media Texte, ... Dein Heil-Frequenz-Guid Dein Einstieg – kostenfrei Dein Leitfaden zum Einstieg als 1. Schritt zu mehr Bewusstsein & Leichtigkeit Spürst du den Wunsch nach mehr innerer Ruhe und Klarheit? Dieser Guide zeigt dir den ersten, lei…
+**Vendor's marketplace description:** <p><strong>Empfehle diesen Guide weiter und erhalte 50% Provision auf alle Up- &amp; Down-Sells.</strong></p>
+<p><strong>Auf der Partnerseite ist für dich alles vorbereitet. eMail Vorlagen, Social Media Texte, ...<br /><br /></strong></p>
+<p><strong>Dein Heil-Frequenz-Guid<br /></strong></p>
+<h2>Dein Einstieg – kostenfrei</h2>
+<p>Dein Leitfaden zum Einstieg als 1. Schritt zu mehr Bewusstsein &amp; Leichtigkeit</p>
+<p>Spürst du den Wunsch nach mehr innerer Ruhe und Klarheit? Dieser Guide zeigt dir den ersten, leichten Schritt.</p>
+<ul>
+<li>Was sind Heil-Frequenzen?</li>
+<li>Die 8 stärksten Heil-Frequenzen für Körper, Geist &amp; Seele</li>
+<li>Wie kannst du diese für dich nutzen?</li>
+<li>Tägliche Anwendungs-Tipps</li>
+<li>Was sind heilende Klänge?</li>
+<li>3 Schlüssel zur Aktivierung deiner inneren Energie</li>
+<li>Solfeggio-Frequenzen u.v.m.</li>
+</ul>
+<p> </p>
 
 ## 2. Links
 

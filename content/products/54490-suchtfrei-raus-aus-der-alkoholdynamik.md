@@ -4,16 +4,16 @@ digistore24_product_id: 639794
 title: "suchtfrei – Raus aus der Alkoholdynamik"
 vendor: "SandyKral"
 product_type: "Member area and video courses"
-price: 185.52
+price: 185.1
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 46.38
+earnings_per_sale: 46.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2025-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://suchtfrei.app.mentortools.com/suchtfrei?aff=adminstore#aff=adminstore"
 sales_page: "https://suchtfrei.app.mentortools.com/suchtfrei"
@@ -22,16 +22,16 @@ language: "de"
 # suchtfrei – Raus aus der Alkoholdynamik
 
 > Product ID `54490` · Digistore24 productId `639794` · [HTML profile page](../../produkte/suchtfrei-raus-aus-der-alkoholdynamik-54490.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.52 (Single payment) |
+| Price | $185.10 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $46.38 |
+| Earnings/sale* | $46.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SandyKral |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Psychologischer Selbstlernkurs & Selbsthilfe-Community Vollständiger Titel: #suchtfrei - Was du brauchst, um nochmal die Kurve zu kriegen Kurserstellerin: Suchttherapeutin Sandy Kral Für Menschen, die spüren: Alkohol nimmt zu viel Raum ein. Psychologischer Onlinekurs + Community helfen, Muster zu verstehen und Schritt für Schritt in innere Stabilität zu finden. Für Partner:innen ideal, die Mensche…
+**Vendor's marketplace description:** <p><span style="background-color:#ffff00;">Psychologischer Selbstlernkurs &amp; Selbsthilfe-Community</span></p>
+<p><span style="background-color:#ffff99;">Vollständiger Titel:</span></p>
+<p style="padding-left:40px;">#suchtfrei - Was du brauchst, um nochmal die Kurve zu kriegen</p>
+<p style="padding-left:40px;"><span style="background-color:#ffff99;">Kurserstellerin:</span> Suchttherapeutin Sandy Kral</p>
+<p> </p>
+<p><span style="background-color:#ffff99;">Für Menschen, die spüren:</span> Alkohol nimmt zu viel Raum ein. Psychologischer Onlinekurs + Community helfen, Muster zu verstehen und Schritt für Schritt in innere Stabilität zu finden.</p>
+<p> </p>
+<p><span style="background-color:#ffff99;">Für Partner:innen ideal</span>, die Menschen mit innerer Überforderung, stiller Suchtbelastung oder wachsender Konsumangst begleiten. Der Kurs spricht reflektierte Konsumierende an, die einen Ausstieg aus belastenden (Trink)mustern suchen.</p>
 
 ## 2. Links
 
@@ -87,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist suchtfrei – Raus aus der Alkoholdynamik? — Typ: Member area and video courses, Anbieter: SandyKral, gelistet seit 2025-10-06
-- Wie viel kostet es? — 185.51533 USD
+- Wie viel kostet es? — 185.10145500000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

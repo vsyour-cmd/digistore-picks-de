@@ -4,16 +4,16 @@ digistore24_product_id: 439162
 title: "Buch: Islam, Geld und Wohlstand"
 vendor: "IslamGeldWohlstand"
 product_type: "Book (printed)"
-price: 31.21
+price: 31.14
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 6.24
+earnings_per_sale: 6.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-04-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/439162?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/439162"
@@ -22,16 +22,16 @@ language: "de"
 # Buch: Islam, Geld und Wohlstand
 
 > Product ID `40012` · Digistore24 productId `439162` · [HTML profile page](../../produkte/buch-islam-geld-und-wohlstand-40012.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $31.21 (Single payment) |
+| Price | $31.14 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $6.24 |
+| Earnings/sale* | $6.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IslamGeldWohlstand |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Affiliate Programm zum Grundlagenwerk über Finanzen für Muslime: Warum macht das Zinsverbot Sinn? Wie wirken Schulden für Arme und Reiche? Wie geht ein Muslim mit Schulden um? Wird Vermögen positiv oder negativ gesehen? Wie Geld erwerben, bewahren und ausgeben? Was ist Geld, was sind Kryptotoken? Welche Meinungen vertreten Gelehrte zum Hauskauf? Welche Aktien kommen infrage? Sind Versicherunge…
+**Vendor's marketplace description:** <p>Das Affiliate Programm zum Grundlagenwerk über Finanzen für Muslime:</p>
+<p>Warum macht das Zinsverbot Sinn? Wie wirken Schulden für Arme und Reiche? Wie geht ein Muslim mit Schulden um? Wird Vermögen positiv oder negativ gesehen? Wie Geld erwerben, bewahren und ausgeben? Was ist Geld, was sind Kryptotoken? Welche Meinungen vertreten Gelehrte zum Hauskauf? Welche Aktien kommen infrage? Sind Versicherungen islamkonform? Wie wird die Sozialabgabe Zakat berechnet? Welche Aspekte gibt es bei Nachlassplanung und Testament? Für Muslime und alle, die offen und interessiert sind.</p>
+<p><a>Autor: </a></p>
+<p><a>Michael Gassner</a> lebt und arbeitet in Genf. Er ist hauptberuflich tätig als Head of Islamic finance einer Schweizer Privatbank. Er ist zugleich Mitglied des Scharia Boards der Bosna Bank International in Sarajevo. Nach Bankausbildung lernte er Arabisch während des Wirtschaftsstudiums (Diplom-Kaufmann) mit den Schwerpunkten Finanzierung, Marketing und Wirtschaftsgeschichte. Sein Auslandssemester verbrachte er in Damaskus. Nach dem Berufseinstieg in der ‘New Economy’, arbeitete er als Finanzberater und spezialisierte sich auf <a>Islamic finance</a>. In die Schweiz wanderte er ein aus Jeddah, wo er bei der Bank Al Jazira die islamische Produktentwicklung betreute.</p>
 
 ## 2. Links
 
@@ -70,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch: Islam, Geld und Wohlstand? — Typ: Book (printed), Anbieter: IslamGeldWohlstand, gelistet seit 2022-04-16
-- Wie viel kostet es? — 31.208710000000004 USD
+- Wie viel kostet es? — 31.139085000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

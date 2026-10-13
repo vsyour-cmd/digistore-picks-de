@@ -4,16 +4,16 @@ digistore24_product_id: 679015
 title: "PROMETHEUS Cyber Fortress™ – 50 % Provision + Partner-Bonus"
 vendor: "Marius3"
 product_type: "Remote service provided electronically"
-price: 938.86
+price: 936.77
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 469.43
+earnings_per_sale: 468.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Marketing Services"]
 listed_since: "2026-03-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://prime-prestige-ventures-b-p.net/prometheus-verkaufsseite/?aff=adminstore#aff=adminstore"
 sales_page: "https://prime-prestige-ventures-b-p.net/prometheus-verkaufsseite/"
@@ -22,16 +22,16 @@ language: "de"
 # PROMETHEUS Cyber Fortress™ – 50 % Provision + Partner-Bonus
 
 > Product ID `56362` · Digistore24 productId `679015` · [HTML profile page](../../produkte/prometheus-cyber-fortress-50-provision-partner-bonus-56362.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $938.86 (Single payment) |
+| Price | $936.77 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $469.43 |
+| Earnings/sale* | $468.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Marius3 |
@@ -41,7 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** PROMETHEUS CYBER FORTRESS™ – 50 % AFFILIATE-PROVISION Wir suchen ausgewählte Affiliate-Partner für unsere Strategische Cybersecurity-Analyse für Unternehmen. Ihre Provision: 50 % pro erfolgreicher Vermittlung. Sie müssen keine eigenen Kampagnenmaterialien entwickeln. Für unsere Partner haben wir ein umfangreiches, professionelles Affiliate Center vorbereitet – mit Whitepaper, Affiliate-Handbuch, V…
+**Vendor's marketplace description:** <p><strong>PROMETHEUS CYBER FORTRESS™ – 50 % AFFILIATE-PROVISION</strong> Wir suchen ausgewählte Affiliate-Partner für unsere Strategische Cybersecurity-Analyse für Unternehmen.</p>
+<p><strong>Ihre Provision: 50 % pro erfolgreicher Vermittlung.</strong></p>
+<p>Sie müssen keine eigenen Kampagnenmaterialien entwickeln.</p>
+<p>Für unsere Partner haben wir ein umfangreiches, professionelles Affiliate Center vorbereitet – mit Whitepaper, Affiliate-Handbuch, Videos, E-Mail-Kampagnen, Social-Media-Posts, Grafiken, Bannern, Logos und umfangreichen FAQ. Sie wählen die passenden Materialien, ergänzen Ihren persönlichen Affiliate-Link und können mit der Vermarktung beginnen.</p>
+<p>Besonders interessant für Affiliates mit Kontakten oder Reichweite in den Bereichen Cybersecurity, IT, B2B, Unternehmensberatung, Management, CISO/CIO und kritische IT-Infrastrukturen.</p>
+<p><strong>ZUSÄTZLICHER PARTNER-BONUS BEI WEITERFÜHRENDER IMPLEMENTIERUNG</strong> Die Affiliate-Vermittlung bezieht sich zunächst ausschließlich auf die Strategische Cybersecurity-Analyse.</p>
+<p>Entscheidet sich ein durch Sie vermittelter Kunde nach Abschluss der Analyse zusätzlich für die Umsetzung einer weiterführenden PROMETHEUS-Lösung</p>
+<p>– insbesondere <strong>PROMETHEUS CORE</strong> oder <strong>PROMETHEUS ENTERPRISE</strong></p>
+<p>– und kommt daraus ein entsprechender Implementierungsauftrag zustande, möchten wir den ursprünglichen Affiliate-Partner zusätzlich am Erfolg beteiligen.</p>
+<p><strong>In diesem Fall erhalten Sie von uns einen zusätzlichen Partner-Bonus von mindestens </strong></p>
+<p><strong>650 € als Anerkennung für die erfolgreiche ursprüngliche Vermittlung.</strong></p>
+<p>Dieser zusätzliche Bonus ist unabhängig von der regulären <strong>50-%-Affiliate-Provision für die Strategische Cybersecurity-Analyse</strong> und wird von uns gewährt, sofern aus der ursprünglich vermittelten Analyse tatsächlich ein entsprechender</p>
+<p>Implementierungsauftrag für</p>
+<p>PROMETHEUS CORE oder PROMETHEUS ENTERPRISE entsteht und vom Kunden beauftragt wird. Damit kann eine erfolgreiche Vermittlung für Sie über die ursprüngliche Affiliate-Provision hinaus zusätzlichen Wert schaffen.</p>
+<p><strong>50 % Provision auf die Strategische Cybersecurity-Analyse. </strong></p>
+<p><strong>Mindestens 650 € zusätzlicher Partner-Bonus bei anschließender qualifizierter PROMETHEUS-Implementierung. </strong></p>
+<p><strong>Professionelle Marketingmaterialien. Direkter Partner-Support.</strong></p>
+<p><strong>Werden Sie Affiliate-Partner von PROMETHEUS Cyber Fortress™.</strong></p>
+<p><strong>WICHTIGER HINWEIS ZUR IMPLEMENTIERUNG</strong><br />Die Strategische Cybersecurity-Analyse kann unabhängig vom Standort des Kunden angeboten werden.</p>
+<p>Die praktische Umsetzung und Implementierung weiterführender PROMETHEUS-Lösungen – insbesondere <strong>PROMETHEUS CORE</strong> und <strong>PROMETHEUS ENTERPRISE</strong> – ist in der aktuellen Einführungsphase <strong>ausschließlich für Kunden und IT-Infrastrukturen in Deutschland verfügbar</strong>.</p>
+<p>Eine spätere Erweiterung auf weitere europäische und internationale Märkte ist vorgesehen.</p>
+<p>Der zusätzliche Partner-Bonus von mindestens <strong>650 €</strong> gilt daher derzeit für qualifizierte, tatsächlich beauftragte PROMETHEUS-Implementierungen <strong>in Deutschland</strong>.</p>
 
 ## 2. Links
 
@@ -67,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PROMETHEUS Cyber Fortress™ – 50 % Provision + Partner-Bonus? — Typ: Remote service provided electronically, Anbieter: Marius3, gelistet seit 2026-03-24
-- Wie viel kostet es? — 938.8610920000001 USD
+- Wie viel kostet es? — 936.7665420000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

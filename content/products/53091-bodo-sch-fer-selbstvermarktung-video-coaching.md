@@ -4,34 +4,34 @@ digistore24_product_id: 622565
 title: "Bodo Schäfer: SELBSTVERMARKTUNG - Video-Coaching"
 vendor: "BodoSchaefer"
 product_type: "Member area and video courses"
-price: 468.02
+price: 466.97
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 93.6
+earnings_per_sale: 93.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-07-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://endlichsichtbar.de/crashkurs-selbstvermarktung-aff/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53091/adminstore/"
 sales_page: "http://endlichsichtbar.de/crashkurs-selbstvermarktung-aff/"
 language: "de"
 ---
 # Bodo Schäfer: SELBSTVERMARKTUNG - Video-Coaching
 
 > Product ID `53091` · Digistore24 productId `622565` · [HTML profile page](../../produkte/bodo-sch-fer-selbstvermarktung-video-coaching-53091.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $468.02 (Single payment) |
+| Price | $466.97 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $93.60 |
+| Earnings/sale* | $93.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BodoSchaefer |
@@ -41,11 +41,97 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ENDLICH SICHTBAR MIT SELBSTVERMARKTUNG 12-wöchiges Master-Video-Coaching mit Bodo Schäfer Deine finanzielle Freiheit hängt nur von einer Sache ab: Deiner Bekanntheit. Wie Du diese aufbaust, zeige ich im Kurs. Dieser Kurs beinhaltet: MASTER Online-Coaching "Crashkurs: Selbstvermarktung":7 Coaching-Module mit Bodo Schäfer (12 Wochen | 6 Strategien | 12 Regeln) BONUS 1: "Der geheime Code der bekannte…
+**Vendor's marketplace description:** <h2>ENDLICH SICHTBAR MIT SELBSTVERMARKTUNG</h2>
+<div>
+<div><strong>12-wöchiges Master-Video-Coaching mit Bodo Schäfer</strong></div>
+<div> </div>
+<div>Deine finanzielle Freiheit hängt nur von einer Sache ab: Deiner Bekanntheit. Wie Du diese aufbaust, zeige ich im Kurs.</div>
+<div> </div>
+<div>Dieser Kurs beinhaltet:</div>
+<div>
+<div>
+<div>
+<p><strong>MASTER Online-Coaching "Crashkurs: Selbstvermarktung":<br /></strong>7 Coaching-Module mit Bodo Schäfer (12 Wochen | 6 Strategien | 12 Regeln)</p>
+</div>
+</div>
+<div>
+<div>
+<p><strong>BONUS 1: "Der geheime Code der bekannten Persönlichkeiten":</strong></p>
+<p>140 Seiten PDF über ihren Weg zum Erfolg (Albert Einstein | Madonna | Arnold Schwarzenegger | Oprah Winfrey | Karl Lagerfeld | Damian Hirst)<strong><br /></strong></p>
+</div>
+</div>
+<div>
+<h2><strong>BONUS 2: "Personen-Marke vs. Personen-Ikone":</strong></h2>
+</div>
+<div>
+<div>
+<p>27 Seiten PDF: Wie Du zu einer Marken-Ikone werden kannst</p>
+</div>
+</div>
+<div>
+<div>
+<h2><strong>BONUS 3: "Einführung in Social-Media":</strong></h2>
+</div>
+</div>
+<div>
+<div>
+<p>44 Seiten PDF: Warum es nie leichter war als jetzt, sichtbar zu werden​<strong><br /></strong></p>
+</div>
+</div>
+<div>
+<div>
+<h2><strong>BONUS 4: "Die Magie von Hash-Tags":</strong></h2>
+</div>
+</div>
+<div>
+<div>
+<p>14 Seiten PDF: So gehen Deine Postings viral​​<strong><br /></strong></p>
+</div>
+</div>
+<div>
+<h2><strong>BONUS 5: "So gewinnst Du jeden. Kooperationsvertrag-Partner":</strong></h2>
+</div>
+<div>
+<div>
+<p>26 Seiten PDF: Die Schritt-für-Schritt-Anleitung um Deine Sichtbarkeit zu maximieren<strong><br /></strong></p>
+</div>
+</div>
+<div>
+<div>
+<h2><strong>BONUS 6: "Die 10 Grundsätze der Positionierung":</strong></h2>
+</div>
+</div>
+<div>
+<div>
+<p>27 Seiten PDF: Dein Erfolgs-Hebel für sofort mehr Sichtbarkeit​<strong><br /></strong></p>
+</div>
+</div>
+<div>
+<div>
+<h2><strong>BONUS 7: "Die 2 wichtigsten Strategien, um Deine Firma sichtbar zu machen":</strong></h2>
+</div>
+</div>
+<div>
+<div>
+<p>15 Seiten PDF: Das Geheimnis hinter welt-weiter Bekanntheit​<strong><br /></strong></p>
+</div>
+</div>
+<div>
+<div>
+<h2><strong>SONDER-BONUS: Dein VIP-Ticket für das ONLINE / LIVE Event "AUFBRUCH" 2026:</strong></h2>
+</div>
+</div>
+<div>
+<div>
+<p>Sei LIVE dabei bei meinem größten und erfolgreichsten Seminar am 28. &amp; 29.03.2026.</p>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://endlichsichtbar.de/crashkurs-selbstvermarktung-aff/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53091/adminstore/
 - Sales page: http://endlichsichtbar.de/crashkurs-selbstvermarktung-aff/
 - Vendor affiliate support: http://bodoschaefer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/622565/adminstore
@@ -97,7 +183,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bodo Schäfer: SELBSTVERMARKTUNG - Video-Coaching? — Typ: Member area and video courses, Anbieter: BodoSchaefer, gelistet seit 2025-07-07
-- Wie viel kostet es? — 468.01859 USD
+- Wie viel kostet es? — 466.974465 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

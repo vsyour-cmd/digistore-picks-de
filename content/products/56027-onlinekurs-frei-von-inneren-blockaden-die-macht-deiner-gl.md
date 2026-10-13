@@ -4,34 +4,34 @@ digistore24_product_id: 650491
 title: "Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl"
 vendor: "Calls-und-Chats-26"
 product_type: "Member area and video courses"
-price: 1450.19
+price: 1446.96
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 580.08
+earnings_per_sale: 578.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-11-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://onlinekurs-glaubenssaetze.psychologisch-spirituelle-beratung.de/wordpress/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56027/adminstore/"
 sales_page: "https://onlinekurs-glaubenssaetze.psychologisch-spirituelle-beratung.de/wordpress/"
 language: "de"
 ---
 # Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl
 
 > Product ID `56027` · Digistore24 productId `650491` · [HTML profile page](../../produkte/onlinekurs-frei-von-inneren-blockaden-die-macht-deiner-gl-56027.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1450.19 (Single payment, Installment) |
+| Price | $1446.96 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $580.08 |
+| Earnings/sale* | $578.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Calls-und-Chats-26 |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Premium-Programm von Diplom-Psychologin & Heilpraktikerin (HeilprG) Produkt: Begleiteter 6-Wochen-Onlinekurs inkl. 4 intensiven 1:1-Online-Coachings. Zielgruppe: Gesunde, reflektierte Menschen (hohe Kaufkraft) mit Leidensdruck durch negatives Denken, mangelnden Selbstwert und das Zurückstellen eigener Bedürfnisse. Verkaufspreis: 1.450 € (Hoher Warenkorbwert). Deine Provision: 50 % (ca. 660 € reine…
+**Vendor's marketplace description:** <div><strong>Premium-Programm von Diplom-Psychologin &amp; Heilpraktikerin (HeilprG)</strong></div>
+<ul>
+<li><strong>Produkt:</strong> Begleiteter 6-Wochen-Onlinekurs inkl. 4 intensiven 1:1-Online-Coachings.</li>
+<li><strong>Zielgruppe:</strong> Gesunde, reflektierte Menschen (hohe Kaufkraft) mit Leidensdruck durch negatives Denken, mangelnden Selbstwert und das Zurückstellen eigener Bedürfnisse.</li>
+<li><strong>Verkaufspreis:</strong> 1.450 € (Hoher Warenkorbwert).</li>
+<li><strong>Deine Provision:</strong> 50 % (ca. 660 € reiner Gewinn für dich pro Sale) – gilt auch für alle Ratenzahlungen.</li>
+<li><strong>Verkaufsargument:</strong> Hohe Conversion durch akademischen Titel (Dipl.-Psych.) und 7 Jahre bewährte Online-Praxis.</li>
+<li><strong>Werbemittel:</strong> Eine fertige, conversion-optimierte Verkaufsseite steht bereit.</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://onlinekurs-glaubenssaetze.psychologisch-spirituelle-beratung.de/wordpress/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56027/adminstore/
 - Sales page: https://onlinekurs-glaubenssaetze.psychologisch-spirituelle-beratung.de/wordpress/
 - Canonical redirect: https://www.digistore24.com/redir/650491/adminstore
 
@@ -90,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs:  Frei von inneren Blockaden  Die Macht deiner Gl? — Typ: Member area and video courses, Anbieter: Calls-und-Chats-26, gelistet seit 2025-11-23
-- Wie viel kostet es? — 1450.190872 USD
+- Wie viel kostet es? — 1446.955572 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

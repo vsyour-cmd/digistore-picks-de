@@ -4,16 +4,16 @@ digistore24_product_id: 707716
 title: "Tools für Finanzen & Lebensplanung"
 vendor: "mcdekoi"
 product_type: "Downloads"
-price: 16.01
+price: 15.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.01
+earnings_per_sale: 7.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-07-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://smart-internet-marketing.de/finanzplaner/?aff=adminstore#aff=adminstore"
 sales_page: "https://smart-internet-marketing.de/finanzplaner/"
@@ -22,16 +22,16 @@ language: "de"
 # Tools für Finanzen & Lebensplanung
 
 > Product ID `57430` · Digistore24 productId `707716` · [HTML profile page](../../produkte/tools-f-r-finanzen-lebensplanung-57430.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.01 (Single payment) |
+| Price | $15.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.01 |
+| Earnings/sale* | $7.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mcdekoi |
@@ -41,7 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Smart Internet Marketing entwickelt schlanke, browserbasierte Apps für konkrete finanzielle Lebensfragen — vom Haushaltsbudget über die Altersvorsorge bis zur Familienplanung. Alle Tools folgen demselben Prinzip: 100 % offline, keine Cloud, kein Tracking, komplett DSGVO-konform. Und einem ehrlichen Preismodell — Einmalkauf, wo ein Tool fertig ist und bleibt; Jahres-Abo nur dort, wo zugrunde liegen…
+**Vendor's marketplace description:** <p>Smart Internet Marketing entwickelt schlanke, browserbasierte Apps für konkrete finanzielle Lebensfragen — vom Haushaltsbudget über die Altersvorsorge bis zur Familienplanung. Alle Tools folgen demselben Prinzip: 100 % offline, keine Cloud, kein Tracking, komplett DSGVO-konform. Und einem ehrlichen Preismodell — Einmalkauf, wo ein Tool fertig ist und bleibt; Jahres-Abo nur dort, wo zugrunde liegende gesetzliche Werte sich jährlich ändern und ein echtes Update nötig ist. Kein austauschbares SaaS-Dashboard, sondern jedes Tool auf eine einzige, klar abgegrenzte Lebensphase zugeschnitten.</p>
+<p> </p>
+<p><strong>Aktuelle Produkte</strong></p>
+<ul>
+<li><strong>Privater Finanzplaner</strong> (17 €, einmalig) — zeigt in wenigen Minuten, wann im Jahr welche unregelmäßigen Zahlungen fällig werden (Versicherungen, Abos, Vereinsbeiträge) und wie viel man monatlich zurücklegen muss. Basiert auf einem einfachen 4-Konten-System.</li>
+<li><strong>Privater Rentenplaner</strong> (24 €/Jahr, Jahres-Abo) — zeigt, ob die gesetzliche Rente zusammen mit Betriebsrente, privater Vorsorge und Immobilie im Ruhestand reicht, inklusive Was-wäre-wenn-Simulator und PDF-Rentenreport. Jahres-Abo, weil sich die gesetzlichen Rentenwerte jährlich ändern.</li>
+<li><strong>Privater Familienplaner</strong> (19 €/Jahr, Jahres-Abo) — zeigt, wie sich das Haushaltsbudget während der Elternzeit verändert und ob Kindergeld oder Kinderfreibetrag mehr bringt, inklusive Familienkalender mit allen wichtigen Fristen und PDF-Report. Jahres-Abo, weil sich Kindergeld, Kinderfreibetrag und Grundfreibetrag jährlich ändern.</li>
+</ul>
+<p> </p>
+<p><strong>In Vorbereitung</strong></p>
+<ul>
+<li>Weitere Tools nach demselben Prinzip sind in Planung — jedes deckt eine eigene, klar abgegrenzte Lebensphase oder Finanzentscheidung ab, statt ein austauschbares Allzweck-Dashboard zu sein.</li>
+</ul>
+<p> </p>
+<p><strong>Provisionsmodell:</strong> 50 % auf jedes Produkt der Marke — unabhängig davon, ob Einmalkauf oder Jahres-Abo. </p>
+<p> </p>
+<p><strong>Warum verkauft sich das gut?</strong></p>
+<p>Jedes Tool löst ein konkretes, fast universelles Problem: unregelmäßige Ausgaben, die den Kontostand überraschen; eine Rentenauskunft, die niemand einordnen kann; eine Elternzeit, die das Haushaltsbudget durcheinanderwirft. Die niedrige Kaufhürde beim Finanzplaner (17 € einmalig) und die wiederkehrende Provision bei den Abo-Tools ergänzen sich gut für unterschiedliche Affiliate-Strategien. Und "100 % offline, 100 % DSGVO-konform" ist bei einem deutschsprachigen, datenschutzbewussten Publikum ein Verkaufsargument, das Cloud-Konkurrenten nicht bieten.</p>
+<p> </p>
+<p><strong>Zielgruppe</strong></p>
+<p>Deutschsprachiges Privatpublikum in unterschiedlichen Lebensphasen — je nach Tool:</p>
+<ul>
+<li>Finanzplaner: alle, die ihr Haushaltsbudget im Griff behalten wollen, vom Berufseinstieg bis zur Familie</li>
+<li>Rentenplaner: Berufstätige ab Mitte 30, die sich aktiv mit Altersvorsorge beschäftigen</li>
+<li>Familienplaner (kommend): (werdende) Eltern in der Familienplanungs- und Elternzeitphase</li>
+</ul>
+<p>Gemeinsamer Nenner: warmer, themenaffiner Traffic — Menschen, die bereits aktiv nach einer Lösung suchen, kein reiner Kalt-Traffic nötig.</p>
+<p> </p>
+<p><strong>Bewerbung</strong></p>
+<p>Passt zu Finanz-, Spar- und Budget-Creatorn, Eltern- und Familienblogs, Ratgeber-Kanälen zu Altersvorsorge, Finanz-Podcasts, Pinterest-Creatorn im Finance-Bereich sowie Facebook-Gruppen und Foren zu den jeweiligen Themen. Besonderheit dieser Marke für Affiliates: Wer im Finanzbereich über mehrere Lebensphasen hinweg publiziert, kann mit einer einzigen Partnerschaft mehrere passende Tools derselben Marke bewerben, statt sich auf ein Einzelprodukt zu beschränken.</p>
 
 ## 2. Links
 
@@ -81,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tools für Finanzen & Lebensplanung? — Typ: Downloads, Anbieter: mcdekoi, gelistet seit 2026-07-06
-- Wie viel kostet es? — 16.013374 USD
+- Wie viel kostet es? — 15.977649 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

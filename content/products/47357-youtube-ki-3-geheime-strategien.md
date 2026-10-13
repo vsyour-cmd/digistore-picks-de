@@ -4,34 +4,34 @@ digistore24_product_id: 541765
 title: "YouTube KI - 3 Geheime Strategien"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.43
+earnings_per_sale: 17.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-03-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.meinneuerlifestyle.vip/youtube-ki-content-maschine/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47357/adminstore/"
 sales_page: "https://www.meinneuerlifestyle.vip/youtube-ki-content-maschine/"
 language: "de"
 ---
 # YouTube KI - 3 Geheime Strategien
 
 > Product ID `47357` · Digistore24 productId `541765` · [HTML profile page](../../produkte/youtube-ki-3-geheime-strategien-47357.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.43 |
+| Earnings/sale* | $17.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe den Kurs: YouTube KI - 3 Geheime Strategien Das bekommt Deine Community: ✅ Rocke YouTube mit automatisiert mit KI! ✅ So macht man seine Abonnenten glücklich ✅ So wächst der YouTube Account schneller als alle andere mit KI ✅ Geldmaschine YouTube! So gehts... Sehr gute Conversion: Deine Community bekommt den YouTube Kurs und unzählige kostenlose Kurse als Geschenk dazu und Du verdienst am Up…
+**Vendor's marketplace description:** <p><strong>Bewerbe den Kurs: YouTube KI - 3 Geheime Strategien</strong></p>
+<p> </p>
+<p><span style="background-color:#ffff00;"><strong>Das bekommt Deine Community:</strong></span></p>
+<p><strong>✅ Rocke YouTube mit automatisiert mit KI! </strong></p>
+<p><strong>✅ So macht man seine Abonnenten glücklich</strong></p>
+<p><strong>✅ So wächst der YouTube Account schneller als alle andere mit KI</strong></p>
+<p><strong>✅ Geldmaschine YouTube! So gehts...</strong></p>
+<p> </p>
+<p><span style="background-color:#ffff00;"><strong>Sehr gute Conversion:</strong></span></p>
+<p><strong>Deine Community bekommt den YouTube Kurs und unzählige kostenlose Kurse als Geschenk dazu und Du verdienst am Upsell Prozess (YouTube Produkte) bis zu 137 Euro</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/youtube-ki-content-maschine/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47357/adminstore/
 - Sales page: https://www.meinneuerlifestyle.vip/youtube-ki-content-maschine/
 - Canonical redirect: https://www.digistore24.com/redir/541765/adminstore
 
@@ -66,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist YouTube KI - 3 Geheime Strategien? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-03-03
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

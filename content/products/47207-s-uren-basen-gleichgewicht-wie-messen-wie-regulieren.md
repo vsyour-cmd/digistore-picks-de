@@ -4,7 +4,7 @@ digistore24_product_id: 524155
 title: "Säuren/Basen-Gleichgewicht: Wie messen, wie regulieren"
 vendor: "JensBomholt"
 product_type: "Member area and video courses"
-price: 4.71
+price: 4.7
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.35
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2023-11-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/524155?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47207/adminstore/"
 sales_page: "https://www.digistore24.com/product/524155"
 language: "de"
 ---
 # Säuren/Basen-Gleichgewicht: Wie messen, wie regulieren
 
 > Product ID `47207` · Digistore24 productId `524155` · [HTML profile page](../../produkte/s-uren-basen-gleichgewicht-wie-messen-wie-regulieren-47207.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $4.71 (Single payment) |
+| Price | $4.70 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -41,11 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Säuren/Basen-Gleichgewicht messen und regulieren online-Kurs Säuren/Basen-Gleichgewicht: wie messen (Urin pH Tagesprofile) wie beurteilen (Tagesprofil, nicht Einzelwert) wie beeinflussen und regulieren Einflüsse - weit über die Ernährung hinaus korrekte Dosierung eines Basenmittels weshalb ist ein Basenmittel fundamental, und im Rahmen der heutigen Lebens- und Ernährungsweise als "Nahrungsergänzun…
+**Vendor's marketplace description:** <h1>Säuren/Basen-Gleichgewicht messen und regulieren online-Kurs</h1>
+<div> </div>
+<div>
+<h2><strong>Säuren/Basen-Gleichgewicht:</strong></h2>
+<ul>
+<li>wie <strong>messen</strong> (Urin pH <strong>Tagesprofile</strong>)</li>
+<li>wie <strong>beurteilen </strong>(Tagesprofil, nicht Einzelwert)</li>
+<li>wie beeinflussen und <strong>regulieren</strong>
+<ul>
+<li>Einflüsse - weit über die Ernährung hinaus</li>
+<li><strong>korrekte Dosierung</strong> eines Basenmittels</li>
+</ul>
+</li>
+<li>weshalb ist ein Basenmittel fundamental, und im Rahmen der heutigen Lebens- und Ernährungsweise als "Nahrungsergänzung" <strong>oft unverzichtbar</strong></li>
+</ul>
+<h2><strong>Sie bekommen</strong></h2>
+<ul>
+<li><strong>Anleitungen</strong> als PDF (zum <strong>Download</strong>), wie ich sie jahrelang meinen Patienten mitgegeben habe</li>
+<li>Ausführliche <strong>Erklärungen</strong> in ca. 1 Std <strong>Video, </strong>in dem ich die Anleitung Punkt für Punkt durchgehe</li>
+<li>Eine Reihe von <strong>Beispielen</strong>, wo das S/B-Gleichgewicht besonders wichtig ist: z.B. Schwangerschaft-Geburt-Stillzeit, Posturologie, Sport, Osteoporose ...</li>
+</ul>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/524155?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47207/adminstore/
 - Sales page: https://www.digistore24.com/product/524155
 - Canonical redirect: https://www.digistore24.com/redir/524155/adminstore
 
@@ -71,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Säuren/Basen-Gleichgewicht: Wie messen, wie regulieren? — Typ: Member area and video courses, Anbieter: JensBomholt, gelistet seit 2023-11-07
-- Wie viel kostet es? — 4.70652 USD
+- Wie viel kostet es? — 4.696020000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

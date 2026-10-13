@@ -4,16 +4,16 @@ digistore24_product_id: 498058
 title: "Kreativ.Management - CRM für Kreative"
 vendor: "Hochzeitmanagement"
 product_type: "Software"
-price: 827.44
+price: 825.59
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 48.76
+earnings_per_sale: 48.65
 cart_conversion_pct: 33
 cancel_rate_pct: 2.76
 categories: ["Business & Investment","Computer & Internet","Software"]
 listed_since: "2023-05-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://kreativ.management?aff=adminstore#aff=adminstore"
 sales_page: "https://kreativ.management"
@@ -22,16 +22,16 @@ language: "de"
 # Kreativ.Management - CRM für Kreative
 
 > Product ID `27356` · Digistore24 productId `498058` · [HTML profile page](../../produkte/kreativ-management-crm-f-r-kreative-27356.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $827.44 (Subscription) |
+| Price | $825.59 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $48.76 |
+| Earnings/sale* | $48.65 |
 | Cart conversion* | 33% |
 | Cancel rate* | 2.76% |
 | Vendor | Hochzeitmanagement |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 10% Lifetime-ProvisionenEinfacher wird es nicht! Mit Kreativ.Management haben kreative Unternehmen einen perfekten Überblick über ihre Kunden, Aufträge, Rechnungen, Verträge und E-Mails. Das individuelle Kontaktformular für die eigenen Webseite und die direkten automatischen Antworten an die Kunden erhöhen die Kundenbindung und weiters natürlich die Aufträge. Die Einrichtung und Bedienung ist kind…
+**Vendor's marketplace description:** <h4><em>10% Lifetime-Provisionen</em><br /><br />Einfacher wird es nicht!</h4>
+<p>Mit Kreativ.Management haben kreative Unternehmen einen perfekten Überblick über ihre Kunden, Aufträge, Rechnungen, Verträge und E-Mails. Das individuelle Kontaktformular für die eigenen Webseite und die direkten automatischen Antworten an die Kunden erhöhen die Kundenbindung und weiters natürlich die Aufträge. </p>
+<p>Die Einrichtung und Bedienung ist kinderleicht und geht extrem schnell. Darüber hinaus ist es zu 100 % DSGVO konform und bietet viele weitere Funktionen, damit man sich im Monat über 20 Stunden Arbeitszeit spart</p>
+<p><br />▶️ Auf Facebook und Google haben wir <strong>nur 5-Sterne Bewertungen!<br />▶️ </strong>Influencer und bekannte Persönlichkeiten wie <strong>Calvin Hollywood, Nina Schnitzenbaumer,</strong> <strong>Vicky Baumann, Carmen und Ingo</strong> uvm. empfehlen es bereits!</p>
+<p> </p>
+<h4>Deine Lifetime-Provisionen</h4>
+<p>Für jeden verkauften Zugang erhälst du eine <strong>Lifetime-Provision in Höhe von 10%!</strong></p>
+<p> </p>
+<p>Bei Fragen einfach an <a href="mailto:kontakt@hochzeit.management">kontakt@kreativ.management</a> melden.</p>
 
 ## 2. Links
 
@@ -92,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kreativ.Management - CRM für Kreative? — Typ: Software, Anbieter: Hochzeitmanagement, gelistet seit 2023-05-09
-- Wie viel kostet es? — 827.439834 USD
+- Wie viel kostet es? — 825.5938590000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

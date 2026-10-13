@@ -4,16 +4,16 @@ digistore24_product_id: 364829
 title: "Instagram online Kurs 3.0"
 vendor: "TanjaV"
 product_type: "Member area and video courses"
-price: 96.42
+price: 78.27
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 43.59
+earnings_per_sale: 43.49
 cart_conversion_pct: 11
 cancel_rate_pct: 0.72
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-12-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://tanjavallee.de/instagramonlinekurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://tanjavallee.de/instagramonlinekurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Instagram online Kurs 3.0
 
 > Product ID `35358` · Digistore24 productId `364829` · [HTML profile page](../../produkte/instagram-online-kurs-3-0-35358.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $96.42 (Single payment, Installment) |
+| Price | $78.27 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $43.59 |
+| Earnings/sale* | $43.49 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.72% |
 | Vendor | TanjaV |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Nehme jetzt am offiziellen Partnerprogramm von Tanja Vallee teil und erhalte Provisionen! Produkt: Instagram online Kurs 2.0 Pro Sale bekommst du 50 Prozent des Verkaufspreises plus Vergütung an allen Funnel-Folgeprodukten durch ggf. sogar Lifetime-Provisionen. Deine Vorteile: 50% Provision PLUS Provisionen auf alle Upsells (auch im Memberbereich) Hohe Kundenzufriedenheit
+**Vendor's marketplace description:** <p><span style="text-decoration:underline;">Nehme jetzt am offiziellen Partnerprogramm von Tanja Vallee teil und erhalte Provisionen!</span></p>
+<p><strong>Produkt: Instagram online Kurs 2.0</strong></p>
+<p><span style="background-color:#ffff00;">Pro Sale bekommst du <strong>50 Prozent</strong> des Verkaufspreises plus Vergütung an allen Funnel-Folgeprodukten durch ggf. sogar <strong>Lifetime-Provisionen.</strong></span></p>
+<div> </div>
+<div><span style="text-decoration:underline;"><strong>Deine Vorteile:</strong></span></div>
+<div> </div>
+<div>
+<ul>
+<li><strong>50% Provision</strong></li>
+<li><strong>PLUS Provisionen auf alle Upsells (auch im Memberbereich)</strong></li>
+<li><strong>Hohe Kundenzufriedenheit</strong></li>
+</ul>
+</div>
 
 ## 2. Links
 
@@ -66,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram online Kurs 3.0? — Typ: Member area and video courses, Anbieter: TanjaV, gelistet seit 2020-12-28
-- Wie viel kostet es? — 96.416424 USD
+- Wie viel kostet es? — 78.26700000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

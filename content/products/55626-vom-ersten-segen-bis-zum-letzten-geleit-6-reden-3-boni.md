@@ -4,16 +4,16 @@ digistore24_product_id: 669162
 title: "Vom ersten Segen bis zum letzten Geleit – 6 Reden + 3 Boni"
 vendor: "MadrigenumVerlag"
 product_type: "Downloads"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.43
+earnings_per_sale: 17.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-02-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://madrigenum.dworak.name/reden-bundle-vom-ersten-segen-bis-zum-letzten-geleit-4-vorlagen-3-boni/?aff=adminstore#aff=adminstore"
 sales_page: "https://madrigenum.dworak.name/reden-bundle-vom-ersten-segen-bis-zum-letzten-geleit-4-vorlagen-3-boni/"
@@ -22,16 +22,16 @@ language: "de"
 # Vom ersten Segen bis zum letzten Geleit – 6 Reden + 3 Boni
 
 > Product ID `55626` · Digistore24 productId `669162` · [HTML profile page](../../produkte/vom-ersten-segen-bis-zum-letzten-geleit-6-reden-3-boni-55626.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.43 |
+| Earnings/sale* | $17.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MadrigenumVerlag |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Helfen Sie Menschen, die richtigen Worte zu finden. 6 fix & fertige Redevorlagen für Taufe & Trauer (2x Mann/ 2x Frau/ 2x Kind). Inkl. 3 exklusiver Boni: In 5 Min. personalisiert, sicher vortragen ohne Lampenfieber & perfekte Redezeit-Garantie. Hohe Conversion durch „Copy & Paste“-Prinzip!Worte, die berühren – ohne den Stress des Schreibens.Jeder kennt diesen Moment: Ein freudiges Ereignis wie ein…
+**Vendor's marketplace description:** <p style="text-align:justify;"><strong>Helfen Sie Menschen, die richtigen Worte zu finden.</strong> <br /><br />6 fix &amp; fertige Redevorlagen für Taufe &amp; Trauer (2x Mann/ 2x Frau/ 2x Kind). Inkl. 3 exklusiver Boni: In 5 Min. personalisiert, sicher vortragen ohne Lampenfieber &amp; perfekte Redezeit-Garantie. <br /><br /><strong>Hohe Conversion durch „Copy &amp; Paste“-Prinzip!<br /><br />Worte, die berühren – ohne den Stress des Schreibens.</strong><br /><br />Jeder kennt diesen Moment: Ein freudiges Ereignis wie eine Taufe oder ein schwerer Abschied bei einer Beerdigung steht bevor – und man findet einfach nicht die richtigen Worte. Der Druck ist hoch, die Zeit knapp und das Lampenfieber groß.<br /><br />Mit dem Reden-Bundle „Vom ersten Segen bis zum letzten Geleit“ bieten Sie Ihren Kunden die perfekte Lösung. Dieses Paket enthält 6 professionell ausformulierte Redevorlagen, die tiefgründig, würdevoll und sofort einsatzbereit sind.<br /><br /><strong>Das ist im Bundle enthalten:</strong></p>
+<p style="text-align:justify;"><br />1. Trauerrede Mann: Kraftvoll &amp; stoisch mit Zitaten von Marcus Aurelius.</p>
+<p style="text-align:justify;">2. Trauerrede Frau: Hoffnungsvoll &amp; frei nach Oscar Wilde.</p>
+<p style="text-align:justify;">3. Trauerrede Mann (18-25)</p>
+<p style="text-align:justify;">4. Trauerrede Frau (18-25)</p>
+<p style="text-align:justify;">5. Taufrede Junge: Herzlich mit dem Bild der „Brücke zum Himmel“.</p>
+<p style="text-align:justify;">6. Taufrede Mädchen: Strahlend über das „Erblühen der Welt“.<br /><br /><br /></p>
 
 ## 2. Links
 
@@ -79,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom ersten Segen bis zum letzten Geleit – 6 Reden + 3 Boni? — Typ: Downloads, Anbieter: MadrigenumVerlag, gelistet seit 2026-02-16
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

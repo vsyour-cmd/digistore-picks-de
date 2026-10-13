@@ -4,16 +4,16 @@ digistore24_product_id: 556574
 title: "Live-Retreat: Bindungsängste und Verlustängste auflösen"
 vendor: "jennifersubke"
 product_type: "Seminar/event for recreation"
-price: 3.78
+price: 3.77
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 287.15
+earnings_per_sale: 286.51
 cart_conversion_pct: 16
 cancel_rate_pct: 7.05
 categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-06-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/556574?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/556574"
@@ -22,16 +22,16 @@ language: "de"
 # Live-Retreat: Bindungsängste und Verlustängste auflösen
 
 > Product ID `49818` · Digistore24 productId `556574` · [HTML profile page](../../produkte/live-retreat-bindungs-ngste-und-verlust-ngste-aufl-sen-49818.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar/event for recreation |
-| Price | $3.78 (Single payment, Installment) |
+| Price | $3.77 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $287.15 |
+| Earnings/sale* | $286.51 |
 | Cart conversion* | 16% |
 | Cancel rate* | 7.05% |
 | Vendor | jennifersubke |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Termin Das Seminar findet vom 24.04.bis 27.04.2025 im Seminarhotel Jonathan am schönen Chiemsee mitten in der Natur statt. Dabei kannst Du das Seminar direkt bei uns buchen.Seminarbeginn: 24.04. um 10:00 UhrSeminarende:27.04. um 14:00 Uhr Kosten Dein dabei sein beläuft sich auf € 2498 inkl MWST(zzgl. Unterkunftspauschale des Seminarhotels Jonathan, welche vor Ort zu begleichen ist - siehe 'Unterku…
+**Vendor's marketplace description:** <p><strong>Termin</strong></p>
+<p>Das Seminar findet vom 24.04.bis 27.04.2025 im Seminarhotel Jonathan am schönen Chiemsee mitten in der Natur statt. Dabei kannst Du das Seminar direkt bei uns buchen.<br /><br />Seminarbeginn: <br />24.04. um 10:00 Uhr<br /><br />Seminarende:<br />27.04. um 14:00 Uhr</p>
+<p> </p>
+<p><strong>Kosten</strong></p>
+<p>Dein dabei sein beläuft sich auf € 2498 inkl MWST<br /><br />(zzgl. Unterkunftspauschale des Seminarhotels Jonathan, welche vor Ort zu begleichen ist - siehe 'Unterkunft')</p>
+<p> </p>
+<p><strong>Unterkunft</strong></p>
+<p>Seminarhaus Jonathan<br />Kellerstraße 5<br />83339 Chieming OT Hart<br /><br />Einzelzimmer (419€)<br />Doppelzimmer (329€)<br /><br />Es gibt außerdem die Möglichkeit, extern zu übernachten oder zu zelten/campen. Deine Präferenz kannst Du uns bei der Buchung angeben und wir werden uns dann per E-Mail bei Dir melden.</p>
 
 ## 2. Links
 
@@ -79,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Live-Retreat: Bindungsängste und Verlustängste auflösen? — Typ: Seminar/event for recreation, Anbieter: jennifersubke, gelistet seit 2024-06-12
-- Wie viel kostet es? — 3.776422 USD
+- Wie viel kostet es? — 3.7679970000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

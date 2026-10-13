@@ -4,7 +4,7 @@ digistore24_product_id: 535521
 title: "Adressbuch Liebespraxis"
 vendor: "FreimutSelbst"
 product_type: "E-books"
-price: 8.38
+price: 8.36
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.84
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Fun & Games","Health & Fitness"]
 listed_since: "2024-01-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://freimutselbst.com/bookshop.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46909/adminstore/"
 sales_page: "https://freimutselbst.com/bookshop.html"
 language: "de"
 ---
 # Adressbuch Liebespraxis
 
 > Product ID `46909` · Digistore24 productId `535521` · [HTML profile page](../../produkte/adressbuch-liebespraxis-46909.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.38 (Single payment) |
+| Price | $8.36 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.84 |
 | Cart conversion* | — |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hrsg. Fairlagshaus Berlin. ISBN 978-3-8442-8565-9 Vor tausenden von Jahren wusste man in Indien, dass sexuelles Glück der Frau eine Frage der Praxis ist, die einfach weitergegeben wurde und selbstverständlich war. Osho und andere Zeitgenossen haben dieses Wissen wieder aufgegriffen, das inzwischen auch in der Sexualwissenschaft angekommen und von einigen Autoren/innen in eine populäre Form gegosse…
+**Vendor's marketplace description:** <div>
+<p>Hrsg. Fairlagshaus Berlin. ISBN 978-3-8442-8565-9</p>
+<p>Vor tausenden von Jahren wusste man in Indien, dass sexuelles Glück der Frau eine Frage der Praxis ist, die einfach weitergegeben wurde und selbstverständlich war. Osho und andere Zeitgenossen haben dieses Wissen wieder aufgegriffen, das inzwischen auch in der Sexualwissenschaft angekommen und von einigen Autoren/innen in eine populäre Form gegossen worden ist. Seitdem kann jeder wissen, dass „Bumsen“ und viele andere Arten gängiger sexueller Praxis brutale Folgen moderner Ausblendung des Bedürfnisses nach echter erfüllender Begegnung sind.</p>
+<p>Dieses Adressbuch will jene Erkenntnis aktiv verbreiten helfen und damit auch Glücksbringer sein. Es fasst das Herzstück des alten Wissens als kurzen Praxisweg zusammen und lässt Raum für eigene Notizen. Es kann aber auch einfach nur ein edles Merkbuch bleiben, das die Liebesfrage im Bewusstsein hält. Und es kann Wissen in die Zukunft tragen helfen, das sich immer wieder neu erwerben und verschenken lässt.</p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://freimutselbst.com/bookshop.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46909/adminstore/
 - Sales page: https://freimutselbst.com/bookshop.html
 - Canonical redirect: https://www.digistore24.com/redir/535521/adminstore
 
@@ -66,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Adressbuch Liebespraxis? — Typ: E-books, Anbieter: FreimutSelbst, gelistet seit 2024-01-22
-- Wie viel kostet es? — 8.382088000000001 USD
+- Wie viel kostet es? — 8.363388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

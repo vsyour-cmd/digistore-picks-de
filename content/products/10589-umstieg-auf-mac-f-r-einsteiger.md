@@ -4,34 +4,34 @@ digistore24_product_id: 74657
 title: "Umstieg auf Mac für Einsteiger"
 vendor: "FIMA2011"
 product_type: "Downloads"
-price: 23.53
+price: 23.48
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.77
+earnings_per_sale: 11.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2016-03-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.umstiegaufmac.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/10589/adminstore/"
 sales_page: "https://www.umstiegaufmac.de"
 language: "de"
 ---
 # Umstieg auf Mac für Einsteiger
 
 > Product ID `10589` · Digistore24 productId `74657` · [HTML profile page](../../produkte/umstieg-auf-mac-f-r-einsteiger-10589.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.53 (Single payment) |
+| Price | $23.48 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.77 |
+| Earnings/sale* | $11.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FIMA2011 |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Deine Vorteile als Affiliate - 12 fertige Werbebanner- 4 fertige Blog Artikel (Copy&Paste)- Social Media Bilder zum teilen- Logos zur Integration in deine Webseite Jetzt "Umstieg auf Mac" Videokurs bewerben ... ... und sofort loslegen! Zur Affiliate Support Seite (Klick) Zielgruppen sind:- Mac Einsteiger- PC Umsteiger auf Mac- Senioren- Computerkurs Interessenten- Unternehmen die auf Mac umstellen…
+**Vendor's marketplace description:** <h1><span style="color:#ffffff;background-color:#339966;"><strong>Deine Vorteile als Affiliate</strong></span></h1>
+<h2>- 12 fertige Werbebanner<br />- 4 fertige Blog Artikel (Copy&amp;Paste)<br />- Social Media Bilder zum teilen<br />- Logos zur Integration in deine Webseite</h2>
+<h2>Jetzt "Umstieg auf Mac" Videokurs bewerben ...</h2>
+<h2>... und sofort loslegen!</h2>
+<h1><span style="background-color:#339966;color:#ffffff;"><a style="background-color:#339966;color:#ffffff;" title="Umstieg auf Mac Affiliate Programm" href="http://www.umstiegaufmac.de/partnerprogramm-affiliate/" target="_blank" rel="noreferrer noopener">Zur Affiliate Support Seite (Klick)</a></span></h1>
+<h2><strong>Zielgruppen sind:</strong><br /><br /><strong>- Mac Einsteiger</strong><br /><strong>- PC Umsteiger auf Mac</strong><br /><strong>- Senioren</strong><br /><strong>- Computerkurs Interessenten<br />- Unternehmen die auf Mac umstellen<br />- Computerschulen</strong></h2>
+<p><strong>Um so vielen Webseitenbetreibern und Listeninhabern die Teilnahme am Partnerprogramm zu ermöglichen, biete ich einen Sonderservice für zielgruppenspezifische Werbung an. </strong></p>
+<p><strong>Für diese Vertriebspartner stelle ich nach vorheriger Anfrage (Mail an <a href="mailto:amim@freenet.de">amim@freenet.de</a>) maßgeschneiderte Werbemittel wie z.B. Squeezepages, Branchenspezifische Banner und Newsletter-Texte zur Verfügung.</strong></p>
+<p><strong>Video Kurs Inhalte:</strong></p>
+<p><strong>13 Lektionen zum anschauen, lernen und umsetzen (Plus Bonuslektionen)</strong></p>
+<p><strong>Lektion 1 - Finder Dateiverwaltung</strong><br /><strong>Lektion 2 - Dockleiste und grundlegende Einstellungen</strong><br /><strong>Lektion 3 - Trackpad Bedienung</strong><br /><strong>Lektion 4 - Erweiterte Einstellungen</strong><br /><strong>Lektion 5 - Die Menüleiste</strong><br /><strong>Lektion 6 - Tastatur Shortcuts</strong><br /><strong>Lektion 7 - Programme installieren, deinstallieren und verwalten</strong><br /><strong>Lektion 8 - Nützliche Zusatz-Programme</strong><br /><strong>Lektion 9 - Cloud Speicherdienste</strong><br /><strong>Lektion 10 - Spotlight Suche optimal nutzen</strong><br /><strong>Lektion 11 - Vorinstallierte Programme erklärt</strong><br /><strong>Lektion 12 - Das eingebaute Mailprogramm</strong><br /><strong>Lektion 13 - Safari Browser Bedienung und Einstellungen</strong></p>
+<p><strong>Zusätzliche Funktionen und der Bonus!</strong></p>
+<p><strong>- Forum zur Beantwortung individueller Fragen</strong><br /><strong>- Bonus #1: 25 Shortcuts zur effektiven Arbeit am Mac</strong><br /><strong>- Bonus #2: Meine Favoriten-Funktionen am Mac<br />- Bonus #3: 2 E-Books zum Thema Umstieg auf Mac</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.umstiegaufmac.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/10589/adminstore/
 - Sales page: https://www.umstiegaufmac.de
 - Vendor affiliate support: https://www.umstiegaufmac.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/74657/adminstore
@@ -79,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Umstieg auf Mac für Einsteiger? — Typ: Downloads, Anbieter: FIMA2011, gelistet seit 2016-03-10
-- Wie viel kostet es? — 23.532600000000002 USD
+- Wie viel kostet es? — 23.4801 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 736407
 title: "Landingpage erstellen für Anfänger – Praxiskurs mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 29.76
+earnings_per_sale: 29.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736407?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736407"
@@ -22,16 +22,16 @@ language: "de"
 # Landingpage erstellen für Anfänger – Praxiskurs mit Matze
 
 > Product ID `59582` · Digistore24 productId `736407` · [HTML profile page](../../produkte/landingpage-erstellen-f-r-anf-nger-praxiskurs-mit-matze-59582.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $29.76 |
+| Earnings/sale* | $29.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Landingpage erstellen für Anfänger – Praxiskurs mit Matze Angebotsseite texten, mobil prüfen und den Anfrageweg testen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: einen Seitenentwurf mit Text, Layout und geprüftem Formular- oder Kaufweg. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt. Das l…
+**Vendor's marketplace description:** <p>Landingpage erstellen für Anfänger – Praxiskurs mit Matze</p>
+<p>Angebotsseite texten, mobil prüfen und den Anfrageweg testen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: einen Seitenentwurf mit Text, Layout und geprüftem Formular- oder Kaufweg. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt.</p>
+<p>Das lernst du:<br />1. Ziel und Besucher verstehen<br />2. Ein überprüfbares Nutzenversprechen<br />3. Seitenfolge und Belege<br />4. Text und Handlungsaufruf<br />5. Technik und Zugriff prüfen<br />6. Auswertung ohne Scheingenauigkeit</p>
+<p>Für wen? Einsteiger, die eine klare Angebotsseite für eine konkrete Handlung gestalten möchten.</p>
+<p>Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben.</p>
+<p>Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %.</p>
+<p>Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.</p>
 
 ## 2. Links
 
@@ -80,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Landingpage erstellen für Anfänger – Praxiskurs mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

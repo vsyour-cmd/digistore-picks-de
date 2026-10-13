@@ -4,16 +4,16 @@ digistore24_product_id: 638069
 title: "Meilen Master - besser und günstiger Reisen mit Meilen"
 vendor: "meilenweit_reisen_"
 product_type: "Member area and video courses"
-price: 7.69
+price: 7.67
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 34.38
+earnings_per_sale: 34.3
 cart_conversion_pct: 21
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2025-09-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://meilenweitreisen.app.mentortools.com/meilen-master-kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://meilenweitreisen.app.mentortools.com/meilen-master-kurs"
@@ -22,16 +22,16 @@ language: "de"
 # Meilen Master - besser und günstiger Reisen mit Meilen
 
 > Product ID `55278` · Digistore24 productId `638069` · [HTML profile page](../../produkte/meilen-master-besser-und-g-nstiger-reisen-mit-meilen-55278.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $7.69 (Single payment, Installment) |
+| Price | $7.67 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $34.38 |
+| Earnings/sale* | $34.30 |
 | Cart conversion* | 21% |
 | Cancel rate* | 0% |
 | Vendor | meilenweit_reisen_ |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Besser reisen und dabei Geld sparen? Kein Problem wenn du weißt wie du mit Alltagsausgaben Meilen sammeln kannst. Diese Meilen kannst du dann nutzen um bis zu 90% deiner Reisekosten zu sparen. Business Class nach New York und zurück für 140 EUR? Yes, please! Der Kurs zeigt dir wie du JEDE deiner Ausgaben zu wertvollen Meilen machst - egal ob Lebensmittel, Online Shopping, Miete oder deine Stromrec…
+**Vendor's marketplace description:** <p>Besser reisen und dabei Geld sparen? Kein Problem wenn du weißt wie du mit Alltagsausgaben Meilen sammeln kannst.</p>
+<p>Diese Meilen kannst du dann nutzen um bis zu 90% deiner Reisekosten zu sparen. </p>
+<p>Business Class nach New York und zurück für 140 EUR? Yes, please!</p>
+<p>Der Kurs zeigt dir wie du JEDE deiner Ausgaben zu wertvollen Meilen machst - egal ob Lebensmittel, Online Shopping, Miete oder deine Stromrechnung.</p>
+<p>Zusätzlich bekommst du alles an die Hand was du brauchst um deine Meilen bestmöglich für die Buchung von Flügen einzusetzen.</p>
 
 ## 2. Links
 
@@ -89,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Meilen Master - besser und günstiger Reisen mit Meilen? — Typ: Member area and video courses, Anbieter: meilenweit_reisen_, gelistet seit 2025-09-26
-- Wie viel kostet es? — 7.687316000000001 USD
+- Wie viel kostet es? — 7.670166000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

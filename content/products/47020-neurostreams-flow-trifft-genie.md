@@ -4,16 +4,16 @@ digistore24_product_id: 21779
 title: "Neurostreams™ Flow trifft Genie"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.72
+earnings_per_sale: 12.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2014-02-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.neurostreams.de/portfolio/im-flow/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.neurostreams.de/portfolio/im-flow/"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ Flow trifft Genie
 
 > Product ID `47020` · Digistore24 productId `21779` · [HTML profile page](../../produkte/neurostreams-flow-trifft-genie-47020.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.72 |
+| Earnings/sale* | $12.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Flow trifft Genie" - der Allrounder unter den Neurostreams. Sofort-Download. Konzentrationsfähigkeit nachhaltig verbessern, Stimmung aufhellen, Angst loswerden und Stress vermeiden, mentale Kontrolle verbessern. Jede dieser 10 abwechslungsreichen Sessions dauert 30 Minuten. Sie können mit offenen Augen (und nebenbei) angehört werden. Stereo-Kopfhörer empfohlen, aber nicht unbedingt nötig. Alle Ne…
+**Vendor's marketplace description:** <p>"Flow trifft Genie" - der Allrounder unter den Neurostreams.</p>
+<p><strong>Sofort-Download.</strong></p>
+<p>Konzentrationsfähigkeit nachhaltig verbessern, Stimmung aufhellen, Angst loswerden und Stress vermeiden, mentale Kontrolle verbessern.</p>
+<p>Jede dieser 10 abwechslungsreichen Sessions dauert 30 Minuten. Sie können mit offenen Augen (und nebenbei) angehört werden.</p>
+<p>Stereo-Kopfhörer empfohlen, aber nicht unbedingt nötig.</p>
+<p>Alle Neurostreams™ sind jederzeit auf<strong> unbegrenzt viele </strong>Geräte übertragbar und können <strong>beliebig oft </strong>angehört werden!</p>
+<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
+<p>Dateigröße: ca. 300 MB</p>
+<p><strong>2 Jahre </strong>Produktsupport inklusive.</p>
 
 ## 2. Links
 
@@ -82,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Flow trifft Genie? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2014-02-24
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

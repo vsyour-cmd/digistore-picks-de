@@ -4,16 +4,16 @@ digistore24_product_id: 609640
 title: "Webseite in 48 – Webseiten-Paket zum Upload"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 83.44
+price: 83.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 129.22
+earnings_per_sale: 128.93
 cart_conversion_pct: 4
 cancel_rate_pct: 0.81
 categories: ["Computer & Internet","Online Marketing"]
 listed_since: "2025-04-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://jyotimaflak.com/webseitein48h?aff=adminstore#aff=adminstore"
 sales_page: "https://jyotimaflak.com/webseitein48h"
@@ -22,16 +22,16 @@ language: "de"
 # Webseite in 48 – Webseiten-Paket zum Upload
 
 > Product ID `52918` · Digistore24 productId `609640` · [HTML profile page](../../produkte/webseite-in-48-webseiten-paket-zum-upload-52918.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.44 (Single payment, Installment) |
+| Price | $83.25 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $129.22 |
+| Earnings/sale* | $128.93 |
 | Cart conversion* | 4% |
 | Cancel rate* | 0.81% |
 | Vendor | Jyotima |
@@ -41,7 +41,62 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In nur 48 Stunden zur eigenen Webseite – professionell, einfach und ohne Technik-Stress. Inklusive zwei Landingpages! Perfekt fürs Coaching-Business: In 48 Stunden ready to sell! Von Jyotima Flak, Top-Expertin im Bereich Online-MarketingWordPress-Webseite in 48 Stunden: Verkaufsstark, 9 Seiten inklusive 2 Landingpages!Inklusive: • Komplett fertige WordPress-Webseite mit Divi-Templates – individuel…
+**Vendor's marketplace description:** <p><strong>In nur 48 Stunden zur eigenen Webseite – professionell, einfach und ohne Technik-Stress. Inklusive zwei Landingpages! Perfekt fürs Coaching-Business: In 48 Stunden ready to sell! <br /><br />Von Jyotima Flak, Top-Expertin im Bereich Online-Marketing<br /><br />WordPress-Webseite in 48 Stunden:</strong> Verkaufsstark, 9 Seiten inklusive 2 Landingpages!<br /><br /><strong>Inklusive:</strong></p>
+<div>
+<div>
+<div>
+<div>
+<p><strong>• Komplett fertige WordPress-Webseite mit Divi-Templates</strong> – individuell anpassbar! Upload in wenigen Minuten als komplette Webseite oder Einzelseiten!</p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<p><strong>• 9 gestaltete Seiten</strong>: Startseite, Über mich, Angebote, Kontakt, Rechtliches + 2 Landingpages für Freebie, Workshop oder Onlinekurs!</p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<p><strong>• Texthilfen und Textvorlagen mit Positionierungs-Workbook</strong>, die deine Zielgruppe direkt ansprechen!</p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<p><strong>• Design-Guides, Farbcodes und Canva-Vorlagen</strong> für Bilder und Grafiken, damit deine Webseite ein Juwel wird!</p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<p><strong>• SEO-Starttipps</strong>, wie du Bilder und Texte optimierst, damit dich deine Kundinnen im Internet finden und buchen!</p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<p><strong>• Rechtliche Seiten</strong> (Datenschutz, Impressum, Cookie-Banner) bereits vorinstalliert, starte unbesorgt in deine Sichtbarkeit!<br /><br /><br />Mehr Infos: <a href="https://jyotimaflak.com/webseitein48h/">https://jyotimaflak.com/webseitein48h/</a><br />Supportseite: <a href="https://jyotimaflak.com/partner-werden/">https://jyotimaflak.com/partner-werden/</a></p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -86,7 +141,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Webseite in 48 – Webseiten-Paket zum Upload? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2025-04-28
-- Wie viel kostet es? — 83.439876 USD
+- Wie viel kostet es? — 83.253726 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

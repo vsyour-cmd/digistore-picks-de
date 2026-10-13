@@ -4,16 +4,16 @@ digistore24_product_id: 657479
 title: "90 Tage - Struktur, Klarheit und innere Stabilität"
 vendor: "Niux489"
 product_type: "Downloads"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 37.29
+earnings_per_sale: 37.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-12-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://niux.my.canva.site/90tage-eine-entscheidung?aff=adminstore#aff=adminstore"
 sales_page: "https://niux.my.canva.site/90tage-eine-entscheidung"
@@ -22,16 +22,16 @@ language: "de"
 # 90 Tage - Struktur, Klarheit und innere Stabilität
 
 > Product ID `55058` · Digistore24 productId `657479` · [HTML profile page](../../produkte/90-tage-struktur-klarheit-und-innere-stabilit-t-55058.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $37.29 |
+| Earnings/sale* | $37.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Niux489 |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 90 Tage – Struktur, Klarheit & innere Stabilität Dieses 90-Tage-Programm richtet sich an Menschen, die sich festgefahren fühlen, innerlich unruhig sind oder den Kontakt zu sich selbst verloren haben.Es bietet einen klaren, ruhigen Rahmen, um Schritt für Schritt wieder Struktur, Orientierung und Stabilität im Alltag aufzubauen. Das Programm verzichtet bewusst auf Druck, Selbstoptimierungszwang oder…
+**Vendor's marketplace description:** <p><strong>90 Tage – Struktur, Klarheit &amp; innere Stabilität</strong></p>
+<p>Dieses 90-Tage-Programm richtet sich an Menschen, die sich festgefahren fühlen, innerlich unruhig sind oder den Kontakt zu sich selbst verloren haben.<br />Es bietet einen klaren, ruhigen Rahmen, um Schritt für Schritt wieder Struktur, Orientierung und Stabilität im Alltag aufzubauen.</p>
+<p>Das Programm verzichtet bewusst auf Druck, Selbstoptimierungszwang oder unrealistische Versprechen.<br />Im Fokus stehen kleine, machbare Schritte, die langfristig wirken – ohne Überforderung.</p>
+<hr />
+<h3> </h3>
 
 ## 2. Links
 
@@ -67,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 90 Tage - Struktur, Klarheit und innere Stabilität? — Typ: Downloads, Anbieter: Niux489, gelistet seit 2025-12-26
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

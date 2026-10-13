@@ -4,16 +4,16 @@ digistore24_product_id: 689909
 title: "Nexus Academy - New Era x Ultimate Scale"
 vendor: "bandolero"
 product_type: "Member area and video courses"
-price: 146.9
+price: 146.57
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 66.1
+earnings_per_sale: 65.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/689909?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/689909"
@@ -22,16 +22,16 @@ language: "de"
 # Nexus Academy - New Era x Ultimate Scale
 
 > Product ID `57512` · Digistore24 productId `689909` · [HTML profile page](../../produkte/nexus-academy-new-era-x-ultimate-scale-57512.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $146.90 (Single payment, Installment) |
+| Price | $146.57 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $66.10 |
+| Earnings/sale* | $65.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bandolero |
@@ -41,7 +41,34 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das ultimative, vollautomatisierte System für High-End-Skills & Social-Media-Vertrieb. Unser hochkonvertierender Funnel verwandelt kalten Traffic in Rekordzeit in Sales. DEINE VORTEILE ALS AFFILIATE: 45 % Provision auf das Hauptprodukt (gemäß Digistore24-Provisionsmodell). High-Converting Funnel: Maximale Conversion-Rates und minimale Stornoquoten. Ready-to-use Werbemittel: Hochkonvertierende Stor…
+**Vendor's marketplace description:** <p>Das ultimative, vollautomatisierte System für High-End-Skills &amp; Social-Media-Vertrieb. Unser hochkonvertierender Funnel verwandelt kalten Traffic in Rekordzeit in Sales.</p>
+<h3>DEINE VORTEILE ALS AFFILIATE:</h3>
+<ul>
+<li><strong>45 % Provision</strong> auf das Hauptprodukt (gemäß Digistore24-Provisionsmodell).</li>
+</ul>
+<p> </p>
+<ul>
+<li>
+<p><strong>High-Converting Funnel:</strong> Maximale Conversion-Rates und minimale Stornoquoten.</p>
+</li>
+<li>
+<p><strong>Ready-to-use Werbemittel:</strong> Hochkonvertierende Story-Vorlagen, Copy-Vorlagen und Videos stehen sofort bereit.</p>
+</li>
+</ul>
+<hr />
+<h3>WAS IST DIE NEXUS ACADEMY?</h3>
+<p>Kein theoretisches Gelaber, sondern nackte Praxis-Execution in 4 starken Modulen:</p>
+<ul>
+<li>
+<p><strong>START &amp; CORE:</strong> Technische Basics, Digistore24-Setup und virale Instagram-Reichweite (PV-Strategie).</p>
+</li>
+<li>
+<p><strong>SALES &amp; MIND:</strong> Premium Einwandbehandlung, High-Ticket Closing und unerschütterliche Gewinner-Mentalität.</p>
+</li>
+</ul>
+<hr />
+<h3>JETZT PARTNERSCHAFT AKTIVIEREN!</h3>
+<p>Klicke auf <strong>"Partnerschaft aktivieren"</strong>, schnapp dir deine Links und sichere dir deine 45% (gemäß Digistore24-Provisionsmodell).</p>
 
 ## 2. Links
 
@@ -88,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nexus Academy - New Era x Ultimate Scale? — Typ: Member area and video courses, Anbieter: bandolero, gelistet seit 2026-07-13
-- Wie viel kostet es? — 146.89945400000002 USD
+- Wie viel kostet es? — 146.571729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

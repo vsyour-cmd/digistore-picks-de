@@ -4,16 +4,16 @@ digistore24_product_id: 659279
 title: "Faszien-Yoga Onlinekurs – 50 % Affiliate-Provision"
 vendor: "Result13"
 product_type: "Member area and video courses"
-price: 281.56
+price: 280.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 140.78
+earnings_per_sale: 140.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-01-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/659279?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/659279"
@@ -22,16 +22,16 @@ language: "de"
 # Faszien-Yoga Onlinekurs – 50 % Affiliate-Provision
 
 > Product ID `55922` · Digistore24 productId `659279` · [HTML profile page](../../produkte/faszien-yoga-onlinekurs-50-affiliate-provision-55922.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $281.56 (Single payment) |
+| Price | $280.93 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $140.78 |
+| Earnings/sale* | $140.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Result13 |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Professioneller Faszien-Yoga-Onlinekurs für Menschen, die beweglicher bleiben oder wieder beweglicher werden möchten. Der Kurs umfasst 10 ausführliche Online-Einheiten für den gesamten Körper und kann zeit- und ortsunabhängig zu Hause absolviert werden. Ideal auch für Menschen, die viel sitzen, sich im Alltag einseitig bewegen oder einen sinnvollen Ausgleich zu anderen Sportarten suchen. Entwickel…
+**Vendor's marketplace description:** <p>Professioneller Faszien-Yoga-Onlinekurs für Menschen, die beweglicher bleiben oder wieder beweglicher werden möchten. Der Kurs umfasst 10 ausführliche Online-Einheiten für den gesamten Körper und kann zeit- und ortsunabhängig zu Hause absolviert werden.</p>
+<p>Ideal auch für Menschen, die viel sitzen, sich im Alltag einseitig bewegen oder einen sinnvollen Ausgleich zu anderen Sportarten suchen.</p>
+<p>Entwickelt wurde der Kurs von Elke Maria Krist, Heilpraktikerin, Schmerztherapeutin und Faszien-Yogalehrerin mit über 20 Jahren therapeutischer Erfahrung.</p>
+<p>Für Affiliates besonders interessant: 50 % Provision pro erfolgreich vermitteltem Verkauf – bei einem regulären Verkaufspreis von 299 € rund 150 € Provision. Eine ausführliche Affiliate-Support-Seite mit Promolink, Informationen zum Kurs, Werbemitteln und Kontaktmöglichkeit steht zur Verfügung.</p>
 
 ## 2. Links
 
@@ -83,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Faszien-Yoga Onlinekurs – 50 % Affiliate-Provision? — Typ: Member area and video courses, Anbieter: Result13, gelistet seit 2026-01-06
-- Wie viel kostet es? — 281.561956 USD
+- Wie viel kostet es? — 280.933806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

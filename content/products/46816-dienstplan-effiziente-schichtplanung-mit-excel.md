@@ -4,16 +4,16 @@ digistore24_product_id: 525719
 title: "Dienstplan: Effiziente Schichtplanung mit Excel"
 vendor: "CemisCode"
 product_type: "Downloads"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 4.62
+earnings_per_sale: 4.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Software"]
 listed_since: "2023-11-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.cemiscode.com/dienstplan/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.cemiscode.com/dienstplan/"
@@ -22,16 +22,16 @@ language: "de"
 # Dienstplan: Effiziente Schichtplanung mit Excel
 
 > Product ID `46816` · Digistore24 productId `525719` · [HTML profile page](../../produkte/dienstplan-effiziente-schichtplanung-mit-excel-46816.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $4.62 |
+| Earnings/sale* | $4.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CemisCode |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das ist der ultimative Dienstplanungsassistent für Unternehmen aller Art! Mit diesem Excel Tool wird die Verwaltung von Schichten, Urlauben, und Qualifikationen zum Kinderspiel. So können die Arbeitsprozesse optimiert und der Aufwand für die Planung des Personals minimiert werden. Auf meiner Website findet sich noch eine detaillierte Beschreibung des Tools und seiner Vorteile: Tools – Cemi's Code …
+**Vendor's marketplace description:** <p>Das ist der ultimative Dienstplanungsassistent für Unternehmen aller Art! Mit diesem Excel Tool wird die Verwaltung von Schichten, Urlauben, und Qualifikationen zum Kinderspiel. So können die Arbeitsprozesse optimiert und der Aufwand für die Planung des Personals minimiert werden.</p>
+<p>Auf meiner Website findet sich noch eine detaillierte Beschreibung des Tools und seiner Vorteile: <a href="https://www.cemiscode.com/excel-tools/" target="_blank" rel="noreferrer noopener">Tools – Cemi's Code (cemiscode.com)</a></p>
+<p>Auf meinem YouTube Kanal Cemis Code habe ich ein Video Tutorial in dem ich zeige, wie das Tool gebaut wird <a href="https://youtu.be/Ej8S8JsvTKA" target="_blank" rel="noreferrer noopener">YouTube Tutorial</a></p>
+<p>Dort ist alles Schritt für Schritt erklärt, bis auf das Qualifikationsmanagement, das gibt es nur in der zu erwerbenden Vorlage. Zu Beginn des Videos zeige ich was das Tool kann.</p>
 
 ## 2. Links
 
@@ -70,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dienstplan: Effiziente Schichtplanung mit Excel? — Typ: Downloads, Anbieter: CemisCode, gelistet seit 2023-11-17
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

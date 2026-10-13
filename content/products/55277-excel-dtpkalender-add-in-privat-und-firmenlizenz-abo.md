@@ -4,34 +4,34 @@ digistore24_product_id: 660386
 title: "Excel DTPKalender Add-In | Privat- Und Firmenlizenz (ABO)"
 vendor: "KnappEDV"
 product_type: "Software"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.49
+earnings_per_sale: 19.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-01-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.knapp-edv.de/dtpkalender?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55277/adminstore/"
 sales_page: "https://www.knapp-edv.de/dtpkalender"
 language: "de"
 ---
 # Excel DTPKalender Add-In | Privat- Und Firmenlizenz (ABO)
 
 > Product ID `55277` · Digistore24 productId `660386` · [HTML profile page](../../produkte/excel-dtpkalender-add-in-privat-und-firmenlizenz-abo-55277.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $64.97 (Subscription) |
+| Price | $64.83 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.49 |
+| Earnings/sale* | $19.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KnappEDV |
@@ -41,11 +41,41 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DTPKalender 2.0 - Das professionelle Excel-Kalender Add-In ✅ Bidirektionale Datums-Synchronisation ✅ Deutsche Feiertage aller Bundesländer ✅ Deutsche Schulferien aller Bundesländer ✅ Eigene Termine, Notizen, Weblinks einbinden ✅ Verlinkung von Dateien und Verzeichnissen ✅ DSGVO-konform (keine Cloud, offline) ✅ EV signiert und kompiliert ✅ Profile zur kategorisierten Verwaltung der Einträge PRODUKT…
+**Vendor's marketplace description:** <p><strong>DTPKalender 2.0 - Das professionelle Excel-Kalender Add-In</strong></p>
+<p>✅ Bidirektionale Datums-Synchronisation <br />✅ Deutsche Feiertage aller Bundesländer <br />✅ Deutsche Schulferien aller Bundesländer <br />✅ Eigene Termine, Notizen, Weblinks einbinden <br />✅ Verlinkung von Dateien und Verzeichnissen <br />✅ DSGVO-konform (keine Cloud, offline) <br />✅ EV signiert und kompiliert <br />✅ Profile zur kategorisierten Verwaltung der Einträge</p>
+<p><strong>PRODUKTVARIANTEN:</strong></p>
+<p><strong>Privatlizenz — 49€ (Einmalzahlung)</strong></p>
+<ul>
+<li>1 Nutzer / privater Einsatz</li>
+<li>Einmalige Zahlung, keine Folgekosten</li>
+<li>Standard-Support per E-Mail</li>
+<li>14-tägige kostenlose Testversion</li>
+</ul>
+<p><strong>Firmenlizenz — 69€/Jahr (Abo)</strong></p>
+<ul>
+<li>Gewerblicher Einsatz</li>
+<li>Jährliche Zahlung inkl. Updates &amp; neue Features</li>
+<li>Erweiterter prioritärer Support</li>
+<li>Netzwerk- &amp; Mehrbenutzereinsatz möglich</li>
+</ul>
+<p><strong>STAFFELPROVISION:</strong></p>
+<ul>
+<li>Privatlizenz: ab 30%</li>
+<li>Firmenlizenz: ab 30% Jahresprovision</li>
+</ul>
+<p><strong>ZIELGRUPPE:</strong> <br />Excel-Nutzer von Standard bis Excel Poweruser</p>
+<p><strong>PERFEKT FÜR:</strong></p>
+<ul>
+<li>Selbstständige &amp; Freelancer</li>
+<li>Projektmanager &amp; Team-Koordinatoren</li>
+<li>Kleine bis mittlere Unternehmen</li>
+<li>Excel-Standard und Power-User</li>
+</ul>
+<p><strong>VERKAUFSARGUMENTE:<br /></strong> <br />✅ Excel ab 2016 bis Microsoft 365<br />✅ 32/64bit, Win 10/11 <br />✅ Niedriger Einstiegspreis (49€) <br />✅ 14-tägige kostenlose Testversion verfügbar <br />✅ Deutscher Support <br />✅ 30 Jahre Entwicklungserfahrung <br />✅ Made in Germany</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.knapp-edv.de/dtpkalender?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55277/adminstore/
 - Sales page: https://www.knapp-edv.de/dtpkalender
 - Vendor affiliate support: https://www.knapp-edv.de/affiliatedtpkalender
 - Canonical redirect: https://www.digistore24.com/redir/660386/adminstore
@@ -75,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Excel DTPKalender Add-In | Privat- Und Firmenlizenz (ABO)? — Typ: Software, Anbieter: KnappEDV, gelistet seit 2026-01-10
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

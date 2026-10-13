@@ -4,7 +4,7 @@ digistore24_product_id: 459781
 title: "Genealogie Einsteigerheft"
 vendor: "MelanzDesign"
 product_type: "Deliverable"
-price: 8.38
+price: 8.36
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.84
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2022-09-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://jugend-forscher.de/allgemein/heft-no-1/?aff=adminstore#aff=adminstore"
 sales_page: "https://jugend-forscher.de/allgemein/heft-no-1/"
@@ -22,14 +22,14 @@ language: "de"
 # Genealogie Einsteigerheft
 
 > Product ID `41380` · Digistore24 productId `459781` · [HTML profile page](../../produkte/genealogie-einsteigerheft-41380.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $8.38 (Single payment) |
+| Price | $8.36 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.84 |
 | Cart conversion* | — |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du hast einen Blog, eine Webseite oder bist in den sozialen Medien in Sachen Ahnenforschung/Genealogie oder Geschichte unterwegs und möchtest Einsteigern mit diesem Heft eine praktische Ausfüllhilfe an die Hand geben? Das Heft wird in Din A5 geliefert und umfasst die ersten 4 Vorfahrengenerationen. Optimal also, um die Großeltern zu ihren Eltern und Großeltern zu befragen! Das Jugend-Forscher-Proj…
+**Vendor's marketplace description:** <p>Du hast einen Blog, eine Webseite oder bist in den sozialen Medien in Sachen Ahnenforschung/Genealogie oder Geschichte unterwegs und möchtest Einsteigern mit diesem Heft eine praktische Ausfüllhilfe an die Hand geben?</p>
+<p>Das Heft wird in Din A5 geliefert und umfasst die ersten 4 Vorfahrengenerationen. Optimal also, um die Großeltern zu ihren Eltern und Großeltern zu befragen!</p>
+<p>Das Jugend-Forscher-Projekt richtet sich an jugendliche Ahnenforscher bei ihrem Einstieg in die Genealogie, kann aber natürlich auch von allen älteren Anfängern genutzt werden.</p>
+<p><em>Interessierte Affiliatepartner senden bitte parallel zur Anfrage auf Digistore24 eine Mail an <a href="mailto:affiliates@jugend-forscher.de">affiliates@jugend-forscher.de</a> mit der kurzen Information, auf welchen Portalen (Adresse/Nutzername) sie das Heft bewerben wollen.</em></p>
 
 ## 2. Links
 
@@ -70,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Genealogie Einsteigerheft? — Typ: Deliverable, Anbieter: MelanzDesign, gelistet seit 2022-09-10
-- Wie viel kostet es? — 8.382088000000001 USD
+- Wie viel kostet es? — 8.363388 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

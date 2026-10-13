@@ -4,34 +4,34 @@ digistore24_product_id: 703295
 title: "Ebook - Chinas Handelsrouten"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.23
+earnings_per_sale: 5.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Politics & Economy"]
 listed_since: "2026-06-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/703295?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57051/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/703295"
 language: "de"
 ---
 # Ebook - Chinas Handelsrouten
 
 > Product ID `57051` · Digistore24 productId `703295` · [HTML profile page](../../produkte/ebook-chinas-handelsrouten-57051.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.23 |
+| Earnings/sale* | $5.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses fundierte Sachbuch beleuchtet Chinas Aufstieg von der historischen Seidenstraße bis zur modernen Belt-and-Road-Initiative und trifft damit ein hochaktuelles Thema mit großer wirtschaftlicher und geopolitischer Relevanz. Es spricht Leser an, die globale Machtverschiebungen, internationale Handelsstrukturen und die Zukunft der Weltwirtschaft verstehen möchten. Die Kombination aus historischer…
+**Vendor's marketplace description:** <p>Dieses fundierte Sachbuch beleuchtet Chinas Aufstieg von der historischen Seidenstraße bis zur modernen Belt-and-Road-Initiative und trifft damit ein hochaktuelles Thema mit großer wirtschaftlicher und geopolitischer Relevanz.</p>
+<p>Es spricht Leser an, die globale Machtverschiebungen, internationale Handelsstrukturen und die Zukunft der Weltwirtschaft verstehen möchten.</p>
+<p>Die Kombination aus historischer Analyse, aktuellen Entwicklungen, Fallstudien und wirtschaftlichen Zusammenhängen schafft einen klaren Mehrwert und eine starke Kaufmotivation für wissensorientierte Zielgruppen.</p>
+<p>Ein attraktives Informationsprodukt mit breiter Zielgruppe und hoher Vermarktbarkeit im Bereich Wirtschaft, Politik und internationale Beziehungen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/703295?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57051/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/703295
 - Canonical redirect: https://www.digistore24.com/redir/703295/adminstore
 
@@ -71,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Chinas Handelsrouten? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-06-18
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

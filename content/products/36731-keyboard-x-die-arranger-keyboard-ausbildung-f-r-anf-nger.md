@@ -4,34 +4,34 @@ digistore24_product_id: 12411
 title: "KEYBOARD X - Die Arranger Keyboard Ausbildung für Anfänger"
 vendor: "doormaker"
 product_type: "Member area and video courses"
-price: 1220.42
+price: 1217.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 610.21
+earnings_per_sale: 608.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2013-05-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
-research_quality: "none"
-promo_link: "http://www.onlinemusikschule.info/keyboard-spielen-lernen?aff=adminstore#aff=adminstore"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/36731/adminstore/"
 sales_page: "http://www.onlinemusikschule.info/keyboard-spielen-lernen"
 language: "de"
 ---
 # KEYBOARD X - Die Arranger Keyboard Ausbildung für Anfänger
 
 > Product ID `36731` · Digistore24 productId `12411` · [HTML profile page](../../produkte/keyboard-x-die-arranger-keyboard-ausbildung-f-r-anf-nger-36731.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1220.42 (Installment) |
+| Price | $1217.70 (Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $610.21 |
+| Earnings/sale* | $608.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | doormaker |
@@ -41,18 +41,54 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Keyboard Videokurs für Anfänger Eine 52 wöchige Komplettausbildung für Keyboard Anfänger OHNE Vorkenntnisse NICHT DEN PROMO LINK auf der rechten Seite VERWENDEN! Affilites bitte beachten! Keine Klavier- und Keyboardkurse vermischen. Eine Klavierausbildung ist völlig anders, als eine Keyboardausbildung! Dies wird gerne "unter einen Hut" gebracht - ist jedoch aus pädagogische Sicht völlig anders zu …
+**Vendor's marketplace description:** <h1 style="text-align:center;"> <strong>Keyboard Videokurs für Anfänger</strong></h1>
+<h1 style="text-align:center;"><strong>Eine 52 wöchige Komplettausbildung für Keyboard Anfänger OHNE Vorkenntnisse</strong></h1>
+<p style="text-align:center;"> </p>
+<p style="text-align:center;"><span style="color:#ff0000;"><strong>NICHT DEN PROMO LINK <br />auf der rechten Seite VERWENDEN!</strong></span></p>
+<p style="text-align:center;"><span style="color:#ff0000;">Affilites bitte beachten!</span> Keine Klavier- und Keyboardkurse vermischen. Eine Klavierausbildung ist völlig anders, als eine Keyboardausbildung! Dies wird gerne "unter einen Hut" gebracht - ist jedoch aus pädagogische Sicht völlig anders zu behandeln. Das einzig Identische sind die Tastenbreiten - noch nicht einmal der Tastenumfang :-)</p>
+<p style="text-align:center;"> </p>
+<p style="text-align:center;"><span style="font-size:medium;"><a href="https://onlinemusikschule.info/partnerprogramm" target="_blank" rel="noreferrer noopener"><span style="background-color:#ffff99;"><strong>&gt;ACHTUNG! HIER KLICKEN&lt;<br /> <br />um auf ONLINEMUSIKSCHULE.info<br />das umfangreichste und größte AFFILIATE PARTNERPROGRAMM für Musikinstrumente lernen auf Digistore24 zu bewerben</strong></span></a></span></p>
+<p style="text-align:center;"> </p>
+<hr />
+<h3 style="text-align:center;"><span style="color:#0000ff;">SEI DABEI! Der Onlinemusikschule AFFILIATE WETTBEWERB welcher jedes Jahr am 1.10. bis zum Folgejahr am 30.9. mit mega Preisen läuft, ist am Laufen</span><br /><br /><span style="color:#0000ff;">Sei auch du dabei und verdiene neben hohen 50% Provisionen mit top Conversionrates und niedrigen Stornos - auch mega Gewinne und Überraschungen.</span></h3>
+<hr />
+<p><strong><span style="color:#ff0000;">Verdiene mit unseren Produkten immer hohe Provisionen und nimm auch automatisch an unsererem OLM Affiliate Wettbewerb mit tollen Preisen teil. Jeder aktive Partner erhälte tolle Geschenke und Überraschungen </span><br /><br /></strong></p>
+<p><span style="font-size:small;"><span style="background-color:#ffff99;">ACHTUNG: Anmeldungen zu unserem kompletten Partnerprogramm mit allen richtigen Links zur Bewerbung und Werbemitteln nur mit obigem Link oder rechts unten unter Affiliate-Support-Seite !</span><br /></span></p>
+<p> </p>
+<p><span style="font-size:small;"><strong>Bitte nicht</strong> den "Promolink" rechts zur Bewerbung nutzen, denn dann können dir evt. Provisionen durch erprobte Funnels und Verkaufssysteme entgehen.</span></p>
+<p><span style="font-size:small;">Alle Informationen zu unseren einzelnen Angeboten findest du nach Bewerbung und Registrierung zu unserem Partnerprogramm</span></p>
+<p><span style="font-size:small;">Bis dann<br />dein <br />Helmut Eder<br /><a href="%20https%3A//onlinemusikschule.info/partnerprogramm" target="_blank" rel="noreferrer noopener"><span style="text-decoration:underline;">onlinemusikschule.info/partnerprogramm</span></a><br /><br /><br />* Angezeigte Conversion rate  und Stornoquote sind verfälscht, da es 2013 auf Digistore noch KEINE up- und downsells gab und Monatsabos manuell storniert werden mussten, wenn Teilnehmer die Einmalzahlung genutzt haben.</span></p>
+<p><span style="font-size:small;"> Infos dazu im <a href="%20https%3A//onlinemusikschule.info/partnerprogramm" target="_blank" rel="noreferrer noopener"><span style="text-decoration:underline;"><strong>Partnerbereich</strong></span></a></span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.onlinemusikschule.info/keyboard-spielen-lernen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36731/adminstore/
 - Sales page: http://www.onlinemusikschule.info/keyboard-spielen-lernen
 - Vendor affiliate support: https://onlinemusikschule.info/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/12411/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Final URL after redirects:** https://www.onlinemusikschule.info/keyboard-spielen-lernen
+- **Headline (H1):**
+  > In 7 Tagen dein 1. Stück am Keyboard spielen lernen
+  > Was erwartet dich:
+  > Warum den Keyboardkurs mit der Onlinemusikschule?
+- **Section headlines (H2):**
+  - Nimm mit diesem innovativen Videokurs die Abkürzung - und das ganz bequem von zu Hause aus
+  - Einige Kundenstimmen die schon erfolgreich im Kurs sind, oder schon absolviert haben...
+- **Price mentions on page:** €599, €497,, €8,20, €599,
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/redir/199683/doormaker/
+  - https://www.digistore24.com/product/12411?aff=DIGISTORE24ID&amp;cam=CAMPAIGNKEY
+- **Opening copy (first paragraphs):**
+  > Du lernst von Anfang an, als kompletter Beginner, RICHTIG am Keyboard zu spielen. Mit Spass und Erfolgsgarantie!
+  > Du teilst dir selbst deine Übungszeit ein. Die Videos kannst du vor- und zurückspulen und 1000e mal ansehen...
+  > Du machst das alles bequem mit deinem PC / Tablet von zu Hause aus, in gewohnter Umgebung und musst nicht wegfahren
+  > Und krank wird er auch nicht. Trotzdem bist du via Chat und Blog für deinen Lernerfolg auf Wunsch mit uns immer in Kontakt
+- **Questions the sales page answers:**
+  - Oder möchtest du nicht die Katze im Sack kaufen und einmal eine kostenlose und unverbindliche Lektion ausprobieren ?
+- **Page word count:** 1595
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -76,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KEYBOARD X - Die Arranger Keyboard Ausbildung für Anfänger? — Typ: Member area and video courses, Anbieter: doormaker, gelistet seit 2013-05-26
-- Wie viel kostet es? — 1220.4230479999999 USD
+- Wie viel kostet es? — 1217.700348 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

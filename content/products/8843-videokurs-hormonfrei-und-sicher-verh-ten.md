@@ -4,16 +4,16 @@ digistore24_product_id: 59979
 title: "Videokurs - Hormonfrei und Sicher Verhüten"
 vendor: "wombaider"
 product_type: "Downloads"
-price: 187.4
+price: 186.98
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 56.22
+earnings_per_sale: 56.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2015-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://hormonfreiundsicher.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://hormonfreiundsicher.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs - Hormonfrei und Sicher Verhüten
 
 > Product ID `8843` · Digistore24 productId `59979` · [HTML profile page](../../produkte/videokurs-hormonfrei-und-sicher-verh-ten-8843.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $187.40 (Single payment) |
+| Price | $186.98 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $56.22 |
+| Earnings/sale* | $56.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wombaider |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Online Video Kurs - Hormonfrei und Sicher Verhüten Lerne die sichere, hormonfreie und gesunde symptothermale Methode als Alternative zur Pille kennen und lerne es selbständig anzuwenden. Wie die symptothermale Methode funktioniert? Du kannst mit der symptothermalen Methode die fruchtbaren und unfruchtbaren Tage im Zyklus bestimmen. An den unfruchtbaren Tagen kannst du Sex haben ohne davon schwange…
+**Vendor's marketplace description:** <div>Online Video Kurs - Hormonfrei und Sicher Verhüten</div>
+<div>
+<p>Lerne die sichere, hormonfreie und gesunde symptothermale Methode als Alternative zur Pille kennen und lerne es selbständig anzuwenden.</p>
+<p><strong>Wie die symptothermale Methode funktioniert?</strong></p>
+<p>Du kannst mit der symptothermalen Methode die fruchtbaren und unfruchtbaren Tage im Zyklus bestimmen. An den unfruchtbaren Tagen kannst du Sex haben ohne davon schwanger zu werden. An den fruchtbaren Tagen kannst du z. B. Barrieremethoden wie das Kondom und Diaphragma nutzen, um zu verhüten.</p>
+<ul>
+<li><strong>5 Module + Bonus-Modul</strong></li>
+<li><strong>35 Videos</strong></li>
+<li><strong>Spielzeit: 330 Minuten</strong></li>
+</ul>
+</div>
 
 ## 2. Links
 
@@ -96,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs - Hormonfrei und Sicher Verhüten? — Typ: Downloads, Anbieter: wombaider, gelistet seit 2015-09-30
-- Wie viel kostet es? — 187.39793799999998 USD
+- Wie viel kostet es? — 186.979863 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

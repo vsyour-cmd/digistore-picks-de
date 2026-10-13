@@ -4,34 +4,34 @@ digistore24_product_id: 689476
 title: "Ebook - Duft der Erinnerung"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.8
+price: 6.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.41
+earnings_per_sale: 3.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-05-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/689476?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56425/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/689476"
 language: "de"
 ---
 # Ebook - Duft der Erinnerung
 
 > Product ID `56425` · Digistore24 productId `689476` · [HTML profile page](../../produkte/ebook-duft-der-erinnerung-56425.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.80 (Single payment) |
+| Price | $6.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.41 |
+| Earnings/sale* | $3.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein faszinierendes und wenig ausgeschöpftes Thema mit hoher Neugier- und Aha-Wirkung: Dieses Buch zeigt, wie Düfte unbewusst Emotionen, Erinnerungen und sogar Kaufentscheidungen steuern. Die Verbindung aus Wissenschaft, Psychologie und konkreten Alltagsbeispielen sorgt für starke Aufmerksamkeit und hohen Mehrwert für eine breite Zielgruppe. Besonders attraktiv für Content in den Bereichen Mindset,…
+**Vendor's marketplace description:** <p>Ein faszinierendes und wenig ausgeschöpftes Thema mit hoher Neugier- und Aha-Wirkung:</p>
+<p>Dieses Buch zeigt, wie Düfte unbewusst Emotionen, Erinnerungen und sogar Kaufentscheidungen steuern.</p>
+<p>Die Verbindung aus Wissenschaft, Psychologie und konkreten Alltagsbeispielen sorgt für starke Aufmerksamkeit und hohen Mehrwert für eine breite Zielgruppe.</p>
+<p>Besonders attraktiv für Content in den Bereichen Mindset, Marketing, Psychologie und persönliche Entwicklung.</p>
+<p>Der überraschende Erkenntnisfaktor erzeugt starke Klick- und Kaufimpulse.</p>
+<p>Ein vielseitig vermarktbares Produkt mit hohem Viral- und Conversion-Potenzial.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689476?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56425/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/689476
 - Canonical redirect: https://www.digistore24.com/redir/689476/adminstore
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Duft der Erinnerung? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-01
-- Wie viel kostet es? — 6.802042 USD
+- Wie viel kostet es? — 6.786867000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

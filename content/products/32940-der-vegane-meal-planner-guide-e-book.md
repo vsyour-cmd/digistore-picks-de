@@ -4,16 +4,16 @@ digistore24_product_id: 327139
 title: "Der vegane Meal Planner Guide (E-Book)"
 vendor: "Melanie341"
 product_type: "E-books"
-price: 16.8
+price: 16.76
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.04
+earnings_per_sale: 5.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2020-05-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://vegaliferocks.de/vegan-kochen-buch/?aff=adminstore#aff=adminstore"
 sales_page: "https://vegaliferocks.de/vegan-kochen-buch/"
@@ -22,16 +22,16 @@ language: "de"
 # Der vegane Meal Planner Guide (E-Book)
 
 > Product ID `32940` · Digistore24 productId `327139` · [HTML profile page](../../produkte/der-vegane-meal-planner-guide-e-book-32940.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.80 (Single payment) |
+| Price | $16.76 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.04 |
+| Earnings/sale* | $5.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Melanie341 |
@@ -41,7 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 88 schnelle, gesunde & leckere Rezepte für Frühstück, Mittagessen, Abendessen und Snacks Grundzutaten einer vollwertigen veganen Ernährung, die zu Zuhause haben solltest Essenspläne über 8 Wochen einfach im Alltag umzusetzen Fokus: Unter 1500 Kalorien Fokus: Fitnessrezepte mit viel Protein Fokus: Zuckerfreie Rezepte Fokus: Glutenfreie Rezepte Fokus: einfache und schnelle Rezepte Fokus: grüne Zutat…
+**Vendor's marketplace description:** <h2><strong>88 schnelle, gesunde &amp; leckere Rezepte</strong> für Frühstück, Mittagessen, Abendessen und Snacks</h2>
+<ul><li><strong>Grundzutaten einer vollwertigen veganen Ernährung, </strong>die zu Zuhause haben solltest</li>
+<li><strong>Essenspläne über 8 Wochen</strong> einfach im Alltag umzusetzen
+<ul><li>Fokus: Unter 1500 Kalorien</li>
+<li>Fokus: Fitnessrezepte mit viel Protein</li>
+<li>Fokus: Zuckerfreie Rezepte</li>
+<li>Fokus: Glutenfreie Rezepte</li>
+<li>Fokus: einfache und schnelle Rezepte</li>
+<li>Fokus: grüne Zutaten und High Energy</li>
+<li>Fokus: Gerichte mit wenig Zutaten</li>
+<li>Fokus: Verwöhngerichte</li>
+</ul></li>
+</ul><p>Bonus 1: <strong>8 Wochen Mahlzeitenplan</strong> als Pdf + <strong>Mahlzeitenplaner Vorlage als beschreibbares Pdf</strong> - für deine eigenen kreativen Pläne</p>
+<p>Bonus 2 : <strong>Die vegane Ernährungspyramide und die tägl. 12</strong> als Pdf zum Ausdrucken</p>
+<div>&gt; Als attraktiven Upsell gibt es noch zwei weitere Produkte dazu. Melde dich auch hierfür als Affiliate an.  </div>
+<div> </div>
+<h3>Um dieses Produkt zu bewerben, schreibe bitte eine Nachricht an <a href="mailto:melanie@vegaliferocks.de">melanie@vegaliferocks.de</a> mit folgenden Angaben: </h3>
+<p>- Deine primäre Seite / Plattform, wo du das Produkt bewerben wirst</p>
+<p>- Wie würdest du deine Zielgruppe beschreben?</p>
+<p>- Wie hoch ist deine monatliche Reichweite?</p>
+<p>Vielen Dank</p>
 
 ## 2. Links
 
@@ -76,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der vegane Meal Planner Guide (E-Book)? — Typ: E-books, Anbieter: Melanie341, gelistet seit 2020-05-17
-- Wie viel kostet es? — 16.797794 USD
+- Wie viel kostet es? — 16.760319000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

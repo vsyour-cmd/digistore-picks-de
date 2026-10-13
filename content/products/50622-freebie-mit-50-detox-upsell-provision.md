@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-12-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://seelen-treffpunkt.de/e-book-seelische-blockaden/?aff=adminstore#aff=adminstore"
 sales_page: "https://seelen-treffpunkt.de/e-book-seelische-blockaden/"
@@ -22,7 +22,7 @@ language: "de"
 # Freebie mit 50 % Detox-Upsell-Provision
 
 > Product ID `50622` · Digistore24 productId `583788` · [HTML profile page](../../produkte/freebie-mit-50-detox-upsell-provision-50622.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenke wertvollen Content – und verdiene automatisch mit! Das kostenlose E-Book „Seelische Blockaden erkennen & lösen“ ist ein gefragtes Freebie, das Menschen hilft, emotionale Altlasten loszulassen und innere Klarheit zu finden. Mit praktischen Übungen, sanfter Energiearbeit und sofort umsetzbaren Schritten schafft dieses E-Book Vertrauen und öffnet die Tür zum 3-Tage-Detox-Kurs, einem tiefge…
+**Vendor's marketplace description:** <p><strong>Verschenke wertvollen Content – und verdiene automatisch mit!</strong></p>
+<p><br />Das kostenlose <strong>E-Book „Seelische Blockaden erkennen &amp; lösen“</strong> ist ein gefragtes Freebie, das Menschen hilft, emotionale Altlasten loszulassen und innere Klarheit zu finden.</p>
+<p>Mit praktischen Übungen, sanfter Energiearbeit und sofort umsetzbaren Schritten schafft dieses E-Book Vertrauen und öffnet die Tür zum <strong>3-Tage-Detox-Kurs, </strong>einem tiefgehenden Transformationsprogramm.</p>
+<p><strong>Dein Vorteil als Affiliate:</strong></p>
+<ul>
+<li>
+<p><strong>Automatisches Upselling:</strong> Der 3-Tage-Detox-Kurs wird direkt auf der Danke-Seite und in der nachfolgenden E-Mail-Serie beworben.</p>
+</li>
+<li>
+<p><strong>Hohe Conversionrate:</strong> Das E-Book spricht eine große Zielgruppe an – Menschen, die emotionale Heilung, Balance und innere Ruhe suchen.</p>
+</li>
+<li>
+<p><strong>Echter Mehrwert:</strong> Du verschenkst ein professionell gestaltetes, hilfreiches E-Book, das echten Nutzen bietet.</p>
+</li>
+<li>
+<p><strong>50 % Provision:</strong> Du erhältst faire und wiederkehrende Provisionen auf jeden Kursverkauf über deinen Link.</p>
+</li>
+</ul>
+<p><strong>Ideal für dich, wenn du Inhalte zu folgenden Themen teilst:</strong></p>
+<p><br />Achtsamkeit · Energiearbeit · Persönlichkeitsentwicklung · Heilung · Meditation · Selbstliebe · Mentale Gesundheit</p>
+<p><strong>Jetzt Affiliate werden, E-Book verschenken &amp; am Detox-Upsell verdienen!</strong></p>
 
 ## 2. Links
 

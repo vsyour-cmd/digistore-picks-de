@@ -4,34 +4,34 @@ digistore24_product_id: 265593
 title: "Online Kurs: Home Staging Starter - Heike Uhlemann"
 vendor: "HomeStagingDE"
 product_type: "Member area and video courses"
-price: 1791.84
+price: 1787.84
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 358.37
+earnings_per_sale: 357.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2019-03-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.staging-akademie.de/homestaging-experte/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/29273/adminstore/"
 sales_page: "https://www.staging-akademie.de/homestaging-experte/"
 language: "de"
 ---
 # Online Kurs: Home Staging Starter - Heike Uhlemann
 
 > Product ID `29273` · Digistore24 productId `265593` · [HTML profile page](../../produkte/online-kurs-home-staging-starter-heike-uhlemann-29273.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1791.84 (Single payment, Installment) |
+| Price | $1787.84 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $358.37 |
+| Earnings/sale* | $357.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HomeStagingDE |
@@ -41,11 +41,64 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ideales Partnerprogramm für JEDEN aus der Immobilienbranche. Erhalte 20% Provision beim Verkauf von Home Staging Online Kursen. Die Staging Akademie ist Deutschlands erste Online Plattform für Home Staging Ausbildungen.Gegründet von Heike Uhlemann, in der Branche sehr bekannt. Informationen wie du unsere Kurse bewerben kannst, findest du auf unserer Affiliate-Supportseite. Unsere Kurse: KURS: HOME…
+**Vendor's marketplace description:** <p><strong>Ideales Partnerprogramm für JEDEN aus der Immobilienbranche. <br /></strong><em>Erhalte 20% Provision beim Verkauf von Home Staging Online Kursen. </em><br /><br /><strong><span style="background-color:#808000;color:#ffffff;">Die Staging Akademie ist Deutschlands erste Online Plattform für Home Staging Ausbildungen.</span></strong><br />Gegründet von Heike Uhlemann, in der Branche sehr bekannt. </p>
+<p>Informationen wie du unsere Kurse bewerben kannst, findest du auf unserer <a href="https://www.staging-akademie.de/affiliate-supportseite/" target="_blank" rel="noreferrer noopener">Affiliate-Supportseite.</a></p>
+<p> </p>
+<h2>Unsere Kurse: </h2>
+<p><strong>KURS: HOME STAGING STARTER</strong></p>
+<p>Geeignet für: Immobilienverkäufer, Home Staging Interessierte</p>
+<ul>
+<li>8 Schritte Formel zur optimalen Präsentation</li>
+<li>praxiserprobte Raum-für-Raum-Anleitung</li>
+<li>Einkaufsquellen der Profis</li>
+<li>Einführung in Immobilienfotografie und -vermarktung</li>
+<li>mehr als 20 Videolektionen geballtes Expertenwissen</li>
+<li>1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte</li>
+</ul>
+<p> </p>
+<p><strong>KURS: HOME STAGING PROFI</strong></p>
+<p>Geeignet für: Immobilienmakler, Home Staging im Nebenerwerb</p>
+<ul>
+<li>detailliertes Wissen zur Aufbereitung BEWOHNTER Immobilien</li>
+<li>Überlassung aller notwendigen Unterlagen, Checklisten</li>
+<li>A-Z Anleitung eines Staging Auftrags</li>
+<li>perfekter Branchen Einstieg ohne großen Kapital-/Zeiteinsatz</li>
+<li>mehr als 35 Videolektionen geballtes Expertenwissen</li>
+<li>1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte</li>
+</ul>
+<p> </p>
+<p><strong>KURS: HOME STAGING EXPERTE</strong></p>
+<p>Geeignet für: Home Staging Existenzgründer</p>
+<ul>
+<li>vollständiges Wissen zur Aufbereitung ALLER Immobilientypen</li>
+<li>Schritt-für-Schritt Anleitung zum Unternehmensaufbau</li>
+<li>Überlassung aller notwendigen Unterlagen, Checklisten</li>
+<li>über 50 Videolektionen geballtes Expertenwissen</li>
+<li>1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte</li>
+</ul>
+<p> </p>
+<p><strong>KURS: HOME STAGING INVESTOR</strong></p>
+<p>Geeignet für: Immobilien Investoren</p>
+<ul>
+<li>professionelle Home Staging Techniken</li>
+<li>8 Schritte Formel zur optimalen Präsentation</li>
+<li>praxiserprobte Raum-für-Raum-Anleitung</li>
+<li>Anleitung zur Immobilienaufbereitung</li>
+<li>A-Z Einblick in echte fix&amp;flip Projekte</li>
+<li>über 25 Videolektionen geballtes Expertenwissen</li>
+<li>1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte</li>
+</ul>
+<p> </p>
+<p><strong>KURS: HOME STAGING MASTER </strong></p>
+<p>Geeignet für: Home Staging Existenzgründer</p>
+<p>3 Tage Workshop – inkl. praktische Umsetzung eines Home Staging Projekt<br />        Wir arbeiten in kleinen Gruppen an:<br />        Konzeption und Planung Staging <br />        Praktische Umsetzung <br />        Lagerführung<br />        Social Media- und Marketing Strategien<br />        Akquise<br />        Tools &amp; Tipps im Staging Alltag<br />        <br />Voraussetzung für die Teilnahme am Workshop ist der erfolgreiche Abschluss der Online Ausbildung zum Home Staging EXPERTE. </p>
+<p>Achtung: Die Termine und Plätze des Workshop sind limitiert.  </p>
+<p>Kosten für An-Abreise, Übernachtung uns Abendessen werden von den Teilnehmern selbst übernommen.Es gelten immer die am Workshop-Termin geltenden Corona/Hygiene Vorschriften. </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.staging-akademie.de/homestaging-experte/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/29273/adminstore/
 - Sales page: https://www.staging-akademie.de/homestaging-experte/
 - Vendor affiliate support: https://www.staging-akademie.de/affiliate-supportseite/
 - Canonical redirect: https://www.digistore24.com/redir/265593/adminstore
@@ -94,7 +147,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Kurs: Home Staging Starter - Heike Uhlemann? — Typ: Member area and video courses, Anbieter: HomeStagingDE, gelistet seit 2019-03-26
-- Wie viel kostet es? — 1791.8394 USD
+- Wie viel kostet es? — 1787.8419000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

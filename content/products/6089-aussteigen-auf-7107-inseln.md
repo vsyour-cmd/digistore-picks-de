@@ -4,16 +4,16 @@ digistore24_product_id: 40773
 title: "AUSSTEIGEN AUF 7107 INSELN"
 vendor: "BIGbenn1"
 product_type: "Downloads"
-price: 25
+price: 24.94
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 11.09
+earnings_per_sale: 11.07
 cart_conversion_pct: 8
 cancel_rate_pct: 2.93
 categories: ["Travel & Culture"]
 listed_since: "2015-01-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "http://www.benn-verlag.de/digi-phil/index.html?aff=adminstore#aff=adminstore"
 sales_page: "http://www.benn-verlag.de/digi-phil/index.html"
@@ -22,16 +22,16 @@ language: "de"
 # AUSSTEIGEN AUF 7107 INSELN
 
 > Product ID `6089` · Digistore24 productId `40773` · [HTML profile page](../../produkte/aussteigen-auf-7107-inseln-6089.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.00 (Single payment) |
+| Price | $24.94 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $11.09 |
+| Earnings/sale* | $11.07 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.93% |
 | Vendor | BIGbenn1 |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Es gibt ein warmes, sonniges Land auf unserer Erde, das aus 7.107 Inseln besteht, wovon über 6.000 immer noch unbewohnt sind. In diesem Inselreich wohnen meiner eigenen Erfahrung nach die freundlichsten Menschen der Welt. Hier sind die Lebenshaltungskosten so günstig, dass Sie selbst mit einem Monatseinkommen in der Größenordnung von Hartz IV schon als reich gelten! Sind Sie reif für die Insel? We…
+**Vendor's marketplace description:** <p>Es gibt ein warmes, sonniges Land auf unserer Erde, das aus 7.107 Inseln besteht, wovon über 6.000 immer noch unbewohnt sind.</p>
+<p>In diesem Inselreich wohnen meiner eigenen Erfahrung nach die freundlichsten Menschen der Welt.</p>
+<p>Hier sind die Lebenshaltungskosten so günstig, dass Sie selbst mit einem Monatseinkommen in der Größenordnung von Hartz IV schon als reich gelten!</p>
+<p><strong>Sind Sie reif für die Insel?</strong></p>
+<p>Weil das Leben in Deutschland immer unerträglicher wird.<br /><br /> Weil man immer um den Arbeitsplatz zittern muss ( wenn man einen hat).<br /> Weil die Preise und Steuern ständig steigen.<br /> Weil das Wetter meist lausig ist.<br /><br /> Leiden Sie nicht länger!<br /> Schütteln Sie Kälte, Stress und Bevormundung ab!!<br /> Fangen Sie an zu leben!</p>
+<p> </p>
+<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
+<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
+<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
+<p>2 einfache Schritte:</p>
+<ol>
+<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html%20" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
+<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
+</ol>
+<p> </p>
+<p><em><strong> </strong></em></p>
 
 ## 2. Links
 
@@ -68,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AUSSTEIGEN AUF 7107 INSELN? — Typ: Downloads, Anbieter: BIGbenn1, gelistet seit 2015-01-16
-- Wie viel kostet es? — 25.000586 USD
+- Wie viel kostet es? — 24.944811 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

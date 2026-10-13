@@ -4,16 +4,16 @@ digistore24_product_id: 25429
 title: "Anleitung Gartentisch bauen"
 vendor: "hinmed"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 3.12
+earnings_per_sale: 3.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2014-05-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.gartentisch-bauen.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.gartentisch-bauen.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Anleitung Gartentisch bauen
 
 > Product ID `3313` · Digistore24 productId `25429` · [HTML profile page](../../produkte/anleitung-gartentisch-bauen-3313.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $3.12 |
+| Earnings/sale* | $3.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hinmed |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Gartentisch selber bauen Hier bekommt man eine komplette Bauanleitung wie man einen massiven und stabilen Gartentisch für unter 100 Euro Materialwert selber bauen kann. Die Anleitung beinhaltet Bilder, Texte und Zeichnungen für die einzelnen Schritte. Mehr dazu auf www.gartentisch-bauen.de - Es lohnt sich!
+**Vendor's marketplace description:** <h1>Gartentisch selber bauen</h1>
+<p>Hier bekommt man <strong>eine komplette Bauanleitung</strong> wie man einen massiven und stabilen Gartentisch f&uuml;r <strong>unter 100 Euro</strong> Materialwert selber bauen kann. Die Anleitung beinhaltet Bilder, Texte und Zeichnungen f&uuml;r die einzelnen Schritte. Mehr dazu auf <a href="http://www.gartentisch-bauen.de" target="_blank">www.gartentisch-bauen.de</a> -<strong> Es lohnt sich! <br /></strong></p>
 
 ## 2. Links
 
@@ -76,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Anleitung Gartentisch bauen? — Typ: E-books, Anbieter: hinmed, gelistet seit 2014-05-10
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

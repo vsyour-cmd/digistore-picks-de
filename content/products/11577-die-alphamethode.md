@@ -4,34 +4,34 @@ digistore24_product_id: 54831
 title: "Die Alphamethode"
 vendor: "Insider-Media"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.66
+earnings_per_sale: 13.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2015-07-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.lerntipp.com/alphawellen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/11577/adminstore/"
 sales_page: "https://www.lerntipp.com/alphawellen"
 language: "de"
 ---
 # Die Alphamethode
 
 > Product ID `11577` · Digistore24 productId `54831` · [HTML profile page](../../produkte/die-alphamethode-11577.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.66 |
+| Earnings/sale* | $13.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit diesem Audio Titel gerät man in weniger als 10 Minuten, alleine durch das Hören, in einen optimalen lernbereiten, besonders aufnahmefähigen und konzentrierten Zustand. Besonders geeignet um Wissen einfacher und schneller aufzunehmen und Arbeit konzentriert zu verrichten. 50% Provision für Affiliates, inkl. Upsells
+**Vendor's marketplace description:** <p>Mit diesem Audio Titel gerät man in weniger als 10 Minuten, alleine durch das Hören, in einen optimalen lernbereiten, besonders aufnahmefähigen und konzentrierten Zustand. Besonders geeignet um Wissen einfacher und schneller aufzunehmen und Arbeit konzentriert zu verrichten.</p>
+<p>50% Provision für Affiliates, inkl. Upsells</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.lerntipp.com/alphawellen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/11577/adminstore/
 - Sales page: https://www.lerntipp.com/alphawellen
 - Vendor affiliate support: http://www.lerntipp.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/54831/adminstore
@@ -67,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Alphamethode? — Typ: Downloads, Anbieter: Insider-Media, gelistet seit 2015-07-21
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

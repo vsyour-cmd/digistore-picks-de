@@ -4,16 +4,16 @@ digistore24_product_id: 387951
 title: "Befreiung von Fremdenergie"
 vendor: "allsenses"
 product_type: "Member area and video courses"
-price: 429.4
+price: 428.44
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 42.94
+earnings_per_sale: 42.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-05-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.allsenses.de/befreiung-von-fremdenergie-masterkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.allsenses.de/befreiung-von-fremdenergie-masterkurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Befreiung von Fremdenergie
 
 > Product ID `37428` · Digistore24 productId `387951` · [HTML profile page](../../produkte/befreiung-von-fremdenergie-37428.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $429.40 (Single payment, Installment) |
+| Price | $428.44 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $42.94 |
+| Earnings/sale* | $42.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | allsenses |
@@ -41,7 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 8 Module mit intensiv wirkungsvollen Transformationstools zum geistigen Erwachen für ein selbstbestimmtes Leben. Du bekommst Einblicke in Grenzbereiche der Quantenphysik, Kosmologie, Spiritualität sowie in den energetisch-anatomischen Bauplan des Menschen, der Erde und des Kosmos. Erkenntnisse zur Förderung deines geistigen Erwachens. Wissen, welches dein Selbst- und Weltbild verändert. INHALTE DE…
+**Vendor's marketplace description:** <p>8 Module mit <span style="color:#ffcc00;"><strong>intensiv wirkungsvollen Transformationstools</strong></span> zum geistigen Erwachen für ein selbstbestimmtes Leben.</p>
+<p>Du bekommst Einblicke in Grenzbereiche der Quantenphysik, Kosmologie, Spiritualität sowie in den energetisch-anatomischen Bauplan des Menschen, der Erde und des Kosmos.</p>
+<p>Erkenntnisse zur Förderung deines geistigen Erwachens. Wissen, welches dein Selbst- und Weltbild verändert. <br /><br /><span style="color:#ffcc00;"><strong>INHALTE DES MASTERKURSES</strong></span></p>
+<ul>
+<li>Erkennen von Manipulationskreisläufen</li>
+<li>Was sind fremde Energien, Welten und Dimensionen</li>
+<li>Desillusionierung der Spiritualität</li>
+<li>konkrete Techniken zur Felder-Klärung</li>
+<li>Neutralisierungsschritte zur Entstörung von Fremdenergien</li>
+<li>Umgang mit dem Dunkel der inneren und äußeren Welt</li>
+<li>Wahrnehmungstraining und Bewusstseinsweite</li>
+<li>Werkzeuge zur Potentialentfaltung</li>
+<li>Wege in die Selbstführung</li>
+</ul>
+<p><span style="color:#ffcc00;"> <strong>Du bekommst umfangreiches Arbeitsmaterial</strong> </span></p>
+<ul>
+<li>19 Videos</li>
+<li>18 Audios</li>
+<li>15 Workbooks als PDFs &amp; Checklisten</li>
+<li>1 Ebook</li>
+</ul>
 
 ## 2. Links
 
@@ -66,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Befreiung von Fremdenergie? — Typ: Member area and video courses, Anbieter: allsenses, gelistet seit 2021-05-03
-- Wie viel kostet es? — 429.402714 USD
+- Wie viel kostet es? — 428.444739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

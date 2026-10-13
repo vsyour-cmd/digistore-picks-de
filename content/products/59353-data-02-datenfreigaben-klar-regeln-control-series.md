@@ -4,34 +4,34 @@ digistore24_product_id: 734767
 title: "DATA 02 – Datenfreigaben klar regeln (CONTROL SERIES)"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 52.15
+price: 52.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.08
+earnings_per_sale: 26.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://data-02.pages.dev/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59353/adminstore/"
 sales_page: "https://data-02.pages.dev/"
 language: "de"
 ---
 # DATA 02 – Datenfreigaben klar regeln (CONTROL SERIES)
 
 > Product ID `59353` · Digistore24 productId `734767` · [HTML profile page](../../produkte/data-02-datenfreigaben-klar-regeln-control-series-59353.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.15 (Single payment) |
+| Price | $52.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.08 |
+| Earnings/sale* | $26.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digitales Arbeitsbuch für Menschen, die Apps und Cloud privat oder beruflich nutzen. Kernversprechen: ZUGRIFF ≠ ERLAUBNIS. Output: persönliches DATA-PROFIL + DATA-PASS. Für Affiliates: Premium-Preis 49,80 € einmalig, 50 % Provision. Klare Verkaufsseite und Digistore24 Checkout. Bildungs-Workbook – keine Rechtsberatung, keine Einkommensversprechen. Verkaufsseite: https://data-02.pages.dev/
+**Vendor's marketplace description:** <p>Digitales Arbeitsbuch für Menschen, die Apps und Cloud privat oder beruflich nutzen.</p>
+<p> </p>
+<p>Kernversprechen: ZUGRIFF ≠ ERLAUBNIS.</p>
+<p> </p>
+<p>Output: persönliches DATA-PROFIL + DATA-PASS.</p>
+<p> </p>
+<p>Für Affiliates: Premium-Preis 49,80 € einmalig, 50 % Provision. Klare Verkaufsseite und Digistore24 Checkout.</p>
+<p> </p>
+<p>Bildungs-Workbook – keine Rechtsberatung, keine Einkommensversprechen.</p>
+<p> </p>
+<p>Verkaufsseite: https://data-02.pages.dev/</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://data-02.pages.dev/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59353/adminstore/
 - Sales page: https://data-02.pages.dev/
 - Vendor affiliate support: https://data-02.pages.dev/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/734767/adminstore
@@ -96,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DATA 02 – Datenfreigaben klar regeln (CONTROL SERIES)? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-18
-- Wie viel kostet es? — 52.152724 USD
+- Wie viel kostet es? — 52.036374 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

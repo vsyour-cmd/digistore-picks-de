@@ -4,34 +4,34 @@ digistore24_product_id: 144229
 title: "VIDEOKURS \"Seife einfach selber machen\""
 vendor: "aditsbest"
 product_type: "Downloads"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.94
+earnings_per_sale: 13.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2017-06-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "http://seifen-tutorials.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/20955/adminstore/"
 sales_page: "http://seifen-tutorials.de/"
 language: "de"
 ---
 # VIDEOKURS "Seife einfach selber machen"
 
 > Product ID `20955` · Digistore24 productId `144229` · [HTML profile page](../../produkte/videokurs-seife-einfach-selber-machen-20955.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.94 |
+| Earnings/sale* | $13.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aditsbest |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Selbst gemachte Naturseifen sind nicht nur besondere und hochwertige Pflegeprodukte, sondern stellen auch ein perfektes, sinnliches und persönliches Geschenk zu jedem Anlass dar. Das Besondere an selbst gemachter Seife ist, dass diese frei von unerwünschten chemischen Zusatzstoffen ist und Du hochwertige Öle, Fette und pflanzliche Inhaltsstoffe wie Kräuter sowie feinste ätherische Öle verwenden ka…
+**Vendor's marketplace description:** <p><strong>Selbst gemachte Naturseifen</strong> sind nicht nur besondere und hochwertige Pflegeprodukte, sondern stellen auch ein perfektes, sinnliches und persönliches Geschenk zu jedem Anlass dar.</p>
+<p>Das Besondere an<strong> selbst gemachter Seife</strong> ist, dass diese <strong>frei von unerwünschten chemischen Zusatzstoffen</strong> ist und Du hochwertige Öle, Fette und pflanzliche Inhaltsstoffe wie Kräuter sowie feinste ätherische Öle verwenden kannst. Das Beste: <strong>Du kannst Dir Deine Seife herstellen, wie Du sie am liebsten hast</strong> und wie Deine Haut sie verträgt.</p>
+<p>Im <strong>Online-Videokurs</strong> erklärt Sophia Wagner einfach und verständlich, wie man <strong>wunderbare Seifen selbst herstellen</strong> kann. Der Teilnehmer lernt <strong>Schritt für Schritt</strong>, eigene Seife herzustellen, und bekommt <strong>wichtige Tipps und Tricks</strong> bei der Produktion.</p>
+<p>Sophia Wagner studierte an der Akademie der Bildenden Künste in Nürnberg und gründete Sophia im Jahr 2006 die Designwerkstatt <a><strong>„ARTZULEBEN“</strong></a>.<br /><br />Bereits seit vielen Jahren ist Sophia begeisterte Seifensiederin und arbeitet derzeit an einem Seifen-Baukastensystem für Anfänger und Fortgeschritte.</p>
+<p><strong>Bekannt von: LiebesLand, LandLust, LandIdyll, TOPP Verlag, filzfun</strong></p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://seifen-tutorials.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/20955/adminstore/
 - Sales page: http://seifen-tutorials.de/
 - Canonical redirect: https://www.digistore24.com/redir/144229/adminstore
 
@@ -66,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VIDEOKURS "Seife einfach selber machen"? — Typ: Downloads, Anbieter: aditsbest, gelistet seit 2017-06-17
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

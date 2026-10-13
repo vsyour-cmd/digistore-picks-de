@@ -7,13 +7,13 @@ product_type: "Member area and video courses"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 2.41
+earnings_per_sale: 2.4
 cart_conversion_pct: 55
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-02-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/schluessel-zur-freiheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/schluessel-zur-freiheit/"
@@ -22,7 +22,7 @@ language: "de"
 # Bitcoin - Dein Schlüssel zur Freiheit
 
 > Product ID `55538` · Digistore24 productId `667457` · [HTML profile page](../../produkte/bitcoin-dein-schl-ssel-zur-freiheit-55538.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $2.41 |
+| Earnings/sale* | $2.40 |
 | Cart conversion* | 55% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bitcoin - Dein Schlüssel zur Freiheit ✅ Deine Community erhält einen Schlüssel durch Freiheit durch Bitcoin ✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet Du kannst durch Upsells und AddOn bis zu 123 Euro
+**Vendor's marketplace description:** <div><em><strong>Bitcoin - Dein Schlüssel zur Freiheit</strong></em></div>
+<div> </div>
+<div><em><strong>✅ </strong>Deine Community erhält einen Schlüssel durch Freiheit durch Bitcoin</em></div>
+<div> </div>
+<div><em><strong>✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet</strong></em></div>
+<div> </div>
+<div> </div>
+<div><em><strong>Du kannst durch Upsells und AddOn bis zu 123 Euro</strong></em></div>
 
 ## 2. Links
 

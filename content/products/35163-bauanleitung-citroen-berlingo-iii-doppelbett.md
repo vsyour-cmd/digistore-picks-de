@@ -4,34 +4,34 @@ digistore24_product_id: 330336
 title: "Bauanleitung - Citroen Berlingo III Doppelbett"
 vendor: "mobilesbett"
 product_type: "E-books"
-price: 20.25
+price: 20.2
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 12.09
+earnings_per_sale: 12.06
 cart_conversion_pct: 1
 cancel_rate_pct: 3.8
 categories: ["Hobby & Craft"]
 listed_since: "2020-06-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://mobiles-bett.de/citroen-berlingo-III?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/35163/adminstore/"
 sales_page: "https://mobiles-bett.de/citroen-berlingo-III"
 language: "de"
 ---
 # Bauanleitung - Citroen Berlingo III Doppelbett
 
 > Product ID `35163` · Digistore24 productId `330336` · [HTML profile page](../../produkte/bauanleitung-citroen-berlingo-iii-doppelbett-35163.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.25 (Single payment) |
+| Price | $20.20 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $12.09 |
+| Earnings/sale* | $12.06 |
 | Cart conversion* | 1% |
 | Cancel rate* | 3.8% |
 | Vendor | mobilesbett |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Schritt-für-Schritt Bauanleitung für ein Citroen Berlingo III Doppelbett. Die Anleitung beschreibt alle Maße, Materialien und Hölzer, die im Baumarkt zugeschnitten und besorgt werden können. Danach werden die Hölzer und Winkel wie ein Bausatz zusammengesetzt. Das Autobett lässt sich zusammengeschoben platzsparend im Kofferraum transportieren und in wenigen Minuten zum Schlafen ausziehen.
+**Vendor's marketplace description:** <p>Schritt-für-Schritt <strong>Bauanleitung</strong> für ein <strong>Citroen Berlingo III Doppelbett</strong>. Die Anleitung beschreibt alle Maße, Materialien und Hölzer, die im Baumarkt zugeschnitten und besorgt werden können. Danach werden die Hölzer und Winkel wie ein Bausatz zusammengesetzt.</p>
+<p> </p>
+<p>Das <strong>Autobett</strong> lässt sich zusammengeschoben platzsparend<strong> im Kofferraum</strong> transportieren und in <strong>wenigen Minuten zum Schlafen ausziehen</strong>.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mobiles-bett.de/citroen-berlingo-III?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/35163/adminstore/
 - Sales page: https://mobiles-bett.de/citroen-berlingo-III
 - Vendor affiliate support: https://mobiles-bett.de/partnerschaft/
 - Canonical redirect: https://www.digistore24.com/redir/330336/adminstore
@@ -81,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bauanleitung - Citroen Berlingo III Doppelbett? — Typ: E-books, Anbieter: mobilesbett, gelistet seit 2020-06-06
-- Wie viel kostet es? — 20.249242000000002 USD
+- Wie viel kostet es? — 20.204067000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

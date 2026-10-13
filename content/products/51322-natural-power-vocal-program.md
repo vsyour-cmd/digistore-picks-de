@@ -4,16 +4,16 @@ digistore24_product_id: 429193
 title: "Natural Power Vocal Program"
 vendor: "RobertSawilla"
 product_type: "Member area and video courses"
-price: 1436.06
+price: 1432.86
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 86.29
+earnings_per_sale: 86.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Health & Fitness"]
 listed_since: "2022-02-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://naturalpowerbodyprograms.com/vocal/?aff=adminstore#aff=adminstore"
 sales_page: "https://naturalpowerbodyprograms.com/vocal/"
@@ -22,16 +22,16 @@ language: "de"
 # Natural Power Vocal Program
 
 > Product ID `51322` · Digistore24 productId `429193` · [HTML profile page](../../produkte/natural-power-vocal-program-51322.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1436.06 (Single payment, Installment) |
+| Price | $1432.86 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $86.29 |
+| Earnings/sale* | $86.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RobertSawilla |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses SingCoaching hat nur ein Ziel: Das Erstrahlen Deiner Stimme und den Erfolg Deines Gesangs für Dich so leicht wie möglich zu machen! Dich erwarten über 90 Lektionen an Motivations- und Übungsvideos.
+**Vendor's marketplace description:** <p>Dieses SingCoaching hat nur ein Ziel: Das Erstrahlen Deiner Stimme und den Erfolg Deines Gesangs für Dich so leicht wie möglich zu machen! Dich erwarten über 90 Lektionen an Motivations- und Übungsvideos.</p>
 
 ## 2. Links
 
@@ -108,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Natural Power Vocal Program? — Typ: Member area and video courses, Anbieter: RobertSawilla, gelistet seit 2022-02-11
-- Wie viel kostet es? — 1436.0601060000001 USD
+- Wie viel kostet es? — 1432.8563310000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

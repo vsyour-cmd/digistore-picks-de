@@ -4,34 +4,34 @@ digistore24_product_id: 682555
 title: "Ebook - Die Rand Studie"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 12.56
+price: 12.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.29
+earnings_per_sale: 6.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-04-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/682555?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56269/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/682555"
 language: "de"
 ---
 # Ebook - Die Rand Studie
 
 > Product ID `56269` · Digistore24 productId `682555` · [HTML profile page](../../produkte/ebook-die-rand-studie-56269.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.56 (Single payment) |
+| Price | $12.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.29 |
+| Earnings/sale* | $6.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochaktuelles Sachbuch für politisch interessierte Leser, das die verborgenen Mechanismen globaler Machtstrategien verständlich und tiefgehend aufbereitet. Es trifft den Nerv einer wachsenden Zielgruppe, die geopolitische Zusammenhänge, Konflikte und Einflussstrukturen wirklich durchdringen will. Die klare Positionierung rund um RAND, Kalter Krieg, China und moderne Kriegsführung sorgt für sta…
+**Vendor's marketplace description:** <p>Ein hochaktuelles Sachbuch für politisch interessierte Leser, das die verborgenen Mechanismen globaler Machtstrategien verständlich und tiefgehend aufbereitet.</p>
+<p> </p>
+<p>Es trifft den Nerv einer wachsenden Zielgruppe, die geopolitische Zusammenhänge, Konflikte und Einflussstrukturen wirklich durchdringen will.</p>
+<p> </p>
+<p>Die klare Positionierung rund um RAND, Kalter Krieg, China und moderne Kriegsführung sorgt für starke Nachfrage im Bereich Politik, Geschichte und kritisches Denken.</p>
+<p> </p>
+<p>Dank umfangreicher Inhalte und modularer Kapitelstruktur bietet das Produkt hohen wahrgenommenen Wert und eignet sich ideal für Content-Marketing, YouTube oder Telegram-Zielgruppen.</p>
+<p> </p>
+<p>Ein polarisierendes, diskussionsstarkes Thema mit hohem Engagement- und Conversion-Potenzial.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/682555?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56269/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/682555
 - Canonical redirect: https://www.digistore24.com/redir/682555/adminstore
 
@@ -71,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Die Rand Studie? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-06
-- Wie viel kostet es? — 12.561926000000001 USD
+- Wie viel kostet es? — 12.533901000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

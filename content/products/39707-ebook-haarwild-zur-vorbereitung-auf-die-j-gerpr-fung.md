@@ -4,7 +4,7 @@ digistore24_product_id: 438053
 title: "eBook Haarwild zur Vorbereitung auf die Jägerprüfung"
 vendor: "BenediktAltrogge"
 product_type: "E-books"
-price: 5.22
+price: 5.21
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.04
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2022-04-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/438053?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39707/adminstore/"
 sales_page: "https://www.digistore24.com/product/438053"
 language: "de"
 ---
 # eBook Haarwild zur Vorbereitung auf die Jägerprüfung
 
 > Product ID `39707` · Digistore24 productId `438053` · [HTML profile page](../../produkte/ebook-haarwild-zur-vorbereitung-auf-die-j-gerpr-fung-39707.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.22 (Single payment) |
+| Price | $5.21 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.04 |
 | Cart conversion* | — |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** eBook Kompaktwissen Haarwild. Alle Inhalte zur Vorbereitung auf die Jägerprüfung zusammengefasst als eBook. Einfach zu lesen, reichlich bebildert. Die ideale Ergänzung zu bestehenden Lernmedien. Zum lernen, nachschlagen, Wissen vertiefen oder auffrischen. Versand als PDF.
+**Vendor's marketplace description:** <p>eBook Kompaktwissen Haarwild. Alle Inhalte zur Vorbereitung auf die Jägerprüfung zusammengefasst als eBook. Einfach zu lesen, reichlich bebildert. Die ideale Ergänzung zu bestehenden Lernmedien. Zum lernen, nachschlagen, Wissen vertiefen oder auffrischen.</p>
+<p>Versand als PDF.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/438053?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39707/adminstore/
 - Sales page: https://www.digistore24.com/product/438053
 - Canonical redirect: https://www.digistore24.com/redir/438053/adminstore
 
@@ -72,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook Haarwild zur Vorbereitung auf die Jägerprüfung? — Typ: E-books, Anbieter: BenediktAltrogge, gelistet seit 2022-04-08
-- Wie viel kostet es? — 5.221996000000001 USD
+- Wie viel kostet es? — 5.210346 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

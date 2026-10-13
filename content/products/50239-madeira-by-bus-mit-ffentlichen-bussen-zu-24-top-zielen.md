@@ -4,34 +4,34 @@ digistore24_product_id: 569177
 title: "Madeira by Bus - mit öffentlichen Bussen zu 24 Top-Zielen"
 vendor: "madeira-bus"
 product_type: "E-books"
-price: 20.06
+price: 20.01
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.4
+earnings_per_sale: 4.39
 cart_conversion_pct: 4
 cancel_rate_pct: 1.44
 categories: ["Travel & Culture"]
 listed_since: "2024-09-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.madeira-bus.com/pdf?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50239/adminstore/"
 sales_page: "https://www.madeira-bus.com/pdf"
 language: "de"
 ---
 # Madeira by Bus - mit öffentlichen Bussen zu 24 Top-Zielen
 
 > Product ID `50239` · Digistore24 productId `569177` · [HTML profile page](../../produkte/madeira-by-bus-mit-ffentlichen-bussen-zu-24-top-zielen-50239.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.06 (Single payment) |
+| Price | $20.01 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.40 |
+| Earnings/sale* | $4.39 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.44% |
 | Vendor | madeira-bus |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Entdecke "Madeira by Bus" - den Reiseführer, der neue Wege geht! Madeira by Bus ist der erste Reiseführer, der Urlaubern hilft, die Insel Madeira ohne Mietwagen stressfrei zu erleben – und dabei die Umwelt zu schonen. Ein einzigartiges Konzept für bewusste Reisende und alle, die authentische Erlebnisse mit minimalem CO₂-Fußabdruck suchen. Warum Madeira by Bus ein perfektes Affiliate-Produkt ist: U…
+**Vendor's marketplace description:** <p><strong>Entdecke <em>"Madeira by Bus"</em> - den Reiseführer, der neue Wege geht!</strong>   <br /><br /><em>Madeira by Bus</em> ist der erste Reiseführer, der Urlaubern hilft, die Insel Madeira ohne Mietwagen stressfrei zu erleben – und dabei die Umwelt zu schonen. <br />Ein einzigartiges Konzept für bewusste Reisende und alle, die authentische Erlebnisse mit minimalem CO₂-Fußabdruck suchen.   <br /><br /><strong>Warum <em>Madeira by Bus</em> ein perfektes Affiliate-Produkt ist:</strong> <strong> </strong></p>
+<ul>
+<li><strong>Umweltfreundliches Reisen fördern:</strong> Unterstütze ein Projekt, das Madeiras Natur und Ressourcen schützt, indem es Besuchern die Nutzung öffentlicher Verkehrsmittel erleichtert.<br /><br /></li>
+<li><strong>Aktuell und Interaktiv:</strong> Der Reiseführer enthält nicht nur detaillierte Ortsbeschreibungen und Touren, sondern auch interaktive Landkarten und immer wieder neue Tipps auf den begleitenden Websites. <br /><br /></li>
+<li><strong>Einzigartiger Content:</strong> <em>Madeira by Bus</em> kombiniert als erster Reiseführer umfassende Informationen zu Busverbindungen mit spannenden Tourenvorschlägen – kein anderes Madeira-Guidebook bietet diese Kombination!<br /><br /></li>
+<li><strong>Mehrsprachig und Inklusive:</strong> Bereits in Deutsch und Englisch erhältlich, wird der Reiseführer bald auch auf Französisch verfügbar sein – ideal für ein internationales Publikum.<br /><br /></li>
+<li><strong>Attraktive Provisionen:</strong> Affiliates erhalten 25 % Provision pro Verkauf – Deine Chance auf passives Einkommen, während Du ein sinnvolles Projekt unterstützt.  </li>
+</ul>
+<p><strong>Profitiere jetzt von einem einzigartigen Produkt!</strong> Madeira ist als nachhaltiges Reiseziel beliebt und gewinnt stetig an Interesse. Werde ein Teil dieser Bewegung und zeige Deinen Kontakten den besten Guide für das Abenteuer auf Madeira! <br /><br /> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.madeira-bus.com/pdf?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50239/adminstore/
 - Sales page: https://www.madeira-bus.com/pdf
 - Canonical redirect: https://www.digistore24.com/redir/569177/adminstore
 
@@ -76,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Madeira by Bus - mit öffentlichen Bussen zu 24 Top-Zielen? — Typ: E-books, Anbieter: madeira-bus, gelistet seit 2024-09-08
-- Wie viel kostet es? — 20.05874 USD
+- Wie viel kostet es? — 20.01399 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

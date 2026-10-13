@@ -4,34 +4,34 @@ digistore24_product_id: 613426
 title: "Entspannung auf Knopfdruck - zert. PMR Präventionskurs"
 vendor: "glueckwaerts"
 product_type: "Member area and video courses"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 37.29
+earnings_per_sale: 37.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-05-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.glueckwaerts.com/anmeldung-otcoachy?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53109/adminstore/"
 sales_page: "https://www.glueckwaerts.com/anmeldung-otcoachy"
 language: "de"
 ---
 # Entspannung auf Knopfdruck - zert. PMR Präventionskurs
 
 > Product ID `53109` · Digistore24 productId `613426` · [HTML profile page](../../produkte/entspannung-auf-knopfdruck-zert-pmr-pr-ventionskurs-53109.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.22 (Single payment, Installment) |
+| Price | $93.01 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $37.29 |
+| Earnings/sale* | $37.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | glueckwaerts |
@@ -41,11 +41,46 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle unseren zertifizierten PMR-Präventionskurs Mit unserem Onlinekurs „Entspannung auf Knopfdruck“ hilfst du Menschen mit hoher Stressbelastung – und erhältst für jede erfolgreiche Buchung eine attraktive Provision. ​Deine Vorteile: Attraktive Provision: 40 % pro Verkauf Hohe Qualität: Zertifizierter §20 Präventionskurs Hohe Kaufbereitschaft: Die Krankenkassen erstatten 80-100% der Kursgebühr…
+**Vendor's marketplace description:** <h2>Empfehle unseren zertifizierten PMR-Präventionskurs</h2>
+<p>Mit unserem Onlinekurs „Entspannung auf Knopfdruck“ hilfst du Menschen mit hoher Stressbelastung – und erhältst für jede erfolgreiche Buchung eine attraktive Provision.</p>
+<p>​Deine Vorteile:</p>
+<ul>
+<li>
+<p>Attraktive Provision: 40 % pro Verkauf</p>
+</li>
+<li>
+<p>Hohe Qualität: Zertifizierter §20 Präventionskurs</p>
+</li>
+<li>
+<p>Hohe Kaufbereitschaft: Die Krankenkassen erstatten 80-100% der Kursgebühr</p>
+</li>
+<li>
+<p>Fertige Werbemittel: erhalte fertige Texte, Bilder und Videos</p>
+</li>
+</ul>
+<p> </p>
+<div>
+<h3>Über unseren Onlinekurs</h3>
+</div>
+<div>
+<div> </div>
+</div>
+<div>
+<p>​✔️ 8 aufeinander aufgebaute Wochenmodule: Sie leiten dich Schritt für Schritt durch den Prozess – leicht verständlich und gut machbar.</p>
+<p>✔️ Wöchentliche Erklärvideos: Verstehe, wie dein Körper funktioniert – und wie du ihn gezielt entspannst.</p>
+<p>✔️ Audioanleitungen zum Download: Damit du überall üben kannst – ob im Bett, im Büro oder unterwegs.</p>
+<p>✔️ Arbeitsbuch zur Reflexion inkl. Entspannungstagebuch: Halte deine Fortschritte fest, erkenne Muster – und bleibe motiviert.</p>
+<p>✔️ 100 % Kostenerstattung: Deine Krankenkasse übernimmt den Großteil – wir übernehmen den Rest (bei Feedback).</p>
+<p> </p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Ew9fMy-NIis" target="_blank" rel="noreferrer noopener">Infovideo zum Kurs</a></li>
+<li><a href="https://glueckwaerts.coachy.net/entspannung-auf-knopfdruck-der-pmr-onlinekurs/" target="_blank" rel="noreferrer noopener">Kursportal zum Reinschnuppern</a></li>
+</ul>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.glueckwaerts.com/anmeldung-otcoachy?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53109/adminstore/
 - Sales page: https://www.glueckwaerts.com/anmeldung-otcoachy
 - Vendor affiliate support: https://www.glueckwaerts.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/613426/adminstore
@@ -100,7 +135,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Entspannung auf Knopfdruck - zert. PMR Präventionskurs? — Typ: Member area and video courses, Anbieter: glueckwaerts, gelistet seit 2025-05-18
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

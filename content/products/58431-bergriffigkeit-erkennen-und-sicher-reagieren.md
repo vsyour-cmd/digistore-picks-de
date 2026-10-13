@@ -4,34 +4,34 @@ digistore24_product_id: 679587
 title: "Übergriffigkeit erkennen und sicher reagieren"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.82
+earnings_per_sale: 7.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58431/adminstore/"
 sales_page: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/"
 language: "de"
 ---
 # Übergriffigkeit erkennen und sicher reagieren
 
 > Product ID `58431` · Digistore24 productId `679587` · [HTML profile page](../../produkte/bergriffigkeit-erkennen-und-sicher-reagieren-58431.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.82 |
+| Earnings/sale* | $7.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das E-Book „Übergriffigkeit erkennen & sicher reagieren“ richtet sich an Menschen, die Grenzüberschreitungen in Beziehungen klarer erkennen und lernen möchten, angemessen darauf zu reagieren. Gleichzeitig hilft es dabei, eigene übergriffige Verhaltensweisen zu erkennen und zu verändern. Das E-Book beschäftigt sich mit verschiedenen Formen von Übergriffigkeit, die offen oder sehr subtil auftreten k…
+**Vendor's marketplace description:** <p>Das E-Book „Übergriffigkeit erkennen &amp; sicher reagieren“ richtet sich an Menschen, die Grenzüberschreitungen in Beziehungen klarer erkennen und lernen möchten, angemessen darauf zu reagieren. Gleichzeitig hilft es dabei, eigene übergriffige Verhaltensweisen zu erkennen und zu verändern.</p>
+<p>Das E-Book beschäftigt sich mit verschiedenen Formen von Übergriffigkeit, die offen oder sehr subtil auftreten können. Dazu gehören unter anderem Kontrolle, überrollende Bedürftigkeit, Opfer- und Retterrollen, Einmischung, Täter-Opfer-Umkehr, Schuldumkehr und Beschämung. Jedes Muster wird anhand konkreter Alltagssituationen erklärt und sowohl aus der Perspektive des eigenen Verhaltens als auch im Umgang mit Übergriffigkeit durch andere betrachtet.<br />Das E-Book eignet sich zur Bewerbung bei einer Zielgruppe, die sich mit persönlichen Grenzen, schwierigen Beziehungsdynamiken und Grenzüberschreitungen beschäftigt und mehr Sicherheit darin entwickeln möchte, Übergriffigkeit frühzeitig zu erkennen und darauf zu reagieren.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58431/adminstore/
 - Sales page: https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/
 - Canonical redirect: https://www.digistore24.com/redir/679587/adminstore
 
@@ -79,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Übergriffigkeit erkennen und sicher reagieren? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

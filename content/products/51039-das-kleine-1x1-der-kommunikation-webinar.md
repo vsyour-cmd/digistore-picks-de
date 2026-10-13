@@ -4,16 +4,16 @@ digistore24_product_id: 585598
 title: "Das kleine 1x1 der Kommunikation - Webinar"
 vendor: "Wirtschaftsmediation_CS"
 product_type: "Member area and video courses"
-price: 46.99
+price: 46.88
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.6
+earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2024-12-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/585598?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/585598"
@@ -22,16 +22,16 @@ language: "de"
 # Das kleine 1x1 der Kommunikation - Webinar
 
 > Product ID `51039` · Digistore24 productId `585598` · [HTML profile page](../../produkte/das-kleine-1x1-der-kommunikation-webinar-51039.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.99 (Single payment) |
+| Price | $46.88 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.60 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Wirtschaftsmediation_CS |
@@ -41,7 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Webinar "Das kleine 1x1 der Kommunikation" ist ein Mini-Crashkurs in Sachen Kommunikation - sowohl für den beruflichen als auch den privaten Kontext. Die TeilnehmerInnen lernen ausgewählte Theorien zum Thema Kommunikation kennen und erfahren, wie diese die Entstehung von Missverständnissen erklären. Außerdem schauen wir uns an, welche Rahmenbedingungen für eine "gute" Kommunikation gegeben sei…
+**Vendor's marketplace description:** <p style="text-align:justify;">Das Webinar "Das kleine 1x1 der Kommunikation" ist ein Mini-Crashkurs in Sachen Kommunikation - sowohl für den beruflichen als auch den privaten Kontext.</p>
+<p style="text-align:justify;">Die TeilnehmerInnen lernen ausgewählte Theorien zum Thema Kommunikation kennen und erfahren, wie diese die Entstehung von Missverständnissen erklären. Außerdem schauen wir uns an, welche Rahmenbedingungen für eine "gute" Kommunikation gegeben sein sollten und behandeln zwei Methoden, die einen konfliktarmen Dialog fördern und einen Perspektivwechsel der GesprächspartnerInnen ermöglichen können. Arbeitsblätter zur Selbstreflexion und einer kurzen Zusammenfassung der Inhalte runden das Webinar ab.</p>
+<p><br />Webinarinhalte sind: </p>
+<ul>
+<li style="list-style-type:none;">
+<ul>
+<li>ca. 1h Videomaterial zu
+<ul>
+<li>den Arten der Kommunikation</li>
+<li>drei Kommunikationsmodellen (Sender-Empfänger-Modell, Eisberg-Modell, Kommunikationsquadrat)</li>
+<li>den Rahmenbedingungen "guter" Kommunikation</li>
+<li>Kommunikationsmethoden (Ich-Botschaften, Gewaltfreie Kommunikation)</li>
+<li>Metakommunikation</li>
+<li>drei Arbeitsblätter zur Selbstreflexion</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<p style="text-align:justify;">Angeleitet wird das Webinar von Tanja Mosebach, Psychologin (M.Sc.) und zertifizierte Paarberaterin.</p>
 
 ## 2. Links
 
@@ -73,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das kleine 1x1 der Kommunikation - Webinar? — Typ: Member area and video courses, Anbieter: Wirtschaftsmediation_CS, gelistet seit 2024-12-12
-- Wie viel kostet es? — 46.986758 USD
+- Wie viel kostet es? — 46.881933000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

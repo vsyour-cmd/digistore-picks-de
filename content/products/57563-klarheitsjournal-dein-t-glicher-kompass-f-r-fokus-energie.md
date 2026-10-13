@@ -4,34 +4,34 @@ digistore24_product_id: 559233
 title: "Klarheitsjournal – Dein täglicher Kompass für Fokus, Energie"
 vendor: "DrSilviaSchaefer"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 11.31
+earnings_per_sale: 11.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Leadership & Management"]
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://silviaschaefer.com/klarheitsjournal/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57563/adminstore/"
 sales_page: "https://silviaschaefer.com/klarheitsjournal/"
 language: "de"
 ---
 # Klarheitsjournal – Dein täglicher Kompass für Fokus, Energie
 
 > Product ID `57563` · Digistore24 productId `559233` · [HTML profile page](../../produkte/klarheitsjournal-dein-t-glicher-kompass-f-r-fokus-energie-57563.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $11.31 |
+| Earnings/sale* | $11.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrSilviaSchaefer |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Klarheitsjournal ist ein täglicher Begleiter für mehr Klarheit, Selbstführung und innere Balance. Mit einfachen Morgen- und Abendreflexionen, Wochen- und Monatsrückblicken unterstützt es dabei, bewusste Entscheidungen zu treffen, Energie gezielt einzusetzen und den Alltag mit mehr Ruhe und Fokus zu gestalten. Statt im Funktionsmodus zu bleiben, hilft das Journal dabei, innezuhalten, Prioritäte…
+**Vendor's marketplace description:** <p>Das <strong>Klarheitsjournal</strong> ist ein täglicher Begleiter für mehr Klarheit, Selbstführung und innere Balance. Mit einfachen Morgen- und Abendreflexionen, Wochen- und Monatsrückblicken unterstützt es dabei, bewusste Entscheidungen zu treffen, Energie gezielt einzusetzen und den Alltag mit mehr Ruhe und Fokus zu gestalten.</p>
+<p>Statt im Funktionsmodus zu bleiben, hilft das Journal dabei, innezuhalten, Prioritäten zu erkennen und Schritt für Schritt nachhaltige Routinen für ein bewusstes und wirkungsvolles Leben zu entwickeln.</p>
+<p><strong>Geeignet für:</strong></p>
+<ul>
+<li>Führungskräfte und Entscheider</li>
+<li>Unternehmer und Selbstständige</li>
+<li>Menschen mit hoher Verantwortung im Beruf oder Privatleben</li>
+<li>Alle, die mehr Klarheit, Fokus und innere Balance in ihren Alltag bringen möchten</li>
+</ul>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>Förderbeitrag: <strong>27 EUR</strong></li>
+<li>Affiliate-Provision: <strong>40 %</strong></li>
+</ul>
+<p><strong>Über uns - die Leadership Akademie:</strong><br />Die Leadership Akademie ist ein gemeinnütziger Verein für Bildung und Persönlichkeitsentwicklung. Sie begleitet Menschen dabei, bewusste Selbstführung, Mindful Leadership und nachhaltige Entwicklung zu fördern. Alle Förderbeiträge fließen unmittelbar in die gemeinnützige Bildungs- und Entwicklungsarbeit der Akademie und unterstützen Projekte, die innere Klarheit, mentale Gesundheit und verantwortungsvolles Leadership stärken.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://silviaschaefer.com/klarheitsjournal/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57563/adminstore/
 - Sales page: https://silviaschaefer.com/klarheitsjournal/
 - Canonical redirect: https://www.digistore24.com/redir/559233/adminstore
 
@@ -83,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Klarheitsjournal – Dein täglicher Kompass für Fokus, Energie? — Typ: E-books, Anbieter: DrSilviaSchaefer, gelistet seit 2026-07-16
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

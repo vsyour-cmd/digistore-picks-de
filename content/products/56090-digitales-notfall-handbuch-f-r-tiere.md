@@ -4,16 +4,16 @@ digistore24_product_id: 679064
 title: "Digitales Notfall Handbuch für Tiere"
 vendor: "kathi468111de"
 product_type: "Downloads"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 5.64
+earnings_per_sale: 5.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-03-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/679064?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/679064"
@@ -22,16 +22,16 @@ language: "de"
 # Digitales Notfall Handbuch für Tiere
 
 > Product ID `56090` · Digistore24 productId `679064` · [HTML profile page](../../produkte/digitales-notfall-handbuch-f-r-tiere-56090.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $5.64 |
+| Earnings/sale* | $5.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kathi468111de |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Unterstütze Tierbesitzer dabei, in kritischen Situationen schnell und richtig zu handeln – und profitiere gleichzeitig von attraktiven Provisionen. Dieses digitale Handbuch richtet sich an eine hoch engagierte Zielgruppe: Menschen, die die Sicherheit und das Wohl ihres Tieres ernst nehmen und im Ernstfall vorbereitet sein möchten.
+**Vendor's marketplace description:** <p>Unterstütze Tierbesitzer dabei, in kritischen Situationen schnell und richtig zu handeln – und profitiere gleichzeitig von attraktiven Provisionen.</p>
+<div>Dieses digitale Handbuch richtet sich an eine hoch engagierte Zielgruppe: Menschen, die die Sicherheit und das Wohl ihres Tieres ernst nehmen und im Ernstfall vorbereitet sein möchten.</div>
+<div> </div>
 
 ## 2. Links
 
@@ -71,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitales Notfall Handbuch für Tiere? — Typ: Downloads, Anbieter: kathi468111de, gelistet seit 2026-03-24
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

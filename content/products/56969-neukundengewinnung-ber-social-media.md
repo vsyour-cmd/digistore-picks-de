@@ -4,34 +4,34 @@ digistore24_product_id: 701336
 title: "Neukundengewinnung über Social Media"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.43
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-social-media?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56969/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-social-media"
 language: "de"
 ---
 # Neukundengewinnung über Social Media
 
 > Product ID `56969` · Digistore24 productId `701336` · [HTML profile page](../../produkte/neukundengewinnung-ber-social-media-56969.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.43 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie Unternehmen mit der richtigen Plattformstrategie planbar Anfragen und Neukunden generieren Für Unternehmen ist Social Media kein Spielplatz für Likes, sondern ein Vertriebskanal mit enormem Hebel – wenn man ihn richtig einsetzt. Dieses E-Book zeigt dir, wie du die für dein Business wirkungsvolle Plattform identifizierst, Content entlang der gesamten Customer Journey planst und einen Funnel auf…
+**Vendor's marketplace description:** <p><strong>Wie Unternehmen mit der richtigen Plattformstrategie planbar Anfragen und Neukunden generieren</strong></p>
+<p>Für Unternehmen ist Social Media kein Spielplatz für Likes, sondern ein Vertriebskanal mit enormem Hebel – wenn man ihn richtig einsetzt. Dieses E-Book zeigt dir, wie du die für dein Business wirkungsvolle Plattform identifizierst, Content entlang der gesamten Customer Journey planst und einen Funnel aufbaust, der aus Reichweite qualifizierte Anfragen macht. Du lernst, wie Algorithmus-Grundprinzipien auf LinkedIn, Instagram und TikTok funktionieren, wie du Vertrauen in deine Marke aufbaust, Content effizient auf mehrere Kanäle ausrollt (Repurposing) und wie du den ROI deiner Aktivitäten messbar machst. Ein System, das nicht auf virale Zufälle setzt, sondern auf planbare, wiederkehrende Neukunden.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Plattformwahl für Unternehmen: LinkedIn, Instagram, TikTok und YouTube strategisch vergleichen</li>
+<li>Content entlang der Customer Journey planen und Kaufabsicht gezielt treffen</li>
+<li>Funnel aufbauen: von der ersten Sichtbarkeit bis zur Anfrage und zum Abschluss</li>
+<li>Repurposing-System: Content effizient auf mehrere Kanäle ausrollen</li>
+<li>Algorithmus-Grundprinzipien nutzen: was organische Reichweite auf allen Plattformen treibt</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/neukundengewinnung-ueber-social-media?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56969/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/neukundengewinnung-ueber-social-media
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701336/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neukundengewinnung über Social Media? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

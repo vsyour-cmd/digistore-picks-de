@@ -4,16 +4,16 @@ digistore24_product_id: 309532
 title: "[NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de"
 vendor: "digitalbeat"
 product_type: "Book (printed)"
-price: 910.92
+price: 908.89
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 31.89
+earnings_per_sale: 31.82
 cart_conversion_pct: 9
 cancel_rate_pct: 6.98
 categories: ["Business & Investment"]
 listed_since: "2020-02-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/309532/adminstore"
 sales_page: "https://start.gruender.de/24-stunden-startup/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # [NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de
 
 > Product ID `32174` · Digistore24 productId `309532` · [HTML profile page](../../produkte/neu-24-stunden-startup-von-thomas-klu-mann-gr-nder-de-32174.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $910.92 (Single payment) |
+| Price | $908.89 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $31.89 |
+| Earnings/sale* | $31.82 |
 | Cart conversion* | 9% |
 | Cancel rate* | 6.98% |
 | Vendor | digitalbeat |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenke unsern neuen Bestseller "Das 24 Stunden Startup" an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung! 211 Seiten extrem guter Content Hochwertig als echtes Buch produziert Das Standard-Werk für alle die schnell ein eigenes Projekt starten wollen Über 4.500 Bücher am ersten Tag verschenkt Gemeinsam mit Gründercoach Christoph J. F. Schreiber erstellt Sehr geringe S…
+**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>Verschenke unsern neuen Bestseller "Das 24 Stunden Startup" an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung!</strong></span></h2>
+<ul>
+<li>211 Seiten extrem guter Content</li>
+<li>Hochwertig als echtes Buch produziert</li>
+<li>Das Standard-Werk für alle die schnell ein eigenes Projekt starten wollen</li>
+<li>Über 4.500 Bücher am ersten Tag verschenkt</li>
+<li>Gemeinsam mit Gründercoach Christoph J. F. Schreiber erstellt</li>
+<li>Sehr geringe Stornoquote</li>
+</ul>
+<p><strong>Wir zahlen dir 5€ Provision für jede Bestellung!</strong> Melde dich jetzt als Affiliate an und wir schicken dir sofort eine perfekte Textvorlage zu! </p>
+<p>Beste Grüße aus Köln<br />Dein Thomas Klußmann<br />- Gründer.de -</p>
 
 ## 2. Links
 
@@ -72,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2020-02-24
-- Wie viel kostet es? — 910.924534 USD
+- Wie viel kostet es? — 908.8923090000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

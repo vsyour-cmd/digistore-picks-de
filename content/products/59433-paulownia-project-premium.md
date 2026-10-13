@@ -4,34 +4,34 @@ digistore24_product_id: 724801
 title: "​Paulownia Project Premium | Проект Павловния Премиум"
 vendor: "fafenrotirina9b234"
 product_type: "E-books"
-price: 1680.9
+price: 1677.15
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 168.09
+earnings_per_sale: 167.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/724801?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59433/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/724801"
 language: "de"
 ---
 # ​Paulownia Project Premium | Проект Павловния Премиум
 
 > Product ID `59433` · Digistore24 productId `724801` · [HTML profile page](../../produkte/paulownia-project-premium-59433.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $1680.90 (Single payment) |
+| Price | $1677.15 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $168.09 |
+| Earnings/sale* | $167.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fafenrotirina9b234 |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** EN: Welcome to the affiliate program! The "Paulownia Project Premium" is an exclusive digital methodology and sophisticated business architecture tailored for capital diversification and high-yield agricultural investment. Created in Russian for Russian-speaking entrepreneurs and investors, this comprehensive digital asset provides an elite roadmap to enter high-value niche markets. Benefit from a…
+**Vendor's marketplace description:** <p>EN: Welcome to the affiliate program! The "Paulownia Project Premium" is an exclusive digital methodology and sophisticated business architecture tailored for capital diversification and high-yield agricultural investment. Created in Russian for Russian-speaking entrepreneurs and investors, this comprehensive digital asset provides an elite roadmap to enter high-value niche markets. Benefit from a high average order value and exceptional commissions for quality traffic.</p>
+<p>​RU: Добро пожаловать в партнерскую программу! «Проект Павловния Премиум» — это эксклюзивная цифровая методология и продуманная бизнес-архитектура, созданная для диверсификации капитала и доходных инвестиций в агробизнес. Этот исчерпывающий цифровой продукт на русском языке предназначен для русскоязычных предпринимателей и инвесторов, предлагая элитную дорожную карту для успешного выхода на высокодоходные нишевые рынки. Высокий чек и отличные комиссионные для партнеров.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724801?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59433/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/724801
 - Canonical redirect: https://www.digistore24.com/redir/724801/adminstore
 
@@ -86,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ​Paulownia Project Premium | Проект Павловния Премиум? — Typ: E-books, Anbieter: fafenrotirina9b234, gelistet seit 2026-09-20
-- Wie viel kostet es? — 1680.9 USD
+- Wie viel kostet es? — 1677.15 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

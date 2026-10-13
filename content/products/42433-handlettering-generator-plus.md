@@ -4,34 +4,34 @@ digistore24_product_id: 354191
 title: "Handlettering Generator Plus"
 vendor: "Timothy90"
 product_type: "Software"
-price: 56.5
+price: 56.37
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 18.99
+earnings_per_sale: 18.95
 cart_conversion_pct: 34
 cancel_rate_pct: 0.69
 categories: ["Software"]
 listed_since: "2020-10-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://handletteringlernen.de/handlettering-generator-plus/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/42433/adminstore/"
 sales_page: "https://handletteringlernen.de/handlettering-generator-plus/"
 language: "de"
 ---
 # Handlettering Generator Plus
 
 > Product ID `42433` · Digistore24 productId `354191` · [HTML profile page](../../produkte/handlettering-generator-plus-42433.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $56.50 (Subscription) |
+| Price | $56.37 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $18.99 |
+| Earnings/sale* | $18.95 |
 | Cart conversion* | 34% |
 | Cancel rate* | 0.69% |
 | Vendor | Timothy90 |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Spezielle Software (Webapp) im Bereich Schriften und Bildbearbeitung mit Abo-Modell. Traumhafte Kompositionen, charmante Schriften und liebevolle Verzierungen. Der Handlettering Generator Plus hilft den Nutzern dabei, genau die Ideen umzusetzen, die sie vor ihrem geistigen Auge sehen. Alternativ erstellen sie mit dem Generator komplett fertige Karten, Logos, Schriftstücke und vieles mehr. Link zur…
+**Vendor's marketplace description:** <p><strong>Spezielle Software (Webapp) im Bereich Schriften und Bildbearbeitung mit Abo-Modell.</strong></p>
+<p>Traumhafte Kompositionen, charmante Schriften und liebevolle Verzierungen. Der Handlettering Generator Plus hilft den Nutzern dabei, genau die Ideen umzusetzen, die sie vor ihrem geistigen Auge sehen. Alternativ erstellen sie mit dem Generator komplett fertige Karten, Logos, Schriftstücke und vieles mehr.</p>
+<p>Link zur App:<br /><a href="https://handletteringlernen.de/generator/">https://handletteringlernen.de/generator/</a></p>
+<p>Link zur Verkaufsseite:<br /><a href="https://handletteringlernen.de/handlettering-generator-plus/">https://handletteringlernen.de/handlettering-generator-plus/</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://handletteringlernen.de/handlettering-generator-plus/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/42433/adminstore/
 - Sales page: https://handletteringlernen.de/handlettering-generator-plus/
 - Canonical redirect: https://www.digistore24.com/redir/354191/adminstore
 
@@ -95,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Handlettering Generator Plus? — Typ: Software, Anbieter: Timothy90, gelistet seit 2020-10-25
-- Wie viel kostet es? — 56.500652 USD
+- Wie viel kostet es? — 56.37460200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

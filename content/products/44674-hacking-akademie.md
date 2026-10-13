@@ -4,16 +4,16 @@ digistore24_product_id: 425615
 title: "Hacking-Akademie"
 vendor: "ciregrebma"
 product_type: "Member area and video courses"
-price: 281.56
+price: 280.93
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 84.47
+earnings_per_sale: 84.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2022-01-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/425615?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/425615"
@@ -22,16 +22,16 @@ language: "de"
 # Hacking-Akademie
 
 > Product ID `44674` · Digistore24 productId `425615` · [HTML profile page](../../produkte/hacking-akademie-44674.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $281.56 (Subscription) |
+| Price | $280.93 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $84.47 |
+| Earnings/sale* | $84.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ciregrebma |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Hacking-Akademie ist eine Learning-Plattform für alle angehenden Pen-Tester und White-Hat-Hacker. Von Eric Amberg gegründet bietet die Hacking-Akademie umfangreiches modular aufgebautes Videomaterial, welches in sogenannten Capture-The-Flag-Aufgaben angewandt werden kann. Kommt ein User nicht weiter, kann er sich auf die umfangreiche Hilfe von den Dozenten im exklusiven Forum verlassen. Hier k…
+**Vendor's marketplace description:** <p>Die Hacking-Akademie ist eine Learning-Plattform für alle angehenden Pen-Tester und White-Hat-Hacker.</p>
+<p>Von Eric Amberg gegründet bietet die Hacking-Akademie umfangreiches modular aufgebautes Videomaterial, welches in sogenannten Capture-The-Flag-Aufgaben angewandt werden kann.</p>
+<p>Kommt ein User nicht weiter, kann er sich auf die umfangreiche Hilfe von den Dozenten im exklusiven Forum verlassen.</p>
+<p>Hier könnt ihr Euch ein erstes Bild von der Plattform machen:</p>
+<p><a href="http://www.hacking-akademie.de">www.hacking-akademie.de</a></p>
+<p>Wir bieten aktuell ein interessantes Affiliate-Programm an, an welchem ihr mit einer <strong>Lifetime-Provision</strong> mitverdienen könnt.</p>
+<p>Die Provision kann sich auf bis zu <strong>30%</strong> über die gesamte Laufzeit der jeweiligen Mitgliedschaften belaufen.</p>
+<p>Der reguläre Monatsbeitrag beläuft sich auf 29,90€, der Jahresbeitrag auf 299€.</p>
+<p>Rabatte können nach Absprache ebenfalls gewährt werden, falls sich dies verkaufsfördernd widerspiegelt.</p>
+<p>Übrigens: </p>
+<p>Als besonderes Alleinstellungsmerkmal zu anderen Anbietern auf dem Markt ist die Hacking-Akademie das einzige deutschsprachige Angebot.</p>
+<p>Für weiter Details und Fragen nehmt gerne Kontakt mit Philipp auf:</p>
+<p><a href="mailto:philipp@hacking-akademie.de">philipp@hacking-akademie.de</a></p>
+<p>+49 160 820 6196</p>
 
 ## 2. Links
 
@@ -86,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hacking-Akademie? — Typ: Member area and video courses, Anbieter: ciregrebma, gelistet seit 2022-01-19
-- Wie viel kostet es? — 281.561956 USD
+- Wie viel kostet es? — 280.933806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

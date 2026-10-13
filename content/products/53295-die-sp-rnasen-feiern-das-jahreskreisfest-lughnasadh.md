@@ -4,34 +4,34 @@ digistore24_product_id: 620786
 title: "Die Spürnasen feiern das Jahreskreisfest Lughnasadh"
 vendor: "IsabellFa"
 product_type: "Member area and video courses"
-price: 19.78
+price: 19.73
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 11.21
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Hobby & Craft","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-06-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/620786?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53295/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/620786"
 language: "de"
 ---
 # Die Spürnasen feiern das Jahreskreisfest Lughnasadh
 
 > Product ID `53295` · Digistore24 productId `620786` · [HTML profile page](../../produkte/die-sp-rnasen-feiern-das-jahreskreisfest-lughnasadh-53295.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $19.78 (Single payment, Installment) |
+| Price | $19.73 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $11.21 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IsabellFa |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Spürnasen feiern das Jahreskreisfest Lughnasadh Ein Onlinekurs für Kinder mit Geschichten, Naturwissen und Kreativität Dieser familienfreundlich gestaltete Onlinekurs lädt Kinder (und ihre Familien) dazu ein, das alte Fest Lughnasadh mit allen Sinnen zu entdecken. Gemeinsam mit den Naturspürnasen und dem sprechenden Hund Oscar erleben die Kinder eine spannende Hörgeschichte, basteln, entdecken…
+**Vendor's marketplace description:** <h3><strong>Die Spürnasen feiern das Jahreskreisfest Lughnasadh</strong></h3>
+<p><strong>Ein Onlinekurs für Kinder mit Geschichten, Naturwissen und Kreativität</strong></p>
+<p>Dieser familienfreundlich gestaltete Onlinekurs lädt Kinder (und ihre Familien) dazu ein, das alte Fest <strong>Lughnasadh</strong> mit allen Sinnen zu entdecken.</p>
+<p>Gemeinsam mit den Naturspürnasen und dem sprechenden Hund <strong>Oscar</strong> erleben die Kinder eine spannende Hörgeschichte, <strong>basteln,</strong> entdecken <strong>alte Mythen</strong>, erfahren <strong>geschichtliche Hintergründe </strong>und wie es heute gefeiert wird.</p>
+<p>Der Kurs verbindet <strong>altes Wissen</strong> mit der heutigen Zeit, lässt Kinder in die Natur eintauchen und sorgt für leuchtende Augen beim Feiern.</p>
+<p> </p>
+<p><strong>Das erwartet euch:</strong><br />– eine mitreißende Geschichte zum Hören mit Bildern (mehr als 60 Minuten in 5 Teile untergliedert)<br />– ein großes Workbook zum herunterladen<br />– Ritualanleitungen und Rezepte<br />– kindgerechtes Wissen rund um Lughnasadh, Ernte und Natur<br />– interaktive Quizze </p>
+<p>Alles, was ihr braucht: etwas Zeit, Neugier und Lust auf ein Fest!</p>
+<p>Es beginnt vor dem Bildschirm und führt davon weg.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/620786?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53295/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/620786
 - Canonical redirect: https://www.digistore24.com/redir/620786/adminstore
 
@@ -71,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Spürnasen feiern das Jahreskreisfest Lughnasadh? — Typ: Member area and video courses, Anbieter: IsabellFa, gelistet seit 2025-06-26
-- Wie viel kostet es? — 19.778589999999998 USD
+- Wie viel kostet es? — 19.734465 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

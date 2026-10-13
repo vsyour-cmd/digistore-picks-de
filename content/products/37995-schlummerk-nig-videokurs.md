@@ -4,34 +4,34 @@ digistore24_product_id: 299926
 title: "Schlummerkönig-Videokurs"
 vendor: "babyschlummerland"
 product_type: "Member area and video courses"
-price: 168.56
+price: 168.18
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 54.06
+earnings_per_sale: 53.94
 cart_conversion_pct: 24
 cancel_rate_pct: 4.23
 categories: ["Family & Children"]
 listed_since: "2019-12-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.babyschlummerland.de/schlummerkoenig/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37995/adminstore/"
 sales_page: "https://www.babyschlummerland.de/schlummerkoenig/"
 language: "de"
 ---
 # Schlummerkönig-Videokurs
 
 > Product ID `37995` · Digistore24 productId `299926` · [HTML profile page](../../produkte/schlummerk-nig-videokurs-37995.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $168.56 (Single payment) |
+| Price | $168.18 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $54.06 |
+| Earnings/sale* | $53.94 |
 | Cart conversion* | 24% |
 | Cancel rate* | 4.23% |
 | Vendor | babyschlummerland |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Müde, erschöpft, ratlos? Hier kommt die Lösung! Der Schlummerkönig-Videokurs bringt sanftes Schlummerglück für die gesamte Familie Im SchlummerKönig-Videokurs lernen Teilnehmer in einfachen Schritten, wie man seinem Baby oder Kleinkind (4 Mon.-2,5 Jahre) das Ein- und Durchschlafen nachts sowie großartige Nickerchen tagsüber beibringen kann. Im Schlummerkönig-Kurs sind enthalten: Zugang zu 40 Video…
+**Vendor's marketplace description:** <h3><span style="font-size:14px;">Müde, erschöpft, ratlos? Hier kommt die Lösung!</span></h3>
+<div>
+<p><strong>Der Schlummerkönig-Videokurs</strong> bringt sanftes Schlummerglück für die gesamte Familie</p>
+<p>Im SchlummerKönig-Videokurs lernen Teilnehmer in einfachen Schritten, wie man seinem Baby oder Kleinkind (4 Mon.-2,5 Jahre) das Ein- und Durchschlafen nachts sowie großartige Nickerchen tagsüber beibringen kann.</p>
+<p>Im Schlummerkönig-Kurs sind enthalten:</p>
+<ul>
+<li>Zugang zu 40 Videos</li>
+<li>Downloads zur Veranschaulichung und mit allen wichtigen Infos sowie vielen extra Tipps und Tricks (als PDFs).</li>
+<li>Basis und Premium-Version</li>
+</ul>
+<p> </p>
+<p><span style="background-color:#ffff99;">PS: Frage uns nach einem individuellen Rabattcode für deine Community/E-Mail-Liste/etc.</span></p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.babyschlummerland.de/schlummerkoenig/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37995/adminstore/
 - Sales page: https://www.babyschlummerland.de/schlummerkoenig/
 - Vendor affiliate support: https://www.babyschlummerland.de/partnerprogramm-im-babyschlummerland/
 - Canonical redirect: https://www.digistore24.com/redir/299926/adminstore
@@ -90,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlummerkönig-Videokurs? — Typ: Member area and video courses, Anbieter: babyschlummerland, gelistet seit 2019-12-16
-- Wie viel kostet es? — 168.560652 USD
+- Wie viel kostet es? — 168.184602 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

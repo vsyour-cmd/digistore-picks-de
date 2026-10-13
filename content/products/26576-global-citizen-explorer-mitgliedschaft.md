@@ -4,16 +4,16 @@ digistore24_product_id: 233950
 title: "Global Citizen Explorer Mitgliedschaft"
 vendor: "serfanoo"
 product_type: "Downloads"
-price: 1415.44
+price: 1412.28
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 106.82
+earnings_per_sale: 106.58
 cart_conversion_pct: 1
 cancel_rate_pct: 1.75
 categories: ["Business & Investment"]
 listed_since: "2018-07-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.globalcitizenexplorer.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.globalcitizenexplorer.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Global Citizen Explorer Mitgliedschaft
 
 > Product ID `26576` · Digistore24 productId `233950` · [HTML profile page](../../produkte/global-citizen-explorer-mitgliedschaft-26576.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $1415.44 (Subscription) |
+| Price | $1412.28 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $106.82 |
+| Earnings/sale* | $106.58 |
 | Cart conversion* | 1% |
 | Cancel rate* | 1.75% |
 | Vendor | serfanoo |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Global Citizen Explorer ist ein exklusives Offshore Magazin und einzigartig im deutschsprachigen Raum! Es handelt sich dabei um ein monatliches oder jährliches Abo. Wir zeigen unseren Mitgliedern die besten Möglichkeiten weltweit auf, um ihr eigenes Business im Bereich Steuern, Vermögensaufbau, Vermögensschutz, Diversifizierung, Investements etc. legal zu optimieren. Das Produkt spezialisert s…
+**Vendor's marketplace description:** <p>Der Global Citizen Explorer ist ein exklusives Offshore Magazin und einzigartig im deutschsprachigen Raum! </p>
+<p>Es handelt sich dabei um ein monatliches oder jährliches Abo. Wir zeigen unseren Mitgliedern die besten Möglichkeiten weltweit auf, um ihr eigenes Business im Bereich Steuern, Vermögensaufbau, Vermögensschutz, Diversifizierung, Investements etc. legal zu optimieren. </p>
+<p>Das Produkt spezialisert sich auf Unternehmer und die Mittelschicht. </p>
+<p>Unsere Affiliate Seite findest Du hier: <a href="https://www.globalcitizenexplorer.com/2429846287542984274026zf6t2d6ed72d827fe78td2/">https://www.globalcitizenexplorer.com/affiliate/</a> </p>
 
 ## 2. Links
 
@@ -101,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Global Citizen Explorer Mitgliedschaft? — Typ: Downloads, Anbieter: serfanoo, gelistet seit 2018-07-20
-- Wie viel kostet es? — 1415.4410659999999 USD
+- Wie viel kostet es? — 1412.283291 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 110755
 title: "Basis-Webinar Teil 1"
 vendor: "khaphom5"
 product_type: "Webinar"
-price: 46.99
+price: 46.88
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.5
+earnings_per_sale: 23.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2016-12-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://rheinische-hundeschule.de/Start/basis-webinar/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/21293/adminstore/"
 sales_page: "https://rheinische-hundeschule.de/Start/basis-webinar/"
 language: "de"
 ---
 # Basis-Webinar Teil 1
 
 > Product ID `21293` · Digistore24 productId `110755` · [HTML profile page](../../produkte/basis-webinar-teil-1-21293.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $46.99 (Single payment) |
+| Price | $46.88 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.50 |
+| Earnings/sale* | $23.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | khaphom5 |
@@ -41,11 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Basis-Webinar: Grundlagen in der Hundeerziehung Wenn Du nur möchtest, dass Dein Hund kommt, wenn Du ihn rufst, hört sich das zwar ganz einfach an, ist aber eigentlich die schwerste aller Übungen. Wenn Du daran arbeiten möchtest oder auch nur möchtest, dass Dein Hund ein glückliches Hundeleben führt, bist Du in diesem Basis-Webinar genau richtig. In diesem Webinar lernst Du, wie Du für Deinen Hund …
+**Vendor's marketplace description:** <h1>Basis-Webinar: Grundlagen in der Hundeerziehung</h1>
+<p>Wenn Du nur möchtest, dass Dein Hund kommt, wenn Du ihn rufst, hört sich das zwar ganz einfach an, ist aber eigentlich die schwerste aller Übungen.</p>
+<p><strong>Wenn Du daran arbeiten möchtest oder auch nur möchtest, dass Dein Hund ein glückliches Hundeleben führt, bist Du in diesem Basis-Webinar genau richtig.</strong></p>
+<p>In diesem Webinar lernst Du, wie Du für Deinen Hund eine wichtige Führungspersönlichkeit und ein guter Sozialpartner wirst. Wie Du Dich sinnvoll mit ihm beschäftigst und auch artgerecht und ethisch vertretbar vermittelst, wenn Du Dinge nicht möchtest.</p>
+<p><strong>Ebenso siehst Du in verschiedenen Trainingssequenzen, wie man Signale wie Sitz, Down und das Signal fürs Kommen aufbaut und natürlich wie er lernt, Besitz freiwillig abzugeben, usw.</strong></p>
+<p>Inhalte unter anderem:</p>
+<ul><li>Einführung in das Thema Natural Dogmanship</li>
+<li>verschiedene Konditionierungsformen (unser Schwerpunkt: soziales Lernen)</li>
+<li>Die Umfelder (Haus, Garten, alles außerhalb des Gartens)</li>
+<li>Struktur zu Hause</li>
+<li>Artgerecht, verständlich und ethisch vertretbar Tabus, bzw. Grenzen setzen</li>
+<li>Sinnvoller Aufbau von Signalen wie Sitz, Down, Bei und das <strong>FREIWILLIGE</strong> Abgeben von Besitz</li>
+<li>Umgang mit der Leine</li>
+<li>Aufbau von (für den Hund) sinnvoller gemeinsamer Beschäftigung</li>
+<li>Aufbau von Steadiness (konstantes Ausführen von Signalen)</li>
+<li>Start der Sucharbeit</li>
+<li>Wie gehe ich bei Hundebegegnungen vor und wie starte ich sinnvoll Hundekontakt</li>
+<li>und vieles mehr</li>
+</ul><p><strong>Mit diesem Webinar erhälst Du eine umfassende Erziehungsgrundlage zum Beziehungsaufbau für Dich und Deinen Hund. </strong></p>
+<p><strong>Über 2 Stunden und 30 Minuten geballte Wissensvermittlung und Praxisvideos. </strong></p>
+<p><em>Wir haben es für Dich in 3 aufeinander aufbauende Teile aufgeteilt, so hast Du es einfacher beim Download.</em></p>
+<p>Wir wünschen Dir viel Spaß bei diesem Webinar und freuen uns über viele Teilnehmer.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://rheinische-hundeschule.de/Start/basis-webinar/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/21293/adminstore/
 - Sales page: https://rheinische-hundeschule.de/Start/basis-webinar/
 - Canonical redirect: https://www.digistore24.com/redir/110755/adminstore
 
@@ -81,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Basis-Webinar Teil 1? — Typ: Webinar, Anbieter: khaphom5, gelistet seit 2016-12-27
-- Wie viel kostet es? — 46.986758 USD
+- Wie viel kostet es? — 46.881933000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 693031
 title: "MAFIA der Essgelüste –  Schluss mit Heißhunger"
 vendor: "infoea49"
 product_type: "Deliverable"
-price: 26.37
+price: 26.31
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.91
+earnings_per_sale: 7.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Personal Development"]
 listed_since: "2026-06-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/693031?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/693031"
@@ -22,16 +22,16 @@ language: "de"
 # MAFIA der Essgelüste –  Schluss mit Heißhunger
 
 > Product ID `56782` · Digistore24 productId `693031` · [HTML profile page](../../produkte/mafia-der-essgel-ste-schluss-mit-hei-hunger-56782.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $26.37 (Single payment) |
+| Price | $26.31 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.91 |
+| Earnings/sale* | $7.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | infoea49 |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** MAFIA der Essgelüste ist ein humorvoller und zugleich tiefgründiger Blick auf emotionales Essverhalten. Autorin Maria Spielmann verbindet ihre Erfahrung als Kriminalhauptkommissarin und Hypnosetherapeutin zu einem einzigartigen Ermittlungsansatz. Vom ersten Anruf der inneren Mafia bis hin zum Zeugenschutzprogramm leitet Maria Spielmann durch "Fallgeschichten" und bringt den Heißhunger hinter "Gitt…
+**Vendor's marketplace description:** <p>MAFIA der Essgelüste ist ein humorvoller und zugleich tiefgründiger Blick auf emotionales Essverhalten. Autorin Maria Spielmann verbindet ihre Erfahrung als Kriminalhauptkommissarin und Hypnosetherapeutin zu einem einzigartigen Ermittlungsansatz. </p>
+<p>Vom ersten Anruf der inneren Mafia bis hin zum Zeugenschutzprogramm leitet Maria Spielmann durch "Fallgeschichten" und bringt den Heißhunger hinter "Gitter".</p>
+<p>Das Buch eignet sich daher besonders für Menschen, die Heißhunger, emotionales Essen und wiederkehrende Verhaltensmuster besser verstehen und verändern möchten.</p>
 
 ## 2. Links
 
@@ -74,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MAFIA der Essgelüste –  Schluss mit Heißhunger? — Typ: Deliverable, Anbieter: infoea49, gelistet seit 2026-06-02
-- Wie viel kostet es? — 26.367718000000004 USD
+- Wie viel kostet es? — 26.308893000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

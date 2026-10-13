@@ -4,34 +4,34 @@ digistore24_product_id: 734859
 title: "Steuer 1×1 für Creator – von Almedina Hajro"
 vendor: "Medina88"
 product_type: "E-books"
-price: 417.87
+price: 416.94
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 167.15
+earnings_per_sale: 166.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Social Media","Finances"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/734859?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59363/adminstore/"
 sales_page: "https://www.digistore24.com/product/734859"
 language: "de"
 ---
 # Steuer 1×1 für Creator – von Almedina Hajro
 
 > Product ID `59363` · Digistore24 productId `734859` · [HTML profile page](../../produkte/steuer-1-1-f-r-creator-von-almedina-hajro-59363.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $417.87 (Single payment) |
+| Price | $416.94 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $167.15 |
+| Earnings/sale* | $166.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Medina88 |
@@ -41,11 +41,37 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Steuer 1×1 für Creator – von Almedina Hajro Steuern, Buchhaltung und finanzielle Planung gehören zu jeder professionellen Selbstständigkeit – gerade für Creator, Influencer, Freelancer und andere digitale Dienstleister. Gleichzeitig wirken diese Themen im Business-Alltag schnell kompliziert und unübersichtlich. Der „Steuer 1×1 für Creator“ von Almedina Hajro hilft dir dabei, die wichtigsten steuer…
+**Vendor's marketplace description:** <p>Steuer 1×1 für Creator – von Almedina Hajro</p>
+<p>Steuern, Buchhaltung und finanzielle Planung gehören zu jeder professionellen Selbstständigkeit – gerade für Creator, Influencer, Freelancer und andere digitale Dienstleister. Gleichzeitig wirken diese Themen im Business-Alltag schnell kompliziert und unübersichtlich.</p>
+<p>Der „Steuer 1×1 für Creator“ von Almedina Hajro hilft dir dabei, die wichtigsten steuerlichen und finanziellen Grundlagen deiner Selbstständigkeit strukturiert zu verstehen und deine Finanzen besser zu organisieren.</p>
+<p>Du erhältst praxisnahe Informationen und direkt einsetzbare Werkzeuge rund um:</p>
+<p>steuerliche Grundlagen für Selbstständige und Creator</p>
+<p>Buchhaltung und Einnahmen-Ausgaben-Organisation</p>
+<p>Rechnungen und wichtige Anforderungen</p>
+<p>Rücklagen für Steuern und finanzielle Planung</p>
+<p>Kleinunternehmerregelung</p>
+<p>typische Fehler und wichtige Stolperfallen</p>
+<p>geschäftliche Ausgaben und deren Dokumentation</p>
+<p>Organisation deiner Unterlagen</p>
+<p>Vorbereitung auf die Zusammenarbeit mit einer Steuerberatung</p>
+<p>Das ist enthalten:</p>
+<p>Premium-PDF-Guide</p>
+<p>Workbook</p>
+<p>Finanz- &amp; Rücklagenrechner</p>
+<p>Einnahmen-/Ausgaben-Tracker</p>
+<p>PR-Sample-Tracker</p>
+<p>Checklisten und Vorlagen</p>
+<p>Steuerkalender</p>
+<p>weitere praktische Organisationstools</p>
+<p>Damit hast du nicht nur theoretisches Wissen, sondern ein komplettes digitales Arbeitspaket, das dich bei der strukturierten Organisation deiner finanziellen Themen im Business unterstützt.</p>
+<p>Für wen ist der Guide geeignet?</p>
+<p>Für Content Creator, Influencer, UGC-Creator, Freelancer, Social Media Manager und andere Selbstständige, die ihre steuerlichen und finanziellen Themen besser verstehen und professioneller organisieren möchten.</p>
+<p>Wichtiger Hinweis:</p>
+<p>Der Guide dient ausschließlich der allgemeinen Information und Weiterbildung. Er ersetzt keine individuelle Steuer-, Rechts- oder Finanzberatung. Bei persönlichen steuerlichen oder rechtlichen Fragen solltest du eine entsprechend qualifizierte Fachperson konsultieren.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/734859?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59363/adminstore/
 - Sales page: https://www.digistore24.com/product/734859
 - Canonical redirect: https://www.digistore24.com/redir/734859/adminstore
 
@@ -82,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Steuer 1×1 für Creator – von Almedina Hajro? — Typ: E-books, Anbieter: Medina88, gelistet seit 2026-09-19
-- Wie viel kostet es? — 417.87174 USD
+- Wie viel kostet es? — 416.93949000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

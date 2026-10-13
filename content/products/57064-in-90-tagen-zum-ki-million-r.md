@@ -4,16 +4,16 @@ digistore24_product_id: 703405
 title: "In 90 Tagen zum KI-Millionär"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-06-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/ki-millionaer-90-tage?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/ki-millionaer-90-tage"
@@ -22,16 +22,16 @@ language: "de"
 # In 90 Tagen zum KI-Millionär
 
 > Product ID `57064` · Digistore24 productId `703405` · [HTML profile page](../../produkte/in-90-tagen-zum-ki-million-r-57064.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „In 90 Tagen zum KI-Millionär" Großer Titel, nüchterner Plan: In 90 Tagen baust du mit KI ein echtes Fundament – ein Angebot, erste Kunden, erste Umsätze. Schritt für Schritt, ehrlich und ohne Reichtum auf Knopfdruck. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: KI, Online-Business & Geld verdienen Professionell…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „In 90 Tagen zum KI-Millionär"</strong></p>
+<p>Großer Titel, nüchterner Plan: In 90 Tagen baust du mit KI ein echtes Fundament – ein Angebot, erste Kunden, erste Umsätze. Schritt für Schritt, ehrlich und ohne Reichtum auf Knopfdruck.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
+<li>Gefragtes Thema: KI, Online-Business &amp; Geld verdienen</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Verstehen, was „KI-Millionär“ realistisch bedeutet – und was nicht</li>
+<li>Einen 90-Tage-Rahmen mit Zielen setzen, die wirklich tragen</li>
+<li>Das passende KI-Geschäftsmodell für dich finden</li>
+<li>In drei Phasen zu Fundament, ersten Umsätzen und Ausbau</li>
+<li>Aus dem Projekt ein tragfähiges Business machen</li>
+</ul>
+<p><strong>Für deine Zielgruppe:</strong> Menschen, die mit KI und Online-Business ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
+<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
 
 ## 2. Links
 
@@ -86,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist In 90 Tagen zum KI-Millionär? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-19
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 674753
 title: "VERA-X AI-Business Engine™"
 vendor: "smartboostAI"
 product_type: "Remote service provided electronically"
-price: 13437.11
+price: 13407.14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4031.13
+earnings_per_sale: 4022.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Marketing Services"]
 listed_since: "2026-03-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/674753?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/674753"
@@ -22,16 +22,16 @@ language: "de"
 # VERA-X AI-Business Engine™
 
 > Product ID `55852` · Digistore24 productId `674753` · [HTML profile page](../../produkte/vera-x-ai-business-engine-55852.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $13437.11 (Single payment, Installment) |
+| Price | $13407.14 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4031.13 |
+| Earnings/sale* | $4022.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | smartboostAI |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** VERA-X AI Business Engine™ ist ein vollständig aufgebautes KI-Business-System für Unternehmen. Statt nur Software zu verkaufen, erhält der Kunde eine komplette Infrastruktur inklusive High-Conversion-Landingpage, KI-Sales-Agent, CRM-Integration und automatisierter Leadbearbeitung. Das System beantwortet Kundenanfragen automatisch, unterstützt den Vertrieb und hilft Unternehmen, schneller auf Leads…
+**Vendor's marketplace description:** <p><strong>VERA-X AI Business Engine™</strong> ist ein vollständig aufgebautes KI-Business-System für Unternehmen. Statt nur Software zu verkaufen, erhält der Kunde eine komplette Infrastruktur inklusive High-Conversion-Landingpage, KI-Sales-Agent, CRM-Integration und automatisierter Leadbearbeitung.</p>
+<p>Das System beantwortet Kundenanfragen automatisch, unterstützt den Vertrieb und hilft Unternehmen, schneller auf Leads zu reagieren und mehr Termine zu vereinbaren.</p>
+<p>Als Affiliate empfehlen Sie ein hochwertiges Done-for-You-Business-System für Unternehmer. Der Kunde erhält ein vollständiges Setup, das von unserem Team umgesetzt wird – Sie vermitteln lediglich den Kontakt.</p>
+<p>Provision pro Verkauf: 2.999 € zzgl. gest MwSt. </p>
+<p>Weitere Infos und Marketingmaterial für Affiliates:<br />https://aiagentbusiness.io/ai-business-setup-affiliate</p>
 
 ## 2. Links
 
@@ -110,7 +114,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VERA-X AI-Business Engine™? — Typ: Remote service provided electronically, Anbieter: smartboostAI, gelistet seit 2026-03-09
-- Wie viel kostet es? — 13437.1146 USD
+- Wie viel kostet es? — 13407.137100000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

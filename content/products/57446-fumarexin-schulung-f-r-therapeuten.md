@@ -4,16 +4,16 @@ digistore24_product_id: 593965
 title: "Fumarexin®-Schulung für Therapeuten"
 vendor: "Heike1704"
 product_type: "Member area and video courses"
-price: 178.91
+price: 178.52
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 53.68
+earnings_per_sale: 53.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-07-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/593965?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/593965"
@@ -22,16 +22,16 @@ language: "de"
 # Fumarexin®-Schulung für Therapeuten
 
 > Product ID `57446` · Digistore24 productId `593965` · [HTML profile page](../../produkte/fumarexin-schulung-f-r-therapeuten-57446.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $178.91 (Single payment, Installment) |
+| Price | $178.52 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $53.68 |
+| Earnings/sale* | $53.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Heike1704 |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit der Fumarexin®-Schulung lernen Heilpraktiker und Ärzte eine naturheilkundlich orientierte Methode zur Rauchentwöhnung kennen. Die Schulung umfasst Videos und begleitende Unterlagen und wird online über den Partner-Login auf der Fumarexin-Webseite bereitgestellt. Nach Zahlungseingang erhalten neue Partner Zugriff auf die Inhalte und können Fumarexin in ihrer Praxis anbieten. Ideal für Therapeut…
+**Vendor's marketplace description:** <p>Mit der Fumarexin®-Schulung lernen Heilpraktiker und Ärzte eine naturheilkundlich orientierte Methode zur Rauchentwöhnung kennen. Die Schulung umfasst Videos und begleitende Unterlagen und wird online über den Partner-Login auf der Fumarexin-Webseite bereitgestellt. Nach Zahlungseingang erhalten neue Partner Zugriff auf die Inhalte und können Fumarexin in ihrer Praxis anbieten. Ideal für Therapeuten, die ihr Praxisangebot sinnvoll erweitern möchten.</p>
 
 ## 2. Links
 
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fumarexin®-Schulung für Therapeuten? — Typ: Member area and video courses, Anbieter: Heike1704, gelistet seit 2026-07-07
-- Wie viel kostet es? — 178.914996 USD
+- Wie viel kostet es? — 178.515846 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

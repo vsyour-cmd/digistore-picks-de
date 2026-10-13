@@ -4,34 +4,34 @@ digistore24_product_id: 726000
 title: "SoftPac Whiskydatenbank – Whisky-Sammlung einfach und lokal"
 vendor: "dejo777"
 product_type: "Software"
-price: 56.41
+price: 56.29
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 16.92
+earnings_per_sale: 16.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Software"]
 listed_since: "2026-08-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.softpac.de/ekp/wdb/index.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58663/adminstore/"
 sales_page: "https://www.softpac.de/ekp/wdb/index.html"
 language: "de"
 ---
 # SoftPac Whiskydatenbank – Whisky-Sammlung einfach und lokal
 
 > Product ID `58663` · Digistore24 productId `726000` · [HTML profile page](../../produkte/softpac-whiskydatenbank-whisky-sammlung-einfach-und-lokal-58663.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $56.41 (Single payment) |
+| Price | $56.29 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $16.92 |
+| Earnings/sale* | $16.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dejo777 |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die SoftPac Whiskydatenbank ist eine Windows-Anwendung für private Whisky-Sammler und Whisky-Enthusiasten. Nutzer können ihre Flaschen, Käufe, Samples, Verkostungsnotizen, Fassanteile und Auswertungen strukturiert verwalten. Belege und Zertifikate lassen sich den jeweiligen Einträgen zuordnen, Statistiken und Datensicherungsfunktionen ergänzen den Funktionsumfang. Ein besonderes Merkmal ist die lo…
+**Vendor's marketplace description:** <p><strong>Die SoftPac Whiskydatenbank ist eine Windows-Anwendung für private Whisky-Sammler und Whisky-Enthusiasten.</strong></p>
+<p>Nutzer können ihre Flaschen, Käufe, Samples, Verkostungsnotizen, Fassanteile und Auswertungen strukturiert verwalten. Belege und Zertifikate lassen sich den jeweiligen Einträgen zuordnen, Statistiken und Datensicherungsfunktionen ergänzen den Funktionsumfang.</p>
+<p>Ein besonderes Merkmal ist die <strong>lokale Datenhaltung ohne Cloud-Zwang</strong>: Die persönlichen Sammlungsdaten bleiben auf dem eigenen Windows-PC.</p>
+<p>Die Anwendung wird über den Microsoft Store installiert und aktualisiert. Die Nutzung erfolgt über eine separat erworbene SoftPac-Lizenz.</p>
+<p><strong>Endkundenpreis: 59,90 € einmalig – kein Abonnement.</strong></p>
+<p><strong>Affiliate-Provision: 30 %.</strong></p>
+<p>Besonders geeignet für Blogs, YouTube-Kanäle, Newsletter, Social-Media-Angebote und Communities rund um Whisky, Tastings, Samples und Sammlungen.</p>
+<p>Für Affiliates stehen eine eigene Support-Seite, freigegebene Produktaussagen und aktuelle Produkt-Screenshots zur Verfügung. Eigene Werbetexte und Creatives sind ausdrücklich möglich, solange die verwendeten Produktangaben den freigegebenen Aussagen entsprechen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.softpac.de/ekp/wdb/index.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58663/adminstore/
 - Sales page: https://www.softpac.de/ekp/wdb/index.html
 - Vendor affiliate support: https://www.softpac.de/ekp/wdb/affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/726000/adminstore
@@ -94,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SoftPac Whiskydatenbank – Whisky-Sammlung einfach und lokal? — Typ: Software, Anbieter: dejo777, gelistet seit 2026-08-25
-- Wie viel kostet es? — 56.411004000000005 USD
+- Wie viel kostet es? — 56.285154000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

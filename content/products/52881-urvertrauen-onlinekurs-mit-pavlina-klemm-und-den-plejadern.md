@@ -4,34 +4,34 @@ digistore24_product_id: 610784
 title: "Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern"
 vendor: "ChannelingKongress"
 product_type: "Member area and video courses"
-price: 169.13
+price: 168.75
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 52.68
+earnings_per_sale: 52.56
 cart_conversion_pct: 12
 cancel_rate_pct: 1.07
 categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2025-05-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://channeling-blog.com/akademie/urvertrauen-onlinekurs-pavlina-klemm/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52881/adminstore/"
 sales_page: "https://channeling-blog.com/akademie/urvertrauen-onlinekurs-pavlina-klemm/"
 language: "de"
 ---
 # Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern
 
 > Product ID `52881` · Digistore24 productId `610784` · [HTML profile page](../../produkte/urvertrauen-onlinekurs-mit-pavlina-klemm-und-den-plejadern-52881.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $169.13 (Single payment, Installment) |
+| Price | $168.75 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $52.68 |
+| Earnings/sale* | $52.56 |
 | Cart conversion* | 12% |
 | Cancel rate* | 1.07% |
 | Vendor | ChannelingKongress |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ✅ Deine Vorteile als Affiliate: • 20% Provision für den Verkauf des Online Kurses. Unsere Empfehlung: Bewerbe den Online Kurs mit dem erfolgreichen KOSTENLOSEN Urvertrauen-Webinar mit Pavlina Klemm, zu dem sich bereits mehr als 11.000 Menschen angemeldet haben. Nach dem Webinar werden die Teilnehmer zum Online-Kurs geführt und eingeladen, mit dem Kurs den Weg ins Urvertrauen weiterzugehen! DEIN AF…
+**Vendor's marketplace description:** <h4><strong>✅ Deine Vorteile als Affiliate:</strong></h4>
+<p>• <strong>20% Provision</strong> für den Verkauf des Online Kurses.</p>
+<p><span style="background-color:#ffff00;"><strong>Unsere Empfehlung: </strong></span><br />Bewerbe den Online Kurs mit dem erfolgreichen <strong>KOSTENLOSEN Urvertrauen-Webinar mit Pavlina Klemm</strong>, zu dem sich bereits mehr als 11.000 Menschen angemeldet haben. Nach dem Webinar werden die Teilnehmer zum Online-Kurs geführt und eingeladen, mit dem Kurs den Weg ins Urvertrauen weiterzugehen!</p>
+<p><strong>DEIN AFFILIATE-LINK für das GRATIS-Webinar: <span style="background-color:#00ff00;"><em>(Empfohlen)</em></span></strong><br /><a>https://www.digistore24.com/content/610784/51930/AFFILIATE/CAMPAIGNKEY</a><br /><em>(Einfach "AFFILIATE" mit Deiner Digistore24-ID ersetzen)</em></p>
+<p><strong>Texte, Grafiken und weitere Infos findest Du unter folgender Seite:</strong><br /><a>https://channeling-blog.com/akademie/partnerprogramm/#CAOK_08</a></p>
+<p>Den Affiliate Link der direkt zur Verkaufsseite des Online Kurses führt findest Du ebenfalls auf der Partnerprogramm Seite oder Rechts über dem Affiliate Link Generator.</p>
+<p><strong>Werde jetzt zum Affiliate! Wir freuen uns auf die Zusammenarbeit.</strong></p>
+<p>Bei Fragen oder wenn Du weitere Grafiken und Material benötigst, kontaktiere uns gerne über <a>support@channeling-akademie.de</a></p>
+<div>
+<div><strong>Mehr Infos findest Du auf der Verkauf- und Affiliate Seite!</strong></div>
+<div> </div>
+<div><strong>Alles Liebe!<br />Michael &amp; Jonas<br />und das Team der Channeling Akademie</strong></div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://channeling-blog.com/akademie/urvertrauen-onlinekurs-pavlina-klemm/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52881/adminstore/
 - Sales page: https://channeling-blog.com/akademie/urvertrauen-onlinekurs-pavlina-klemm/
 - Vendor affiliate support: https://channeling-blog.com/akademie/partnerprogramm/#CAOK_08
 - Canonical redirect: https://www.digistore24.com/redir/610784/adminstore
@@ -85,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern? — Typ: Member area and video courses, Anbieter: ChannelingKongress, gelistet seit 2025-05-04
-- Wie viel kostet es? — 169.132158 USD
+- Wie viel kostet es? — 168.75483300000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

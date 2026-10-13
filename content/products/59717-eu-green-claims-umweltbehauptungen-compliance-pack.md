@@ -4,34 +4,34 @@ digistore24_product_id: 652340
 title: "EU Green Claims – Umweltbehauptungen Compliance Pack"
 vendor: "MindshiftDigitalStudio"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.19
+earnings_per_sale: 8.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/652340?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59717/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/652340"
 language: "de"
 ---
 # EU Green Claims – Umweltbehauptungen Compliance Pack
 
 > Product ID `59717` · Digistore24 productId `652340` · [HTML profile page](../../produkte/eu-green-claims-umweltbehauptungen-compliance-pack-59717.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.19 |
+| Earnings/sale* | $8.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -41,11 +41,37 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** EU Umweltbehauptungen – Compliance Pack 2026 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, Händler, Online-Shops und Marketingteams, die mit Umweltangaben wie „nachhaltig“, „grün“ oder „klimafreundlich“ werben und ihre Aussagen nachvollziehbar dokumentieren möchten. Das Compliance Pack unterstützt bei der strukturierten Prüfung und Dokumentation von Green Claims, Umw…
+**Vendor's marketplace description:** <p><strong>EU Umweltbehauptungen – Compliance Pack 2026</strong></p>
+<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, Händler, Online-Shops und Marketingteams, die mit Umweltangaben wie „nachhaltig“, „grün“ oder „klimafreundlich“ werben und ihre Aussagen nachvollziehbar dokumentieren möchten.</p>
+<p>Das Compliance Pack unterstützt bei der strukturierten Prüfung und Dokumentation von <strong>Green Claims, Umweltbehauptungen, CO₂-Angaben, Lieferkettennachweisen und Transparenzinformationen</strong>.</p>
+<p><strong>Geeignet für:</strong></p>
+<ul>
+<li>Selbstständige und KMU</li>
+<li>Online-Shops und E-Commerce-Anbieter</li>
+<li>Hersteller, Händler und Marken</li>
+<li>Marketing- und Content-Teams</li>
+<li>Produkt- und Nachhaltigkeitsverantwortliche</li>
+<li>Agenturen, Berater und Dienstleister</li>
+</ul>
+<p><strong>Enthalten sind unter anderem:</strong></p>
+<ul>
+<li>Umweltbehauptungs-Nachweisblatt</li>
+<li>Checkliste für problematische und zulässige Begriffe</li>
+<li>CO₂-Berechnungsformular</li>
+<li>Lieferketten- und Materialnachweise</li>
+<li>Transparenz-Textbausteine</li>
+<li>Kunden- und Website-Hinweise</li>
+<li>Risiko- und Prüfprotokoll</li>
+<li>interner Prüfprozess für Umweltclaims</li>
+<li>Branchenbeispiele und Checklisten</li>
+</ul>
+<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
+<p>Das Compliance Pack dient als praktische Arbeits-, Prüf- und Dokumentationshilfe für Umwelt- und Nachhaltigkeitsaussagen und ersetzt keine individuelle Rechtsberatung.</p>
+<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/652340?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59717/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/652340
 - Canonical redirect: https://www.digistore24.com/redir/652340/adminstore
 
@@ -73,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EU Green Claims – Umweltbehauptungen Compliance Pack? — Typ: Downloads, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

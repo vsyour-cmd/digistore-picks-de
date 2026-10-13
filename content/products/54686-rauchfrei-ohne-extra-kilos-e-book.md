@@ -4,16 +4,16 @@ digistore24_product_id: 639678
 title: "Rauchfrei ohne Extra-Kilos – E-Book"
 vendor: "VerenaSwoboda"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2025-10-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://verenasholisticworld.my.canva.site/rauchfreiohneextrakilos?aff=adminstore#aff=adminstore"
 sales_page: "https://verenasholisticworld.my.canva.site/rauchfreiohneextrakilos"
@@ -22,16 +22,16 @@ language: "de"
 # Rauchfrei ohne Extra-Kilos – E-Book
 
 > Product ID `54686` · Digistore24 productId `639678` · [HTML profile page](../../produkte/rauchfrei-ohne-extra-kilos-e-book-54686.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VerenaSwoboda |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In 7 Schritten werden die Lesenden hier unterstützt, nachhaltig und vor allem ohne große Gewichtszunahme mit dem Rauchen aufzuhören. Ein ganzheitlicher Begleiter auf dem Weg in ein gesundes Rauchfreies Leben. Ein Muss für alle die: - bereits gescheiterte Rauchstopp-Versuche hinter sich haben - Angst haben Gewicht zuzunehmen - beim letzten Rauchstopp Gewicht zugenommen haben und deswegen wieder ang…
+**Vendor's marketplace description:** <p>In 7 Schritten werden die Lesenden hier unterstützt, nachhaltig und vor allem ohne große Gewichtszunahme mit dem Rauchen aufzuhören. </p>
+<p> </p>
+<p>Ein ganzheitlicher Begleiter auf dem Weg in ein gesundes Rauchfreies Leben. Ein Muss für alle die:</p>
+<p>- bereits gescheiterte Rauchstopp-Versuche hinter sich haben</p>
+<p>- Angst haben Gewicht zuzunehmen</p>
+<p>- beim letzten Rauchstopp Gewicht zugenommen haben und deswegen wieder angefangen haben</p>
+<p> </p>
+<p>Mit dem nötigen Wissen über den eigenen Körper und einer schlauen Planung gelingt der Rauchstopp viel leichter und ohne Stolperfallen. </p>
+<p> </p>
+<p>Viel Freude auf deiner Reise zum Nichtraucher. </p>
+<p>Deine Verena</p>
 
 ## 2. Links
 
@@ -70,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei ohne Extra-Kilos – E-Book? — Typ: E-books, Anbieter: VerenaSwoboda, gelistet seit 2025-10-05
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 127933
 title: "Fotografen.Management"
 vendor: "ThomasAmmermueller"
 product_type: "Downloads"
-price: 201.71
+price: 201.26
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 40.34
+earnings_per_sale: 40.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2017-03-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://fotografen.management/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/15933/adminstore/"
 sales_page: "https://fotografen.management/"
 language: "de"
 ---
 # Fotografen.Management
 
 > Product ID `15933` · Digistore24 productId `127933` · [HTML profile page](../../produkte/fotografen-management-15933.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $201.71 (Subscription) |
+| Price | $201.26 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $40.34 |
+| Earnings/sale* | $40.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ThomasAmmermueller |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Verwaltungssoftware für Fotografen. Verwaltung von Shootings, Hochzeiten, Locations, Gutscheine und Erstellung von Angebote, Auftragsbestätigungen, Rechnungen, Verträge, uvm. Ein muss für jeden Fotografen! __________________________________________ Durch die Bestellung, stimmt der Käufer den AGB, Datenschutzerklärung und Verarbeitungsverzeichnis von Fotografen.Management zu.
+**Vendor's marketplace description:** <p>Die Verwaltungssoftware für Fotografen.</p>
+<p>Verwaltung von Shootings, Hochzeiten, Locations, Gutscheine und Erstellung von Angebote, Auftragsbestätigungen, Rechnungen, Verträge, uvm.</p>
+<p>Ein muss für jeden Fotografen!</p>
+<p>__________________________________________</p>
+<p>Durch die Bestellung, stimmt der Käufer den <a href="https://fotografen.management/agb/" target="_blank" rel="noreferrer noopener">AGB</a>, <a href="https://fotografen.management/datenschutz/" target="_blank" rel="noreferrer noopener">Datenschutzerklärung</a> und <a href="https://fotografen.management/verzeichnis-von-verarbeitungstaetigkeiten/" target="_blank" rel="noreferrer noopener">Verarbeitungsverzeichnis</a> von Fotografen.Management zu.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fotografen.management/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/15933/adminstore/
 - Sales page: https://fotografen.management/
 - Canonical redirect: https://www.digistore24.com/redir/127933/adminstore
 
@@ -66,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fotografen.Management? — Typ: Downloads, Anbieter: ThomasAmmermueller, gelistet seit 2017-03-24
-- Wie viel kostet es? — 201.708 USD
+- Wie viel kostet es? — 201.258 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

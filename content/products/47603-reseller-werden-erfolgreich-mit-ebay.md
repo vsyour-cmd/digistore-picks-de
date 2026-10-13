@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.27
+earnings_per_sale: 3.26
 cart_conversion_pct: 48
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2024-03-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/545678?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/545678"
@@ -22,7 +22,7 @@ language: "de"
 # Reseller werden - erfolgreich mit eBay
 
 > Product ID `47603` · Digistore24 productId `545678` · [HTML profile page](../../produkte/reseller-werden-erfolgreich-mit-ebay-47603.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.27 |
+| Earnings/sale* | $3.26 |
 | Cart conversion* | 48% |
 | Cancel rate* | 0% |
 | Vendor | Packleader |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du bekommst 50% Provision auf alles inkl. Addons + Upsells Tauche ein in die Welt des Resellings auf eBay. In diesen E-Book wird das Thema „Reselling“ in allen Facetten beleuchtet: Grundlagen des Resellings auf eBay verstehen Auswahl einer profitablen Produktnische Analyse des Marktes und Identifizierung von Trends Effektive Strategien zum Einkauf und Auswahl von Produkten Tipps zur Preisgestaltun…
+**Vendor's marketplace description:** <p><strong>Du bekommst 50% Provision auf alles inkl. Addons + Upsells</strong></p>
+<p><strong>Tauche ein in die Welt des Resellings auf eBay.</strong></p>
+<p><strong>In diesen E-Book wird das Thema „Reselling“ in allen Facetten beleuchtet:</strong></p>
+<ul>
+<li><strong>Grundlagen des Resellings auf eBay verstehen</strong></li>
+<li><strong>Auswahl einer profitablen Produktnische</strong></li>
+<li><strong>Analyse des Marktes und Identifizierung von Trends</strong></li>
+<li><strong>Effektive Strategien zum Einkauf und Auswahl von Produkten</strong></li>
+<li><strong>Tipps zur Preisgestaltung und Maximierung Ihrer Gewinnspanne</strong></li>
+<li><strong>Schritt-für-Schritt-Anleitung zum Einstellen Ihrer Produkte auf eBay</strong></li>
+<li><strong>Best Practices für den Versand und die Kundenbetreuung</strong></li>
+<li><strong>Identifizierung und Bewältigung von Risiken im Reselling-Geschäft</strong></li>
+<li><strong>Überlegungen zur rechtlichen Seite und der Frage, ob ein Gewerbe notwendig ist</strong></li>
+<li><strong>Geheimtipps</strong></li>
+<li><strong>Empfehlungen rundums Reselling</strong></li>
+</ul>
+<p> </p>
 
 ## 2. Links
 

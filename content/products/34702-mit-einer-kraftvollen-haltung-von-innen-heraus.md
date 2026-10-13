@@ -4,7 +4,7 @@ digistore24_product_id: 353666
 title: "Mit einer kraftvollen Haltung von innen heraus!"
 vendor: "AlexandraLohr"
 product_type: "Downloads"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.82
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-10-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.bewusst-wirken.de/akademie/online-akademie/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.bewusst-wirken.de/akademie/online-akademie/"
@@ -22,14 +22,14 @@ language: "de"
 # Mit einer kraftvollen Haltung von innen heraus!
 
 > Product ID `34702` · Digistore24 productId `353666` · [HTML profile page](../../produkte/mit-einer-kraftvollen-haltung-von-innen-heraus-34702.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für Dich und Dein Pferd! Eine Methode für Coaches, Lehrer und Trainer. Hast du selbst bereits die Erfahrung gemacht, dass es nicht allein die Technik ist, die dich und dein Pferd zusammenschweißt und euch gemeinsam Herausforderungen meistern lässt? Es geht vielmehr um die Kombination aus der richtigen Anwendung der Technik, sowie einer positiven inneren Haltung und dem richtigen Mindset. Um deine …
+**Vendor's marketplace description:** <p>Für Dich und Dein Pferd!</p>
+<p>Eine Methode für Coaches, Lehrer und Trainer.</p>
+<p>Hast du selbst bereits die Erfahrung gemacht, dass es nicht allein die Technik ist, die dich und dein Pferd zusammenschweißt und euch gemeinsam Herausforderungen meistern lässt?</p>
+<p>Es geht vielmehr um die Kombination aus der richtigen Anwendung der Technik, sowie einer positiven inneren Haltung und dem richtigen Mindset.</p>
+<p>Um deine Fähigkeiten zu aktivieren, die du dir wünscht, um mit dem Pferd erfolgreich umzugehen, zeige ich dir in diesem Online Kurs eine Methode. Die sogenannte "Ressourcenaktivierung".</p>
+<p>Diese Methode kannst du in allen Kontexten anwenden. Nicht nur im Umgang mit dem Pferd.</p>
+<p>Du kannst die Methode für dich selbst nutzen oder wenn du andere Menschen dabei unterstützen möchtest, ebenso in einen bewussten und gestärkten Kontakt für das Pferd von innen heraus zu gehen.</p>
+<p>Der Online Kurs beinhaltet ein Videoclip von ca. 15 Min. Länge, sowie ein ausführliches PDF Skript.</p>
+<p>Weitere Informationen erhälst du <a href="https://www.digistore24.com/product/353666" target="_blank" rel="noreferrer noopener">hier. </a></p>
 
 ## 2. Links
 
@@ -81,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit einer kraftvollen Haltung von innen heraus!? — Typ: Downloads, Anbieter: AlexandraLohr, gelistet seit 2020-10-22
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

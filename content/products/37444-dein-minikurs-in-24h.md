@@ -4,16 +4,16 @@ digistore24_product_id: 402815
 title: "Dein Minikurs in 24h!"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 46.64
+price: 46.54
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 14.78
+earnings_per_sale: 14.75
 cart_conversion_pct: 4
 cancel_rate_pct: 1.21
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-08-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://jyotimaflak.com/minikurs-in-24h/?aff=adminstore#aff=adminstore"
 sales_page: "https://jyotimaflak.com/minikurs-in-24h/"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Minikurs in 24h!
 
 > Product ID `37444` · Digistore24 productId `402815` · [HTML profile page](../../produkte/dein-minikurs-in-24h-37444.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.64 (Single payment, Installment) |
+| Price | $46.54 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $14.78 |
+| Earnings/sale* | $14.75 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.21% |
 | Vendor | Jyotima |
@@ -41,7 +41,79 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 30 % Provision und für deine Kunden: Der Minikurs-Umsetzungskurs:Dein Minikurs in 24h! So ist dein Minikurs in 24 Stunden fertig – der Umsetzungs-Onlinekurs für deine ersten Onlineprodukte im Handumdrehen! Inkl. 8 Tutorial-Videos, um einen Minikurs in unter 24 Stunden zu erstellen und ab dann zu verkaufen! Inhalte des Kurses: Modul 1: Dein Minikurs Du bekommst mindestens 10 Ideen oder mehr, wie du…
+**Vendor's marketplace description:** <h2><strong>30 % Provision und für deine Kunden: Der Minikurs-Umsetzungskurs:<span style="color:#ff0000;"><br /><br />Dein Minikurs in 24h! So ist dein Minikurs in 24 Stunden fertig – der Umsetzungs-Onlinekurs für deine ersten Onlineprodukte im Handumdrehen!</span><br /></strong></h2>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><strong>Inkl. 8 Tutorial-Videos, um einen Minikurs in unter 24 Stunden zu erstellen und ab dann zu verkaufen!</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<p><strong>Inhalte des Kurses:<br /></strong></p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><strong>Modul 1: Dein Minikurs</strong></p>
+<p>Du bekommst mindestens <strong>10 Ideen oder mehr,</strong> wie du einen Minikurs in 24 Stunden fertigstellst. Du lernst meine kreativen Techniken kennen, Inhalte zu erstellen oder zu “recyceln”. Du beginnst deine Inhalte zu sortieren und umzusetzen. <strong><br /><br />Modul 2: Deine Landingpage<br /></strong></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<p>Du bekommst meine <strong>Vorlage für eine Landingpage</strong> und wie du sie auf den Punkt für deine Zielgruppe austextest. Du erhältst die Anleitung, wie du mit Bildern, Buttons, Hintergründen und Farben deine Landingpage ansprechend gestaltest. Am Ende wird keiner deiner Follower die Seite verlassen, ohne nicht zumindest über den <strong>Kauf nachgedacht</strong> zu haben. ;-)<br /><strong><br />Modul 3: Dein Produkt einstellen<br /></strong></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<p>In diesem Modul lernst du, wie du mit einem automatisierten Zahlungsanbieter arbeitest und dein Produkt direkt von deiner Webseite oder über Social-Media verkaufen kannst. <strong>Du lernst die Anbindung über Digistore24.com kennen.</strong> Ich gebe dir weitere Tipps, wie du Produkte automatisch bei Zahlungsanbietern, Mitgliederbereichen oder Onlinekurs-Plattformen einstellst.</p>
+<p>Der Kurs besteht aus dem Zugang <strong>zu 8 Tutorial-Videos und PDF. Du kannst mit den Videos sofort deinen Kurs einstellen!</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><strong><br />Passend zum Ebook Die Minikurs-Methode. Gleich die ganze Technik lernen und </strong><strong>direkt loslegen, immer wieder nutzbar!</strong><br /><br /></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>BONI:</strong></p>
+<p><strong>• Technik-Tools für deinen Minikurs! </strong>Alles, was du noch brauchst, um Kurse zu erstellen.</p>
+<p><strong>• Tutorial: Werbetexte in nur 30 Minuten! </strong>Ich zeige dir, wie du in 30 Minuten 4 kurze Werbetexte erstellst und deinen Minikurs ab dann zu verkaufen beginnst.</p>
+<p> </p>
+<h3><strong>Jetzt vergünstigt buchen und in 24 Stunden deinen eigenen Minikurs verkaufen!</strong></h3>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h2><span style="color:#ff0000;"><strong>Nur hier zum Sonderpreis erhältlich:<br /><br /><del>statt 149 €</del> <br /></strong>nur 47 € <strong>zzgl. MwSt.</strong></span></h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong><br /></strong>Alle Informationen hier: <a href="https://jyotimaflak.com/minikurs-in-24h/" target="_blank" rel="noreferrer noopener">https://jyotimaflak.com/minikurs-in-24h/</a></p>
 
 ## 2. Links
 
@@ -95,7 +167,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Minikurs in 24h!? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2021-08-16
-- Wie viel kostet es? — 46.639372 USD
+- Wie viel kostet es? — 46.535322 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

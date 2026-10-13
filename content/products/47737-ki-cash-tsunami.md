@@ -4,34 +4,34 @@ digistore24_product_id: 542601
 title: "KI CASH TSUNAMI"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 53.68
+price: 53.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.84
+earnings_per_sale: 26.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-03-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.meinneuerlifestyle.vip/goldmine-chat-gpt/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47737/adminstore/"
 sales_page: "https://www.meinneuerlifestyle.vip/goldmine-chat-gpt/"
 language: "de"
 ---
 # KI CASH TSUNAMI
 
 > Product ID `47737` · Digistore24 productId `542601` · [HTML profile page](../../produkte/ki-cash-tsunami-47737.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $53.68 (Single payment) |
+| Price | $53.56 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.84 |
+| Earnings/sale* | $26.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe den Kurs: KI CASH TSUNAMI Das bekommt Deine Community ✅ Genialen Content mit KI erstellen ✅ Mit den besten KI Tools das Business automatisieren ✅ Als Bonus bekommt Deine Community den Zugang zu unserem Mitgliederbereich und dadurch den Zugriff auf kostenfreie Kurse (Canva, Etsy, KI usw...) Dich erwarten 50% Provision und im Upsell Bereich bis zu 117 Euro Provisionen
+**Vendor's marketplace description:** <div><span style="background-color:#ffff00;"><strong><em>Bewerbe den Kurs: KI CASH TSUNAMI</em></strong></span></div>
+<div><strong>Das bekommt Deine Community</strong></div>
+<div>
+<p><strong><em>✅  Genialen Content mit KI erstellen</em></strong></p>
+<p><strong><em>✅ </em> Mit den besten KI Tools das Business automatisieren </strong></p>
+<p><strong><em>✅  </em>Als Bonus bekommt Deine Community den Zugang zu unserem Mitgliederbereich und dadurch den Zugriff auf kostenfreie Kurse (Canva, Etsy, KI usw...)</strong></p>
+<p> </p>
+<p><strong>Dich erwarten 50% Provision und im Upsell Bereich bis zu 117 Euro Provisionen</strong></p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/goldmine-chat-gpt/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47737/adminstore/
 - Sales page: https://www.meinneuerlifestyle.vip/goldmine-chat-gpt/
 - Canonical redirect: https://www.digistore24.com/redir/542601/adminstore
 
@@ -66,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI CASH TSUNAMI? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-03-07
-- Wie viel kostet es? — 53.67674 USD
+- Wie viel kostet es? — 53.556990000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

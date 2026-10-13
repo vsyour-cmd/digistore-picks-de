@@ -4,16 +4,16 @@ digistore24_product_id: 674898
 title: "50 Prozent Provision: Das 27.000 Euro Salat-Business"
 vendor: "infob1d6"
 product_type: "Member area and video courses"
-price: 505.68
+price: 504.55
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 252.84
+earnings_per_sale: 252.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Hobby & Craft","Home & Garden"]
 listed_since: "2026-03-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.salad-cashflow.de/50m2-matrix-neu?aff=adminstore#aff=adminstore"
 sales_page: "https://www.salad-cashflow.de/50m2-matrix-neu"
@@ -22,16 +22,16 @@ language: "de"
 # 50 Prozent Provision: Das 27.000 Euro Salat-Business
 
 > Product ID `55916` · Digistore24 productId `674898` · [HTML profile page](../../produkte/50-prozent-provision-das-27-000-euro-salat-business-55916.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $505.68 (Single payment, Installment) |
+| Price | $504.55 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $252.84 |
+| Earnings/sale* | $252.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | infob1d6 |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verdien 190 Euro netto pro Sale in der unentdecktesten Nische des Jahres! Bist du genervt von den ewig gleichen Geld-verdienen-Produkten wie Dropshipping, Krypto oder Trading? Deine Zielgruppe auch! Biete deiner Liste endlich etwas Echtes, Handfestes und Hochprofitables an: Das Salat-Gastro-Business. Worum geht es?Wir zeigen Menschen, die unzufrieden in ihrem Job sind, wie sie auf nur 100 Quadratm…
+**Vendor's marketplace description:** <blockquote>
+<blockquote>
+<p>Verdien 190 Euro netto pro Sale in der unentdecktesten Nische des Jahres!</p>
+<p>Bist du genervt von den ewig gleichen Geld-verdienen-Produkten wie Dropshipping, Krypto oder Trading? Deine Zielgruppe auch!</p>
+<p>Biete deiner Liste endlich etwas Echtes, Handfestes und Hochprofitables an: Das Salat-Gastro-Business.</p>
+<p>Worum geht es?<br />Wir zeigen Menschen, die unzufrieden in ihrem Job sind, wie sie auf nur 100 Quadratmeter Flaeche (z.B. im eigenen Garten) ein echtes System aufbauen, um 27.000 Euro Umsatz zu generieren - als Premium-Lieferant fuer die Gastronomie. Kein Hobby-Gaertnern, sondern ein knallhartes, krisensicheres Business.</p>
+<p>Warum du dieses System jetzt bewerben musst:<br />- Satte 50 Prozent Provision: Bei 497 Euro Brutto-Verkaufspreis wandern ca. 190 Euro Netto pro Sale direkt auf dein Konto! High-Ticket Provision fuer dich.<br />- Hungrige Zielgruppe: Der Schmerz (Raus aus dem Hamsterrad) trifft auf ein extrem greifbares, reales Business-Modell. Das konvertiert wie verrueckt.<br />- Blauer Ozean: Fast null Konkurrenz. Eine brandneue Nische, die noch nicht totbeworben ist.<br />- Storno-Quote gegen Null: Es ist ein ehrliches, durchdachtes System, das funktioniert. Wer das kauft, setzt um und storniert nicht.</p>
+<p>Hol dir jetzt deinen Promolink und erobere diese Nische, bevor die breite Masse sie entdeckt!</p>
+</blockquote>
+</blockquote>
 
 ## 2. Links
 
@@ -76,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 Prozent Provision: Das 27.000 Euro Salat-Business? — Typ: Member area and video courses, Anbieter: infob1d6, gelistet seit 2026-03-09
-- Wie viel kostet es? — 505.681956 USD
+- Wie viel kostet es? — 504.553806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

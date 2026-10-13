@@ -4,34 +4,34 @@ digistore24_product_id: 272694
 title: "Die Experten Formel: 5€ Provision"
 vendor: "digitalbeat"
 product_type: "Book (printed)"
-price: 910.92
+price: 908.89
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 31.89
+earnings_per_sale: 31.82
 cart_conversion_pct: 9
 cancel_rate_pct: 6.98
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-05-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/272694/adminstore"
+promo_link: "https://www.digistore24.com/redir/29319/adminstore/"
 sales_page: "https://start.gruender.de/expertenformel/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
 language: "de"
 ---
 # Die Experten Formel: 5€ Provision
 
 > Product ID `29319` · Digistore24 productId `272694` · [HTML profile page](../../produkte/die-experten-formel-5-provision-29319.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $910.92 (Single payment) |
+| Price | $908.89 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $31.89 |
+| Earnings/sale* | $31.82 |
 | Cart conversion* | 9% |
 | Cancel rate* | 6.98% |
 | Vendor | digitalbeat |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenke die Experten Formel an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung! über 230 Seiten | Sprache: Deutsch von Thomas Klußmann, Christoph J.F. Schreiber und 26 spannenden Gastautoren Coaching Bestseller: Die Anleitung für deine Kunden, wie sie ihr Wissen in ein digitales Experten Business verwandeln können!
+**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>Verschenke die Experten Formel an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung!</strong></span></h2>
+<ul>
+<li>über 230 Seiten | Sprache: Deutsch</li>
+<li>von Thomas Klußmann, Christoph J.F. Schreiber und 26 spannenden Gastautoren</li>
+<li>Coaching Bestseller: Die Anleitung für deine Kunden, wie sie ihr Wissen in ein digitales Experten Business verwandeln können!</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/272694/adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/29319/adminstore/
 - Sales page: https://start.gruender.de/expertenformel/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]
 - Vendor affiliate support: https://start.gruender.de/expertenformel/partner/
 - Canonical redirect: https://www.digistore24.com/redir/272694/adminstore
@@ -82,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Experten Formel: 5€ Provision? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2019-05-21
-- Wie viel kostet es? — 910.924534 USD
+- Wie viel kostet es? — 908.8923090000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

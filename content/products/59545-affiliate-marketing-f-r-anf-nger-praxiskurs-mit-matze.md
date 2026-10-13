@@ -4,34 +4,34 @@ digistore24_product_id: 736121
 title: "Affiliate Marketing für Anfänger – Praxiskurs mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.62
+earnings_per_sale: 46.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/736121?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59545/adminstore/"
 sales_page: "https://www.digistore24.com/product/736121"
 language: "de"
 ---
 # Affiliate Marketing für Anfänger – Praxiskurs mit Matze
 
 > Product ID `59545` · Digistore24 productId `736121` · [HTML profile page](../../produkte/affiliate-marketing-f-r-anf-nger-praxiskurs-mit-matze-59545.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.62 |
+| Earnings/sale* | $46.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Baue dein erstes Affiliate-Projekt Schritt für Schritt auf. Finde ein klares Thema, verstehe deine Zielgruppe und entwickle Empfehlungen, die Menschen bei einer Entscheidung helfen. Dieser Selbstlernkurs begleitet Einsteiger von den Grundlagen bis zu einem praktischen 90-Tage-Umsetzungsplan. Dein vollständiges Downloadpaket 62-seitiger Kurs: zwölf Module und 36 Lektionen mit Aufgaben, Beispielen u…
+**Vendor's marketplace description:** <h2>Baue dein erstes Affiliate-Projekt Schritt für Schritt auf.</h2>
+<p>Finde ein klares Thema, verstehe deine Zielgruppe und entwickle Empfehlungen, die Menschen bei einer Entscheidung helfen. Dieser Selbstlernkurs begleitet Einsteiger von den Grundlagen bis zu einem praktischen 90-Tage-Umsetzungsplan.</p>
+<h3>Dein vollständiges Downloadpaket</h3>
+<ul>
+<li><strong>62-seitiger Kurs:</strong> zwölf Module und 36 Lektionen mit Aufgaben, Beispielen und Kontrollfragen.</li>
+<li><strong>16-seitiges Arbeitsbuch:</strong> 14 Arbeitsblätter für Nische, Zielgruppe, Angebote, Inhalte und Auswertung.</li>
+<li><strong>Acht bearbeitbare Vorlagen:</strong> Projektbriefing, Artikel, E-Mail-Sequenz, Social Content, Partnerprogramm-Prüfung, Planung, KI-Briefing und Abschlussprüfung.</li>
+<li><strong>Acht Affiliate-Wege:</strong> Inhalte und Suchmaschinen, Pinterest, Video, Social Media, E-Mail, Software-Empfehlungen, Ressourcen und bezahlte Verbreitung einordnen.</li>
+<li><strong>90-Tage-Plan und durchgehendes Fallbeispiel:</strong> Übertrage die Schritte auf dein eigenes Projekt.</li>
+<li><strong>Offline-Leseversion und Übungsrechner:</strong> im Browser lesen und Beispielzahlen durchspielen.</li>
+</ul>
+<p><strong>Format:</strong> ZIP-Download mit PDF-, Markdown- und HTML-Dateien. Keine Videos, kein Coaching und keine Mitgliedschaft. Du lernst in deinem Tempo. Benötigt werden ein PDF-Reader, ein aktueller Browser und Programme zum Öffnen von ZIP- und Textdateien.</p>
+<p><strong>Einmalzahlung ohne Kursabo.</strong> Externe Tools und Werbebudget sind nicht enthalten und können zusätzliche Kosten verursachen. Reichweite, Verkäufe und Einnahmen werden nicht garantiert. Einzelne Tool-Empfehlungen enthalten gekennzeichnete Affiliate-Links; ein Kauf ist freiwillig.</p>
+<h3>Für Affiliates</h3>
+<p>50 % Provision gemäß Digistore24-Abrechnung. Geeignet für Zielgruppen, die Affiliate Marketing praktisch lernen und eigenständig umsetzen möchten. Keine garantierten Einnahmen. Bitte Werbung kennzeichnen und nur zutreffende Aussagen verwenden.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/736121?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59545/adminstore/
 - Sales page: https://www.digistore24.com/product/736121
 - Vendor affiliate support: https://einfachmitmatze.de/partner-736121/
 - Canonical redirect: https://www.digistore24.com/redir/736121/adminstore
@@ -88,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing für Anfänger – Praxiskurs mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-22
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

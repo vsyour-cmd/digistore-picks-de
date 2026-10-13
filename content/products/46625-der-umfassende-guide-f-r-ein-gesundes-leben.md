@@ -4,16 +4,16 @@ digistore24_product_id: 531073
 title: "Der umfassende Guide für ein gesundes Leben"
 vendor: "linus2023"
 product_type: "E-books"
-price: 13.56
+price: 13.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.78
+earnings_per_sale: 6.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Personal Development"]
 listed_since: "2023-12-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/531073?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/531073"
@@ -22,16 +22,16 @@ language: "de"
 # Der umfassende Guide für ein gesundes Leben
 
 > Product ID `46625` · Digistore24 productId `531073` · [HTML profile page](../../produkte/der-umfassende-guide-f-r-ein-gesundes-leben-46625.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.56 (Single payment) |
+| Price | $13.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.78 |
+| Earnings/sale* | $6.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | linus2023 |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses umfassende Ebook bietet Ihnen einen tiefen Einblick in die Welt der Makro- und Mikronährstoffe, praktische Tipps für eine ausgewogene Ernährungsweise und wertvolle Informationen über die Auswirkungen der Ernährung auf verschiedene Lebensphasen und Gesundheitszustände. Von der Bedeutung von Kohlenhydraten, Proteinen und Fetten über die Rolle von Vitaminen und Mineralstoffen bis hin zu spezie…
+**Vendor's marketplace description:** <p style="text-align:center;">Dieses umfassende Ebook bietet Ihnen einen tiefen <strong>Einblick in die Welt der Makro- und Mikronährstoffe</strong>, praktische Tipps für eine <u>ausgewogene Ernährungsweise</u> und wertvolle Informationen über die Auswirkungen der Ernährung auf <u>verschiedene Lebensphasen und Gesundheitszustände.</u></p>
+<p style="text-align:center;">Von der <strong><u>Bedeutung von Kohlenhydraten, Proteinen und Fetten</u></strong> über die Rolle von <strong>Vitaminen und Mineralstoffen</strong> bis hin zu <u>speziellen Ernährungsansätzen </u>wie <strong>vegetarischer, veganer und ketogener Ernährung</strong> – dieses Buch deckt alles ab.</p>
+<p style="text-align:center;">Zudem erhalten Sie praktische Anleitungen zur <strong>Mahlzeitenplanung, Einkaufstipps</strong> und Einblicke in die <u>neuesten Trends und Entwicklungen</u> in der <u>Ernährungswissenschaft.</u></p>
+<p style="text-align:center;"><strong>"Essentielle Ernährung" ist mehr als nur ein Ratgeber – es ist Ihr Wegweiser zu einem gesünderen, ausgeglichenen Lebensstil. </strong></p>
 
 ## 2. Links
 
@@ -71,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der umfassende Guide für ein gesundes Leben? — Typ: E-books, Anbieter: linus2023, gelistet seit 2023-12-22
-- Wie viel kostet es? — 13.55926 USD
+- Wie viel kostet es? — 13.529010000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

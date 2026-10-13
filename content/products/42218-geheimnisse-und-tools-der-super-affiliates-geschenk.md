@@ -12,8 +12,8 @@ cart_conversion_pct: 26
 cancel_rate_pct: 0.7
 categories: ["Computer & Internet"]
 listed_since: "2022-12-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/tools-der-super-affiliates/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/tools-der-super-affiliates/"
@@ -22,7 +22,7 @@ language: "de"
 # Geheimnisse und Tools der Super Affiliates (Geschenk)
 
 > Product ID `42218` · Digistore24 productId `474889` · [HTML profile page](../../produkte/geheimnisse-und-tools-der-super-affiliates-geschenk-42218.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Schenke diesen vollwertigen Online Kurs für 0€ und verdiene bis zu 306€ pro Klick / Kunde. Geheimnisse & Tools der Super-Affiliates Vollwertiger Online Kurs mit mehr als 25 Lektionen voll mit Tipps und Strategien für Affiliates. Bei genauer Umsetzung sind Umsatzsteigerungen garantiert. Wie sieht der Funnel aus? Kostenfreie Mitgliedschaft (kein Abo, keine versteckten Kosten) im Frontend 7€ Order-Bu…
+**Vendor's marketplace description:** <p>Schenke diesen vollwertigen Online Kurs für 0€ und verdiene bis zu 306€ pro Klick / Kunde.</p>
+<p><strong>Geheimnisse &amp; Tools der Super-Affiliates</strong></p>
+<p>Vollwertiger Online Kurs mit mehr als 25 Lektionen voll mit Tipps und Strategien für Affiliates. <strong>Bei genauer Umsetzung sind Umsatzsteigerungen garantiert</strong>.</p>
+<p><span style="background-color:#ffcc00;"><strong>Wie sieht der Funnel aus?</strong></span></p>
+<ul>
+<li>Kostenfreie Mitgliedschaft (kein Abo, keine versteckten Kosten) im Frontend</li>
+<li>7€ Order-Bump (50% Provision)</li>
+<li>47€ Direkt-Upsell 1 (50% Provision)</li>
+<li>197€ Direkt-Upsell 2 (50% Provision)</li>
+<li>27€ Direkt-Upsell 3 (50% Provision)</li>
+<li>1397€ Upsell 4 per E-Mail Kampagne (12% Provision)</li>
+</ul>
+<p><span style="background-color:#ffcc00;"><strong>Mögliche Provision pro Klick / Kunde</strong>:</span></p>
+<ul>
+<li>Insgesamt 306,64€ pro Klick / Kunde möglich</li>
+</ul>
+<p><span style="background-color:#ffcc00;"><strong>Zielgruppe</strong>:</span></p>
+<ul>
+<li>Affiliate Marketing</li>
+<li>Automatisiert Verkaufen</li>
+<li>Verkaufen ohne zu Verkaufen</li>
+</ul>
 
 ## 2. Links
 
@@ -74,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geheimnisse und Tools der Super Affiliates (Geschenk)? — Typ: Member area and video courses, Anbieter: webpirat, gelistet seit 2022-12-14
-- Wie viel kostet es? — 1.56884 USD
+- Wie viel kostet es? — 1.56534 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

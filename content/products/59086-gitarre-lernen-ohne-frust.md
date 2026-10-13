@@ -4,16 +4,16 @@ digistore24_product_id: 731609
 title: "Gitarre lernen ohne Frust"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 20.16
+price: 20.11
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 14.11
+earnings_per_sale: 14.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Hobby & Craft"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/731609?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/731609"
@@ -22,16 +22,16 @@ language: "de"
 # Gitarre lernen ohne Frust
 
 > Product ID `59086` · Digistore24 productId `731609` · [HTML profile page](../../produkte/gitarre-lernen-ohne-frust-59086.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.16 (Single payment) |
+| Price | $20.11 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate-Steckbrief • Produkt: Gitarre lernen ohne Frust (E-Book) • Preis: 17,99 EUR • Provision: 70% • Zielgruppe: Anfänger & Wiedereinsteiger, die ohne graue Musiktheorie und Schmerzen schnell echte Songs spielen wollen. Kurze Werbe-Copy (Swipe-Text) „Schluss mit schmerzenden Fingern und dem Frust beim F-Akkord! Mit ‚Gitarre lernen ohne Frust‘ spielen deine Abonnenten endlich die Songs, die sie…
+**Vendor's marketplace description:** <h2>Affiliate-Steckbrief</h2>
+<p> <strong>• Produkt:</strong> Gitarre lernen ohne Frust (E-Book)</p>
+<p> <strong>• Preis:</strong> 17,99 EUR</p>
+<p> <strong>• Provision:</strong> 70%</p>
+<p> <strong>• Zielgruppe:</strong> Anfänger &amp; Wiedereinsteiger, die ohne graue Musiktheorie und Schmerzen schnell echte Songs spielen wollen.</p>
+<p> </p>
+<h3><strong>Kurze Werbe-Copy (Swipe-Text)</strong></h3>
+<p>„Schluss mit schmerzenden Fingern und dem Frust beim F-Akkord! Mit ‚Gitarre lernen ohne Frust‘ spielen deine Abonnenten endlich die Songs, die sie lieben – ganz ohne trockene Notenlehre. Nutze die hohe Nachfrage, profitiere von einer starken 70% Provision und starte noch heute mit fertigen Werbemitteln!“</p>
 
 ## 2. Links
 
@@ -90,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gitarre lernen ohne Frust? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-10
-- Wie viel kostet es? — 20.159594 USD
+- Wie viel kostet es? — 20.114619 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

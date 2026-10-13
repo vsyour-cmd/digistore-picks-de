@@ -4,34 +4,34 @@ digistore24_product_id: 171853
 title: "Online-Video-Kurs+Coaching \"Sprache professionell aufnehmen\""
 vendor: "isidde"
 product_type: "Remote service provided electronically"
-price: 279.68
+price: 279.06
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 55.94
+earnings_per_sale: 55.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2017-10-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.isid.de/sprachaufnahme/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/20125/adminstore/"
 sales_page: "https://www.isid.de/sprachaufnahme/"
 language: "de"
 ---
 # Online-Video-Kurs+Coaching "Sprache professionell aufnehmen"
 
 > Product ID `20125` · Digistore24 productId `171853` · [HTML profile page](../../produkte/online-video-kurs-coaching-sprache-professionell-aufnehmen-20125.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $279.68 (Single payment) |
+| Price | $279.06 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $55.94 |
+| Earnings/sale* | $55.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Video-Kurs "Sprache professionell aufnehmen" Lernen Sie innerhalb weniger Stunden von einem professionellen Sprecher, wie Sie eine professionelle Sprachaufnahme in Tonstudio- und Rundfunk-Qualität aufnehmen können und lassen Sie sich dabei persönlich von Matthias Ernst Holzmann coachen! Sie erhalten den Video-Kurs, bis zu 10 Email-Konsultationen und 2 Skype-Sessions mit einer Gesamtdauer von bis z…
+**Vendor's marketplace description:** <p><strong>Video-Kurs "Sprache professionell aufnehmen"</strong></p>
+<p>Lernen Sie innerhalb weniger Stunden von einem professionellen Sprecher, wie Sie eine professionelle Sprachaufnahme in Tonstudio- und Rundfunk-Qualität aufnehmen können und lassen Sie sich dabei persönlich von Matthias Ernst Holzmann coachen!</p>
+<p>Sie erhalten den Video-Kurs, bis zu 10 Email-Konsultationen und 2 Skype-Sessions mit einer Gesamtdauer von bis zu 60 Minuten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.isid.de/sprachaufnahme/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/20125/adminstore/
 - Sales page: https://www.isid.de/sprachaufnahme/
 - Canonical redirect: https://www.digistore24.com/redir/171853/adminstore
 
@@ -92,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Video-Kurs+Coaching "Sprache professionell aufnehmen"? — Typ: Remote service provided electronically, Anbieter: isidde, gelistet seit 2017-10-20
-- Wie viel kostet es? — 279.679348 USD
+- Wie viel kostet es? — 279.055398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

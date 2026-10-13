@@ -4,34 +4,34 @@ digistore24_product_id: 389344
 title: "Bauanleitung - VW T4 Doppelbett"
 vendor: "mobilesbett"
 product_type: "E-books"
-price: 20.44
+price: 20.39
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 12.17
+earnings_per_sale: 12.14
 cart_conversion_pct: 2
 cancel_rate_pct: 3.19
 categories: ["Hobby & Craft"]
 listed_since: "2021-05-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://mobiles-bett.de/vw-t4?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39183/adminstore/"
 sales_page: "https://mobiles-bett.de/vw-t4"
 language: "de"
 ---
 # Bauanleitung - VW T4 Doppelbett
 
 > Product ID `39183` · Digistore24 productId `389344` · [HTML profile page](../../produkte/bauanleitung-vw-t4-doppelbett-39183.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.44 (Single payment) |
+| Price | $20.39 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $12.17 |
+| Earnings/sale* | $12.14 |
 | Cart conversion* | 2% |
 | Cancel rate* | 3.19% |
 | Vendor | mobilesbett |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Schritt-für-Schritt Bauanleitung für ein VW T4 Doppelbett. Die Anleitung beschreibt alle Maße, Materialien und Hölzer, die im Baumarkt zugeschnitten und besorgt werden können. Danach werden die Hölzer und Winkel wie ein Bausatz zusammengesetzt. Das Autobett lässt sich zusammengeschoben platzsparend im Kofferraum transportieren und in wenigen Minuten zum Schlafen ausziehen.
+**Vendor's marketplace description:** <p>Schritt-für-Schritt <strong>Bauanleitung</strong> für ein <strong>VW T4 Doppelbett</strong>. Die Anleitung beschreibt alle Maße, Materialien und Hölzer, die im Baumarkt zugeschnitten und besorgt werden können. Danach werden die Hölzer und Winkel wie ein Bausatz zusammengesetzt.</p>
+<p> </p>
+<p>Das <strong>Autobett</strong> lässt sich zusammengeschoben platzsparend<strong> im Kofferraum</strong> transportieren und in <strong>wenigen Minuten zum Schlafen ausziehen</strong>.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mobiles-bett.de/vw-t4?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39183/adminstore/
 - Sales page: https://mobiles-bett.de/vw-t4
 - Vendor affiliate support: https://mobiles-bett.de/partnerschaft/
 - Canonical redirect: https://www.digistore24.com/redir/389344/adminstore
@@ -81,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bauanleitung - VW T4 Doppelbett? — Typ: E-books, Anbieter: mobilesbett, gelistet seit 2021-05-12
-- Wie viel kostet es? — 20.439743999999997 USD
+- Wie viel kostet es? — 20.394144 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

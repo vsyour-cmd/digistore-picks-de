@@ -4,16 +4,16 @@ digistore24_product_id: 737391
 title: "Ski-fit – Skigymnastik-Plan: in 4 Wochen fit für die Piste"
 vendor: "blitzferien"
 product_type: "E-books"
-price: 13.51
+price: 13.48
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.06
+earnings_per_sale: 4.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://blitzferien.de/ski-fit/?aff=adminstore#aff=adminstore"
 sales_page: "https://blitzferien.de/ski-fit/"
@@ -22,16 +22,16 @@ language: "de"
 # Ski-fit – Skigymnastik-Plan: in 4 Wochen fit für die Piste
 
 > Product ID `60240` · Digistore24 productId `737391` · [HTML profile page](../../produkte/ski-fit-skigymnastik-plan-in-4-wochen-fit-f-r-die-piste-60240.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.51 (Single payment) |
+| Price | $13.48 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.06 |
+| Earnings/sale* | $4.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | blitzferien |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Skigymnastik für zu Hause: 12 Workouts in 4 Wochen (20–30 Min., ohne Geräte), 10 bebilderte Übungen für Kraft, Balance und stabile Knie, Tipps für die Piste und nach dem Skitag. 20 Seiten PDF, 12,90 €. 30 % Provision, Hauptsaison Oktober bis Februar. Werbemittel und fertige Texte: blitzferien.de/partner Bitte Partnerlinks als Werbung kennzeichnen, keine Heilversprechen.
+**Vendor's marketplace description:** <p>Skigymnastik für zu Hause: 12 Workouts in 4 Wochen (20–30 Min., ohne Geräte), 10 bebilderte Übungen für Kraft, Balance und stabile Knie, Tipps für die Piste und nach dem Skitag. 20 Seiten PDF, 12,90 €.</p>
+<p><strong>30 % Provision, Hauptsaison Oktober bis Februar.</strong> Werbemittel und fertige Texte: <a href="https://blitzferien.de/partner/">blitzferien.de/partner</a></p>
+<p>Bitte Partnerlinks als Werbung kennzeichnen, keine Heilversprechen.</p>
 
 ## 2. Links
 
@@ -77,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ski-fit – Skigymnastik-Plan: in 4 Wochen fit für die Piste? — Typ: E-books, Anbieter: blitzferien, gelistet seit 2026-10-06
-- Wie viel kostet es? — 13.514436000000002 USD
+- Wie viel kostet es? — 13.484286 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 546649
 title: "KI Online Kurs Masterclass"
 vendor: "webpirat"
 product_type: "Member area and video courses"
-price: 0.89
+price: 0.88
 currency: "USD"
 affiliate_commission_pct: 100
 earnings_per_sale: 0.34
@@ -12,24 +12,24 @@ cart_conversion_pct: 36
 cancel_rate_pct: 1.05
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-04-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.webpirat.de/ki-online-kurs-masterclass/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47705/adminstore/"
 sales_page: "https://www.webpirat.de/ki-online-kurs-masterclass/"
 language: "de"
 ---
 # KI Online Kurs Masterclass
 
 > Product ID `47705` · Digistore24 productId `546649` · [HTML profile page](../../produkte/ki-online-kurs-masterclass-47705.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $0.89 (Single payment) |
+| Price | $0.88 (Single payment) |
 | Affiliate commission | 100% |
 | Earnings/sale* | $0.34 |
 | Cart conversion* | 36% |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der "KI Online Kurs Masterclass" ist ein umfassender Online-Lehrplan, der Teilnehmern zeigt, wie sie ihren eigenen erfolgreichen Online-Kurs mit Unterstützung durch künstliche Intelligenz erstellen können. Der Kurs deckt den gesamten Prozess ab – von der ersten Idee über die Erstellung bis hin zur Vermarktung des Kurses. Teilnehmer erhalten Zugriff auf 10 detaillierte Lektionen, welche sowohl Grun…
+**Vendor's marketplace description:** <p>Der "KI Online Kurs Masterclass" ist ein umfassender Online-Lehrplan, der Teilnehmern zeigt, wie sie ihren eigenen erfolgreichen Online-Kurs mit Unterstützung durch künstliche Intelligenz erstellen können. Der Kurs deckt den gesamten Prozess ab – von der ersten Idee über die Erstellung bis hin zur Vermarktung des Kurses. Teilnehmer erhalten Zugriff auf 10 detaillierte Lektionen, welche sowohl Grundlagen als auch fortgeschrittene Insider-Tipps beinhalten, sowie spezielle KI-Prompts, die speziell für die Erstellung von Online-Kursen entwickelt wurden.</p>
+<ul>
+<li>Verkaufspreis: 4,90€ (netto) </li>
+<li>100% Provision</li>
+<li>Schnelle und hohe Conversions</li>
+<li>Hohe Qualität und Kundenzufriedenheit</li>
+</ul>
+<div style="width:0px;height:0px;"> </div>
+<div style="width:0px;height:0px;"> </div>
+<div style="width:0px;height:0px;"></div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.webpirat.de/ki-online-kurs-masterclass/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47705/adminstore/
 - Sales page: https://www.webpirat.de/ki-online-kurs-masterclass/
 - Vendor affiliate support: https://www.webpirat.de/werde-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/546649/adminstore
@@ -75,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Online Kurs Masterclass? — Typ: Member area and video courses, Anbieter: webpirat, gelistet seit 2024-04-03
-- Wie viel kostet es? — 0.8852740000000001 USD
+- Wie viel kostet es? — 0.8832990000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

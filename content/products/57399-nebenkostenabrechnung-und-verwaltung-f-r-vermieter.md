@@ -4,34 +4,34 @@ digistore24_product_id: 687248
 title: "Nebenkostenabrechnung und -verwaltung für Vermieter"
 vendor: "PanoramaBizz"
 product_type: "Software"
-price: 75.24
+price: 75.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.62
+earnings_per_sale: 37.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Real Estate"]
 listed_since: "2026-07-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://nebenkosten-guru.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57399/adminstore/"
 sales_page: "https://nebenkosten-guru.de"
 language: "de"
 ---
 # Nebenkostenabrechnung und -verwaltung für Vermieter
 
 > Product ID `57399` · Digistore24 productId `687248` · [HTML profile page](../../produkte/nebenkostenabrechnung-und-verwaltung-f-r-vermieter-57399.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $75.24 (Single payment) |
+| Price | $75.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.62 |
+| Earnings/sale* | $37.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PanoramaBizz |
@@ -41,11 +41,33 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Willkommen als Partner von Nebenkosten-Guru Danke für dein Interesse! Nebenkosten-Guru ist die Software, die Vermietern die komplette Nebenkostenabrechnung abnimmt - ein großer, kaufbereiter Markt: private und Kleinvermieter (1-20 Mieter), die einmal im Jahr selbst abrechnen. Heizkosten (HeizkostenV), CO₂-Aufteilung und § 35a-Lohnanteil - automatisch, mit Verweis auf die jeweilige Norm Kein Abo, E…
+**Vendor's marketplace description:** <p><strong>Willkommen als Partner von Nebenkosten-Guru</strong></p>
+<p>Danke für dein Interesse! Nebenkosten-Guru ist die Software, die Vermietern die komplette Nebenkostenabrechnung abnimmt - ein großer, kaufbereiter Markt: private und Kleinvermieter (1-20 Mieter), die einmal im Jahr selbst abrechnen.</p>
+<ul>
+<li>Heizkosten (HeizkostenV), CO₂-Aufteilung und § 35a-Lohnanteil - automatisch, mit Verweis auf die jeweilige Norm</li>
+<li>Kein Abo, Einmalkauf, läuft lokal im Browser (eine HTML-Datei, keine Cloud, kein Tracking)</li>
+<li>Sofortiger Download nach dem Kauf, kostenfreier Re-Download</li>
+</ul>
+<p><strong>Deine Provision: 50 % auf jede Software-Lizenz</strong> - flach ab dem ersten Verkauf. Abwicklung, Tracking und Auszahlung komplett über Digistore24.</p>
+<ul>
+<li>Standard 39,95 € (Early-Bird bis 30.09.2026, danach 79,90 €)</li>
+<li>Pro 49,95 € (danach 99,90 €)</li>
+<li>Buchhaltungs-Upgrade 29,95 €</li>
+<li>eBook „Nebenkosten": 30 %</li>
+</ul>
+<p><strong>So legst du los:</strong></p>
+<ol>
+<li>Bei Digistore24 als Affiliate bewerben - wir geben dich frei.</li>
+<li>Werbemittel freischalten: auf <a href="https://nebenkosten-guru.de/partner">nebenkosten-guru.de/partner</a> deine E-Mail eintragen. Damit sind Banner, Screenshots, Anzeigen-Motive und fertige Textvorlagen sofort für dich da.</li>
+<li>Mit deinem Affiliate-Link loslegen - im Rahmen der Werberichtlinie.</li>
+</ol>
+<p style="background:#FDF2E9;border:1px solid #E8B37A;padding:10px 14px;color:#9a3b12;font-size:15px;"><strong>Rechtlicher Hinweis:</strong> Nebenkosten-Guru ist ein rechtlich sensibles Produkt. Die Werbemittel und die Werberichtlinie sind <strong>verbindlich</strong>: bitte nur die freigegebenen Aussagen und Materialien nutzen, keine Garantien oder Rechtsberatung versprechen (nicht „garantiert rechtssicher", „100 % fehlerfrei"), Werbung als Werbung kennzeichnen. Falsche Werbeaussagen fallen auf uns beide zurück; Verstöße können zur Sperre und zum Verlust offener Provisionen führen. Die vollständige Richtlinie steht auf der Partnerseite.</p>
+<p><strong>Womit du wirbst</strong><br />Auf der Partnerseite bekommst du den kompletten Werbemittel-Satz: 2 Banner (Social 1200×628 + Display 300×250), 10 Produkt-Screenshots mit anonymen Musterdaten, fertige Anzeigen-Motive im Hochformat (Tool-Anzeigen + die Guru-Maskottchen-Serie für Feed und Stories) sowie fertige Textvorlagen für E-Mail, Facebook-Gruppen, Instagram und YouTube plus Anzeigen-Headlines - jeweils mit [LINK]-Platzhalter für deinen Affiliate-Link. Zum Verlinken findest du dort die Verkaufsseite, fertige Direkt-Bestelllinks (Early-Bird bereits vorbelegt, du hängst nur deine ID an) und die Live-Demo. Fürs eBook gibt es eigene Motive.</p>
+<p><strong>Eigene Werbemittel</strong> darfst du gern erstellen - wir müssen sie vor dem Einsatz nur kurz freigeben. Eine Mail mit dem Werbemittel oder dem Link genügt: <a href="mailto:affiliate@nebenkosten-guru.de">affiliate@nebenkosten-guru.de</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nebenkosten-guru.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57399/adminstore/
 - Sales page: https://nebenkosten-guru.de
 - Vendor affiliate support: https://nebenkosten-guru.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/687248/adminstore
@@ -90,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nebenkostenabrechnung und -verwaltung für Vermieter? — Typ: Software, Anbieter: PanoramaBizz, gelistet seit 2026-07-04
-- Wie viel kostet es? — 75.23708400000001 USD
+- Wie viel kostet es? — 75.06923400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

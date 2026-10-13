@@ -4,16 +4,16 @@ digistore24_product_id: 432992
 title: "Harmonicademy Abo-Modell"
 vendor: "harmonicademy"
 product_type: "Member area and video courses"
-price: 202.84
+price: 202.39
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 96.56
+earnings_per_sale: 96.35
 cart_conversion_pct: 6
 cancel_rate_pct: 5.61
 categories: ["Dancing & Music"]
 listed_since: "2022-03-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.harmonicademy.com/einzellieder/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.harmonicademy.com/einzellieder/"
@@ -22,16 +22,16 @@ language: "de"
 # Harmonicademy Abo-Modell
 
 > Product ID `39624` · Digistore24 productId `432992` · [HTML profile page](../../produkte/harmonicademy-abo-modell-39624.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $202.84 (Subscription) |
+| Price | $202.39 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $96.56 |
+| Earnings/sale* | $96.35 |
 | Cart conversion* | 6% |
 | Cancel rate* | 5.61% |
 | Vendor | harmonicademy |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ziehharmonika Online Kurs Abo-Modell Beim Abo-Modell erhält der Kunde Zugriff auf alle Lernmaterialien! Er hat die Möglichkeit mit einem Anfängerkurs das Ziehharmonika spielen oder bekannte Lieder zu lernen. Für Affiliates: Beim Abo-Modell erhalten Sie 35% für jedes gezahlte Monat oder Jahr. Sollten Sie mehr Informationen brauchen, zögern Sie nicht mir eine E-Mail zu schreiben. Euer Manuel!
+**Vendor's marketplace description:** <p><strong>Ziehharmonika Online Kurs</strong> </p>
+<p><strong>Abo-Modell</strong></p>
+<p>Beim Abo-Modell erhält der Kunde Zugriff auf alle Lernmaterialien! Er hat die Möglichkeit mit einem Anfängerkurs das Ziehharmonika spielen oder bekannte Lieder zu lernen.</p>
+<p> </p>
+<p><strong>Für Affiliates: </strong></p>
+<p>Beim Abo-Modell erhalten Sie 35% für jedes gezahlte Monat oder Jahr.</p>
+<p>Sollten Sie mehr Informationen brauchen, zögern Sie nicht mir eine E-Mail zu schreiben. Euer Manuel!</p>
+<p> </p>
 
 ## 2. Links
 
@@ -105,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Harmonicademy Abo-Modell? — Typ: Member area and video courses, Anbieter: harmonicademy, gelistet seit 2022-03-07
-- Wie viel kostet es? — 202.839806 USD
+- Wie viel kostet es? — 202.387281 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

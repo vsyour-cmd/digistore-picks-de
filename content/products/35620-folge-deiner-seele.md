@@ -4,16 +4,16 @@ digistore24_product_id: 368232
 title: "Folge Deiner Seele"
 vendor: "elanrea"
 product_type: "Member area and video courses"
-price: 117.71
+price: 117.45
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 23.54
+earnings_per_sale: 23.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-01-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.folgedeinerseele.com/mitgliedschaft/presale-grundmeditationen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.folgedeinerseele.com/mitgliedschaft/presale-grundmeditationen/"
@@ -22,16 +22,16 @@ language: "de"
 # Folge Deiner Seele
 
 > Product ID `35620` · Digistore24 productId `368232` · [HTML profile page](../../produkte/folge-deiner-seele-35620.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $117.71 (Single payment) |
+| Price | $117.45 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $23.54 |
+| Earnings/sale* | $23.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | elanrea |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehlen Sie das einzigartige Produkt für persönliche Entwicklung von El.An.Rea. Lebenslang 20% wiederkehrende Provisionen auf Ihre Verkäufe + Lebenslang 10% auf die Provisionen Ihrer Affiliates. Persönliche Unterstützung durch Ihren Affiliate-Manager.
+**Vendor's marketplace description:** <p>Empfehlen Sie das einzigartige Produkt für persönliche Entwicklung von El.An.Rea.</p>
+<ul>
+<li><strong>Lebenslang</strong> <strong>20% wiederkehrende Provisionen</strong> auf Ihre Verkäufe</li>
+<li>+ Lebenslang 10% auf die Provisionen Ihrer Affiliates.</li>
+<li>Persönliche Unterstützung durch Ihren Affiliate-Manager.</li>
+</ul>
 
 ## 2. Links
 
@@ -96,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Folge Deiner Seele? — Typ: Member area and video courses, Anbieter: elanrea, gelistet seit 2021-01-16
-- Wie viel kostet es? — 117.70782400000002 USD
+- Wie viel kostet es? — 117.44522400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

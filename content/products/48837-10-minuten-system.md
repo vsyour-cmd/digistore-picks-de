@@ -4,34 +4,34 @@ digistore24_product_id: 517395
 title: "10-Minuten-System"
 vendor: "finanz-erfolg"
 product_type: "Member area and video courses"
-price: 188.24
+price: 187.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 94.12
+earnings_per_sale: 93.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://lp.renerenk.de/10minuten-system/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48837/adminstore/"
 sales_page: "https://lp.renerenk.de/10minuten-system/"
 language: "de"
 ---
 # 10-Minuten-System
 
 > Product ID `48837` · Digistore24 productId `517395` · [HTML profile page](../../produkte/10-minuten-system-48837.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $188.24 (Subscription) |
+| Price | $187.82 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $94.12 |
+| Earnings/sale* | $93.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | finanz-erfolg |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Beim 10-Minuten-System handelt es sich um ein extrem gut konvertierendes Produkt mit monatlich oder jährlich wiederkehrenden Einnahmen für den Affiliate. Die Zielgruppe sind hauptsächlich Menschen, die online Geld verdienen , sich ein Nebeneinkommen oder ein Online-Business aufbauen möchten.
+**Vendor's marketplace description:** <p><strong>Beim 10-Minuten-System handelt es sich um ein extrem gut konvertierendes Produkt mit monatlich oder jährlich wiederkehrenden Einnahmen für den Affiliate.</strong></p>
+<p><strong>Die Zielgruppe sind hauptsächlich Menschen, die online Geld verdienen , sich ein Nebeneinkommen oder ein Online-Business aufbauen möchten.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lp.renerenk.de/10minuten-system/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48837/adminstore/
 - Sales page: https://lp.renerenk.de/10minuten-system/
 - Canonical redirect: https://www.digistore24.com/redir/517395/adminstore
 
@@ -66,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10-Minuten-System? — Typ: Member area and video courses, Anbieter: finanz-erfolg, gelistet seit 2023-09-21
-- Wie viel kostet es? — 188.238388 USD
+- Wie viel kostet es? — 187.81843800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

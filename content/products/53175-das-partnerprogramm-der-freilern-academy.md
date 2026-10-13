@@ -4,34 +4,34 @@ digistore24_product_id: 598121
 title: "Das Partnerprogramm der FreiLern-Academy"
 vendor: "SunnySteiner"
 product_type: "Member area and video courses"
-price: 160.09
+price: 159.73
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 28.02
+earnings_per_sale: 27.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2025-02-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/598121?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53175/adminstore/"
 sales_page: "https://www.digistore24.com/product/598121"
 language: "de"
 ---
 # Das Partnerprogramm der FreiLern-Academy
 
 > Product ID `53175` · Digistore24 productId `598121` · [HTML profile page](../../produkte/das-partnerprogramm-der-freilern-academy-53175.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $160.09 (Single payment, Installment) |
+| Price | $159.73 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $28.02 |
+| Earnings/sale* | $27.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SunnySteiner |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate-Partner der FreiLern-Academy & verdiene mit! Du möchtest Familien auf ihrem Weg raus aus dem Schulsystem begleiten – und dabei selbst ganz nebenbei Geld verdienen? Dann werde Affiliate-Partner für Deschool your Life, dem ersten Onlinekurs der FreiLern Academy und teile eine Botschaft, die die Welt wirklich verändert! Deine Vorteile als Affiliate: ✅ Faire Provisionen für jede erfolg…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate-Partner der FreiLern-Academy &amp; verdiene mit!</strong></p>
+<p>Du möchtest Familien auf ihrem Weg raus aus dem Schulsystem begleiten – und dabei selbst ganz nebenbei Geld verdienen?</p>
+<p>Dann werde Affiliate-Partner für <strong>Deschool your Life</strong>, dem ersten Onlinekurs der <strong>FreiLern Academy</strong> und teile eine Botschaft, die die Welt wirklich verändert!</p>
+<hr />
+<p><strong>Deine Vorteile als Affiliate:</strong></p>
+<p>✅ <strong>Faire Provisionen</strong> für jede erfolgreiche Empfehlung<br />✅ <strong>Sinnvolle Mission</strong> – du hilfst Eltern beim mutigen Schritt in ein freies Leben<br />✅ <strong>Erprobtes Produkt</strong> – viele Familien lieben den Kurs bereits<br />✅ <strong>Kein Verkaufsdruck</strong> – du teilst einfach deine Überzeugung<br />✅ <strong>Werbematerial inklusive</strong> – Texte, Grafiken &amp; Vorlagen zur direkten Nutzung<br />✅ <strong>Einfacher Einstieg</strong> – kein technisches Know-how nötig<br />✅ <strong>Ideal für Freilerner, Coaches &amp; Content Creator</strong> mit Herz</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/598121?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53175/adminstore/
 - Sales page: https://www.digistore24.com/product/598121
 - Canonical redirect: https://www.digistore24.com/redir/598121/adminstore
 
@@ -93,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm der FreiLern-Academy? — Typ: Member area and video courses, Anbieter: SunnySteiner, gelistet seit 2025-02-24
-- Wie viel kostet es? — 160.088916 USD
+- Wie viel kostet es? — 159.73176600000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

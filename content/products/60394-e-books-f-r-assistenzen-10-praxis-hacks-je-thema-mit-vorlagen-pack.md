@@ -4,16 +4,16 @@ digistore24_product_id: 635555
 title: "E-Books für Assistenzen: 10 Praxis-Hacks je Thema, mit Vorlagen-Pack"
 vendor: "rotmary"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 7.6
+earnings_per_sale: 7.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.officetrainings.de/e-books-fuer-assistenzen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.officetrainings.de/e-books-fuer-assistenzen/"
@@ -22,16 +22,16 @@ language: "de"
 # E-Books für Assistenzen: 10 Praxis-Hacks je Thema, mit Vorlagen-Pack
 
 > Product ID `60394` · Digistore24 productId `635555` · [HTML profile page](../../produkte/e-books-f-r-assistenzen-10-praxis-hacks-je-thema-mit-vorlagen-pack-60394.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $7.60 |
+| Earnings/sale* | $7.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rotmary |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Praxis-E-Books für Assistenzen, Chefassistenzen und Office-Managerinnen von Maria Möbs (Officetrainings, seit 2006). Jedes E-Book nimmt sich ein konkretes Problem aus dem Assistenzalltag vor und zeigt 10 Hacks, die sich direkt im Alltag umsetzen lassen. Zu jedem E-Book gehört ein Vorlagen-Pack zum Ausdrucken und Ausfüllen. Themen: Chefentlastung, Outlook, Priorisierung, Workflow mit Microsoft 365,…
+**Vendor's marketplace description:** <p>Praxis-E-Books für Assistenzen, Chefassistenzen und Office-Managerinnen von Maria Möbs (Officetrainings, seit 2006). Jedes E-Book nimmt sich ein konkretes Problem aus dem Assistenzalltag vor und zeigt 10 Hacks, die sich direkt im Alltag umsetzen lassen. Zu jedem E-Book gehört ein Vorlagen-Pack zum Ausdrucken und Ausfüllen.</p>
+<p>Themen: Chefentlastung, Outlook, Priorisierung, Workflow mit Microsoft 365, Meetingsteuerung, Chefkommunikation, Delegation.</p>
+<p>Preis je E-Book: 29 € inkl. 7 % MwSt. · Provision: 25 % laut Digistore-Abrechnung<br />Verkaufsseite: officetrainings.de/e-books-fuer-assistenzen/ (alle Titel auf einer Seite, Kauf über Digistore24)</p>
+<p>Passt zu Webseiten, Newslettern und Kanälen für Assistenz, Sekretariat, Office Management und kaufmännische Büroarbeit.</p>
+<p>Hinweise für Partner: Bitte bewerben Sie die Produkte nur mit sachlichen Aussagen zum Inhalt. Keine Einkommens- oder Erfolgsversprechen, keine Werbung per unerwünschter E-Mail, keine Suchmaschinenanzeigen auf „Officetrainings“ oder „Maria Möbs“. Affiliate-Links und Empfehlungen sind als Werbung zu kennzeichnen. Namen, Logos und Bilder von Officetrainings und Maria Möbs nur mit den bereitgestellten Werbemitteln verwenden. Partneranfragen werden einzeln geprüft; passend sind Angebote mit Bezug zu Assistenz, Sekretariat oder Büroorganisation.</p>
 
 ## 2. Links
 
@@ -74,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Books für Assistenzen: 10 Praxis-Hacks je Thema, mit Vorlagen-Pack? — Typ: E-books, Anbieter: rotmary, gelistet seit 2026-10-07
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

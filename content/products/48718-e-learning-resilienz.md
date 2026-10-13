@@ -4,16 +4,16 @@ digistore24_product_id: 550000
 title: "E-Learning Resilienz"
 vendor: "Nedler"
 product_type: "Member area and video courses"
-price: 9.41
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 22.41
+earnings_per_sale: 22.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2024-04-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/550000?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/550000"
@@ -22,16 +22,16 @@ language: "de"
 # E-Learning Resilienz
 
 > Product ID `48718` · Digistore24 productId `550000` · [HTML profile page](../../produkte/e-learning-resilienz-48718.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.41 (Subscription) |
+| Price | $9.39 (Subscription) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $22.41 |
+| Earnings/sale* | $22.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Nedler |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Viele Menschen leiden unter Stress und psychischen Belastungen. Dies bedeutet ein großes Gesundheitsrisiko. Die meisten Angebote zur Stressbewältigung und Resilienz beschränken sich auf Tipps, z.B. dass man auch mal Nein-Sagen müsse, und Prioritäten setzen und genügend Sport treiben. Aber wenn es so einfach wäre, würden es die Menschen ja längst machen. Mein E-Learning ist tiefenpsychologisch fund…
+**Vendor's marketplace description:** <p>Viele Menschen leiden unter Stress und psychischen Belastungen. Dies bedeutet ein großes Gesundheitsrisiko. Die meisten Angebote zur Stressbewältigung und Resilienz beschränken sich auf Tipps, z.B. dass man auch mal Nein-Sagen müsse, und Prioritäten setzen und genügend Sport treiben. Aber wenn es so einfach wäre, würden es die Menschen ja längst machen. Mein E-Learning ist tiefenpsychologisch fundiert und dennoch einfach und praktikabel in der Umsetzung. Es unterstützt die Teilnehmer zu verstehen, warum sie auf äußere Reize, Anforderungen, Kritik oder Angriffe nicht gelassen und konstruktiv reagieren. Sie bekommen "Werkzeuge" an die Hand, um aus destruktriven, unwillkürlich aktivierten Mustern des Erlebens und Verhaltens (Stress, Ärger etc.) auszusteigen für eine freies, selbtsbestimmtes, gesundes und erfülltes Leben. Das E-Learning ist interaktiv. Die Teilnehmer/innen können Fragen schicken per Mail. Und im nächsten Video (eins pro Woche) erhalten sie Antworten auf ihre Fragen.</p>
 
 ## 2. Links
 
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Learning Resilienz? — Typ: Member area and video courses, Anbieter: Nedler, gelistet seit 2024-04-26
-- Wie viel kostet es? — 9.41304 USD
+- Wie viel kostet es? — 9.392040000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 222585
 title: "geführte Meditation: Beziehungen heilen"
 vendor: "Ninuschka"
 product_type: "Downloads"
-price: 15.16
+price: 15.13
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.55
+earnings_per_sale: 4.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2018-05-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.beziehungs-paarberatung-dresden.de/shop/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/24583/adminstore/"
 sales_page: "https://www.beziehungs-paarberatung-dresden.de/shop/"
 language: "de"
 ---
 # geführte Meditation: Beziehungen heilen
 
 > Product ID `24583` · Digistore24 productId `222585` · [HTML profile page](../../produkte/gef-hrte-meditation-beziehungen-heilen-24583.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.16 (Single payment) |
+| Price | $15.13 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.55 |
+| Earnings/sale* | $4.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ninuschka |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Diese geführte Meditation unterstützt Sie dabei, problematische Beziehungen zu klären und zu heilen und sich innerlich auszusöhnen mit den wichtigen Bezugspersonen in Ihrem Leben. Auf diese Weise können Sie Ihre innere Haltung nachhaltig verändern, sich freier und unbeschwerter fühlen und die Beziehungen auch in der Realität neu erleben. Wir Menschen sind soziale Wesen, in Beziehungen mit Anderen …
+**Vendor's marketplace description:** <p><strong>Diese geführte Meditation unterstützt Sie dabei, problematische Beziehungen zu klären und zu heilen und sich innerlich auszusöhnen mit den wichtigen Bezugspersonen in Ihrem Leben. Auf diese Weise können Sie Ihre innere Haltung nachhaltig verändern, sich freier und unbeschwerter fühlen und die Beziehungen auch in der Realität neu erleben.</strong></p>
+<p>Wir Menschen sind soziale Wesen, in Beziehungen mit Anderen zu leben ist Teil unseres Menschseins. Leider haben auch viele unserer Probleme Ihre Ursache in belastenden oder nicht gelingenden Beziehungen zu unseren Partnern, unseren Eltern, unseren Kindern oder anderen für uns bedeutsamen Menschen in unserem Leben.</p>
+<p>Sie werden beim Hören in einen entspannten Zustand versetzt und dazu angeleitet, einen imaginativen Kontakt zu einer Person aufzunehmen, mit der Sie Ihre Beziehung verbessern möchten. Auf diese Weise können auf energetischer Ebene Konflikte aufgelöst und innerer Frieden hergestellt werden. Die innere Aussöhnung unterstützt damit die Harmonisierung schwieriger Beziehungsthemen auch im Außen. Durch regelmäßiges Hören dieser Mediation können nachhaltige Veränderungen in Ihren Beziehungserfahrungen erreicht werden.</p>
+<p>Die geführte Meditation ist von Claudia Bechert- Möckel als Studioproduktion vertont worden. Unterlegt ist die Audioproduktion mit Entspannungsmusik.</p>
+<p> </p>
+<p><strong><a href="https://www.ilp-coach-dresden.de/cms/persoenlichkeits-und-beziehungscoaching.html" target="_blank" rel="noreferrer noopener">Claudia Bechert- Möckel</a> </strong>ist Beziehungs- und Persönlichkeitscoach und Trainerin für Entspannungsverfahren, zudem ausgebildetete Sprecherin. </p>
+<p><a href="https://soundcloud.com/mix-your-meditation/meditation-dertag-am-meer-testversion" target="_blank" rel="noreferrer noopener"><strong>Hier können Sie einer ihrer Meditationen zur Probe hören.</strong></a></p>
+<p>Beim Kauf dieser Meditation erhalten Sie eine Audiodatei im Format mp3.</p>
+<p>Dauer der geführten Meditation: 16.47 min</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.beziehungs-paarberatung-dresden.de/shop/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/24583/adminstore/
 - Sales page: https://www.beziehungs-paarberatung-dresden.de/shop/
 - Canonical redirect: https://www.digistore24.com/redir/222585/adminstore
 
@@ -78,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist geführte Meditation: Beziehungen heilen? — Typ: Downloads, Anbieter: Ninuschka, gelistet seit 2018-05-20
-- Wie viel kostet es? — 15.161718 USD
+- Wie viel kostet es? — 15.127893 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

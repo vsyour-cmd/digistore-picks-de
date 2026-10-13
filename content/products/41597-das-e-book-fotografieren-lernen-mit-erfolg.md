@@ -4,34 +4,34 @@ digistore24_product_id: 281742
 title: "das E-Book: fotografieren lernen mit Erfolg"
 vendor: "axel-pr"
 product_type: "E-books"
-price: 10.35
+price: 10.33
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 3.34
+earnings_per_sale: 3.33
 cart_conversion_pct: 13
 cancel_rate_pct: 0.41
 categories: ["Photography & Film"]
 listed_since: "2019-08-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.foto-kurs.com/ebook-fotografieren-lernen.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41597/adminstore/"
 sales_page: "https://www.foto-kurs.com/ebook-fotografieren-lernen.php"
 language: "de"
 ---
 # das E-Book: fotografieren lernen mit Erfolg
 
 > Product ID `41597` · Digistore24 productId `281742` · [HTML profile page](../../produkte/das-e-book-fotografieren-lernen-mit-erfolg-41597.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.35 (Single payment) |
+| Price | $10.33 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $3.34 |
+| Earnings/sale* | $3.33 |
 | Cart conversion* | 13% |
 | Cancel rate* | 0.41% |
 | Vendor | axel-pr |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das E-Book zum Foto-Kurs.com – fotografieren lernen mit Erfolg 290 Seiten für den Durchblick bei der Fotografie. Der Aufbau des E-Books: Technische Grundlagen Verschiedene Bereiche der Fotografie Bildaufbau und Gestaltungsgrundlagen Tipps und Tricks Lexikon/Glossar Praxiserprobt und zielgerichtet: fotografieren lernen einfach gemacht.
+**Vendor's marketplace description:** <h1>Das E-Book zum Foto-Kurs.com – <span style="color:#333399;">fotografieren lernen mit Erfolg</span></h1>
+<p>290 Seiten für den Durchblick bei der Fotografie.</p>
+<p>Der Aufbau des E-Books:</p>
+<ul>
+<li>Technische Grundlagen</li>
+<li>Verschiedene Bereiche der Fotografie</li>
+<li>Bildaufbau und Gestaltungsgrundlagen</li>
+<li>Tipps und Tricks</li>
+<li>Lexikon/Glossar</li>
+</ul>
+<p>Praxiserprobt und zielgerichtet: fotografieren lernen einfach gemacht.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.foto-kurs.com/ebook-fotografieren-lernen.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41597/adminstore/
 - Sales page: https://www.foto-kurs.com/ebook-fotografieren-lernen.php
 - Canonical redirect: https://www.digistore24.com/redir/281742/adminstore
 
@@ -76,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist das E-Book: fotografieren lernen mit Erfolg? — Typ: E-books, Anbieter: axel-pr, gelistet seit 2019-08-05
-- Wie viel kostet es? — 10.354344000000001 USD
+- Wie viel kostet es? — 10.331244000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

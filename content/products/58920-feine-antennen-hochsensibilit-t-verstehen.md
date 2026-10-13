@@ -4,16 +4,16 @@ digistore24_product_id: 729747
 title: "Feine Antennen – Hochsensibilität verstehen"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Leadership & Management","Personal Development"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/729747?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/729747"
@@ -22,16 +22,16 @@ language: "de"
 # Feine Antennen – Hochsensibilität verstehen
 
 > Product ID `58920` · Digistore24 productId `729747` · [HTML profile page](../../produkte/feine-antennen-hochsensibilit-t-verstehen-58920.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb "Feine Antennen" — ein fundiertes eBook zu einem stark wachsenden Selbsterkenntnis-Thema: Hochsensibilität (HSP). Was macht dieses Produkt leicht verkäuflich: "Hochsensibel" ist ein enorm populärer Suchbegriff — viele Menschen googeln aktiv "Bin ich hochsensibel?" oder suchen nach Erklärungen, warum sie sich schneller überreizt fühlen als andere. Gleichzeitig gibt es viel oberflächlichen Co…
+**Vendor's marketplace description:** <p>Bewirb "Feine Antennen" — ein fundiertes eBook zu einem stark wachsenden Selbsterkenntnis-Thema: Hochsensibilität (HSP).</p>
+<p> </p>
+<p>Was macht dieses Produkt leicht verkäuflich: "Hochsensibel" ist ein enorm populärer Suchbegriff — viele Menschen googeln aktiv "Bin ich hochsensibel?" oder suchen nach Erklärungen, warum sie sich schneller überreizt fühlen als andere. Gleichzeitig gibt es viel oberflächlichen Content dazu, aber wenig, das auch den wissenschaftlichen Diskurs ehrlich einordnet.</p>
+<p> </p>
+<p>Zielgruppe: Menschen, die vermuten, hochsensibel zu sein; bereits identifizierte HSP, die praktische Strategien suchen; Eltern hochsensibler Kinder; introvertierte und empathische Menschen allgemein. Passt hervorragend zu Achtsamkeits-Content, Psychologie-Creator:innen, und Empowerment-Zielgruppen.</p>
+<p> </p>
+<p>Wichtigste Verkaufsargumente:</p>
+<p>- Basiert auf Elaine Arons anerkanntem DOES-Modell, mit ehrlicher Einordnung der wissenschaftlichen Kritik</p>
+<p>- Klare Abgrenzung zu ähnlichen Konzepten (Introversion, Hochbegabung, Autismus) — schafft Vertrauen</p>
+<p>- 52 Kapitel decken Beruf, Beziehungen, Kinder und Alltag ab</p>
+<p>- Sofortiger digitaler Download</p>
+<p> </p>
+<p>Funktioniert hervorragend in Content rund um Achtsamkeit, Introvertiertheit, Empathie und Selbstakzeptanz.</p>
 
 ## 2. Links
 
@@ -79,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Feine Antennen – Hochsensibilität verstehen? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-04
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

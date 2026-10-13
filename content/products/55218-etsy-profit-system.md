@@ -4,16 +4,16 @@ digistore24_product_id: 661750
 title: "Etsy profit system"
 vendor: "IGCLOSE"
 product_type: "Downloads"
-price: 32.02
+price: 31.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.01
+earnings_per_sale: 15.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Social Media"]
 listed_since: "2026-01-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/661750?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/661750"
@@ -22,16 +22,16 @@ language: "de"
 # Etsy profit system
 
 > Product ID `55218` · Digistore24 productId `661750` · [HTML profile page](../../produkte/etsy-profit-system-55218.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $32.02 (Single payment) |
+| Price | $31.94 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.01 |
+| Earnings/sale* | $15.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IGCLOSE |
@@ -41,7 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** NEU AUF DEM MARKT !!! Der Kurs ist perfekt für Affiliates, da er: einen niedrigen Einstiegspreis für Kunden hat 50% Provision pro Verkauf bietet sofort digital ausgeliefert wird eine hohe Conversionrate durch einfache Inhalte ermöglicht WENN DU ANFANGEN WILLST DANN DRÜCKE OBEN AUF Jetzt promoten
+**Vendor's marketplace description:** <h3><strong>NEU AUF DEM MARKT !!!</strong></h3>
+<p> </p>
+<h4>Der Kurs ist perfekt für <strong>Affiliates</strong>, da er:</h4>
+<p> </p>
+<ul>
+<li>
+<h4>einen <strong>niedrigen Einstiegspreis für Kunden</strong> hat</h4>
+</li>
+<li> </li>
+<li>
+<h4><strong>50% Provision pro Verkauf</strong> bietet</h4>
+</li>
+<li> </li>
+<li>
+<h4><strong>sofort digital ausgeliefert</strong> wird</h4>
+</li>
+<li> </li>
+<li>
+<h4>eine <strong>hohe Conversionrate</strong> durch einfache Inhalte ermöglicht</h4>
+</li>
+<li> </li>
+</ul>
+<h3>WENN DU ANFANGEN WILLST DANN DRÜCKE OBEN AUF Jetzt promoten</h3>
 
 ## 2. Links
 
@@ -88,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Etsy profit system? — Typ: Downloads, Anbieter: IGCLOSE, gelistet seit 2026-01-16
-- Wie viel kostet es? — 32.015542 USD
+- Wie viel kostet es? — 31.944117000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

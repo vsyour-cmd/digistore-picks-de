@@ -4,34 +4,34 @@ digistore24_product_id: 730765
 title: "Viralmatik – Kurzvideos auf Autopilot"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 187.4
+price: 186.98
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 46.85
+earnings_per_sale: 46.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://viralmatik.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60279/adminstore/"
 sales_page: "https://viralmatik.com"
 language: "de"
 ---
 # Viralmatik – Kurzvideos auf Autopilot
 
 > Product ID `60279` · Digistore24 productId `730765` · [HTML profile page](../../produkte/viralmatik-kurzvideos-auf-autopilot-60279.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.40 (Subscription) |
+| Price | $186.98 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $46.85 |
+| Earnings/sale* | $46.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
@@ -41,11 +41,45 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle Viralmatik – Kurzvideos auf Autopilot – und verdiene an jeder Zahlung mit 25 % Provision auf jede Zahlung · Einstieg für deine Leute: 7 Tage für 1 € · danach automatisch 199 € pro Jahr >> Hier geht es zum Partnerprogramm mit allen Werbemitteln Was ist Viralmatik? Viralmatik ist eine KI-Software, die jeden Tag ein fertiges Kurzvideo baut – mit Text, KI-Stimme, Bildern, Untertiteln und Musi…
+**Vendor's marketplace description:** <h2 style="text-align:center;"><span style="background-color:#fedc31;color:#000000;"><strong>Empfehle Viralmatik – Kurzvideos auf Autopilot – und verdiene an jeder Zahlung mit</strong></span></h2>
+<p style="text-align:center;"><strong>25 % Provision auf jede Zahlung · Einstieg für deine Leute: 7 Tage für 1 € · danach automatisch 199 € pro Jahr</strong></p>
+<p><a href="https://viralmatik.com/partnerprogramm" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; Hier geht es zum Partnerprogramm mit allen Werbemitteln</strong></a></p>
+<hr />
+<h3><strong>Was ist Viralmatik?</strong></h3>
+<p>Viralmatik ist eine KI-Software, die jeden Tag ein fertiges Kurzvideo baut – mit Text, KI-Stimme, Bildern, Untertiteln und Musik – und es <strong>selbst auf Instagram und TikTok postet</strong>. Ohne Kamera, ohne Gesicht, ohne Schnitt.</p>
+<p>Damit löst Viralmatik das Problem, an dem viele scheitern, die online sichtbar werden wollen: <strong>jeden Tag dranbleiben</strong>.</p>
+<h3><strong>Was deine Kunden bekommen</strong></h3>
+<ul>
+<li>Jeden Tag ein neues Kurzvideo – automatisch gebaut</li>
+<li>Automatisches Posten auf Instagram und TikTok, zu fester Uhrzeit</li>
+<li>Keine Kosten pro Video, keine Credits</li>
+<li>Viral-Kompass: lernt aus den Zahlen und baut mehr von dem, was läuft</li>
+<li>5 Starthelfer als PDF (u. a. 30-Tage-Startplan, Hook-Speicher mit 120 Aufhängern)</li>
+<li>Geführte Einrichtung in rund 10 Minuten</li>
+</ul>
+<h3><strong>Warum es sich gut empfehlen lässt</strong></h3>
+<ul>
+<li><strong>Kleine Hürde:</strong> 7 Tage für 1 € – leichte Entscheidung für deine Leser und Follower</li>
+<li><strong>Video-Verkaufsseite:</strong> ein 6-Minuten-Video erklärt alles – du musst nichts erklären</li>
+<li><strong>Breite Zielgruppe:</strong> Selbstständige, Coaches, Creator, Einsteiger – auch 45+ und ohne Technik-Kenntnisse</li>
+<li><strong>Wiederkehrend:</strong> Du bist bei jeder Verlängerung (199 € pro Jahr) mit 25 % dabei</li>
+</ul>
+<h3><strong>Dein Verdienst</strong></h3>
+<ul>
+<li>25 % Provision auf jede Zahlung des Kunden – Einstieg und jede Verlängerung (Digistore-Berechnung vom Nettobetrag)</li>
+<li>Automatische Freischaltung – sofort loslegen</li>
+<li>Abrechnung und Auszahlung über Digistore24</li>
+</ul>
+<h3><strong>Werbemittel</strong></h3>
+<p>E-Mail-Vorlagen, Social-Media-Posts und Werbebilder findest du auf der Partnerseite – inklusive Link-Generator für deinen persönlichen Partnerlink.</p>
+<p><a href="https://viralmatik.com/partnerprogramm" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; Zu den Werbemitteln</strong></a></p>
+<p><strong>Faire Regeln:</strong> Bitte keine Verdienst- oder Einkommensversprechen, kein Spam, Werbung gleich am Anfang kennzeichnen, Mails nur an Abonnenten mit Einwilligung und keine Anzeigen auf den Namen „Viralmatik“ in Suchmaschinen.</p>
+<p>Fragen? Schreib uns: <a href="mailto:info@supportmanager.org">info@supportmanager.org</a></p>
+<p>Viel Erfolg und eine Menge Provisionen wünscht<br />Torsten Jaeger</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://viralmatik.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60279/adminstore/
 - Sales page: https://viralmatik.com
 - Vendor affiliate support: https://viralmatik.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/730765/adminstore
@@ -93,7 +127,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Viralmatik – Kurzvideos auf Autopilot? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2026-10-07
-- Wie viel kostet es? — 187.39793799999998 USD
+- Wie viel kostet es? — 186.979863 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

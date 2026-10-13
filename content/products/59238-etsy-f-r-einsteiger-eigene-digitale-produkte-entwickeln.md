@@ -4,16 +4,16 @@ digistore24_product_id: 732911
 title: "Etsy für Einsteiger: Eigene digitale Produkte entwickeln"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 37.29
+earnings_per_sale: 37.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/etsy/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/etsy/"
@@ -22,16 +22,16 @@ language: "de"
 # Etsy für Einsteiger: Eigene digitale Produkte entwickeln
 
 > Product ID `59238` · Digistore24 productId `732911` · [HTML profile page](../../produkte/etsy-f-r-einsteiger-eigene-digitale-produkte-entwickeln-59238.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $37.29 |
+| Earnings/sale* | $37.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dein Publikum möchte eigene digitale Downloads für Etsy entwickeln? Das „Einfach mit Matze – Etsy-Praxispaket“ bietet Einsteigern einen schriftlichen Arbeitsweg: Idee prüfen, Produkt entwickeln, Dateien testen, Kosten durchrechnen und ein passendes Angebot vorbereiten. Das erhalten Käufer: 36-seitigen PDF-Praxisguide 12-seitiges ausfüllbares PDF-Arbeitsbuch mit 60 Formularfeldern Lokale HTML-Werks…
+**Vendor's marketplace description:** <p><strong>Dein Publikum möchte eigene digitale Downloads für Etsy entwickeln?</strong> Das „Einfach mit Matze – Etsy-Praxispaket“ bietet Einsteigern einen schriftlichen Arbeitsweg: Idee prüfen, Produkt entwickeln, Dateien testen, Kosten durchrechnen und ein passendes Angebot vorbereiten.</p>
+<p><strong>Das erhalten Käufer:</strong></p>
+<ul>
+<li>36-seitigen PDF-Praxisguide</li>
+<li>12-seitiges ausfüllbares PDF-Arbeitsbuch mit 60 Formularfeldern</li>
+<li>Lokale HTML-Werkstatt für Briefing, Kostenrechnung und Listing-Entwurf</li>
+<li>Zweiseitigen Hundesitter-Musterdownload als Lernbeispiel und Startunterlagen</li>
+</ul>
+<p>Das deutschsprachige Selbstlernpaket kostet <strong>einmalig 99 € inklusive Mehrwertsteuer, ohne Abo</strong>. Der Nischen-Kompass mit 50 redaktionellen Etsy-Nischenideen ist ein separater, optionaler Zusatz für 9,99 €.</p>
+<p><strong>Für Affiliates:</strong> Die eingerichtete Provision beträgt 40 %; maßgeblich sind die aktuellen Konditionen im Digistore24-Konto. Zur Bewerbung stehen 44 Textvorlagen und Arbeitshilfen, 20 Werbegrafiken, 16 FAQ-Antworten, vier ZIP-Pakete, drei Produktvorschauen und eine vierseitige Leseprobe bereit.</p>
+<p><a href="https://einfachmitmatze.de/affiliate/etsy/"><strong>Etsy-Affiliate-Seite und Werbemittel öffnen</strong></a><br />Verwende deinen persönlichen Promolink aus der aktiven Digistore24-Partnerschaft für Produkt 732911.</p>
+<p>Die Bearbeitung erfolgt selbstständig mit PDF-Reader und Browser. Videos, persönliches Coaching, Community und Wiederverkaufsrechte an Kurs- oder Musterdateien sind nicht enthalten. Matze ist eine fiktive Erklärfigur. Verkäufe und Einnahmen werden nicht garantiert. Das Angebot ist unabhängig von Etsy.</p>
 
 ## 2. Links
 
@@ -89,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Etsy für Einsteiger: Eigene digitale Produkte entwickeln? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-15
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 711087
 title: "Mini-Schlaf-Guide"
 vendor: "markuskorn5700"
 product_type: "E-books"
-price: 15.61
+price: 15.58
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.68
+earnings_per_sale: 4.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.mini-guides.info?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58847/adminstore/"
 sales_page: "https://www.mini-guides.info"
 language: "de"
 ---
 # Mini-Schlaf-Guide
 
 > Product ID `58847` · Digistore24 productId `711087` · [HTML profile page](../../produkte/mini-schlaf-guide-58847.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.61 (Single payment) |
+| Price | $15.58 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.68 |
+| Earnings/sale* | $4.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | markuskorn5700 |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Mini-Schlaf-Guide ist ein digitaler PDF-Guide rund um Schlaf, Einschlafen und ruhigere Abendroutinen. Er richtet sich an Menschen, die abends schwer abschalten, häufig grübeln oder kleine, verständliche Impulse für den Übergang vom Tag zur Ruhe suchen. Enthalten sind 8 Alltagsthemen rund um Schlaf und Einschlafen, 2 Bonusseiten sowie klare Abendimpulse. Der Guide ist visuell gestaltet, kompakt…
+**Vendor's marketplace description:** <p>Der Mini-Schlaf-Guide ist ein digitaler PDF-Guide rund um Schlaf, Einschlafen und ruhigere Abendroutinen.</p>
+<p>Er richtet sich an Menschen, die abends schwer abschalten, häufig grübeln oder kleine, verständliche Impulse für den Übergang vom Tag zur Ruhe suchen.</p>
+<p>Enthalten sind 8 Alltagsthemen rund um Schlaf und Einschlafen, 2 Bonusseiten sowie klare Abendimpulse. Der Guide ist visuell gestaltet, kompakt aufgebaut und ohne unnötiges Fachchinesisch formuliert.</p>
+<p>Die Auslieferung erfolgt digital nach dem Kauf. Es wird kein physisches Produkt versendet.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.mini-guides.info?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58847/adminstore/
 - Sales page: https://www.mini-guides.info
 - Canonical redirect: https://www.digistore24.com/redir/711087/adminstore
 
@@ -58,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mini-Schlaf-Guide? — Typ: E-books, Anbieter: markuskorn5700, gelistet seit 2026-09-01
-- Wie viel kostet es? — 15.609958 USD
+- Wie viel kostet es? — 15.575133000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

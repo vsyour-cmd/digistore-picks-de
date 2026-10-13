@@ -4,34 +4,34 @@ digistore24_product_id: 737329
 title: "Fit unterwegs – 4-Wochen-Workoutplan für Reisende"
 vendor: "blitzferien"
 product_type: "E-books"
-price: 15.61
+price: 15.58
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.68
+earnings_per_sale: 4.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Travel & Culture"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://blitzferien.de/fit-unterwegs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60239/adminstore/"
 sales_page: "https://blitzferien.de/fit-unterwegs/"
 language: "de"
 ---
 # Fit unterwegs – 4-Wochen-Workoutplan für Reisende
 
 > Product ID `60239` · Digistore24 productId `737329` · [HTML profile page](../../produkte/fit-unterwegs-4-wochen-workoutplan-f-r-reisende-60239.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.61 (Single payment) |
+| Price | $15.58 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.68 |
+| Earnings/sale* | $4.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | blitzferien |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Fit bleiben auf jeder Reise, ohne Fitnessstudio: 4 Wochen Workouts fürs Hotelzimmer (15–25 Min., ohne Geräte), Übungen für lange Flüge, Jetlag-Plan, Packliste und 28-Tage-Tracker. 21 Seiten PDF, 14,90 €. 30 % Provision. Passt zu Reise-, Fitness- und Vielflieger-Zielgruppen. Werbemittel und fertige Texte: blitzferien.de/partner Bitte Partnerlinks als Werbung kennzeichnen, keine Heilversprechen.
+**Vendor's marketplace description:** <p>Fit bleiben auf jeder Reise, ohne Fitnessstudio: 4 Wochen Workouts fürs Hotelzimmer (15–25 Min., ohne Geräte), Übungen für lange Flüge, Jetlag-Plan, Packliste und 28-Tage-Tracker. 21 Seiten PDF, 14,90 €.</p>
+<p><strong>30 % Provision.</strong> Passt zu Reise-, Fitness- und Vielflieger-Zielgruppen. Werbemittel und fertige Texte: <a href="https://blitzferien.de/partner/">blitzferien.de/partner</a></p>
+<p>Bitte Partnerlinks als Werbung kennzeichnen, keine Heilversprechen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://blitzferien.de/fit-unterwegs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60239/adminstore/
 - Sales page: https://blitzferien.de/fit-unterwegs/
 - Vendor affiliate support: https://blitzferien.de/partner/
 - Canonical redirect: https://www.digistore24.com/redir/737329/adminstore
@@ -77,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fit unterwegs – 4-Wochen-Workoutplan für Reisende? — Typ: E-books, Anbieter: blitzferien, gelistet seit 2026-10-06
-- Wie viel kostet es? — 15.609958 USD
+- Wie viel kostet es? — 15.575133000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

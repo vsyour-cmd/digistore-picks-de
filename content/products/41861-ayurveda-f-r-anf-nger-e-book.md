@@ -4,34 +4,34 @@ digistore24_product_id: 416910
 title: "Ayurveda für Anfänger | E-Book"
 vendor: "tastykaty"
 product_type: "E-books"
-price: 14.61
+price: 14.58
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.38
+earnings_per_sale: 4.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-11-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://tastykaty.de/ayurveda-fuer-anfaenger-e-book/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41861/adminstore/"
 sales_page: "https://tastykaty.de/ayurveda-fuer-anfaenger-e-book/"
 language: "de"
 ---
 # Ayurveda für Anfänger | E-Book
 
 > Product ID `41861` · Digistore24 productId `416910` · [HTML profile page](../../produkte/ayurveda-f-r-anf-nger-e-book-41861.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.61 (Single payment) |
+| Price | $14.58 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.38 |
+| Earnings/sale* | $4.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tastykaty |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ayurveda für Anfänger – vegan, glutenfrei und ohne industriellen Zucker – Die besten Rezepte von Tasty Katy’s Blog, ausgewählt in einem liebevoll aufbereiteten eBook. Inhalt des eBooks: Lerne den Einstieg in den Ayurveda Infos über die Doshas, Verdauung im Ayurveda + Gewürztipps, Achtsam essen, Gewürzkunde und mehr Über 20 leckere Frühstücksrezepte (vegan, glutenfrei & zuckerfrei) Viele ayurvedisc…
+**Vendor's marketplace description:** <p>Ayurveda für Anfänger – <em>vegan, glutenfrei und ohne industriellen Zucker</em> – Die besten Rezepte von Tasty Katy’s Blog, ausgewählt in einem liebevoll aufbereiteten eBook.</p>
+<p> </p>
+<p><strong>Inhalt des eBooks:</strong></p>
+<ul>
+<li>Lerne den Einstieg in den Ayurveda</li>
+<li>Infos über die Doshas, Verdauung im Ayurveda + Gewürztipps, Achtsam essen, Gewürzkunde und mehr</li>
+<li>Über 20 leckere Frühstücksrezepte (vegan, glutenfrei &amp; zuckerfrei)</li>
+<li>Viele ayurvedische Tipps &amp; Tricks für deine Gesundheit</li>
+<li>Neu kreierte Rezepte &amp; die besten ayurvedischen Rezepte vom Blog</li>
+<li>Download als PDF</li>
+<li>Umfang: 70 Seiten</li>
+</ul>
+<p> </p>
+<p><strong>Preis:</strong> 14,95€ inkl. MwSt</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://tastykaty.de/ayurveda-fuer-anfaenger-e-book/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41861/adminstore/
 - Sales page: https://tastykaty.de/ayurveda-fuer-anfaenger-e-book/
 - Canonical redirect: https://www.digistore24.com/redir/416910/adminstore
 
@@ -73,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ayurveda für Anfänger | E-Book? — Typ: E-books, Anbieter: tastykaty, gelistet seit 2021-11-19
-- Wie viel kostet es? — 14.612624 USD
+- Wie viel kostet es? — 14.580024 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

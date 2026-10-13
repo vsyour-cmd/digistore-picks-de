@@ -4,16 +4,16 @@ digistore24_product_id: 705010
 title: "Yoga für Schwangere"
 vendor: "ersanfidan6767c470"
 product_type: "Downloads"
-price: 47.08
+price: 46.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.54
+earnings_per_sale: 23.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Sport"]
 listed_since: "2026-06-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://yoga-erfidn-schwanger.lovable.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://yoga-erfidn-schwanger.lovable.app/"
@@ -22,16 +22,16 @@ language: "de"
 # Yoga für Schwangere
 
 > Product ID `57120` · Digistore24 productId `705010` · [HTML profile page](../../produkte/yoga-f-r-schwangere-57120.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $47.08 (Single payment) |
+| Price | $46.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.54 |
+| Earnings/sale* | $23.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ersanfidan6767c470 |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Warum dieses Produkt für Affiliates interessant ist: Yoga und Schwangerschaft gehören zu den gefragtesten Themen im Gesundheits- und Familienbereich. Die Zielgruppe ist klar definiert und sucht aktiv nach Lösungen für Entspannung, Rückenschmerzen, Stressabbau und eine angenehme Schwangerschaft. Achtsame Yoga-Sequenzen, befreiende Atemtechniken und ruhige Meditationen — entwickelt für jedes Trimest…
+**Vendor's marketplace description:** <p><strong>Warum dieses Produkt für Affiliates interessant ist:</strong></p>
+<p>Yoga und Schwangerschaft gehören zu den gefragtesten Themen im Gesundheits- und Familienbereich. Die Zielgruppe ist klar definiert und sucht aktiv nach Lösungen für Entspannung, Rückenschmerzen, Stressabbau und eine angenehme Schwangerschaft.</p>
+<p> </p>
+<p>Achtsame Yoga-Sequenzen, befreiende Atemtechniken und ruhige Meditationen — entwickelt für jedes Trimester. Übe in deinem Tempo, geborgen zu Hause.</p>
 
 ## 2. Links
 
@@ -85,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Yoga für Schwangere? — Typ: Downloads, Anbieter: ersanfidan6767c470, gelistet seit 2026-06-24
-- Wie viel kostet es? — 47.076406 USD
+- Wie viel kostet es? — 46.971381 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

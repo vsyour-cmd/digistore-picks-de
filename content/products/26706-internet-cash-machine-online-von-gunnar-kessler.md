@@ -4,16 +4,16 @@ digistore24_product_id: 233565
 title: "Internet Cash Machine Online - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Member area and video courses"
-price: 276.26
+price: 275.65
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 129.51
+earnings_per_sale: 129.22
 cart_conversion_pct: 19
 cancel_rate_pct: 22.07
 categories: ["Profession & Job"]
 listed_since: "2018-07-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://byebyeschufterei.de/icmo-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyeschufterei.de/icmo-7500/"
@@ -22,16 +22,16 @@ language: "de"
 # Internet Cash Machine Online - von Gunnar Kessler
 
 > Product ID `26706` · Digistore24 productId `233565` · [HTML profile page](../../produkte/internet-cash-machine-online-von-gunnar-kessler-26706.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $276.26 (Single payment) |
+| Price | $275.65 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $129.51 |
+| Earnings/sale* | $129.22 |
 | Cart conversion* | 19% |
 | Cancel rate* | 22.07% |
 | Vendor | GTK-littlefreilich |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Heute lade ich Dich zu Deinem „Internet Cash Machine Online “ Partnerprogramm ein:Biete Deinen Kunden das hochwertigste DVD-Set zum Thema „Geld verdienen im Internet“ aller Zeiten PLUS ein unglaublich intensives Erfolgs-Mindset-Training, welches alle Blockaden bei Seite räumt und den Weg zu Glück, Erfolg und Reichtum ebnet, als sofort abrufbaren Online Zugang an!Liebe Freunde und Affiliates,Unser …
+**Vendor's marketplace description:** <h4>Heute lade ich Dich zu Deinem „Internet Cash Machine Online “ Partnerprogramm ein:<br /><br />Biete Deinen Kunden das hochwertigste DVD-Set zum Thema „Geld verdienen im Internet“ aller Zeiten PLUS ein unglaublich intensives Erfolgs-Mindset-Training, welches alle Blockaden bei Seite räumt und den Weg zu Glück, Erfolg und Reichtum ebnet, als sofort abrufbaren Online Zugang an!<br /><br />Liebe Freunde und Affiliates,Unser Ziel ist, dass Du schnellstmöglich sehr hohe und vor allem wiederkehrende Provisionen erhältst. <br /><br />Passives Einkommen und wiederkehrende Einnahmen für unsere Partner. Daher bieten wir nicht nur einen extrem hoch konvertierenden VSL mit einem erstklassigen Produkt, um welches sich die Kunden reißen, sondern haben im Upsell auch unglaublich gut konvertierende Membership-Programme in mehreren Ebnen, welche Dir als Partner passive wiederkehrende Einnahmen bescheren.<br /><br />Leichter kannst Du keine Provisionen im Internet verdienen:<br /><br />Auf den begehrten Online Kurs bekommst Du 40% Provision (Brutto gesamt Preis: 197€), auf das erste, zweite und dritte Upsell 50% Lifetime-Provision (Brutto gesamt Preise: 99€ mtl., 197€ p.a. &amp; 497€ einmalig).Somit kannst Du pro Kunde über 495€ Provision bekommen plus der monatlichen und jährlich wiederkehrenden Abo Gebühren!</h4>
+<p><em>plus</em></p>
+<h4><em>Sync Your Mind For Success</em></h4>
+<p><em><strong>Wie Du in nur 30 Minuten Dein Gehirn ein für alle Male auf Erfolg programmierst und nie wieder Angst vor Rückschlägen zu haben brauchst</strong></em></p>
+<p> </p>
+<p><span style="font-size:16pt;color:#ff0000;"><span style="font-size:16pt;color:#ff0000;"><strong>NUR 197 €* <img src="https://digitalmoneymaker.de/wp-content/uploads/2018/02/Prozent_roter-Hintergrund.png" alt="" width="29" height="29" /> </strong></span></span><span style="color:#b0b0b0;"><strong>statt <s>497 €*</s> (39,64% gespart)</strong></span></p>
 
 ## 2. Links
 
@@ -84,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Internet Cash Machine Online - von Gunnar Kessler? — Typ: Member area and video courses, Anbieter: GTK-littlefreilich, gelistet seit 2018-07-17
-- Wie viel kostet es? — 276.261518 USD
+- Wie viel kostet es? — 275.645193 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

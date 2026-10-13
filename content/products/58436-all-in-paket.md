@@ -4,16 +4,16 @@ digistore24_product_id: 722598
 title: "All in Paket"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 240.77
+price: 240.23
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 72.23
+earnings_per_sale: 72.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/e-books/?aff=adminstore#aff=adminstore"
 sales_page: "https://beziehungscoach-online.de/e-books/"
@@ -22,16 +22,16 @@ language: "de"
 # All in Paket
 
 > Product ID `58436` · Digistore24 productId `722598` · [HTML profile page](../../produkte/all-in-paket-58436.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $240.77 (Single payment) |
+| Price | $240.23 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $72.23 |
+| Earnings/sale* | $72.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das „All-in-Paket“ enthält alle elf E-Books rund um Gefühle, Bedürfnisse, persönliche Grenzen, Konflikte und Bindungsmuster. Es richtet sich an Menschen, die wiederkehrende Schwierigkeiten in Beziehungen besser verstehen und gezielt an ihren eigenen Mustern arbeiten möchten. 1. „Warum deine Gefühle nicht das Problem sind“Verstehe, wie Gefühle entstehen, welche Funktion sie haben und wie du besser …
+**Vendor's marketplace description:** <p>Das „All-in-Paket“ enthält alle elf E-Books rund um Gefühle, Bedürfnisse, persönliche Grenzen, Konflikte und Bindungsmuster. Es richtet sich an Menschen, die wiederkehrende Schwierigkeiten in Beziehungen besser verstehen und gezielt an ihren eigenen Mustern arbeiten möchten.</p>
+<p><strong>1. „Warum deine Gefühle nicht das Problem sind“</strong><br />Verstehe, wie Gefühle entstehen, welche Funktion sie haben und wie du besser mit ihnen umgehen kannst.</p>
+<p><strong>2. „Was ich wirklich brauche“</strong><br />Lerne deine eigenen Bedürfnisse besser kennen, sie klarer wahrzunehmen und in Beziehungen auszudrücken.</p>
+<p><strong>3. „Hilfe! Warum kann ich nicht Nein sagen?“</strong><br />Verstehe, warum dir Abgrenzung so schwerfallen kann und wie frühe Erfahrungen und Bindungsmuster deinen Umgang mit Grenzen bis heute beeinflussen.</p>
+<p><strong>4. „Grenzen setzen &amp; Nein sagen lernen“</strong><br />Lerne, deine Grenzen klar und beziehungsfreundlich auszudrücken und auch bei schwierigen Reaktionen des Gegenübers bei ihnen zu bleiben.</p>
+<p><strong>5. „Schluss mit Anpassung &amp; Selbstverlust“</strong><br />Erkenne zu weiche Grenzen und Muster wie People Pleasing, Überverantwortung oder die Angst vor Ablehnung und Verlust.</p>
+<p><strong>6. „Schluss mit Rückzug, Mauern &amp; Vorwürfen“</strong><br />Verstehe zu harte Grenzen und erfahre, was hinter Rückzug, Schweigen, Härte, Abwehr oder plötzlicher Distanz stecken kann.</p>
+<p><strong>7. „Übergriffigkeit erkennen &amp; sicher reagieren“</strong><br />Erkenne offene und subtile Formen von Übergriffigkeit bei dir selbst und anderen und lerne, sicherer damit umzugehen.</p>
+<p><strong>8. „Vom Konflikt zu mehr Verbindung“</strong><br />Verstehe, wie Konflikte entstehen und wie schwierige Gespräche konstruktiver geführt, festgefahrene Dynamiken verändert und Verletzungen aufgearbeitet werden können.</p>
+<p><strong>9. „Was einen Vermeider zu dem Menschen gemacht hat, der er heute ist“</strong><br />Verstehe, wie ein abweisend-vermeidendes Bindungsmuster entsteht und wie frühe Beziehungserfahrungen seine spätere innere Beziehungslogik prägen.</p>
+<p><strong>10. „Was ein Vermeider in Beziehungen wirklich fühlt“</strong><br />Erhalte einen Einblick in das innere Erleben eines Menschen mit abweisend-vermeidendem Bindungsmuster und verstehe besser, was hinter Nähe, Distanz und Rückzug passiert.</p>
+<p><strong>11. „Nach der Stille“</strong><br />Verstehe die Dynamik nach einer Trennung von einem vermeidenden Partner und erfahre, was bei Kontakt und einer möglichen Wiederannäherung eine Rolle spielt.</p>
+<p>Das All-in-Paket eignet sich zur Bewerbung bei einer Zielgruppe, die sich intensiv mit Beziehungspsychologie, persönlichen Grenzen und Bindungsmustern beschäftigt und dafür eine umfassende Sammlung an psychologisch fundierten E-Books sucht.</p>
 
 ## 2. Links
 
@@ -94,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist All in Paket? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 240.772116 USD
+- Wie viel kostet es? — 240.23496600000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

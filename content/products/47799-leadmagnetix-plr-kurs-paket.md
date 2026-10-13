@@ -4,34 +4,34 @@ digistore24_product_id: 547240
 title: "LeadMagnetix - PLR Kurs Paket"
 vendor: "elitecoach"
 product_type: "Member area and video courses"
-price: 108.7
+price: 108.46
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 43.48
+earnings_per_sale: 43.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-04-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://socialcashcode.de/upgrade/booster?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47799/adminstore/"
 sales_page: "https://socialcashcode.de/upgrade/booster"
 language: "de"
 ---
 # LeadMagnetix - PLR Kurs Paket
 
 > Product ID `47799` · Digistore24 productId `547240` · [HTML profile page](../../produkte/leadmagnetix-plr-kurs-paket-47799.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $108.70 (Single payment) |
+| Price | $108.46 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $43.48 |
+| Earnings/sale* | $43.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | elitecoach |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle das neue exklusive Produkt: Lead Magnetix PLR KURS Paket Deine Vorteile: Du verdienst 50 % Provision bei allen Up- und Downsells! Die Verkaufs- und Upsellseiten werden kontinuierlich auf Conversion optimiert. Ideales Produkt für "jeden", der mit seinem Online Business / E-Mail Marketing starten möchte oder optimieren will!
+**Vendor's marketplace description:** <h1>Empfehle das neue exklusive Produkt:</h1>
+<h2><span style="color:#0000ff;"><strong>Lead Magnetix PLR KURS Paket</strong></span></h2>
+<p><a><strong>Deine Vorteile:</strong></a></p>
+<ul>
+<li>Du verdienst <strong>50 % Provision</strong> bei allen Up- und Downsells!</li>
+<li>Die Verkaufs- und Upsellseiten werden <strong>kontinuierlich auf Conversion</strong> optimiert.</li>
+<li>Ideales Produkt für <strong>"jeden"</strong>, der mit seinem Online Business / E-Mail Marketing starten möchte oder optimieren will!</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://socialcashcode.de/upgrade/booster?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47799/adminstore/
 - Sales page: https://socialcashcode.de/upgrade/booster
 - Canonical redirect: https://www.digistore24.com/redir/547240/adminstore
 
@@ -82,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LeadMagnetix - PLR Kurs Paket? — Typ: Member area and video courses, Anbieter: elitecoach, gelistet seit 2024-04-08
-- Wie viel kostet es? — 108.6982 USD
+- Wie viel kostet es? — 108.45570000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

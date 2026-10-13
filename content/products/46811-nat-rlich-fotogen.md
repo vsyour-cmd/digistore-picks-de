@@ -4,34 +4,34 @@ digistore24_product_id: 534351
 title: "NATÜRLICH FOTOGEN!"
 vendor: "IWEFST"
 product_type: "Member area and video courses"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.97
+earnings_per_sale: 27.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Personal Development","Photography & Film"]
 listed_since: "2024-01-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.isabellawirth.de/natuerlichfotogen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46811/adminstore/"
 sales_page: "https://www.isabellawirth.de/natuerlichfotogen/"
 language: "de"
 ---
 # NATÜRLICH FOTOGEN!
 
 > Product ID `46811` · Digistore24 productId `534351` · [HTML profile page](../../produkte/nat-rlich-fotogen-46811.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.97 |
+| Earnings/sale* | $27.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IWEFST |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du mit viel Spaß vor jeder Kamera stehst und fotogen auf Fotos bist. Bei jeder Fotosession geht es am Ende nicht nur um schöne Fotos, sondern auch wie du dich dabei gefühlt hast.Denn wenn du später auf die Fotos schaust, wirst du dich auch an das Gefühl, in dem Moment des Auslösens erinnern! Dieser Onlinekurs enthält nicht nur ein paar statische Posentipps, da könntest du ja ein Magazin aufsch…
+**Vendor's marketplace description:** <p><strong>Wie du mit viel Spaß vor jeder Kamera stehst und fotogen auf Fotos bist.</strong></p>
+<p> </p>
+<p>Bei jeder Fotosession geht es am Ende nicht nur um schöne Fotos, sondern auch wie du dich dabei gefühlt hast.<br />Denn wenn du später auf die Fotos schaust, wirst du dich auch an das Gefühl, in dem Moment des Auslösens erinnern!<br /> </p>
+<p>Dieser Onlinekurs enthält nicht nur ein paar statische Posentipps, da könntest du ja ein Magazin aufschlagen und die Models kopieren.</p>
+<p><strong>NATÜRLICH FOTOGEN! ist ein einmaliges Schritt für Schritt Programm mit 30 spannenden Videos.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.isabellawirth.de/natuerlichfotogen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46811/adminstore/
 - Sales page: https://www.isabellawirth.de/natuerlichfotogen/
 - Canonical redirect: https://www.digistore24.com/redir/534351/adminstore
 
@@ -95,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NATÜRLICH FOTOGEN!? — Typ: Member area and video courses, Anbieter: IWEFST, gelistet seit 2024-01-15
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

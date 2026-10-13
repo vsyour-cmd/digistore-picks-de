@@ -4,16 +4,16 @@ digistore24_product_id: 64997
 title: "Thai-Crashkurs - ab dem ersten Tag anwenden"
 vendor: "findsbesserraus"
 product_type: "Downloads"
-price: 20.06
+price: 20.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.64
+earnings_per_sale: 8.62
 cart_conversion_pct: 1
 cancel_rate_pct: 1.97
 categories: ["Travel & Culture"]
 listed_since: "2015-12-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.thailaendisch-fuer-reisende.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.thailaendisch-fuer-reisende.de"
@@ -22,16 +22,16 @@ language: "de"
 # Thai-Crashkurs - ab dem ersten Tag anwenden
 
 > Product ID `9655` · Digistore24 productId `64997` · [HTML profile page](../../produkte/thai-crashkurs-ab-dem-ersten-tag-anwenden-9655.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.06 (Single payment) |
+| Price | $20.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.64 |
+| Earnings/sale* | $8.62 |
 | Cart conversion* | 1% |
 | Cancel rate* | 1.97% |
 | Vendor | findsbesserraus |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Thailändisch ohne Vorkenntnisse im Urlaub anwenden Nach dem Anschauen der Videos z.B. auf dem Flug können sich Käufer von Anfang an mit Thais verständigen. Der Videokurs beinhaltet 11 Videos, clevere Spickzettel und Audiodateien. Der Kurs für Reisende, die leicht in Kontatk kommen wollen mit Einheimischen und dabei sich aber auch einen einfachen, schnellen Einstieg wünschen ohne auswendiglernen zu…
+**Vendor's marketplace description:** <h1><span style="color:#0000ff;">Thailändisch ohne Vorkenntnisse im Urlaub anwenden</span></h1>
+<h2>Nach dem Anschauen der Videos z.B. auf dem Flug können sich Käufer von Anfang an mit Thais verständigen. </h2>
+<p>Der Videokurs beinhaltet 11 Videos, clevere Spickzettel und Audiodateien.</p>
+<p>Der Kurs für Reisende, die leicht in Kontatk kommen wollen mit Einheimischen und dabei sich aber auch einen einfachen, schnellen Einstieg wünschen ohne auswendiglernen zu müssen. </p>
+<p><strong>Jetzt ansehen auf </strong><br /><a href="https://thailaendisch-fuer-reisende.de"><strong>www.thailaendisch-fuer-reisende.de </strong></a></p>
+<p>Und hier noch der Extra-Tipp für dich, wenn du mit Thai-Kursen <strong>fortlaufend</strong> verdienen möchtest:  <strong><a href="https://www.thailernen.net/partnerprogramm/?go=15" target="_blank" rel="noreferrer noopener"><em>Partnerprogramm</em></a></strong>  </p>
+<p>Brauchst du Werbemittel? Schau dir unsere Partnerseite an oder frage bei mir nach.</p>
+<p>Gerne veröffentliche ich auch deinen Gastartikel mit wertvollem Backlink auf einer meiner Webseiten.</p>
+<p>Auf unseren gemeinsamen Erfolg!<br /><em>Stefan vom Sprachcrashkurs-Team</em></p>
+<h5>Jetzt reinschauen und auch weitere Sprachen bewerben:</h5>
+<h5><a>http://www.chinesisch-fuer-reisende.de</a><a> <br /></a><a>http://www.vietnamesisch-fuer-reisende.de<br /></a><a>http://www.brasilianisch-fuer-reisende.de<br /></a><a>http://www.spanisch-fuer-reisende.de</a></h5>
 
 ## 2. Links
 
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Thai-Crashkurs - ab dem ersten Tag anwenden? — Typ: Downloads, Anbieter: findsbesserraus, gelistet seit 2015-12-06
-- Wie viel kostet es? — 20.05874 USD
+- Wie viel kostet es? — 20.01399 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

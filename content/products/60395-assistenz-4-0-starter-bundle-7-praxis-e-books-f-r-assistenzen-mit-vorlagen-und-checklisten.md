@@ -4,34 +4,34 @@ digistore24_product_id: 692488
 title: "Assistenz 4.0 Starter-Bundle: 7 Praxis-E-Books für Assistenzen mit Vorlagen und Checklisten"
 vendor: "rotmary"
 product_type: "E-books"
-price: 153.95
+price: 153.6
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 30.79
+earnings_per_sale: 30.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.officetrainings.de/e-books-fuer-assistenzen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60395/adminstore/"
 sales_page: "https://www.officetrainings.de/e-books-fuer-assistenzen/"
 language: "de"
 ---
 # Assistenz 4.0 Starter-Bundle: 7 Praxis-E-Books für Assistenzen mit Vorlagen und Checklisten
 
 > Product ID `60395` · Digistore24 productId `692488` · [HTML profile page](../../produkte/assistenz-4-0-starter-bundle-7-praxis-e-books-f-r-assistenzen-mit-vorlagen-und-checklisten-60395.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $153.95 (Single payment) |
+| Price | $153.60 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $30.79 |
+| Earnings/sale* | $30.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rotmary |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Paket für Assistenzen, Chefassistenzen und Office-Managerinnen, die ihren Arbeitsalltag in mehreren Bereichen gleichzeitig ordnen wollen: sieben E-Books von Maria Möbs (Officetrainings, seit 2006) zu Chefentlastung, Outlook, Priorisierung, Workflow mit Microsoft 365, Meetingsteuerung, Chefkommunikation und Delegation, dazu je ein Vorlagen-Pack und eine Checkliste. Preis: 147 € inkl. 7 % MwSt. …
+**Vendor's marketplace description:** <p>Das Paket für Assistenzen, Chefassistenzen und Office-Managerinnen, die ihren Arbeitsalltag in mehreren Bereichen gleichzeitig ordnen wollen: sieben E-Books von Maria Möbs (Officetrainings, seit 2006) zu Chefentlastung, Outlook, Priorisierung, Workflow mit Microsoft 365, Meetingsteuerung, Chefkommunikation und Delegation, dazu je ein Vorlagen-Pack und eine Checkliste.</p>
+<p>Preis: 147 € inkl. 7 % MwSt. · Provision: 20 % laut Digistore-Abrechnung<br />Ohne E-Books: Praxis-Bundle mit den 7 Vorlagen-Packs und 7 Checklisten für 49 € inkl. 7 % MwSt. (Provision 20 %).<br />Verkaufsseite: officetrainings.de/e-books-fuer-assistenzen/</p>
+<p>Hinweise für Partner: Bitte bewerben Sie die Produkte nur mit sachlichen Aussagen zum Inhalt. Keine Einkommens- oder Erfolgsversprechen, keine Werbung per unerwünschter E-Mail, keine Suchmaschinenanzeigen auf „Officetrainings“ oder „Maria Möbs“. Affiliate-Links und Empfehlungen sind als Werbung zu kennzeichnen. Namen, Logos und Bilder von Officetrainings und Maria Möbs nur mit den bereitgestellten Werbemitteln verwenden. Partneranfragen werden einzeln geprüft; passend sind Angebote mit Bezug zu Assistenz, Sekretariat oder Büroorganisation.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.officetrainings.de/e-books-fuer-assistenzen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60395/adminstore/
 - Sales page: https://www.officetrainings.de/e-books-fuer-assistenzen/
 - Canonical redirect: https://www.digistore24.com/redir/692488/adminstore
 
@@ -74,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Assistenz 4.0 Starter-Bundle: 7 Praxis-E-Books für Assistenzen mit Vorlagen und Checklisten? — Typ: E-books, Anbieter: rotmary, gelistet seit 2026-10-07
-- Wie viel kostet es? — 153.948028 USD
+- Wie viel kostet es? — 153.604578 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 444619
 title: "Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)"
 vendor: "wielandstolzenburg"
 product_type: "Online coaching"
-price: 169.5
+price: 169.12
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 50.85
+earnings_per_sale: 50.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2022-05-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://kurse.wielandstolzenburg.de/lp/loveletter-fuer-paare?aff=adminstore#aff=adminstore"
 sales_page: "https://kurse.wielandstolzenburg.de/lp/loveletter-fuer-paare"
@@ -22,16 +22,16 @@ language: "de"
 # Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)
 
 > Product ID `41232` · Digistore24 productId `444619` · [HTML profile page](../../produkte/loveletter-der-e-mail-kurs-f-r-paare-liebe-beziehung-41232.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $169.50 (Single payment, Installment) |
+| Price | $169.12 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $50.85 |
+| Earnings/sale* | $50.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wielandstolzenburg |
@@ -41,7 +41,41 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Loveletter. Der E-Mail-Kurs für Paare für mehr Liebe und Freude in der Partnerschaft Dauer: 3 oder 12 Monate Wöchentliche E-Mails mit Aufgaben, Übungen, Tipps und Tricks eines Paartherapeuten Leicht in den Alltag integrierbar Verschiedenen Schwerpunkte wählbar Kommunikation & Konfliktlösung Verbundenheit & Vertrauen Sexualität & Intimität Leichtigkeit & Lebendigkeit Große Zielgruppe: Jedes Paar wü…
+**Vendor's marketplace description:** <h4><strong>Loveletter. Der E-Mail-Kurs für Paare für mehr Liebe und Freude in der Partnerschaft</strong></h4>
+<p> </p>
+<ul>
+<li>Dauer:<strong> 3 oder 12 Monate</strong></li>
+<li><strong>Wöchentliche E-Mails</strong> mit Aufgaben, Übungen, Tipps und Tricks eines Paartherapeuten</li>
+<li><strong>Leicht in den Alltag integrierbar</strong></li>
+<li><strong>Verschiedenen Schwerpunkte</strong> wählbar
+<ul>
+<li>Kommunikation &amp; Konfliktlösung</li>
+<li>Verbundenheit &amp; Vertrauen</li>
+<li>Sexualität &amp; Intimität</li>
+<li>Leichtigkeit &amp; Lebendigkeit</li>
+</ul>
+</li>
+<li><strong>Große Zielgruppe</strong>: Jedes Paar wünscht sich mehr Liebe, Verbundenheit, Zufriedenheit und eine glückliche Partnerschaft und Beziehung</li>
+<li>Paare können es selbst kaufen, <strong>oder als Geschenk</strong> für Paare</li>
+</ul>
+<p> </p>
+<p> </p>
+<p><strong>Empfehle meinen E-Mail-Kurs für Paare und nutze diese</strong><strong> Vorteile:<br /></strong></p>
+<p> </p>
+<ul>
+<li><strong>Hohe Provision</strong>: Erhalte 30 % Provision</li>
+<li><strong>Hohe Bekanntheit</strong>: Der E-Mail-Kurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) </li>
+<li><strong>Laufende Optimierung</strong> der Verkaufs-Funnel + geringe Stornoquote</li>
+</ul>
+<p> </p>
+<p> </p>
+<p>Melde dich jetzt als Affiliate an. Ich freue mich auf eine gewinnbringende Zusammenarbeit!</p>
+<p> </p>
+<p><a href="https://www.wielandstolzenburg.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"> &gt; ALLE INFOS ZUM PARTNERPROGRAMM </a></p>
+<p> </p>
+<p>Beste Grüße,<br />Wieland Stolzenburg</p>
+<p> </p>
+<p>PS: Brand-Bidding auf "Loveletter", "Wieland Stolzenburg" und Varianten nicht erlaubt!</p>
 
 ## 2. Links
 
@@ -100,7 +134,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Loveletter: Der E-Mail-Kurs für Paare (Liebe + Beziehung)? — Typ: Online coaching, Anbieter: wielandstolzenburg, gelistet seit 2022-05-29
-- Wie viel kostet es? — 169.501956 USD
+- Wie viel kostet es? — 169.123806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

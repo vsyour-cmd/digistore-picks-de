@@ -4,16 +4,16 @@ digistore24_product_id: 474857
 title: "Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen"
 vendor: "LUMEUS"
 product_type: "Member area and video courses"
-price: 20.65
+price: 20.61
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 6.12
+earnings_per_sale: 6.1
 cart_conversion_pct: 11
 cancel_rate_pct: 2.73
 categories: ["Health & Fitness"]
 listed_since: "2022-12-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/474857/?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/474857/"
@@ -22,16 +22,16 @@ language: "de"
 # Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen
 
 > Product ID `45826` · Digistore24 productId `474857` · [HTML profile page](../../produkte/gesunde-stressbew-ltigung-achtsamkeit-positive-emotionen-45826.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $20.65 (Single payment) |
+| Price | $20.61 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $6.12 |
+| Earnings/sale* | $6.10 |
 | Cart conversion* | 11% |
 | Cancel rate* | 2.73% |
 | Vendor | LUMEUS |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Baue mit unserem zertifizierten Krankenkassen-Kurs "Gesunde Stressbewältigung durch Achtsamkeit und positive Emotionen" effektiv Stress ab, sei glücklich, ausgeglichen und gesund! Deine Vorteile Besser fühlen, besser schlafen und entspannter und streibefreiter sein Bis zu 100% Rückerstattung der Kosten durch deine Krankenkasse! Zugang zur LUMEUS-App für 6 Monate inklusive Vielfältige Inhalte mit e…
+**Vendor's marketplace description:** <h3>Baue mit unserem zertifizierten Krankenkassen-Kurs "Gesunde Stressbewältigung durch Achtsamkeit und positive Emotionen" effektiv Stress ab, sei glücklich, ausgeglichen und gesund!</h3>
+<h3>Deine Vorteile</h3>
+<ul>
+<li>Besser fühlen, besser schlafen und entspannter und streibefreiter sein</li>
+<li>Bis zu <strong>100% Rückerstattung</strong> der Kosten durch deine Krankenkasse!</li>
+<li>Zugang zur LUMEUS-App für 6 Monate inklusive</li>
+<li>Vielfältige Inhalte mit effektiven Methoden der gesunden Stressbewältigung</li>
+<li>Basierend auf MBSR (Mindfulness-based stress reduction) und positiver Psychologie</li>
+<li>Wissenschaftlich erprobte und bestätigte Methode</li>
+<li>Mehr als 300.000 Erfolgsgeschichten</li>
+</ul>
+<p>Jetzt teilnehmen und kostenlos Stress abbauen: <a href="https://lumeus-app.de/krankenkasse/">https://lumeus-app.de/krankenkasse/</a></p>
+<p> </p>
 
 ## 2. Links
 
@@ -74,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gesunde Stressbewältigung, Achtsamkeit + positive Emotionen? — Typ: Member area and video courses, Anbieter: LUMEUS, gelistet seit 2022-12-14
-- Wie viel kostet es? — 20.652658 USD
+- Wie viel kostet es? — 20.606583 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 571616
 title: "Kaminfeuer-App für Windows und Android"
 vendor: "JMMGComm"
 product_type: "Software"
-price: 14.12
+price: 14.09
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.41
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2024-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/571616?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54891/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/571616"
 language: "de"
 ---
 # Kaminfeuer-App für Windows und Android
 
 > Product ID `54891` · Digistore24 productId `571616` · [HTML profile page](../../produkte/kaminfeuer-app-f-r-windows-und-android-54891.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $14.12 (Single payment) |
+| Price | $14.09 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.41 |
 | Cart conversion* | — |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werfen Sie Ihren Kamin an und bestimmen Sie, wie das Wetter werden soll: Lassen Sie es regnen, gewittern oder sogar schneien. Alle Sequenzen wurden in ultrahoher Auflösung aufgezeichnet und können in der Windows-Variante in voller 4K-Auflösung angezeigt werden*. Wechseln Sie zwischen verschiedenen Umgebungen, wie einem Haus in den Bergen oder einer modernen Wohnung mit einem Kaminfeuer – oder eine…
+**Vendor's marketplace description:** <p>Werfen Sie Ihren Kamin an und bestimmen Sie, wie das Wetter werden soll: Lassen Sie es regnen, gewittern oder sogar schneien. Alle Sequenzen wurden in ultrahoher Auflösung aufgezeichnet und können in der Windows-Variante in voller 4K-Auflösung angezeigt werden*.</p>
+<p>Wechseln Sie zwischen verschiedenen Umgebungen, wie einem Haus in den Bergen oder einer modernen Wohnung mit einem Kaminfeuer – oder einem Strand, wo von Ihrem Lagerfeuer noch die Glut zu sehen ist. Sehen Sie die Sterne funkeln und hören Sie das Meer Rauschen.</p>
+<p><br />* In der Android-Variante haben die Sequenzen technisch bedingt eine maximale Auflösung von 800 Zeilen.<br /><br /></p>
+<p>Weitere Informationen finden Sie auf der Produktseite:<br /><a href="https://www.jmmgc.com/kaminfeuer/">https://www.jmmgc.com/kaminfeuer/</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/571616?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54891/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/571616
 - Canonical redirect: https://www.digistore24.com/redir/571616/adminstore
 
@@ -75,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kaminfeuer-App für Windows und Android? — Typ: Software, Anbieter: JMMGComm, gelistet seit 2024-09-21
-- Wie viel kostet es? — 14.11956 USD
+- Wie viel kostet es? — 14.08806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

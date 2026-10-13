@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2020-07-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://josefbrameshuber.com/3klick-webinarcheckliste-lp2/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/33587/adminstore/"
 sales_page: "https://josefbrameshuber.com/3klick-webinarcheckliste-lp2/"
 language: "de"
 ---
 # Webinar Checkliste
 
 > Product ID `33587` · Digistore24 productId `338420` · [HTML profile page](../../produkte/webinar-checkliste-33587.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Fette Provisionen für das Verschenken meiner "Webinar-Checkliste" Beim Verkauf des Addons bekommst du jetzt pro Sale 50 Prozent des Verkaufspreises (ca.10 Euro für das verschenken).Die Webinar-Checkliste enthält 14 wertvolle Tipps zum Aufbau eines automatisierten Webinar.Das Addon ist die Webinar Affiliate Strategie zum Sonderpreis von 27 Euro anstatt den Normalpreis von 97 Euro.In der Webinar Aff…
+**Vendor's marketplace description:** <div><strong>Fette Provisionen für das Verschenken meiner "Webinar-Checkliste"<br /><br /></strong></div>
+<div>Beim Verkauf des Addons bekommst du jetzt pro Sale <strong>50 Prozent</strong> des Verkaufspreises (ca.10 Euro für das verschenken).<br /><br />Die Webinar-Checkliste enthält 14 wertvolle Tipps zum Aufbau eines automatisierten Webinar.<br /><br />Das Addon ist die <strong>Webinar Affiliate Strategie</strong> zum Sonderpreis von 27 Euro anstatt den Normalpreis von 97 Euro.<br /><br />In der Webinar Affiliate Strategie wir gezeigt:</div>
+<div>
+<ul><li>Wie du mit der Webinar Affiliate Marketing Strategie täglich Neukunden und Leads gewinnst</li>
+<li>
+<div>Wie du ohne eigene Webseite, die 3 Klick Affiliate Webinar Strategie umsetzt</div>
+</li>
+<li>
+<div>Wie du ohne eigenes Webinare, die 3 Klick Affiliate Webinar Strategie einsetzt</div>
+</li>
+<li>
+<div>Eine Schritt für Schritt Anleitung, die du so oft du möchtest kopierst und immer wieder einsetzt</div>
+</li>
+<li>
+<div>Warum E-Mailmarketing  deinen Umsatz um bis zu 40 % steigert</div>
+</li>
+<li>
+<div>Wie du einen zu Verfügung gestellten E-Mailmarketing Funnel in deinen Autoresponder einbindest</div>
+</li>
+</ul><p>Bei Fragen kontaktiere mich gerne über E-Mail:<br />kontakt@josefbrameshuber.com</p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://josefbrameshuber.com/3klick-webinarcheckliste-lp2/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/33587/adminstore/
 - Sales page: https://josefbrameshuber.com/3klick-webinarcheckliste-lp2/
 - Canonical redirect: https://www.digistore24.com/redir/338420/adminstore
 

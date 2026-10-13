@@ -4,7 +4,7 @@ digistore24_product_id: 658172
 title: "Mallorca Bucket List (Deutsch)"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 13.18
+price: 13.15
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.32
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658172?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658172"
@@ -22,14 +22,14 @@ language: "de"
 # Mallorca Bucket List (Deutsch)
 
 > Product ID `55830` · Digistore24 productId `658172` · [HTML profile page](../../produkte/mallorca-bucket-list-deutsch-55830.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $13.18 (Single payment) |
+| Price | $13.15 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.32 |
 | Cart conversion* | — |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Mallorca Bucket List (Deutsch) ist eine kuratierte Sammlung der schönsten Orte, Sehenswürdigkeiten und besonderen Highlights der Destination, übersichtlich zusammengestellt, um Inspiration für eine Reise zu geben und bei der Planung zu helfen. Statt lange nach den besten Orten zu recherchieren, bietet diese Bucket List eine kompakte Übersicht über bekannte Highlights und besondere Orte, die ei…
+**Vendor's marketplace description:** <p>Die Mallorca Bucket List (Deutsch) ist eine kuratierte Sammlung der schönsten Orte, Sehenswürdigkeiten und besonderen Highlights der Destination, übersichtlich zusammengestellt, um Inspiration für eine Reise zu geben und bei der Planung zu helfen. Statt lange nach den besten Orten zu recherchieren, bietet diese Bucket List eine kompakte Übersicht über bekannte Highlights und besondere Orte, die eine Reise unvergesslich machen können. Alle Orte sind übersichtlich gesammelt und lassen sich einfach entdecken oder in die eigene Reiseplanung integrieren. Zusätzlich enthält die Bucket List eine direkt nutzbare Google Maps Karte, mit der alle Orte schnell gefunden und während der Reise unkompliziert angesteuert werden können. So entsteht eine inspirierende Übersicht der schönsten Orte der Destination, die sowohl zur Reiseplanung als auch während der Reise genutzt werden kann.</p>
+<p>• Sammlung der schönsten Orte und Sehenswürdigkeiten der Destination</p>
+<p>• Mischung aus bekannten Highlights und besonderen Orten</p>
+<p>• Übersichtliche Struktur für schnelle Inspiration</p>
+<p>• Perfekt zur Reiseplanung oder als Ergänzung zu bestehenden Plänen</p>
+<p>• Direkt klickbare Orte über eine integrierte Google Maps Karte</p>
+<p>• Alle Orte übersichtlich gesammelt und leicht auffindbar</p>
+<p>Produktformat: Digitale Bucket List + Google Maps Karte (Download)</p>
 
 ## 2. Links
 
@@ -71,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mallorca Bucket List (Deutsch)? — Typ: Downloads, Anbieter: sarahvisita, gelistet seit 2025-12-30
-- Wie viel kostet es? — 13.178256000000001 USD
+- Wie viel kostet es? — 13.148856 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

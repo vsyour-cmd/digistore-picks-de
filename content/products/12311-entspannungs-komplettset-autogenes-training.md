@@ -4,34 +4,34 @@ digistore24_product_id: 88413
 title: "Entspannungs- Komplettset - Autogenes Training"
 vendor: "AutogenesTraining"
 product_type: "Downloads"
-price: 28.16
+price: 28.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2016-07-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://www.autogenes-training-coach.de/entspannungs-komplettpaket/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12311/adminstore/"
 sales_page: "http://www.autogenes-training-coach.de/entspannungs-komplettpaket/"
 language: "de"
 ---
 # Entspannungs- Komplettset - Autogenes Training
 
 > Product ID `12311` · Digistore24 productId `88413` · [HTML profile page](../../produkte/entspannungs-komplettset-autogenes-training-12311.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.16 (Single payment) |
+| Price | $28.10 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AutogenesTraining |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Set, bestehend aus: Buch, Hörbuch und Übungsprotokoll, ist an all diejenigen gerichtet, die zielstrebig Hilfe zur Selbsthilfe suchen und eine wirksame Methode zur Entspannung konsequent anwenden möchten. Es beantwortet spezifische Fragen, wo, wann und wie lange das Autogene Training seine Anwendung findet, und zeigt in vielfältiger und interessanter Weise auf, dass es gar nicht so schwer is…
+**Vendor's marketplace description:** <p>Dieses Set, bestehend aus: <strong>Buch, Hörbuch und Übungsprotokoll,</strong> ist an all diejenigen gerichtet, die zielstrebig Hilfe zur Selbsthilfe suchen und eine wirksame Methode zur Entspannung konsequent anwenden möchten.</p>
+<p> </p>
+<p>Es beantwortet spezifische Fragen, wo, wann und wie lange das Autogene Training seine Anwendung findet, und zeigt in vielfältiger und interessanter Weise auf, dass es gar nicht so schwer ist, sein Wohlbefinden <strong>ohne großen Zeit- und Kraftaufwand</strong> systematisch aufzubauen und zu erhalten. Autogenes Training ist ein erfolgreicher Weg zur Gesunderhaltung des Körpers, wobei das Ergebnis absehbar und spürbar wahrnehmbar ist.</p>
+<p><strong>Regenerieren Sie in kurzer Zeit Körper, Geist und Seele durch eine tiefe Entspannung und wunderbare Erholung.</strong></p>
+<p><br />Ein kleiner Auszug aus dem Vollpaket:</p>
+<ul><li>Mein Vollpaket zeigt Ihnen wie Sie Mithilfe des Autogenen Trainings Ihre Ziele erreichen ( z.B. überwinden Sie Ihre Rede- und Flugangst,schlafen Sie entspannter ein, überwinden Sie Ihren Alltagsstress und meistern Sie Ihre Aufgaben )</li>
+<li>Sie erhalten eine Übersicht aus ausgewählten Formeln um speziell Ihre Bedürfnisse zu behandeln<br />Die 3 in der Praxis erprobten Klassifizierungen des Autogenen Trainings</li>
+<li>Die Königsdisziplin des Autogenen Trainings, die analytische Oberstufe</li>
+<li>Wir zeigen Ihnen wie Sie Warnsignale des Körpers erkennen</li>
+<li>Ein Hörbuch : Ruhe, Entspannen, Loslassen. Mit Übungen zum leichten erlernen der Grundstufe. Auf jedem MP3-Player und Smartphone abspielbar – Also ideal auch für unterwegs.</li>
+<li>Das Übungsprotokoll, zum Notieren Ihrer persönlichen Erfahrungen und Erlebnisse.</li>
+<li>Mit diesem Buch sind Sie den Anforderungen des Alltags bestens gewappnet um sich fit und ausgeglichen zu fühlen.</li>
+<li><strong>Jetzt Neu:</strong> mit Bonus-Teil “Raucherentwöhnung Mithilfe des Autogenen Trainings”</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.autogenes-training-coach.de/entspannungs-komplettpaket/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12311/adminstore/
 - Sales page: http://www.autogenes-training-coach.de/entspannungs-komplettpaket/
 - Canonical redirect: https://www.digistore24.com/redir/88413/adminstore
 
@@ -85,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Entspannungs- Komplettset - Autogenes Training? — Typ: Downloads, Anbieter: AutogenesTraining, gelistet seit 2016-07-19
-- Wie viel kostet es? — 28.160678 USD
+- Wie viel kostet es? — 28.097853 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

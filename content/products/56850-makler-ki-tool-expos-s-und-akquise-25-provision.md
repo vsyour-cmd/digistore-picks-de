@@ -4,16 +4,16 @@ digistore24_product_id: 696893
 title: "Makler KI-Tool – Exposés und Akquise | 25% Provision"
 vendor: "jan86e2"
 product_type: "Downloads"
-price: 279.68
+price: 279.06
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 69.93
+earnings_per_sale: 69.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-06-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://zyntevo.de?aff=adminstore#aff=adminstore"
 sales_page: "https://zyntevo.de"
@@ -22,16 +22,16 @@ language: "de"
 # Makler KI-Tool – Exposés und Akquise | 25% Provision
 
 > Product ID `56850` · Digistore24 productId `696893` · [HTML profile page](../../produkte/makler-ki-tool-expos-s-und-akquise-25-provision-56850.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $279.68 (Single payment) |
+| Price | $279.06 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $69.93 |
+| Earnings/sale* | $69.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jan86e2 |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ZYNTEVO erstellt automatisch Fachtexte für drei Berufsgruppen – auf Knopfdruck, in Sekunden: Immobilienmakler – Exposés, Objektbeschreibungen, Akquise-AnschreibenHandwerker – Angebotsbeschreibungen, Kundenkommunikation, Social-Media-PostsSteuerberater – Mandantenkommunikation, Erklärungstexte, Kanzlei-Marketing 297 Euro Einmalzahlung – 74,25 Euro Provision pro Verkauf (25%)Kostenlose Demo verfügba…
+**Vendor's marketplace description:** <p>ZYNTEVO erstellt automatisch Fachtexte für drei Berufsgruppen – auf Knopfdruck, in Sekunden:</p>
+<p><strong>Immobilienmakler</strong> – Exposés, Objektbeschreibungen, Akquise-Anschreiben<br /><strong>Handwerker</strong> – Angebotsbeschreibungen, Kundenkommunikation, Social-Media-Posts<br /><strong>Steuerberater</strong> – Mandantenkommunikation, Erklärungstexte, Kanzlei-Marketing</p>
+<p>297 Euro Einmalzahlung – <strong>74,25 Euro Provision</strong> pro Verkauf (25%)<br />Kostenlose Demo verfügbar – Besucher testen sofort<br />14 Tage Geld-zurück-Garantie<br />Optimiert für DACH-Traffic</p>
+<p><strong>Verkaufsseiten</strong>:<br />zyntevo.de/makler – zyntevo.de/handwerker – zyntevo.de/steuerberater</p>
+<p> </p>
 
 ## 2. Links
 
@@ -94,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Makler KI-Tool – Exposés und Akquise | 25% Provision? — Typ: Downloads, Anbieter: jan86e2, gelistet seit 2026-06-10
-- Wie viel kostet es? — 279.679348 USD
+- Wie viel kostet es? — 279.055398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

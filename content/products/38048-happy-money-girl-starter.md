@@ -4,7 +4,7 @@ digistore24_product_id: 405536
 title: "Happy Money Girl \"Starter\""
 vendor: "NadjaHorlacher"
 product_type: "Member area and video courses"
-price: 6.59
+price: 6.57
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.29
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://nadjahorlacher.com/happy-money-girl-starter/?aff=adminstore#aff=adminstore"
 sales_page: "https://nadjahorlacher.com/happy-money-girl-starter/"
@@ -22,14 +22,14 @@ language: "de"
 # Happy Money Girl "Starter"
 
 > Product ID `38048` · Digistore24 productId `405536` · [HTML profile page](../../produkte/happy-money-girl-starter-38048.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $6.59 (Single payment) |
+| Price | $6.57 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.29 |
 | Cart conversion* | — |
@@ -41,7 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ich bin 48 Jahre, Alleinerziehend und habe 3 Kids. Habe ein eigenes Business mit Kokosöl aufgezogen. Ich musste immer lernen gut mit Geld auszukommen. Mittlerweile weiss ich, es ist alles möglich. Man braucht nur den Mut, den Schritt, auf sich selbst zu hören, umzusetzen, dran zu bleiben, und nicht aufzugeben, Gerne möchte ich dies Online anbeiten. Seit Jahren habe ich schon Online Kurse erstellt …
+**Vendor's marketplace description:** <div>
+<h2> </h2>
+<p>Ich bin 48 Jahre, Alleinerziehend und habe 3 Kids. Habe ein eigenes Business mit Kokosöl aufgezogen.</p>
+<p> </p>
+<p>Ich musste immer lernen gut mit Geld auszukommen. Mittlerweile weiss ich, es ist alles möglich. Man braucht nur den Mut, den Schritt, auf sich selbst zu hören, umzusetzen, dran zu bleiben, und nicht aufzugeben,</p>
+<p> </p>
+<p>Gerne möchte ich dies Online anbeiten. Seit Jahren habe ich schon Online Kurse erstellt und verkauft, aber bis jetzt immer nur als Hobby. Nun möchte ich gerne mit dir zusammen Gas geben. </p>
+<p> </p>
+<p>Folgende Kurse gibt es von mir:</p>
+<p>Happy Money Girl "Starter"</p>
+<p>Happy Money Girl "Runner"</p>
+<p>Happy Money Girl "Invest"</p>
+<p>Nadja's Jahresplan</p>
+<p>Bedienungsanleitung für Kinder</p>
+<p>Geld Sparen im Alltag</p>
+<p> </p>
+<p>Ich freue mich, wenn du meine Initiative unterstützt, wenn etwas ist, dann schreib es mir. </p>
+<p>Grüassli Nadja</p>
+</div>
+<div> </div>
 
 ## 2. Links
 
@@ -59,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Happy Money Girl "Starter"? — Typ: Member area and video courses, Anbieter: NadjaHorlacher, gelistet seit 2021-09-02
-- Wie viel kostet es? — 6.5891280000000005 USD
+- Wie viel kostet es? — 6.574428 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

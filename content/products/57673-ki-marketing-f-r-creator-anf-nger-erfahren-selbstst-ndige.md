@@ -4,34 +4,34 @@ digistore24_product_id: 711211
 title: "Ki-Marketing für Creator(ANFÄNGER+Erfahren) / Selbstständige"
 vendor: "24kibibliotheker"
 product_type: "E-books"
-price: 26.18
+price: 26.12
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.47
+earnings_per_sale: 10.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://ki-bibliotheker.my.canva.site/gold-and-dark-grey-simple-book-shop-line-art-logo?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57673/adminstore/"
 sales_page: "https://ki-bibliotheker.my.canva.site/gold-and-dark-grey-simple-book-shop-line-art-logo"
 language: "de"
 ---
 # Ki-Marketing für Creator(ANFÄNGER+Erfahren) / Selbstständige
 
 > Product ID `57673` · Digistore24 productId `711211` · [HTML profile page](../../produkte/ki-marketing-f-r-creator-anf-nger-erfahren-selbstst-ndige-57673.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.18 (Single payment) |
+| Price | $26.12 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.47 |
+| Earnings/sale* | $10.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | 24kibibliotheker |
@@ -41,11 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 100 professionelle ChatGPT- und KI-Marketing-Prompts für Selbstständige, Freelancer und Unternehmen Erstellen Sie schneller Inhalte für Social Media, Werbetexte, E-Mails, Blogartikel und Verkaufsseiten. Sie erhalten: 100 sofort einsetzbare Prompts Digitale PDF-Datei Sofortiger Download nach dem Kauf Für Anfänger und Fortgeschrittene geeignet Ideal für: Unternehmen Selbstständige Freelancer Agentur…
+**Vendor's marketplace description:** <p><strong>100 professionelle ChatGPT- und KI-Marketing-Prompts für Selbstständige, Freelancer und Unternehmen</strong></p>
+<p>Erstellen Sie schneller Inhalte für Social Media, Werbetexte, E-Mails, Blogartikel und Verkaufsseiten.</p>
+<p>Sie erhalten:</p>
+<ul>
+<li>100 sofort einsetzbare Prompts</li>
+<li>Digitale PDF-Datei</li>
+<li>Sofortiger Download nach dem Kauf</li>
+<li>Für Anfänger und Fortgeschrittene geeignet</li>
+</ul>
+<p>Ideal für:</p>
+<ul>
+<li>Unternehmen</li>
+<li>Selbstständige</li>
+<li>Freelancer</li>
+<li>Agenturen</li>
+<li>Coaches</li>
+<li>Online-Shops</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ki-bibliotheker.my.canva.site/gold-and-dark-grey-simple-book-shop-line-art-logo?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57673/adminstore/
 - Sales page: https://ki-bibliotheker.my.canva.site/gold-and-dark-grey-simple-book-shop-line-art-logo
 - Canonical redirect: https://www.digistore24.com/redir/711211/adminstore
 
@@ -60,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ki-Marketing für Creator(ANFÄNGER+Erfahren) / Selbstständige? — Typ: E-books, Anbieter: 24kibibliotheker, gelistet seit 2026-07-22
-- Wie viel kostet es? — 26.177216 USD
+- Wie viel kostet es? — 26.118816000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 736508
 title: "Pubertät ohne Dauerstreit – 60 echte Konfliktsituationen zwi"
 vendor: "MarkusGerbig"
 product_type: "E-books"
-price: 31.41
+price: 31.34
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.56
+earnings_per_sale: 12.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Services"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.mg-wissen.de/pubertaet-ohne-dauerstreit/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mg-wissen.de/pubertaet-ohne-dauerstreit/"
@@ -22,16 +22,16 @@ language: "de"
 # Pubertät ohne Dauerstreit – 60 echte Konfliktsituationen zwi
 
 > Product ID `59598` · Digistore24 productId `736508` · [HTML profile page](../../produkte/pubert-t-ohne-dauerstreit-60-echte-konfliktsituationen-zwi-59598.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.41 (Single payment) |
+| Price | $31.34 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.56 |
+| Earnings/sale* | $12.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MarkusGerbig |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Pubertät ohne Dauerstreit ist ein praxisnahes E-Book für Eltern von Teenagern, das 60 typische Konfliktsituationen greifbar macht und konkrete Lösungen anbietet. Statt grauer Theorie bekommen Eltern klare Erklärungen, praxiserprobte Handlungsvorschläge und Formulierungsbeispiele, die im Alltag sofort anwendbar sind. Das digitale E-Book mit 98 Seiten richtet sich besonders an Eltern, die weniger Ma…
+**Vendor's marketplace description:** <p style="text-align:center;">Pubertät ohne Dauerstreit ist ein praxisnahes E-Book für Eltern von Teenagern, das 60 typische Konfliktsituationen greifbar macht und konkrete Lösungen anbietet. Statt grauer Theorie bekommen Eltern klare Erklärungen, praxiserprobte Handlungsvorschläge und Formulierungsbeispiele, die im Alltag sofort anwendbar sind. Das digitale E-Book mit 98 Seiten richtet sich besonders an Eltern, die weniger Machtkämpfe und mehr Verbindung in der Pubertät erreichen möchten. Nach dem Kauf erfolgt der Download als PDF-Datei; kein gedrucktes Buch.</p>
 
 ## 2. Links
 
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pubertät ohne Dauerstreit – 60 echte Konfliktsituationen zwi? — Typ: E-books, Anbieter: MarkusGerbig, gelistet seit 2026-09-23
-- Wie viel kostet es? — 31.410418000000004 USD
+- Wie viel kostet es? — 31.340343000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

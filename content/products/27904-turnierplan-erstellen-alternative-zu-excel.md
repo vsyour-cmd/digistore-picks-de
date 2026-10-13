@@ -4,16 +4,16 @@ digistore24_product_id: 289633
 title: "Turnierplan erstellen - Alternative zu Excel"
 vendor: "d548251"
 product_type: "Software"
-price: 78.05
+price: 77.88
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 55.58
+earnings_per_sale: 55.46
 cart_conversion_pct: 28
 cancel_rate_pct: 0.77
 categories: ["Software","Sport","Project Management"]
 listed_since: "2019-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/289633/adminstore"
 sales_page: "https://www.meinspielplan.de?aff=[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # Turnierplan erstellen - Alternative zu Excel
 
 > Product ID `27904` · Digistore24 productId `289633` · [HTML profile page](../../produkte/turnierplan-erstellen-alternative-zu-excel-27904.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $78.05 (Subscription) |
+| Price | $77.88 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $55.58 |
+| Earnings/sale* | $55.46 |
 | Cart conversion* | 28% |
 | Cancel rate* | 0.77% |
 | Vendor | d548251 |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Nr. 1 Turnierplattform mit 50% Provision !!! Die Ablösung für Spielpläne mit aufwändigen Exceltabellen oder lässtiger Zettelwirtschaft! Vorteile als Affiliate: ✅ Wiederkehrende Provisionen warten auf Dich ✅ Unabhängig dessen wann ein Kunde bestellt ✅ Provision: 50% So funktioniert es:Zu jeder Neuanmeldung über den Promolink wirst du als Affiliate gespeichert und bei jedem Aufruf des Bestellformula…
+**Vendor's marketplace description:** <p style="margin:0;"><span style="font-size:150%;"><strong><span style="letter-spacing:0.5px;padding:5px 6px;background-color:#ffff00;">Nr. 1 Turnierplattform</span></strong></span></p>
+<p><span style="font-size:150%;"><strong><span style="letter-spacing:0.5px;padding:5px 6px;background-color:#ffff00;">mit 5<span style="white-space:nowrap;">0% Provision</span> !!!</span></strong></span></p>
+<p><em>Die Ablösung für Spielpläne mit aufwändigen Exceltabellen oder lässtiger Zettelwirtschaft!</em></p>
+<p style="margin:0 0 5px;"><strong>Vorteile als Affiliate:</strong></p>
+<ul style="list-style:none;">
+<li style="list-style:none;margin:0;">✅ Wiederkehrende Provisionen warten auf Dich</li>
+<li style="list-style:none;margin:0;">✅ Unabhängig dessen wann ein Kunde bestellt</li>
+<li style="list-style:none;margin:0;">✅ Provision: <strong>50%</strong></li>
+</ul>
+<p><strong>So funktioniert es:<br /></strong>Zu jeder Neuanmeldung über den Promolink wirst du als Affiliate gespeichert und bei jedem Aufruf des Bestellformulars wiederverwendet, auch wenn die Entscheidung zu einem Kauf viele Tage dauert ODER wenn der Kunde mit einem anderen Endgerät kauft. </p>
+<p><strong>Tipp!!!<br /></strong>Melde dich bei <a href="https://www.meinspielplan.de" target="_blank" rel="noreferrer noopener">meinSpielplan.de</a> an und trage dort deine Digistore-ID ein, um eine transparente Übersicht deiner Empfehlungen zu bekommen. </p>
 
 ## 2. Links
 
@@ -75,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Turnierplan erstellen - Alternative zu Excel? — Typ: Software, Anbieter: d548251, gelistet seit 2019-10-06
-- Wie viel kostet es? — 78.04979000000002 USD
+- Wie viel kostet es? — 77.87566500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

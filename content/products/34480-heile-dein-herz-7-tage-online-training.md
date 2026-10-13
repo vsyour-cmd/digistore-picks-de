@@ -4,16 +4,16 @@ digistore24_product_id: 280929
 title: "„Heile-Dein-Herz“-7-Tage-Online-Training"
 vendor: "Katerina_DLK"
 product_type: "Member area and video courses"
-price: 289.09
+price: 288.45
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 86.72
+earnings_per_sale: 86.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2019-07-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://katerinastruhovska.de/heile-dein-herz-7-tage-online-training/?aff=adminstore#aff=adminstore"
 sales_page: "https://katerinastruhovska.de/heile-dein-herz-7-tage-online-training/"
@@ -22,16 +22,16 @@ language: "de"
 # „Heile-Dein-Herz“-7-Tage-Online-Training
 
 > Product ID `34480` · Digistore24 productId `280929` · [HTML profile page](../../produkte/heile-dein-herz-7-tage-online-training-34480.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $289.09 (Single payment, Installment) |
+| Price | $288.45 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $86.72 |
+| Earnings/sale* | $86.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Katerina_DLK |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Heile-Dein-Herz" 7-Tage-Online-Training von Katerina Struhovska Heile dein Herz und werde zum Magnet für erfüllte Liebe! Dieses online Training besteht aus mehrere Schulungs-Videos mit Informationen, Übungen, Anleitungen und tiefgreifenden Meditationen. Durchlebe in diesen 7 Tagen eine intensive & lebensverändernde Transformation. Dieses Online Training ist keine reine Info-Vermittlung und keine …
+**Vendor's marketplace description:** <h3><strong>"Heile-Dein-Herz" 7-Tage-</strong><strong>Online-Training</strong></h3>
+<h3><strong>von Katerina Struhovska</strong></h3>
+<p><strong>Heile dein Herz und werde zum Magnet für erfüllte Liebe!</strong></p>
+<p>Dieses online Training besteht aus mehrere Schulungs-Videos mit Informationen, Übungen, Anleitungen und tiefgreifenden Meditationen.</p>
+<p>Durchlebe in diesen 7 Tagen eine intensive &amp; lebensverändernde Transformation.</p>
+<p>Dieses Online Training ist keine reine Info-Vermittlung und keine Oberflächen-Kosmetik. </p>
+<p>Dieses online Seminar geht in die Tiefe, indem Du du eine tiefgreifende Veränderung und spirituelle Herz-Heilung durchläufst.</p>
+<p>Du kannst das Training ganz in Ruhe von zu Hause aus absolvieren – vor deinem eigenen Computer, in deinem Tempo, zu den Dir möglichen Zeiten.</p>
+<p>Du bekommst die Zugangsdaten zum Mitgliederbereich nach dem Kauf per E-Mail zugesandt. </p>
+<p> </p>
 
 ## 2. Links
 
@@ -91,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Heile-Dein-Herz“-7-Tage-Online-Training? — Typ: Member area and video courses, Anbieter: Katerina_DLK, gelistet seit 2019-07-29
-- Wie viel kostet es? — 289.092388 USD
+- Wie viel kostet es? — 288.44743800000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

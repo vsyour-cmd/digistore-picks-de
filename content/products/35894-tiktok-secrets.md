@@ -12,8 +12,8 @@ cart_conversion_pct: 24
 cancel_rate_pct: 1.37
 categories: ["Social Media"]
 listed_since: "2021-02-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://tiktoksecrets.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://tiktoksecrets.de/"
@@ -22,7 +22,7 @@ language: "de"
 # TikTok Secrets
 
 > Product ID `35894` · Digistore24 productId `371975` · [HTML profile page](../../produkte/tiktok-secrets-35894.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** NEU Das Buch für explosives TikTok Wachstum In diesem Buch wirst du von Grund auf lernen, wie man in der Welt von TikTok startet, sich eine Marke aufbaut, Follower gewinnt und dadurch Traffic und Gewinne generiert. Ein einfacher Prozess den jeder verwenden kann, um schnell zu wachsen, Traffic, Leads und Kunden mit TikTok zu generien. Bewirb TikTok Secrets JETZT und erhalte 50% Provision für jede e…
+**Vendor's marketplace description:** <div style="padding:30px 15px 15px 15px;margin-top:-15px;">
+<div style="background:#DF401E;color:#fff;padding:0 5px;text-align:center;margin-top:-30px;margin-left:-15px;height:20px;width:50px;line-height:20px;font-weight:bold;margin-bottom:10px;">NEU</div>
+<h2>Das Buch für explosives TikTok Wachstum</h2>
+<p>In diesem Buch wirst du von Grund auf lernen, wie man in der Welt von TikTok startet, sich eine Marke aufbaut, Follower gewinnt und dadurch Traffic und Gewinne generiert. Ein einfacher Prozess den jeder verwenden kann, um schnell zu wachsen, Traffic, Leads und Kunden mit TikTok zu generien.</p>
+<p><strong>Bewirb TikTok Secrets JETZT und erhalte <span style="color:#99cc00;">50%</span> Provision für jede erfolgreiche Vermittlung.</strong></p>
+</div>
 
 ## 2. Links
 

@@ -4,16 +4,16 @@ digistore24_product_id: 695782
 title: "Ebook - Im Namen der Ordnung"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 12.56
+price: 12.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.29
+earnings_per_sale: 6.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Politics & Economy"]
 listed_since: "2026-05-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/695782?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/695782"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Im Namen der Ordnung
 
 > Product ID `56706` · Digistore24 productId `695782` · [HTML profile page](../../produkte/ebook-im-namen-der-ordnung-56706.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.56 (Single payment) |
+| Price | $12.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.29 |
+| Earnings/sale* | $6.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Buch trifft den Nerv einer Zielgruppe, die geopolitische Machtverhältnisse, internationale Konflikte und Völkerrecht kritisch hinterfragt, und bietet tiefgehende Analysen historischer Interventionen von Iran bis Ukraine. Es verbindet aktuelle Relevanz mit kontroversen Themen, erzeugt hohe Diskussionsbereitschaft und spricht Leser an, die Zusammenhänge hinter globalen Entscheidungen verstehe…
+**Vendor's marketplace description:** <p>Dieses Buch trifft den Nerv einer Zielgruppe, die geopolitische Machtverhältnisse, internationale Konflikte und Völkerrecht kritisch hinterfragt, und bietet tiefgehende Analysen historischer Interventionen von Iran bis Ukraine.</p>
+<p>Es verbindet aktuelle Relevanz mit kontroversen Themen, erzeugt hohe Diskussionsbereitschaft und spricht Leser an, die Zusammenhänge hinter globalen Entscheidungen verstehen wollen.</p>
+<p>Die klare Fokussierung auf Macht, Recht und internationale Ordnung schafft starke emotionale Trigger rund um Gerechtigkeit, Souveränität und politische Einflussnahme – ideale Voraussetzungen für Aufmerksamkeit und Conversion.</p>
 
 ## 2. Links
 
@@ -71,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Im Namen der Ordnung? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-26
-- Wie viel kostet es? — 12.561926000000001 USD
+- Wie viel kostet es? — 12.533901000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

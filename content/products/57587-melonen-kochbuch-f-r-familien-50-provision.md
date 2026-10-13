@@ -4,34 +4,34 @@ digistore24_product_id: 711404
 title: "Melonen - Kochbuch für Familien  - 50 % Provision"
 vendor: "wildandfreefamily"
 product_type: "E-books"
-price: 14.56
+price: 14.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.28
+earnings_per_sale: 7.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Food & Drink"]
 listed_since: "2026-07-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://wildfree-melonen-kochbuch.netlify.app/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57587/adminstore/"
 sales_page: "https://wildfree-melonen-kochbuch.netlify.app/"
 language: "de"
 ---
 # Melonen - Kochbuch für Familien  - 50 % Provision
 
 > Product ID `57587` · Digistore24 productId `711404` · [HTML profile page](../../produkte/melonen-kochbuch-f-r-familien-50-provision-57587.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.56 (Single payment) |
+| Price | $14.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.28 |
+| Earnings/sale* | $7.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wildandfreefamily |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** E-Book „Die leckere Welt der Melonen” von der Wild & Free Family (bekannt aus Goodbye Deutschland, 10 Jahre Familien-Content). Zielgruppe: Eltern 25–50, Familienküche, Kindergeburtstage, Sommer-Fans. Stärkstes Verkaufsargument: die komplette Melonen-Kindergeburtstag-Anleitung mit Deko, Torte und Spielen. 50 % Provision, automatische Partnerannahme, sofortiger PDF-Download. Fertiges Werbematerial (…
+**Vendor's marketplace description:** <p>E-Book „<strong>Die leckere Welt der Melonen</strong>” von der Wild &amp; Free Family (bekannt aus Goodbye Deutschland, 10 Jahre Familien-Content). Zielgruppe: Eltern 25–50, Familienküche, Kindergeburtstage, Sommer-Fans. Stärkstes Verkaufsargument: die komplette Melonen-Kindergeburtstag-Anleitung mit Deko, Torte und Spielen. 50 % Provision, automatische Partnerannahme, sofortiger PDF-Download. Fertiges Werbematerial (E-Mail-, Post- und Story-Vorlagen) auf unserer Affiliate-Support-Seite.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wildfree-melonen-kochbuch.netlify.app/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57587/adminstore/
 - Sales page: https://wildfree-melonen-kochbuch.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/711404/adminstore
 
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Melonen - Kochbuch für Familien  - 50 % Provision? — Typ: E-books, Anbieter: wildandfreefamily, gelistet seit 2026-07-18
-- Wie viel kostet es? — 14.556594 USD
+- Wie viel kostet es? — 14.524119 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

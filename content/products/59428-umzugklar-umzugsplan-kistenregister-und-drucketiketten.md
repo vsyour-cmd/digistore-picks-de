@@ -4,16 +4,16 @@ digistore24_product_id: 735324
 title: "Umzugklar: Umzugsplan, Kistenregister und Drucketiketten"
 vendor: "kiagent007"
 product_type: "Software"
-price: 14.03
+price: 14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.21
+earnings_per_sale: 4.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Software"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/735324?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/735324"
@@ -22,16 +22,16 @@ language: "de"
 # Umzugklar: Umzugsplan, Kistenregister und Drucketiketten
 
 > Product ID `59428` · Digistore24 productId `735324` · [HTML profile page](../../produkte/umzugklar-umzugsplan-kistenregister-und-drucketiketten-59428.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $14.03 (Single payment) |
+| Price | $14.00 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.21 |
+| Earnings/sale* | $4.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kiagent007 |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Umzugklar: konkrete Hilfe für den Alltag Ein anpassbarer Umzugsplan mit durchsuchbarem Kistenregister. Zielgruppe: Menschen, die ihren privaten Umzug selbst organisieren. Lieferumfang: 28 bearbeitbare Startaufgaben; bis zu 400 Aufgaben und 200 Kisten; relative Terminvorschläge; Suche nach Raum, Nummer oder Inhalt; Plan und Etiketten drucken. Dazu manuell speicherbare JSON-Projektdateien, integrier…
+**Vendor's marketplace description:** <h2>Umzugklar: konkrete Hilfe für den Alltag</h2>
+<p>Ein anpassbarer Umzugsplan mit durchsuchbarem Kistenregister.</p>
+<p><strong>Zielgruppe:</strong> Menschen, die ihren privaten Umzug selbst organisieren.</p>
+<p><strong>Lieferumfang:</strong> 28 bearbeitbare Startaufgaben; bis zu 400 Aufgaben und 200 Kisten; relative Terminvorschläge; Suche nach Raum, Nummer oder Inhalt; Plan und Etiketten drucken. Dazu manuell speicherbare JSON-Projektdateien, integrierte Anleitung und zwei fiktive Beispielprojekte.</p>
+<p>ZIP-Download mit lokaler HTML-App für Desktop-Browser. Kein KI-Zugang nötig. Keine native Handyapp, kein Konto, keine Cloud-Synchronisierung, keine automatische Speicherung. Vorschläge individuell prüfen.</p>
+<p><strong>Einmaliger Preis:</strong> 14,90 Euro brutto. <strong>Affiliate-Provision:</strong> 30 Prozent gemäß Digistore24-Abrechnung. 30 Tage Rückgabe, 12 Monate Downloadzugang.</p>
+<p><strong>Kostenlose Probe:</strong> https://projektpreis-studio.crimetwin.chatgpt.site/umzugklar/probe/</p>
+<p>Produktinfos und nutzbare Werbetexte auf der Affiliate-Support-Seite. Gewöhnliche Probenlinks enthalten keine Affiliate-Zuordnung; persönliche Verkaufslinks mit Kampagnenkennung aus Digistore24 verwenden.</p>
+<p>Neue Produkte ohne belegte Conversion- oder Verkaufsdaten. Kaufwerbung erst nach tatsächlicher Produkt- und Marktplatzfreigabe. Keine garantierten Ergebnisse, erfundenen Bewertungen oder künstliche Verknappung verwenden.</p>
 
 ## 2. Links
 
@@ -72,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Umzugklar: Umzugsplan, Kistenregister und Drucketiketten? — Typ: Software, Anbieter: kiagent007, gelistet seit 2026-09-20
-- Wie viel kostet es? — 14.029912 USD
+- Wie viel kostet es? — 13.998612000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

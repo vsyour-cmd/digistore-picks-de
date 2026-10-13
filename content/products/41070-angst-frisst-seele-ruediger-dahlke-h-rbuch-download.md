@@ -4,16 +4,16 @@ digistore24_product_id: 456226
 title: "Angst frisst Seele – Ruediger Dahlke – Hörbuch-Download"
 vendor: "isidde"
 product_type: "Audio book (download)"
-price: 21.99
+price: 21.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.99
+earnings_per_sale: 10.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-08-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.isid.de/angst-frisst-seele-ruediger-dahlke-hoerbuch-download/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isid.de/angst-frisst-seele-ruediger-dahlke-hoerbuch-download/"
@@ -22,16 +22,16 @@ language: "de"
 # Angst frisst Seele – Ruediger Dahlke – Hörbuch-Download
 
 > Product ID `41070` · Digistore24 productId `456226` · [HTML profile page](../../produkte/angst-frisst-seele-ruediger-dahlke-h-rbuch-download-41070.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $21.99 (Single payment) |
+| Price | $21.94 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.99 |
+| Earnings/sale* | $10.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie wir uns von (ir)realen und geschürten Ängsten befreien Ob Angst vor Viren, (Zwangs)Impfungen, Gesundheits-Diktatur, vor wirtschaftlichem Zusammenbruch oder Angst vor der Angst – Angst war schon vor der Pandemie ein zentrales Phänomen in den deutschsprachigen Ländern. Nun wurde sie gesellschaftlich bestimmend. Obwohl sich an der Oberfläche die Opfer verschiedener Ängste unterscheiden und sich s…
+**Vendor's marketplace description:** <h2>Wie wir uns von (ir)realen und geschürten Ängsten befreien</h2>
+<p><br />Ob Angst vor Viren, (Zwangs)Impfungen, Gesundheits-Diktatur, vor wirtschaftlichem Zusammenbruch oder Angst vor der Angst – Angst war schon vor der Pandemie ein zentrales Phänomen in den deutschsprachigen Ländern. Nun wurde sie gesellschaftlich bestimmend. Obwohl sich an der Oberfläche die Opfer verschiedener Ängste unterscheiden und sich sogar aufeinanderhetzen ließen, in der Tiefe ist es immer dieselbe Angst vor dem Tod.</p>
+<p>Infektion ist sowohl aus naturheilkundlicher als auch schulmedizinischer Sicht ein Kampf bzw. Krieg zwischen Immunsystem und Erregern. Hinter Todesangst steckt ein Urthema, das uns (westliche) Menschen beherrscht. Die Themen Aggression und Todesangst haben nun Jahre unseres Lebens bestimmt und werden das weiter tun, bis wir bereit sind, uns ihnen zu stellen und sie zu (er)lösen.</p>
+<p>Da wir das Geschehen im Außen nur bedingt in der Hand haben, gilt es, unser Inneres zu stärken. Wie das konkret geht, zeigt Bestsellerautor Ruediger Dahlke in seinem spannenden, hochaktuellen neuen Buch, das verdeutlicht: Nur wenn wir bereit sind, die Wurzeln der Angst zu ergründen, greifen die Strategien ihrer Bewältigung. Dann finden wir Auswege aus der Angstfalle und können ein Leben in Freiheit und Frieden führen.</p>
+<p>(c) Scorpio Verlag in Europa Verlage GmbH</p>
 
 ## 2. Links
 
@@ -71,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Angst frisst Seele – Ruediger Dahlke – Hörbuch-Download? — Typ: Audio book (download), Anbieter: isidde, gelistet seit 2022-08-18
-- Wie viel kostet es? — 21.986172000000003 USD
+- Wie viel kostet es? — 21.937122000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

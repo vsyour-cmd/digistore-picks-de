@@ -4,16 +4,16 @@ digistore24_product_id: 539552
 title: "Mikes Digital Academy"
 vendor: "m012692"
 product_type: "Member area and video courses"
-price: 145.02
+price: 144.69
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 16.44
+earnings_per_sale: 16.4
 cart_conversion_pct: 8
 cancel_rate_pct: 4.9
 categories: ["Education","Online Marketing & E-Business"]
 listed_since: "2024-02-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/539552?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/539552"
@@ -22,16 +22,16 @@ language: "de"
 # Mikes Digital Academy
 
 > Product ID `47488` · Digistore24 productId `539552` · [HTML profile page](../../produkte/mikes-digital-academy-47488.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $145.02 (Single payment, Installment) |
+| Price | $144.69 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $16.44 |
+| Earnings/sale* | $16.40 |
 | Cart conversion* | 8% |
 | Cancel rate* | 4.9% |
 | Vendor | m012692 |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In diesem Lehrgang werden Ihnen rund 6 Stunden Videomaterial, sowie zahlreiche nützliche Vorlagen und Dateien zur Verfügung gestellt, die sich auf die Erstellung digitaler Produkte und deren Vertrieb über Etsy konzentrieren.
+**Vendor's marketplace description:** <p>In diesem Lehrgang werden Ihnen rund 6 Stunden Videomaterial, sowie zahlreiche nützliche Vorlagen und Dateien zur Verfügung gestellt, die sich auf die Erstellung digitaler Produkte und deren Vertrieb über Etsy konzentrieren.</p>
 
 ## 2. Links
 
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mikes Digital Academy? — Typ: Member area and video courses, Anbieter: m012692, gelistet seit 2024-02-18
-- Wie viel kostet es? — 145.01684600000002 USD
+- Wie viel kostet es? — 144.693321 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

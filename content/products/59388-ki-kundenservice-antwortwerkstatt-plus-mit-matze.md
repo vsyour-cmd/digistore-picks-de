@@ -4,16 +4,16 @@ digistore24_product_id: 733945
 title: "KI-Kundenservice – Antwortwerkstatt Plus mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.71
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://einfachmitmatze.de/ki-kundenservice/zusatzpaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/ki-kundenservice/zusatzpaket/"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Kundenservice – Antwortwerkstatt Plus mit Matze
 
 > Product ID `59388` · Digistore24 productId `733945` · [HTML profile page](../../produkte/ki-kundenservice-antwortwerkstatt-plus-mit-matze-59388.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erweitere deine Übungen zu KI-unterstützten Kundenservice-Antworten. Enthalten:• Antwortwerkstatt Plus als PDF• Bearbeitbare DOCX-Vorlagen• Antwortwerkstatt als Markdown• Szenarienübersicht als CSV• Startanleitung ZIP entpacken. Das Paket liefert Lern- und Vorlagendateien, keinen KI-Zugang oder Chatbot-Service. Optionaler Zusatz zum KI-Kundenservice-Praxispaket; der Hauptkurs ist nicht enthalten. …
+**Vendor's marketplace description:** <p>Erweitere deine Übungen zu KI-unterstützten Kundenservice-Antworten.</p>
+<p>Enthalten:<br />• Antwortwerkstatt Plus als PDF<br />• Bearbeitbare DOCX-Vorlagen<br />• Antwortwerkstatt als Markdown<br />• Szenarienübersicht als CSV<br />• Startanleitung</p>
+<p>ZIP entpacken. Das Paket liefert Lern- und Vorlagendateien, keinen KI-Zugang oder Chatbot-Service. Optionaler Zusatz zum KI-Kundenservice-Praxispaket; der Hauptkurs ist nicht enthalten.</p>
+<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
+<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
+<p>Affiliate-Information: 50,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.</p>
 
 ## 2. Links
 
@@ -74,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Kundenservice – Antwortwerkstatt Plus mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

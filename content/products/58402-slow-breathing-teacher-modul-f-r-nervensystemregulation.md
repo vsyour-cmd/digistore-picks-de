@@ -4,16 +4,16 @@ digistore24_product_id: 663320
 title: "Slow Breathing — Teacher Modul für Nervensystemregulation"
 vendor: "BeamdreamBreathworks"
 product_type: "Member area and video courses"
-price: 395.5
+price: 394.62
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 39.55
+earnings_per_sale: 39.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.beamdream.com/relax-breathwork-ausbildung?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beamdream.com/relax-breathwork-ausbildung"
@@ -22,16 +22,16 @@ language: "de"
 # Slow Breathing — Teacher Modul für Nervensystemregulation
 
 > Product ID `58402` · Digistore24 productId `663320` · [HTML profile page](../../produkte/slow-breathing-teacher-modul-f-r-nervensystemregulation-58402.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $395.50 (Single payment, Installment) |
+| Price | $394.62 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $39.55 |
+| Earnings/sale* | $39.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BeamdreamBreathworks |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Weiterbildung für alle, die mit gestressten und überstimulierten Klient:innen arbeiten. Fokus auf Regulation statt Aktivierung. 3 Module, fast 4 Stunden Videomaterial: Grundlagen der Atmung – Mechanik, Zwerchfell, Physiologie Atem und Nervensystem – HRV, Vagusnerv, Polyvagaltheorie, Kontraindikationen Atemtechniken und Didaktik – vier Techniken, Lehraufbau, professionelle Haltung Dazu: PDF-Skr…
+**Vendor's marketplace description:** <p><strong>Die Weiterbildung für alle, die mit gestressten und überstimulierten Klient:innen arbeiten. Fokus auf Regulation statt Aktivierung.</strong></p>
+<p>3 Module, fast 4 Stunden Videomaterial:</p>
+<ul>
+<li>Grundlagen der Atmung – Mechanik, Zwerchfell, Physiologie</li>
+<li>Atem und Nervensystem – HRV, Vagusnerv, Polyvagaltheorie, Kontraindikationen</li>
+<li>Atemtechniken und Didaktik – vier Techniken, Lehraufbau, professionelle Haltung</li>
+</ul>
+<p>Dazu: PDF-Skripte, geführte Meditationen und ein Atemtagebuch.</p>
+<p><strong>Für wen:</strong> Atemtherapeut:innen, Yogalehrende, Coaches und Therapeut:innen. Ohne Voraussetzungen buchbar – weder medizinisches Vorwissen noch ein bestehendes Beamdream-Zertifikat nötig.</p>
+<p><strong>Warum es konvertiert:</strong> 390 € einmalig oder in Raten (3 x 135 € / 6 x 70 €), sofortiger Zugang, Teilnahmezertifikat. Der niedrigschwellige Einstieg ohne Vorbedingungen öffnet die gesamte Yoga- und Coaching-Szene als Zielgruppe.</p>
 
 ## 2. Links
 
@@ -96,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Slow Breathing — Teacher Modul für Nervensystemregulation? — Typ: Member area and video courses, Anbieter: BeamdreamBreathworks, gelistet seit 2026-08-16
-- Wie viel kostet es? — 395.504564 USD
+- Wie viel kostet es? — 394.62221400000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 601695
 title: "Starte Facebook und Instagram Ads"
 vendor: "FinestAudience"
 product_type: "Member area and video courses"
-price: 65.39
+price: 65.24
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 470.74
+earnings_per_sale: 469.69
 cart_conversion_pct: 2
 cancel_rate_pct: 6.76
 categories: ["Online Marketing"]
 listed_since: "2025-03-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://adsmastery.de/fb-ig-ads/?aff=adminstore#aff=adminstore"
 sales_page: "https://adsmastery.de/fb-ig-ads/"
@@ -22,16 +22,16 @@ language: "de"
 # Starte Facebook und Instagram Ads
 
 > Product ID `52062` · Digistore24 productId `601695` · [HTML profile page](../../produkte/starte-facebook-und-instagram-ads-52062.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $65.39 (Single payment) |
+| Price | $65.24 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $470.74 |
+| Earnings/sale* | $469.69 |
 | Cart conversion* | 2% |
 | Cancel rate* | 6.76% |
 | Vendor | FinestAudience |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 80% Provision für Dich vom Frontend Kurs Diese Kursinhalte sind pure Praxiserfahrung.
+**Vendor's marketplace description:** <h2><strong>80% Provision für Dich </strong></h2>
+<h2><strong>vom Frontend Kurs</strong></h2>
+<p><strong>Diese Kursinhalte sind pure Praxiserfahrung.</strong></p>
 
 ## 2. Links
 
@@ -67,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Starte Facebook und Instagram Ads? — Typ: Member area and video courses, Anbieter: FinestAudience, gelistet seit 2025-03-14
-- Wie viel kostet es? — 65.38701 USD
+- Wie viel kostet es? — 65.24113500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

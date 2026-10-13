@@ -4,16 +4,16 @@ digistore24_product_id: 687566
 title: "Alle 7 Hauptchakren auf einen Blick"
 vendor: "Spiritual-Power"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 5.46
+earnings_per_sale: 5.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/687566?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/687566"
@@ -22,16 +22,16 @@ language: "de"
 # Alle 7 Hauptchakren auf einen Blick
 
 > Product ID `56366` · Digistore24 productId `687566` · [HTML profile page](../../produkte/alle-7-hauptchakren-auf-einen-blick-56366.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $5.46 |
+| Earnings/sale* | $5.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spiritual-Power |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Alles Wichtige zu allen 7 Chakren – auf einen Blick, klar strukturiert und wunderschön gestaltet. Kein Suchen mehr in dicken Büchern. Alle wichtigen Infos auf einem einzigen Poster. Welche Infos sind enthalten? Für jedes der 7 Hauptchakren bekommst du folgende Informationen: Sanskritname, zugeordnete Farbe, Symbol und Element Lage im Körper und zugehörige Lebensthemen Körperliche Zuordnungen und g…
+**Vendor's marketplace description:** <p>Alles Wichtige  zu allen 7 Chakren – auf einen Blick, klar strukturiert und wunderschön gestaltet. Kein Suchen mehr in dicken Büchern. Alle wichtigen Infos auf einem einzigen Poster.</p>
+<p><strong>Welche Infos sind enthalten?</strong></p>
+<p>Für jedes der 7 Hauptchakren bekommst du folgende Informationen:</p>
+<ul>
+<li>Sanskritname, zugeordnete Farbe, Symbol und Element</li>
+<li>Lage im Körper und zugehörige Lebensthemen</li>
+<li>Körperliche Zuordnungen und geistig-seelisches Prinzip</li>
+<li>Blockaden und gesundheitliche Störungen – erkenne, was aus dem Gleichgewicht geraten ist</li>
+<li>Wirkender Farbstrahl und zugeordneter Aufgestiegener Meister (12 Göttliche Strahlen)</li>
+<li>Heilsteine, Heilkräuter, Ätherische Öle und Bachblüten</li>
+<li>Unterstützender Vokallaut, Mantra und Affirmation</li>
+<li>Alltagstipps zur Chakrenaktivierung</li>
+<li>Passende Yogaübungen</li>
+</ul>
+<p><strong>Für wen ist dieses Poster?</strong></p>
+<p>Für alle, die in der Energiearbeit, im Coaching, in der Heilarbeit oder auf dem spirituellen Weg unterwegs sind – egal ob Anfänger oder Fortgeschrittene. Auch ideal als dekoratives und gleichzeitig informatives Element in Praxisräumen, Yogastudios oder im Homeoffice.</p>
 
 ## 2. Links
 
@@ -77,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Alle 7 Hauptchakren auf einen Blick? — Typ: Downloads, Anbieter: Spiritual-Power, gelistet seit 2026-04-25
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

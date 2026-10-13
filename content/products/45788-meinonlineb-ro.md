@@ -4,16 +4,16 @@ digistore24_product_id: 99407
 title: "meinOnlineBüro"
 vendor: "rbirgmeier"
 product_type: "Remote service provided electronically"
-price: 784.42
+price: 782.67
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 313.77
+earnings_per_sale: 313.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2016-10-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.meinonlinebuero.de/features-und-preise-3/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinonlinebuero.de/features-und-preise-3/"
@@ -22,16 +22,16 @@ language: "de"
 # meinOnlineBüro
 
 > Product ID `45788` · Digistore24 productId `99407` · [HTML profile page](../../produkte/meinonlineb-ro-45788.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $784.42 (Subscription) |
+| Price | $782.67 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $313.77 |
+| Earnings/sale* | $313.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rbirgmeier |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Software-as-a-Service Lösung meinOnlineBüro, CRM, Auftragsabwicklung, Rechnungschreiben, Zeiterfassung. Es ist eine Standardlösung die als Monats- oder Jahresabo über Digistore gebucht und bezahlt werden kann. Es gibt auch die Möglichkeit der individuellen Anpassung der Standardlösung gegen Aufpreis. Spezielle Lösungen gibt es für Energiemakler und Bestatter. Wir bieten dem Affiliate dauerhafte 20…
+**Vendor's marketplace description:** <p>Software-as-a-Service Lösung meinOnlineBüro, CRM, Auftragsabwicklung, Rechnungschreiben, Zeiterfassung. Es ist eine Standardlösung die als Monats- oder Jahresabo über Digistore gebucht und bezahlt werden kann. Es gibt auch die Möglichkeit der individuellen Anpassung der Standardlösung gegen Aufpreis. Spezielle Lösungen gibt es für Energiemakler und Bestatter. Wir bieten dem Affiliate dauerhafte 20% auf die Buchung eines Business- oder Premium-Jahresabos. </p>
 
 ## 2. Links
 
@@ -84,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist meinOnlineBüro? — Typ: Remote service provided electronically, Anbieter: rbirgmeier, gelistet seit 2016-10-12
-- Wie viel kostet es? — 784.4200000000001 USD
+- Wie viel kostet es? — 782.6700000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 467097
 title: "Persönliche Finanzen"
 vendor: "LebensfrohLLC"
 product_type: "Member area and video courses"
-price: 110.94
+price: 110.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 55.47
+earnings_per_sale: 55.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2022-10-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://christophneuwirth.com/lp/persoenliche-finanzen-die-anleitung-fuer-finanzielle-freiheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://christophneuwirth.com/lp/persoenliche-finanzen-die-anleitung-fuer-finanzielle-freiheit/"
@@ -22,16 +22,16 @@ language: "de"
 # Persönliche Finanzen
 
 > Product ID `42178` · Digistore24 productId `467097` · [HTML profile page](../../produkte/pers-nliche-finanzen-42178.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $110.94 (Single payment) |
+| Price | $110.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $55.47 |
+| Earnings/sale* | $55.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LebensfrohLLC |
@@ -41,7 +41,48 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 50% Provision + diverse Upsells und AddOns Persönliche Finanzen: Die Anleitung für finanzielle Freiheit Dieser Kurs für persönliche Finanzen wird dir beibringen, wie du dein Geld verwaltest, ein Budget erstellst, deine Schulden eliminierst, mehr Geld verdienst, klug investierst und so viel mehr! Alles in einem einfachen Schritt-für-Schritt-Format, das perfekt für Anfänger ist oder all jene, die ei…
+**Vendor's marketplace description:** <p>50% Provision + diverse Upsells und AddOns</p>
+<p><strong>Persönliche Finanzen: Die Anleitung für finanzielle Freiheit</strong></p>
+<p>Dieser Kurs für <strong>persönliche Finanzen</strong> wird dir beibringen, wie du dein <strong>Geld verwaltest, ein  Budget erstellst, deine Schulden eliminierst, mehr Geld verdienst, klug investierst und so viel mehr</strong>! Alles in einem einfachen <strong>Schritt-für-Schritt-Format</strong>, das <strong>perfekt für Anfänger</strong> ist oder all jene, die ein <strong>wahres Vermögen</strong> aufbauen wollen.</p>
+<ul>
+<li>
+<p>Persönliche Finanzen - Mindset, Grundkenntnisse, Mechanismen</p>
+</li>
+<li>
+<p><strong>EXCEL VORLAGEN</strong> zum Evaluieren deiner finanzieller Situation:</p>
+</li>
+<li>
+<p>Einnahmen, Ausgaben, Persönlicher Gewinn, Persönliche Bilanz, Cashflow Statement</p>
+</li>
+<li>
+<p>Budgetierung</p>
+</li>
+<li>
+<p>Aufbau deiner eisernen Reserve durch die:</p>
+</li>
+<li>
+<p>30 Tage Geld Sparen Challenge (500 Euro in einem Monat Sparen!)</p>
+</li>
+<li>
+<p>Schulden abbezahlen</p>
+</li>
+<li>
+<p>Einen Plan zur Schuldentilgung erstellen</p>
+</li>
+<li>
+<p>Wie du mehr verdienst, eine Gehaltserhöhung verhandelst und ein Jobangebot aushandelst</p>
+</li>
+<li>
+<p>Beziehungen und Geld</p>
+</li>
+<li>
+<p>Geld Sparen</p>
+</li>
+<li>
+<p>Klug Investieren : Aktien, Indizes und ETFs, Anleihen, Immobilien, Beteiligungen, dein eigenes Unternehmen uvm.</p>
+</li>
+</ul>
+<p> </p>
 
 ## 2. Links
 
@@ -89,7 +130,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Persönliche Finanzen? — Typ: Member area and video courses, Anbieter: LebensfrohLLC, gelistet seit 2022-10-29
-- Wie viel kostet es? — 110.9394 USD
+- Wie viel kostet es? — 110.6919 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

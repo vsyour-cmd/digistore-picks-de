@@ -4,16 +4,16 @@ digistore24_product_id: 621099
 title: "Haus privat verkaufen - ohne hohe Maklerkosten"
 vendor: "Jeanne70"
 product_type: "E-books"
-price: 38.75
+price: 38.66
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 7.75
+earnings_per_sale: 7.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Real Estate","Sales Training"]
 listed_since: "2025-06-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/621099?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/621099"
@@ -22,16 +22,16 @@ language: "de"
 # Haus privat verkaufen - ohne hohe Maklerkosten
 
 > Product ID `53010` · Digistore24 productId `621099` · [HTML profile page](../../produkte/haus-privat-verkaufen-ohne-hohe-maklerkosten-53010.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.75 (Single payment) |
+| Price | $38.66 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $7.75 |
+| Earnings/sale* | $7.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jeanne70 |
@@ -40,6 +40,8 @@ language: "de"
 | Categories | Law & Justice, Real Estate, Sales Training |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** <h2>
 
 ## 2. Links
 
@@ -76,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Haus privat verkaufen - ohne hohe Maklerkosten? — Typ: E-books, Anbieter: Jeanne70, gelistet seit 2025-06-27
-- Wie viel kostet es? — 38.750348 USD
+- Wie viel kostet es? — 38.663898 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

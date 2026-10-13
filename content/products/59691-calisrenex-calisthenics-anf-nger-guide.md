@@ -4,34 +4,34 @@ digistore24_product_id: 728739
 title: "CalisReneX – Calisthenics Anfänger-Guide"
 vendor: "calisrenex"
 product_type: "E-books"
-price: 26.18
+price: 26.12
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.47
+earnings_per_sale: 10.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/728739?aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/59691/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/728739"
 language: "de"
 ---
 # CalisReneX – Calisthenics Anfänger-Guide
 
 > Product ID `59691` · Digistore24 productId `728739` · [HTML profile page](../../produkte/calisrenex-calisthenics-anf-nger-guide-59691.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.18 (Single payment) |
+| Price | $26.12 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.47 |
+| Earnings/sale* | $10.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | calisrenex |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der CalisReneX Anfänger-Guide richtet sich an Einsteiger, die strukturiert mit Calisthenics starten möchten. Enthalten sind Grundlagen, Trainingssystem, Progressionen, Skills, Ernährung und Wissen für messbare Fortschritte. Ideal für Fitness-, Calisthenics- und Bodyweight-Content. Affiliate-Provision: 40 %.
+**Vendor's marketplace description:** <p>Der CalisReneX Anfänger-Guide richtet sich an Einsteiger, die strukturiert mit Calisthenics starten möchten. Enthalten sind Grundlagen, Trainingssystem, Progressionen, Skills, Ernährung und Wissen für messbare Fortschritte. Ideal für Fitness-, Calisthenics- und Bodyweight-Content. Affiliate-Provision: 40 %.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/728739?aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/59691/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/728739
 - Canonical redirect: https://www.digistore24.com/redir/728739/adminstore
 
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CalisReneX – Calisthenics Anfänger-Guide? — Typ: E-books, Anbieter: calisrenex, gelistet seit 2026-09-25
-- Wie viel kostet es? — 26.177216 USD
+- Wie viel kostet es? — 26.118816000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

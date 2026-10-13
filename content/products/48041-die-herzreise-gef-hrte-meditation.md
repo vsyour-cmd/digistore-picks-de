@@ -4,7 +4,7 @@ digistore24_product_id: 547234
 title: "Die Herzreise | Geführte Meditation"
 vendor: "Matrixreport"
 product_type: "Downloads"
-price: 9.32
+price: 9.3
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.33
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.matrixreport.blog/die-herzreise/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48041/adminstore/"
 sales_page: "https://www.matrixreport.blog/die-herzreise/"
 language: "de"
 ---
 # Die Herzreise | Geführte Meditation
 
 > Product ID `48041` · Digistore24 productId `547234` · [HTML profile page](../../produkte/die-herzreise-gef-hrte-meditation-48041.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.32 (Single payment) |
+| Price | $9.30 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.33 |
 | Cart conversion* | — |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Herzreise "Eine geführte Bewusstseinsreise für tiefe Entspannung und intensive Körperwahrnehmung. Erfahre und fühle, dich und deinen Körper und betrete dein ursprüngliches Kraftfeld, dein physiches Herz!" Deine Vorteile als Affiliate: 25% Provision für jeden erzielten Verkauf Verbreite Ruhe, Entspannung & Kraft! Unterstütze Menschen dabei, sich zu fühlen, zu entspannen, zur Ruhe- und ihre Kraf…
+**Vendor's marketplace description:** <p><strong>Die Herzreise</strong></p>
+<p>"Eine geführte Bewusstseinsreise für tiefe Entspannung und intensive Körperwahrnehmung. Erfahre und fühle, dich und deinen Körper und betrete dein ursprüngliches Kraftfeld, dein physiches Herz!"</p>
+<div> </div>
+<div><strong>Deine Vorteile als Affiliate:</strong></div>
+<div> </div>
+<ul>
+<li>25% Provision für jeden erzielten Verkauf</li>
+<li>Verbreite Ruhe, Entspannung &amp; Kraft!</li>
+</ul>
+<p> </p>
+<p>Unterstütze Menschen dabei, sich zu fühlen, zu entspannen, zur Ruhe- und ihre Kraft zu kommen!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.matrixreport.blog/die-herzreise/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48041/adminstore/
 - Sales page: https://www.matrixreport.blog/die-herzreise/
 - Vendor affiliate support: https://www.matrixreport.blog/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/547234/adminstore
@@ -76,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Herzreise | Geführte Meditation? — Typ: Downloads, Anbieter: Matrixreport, gelistet seit 2024-04-08
-- Wie viel kostet es? — 9.323392 USD
+- Wie viel kostet es? — 9.302592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

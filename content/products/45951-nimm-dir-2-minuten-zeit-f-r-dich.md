@@ -4,34 +4,34 @@ digistore24_product_id: 523760
 title: "Nimm dir 2 Minuten Zeit - für DICH!"
 vendor: "Deinechance"
 product_type: "Book (printed)"
-price: 11.19
+price: 11.17
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 7.83
+earnings_per_sale: 7.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Home & Garden","Profession & Job"]
 listed_since: "2023-11-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://www.dejansekulic.ch/nimm-dir2-minuten-zeit?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/45951/adminstore/"
 sales_page: "http://www.dejansekulic.ch/nimm-dir2-minuten-zeit"
 language: "de"
 ---
 # Nimm dir 2 Minuten Zeit - für DICH!
 
 > Product ID `45951` · Digistore24 productId `523760` · [HTML profile page](../../produkte/nimm-dir-2-minuten-zeit-f-r-dich-45951.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $11.19 (Single payment) |
+| Price | $11.17 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $7.83 |
+| Earnings/sale* | $7.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Deinechance |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hallo Lieber Affiliate Wenn du mein Buch bewirbst, darfst du dich auf 70% Provision pro verkauftem Buch (Taschenbuch) freuen :-) ...und dann 50% an den Folgeverkäufen, da es sich um einen Funnel handelt. Besuche über den Link gerne auch meine Affiliate Support Seite https://dejan-sekulic.com/partnerprogrammdort findest du jede Menge sehr gute und attraktive Werbemittel. Zu jeder Zeit ist unser Sup…
+**Vendor's marketplace description:** <p> </p>
+<p>Hallo Lieber Affiliate   <br />Wenn du mein Buch bewirbst, darfst du dich <strong>auf 70%</strong> <strong>Provision pro verkauftem Buch (Taschenbuch</strong>) freuen :-) ...und dann 50% an den Folgeverkäufen, da es sich um einen Funnel handelt.  </p>
+<p>Besuche über den Link gerne auch meine Affiliate Support Seite <a href="https://dejan-sekulic.com/partnerprogramm">https://dejan-sekulic.com/partnerprogramm</a><br />dort findest du jede Menge sehr gute und attraktive Werbemittel.  </p>
+<p>Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren.   <br /><br /><strong>Das bewirbst du:<br /><br /></strong>Dejan Sekulics Buch Nimm dir 2 Minuten Zeit - für DICH! </p>
+<p> </p>
+<h4><em><strong>Darauf dürfen sich deine Kundinnen und Kunden freuen:</strong></em></h4>
+<p><br />In diesem wunderbaren Buch erwarten den Leser herzergreifende und inspirierende Geschichten, die sein Leben bereichern werden. Schenke dir und deiner Seele täglich 2 Minuten deiner Zeit und tanke neue sowie aufbauende Energie!</p>
+<p> </p>
+<ul>
+<li>Hat auch dich dein Alltag ganz fest im Griff?</li>
+<li>Fühlst du dich manchmal überfordert, bist gestresst und rennst von Termin zu Termin?<br /><br /></li>
+</ul>
+<p>Dann gönne dir doch bitte jetzt eine kurze Auszeit!<br />Dieses Buch wird dich daran erinnern, was im Leben wirklich wichtig ist, und es wird dir dabei helfen, das Leben wieder zu genießen und wertzuschätzen. Es soll dich ein wenig wachrütteln und dir neue Sichtweisen vermitteln.</p>
+<p>Gleichzeitig soll es dich dabei unterstützen, die Herausforderungen des Alltags besser zu meistern. Nimm dir 2 Minuten Zeit - für DICH! - sei es DIR wert! </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.dejansekulic.ch/nimm-dir2-minuten-zeit?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/45951/adminstore/
 - Sales page: http://www.dejansekulic.ch/nimm-dir2-minuten-zeit
 - Vendor affiliate support: https://dejan-sekulic.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/523760/adminstore
@@ -73,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nimm dir 2 Minuten Zeit - für DICH!? — Typ: Book (printed), Anbieter: Deinechance, gelistet seit 2023-11-03
-- Wie viel kostet es? — 11.194794 USD
+- Wie viel kostet es? — 11.169819 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

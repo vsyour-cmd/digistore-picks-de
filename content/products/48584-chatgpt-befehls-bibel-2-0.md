@@ -4,16 +4,16 @@ digistore24_product_id: 553715
 title: "ChatGPT Befehls-Bibel 2.0"
 vendor: "ss-business"
 product_type: "E-books"
-price: 77.32
+price: 77.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 38.66
+earnings_per_sale: 38.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
 listed_since: "2024-05-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://florianschaefer.de/chatgpt-befehls-bibel-2-0/?aff=adminstore#aff=adminstore"
 sales_page: "https://florianschaefer.de/chatgpt-befehls-bibel-2-0/"
@@ -22,16 +22,16 @@ language: "de"
 # ChatGPT Befehls-Bibel 2.0
 
 > Product ID `48584` · Digistore24 productId `553715` · [HTML profile page](../../produkte/chatgpt-befehls-bibel-2-0-48584.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $77.32 (Single payment) |
+| Price | $77.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $38.66 |
+| Earnings/sale* | $38.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ss-business |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit der ChatGPT Befehls-Bibel kannst du hier täglich attraktive Provisionen verdienen... Provisionsmodell: 50% Provision auf das Frontend Produkt - 27€ 50% Provision auf Upsells - 29€ / 49€ 20% Provision auf Abos und Highprice - 9,90€ / 249€ Mit einem einzigen Verkauf kannst du 100€+ verdienen! --> Jetzt hier klicken und alle Infos & Launch-News auf Telegram erhalten (Klick) --> Hier gehts zur Par…
+**Vendor's marketplace description:** <p><strong>Mit der ChatGPT Befehls-Bibel kannst du hier täglich attraktive Provisionen verdienen...</strong></p>
+<p><span style="text-decoration:underline;"><strong>Provisionsmodell:</strong></span></p>
+<ul>
+<li>50% Provision auf das Frontend Produkt - 27€</li>
+<li>50% Provision auf Upsells - 29€ / 49€</li>
+<li>20% Provision auf Abos und Highprice - 9,90€ / 249€</li>
+</ul>
+<p><strong>Mit einem einzigen Verkauf kannst du 100€+ verdienen!</strong></p>
+<p><span style="color:#000000;"><strong><span style="background-color:#ff9900;"><a style="background-color:#ff9900;color:#000000;" href="https://t.me/+FcqlsbS4PSA4ZDZi" target="_blank" rel="noreferrer noopener">--&gt; Jetzt hier klicken und alle Infos &amp; Launch-News auf Telegram erhalten (Klick)</a></span></strong></span></p>
+<p><a href="https://florianschaefer.de/bb2.0/partnerprogramm/" target="_blank" rel="noreferrer noopener"><strong>--&gt; Hier gehts zur Partnerprogrammseite mit Werbemitteln!</strong></a></p>
 
 ## 2. Links
 
@@ -73,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ChatGPT Befehls-Bibel 2.0? — Typ: E-books, Anbieter: ss-business, gelistet seit 2024-05-23
-- Wie viel kostet es? — 77.3214 USD
+- Wie viel kostet es? — 77.14890000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

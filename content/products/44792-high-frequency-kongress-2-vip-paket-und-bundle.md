@@ -4,16 +4,16 @@ digistore24_product_id: 499480
 title: "High Frequency Kongress 2 - VIP Paket und Bundle"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 122.15
+price: 121.87
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 12.21
+earnings_per_sale: 12.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-05-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/499480?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/499480"
@@ -22,16 +22,16 @@ language: "de"
 # High Frequency Kongress 2 - VIP Paket und Bundle
 
 > Product ID `44792` · Digistore24 productId `499480` · [HTML profile page](../../produkte/high-frequency-kongress-2-vip-paket-und-bundle-44792.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $122.15 (Single payment, Installment) |
+| Price | $121.87 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $12.21 |
+| Earnings/sale* | $12.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Viele Menschen haben in den letzten Monaten erlebt, wie Ihre Frequenz massiv nach unten ging.Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut. Wie können wir diese Entwicklung stoppen und umdrehen? Die Antwort auf diese spannende Frage findest du beim High Frequency Kongress! ✨
+**Vendor's marketplace description:** <p>Viele Menschen haben in den letzten Monaten erlebt, wie Ihre Frequenz massiv nach unten ging.<br />Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut.</p>
+<p><strong>Wie können wir diese Entwicklung stoppen und umdrehen?</strong></p>
+<p>Die Antwort auf diese spannende Frage findest du beim <strong>High Frequency Kongress! ✨</strong></p>
 
 ## 2. Links
 
@@ -72,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist High Frequency Kongress 2 - VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2023-05-18
-- Wie viel kostet es? — 122.14540000000001 USD
+- Wie viel kostet es? — 121.87290000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

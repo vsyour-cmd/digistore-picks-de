@@ -4,34 +4,34 @@ digistore24_product_id: 147033
 title: "Partnerprogramm \"Digital University\""
 vendor: "netdesign2014"
 product_type: "Member area and video courses"
-price: 469.9
+price: 468.85
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 234.96
+earnings_per_sale: 234.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2017-06-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://online-marketing-site.de/digital-university-business/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/17491/adminstore/"
 sales_page: "https://online-marketing-site.de/digital-university-business/"
 language: "de"
 ---
 # Partnerprogramm "Digital University"
 
 > Product ID `17491` · Digistore24 productId `147033` · [HTML profile page](../../produkte/partnerprogramm-digital-university-17491.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $469.90 (Single payment, Installment) |
+| Price | $468.85 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $234.96 |
+| Earnings/sale* | $234.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | netdesign2014 |
@@ -41,11 +41,39 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Digital University (mit allem was du für ein erfolgreiches Online Business, eine erfolgreiche Website oder WebShop brauchst) 50% ProvisionAktueller Verkaufspreis 249,50€ > aktueller Verdienst pro Verkauf 124,75€ umfangreiches Paket bestehend aus hochwertigen Infoprodukten Werbemittel vorhanden Das Produkt In meiner Digital University bekommst du erprobte Onlinekurse, die dir zeigen wie du dir …
+**Vendor's marketplace description:** <h1>Die Digital University <br /><span style="font-size:14px;">(mit allem was du für ein erfolgreiches Online Business, eine erfolgreiche Website oder WebShop brauchst)</span></h1>
+<div>
+<ul>
+<li>50% Provision<br />Aktueller Verkaufspreis 249,50€ &gt; aktueller Verdienst pro Verkauf 124,75€</li>
+<li>umfangreiches Paket bestehend aus hochwertigen Infoprodukten</li>
+<li>Werbemittel vorhanden</li>
+</ul>
+<p> </p>
+<h2>Das Produkt</h2>
+<p>In meiner Digital University bekommst du erprobte Onlinekurse, die dir zeigen wie du dir ein eigenes Business aufbauen kannst, Online für mehr Verkäufe sorgst, den Traffic deiner Website steigerst und vieles mehr. </p>
+<p>Als Mitglied erhältst du <strong>sofort den Komplettzugang</strong> und kannst auf alle Inhalte zugreifen, inkl. künftigen Erweiterungen und neuen Kurse. (Dienstleistungen ausgeschlossen)</p>
+<p>Mir ist wichtig, dass du wirklich Erfolg mit meinen Strategien und Tipps hast. Deshalb lasse ich dich auch bei Fragen oder Problemen nicht allein. <strong>Persönlicher Support ist bei mir immer inklusive.</strong> Solltest du also Fragen haben oder einen Rat benötigen, kannst du mich jederzeit kontaktieren.</p>
+<p>Die Digital University beinhaltet zum Beispiel die folgenden Produkte:</p>
+<div>
+<ul>
+<li>SEO Traffic Strategie (im Wert von 359€)</li>
+<li>Die Einkommenrakete (im Wert von 157€)</li>
+<li>Das 1x1 des Online Business (im Wert von 49€)</li>
+<li>Mehr als 25 Möglichkeiten zum sofort Geld verdienen (im Wert von 49€)</li>
+<li>Thrive Themes - Die ultimative Anleitung (im Wert von 19€)</li>
+<li>Meine 11 besten Traffic Strategien (im Wert von 79€)</li>
+<li>Premium Content Strategien (im Wert von 29€)</li>
+<li>WordPress Website erstellen (im Wert von 29€)</li>
+<li>Der ultimative Video Sales Letter (im Wert von 49€)</li>
+<li>kostenlosen Zugriff auf alle künftigen Produkte von mir</li>
+</ul>
+</div>
+<p> </p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://online-marketing-site.de/digital-university-business/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/17491/adminstore/
 - Sales page: https://online-marketing-site.de/digital-university-business/
 - Vendor affiliate support: https://online-marketing-site.de/partner-werden-online-business-komplettpaket/
 - Canonical redirect: https://www.digistore24.com/redir/147033/adminstore
@@ -95,7 +123,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Partnerprogramm "Digital University"? — Typ: Member area and video courses, Anbieter: netdesign2014, gelistet seit 2017-06-28
-- Wie viel kostet es? — 469.901198 USD
+- Wie viel kostet es? — 468.85287300000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

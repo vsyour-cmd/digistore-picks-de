@@ -4,34 +4,34 @@ digistore24_product_id: 707365
 title: "Paket 3 PDF-Workbooks: Gespräche, Ruhe und Distanz"
 vendor: "mathiaswalecki190574dc"
 product_type: "Downloads"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.51
+earnings_per_sale: 12.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/707365?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57603/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/707365"
 language: "de"
 ---
 # Paket 3 PDF-Workbooks: Gespräche, Ruhe und Distanz
 
 > Product ID `57603` · Digistore24 productId `707365` · [HTML profile page](../../produkte/paket-3-pdf-workbooks-gespr-che-ruhe-und-distanz-57603.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.51 |
+| Earnings/sale* | $12.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mathiaswalecki190574dc |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digitales PDF-Workbook-Paket zum Download. Das Paket enthält drei PDF-Workbooks mit Reflexionsfragen, Schreibimpulsen und allgemeinen Gedankenmodellen zu schwierigen Gesprächen, persönlichen Grenzen, innerer Ruhe, Bewertungen, Sticheleien und bewusster Distanz. Die Produkte sind für Menschen gedacht, die ihre Reaktionen, Gedanken und Gefühle in alltäglichen Situationen besser verstehen und eigene …
+**Vendor's marketplace description:** <p>Digitales PDF-Workbook-Paket zum Download.</p>
+<p>Das Paket enthält drei PDF-Workbooks mit Reflexionsfragen, Schreibimpulsen und allgemeinen Gedankenmodellen zu schwierigen Gesprächen, persönlichen Grenzen, innerer Ruhe, Bewertungen, Sticheleien und bewusster Distanz.</p>
+<p>Die Produkte sind für Menschen gedacht, die ihre Reaktionen, Gedanken und Gefühle in alltäglichen Situationen besser verstehen und eigene Verhaltensmuster bewusster reflektieren möchten.</p>
+<p>Nach dem Kauf erhältst du die Dateien als digitalen Download über Digistore24.</p>
+<p>---</p>
+<p>Hinweis: Die Inhalte dienen der allgemeinen Selbstreflexion, persönlichen Weiterentwicklung und mentalen Wellness. Sie ersetzen keine psychologische, psychotherapeutische, medizinische, rechtliche oder sonstige professionelle Beratung. Es werden keine Diagnosen gestellt und keine bestimmten Ergebnisse, Verbesserungen, Heilungen oder therapeutischen Wirkungen versprochen.</p>
+<p>Rückgabe: 14 Tage gemäß Digistore24-Bestellformular.</p>
+<p>Es gilt eine Frist von 14 Tagen gemäß den Angaben im Digistore24-Bestellformular.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/707365?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57603/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/707365
 - Canonical redirect: https://www.digistore24.com/redir/707365/adminstore
 
@@ -71,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Paket 3 PDF-Workbooks: Gespräche, Ruhe und Distanz? — Typ: Downloads, Anbieter: mathiaswalecki190574dc, gelistet seit 2026-07-19
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

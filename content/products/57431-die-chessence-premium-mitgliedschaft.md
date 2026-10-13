@@ -4,34 +4,34 @@ digistore24_product_id: 471840
 title: "Die Chessence Premium-Mitgliedschaft"
 vendor: "Chessence"
 product_type: "Member area and video courses"
-price: 121.47
+price: 121.2
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 36.44
+earnings_per_sale: 36.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://chessence.de/premium/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57431/adminstore/"
 sales_page: "https://chessence.de/premium/"
 language: "de"
 ---
 # Die Chessence Premium-Mitgliedschaft
 
 > Product ID `57431` · Digistore24 productId `471840` · [HTML profile page](../../produkte/die-chessence-premium-mitgliedschaft-57431.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.47 (Subscription) |
+| Price | $121.20 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $36.44 |
+| Earnings/sale* | $36.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Chessence |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** >> CHESSENCE PREMIUM: HOCHWERTIGES SCHACHTRAINING MIT LIVE FEEDBACK, COMMUNITY UND STARKER ZIELGRUPPE Chessence Premium ist die intensive Mitgliedschaft für ambitionierte Schachspieler, die nicht nur Videokurse konsumieren möchten, sondern regelmäßiges Live Training, individuelles Feedback, Turnierpraxis und eine starke Community suchen. Für Affiliates ist Premium besonders interessant, weil es ei…
+**Vendor's marketplace description:** <h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bolder;color:#e66478;">&gt;&gt; CHESSENCE PREMIUM: HOCHWERTIGES SCHACHTRAINING MIT LIVE FEEDBACK, COMMUNITY UND STARKER ZIELGRUPPE</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Chessence Premium ist die intensive Mitgliedschaft für ambitionierte Schachspieler, die nicht nur Videokurse konsumieren möchten, sondern regelmäßiges Live Training, individuelles Feedback, Turnierpraxis und eine starke Community suchen. </span></p>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Für Affiliates ist Premium besonders interessant, weil es ein hochwertiges Membership Produkt mit klarer Zielgruppe ist. Es spricht Schachspieler an, die ernsthaft besser werden wollen und bereit sind, regelmäßig in ihr Training zu investieren. </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#e66478;">&gt;&gt; WARUM PREMIUM FÜR AFFILIATES SPANNEND IST:</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> • Hochwertiges Membership Produkt im Schachmarkt<br />• Klare und kaufbereite Zielgruppe mit echtem Trainingsbedarf<br />• Starke Positionierung durch GM Niclas Huschenbeth<br />• Kombination aus Online Training, Live Feedback und echten Events<br />• Wiederkehrender Nutzen durch wöchentliche Live Trainings<br />• Social Proof durch echte Erfolgsgeschichten und Ratingsprünge<br />• 14 Tage Geld zurück Garantie für weniger Kaufhürden </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#e66478;">&gt;&gt; WAS PREMIUM BEINHALTET:</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> • Mindestens 16 Live Gruppentrainings pro Monat mit erfahrenen Trainern<br />• 4 Live Seminartage pro Jahr mit GM Niclas Huschenbeth<br />• 4 Wochenend Turniere pro Jahr mit echter Praxiserfahrung<br />• 6 intensive Webinare pro Jahr mit Spitzentrainern<br />• Monatliche Erfolgsgespräche mit IM Dirk Schuh<br />• Zugriff auf die komplette Premium Bibliothek mit über 1000 Stunden Trainingsmaterial<br />• Die komplette Chessence Masterclass ist ebenfalls enthalten<br />• Aufzeichnungen aller Live Events, falls Mitglieder nicht live dabei sein können<br />• Zugang zur Chessence Community </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#e66478;">&gt;&gt; GEEIGNETER TRAFFIC:</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> • Schach YouTube Kanäle<br />• Schach Newsletter<br />• Schach Blogs und Portale<br />• Instagram, Facebook oder TikTok Seiten rund um Schach<br />• Schachvereine und Turnierspieler<br />• Communities rund um DWZ, Elo, Training und Turniervorbereitung<br />• Zielgruppen, die bereits aktiv trainieren, aber ohne klares System stagnieren </span></p>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Besonders gut funktioniert die Bewerbung bei Spielern, die ernsthaft stärker werden wollen, regelmäßiges Feedback suchen und nicht weiter planlos einzelne YouTube Videos, Bücher oder Datenbankanalysen konsumieren möchten. </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#4caf50;">Starkes Membership Produkt. Klare Zielgruppe. Hoher wahrgenommener Wert.</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:20px;line-height:1.6;"><span style="font-weight:600;"> Chessence Premium bietet Affiliates ein hochwertiges digitales Schachprodukt mit Live Training, Expertenstatus, Community, echten Events und einem klaren Nutzenversprechen für ambitionierte Spieler. </span></p>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Die genaue Provision für Affiliates wird direkt im Digistore24 Marktplatz angezeigt. </span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://chessence.de/premium/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57431/adminstore/
 - Sales page: https://chessence.de/premium/
 - Canonical redirect: https://www.digistore24.com/redir/471840/adminstore
 
@@ -99,7 +111,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Chessence Premium-Mitgliedschaft? — Typ: Member area and video courses, Anbieter: Chessence, gelistet seit 2026-07-06
-- Wie viel kostet es? — 121.47304000000001 USD
+- Wie viel kostet es? — 121.20204000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

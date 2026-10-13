@@ -4,34 +4,34 @@ digistore24_product_id: 693658
 title: "Der Ritualbaukasten: Abschied am Sterbebett"
 vendor: "Leene86"
 product_type: "E-books"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.19
+earnings_per_sale: 4.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://ritualbaukasten.my.canva.site/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57001/adminstore/"
 sales_page: "https://ritualbaukasten.my.canva.site/"
 language: "de"
 ---
 # Der Ritualbaukasten: Abschied am Sterbebett
 
 > Product ID `57001` · Digistore24 productId `693658` · [HTML profile page](../../produkte/der-ritualbaukasten-abschied-am-sterbebett-57001.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.19 |
+| Earnings/sale* | $4.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Leene86 |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Ritualbaukasten: Abschied am Sterbebett ist ein einfühlsamer Ratgeber für Menschen in der schwersten Zeit des Abschiednehmens. Als erfahrene Pflegefachkraft im Palliativbereich helfe ich Angehörigen mit praktischen Ritualen, diese intensive Phase friedvoll zu gestalten. Ein hochemotionales, wichtiges Thema mit einer großen, dankbaren Zielgruppe. Ich biete eine faire Provision und freue mich se…
+**Vendor's marketplace description:** <p>Der Ritualbaukasten: Abschied am Sterbebett ist ein einfühlsamer Ratgeber für Menschen in der schwersten Zeit des Abschiednehmens. Als erfahrene Pflegefachkraft im Palliativbereich helfe ich Angehörigen mit praktischen Ritualen, diese intensive Phase friedvoll zu gestalten. Ein hochemotionales, wichtiges Thema mit einer großen, dankbaren Zielgruppe. Ich biete eine faire Provision und freue mich sehr über eure Unterstützung!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ritualbaukasten.my.canva.site/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57001/adminstore/
 - Sales page: https://ritualbaukasten.my.canva.site/
 - Canonical redirect: https://www.digistore24.com/redir/693658/adminstore
 
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Ritualbaukasten: Abschied am Sterbebett? — Typ: E-books, Anbieter: Leene86, gelistet seit 2026-06-16
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

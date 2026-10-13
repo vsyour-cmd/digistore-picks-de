@@ -4,16 +4,16 @@ digistore24_product_id: 727265
 title: "Das Karriere Master-Kit für das praktische Jahr im Ausland"
 vendor: "VeloxForge"
 product_type: "E-books"
-price: 82.73
+price: 82.55
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.37
+earnings_per_sale: 41.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://auranit.de/praktisches-jahr-im-ausland/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/praktisches-jahr-im-ausland/"
@@ -22,16 +22,16 @@ language: "de"
 # Das Karriere Master-Kit für das praktische Jahr im Ausland
 
 > Product ID `59064` · Digistore24 productId `727265` · [HTML profile page](../../produkte/das-karriere-master-kit-f-r-das-praktische-jahr-im-ausland-59064.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $82.73 (Single payment) |
+| Price | $82.55 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.37 |
+| Earnings/sale* | $41.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Karriere-Masterkit PJ Schweiz & USA – Dein Leitfaden für Tertial-Bewerbungen, Visum und klinischen Alltag im Ausland Das Karriere-Masterkit für das PJ in der Schweiz und den USA gibt dir einen strukturierten Überblick über Bewerbungsfristen, Formalitäten, Prüfungsvoraussetzungen und Visumsverfahren – mit fertigen Vorlagen auf Deutsch und Englisch. Sofort als PDF verfügbar. Das ist enthalten: Schri…
+**Vendor's marketplace description:** <p><strong>Karriere-Masterkit PJ Schweiz &amp; USA – Dein Leitfaden für Tertial-Bewerbungen, Visum und klinischen Alltag im Ausland</strong></p>
+<p>Das Karriere-Masterkit für das PJ in der Schweiz und den USA gibt dir einen strukturierten Überblick über Bewerbungsfristen, Formalitäten, Prüfungsvoraussetzungen und Visumsverfahren – mit fertigen Vorlagen auf Deutsch und Englisch. Sofort als PDF verfügbar.</p>
+<p>Das ist enthalten:</p>
+<ul>
+<li>Schritt-für-Schritt-Anleitung zur Bewerbung an Schweizer Kantons- und Spitalspitälern</li>
+<li>Überblick zu USMLE Step 1 &amp; 2 CK, ECFMG-Sponsoring und J-1 Visum für die USA</li>
+<li>Anleitung zur Nutzung von VSLO/eQual-Bewerbungsportalen</li>
+<li>Hinweise zu Aufenthaltsbewilligung, ZSR-Nummer und Versicherung (Schweiz)</li>
+<li>Muster-Anschreiben auf Deutsch (Schweiz) und Englisch (USA)</li>
+<li>Internationaler Lebenslauf im CV-Format für Auslandsbewerbungen</li>
+</ul>
+<p>Sofortiger Download – kein Abo, keine versteckten Kosten.</p>
 
 ## 2. Links
 
@@ -80,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Karriere Master-Kit für das praktische Jahr im Ausland? — Typ: E-books, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 82.733898 USD
+- Wie viel kostet es? — 82.549323 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

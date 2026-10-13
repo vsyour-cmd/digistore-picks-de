@@ -4,34 +4,34 @@ digistore24_product_id: 88925
 title: "Das Geheimnis der Faszienrolle"
 vendor: "EquilibriumState"
 product_type: "Downloads"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.07
+earnings_per_sale: 23.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2016-07-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://es-welt.de/das-geheimnis-der-faszienrolle-2/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12377/adminstore/"
 sales_page: "http://es-welt.de/das-geheimnis-der-faszienrolle-2/"
 language: "de"
 ---
 # Das Geheimnis der Faszienrolle
 
 > Product ID `12377` · Digistore24 productId `88925` · [HTML profile page](../../produkte/das-geheimnis-der-faszienrolle-12377.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.07 |
+| Earnings/sale* | $23.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EquilibriumState |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lerne in diesem Videokurs, wie du deine Faszienrolle oder Faszienbälle wirklich effektiv einsetzt und komm hinter das Geheimnis der Faszienrolle. Du bekommst effektive Praxisbeispiele und das nötige Know-How um selbst deine individuellen Übungen zu generieren. Profitiere von mehr als 10 Jahren Erfahrung als Faszien- und Bewegungsexperte.
+**Vendor's marketplace description:** <p>Lerne in diesem Videokurs, wie du deine Faszienrolle oder Faszienbälle wirklich effektiv einsetzt und komm hinter das Geheimnis der Faszienrolle. <br /><br />Du bekommst effektive Praxisbeispiele und das nötige Know-How um selbst deine individuellen Übungen zu generieren. Profitiere von mehr als 10 Jahren Erfahrung als Faszien- und Bewegungsexperte.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://es-welt.de/das-geheimnis-der-faszienrolle-2/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12377/adminstore/
 - Sales page: http://es-welt.de/das-geheimnis-der-faszienrolle-2/
 - Canonical redirect: https://www.digistore24.com/redir/88925/adminstore
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Geheimnis der Faszienrolle? — Typ: Downloads, Anbieter: EquilibriumState, gelistet seit 2016-07-25
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

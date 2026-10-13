@@ -4,34 +4,34 @@ digistore24_product_id: 702688
 title: "GZ Survival Kompass – 9 Survival-Apps offline, für 17,90€ ei"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 16.85
+price: 16.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.43
+earnings_per_sale: 8.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2026-07-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.gz-ai-stacks.de/Survival-Kompass/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57703/adminstore/"
 sales_page: "https://www.gz-ai-stacks.de/Survival-Kompass/"
 language: "de"
 ---
 # GZ Survival Kompass – 9 Survival-Apps offline, für 17,90€ ei
 
 > Product ID `57703` · Digistore24 productId `702688` · [HTML profile page](../../produkte/gz-survival-kompass-9-survival-apps-offline-f-r-17-90-ei-57703.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $16.85 (Single payment) |
+| Price | $16.82 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.43 |
+| Earnings/sale* | $8.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gzaistacks2aae |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** interaktive Survival-Module direkt im Browser, komplett offline nutzbar: Heilpflanzen erkennen, Feuer machen, Wasser aufbereiten, Shelter bauen, Erste Hilfe. Zielgruppe: Prepper, Outdoor-Fans, Wanderer, alle mit Interesse an Selbstversorgung/Wildnis-Wissen. Niedriger Preis sorgt für hohe Impulskauf-Rate. Kein Abo, keine Cloud, funktioniert auch ganz ohne Internet unterwegs.
+**Vendor's marketplace description:** <p>interaktive Survival-Module direkt im Browser, komplett offline nutzbar: Heilpflanzen erkennen, Feuer machen, Wasser aufbereiten, Shelter bauen, Erste Hilfe. Zielgruppe: Prepper, Outdoor-Fans, Wanderer, alle mit Interesse an Selbstversorgung/Wildnis-Wissen. Niedriger Preis sorgt für hohe Impulskauf-Rate. Kein Abo, keine Cloud, funktioniert auch ganz ohne Internet unterwegs.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.gz-ai-stacks.de/Survival-Kompass/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57703/adminstore/
 - Sales page: https://www.gz-ai-stacks.de/Survival-Kompass/
 - Canonical redirect: https://www.digistore24.com/redir/702688/adminstore
 
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GZ Survival Kompass – 9 Survival-Apps offline, für 17,90€ ei? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-07-23
-- Wie viel kostet es? — 16.853824 USD
+- Wie viel kostet es? — 16.816224000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

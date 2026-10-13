@@ -4,34 +4,34 @@ digistore24_product_id: 162937
 title: "eBook und/oder Hörbuch \"Geld verdienen mit Immobilien\""
 vendor: "Jederkannimmobilien"
 product_type: "E-books"
-price: 20.63
+price: 20.58
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 6.81
+earnings_per_sale: 6.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2017-09-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.jeder-kann-immobilien.de/v/mit-immobilien-geld-verdienen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/25583/adminstore/"
 sales_page: "https://www.jeder-kann-immobilien.de/v/mit-immobilien-geld-verdienen/"
 language: "de"
 ---
 # eBook und/oder Hörbuch "Geld verdienen mit Immobilien"
 
 > Product ID `25583` · Digistore24 productId `162937` · [HTML profile page](../../produkte/ebook-und-oder-h-rbuch-geld-verdienen-mit-immobilien-25583.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.63 (Single payment) |
+| Price | $20.58 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $6.81 |
+| Earnings/sale* | $6.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jederkannimmobilien |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sehr viele Menschen würden gerne in Immobilien investieren, aber sie wissen nicht, wie sie anfangen sollen. Ihnen fehlen sowohl Informationen als auch die ersten Schritte. Dieses eBook bzw. Hörbuch beschreibt chronologisch alle Schritte eines erfolgreichen Investments, von den Vorüberlegungen bis zur Übergabe des Objektes. Der reguläre Verkaufspreis für dieses Produkt liegt bei 19,70 € für das eBo…
+**Vendor's marketplace description:** <p>Sehr viele Menschen würden gerne in Immobilien investieren, aber sie wissen nicht, wie sie anfangen sollen. Ihnen fehlen sowohl Informationen als auch die ersten Schritte. Dieses eBook bzw. Hörbuch beschreibt chronologisch alle Schritte eines erfolgreichen Investments, von den Vorüberlegungen bis zur Übergabe des Objektes.</p>
+<p>Der reguläre Verkaufspreis für dieses Produkt liegt bei 19,70 € für das eBook und 27,- € für das Hörbuch. Das eBook und das Hörbuch zusammen kosten ebenfalls 27,- €. Bei Upsells gelten die gleichen Preise. Alle Preise inkl. MWST. Du bekommst 33 % Affiliateprovision.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.jeder-kann-immobilien.de/v/mit-immobilien-geld-verdienen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/25583/adminstore/
 - Sales page: https://www.jeder-kann-immobilien.de/v/mit-immobilien-geld-verdienen/
 - Vendor affiliate support: https://www.jeder-kann-immobilien.de/affiliateprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/162937/adminstore
@@ -95,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook und/oder Hörbuch "Geld verdienen mit Immobilien"? — Typ: E-books, Anbieter: Jederkannimmobilien, gelistet seit 2017-09-11
-- Wie viel kostet es? — 20.630246 USD
+- Wie viel kostet es? — 20.584221000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

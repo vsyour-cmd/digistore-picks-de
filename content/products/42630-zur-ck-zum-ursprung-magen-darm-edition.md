@@ -4,16 +4,16 @@ digistore24_product_id: 450636
 title: "„Zurück zum Ursprung - Magen Darm Edition“"
 vendor: "phoenix999"
 product_type: "Member area and video courses"
-price: 429.94
+price: 428.98
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 127.22
+earnings_per_sale: 126.94
 cart_conversion_pct: 17
 cancel_rate_pct: 2.38
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-07-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://andreas-goldemann.mykajabi.com/magen-darm-edition-e?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-goldemann.mykajabi.com/magen-darm-edition-e"
@@ -22,16 +22,16 @@ language: "de"
 # „Zurück zum Ursprung - Magen Darm Edition“
 
 > Product ID `42630` · Digistore24 productId `450636` · [HTML profile page](../../produkte/zur-ck-zum-ursprung-magen-darm-edition-42630.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $429.94 (Single payment, Installment) |
+| Price | $428.98 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $127.22 |
+| Earnings/sale* | $126.94 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.38% |
 | Vendor | phoenix999 |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die „Zurück zum Ursprung – Magen Darm Edition“ hilft Deinen Fans Magen-Darm-Probleme auf eine ganz einfache Art und Weise zu lösen. Das bringt wieder Ruhe, Leichtigkeit und Energie in den Körper, um das Leben in Freude und Wohlbefinden zu genießen. Der Kurs beruht auf dem bewährten Erfolgsprinzip von „Zurück zum Ursprung“. Aufgrund der einzigartigen Arbeitsweise von Andreas Goldemann wird in über …
+**Vendor's marketplace description:** <p>Die „Zurück zum Ursprung – Magen Darm Edition“ hilft Deinen Fans Magen-Darm-Probleme auf eine ganz einfache Art und Weise zu lösen.</p>
+<p>Das bringt wieder Ruhe, Leichtigkeit und Energie in den Körper, um das Leben in Freude und Wohlbefinden zu genießen.</p>
+<p>Der Kurs beruht auf dem bewährten Erfolgsprinzip von „Zurück zum Ursprung“. Aufgrund der einzigartigen Arbeitsweise von Andreas Goldemann wird in über 40 Transformationssessions schrittweise Dein ganzes System resettet, damit dieses seine Arbeit wieder ungehindert aufnehmen kann.</p>
+<p>Was erwartet Dich?</p>
+<ul>
+<li><strong>33 % Provision:</strong> Beim derzeitigen Verkaufspreis von 397 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer <strong>103,21 € (Netto)</strong> <strong>für Dich</strong> pro Vermittlung!</li>
+<li><strong>20 % Lifetime-Provision für Folgeprodukte</strong>, die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft.</li>
+<li><strong>Funnel </strong> mit 2 Freebies, Verknappung und toller Conversion.</li>
+</ul>
+<p>Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen.</p>
+<p><strong>Werde jetzt unser Partner</strong> und empfiehl Deinen Fans die „Zurück zum Ursprung - Magen Darm Edition“, damit sie mehr Freude und Wohlbefinden in ihr Leben holen.</p>
 
 ## 2. Links
 
@@ -83,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Zurück zum Ursprung - Magen Darm Edition“? — Typ: Member area and video courses, Anbieter: phoenix999, gelistet seit 2022-07-11
-- Wie viel kostet es? — 429.940602 USD
+- Wie viel kostet es? — 428.98142700000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

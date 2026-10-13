@@ -4,16 +4,16 @@ digistore24_product_id: 647619
 title: "Email Marketing Automations: Smarte Kampagnen und Funnels er"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 336.18
+price: 335.43
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 100.85
+earnings_per_sale: 100.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2025-11-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/300euro-monat-5stunde-automat-diensleistungen-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/300euro-monat-5stunde-automat-diensleistungen-digistore24/"
@@ -22,16 +22,16 @@ language: "de"
 # Email Marketing Automations: Smarte Kampagnen und Funnels er
 
 > Product ID `54636` · Digistore24 productId `647619` · [HTML profile page](../../produkte/email-marketing-automations-smarte-kampagnen-und-funnels-er-54636.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $336.18 (Subscription) |
+| Price | $335.43 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $100.85 |
+| Earnings/sale* | $100.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -41,7 +41,48 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** EMAIL MARKETING – KAMPAGNEN & FUNNELS ERSTELLEN & PFLEGE 300€/Monat (Paket Automat A2 = 5Stunden/Monat) ABO / Kündbar / Down-Updatebar #0 Einrichtung & Pflege von Automationen #1 E-Mail-Sequenzen & Newsletter-Erstellung #2 Analyse & Optimierung deiner Funnels #3 Technische Integration & Verknüpfung #4 Segmentierung & Tagging #5 Beratung & Strategie-Calls #6 Pflege / Betreuung / Unterstützung #7 Re…
+**Vendor's marketplace description:** <div>
+<div>
+<h1><span style="color:#993300;">EMAIL MARKETING – KAMPAGNEN &amp; FUNNELS </span></h1>
+<h1>ERSTELLEN &amp; PFLEGE</h1>
+<h1>  <span style="color:#ff6600;">300€/Monat </span></h1>
+<div>
+<div>
+<p><span style="color:#999999;">(Paket Automat A2 = 5Stunden/Monat)</span></p>
+</div>
+</div>
+<h1>ABO / Kündbar / Down-Updatebar  </h1>
+<p> </p>
+</div>
+</div>
+<div>
+<div>
+<ul>
+<li>
+<ul>
+<li>#0 Einrichtung &amp; Pflege von Automationen</li>
+<li>#1 E-Mail-Sequenzen &amp; Newsletter-Erstellung</li>
+<li>  #2 Analyse &amp; Optimierung deiner Funnels  </li>
+<li>  #3 Technische Integration &amp; Verknüpfung  </li>
+<li>#4 Segmentierung &amp; Tagging</li>
+<li>  #5 Beratung &amp; Strategie-Calls</li>
+<li> </li>
+<li> #6 Pflege / Betreuung / Unterstützung</li>
+<li>  #7 Reporting &amp; Fortschrittsübersicht  </li>
+<li>  #8 Texterstellung &amp; Optimierung (optional)  </li>
+<li>  #9 Support &amp; technische Fehlerbehebung  </li>
+<li>  #10 Erweiterungen &amp; Extras</li>
+<li>  #11 Landingpages erstellen und jede Art von Pages  </li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<p> </p>
+<ul>
+<li>Schauen Sie hier unsere Infos &amp; Video, was können wir für Euch tun sehr günstig</li>
+</ul>
+</div>
+</div>
 
 ## 2. Links
 
@@ -93,7 +134,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Email Marketing Automations: Smarte Kampagnen und Funnels er? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2025-11-11
-- Wie viel kostet es? — 336.18 USD
+- Wie viel kostet es? — 335.43 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

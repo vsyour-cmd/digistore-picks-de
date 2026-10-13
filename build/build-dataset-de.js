@@ -70,7 +70,12 @@ if (cats) for (const c of cats.categories) {
   }
 }
 
+// 官方推广链接(2026-10-13 经 /v2/api/marketplace/promolink/{id} 全量获取,平台生成的权威链接)
+const officialLinks = read("promolinks-de.json") || {};
+
 function promoLink(p) {
+  // 0. 平台官方生成的推广链接(权威,自动跟随厂商变更)
+  if (officialLinks[String(p.id)]) return officialLinks[String(p.id)];
   if (promoUpdates[String(p.productId)]) return promoUpdates[String(p.productId)].promo;
   if (promoUpdates[String(p.id)]) return promoUpdates[String(p.id)].promo;
   const s = p.salesPageUrl || "";

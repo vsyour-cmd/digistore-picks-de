@@ -4,34 +4,34 @@ digistore24_product_id: 606598
 title: "ICH KANN DAS. von Bodo Schäfer Buch (gedruckt)"
 vendor: "BodoSchaefer"
 product_type: "Book (printed)"
-price: 6.28
+price: 6.26
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.49
+earnings_per_sale: 5.48
 cart_conversion_pct: 12
 cancel_rate_pct: 0.56
 categories: ["Marketing Services"]
 listed_since: "2025-04-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://buch.bodoschaefer.de/ich-kann-das-bestellen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52105/adminstore/"
 sales_page: "https://buch.bodoschaefer.de/ich-kann-das-bestellen/"
 language: "de"
 ---
 # ICH KANN DAS. von Bodo Schäfer Buch (gedruckt)
 
 > Product ID `52105` · Digistore24 productId `606598` · [HTML profile page](../../produkte/ich-kann-das-von-bodo-sch-fer-buch-gedruckt-52105.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $6.28 (Single payment) |
+| Price | $6.26 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.49 |
+| Earnings/sale* | $5.48 |
 | Cart conversion* | 12% |
 | Cancel rate* | 0.56% |
 | Vendor | BodoSchaefer |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bodo Schäfer – Europas Moneycoach Nr. 1 – verschenkt sein Bestseller-Buch: „ICH KANN DAS.“ Für dich als Affiliate bedeutet das: 5 € netto Provision pro verschenktem Buch 80 % Provision auf zwei extrem attraktive Upsells: Turbo-Paket „ICH KANN DAS.“→ Dein Anteil: 80 % von 47 € Online-Live-Seminar „Aufbruch“→ Dein Anteil: 80 % von 197 € Warum Affiliates hier stark profitieren: Europas bekanntester M…
+**Vendor's marketplace description:** <p><strong>Bodo Schäfer – Europas Moneycoach Nr. 1 – verschenkt sein Bestseller-Buch:</strong></p>
+<p><strong>„ICH KANN DAS.“</strong></p>
+<p> </p>
+<p>Für dich als Affiliate bedeutet das:</p>
+<p><strong>5 € netto Provision pro verschenktem Buch</strong></p>
+<p><strong>80 % Provision auf zwei extrem attraktive Upsells:</strong></p>
+<p>Turbo-Paket „ICH KANN DAS.“<br />→ Dein Anteil: 80 % von 47 €</p>
+<p>Online-Live-Seminar „Aufbruch“<br />→ Dein Anteil: 80 % von 197 €</p>
+<p> </p>
+<p><strong>Warum Affiliates hier stark profitieren:</strong></p>
+<p>Europas bekanntester Moneycoach = Top-Marke mit maximalem Vertrauen<br />Kostenloses Buch = extrem niedrige Einstiegshürde &amp; hohe Conversion<br />Attraktive Kombination: Fixe 5 € pro Buch + satte Upsell-Provisionen<br />Sofort einsatzbereite Werbemittel, einfache Abwicklung &amp; starke Community</p>
+<p>Jetzt einsteigen, Link platzieren und von jeder Bestellung profitieren!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://buch.bodoschaefer.de/ich-kann-das-bestellen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52105/adminstore/
 - Sales page: https://buch.bodoschaefer.de/ich-kann-das-bestellen/
 - Vendor affiliate support: https://www.bodoschaefer.de/partnerprogramm-werbemittel/
 - Canonical redirect: https://www.digistore24.com/redir/606598/adminstore
@@ -69,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ICH KANN DAS. von Bodo Schäfer Buch (gedruckt)? — Typ: Book (printed), Anbieter: BodoSchaefer, gelistet seit 2025-04-10
-- Wie viel kostet es? — 6.27536 USD
+- Wie viel kostet es? — 6.26136 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

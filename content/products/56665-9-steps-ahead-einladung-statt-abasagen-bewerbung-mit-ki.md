@@ -4,34 +4,34 @@ digistore24_product_id: 530810
 title: "9 Steps Ahead - Einladung statt Abasagen: Bewerbung mit KI"
 vendor: "ScheutzConsulting"
 product_type: "Member area and video courses"
-price: 23.44
+price: 23.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.72
+earnings_per_sale: 11.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-05-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.scheutzconsulting.at/bewerbung-mit-ki-optimieren/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56665/adminstore/"
 sales_page: "https://www.scheutzconsulting.at/bewerbung-mit-ki-optimieren/"
 language: "de"
 ---
 # 9 Steps Ahead - Einladung statt Abasagen: Bewerbung mit KI
 
 > Product ID `56665` · Digistore24 productId `530810` · [HTML profile page](../../produkte/9-steps-ahead-einladung-statt-abasagen-bewerbung-mit-ki-56665.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.44 (Single payment) |
+| Price | $23.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.72 |
+| Earnings/sale* | $11.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ScheutzConsulting |
@@ -41,11 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 9 Steps Ahead – Einladung statt Absagen: Bewerbung mit KI Mit diesem Online-Kurs lernst du Schritt für Schritt, wie du deine Bewerbung mit Hilfe von KI professionell optimierst damit du wieder Einladungen zum Bewerbungsgespräch bekommst. Du erfährst, wie du wichtige ATS-Keywords aus Stellenausschreibungen erkennst, deinen Lebenslauf gezielt anpasst, ein überzeugendes Anschreiben erstellst und dein…
+**Vendor's marketplace description:** <p><strong>9 Steps Ahead – Einladung statt Absagen: Bewerbung mit KI</strong></p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Mit diesem Online-Kurs lernst du Schritt für Schritt, wie du deine Bewerbung mit Hilfe von KI professionell optimierst damit du wieder Einladungen zum Bewerbungsgespräch bekommst.</p>
+<p>Du erfährst, wie du wichtige ATS-Keywords aus Stellenausschreibungen erkennst, deinen Lebenslauf gezielt anpasst, ein überzeugendes Anschreiben erstellst und deine Bewerbungsunterlagen professionell per E-Mail versendest.</p>
+<p>Zusätzlich zeige ich dir, worauf ein gutes Bewerbungsfoto achten sollte und wie du mit KI ein professionelles Business-Foto für deine Bewerbung erstellen kannst.</p>
+<p>Der Kurs besteht aus <strong>3 Modulen mit insgesamt 15 Lektionen</strong> und ist so aufgebaut, dass du die Inhalte einfach nachvollziehen und direkt für deine eigene Bewerbung umsetzen kannst.</p>
+<p><strong>Du lernst im Kurs:</strong></p>
+<p>✓ ATS-Keywords aus Stellenanzeigen erkennen<br />✓ Lebenslauf ATS-freundlich optimieren<br />✓ Anschreiben mit KI professionell erstellen<br />✓ Bewerbungsfoto mit KI verbessern oder erstellen<br />✓ Bewerbungsunterlagen professionell per E-Mail versenden</p>
+<p>Nach dem Kauf erhältst du deine Zugangsdaten zum Online-Kurs per E-Mail.</p>
+<p><strong>Ideal für Jobsuchende, die ihre Bewerbung moderner, klarer und passender zur gewünschten Stelle gestalten möchten.</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.scheutzconsulting.at/bewerbung-mit-ki-optimieren/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56665/adminstore/
 - Sales page: https://www.scheutzconsulting.at/bewerbung-mit-ki-optimieren/
 - Canonical redirect: https://www.digistore24.com/redir/530810/adminstore
 
@@ -58,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 9 Steps Ahead - Einladung statt Abasagen: Bewerbung mit KI? — Typ: Member area and video courses, Anbieter: ScheutzConsulting, gelistet seit 2026-05-24
-- Wie viel kostet es? — 23.442952000000002 USD
+- Wie viel kostet es? — 23.390652000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

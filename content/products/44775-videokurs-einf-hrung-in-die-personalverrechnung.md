@@ -4,34 +4,34 @@ digistore24_product_id: 414286
 title: "Videokurs: Einführung in die Personalverrechnung"
 vendor: "Steinkellner"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 36.91
+earnings_per_sale: 36.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2021-11-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.lern-impuls.at/einfuehrung-in-die-personalverrechnung/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/44775/adminstore/"
 sales_page: "https://www.lern-impuls.at/einfuehrung-in-die-personalverrechnung/"
 language: "de"
 ---
 # Videokurs: Einführung in die Personalverrechnung
 
 > Product ID `44775` · Digistore24 productId `414286` · [HTML profile page](../../produkte/videokurs-einf-hrung-in-die-personalverrechnung-44775.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $36.91 |
+| Earnings/sale* | $36.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Steinkellner |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Videokurs: Einführung in die Personalverrechnung Empfehle unseren Videokurs weiter und erfreue dich an attraktiven Vorteilen: ---> 80 % Provision ---> wachsende Plattform ---> Cross Selling von verwandten Produkten ---> monatlich neue Inhalte verfügbar ---> schnelle Problembearbeitung durch unseren Affiliate-Manager Verdiene jetzt mit unseren Videokursen, e-Books und Seminaren ein Leben lang. Info…
+**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>Videokurs: Einführung in die Personalverrechnung</strong></span></p>
+<p>Empfehle unseren Videokurs weiter und erfreue dich an attraktiven Vorteilen:</p>
+<p>---&gt; 80 % Provision</p>
+<p>---&gt; wachsende Plattform</p>
+<p>---&gt; Cross Selling von verwandten Produkten</p>
+<p>---&gt; monatlich neue Inhalte verfügbar</p>
+<p>---&gt; schnelle Problembearbeitung durch unseren Affiliate-Manager</p>
+<p> </p>
+<p>Verdiene jetzt mit unseren Videokursen, e-Books und Seminaren ein Leben lang.</p>
+<p>Informiere dich auf unserer Seite: <a title="Geld verdienen mit lern-impuls" href="https://www.lern-impuls.at/geld-verdienen-mit-lern-impuls/" target="_blank" rel="noreferrer noopener">https://www.lern-impuls.at/geld-verdienen-mit-lern-impuls/</a></p>
+<p> </p>
+<p>Deine </p>
+<p>Karin von lern-impuls</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.lern-impuls.at/einfuehrung-in-die-personalverrechnung/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/44775/adminstore/
 - Sales page: https://www.lern-impuls.at/einfuehrung-in-die-personalverrechnung/
 - Canonical redirect: https://www.digistore24.com/redir/414286/adminstore
 
@@ -66,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs: Einführung in die Personalverrechnung? — Typ: Member area and video courses, Anbieter: Steinkellner, gelistet seit 2021-11-01
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

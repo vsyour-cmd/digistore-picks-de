@@ -4,16 +4,16 @@ digistore24_product_id: 470139
 title: "Rosenmeditation aus meinem Buch Erste Hilfe für die Liebe"
 vendor: "go2msb"
 product_type: "Audio book (download)"
-price: 20.94
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 2.1
+earnings_per_sale: 2.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2022-11-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/470139?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/470139"
@@ -22,16 +22,16 @@ language: "de"
 # Rosenmeditation aus meinem Buch Erste Hilfe für die Liebe
 
 > Product ID `41792` · Digistore24 productId `470139` · [HTML profile page](../../produkte/rosenmeditation-aus-meinem-buch-erste-hilfe-f-r-die-liebe-41792.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $20.94 (Single payment) |
+| Price | $20.90 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $2.10 |
+| Earnings/sale* | $2.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | go2msb |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Meditation „Herzöffnung“ In jeder Beziehung kommt es darauf an, die Fähigkeit zur Toleranz zu entwickeln bzw. sich auf die Unterschiede zwischen sich und dem anderen explizit einzulassen. Sie tun sich selbst den allergrößten Gefallen, wenn Sie Ihr Herz öffnen und Ihren Partner nicht zurückweisen, weil er anders ist als Sie. Dadurch ergreifen Sie für sich selbst eine Chance, Ihre persönliche Wahrne…
+**Vendor's marketplace description:** <p>Meditation „Herzöffnung“ <br />In jeder Beziehung kommt es darauf an, die Fähigkeit zur Toleranz zu entwickeln bzw. sich auf die Unterschiede zwischen sich und dem anderen explizit einzulassen. Sie tun sich selbst den allergrößten Gefallen, wenn Sie Ihr Herz öffnen und Ihren Partner nicht zurückweisen, weil er anders ist als Sie. Dadurch ergreifen Sie für sich selbst eine Chance, Ihre persönliche Wahrnehmung zu schärfen und Ihre empathische Fähigkeit zu vertiefen, was sogar richtig gesund für Ihr Herz ist! Denn wenn Sie ein „enges“ Herzgefühl in sich tragen, kann das Ihr physisches Herz schwächen. Wenn Sie Ihre Gefühlswelt weiten, werden Sie nicht nur lange vital bleiben, sondern auch Zufriedenheit und Glück in Ihren Beziehungen erfahren. Der Herzraum ist eine enorme Kraftquelle, denn kein anderes Energiefeld ist so aktiv und stark!</p>
 
 ## 2. Links
 
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rosenmeditation aus meinem Buch Erste Hilfe für die Liebe? — Typ: Audio book (download), Anbieter: go2msb, gelistet seit 2022-11-16
-- Wie viel kostet es? — 20.944014000000003 USD
+- Wie viel kostet es? — 20.897289000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

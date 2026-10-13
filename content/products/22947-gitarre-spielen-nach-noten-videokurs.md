@@ -4,34 +4,34 @@ digistore24_product_id: 203735
 title: "Gitarre spielen nach Noten (Videokurs)"
 vendor: "musiklehrer"
 product_type: "Member area and video courses"
-price: 101.82
+price: 101.59
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 26.51
+earnings_per_sale: 26.45
 cart_conversion_pct: 17
 cancel_rate_pct: 2.66
 categories: ["Dancing & Music"]
 listed_since: "2018-02-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://www.gitarrenvideounterricht.de/kurse/gitarre-spielen-nach-noten/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/22947/adminstore/"
 sales_page: "http://www.gitarrenvideounterricht.de/kurse/gitarre-spielen-nach-noten/"
 language: "de"
 ---
 # Gitarre spielen nach Noten (Videokurs)
 
 > Product ID `22947` · Digistore24 productId `203735` · [HTML profile page](../../produkte/gitarre-spielen-nach-noten-videokurs-22947.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $101.82 (Single payment) |
+| Price | $101.59 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $26.51 |
+| Earnings/sale* | $26.45 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.66% |
 | Vendor | musiklehrer |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein Videokurs für Gitarristen, egal ob Anfänger oder Fortgeschrittene, zum Erlernen des Gitarrenspiels nach Noten. Der professionelle Gitarrenlehrer Christian Konrad (Studium HfM Dresden) vermittelt in diesem Kurs über eine Dauer von 10 Wochen die Grundlagen des Notenspiels. Die einzelnen Lektionen bestehend aus Videos, Übungsstücken und schriftlichem Begleitmaterial werden im wöchentlichen Rhythm…
+**Vendor's marketplace description:** <p>Ein Videokurs für Gitarristen, egal ob Anfänger oder Fortgeschrittene, zum Erlernen des Gitarrenspiels nach Noten. Der professionelle Gitarrenlehrer Christian Konrad (Studium HfM Dresden) vermittelt in diesem Kurs über eine Dauer von 10 Wochen die Grundlagen des Notenspiels. Die einzelnen Lektionen bestehend aus Videos, Übungsstücken und schriftlichem Begleitmaterial werden im wöchentlichen Rhythmus freigeschaltet.</p>
+<p>Inhalt:</p>
+<ul><li>10 Wochen lang je eine neue Videolektion (insgesamt über 3 Stunden Laufzeit)</li>
+<li>50 Etüden (Übungsstücke) PDF</li>
+<li>schriftliche Unterlagen zu jeder Lektion</li>
+<li>persönlicher Support bei Fragen (Kommentarfunktion)</li>
+<li>zeitlich unbegrenzter Zugang zum Kurs</li>
+<li>auf Wusch auch gleich komplette Freischaltung aller Materialien</li>
+</ul><p><a title="Erfahrungen &amp; Bewertungen zu Gitarrenvideounterricht anzeigen" href="https://www.provenexpert.com/gitarrenvideounterricht/?utm_source=Widget&amp;utm_medium=Widget&amp;utm_campaign=Widget" target="_blank" rel="noreferrer noopener"><img style="border:0;" src="https://images.provenexpert.com/f8/ee/3bd5667647cdaa8d45ade432ec8f/widget_recommendation_465_0.png?t=1516875157267" alt="Erfahrungen &amp; Bewertungen zu Gitarrenvideounterricht anzeigen" /></a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.gitarrenvideounterricht.de/kurse/gitarre-spielen-nach-noten/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/22947/adminstore/
 - Sales page: http://www.gitarrenvideounterricht.de/kurse/gitarre-spielen-nach-noten/
 - Vendor affiliate support: http://www.gitarrenvideounterricht.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/203735/adminstore
@@ -84,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gitarre spielen nach Noten (Videokurs)? — Typ: Member area and video courses, Anbieter: musiklehrer, gelistet seit 2018-02-25
-- Wie viel kostet es? — 101.817716 USD
+- Wie viel kostet es? — 101.59056600000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

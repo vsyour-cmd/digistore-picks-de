@@ -4,34 +4,34 @@ digistore24_product_id: 613500
 title: "Manychat Facebook Flow"
 vendor: "KundenFinder"
 product_type: "Software"
-price: 16.01
+price: 15.98
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 11.21
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software"]
 listed_since: "2025-05-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://ocf.me/420293/492051?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56159/adminstore/"
 sales_page: "https://ocf.me/420293/492051"
 language: "de"
 ---
 # Manychat Facebook Flow
 
 > Product ID `56159` · Digistore24 productId `613500` · [HTML profile page](../../produkte/manychat-facebook-flow-56159.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $16.01 (Single payment) |
+| Price | $15.98 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $11.21 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KundenFinder |
@@ -41,11 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ManyChat-Flow der sich selbst verkauft Affiliate-Infos Hey, toll dass du mein Produkt als Affiliate bewerben möchtest! Was genau ist das Produkt? ManyChat-Flow der sich selbst verkauft ist eine fertige Verkaufssequenz die für Facebook-Beiträge und Reels realisiert ist. Was verdienst du als Affiliate? Für jeden erfolgreichen Verkauf erhältst du satte 70 % Provision auf den Netto-Verkaufspreis (abzü…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<h2><strong>ManyChat-Flow der sich selbst verkauft</strong></h2>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div><strong>Affiliate-Infos</strong></div>
+<div>Hey, toll dass du mein Produkt als Affiliate bewerben möchtest!</div>
+<div> </div>
+<div><strong>Was genau ist das Produkt?</strong></div>
+<div>ManyChat-Flow der sich selbst verkauft ist eine fertige Verkaufssequenz die für Facebook-Beiträge und Reels realisiert ist.<br /><br /></div>
+<div><strong>Was verdienst du als Affiliate?</strong></div>
+<div>Für jeden erfolgreichen Verkauf erhältst du satte 70 % Provision auf den Netto-Verkaufspreis (abzüglich der Digistore24-Kosten). Der Verkaufpreis ist aktuell 17,00 € inkl. MwSt.</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ocf.me/420293/492051?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56159/adminstore/
 - Sales page: https://ocf.me/420293/492051
 - Vendor affiliate support: https://ezpage24.com/420894/984102
 - Canonical redirect: https://www.digistore24.com/redir/613500/adminstore
@@ -74,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Manychat Facebook Flow? — Typ: Software, Anbieter: KundenFinder, gelistet seit 2025-05-19
-- Wie viel kostet es? — 16.013374 USD
+- Wie viel kostet es? — 15.977649 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

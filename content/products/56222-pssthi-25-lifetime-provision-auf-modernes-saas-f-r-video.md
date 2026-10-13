@@ -4,16 +4,16 @@ digistore24_product_id: 683899
 title: "pssthi – 25 % Lifetime-Provision auf modernes SaaS für Video"
 vendor: "mxxt11"
 product_type: "Software"
-price: 140.31
+price: 140
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 35.07
+earnings_per_sale: 35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-04-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://pssthi.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://pssthi.com/"
@@ -22,16 +22,16 @@ language: "de"
 # pssthi – 25 % Lifetime-Provision auf modernes SaaS für Video
 
 > Product ID `56222` · Digistore24 productId `683899` · [HTML profile page](../../produkte/pssthi-25-lifetime-provision-auf-modernes-saas-f-r-video-56222.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $140.31 (Subscription) |
+| Price | $140.00 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $35.07 |
+| Earnings/sale* | $35.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mxxt11 |
@@ -41,7 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit pssthi bewirbst du ein modernes SaaS-Tool, mit dem Unternehmen, Coaches, Agenturen, Creator und Dienstleister Videos als auffällige Bubble auf ihrer Website einbinden können. Das Produkt ist leicht verständlich, visuell stark und für viele Zielgruppen interessant, die ihre Website persönlicher, moderner und interaktiver machen möchten. Warum Affiliates pssthi bewerben sollten: 25 % Lifetime-Pr…
+**Vendor's marketplace description:** <p>Mit pssthi bewirbst du ein modernes SaaS-Tool, mit dem Unternehmen, Coaches, Agenturen, Creator und Dienstleister Videos als auffällige Bubble auf ihrer Website einbinden können.</p>
+<p> </p>
+<p>Das Produkt ist leicht verständlich, visuell stark und für viele Zielgruppen interessant, die ihre Website persönlicher, moderner und interaktiver machen möchten.</p>
+<p> </p>
+<p><strong>Warum Affiliates pssthi bewerben sollten:</strong></p>
+<ul>
+<li>
+<p>25 % Lifetime-Provision auf wiederkehrende Zahlungen</p>
+</li>
+<li>
+<p>modernes SaaS-Modell mit attraktivem Abo-Potenzial</p>
+</li>
+<li>
+<p>einfach erklärbares Produkt mit klarem Nutzen</p>
+</li>
+<li>
+<p>ideal für Zielgruppen aus Marketing, Coaching, Agenturen, SaaS, E-Commerce und Dienstleistungen</p>
+</li>
+<li>
+<p>spannendes Tool für mehr Aufmerksamkeit, Vertrauen und Interaktion auf Websites</p>
+</li>
+</ul>
 
 ## 2. Links
 
@@ -89,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist pssthi – 25 % Lifetime-Provision auf modernes SaaS für Video? — Typ: Software, Anbieter: mxxt11, gelistet seit 2026-04-10
-- Wie viel kostet es? — 140.310326 USD
+- Wie viel kostet es? — 139.997301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 703375
 title: "Seminar zur Sprachförderung von Kleinkindern"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 672.36
+price: 670.86
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 67.24
+earnings_per_sale: 67.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/703375?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/703375"
@@ -22,16 +22,16 @@ language: "de"
 # Seminar zur Sprachförderung von Kleinkindern
 
 > Product ID `57368` · Digistore24 productId `703375` · [HTML profile page](../../produkte/seminar-zur-sprachf-rderung-von-kleinkindern-57368.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $672.36 (Single payment) |
+| Price | $670.86 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $67.24 |
+| Earnings/sale* | $67.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Von 26.-27. September 2026 wird Kerstin Schimkus (Dipl. Lehrlogopädin und Gründerin der Lexosophie) einmalig in diesem Jahr ein online-live-Seminar geben. Wie der Sprachrhythmus gefördert wird. Wie wir erkennen, ob Sprachrrhythmusauffälligkeiten vorhanden sind. Wie der Sprachrhythmus mit dem Lesen und Schreiben zusammenhängt.
+**Vendor's marketplace description:** <p>Von 26.-27. September 2026 wird Kerstin Schimkus (Dipl. Lehrlogopädin und Gründerin der Lexosophie) einmalig in diesem Jahr ein online-live-Seminar geben. </p>
+<p>Wie der Sprachrhythmus gefördert wird.</p>
+<p>Wie wir erkennen, ob Sprachrrhythmusauffälligkeiten vorhanden sind.</p>
+<p>Wie der Sprachrhythmus mit dem Lesen und Schreiben zusammenhängt.</p>
 
 ## 2. Links
 
@@ -89,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Seminar zur Sprachförderung von Kleinkindern? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 672.36 USD
+- Wie viel kostet es? — 670.86 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

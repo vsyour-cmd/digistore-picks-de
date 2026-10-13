@@ -4,34 +4,34 @@ digistore24_product_id: 733943
 title: "E-Mail-Marketing-Vorlagen – Bausteinbibliothek mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.71
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://einfachmitmatze.de/email-verkaufsablauf/zusatzpaket/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59387/adminstore/"
 sales_page: "https://einfachmitmatze.de/email-verkaufsablauf/zusatzpaket/"
 language: "de"
 ---
 # E-Mail-Marketing-Vorlagen – Bausteinbibliothek mit Matze
 
 > Product ID `59387` · Digistore24 productId `733943` · [HTML profile page](../../produkte/e-mail-marketing-vorlagen-bausteinbibliothek-mit-matze-59387.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ergänze deinen E-Mail-Verkaufsablauf mit weiteren Textbausteinen und Nachrichtenszenarien. Enthalten:• Betreff- und E-Mail-Bausteinbibliothek als PDF• Bearbeitbare DOCX-Vorlagen• Betreff-, Preheader- und CTA-Sammlung als CSV• Nachrichtenszenarien als CSV und Kampagnenbibliothek als Markdown• Startanleitung ZIP entpacken. Passe Texte an dein Angebot und deine Empfänger an. Optionaler Zusatz zum E-M…
+**Vendor's marketplace description:** <p>Ergänze deinen E-Mail-Verkaufsablauf mit weiteren Textbausteinen und Nachrichtenszenarien.</p>
+<p>Enthalten:<br />• Betreff- und E-Mail-Bausteinbibliothek als PDF<br />• Bearbeitbare DOCX-Vorlagen<br />• Betreff-, Preheader- und CTA-Sammlung als CSV<br />• Nachrichtenszenarien als CSV und Kampagnenbibliothek als Markdown<br />• Startanleitung</p>
+<p>ZIP entpacken. Passe Texte an dein Angebot und deine Empfänger an. Optionaler Zusatz zum E-Mail-Verkaufsablauf; der Hauptkurs ist nicht enthalten.</p>
+<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
+<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
+<p>Affiliate-Information: 50,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://einfachmitmatze.de/email-verkaufsablauf/zusatzpaket/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59387/adminstore/
 - Sales page: https://einfachmitmatze.de/email-verkaufsablauf/zusatzpaket/
 - Vendor affiliate support: https://einfachmitmatze.de/partner-733943/
 - Canonical redirect: https://www.digistore24.com/redir/733943/adminstore
@@ -74,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail-Marketing-Vorlagen – Bausteinbibliothek mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

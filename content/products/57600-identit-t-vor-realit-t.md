@@ -4,16 +4,16 @@ digistore24_product_id: 711480
 title: "Identität vor Realität"
 vendor: "mathiaswalecki190574dc"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/711480?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/711480"
@@ -22,16 +22,16 @@ language: "de"
 # Identität vor Realität
 
 > Product ID `57600` · Digistore24 productId `711480` · [HTML profile page](../../produkte/identit-t-vor-realit-t-57600.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mathiaswalecki190574dc |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein interaktives Premium-Workbook für Menschen, die ihre Identität bewusst verändern und dadurch ihre Realität nachhaltig gestalten möchten. Statt oberflächlicher Motivation erhältst du ein strukturiertes System aus Reflexionsfragen, Übungen und Denkmodellen, die dir helfen können, langfristige Veränderungen in deinem Leben aufzubauen. Digital • Sofort verfügbar • Mobile optimiert Hinweis: Dieses …
+**Vendor's marketplace description:** <p>Ein interaktives Premium-Workbook für Menschen, die ihre Identität bewusst verändern und dadurch ihre Realität nachhaltig gestalten möchten.</p>
+<p>Statt oberflächlicher Motivation erhältst du ein strukturiertes System aus Reflexionsfragen, Übungen und Denkmodellen, die dir helfen können, langfristige Veränderungen in deinem Leben aufzubauen.</p>
+<p><strong>Digital • Sofort verfügbar • Mobile optimiert</strong></p>
+<p>Hinweis: Dieses Workbook dient ausschließlich der persönlichen Reflexion und Weiterbildung. Es ersetzt keine psychologische, psychotherapeutische oder medizinische Beratung oder Behandlung. Es werden keine individuellen Erfolge garantiert.</p>
 
 ## 2. Links
 
@@ -72,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Identität vor Realität? — Typ: E-books, Anbieter: mathiaswalecki190574dc, gelistet seit 2026-07-19
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

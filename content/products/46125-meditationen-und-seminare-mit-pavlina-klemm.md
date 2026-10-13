@@ -4,34 +4,34 @@ digistore24_product_id: 406933
 title: "Meditationen und Seminare mit Pavlina Klemm"
 vendor: "user2558797"
 product_type: "Downloads"
-price: 58.73
+price: 58.6
 currency: "USD"
 affiliate_commission_pct: 44.4
-earnings_per_sale: 14.05
+earnings_per_sale: 14.02
 cart_conversion_pct: 9
 cancel_rate_pct: 1.17
 categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2021-09-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://pavlina-klemm.de/?page_id=4573&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46125/adminstore/"
 sales_page: "https://pavlina-klemm.de/?page_id=4573"
 language: "de"
 ---
 # Meditationen und Seminare mit Pavlina Klemm
 
 > Product ID `46125` · Digistore24 productId `406933` · [HTML profile page](../../produkte/meditationen-und-seminare-mit-pavlina-klemm-46125.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $58.73 (Single payment) |
+| Price | $58.60 (Single payment) |
 | Affiliate commission | 44.4% |
-| Earnings/sale* | $14.05 |
+| Earnings/sale* | $14.02 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.17% |
 | Vendor | user2558797 |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Deine Vorteile: Hohe Provisionen von 44% für Produkte bis 90 Euro und 22% Provision für Produkte ab 150 Euro Bereits über 10.000 verkaufte Produkte Pavlina Klemm ist Bestseller-Autorin der Reihe Lichtbotschaften von den Plejaden Die Produkte: Digitale Download Produkte VK 15,-€ Regelmäßige Online Meditationsabende VK 35,-€ Umfangreicher Onlinekurs VK 199,-€
+**Vendor's marketplace description:** <p><strong>Deine Vorteile:</strong></p>
+<ul>
+<li>Hohe Provisionen von 44% für Produkte bis 90 Euro und 22% Provision für Produkte ab 150 Euro</li>
+<li>Bereits über 10.000 verkaufte Produkte</li>
+</ul>
+<p><strong>Pavlina Klemm </strong>ist Bestseller-Autorin der Reihe <strong>Lichtbotschaften von den Plejaden</strong></p>
+<p><strong>Die Produkte:</strong></p>
+<ul>
+<li>Digitale Download Produkte VK 15,-€</li>
+<li>Regelmäßige Online Meditationsabende VK 35,-€</li>
+<li>Umfangreicher Onlinekurs VK 199,-€</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://pavlina-klemm.de/?page_id=4573&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46125/adminstore/
 - Sales page: https://pavlina-klemm.de/?page_id=4573
 - Canonical redirect: https://www.digistore24.com/redir/406933/adminstore
 
@@ -81,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Meditationen und Seminare mit Pavlina Klemm? — Typ: Downloads, Anbieter: user2558797, gelistet seit 2021-09-11
-- Wie viel kostet es? — 58.730646 USD
+- Wie viel kostet es? — 58.599621 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

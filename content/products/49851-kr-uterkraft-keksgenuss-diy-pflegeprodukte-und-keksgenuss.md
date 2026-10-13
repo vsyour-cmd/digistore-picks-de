@@ -4,16 +4,16 @@ digistore24_product_id: 570583
 title: "Kräuterkraft + Keksgenuss DIY Pflegeprodukte und Keksgenuss"
 vendor: "stable-stuff"
 product_type: "E-books"
-price: 25.14
+price: 25.08
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 3.77
+earnings_per_sale: 3.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2024-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://stable-stuff.com/gesunde-kraeuter-pflegeprodukte?aff=adminstore#aff=adminstore"
 sales_page: "https://stable-stuff.com/gesunde-kraeuter-pflegeprodukte"
@@ -22,16 +22,16 @@ language: "de"
 # Kräuterkraft + Keksgenuss DIY Pflegeprodukte und Keksgenuss
 
 > Product ID `49851` · Digistore24 productId `570583` · [HTML profile page](../../produkte/kr-uterkraft-keksgenuss-diy-pflegeprodukte-und-keksgenuss-49851.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.14 (Single payment) |
+| Price | $25.08 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $3.77 |
+| Earnings/sale* | $3.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | stable-stuff |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kräuterkraft und Keksgenuss Gesunde DIY Pflegeprodukte und Keksgenuss aus 100% Natur Pur. Tauche ein in die Welt der natürlichen Pflege und kulinarischen Verwöhnmomente für dein Pferd! In „Kräuterkraft und Keksgenuss“ findest du fast 100 einfache und kreative Rezepte, die das Wohlbefinden deines Lieblings steigern – von Leckereien über Pflegeprodukte bis hin zu DIY-Naturkosmetik. Was erwartet dich…
+**Vendor's marketplace description:** <div>
+<h2>Kräuterkraft und Keksgenuss</h2>
+</div>
+<div>
+<div>
+<div>
+<div><strong>Gesunde DIY Pflegeprodukte und Keksgenuss aus 100% Natur Pur.</strong></div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<p>Tauche ein in die Welt der natürlichen Pflege und kulinarischen Verwöhnmomente für dein Pferd! In <strong>„Kräuterkraft und Keksgenuss“</strong> findest du fast 100 einfache und kreative Rezepte, die das Wohlbefinden deines Lieblings steigern – von Leckereien über Pflegeprodukte bis hin zu DIY-Naturkosmetik.</p>
+<p><strong>Was erwartet dich in unserem eBook?</strong></p>
+<p><strong> Leckerlies und Snacks</strong>: Gesunde, selbstgemachte Kekse, Mash-Rezepte, Smoothies und mehr, die dein Pferd lieben wird.<br /><strong> Kräuterpflege</strong>: Salben, Cremes, Seifen und Fliegensprays aus natürlichen Zutaten, um Haut, Fell und Hufe zu pflegen.<br /><strong> Energie für zwischendurch</strong>: Rezepte für Energy Balls und vitaminreiche Salate – ideal für den kleinen Extra-Kick.<br /><strong> DIY-Fliegenspray und Huföl</strong>: Schütze dein Pferd effektiv vor lästigen Insekten und sorge für gesunde Hufe, ganz ohne Chemie.</p>
+<p>Ob für besondere Anlässe oder den täglichen Verwöhn-Moment – mit diesem E-Book zauberst du deinem Pferd gesunde und natürliche Genüsse und Pflegeprodukte. Hol dir jetzt das Wissen über Kräuter und Naturheilkraft für ein rundum glückliches Pferd!</p>
+</div>
+</div>
 
 ## 2. Links
 
@@ -78,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kräuterkraft + Keksgenuss DIY Pflegeprodukte und Keksgenuss? — Typ: E-books, Anbieter: stable-stuff, gelistet seit 2024-09-16
-- Wie viel kostet es? — 25.135058 USD
+- Wie viel kostet es? — 25.078983 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

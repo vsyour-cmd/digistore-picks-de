@@ -4,34 +4,34 @@ digistore24_product_id: 316974
 title: "Zeichenschule für Kindergarten- und Vorschulkinder"
 vendor: "DrawTut"
 product_type: "Downloads"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 3.36
+earnings_per_sale: 3.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-03-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://drawtut.com/de/kurse/kinder-vorschule/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/32161/adminstore/"
 sales_page: "https://drawtut.com/de/kurse/kinder-vorschule/"
 language: "de"
 ---
 # Zeichenschule für Kindergarten- und Vorschulkinder
 
 > Product ID `32161` · Digistore24 productId `316974` · [HTML profile page](../../produkte/zeichenschule-f-r-kindergarten-und-vorschulkinder-32161.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $3.36 |
+| Earnings/sale* | $3.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrawTut |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit diesen lustigen Zeichnen lernen Videos und einem eBook mit Übungsblättern wird dein Kind schnell und einfach zeichnen lernen. Mit lustigen Übungen, die von altersgerechten Videos begleitet werden, lernt dein Kind Farben, Formen und das Zeichnen an sich. Der Video-Kurs und das eBook beinhaltet Übungen, mit denen dein Kind lernt 30 unterschiedliche Motive zu zeichnen. Angefangen beim Ball bis hi…
+**Vendor's marketplace description:** <p>Mit diesen lustigen Zeichnen lernen Videos und einem eBook mit Übungsblättern wird dein Kind schnell und einfach zeichnen lernen.</p>
+<p>Mit lustigen Übungen, die von altersgerechten Videos begleitet werden, lernt dein Kind Farben, Formen und das Zeichnen an sich. </p>
+<p>Der Video-Kurs und das eBook beinhaltet Übungen, mit denen dein Kind lernt 30 unterschiedliche Motive zu zeichnen. Angefangen beim Ball bis hin zu einem Segelschiff ist alles dabei.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://drawtut.com/de/kurse/kinder-vorschule/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/32161/adminstore/
 - Sales page: https://drawtut.com/de/kurse/kinder-vorschule/
 - Canonical redirect: https://www.digistore24.com/redir/316974/adminstore
 
@@ -72,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zeichenschule für Kindergarten- und Vorschulkinder? — Typ: Downloads, Anbieter: DrawTut, gelistet seit 2020-03-31
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

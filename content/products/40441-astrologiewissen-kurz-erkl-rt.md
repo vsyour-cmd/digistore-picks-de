@@ -4,34 +4,34 @@ digistore24_product_id: 300847
 title: "Astrologiewissen kurz erklärt!"
 vendor: "andreaswinter"
 product_type: "Downloads"
-price: 27.78
+price: 27.72
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.34
+earnings_per_sale: 8.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2019-12-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.keine-angst-vor-sternzeichen.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40441/adminstore/"
 sales_page: "https://www.keine-angst-vor-sternzeichen.de"
 language: "de"
 ---
 # Astrologiewissen kurz erklärt!
 
 > Product ID `40441` · Digistore24 productId `300847` · [HTML profile page](../../produkte/astrologiewissen-kurz-erkl-rt-40441.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.78 (Single payment) |
+| Price | $27.72 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.34 |
+| Earnings/sale* | $8.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andreaswinter |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 14 KAPITEL MIT ÜBER 3 STUNDEN GEBALLTEM STERNZEICHENWISSEN! Wie tickt der Widder? Wie liebt der Skorpion? Wie funktioniert die Partnerschaft mit dem Wassermann? Wie arbeitet die Waage? Und wie verhält sich der Löwe als Aszendent? Jedes der zwölf Sternzeichen wird umfassend durchleuchtet! + BONUS VIDEO In diesem fast 20-minütigem Bonusmaterial erklärt Andreas Winter die Bedeutung des Planeten Merku…
+**Vendor's marketplace description:** <p><strong> 14 KAPITEL MIT ÜBER 3 STUNDEN GEBALLTEM STERNZEICHENWISSEN!</strong> <br />Wie tickt der Widder? Wie liebt der Skorpion? Wie funktioniert die Partnerschaft mit dem Wassermann? Wie arbeitet die Waage? Und wie verhält sich der Löwe als Aszendent? Jedes der zwölf Sternzeichen wird umfassend durchleuchtet!   <br />+ BONUS VIDEO <br />In diesem fast 20-minütigem Bonusmaterial erklärt Andreas Winter die Bedeutung des Planeten Merkur und des Medium Coeli (MC) im Horoskop. Mithilfe dieser beiden Merkmale ist es möglicht, das Sternzeichen des Gegenübers einzuschätzen, selbst wenn das Geburtsdatum nicht bekannt ist.  </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.keine-angst-vor-sternzeichen.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40441/adminstore/
 - Sales page: https://www.keine-angst-vor-sternzeichen.de
 - Canonical redirect: https://www.digistore24.com/redir/300847/adminstore
 
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Astrologiewissen kurz erklärt!? — Typ: Downloads, Anbieter: andreaswinter, gelistet seit 2019-12-23
-- Wie viel kostet es? — 27.779674 USD
+- Wie viel kostet es? — 27.717699 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

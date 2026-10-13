@@ -4,16 +4,16 @@ digistore24_product_id: 711518
 title: "Ebook - Amerikas Kriegsmaschine"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 12.56
+price: 12.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.29
+earnings_per_sale: 6.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Politics & Economy"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/711518?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/711518"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Amerikas Kriegsmaschine
 
 > Product ID `57520` · Digistore24 productId `711518` · [HTML profile page](../../produkte/ebook-amerikas-kriegsmaschine-57520.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.56 (Single payment) |
+| Price | $12.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.29 |
+| Earnings/sale* | $6.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Amerikas Kriegsmaschine – Macht, Innovation und globaler Einfluss beleuchtet die Entstehung und Entwicklung des militärisch-industriellen Komplexes der Vereinigten Staaten – von seinen historischen Wurzeln bis zu seiner Bedeutung im digitalen Zeitalter. Dabei werden politische, wirtschaftliche und technologische Zusammenhänge verständlich und fundiert dargestellt. Das Buch richtet sich an Leser mi…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><strong>Amerikas Kriegsmaschine – Macht, Innovation und globaler Einfluss</strong> beleuchtet die Entstehung und Entwicklung des militärisch-industriellen Komplexes der Vereinigten Staaten – von seinen historischen Wurzeln bis zu seiner Bedeutung im digitalen Zeitalter. Dabei werden politische, wirtschaftliche und technologische Zusammenhänge verständlich und fundiert dargestellt.</p>
+<p>Das Buch richtet sich an Leser mit Interesse an Geschichte, Geopolitik, Militär, Wirtschaft und internationaler Politik. Es zeigt, wie Rüstungsindustrie, Wissenschaft, Politik und Wirtschaft über Jahrzehnte ein globales Machtgefüge geschaffen haben, das bis heute internationale Konflikte und sicherheitspolitische Entscheidungen beeinflusst.</p>
+<p>Auf über 400 Seiten verbindet das Werk historische Ereignisse mit aktuellen Entwicklungen wie Cyberkrieg, Künstlicher Intelligenz, Raumfahrt und dem technologischen Wettstreit zwischen den USA und China. Die klare Struktur ermöglicht sowohl das fortlaufende Lesen als auch den gezielten Einstieg in einzelne Themenbereiche.</p>
+<p>Durch die Kombination aus fundierter Recherche, verständlicher Sprache und hoher Aktualität spricht das Buch eine breite Zielgruppe im Sachbuchsegment an. Die dauerhaft hohe Relevanz geopolitischer Themen und internationaler Sicherheitsfragen macht es zu einem Produkt mit ausgezeichnetem Vermarktungspotenzial für Affiliates.</p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
 
 ## 2. Links
 
@@ -71,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Amerikas Kriegsmaschine? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-07-14
-- Wie viel kostet es? — 12.561926000000001 USD
+- Wie viel kostet es? — 12.533901000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

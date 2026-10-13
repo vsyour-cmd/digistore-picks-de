@@ -4,34 +4,34 @@ digistore24_product_id: 725318
 title: "ScaleBase – Die Impact Lounge | Dein exklusiver Hub für Busi"
 vendor: "stellenmanufaktur"
 product_type: "Member area and video courses"
-price: 22.3
+price: 22.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.15
+earnings_per_sale: 11.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/725318?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58549/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/725318"
 language: "de"
 ---
 # ScaleBase – Die Impact Lounge | Dein exklusiver Hub für Busi
 
 > Product ID `58549` · Digistore24 productId `725318` · [HTML profile page](../../produkte/scalebase-die-impact-lounge-dein-exklusiver-hub-f-r-busi-58549.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $22.30 (Single payment) |
+| Price | $22.25 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.15 |
+| Earnings/sale* | $11.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | stellenmanufaktur |
@@ -41,11 +41,39 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dein Zugang zur ScaleBase – Die Impact Lounge Du bist nur noch einen Schritt davon entfernt, dein Business auf das nächste Level zu skalieren. Werde jetzt Teil des exklusivsten "War Rooms" für Creator, Affiliates und Coaches im DACH-Raum und profitiere sofort von echtem Wachstum ohne Bullshit. Das sicherst du dir mit deinem Zugang: Das Macher-Netzwerk: Finde lukrative Partner und tausche dich auf …
+**Vendor's marketplace description:** <h3>Dein Zugang zur ScaleBase – Die Impact Lounge</h3>
+<p>Du bist nur noch einen Schritt davon entfernt, dein Business auf das nächste Level zu skalieren. Werde jetzt Teil des exklusivsten "War Rooms" für Creator, Affiliates und Coaches im DACH-Raum und profitiere sofort von echtem Wachstum ohne Bullshit.</p>
+<p><strong>Das sicherst du dir mit deinem Zugang:</strong></p>
+<ul>
+<li>
+<p><strong>Das Macher-Netzwerk:</strong> Finde lukrative Partner und tausche dich auf Augenhöhe mit High-Performern aus.</p>
+</li>
+<li>
+<p><strong>Tech-Stack Meisterschaft:</strong> Exklusiver Support und geniale Automatisierungs-Hacks für <em>alfima</em>, <em>withme</em> &amp; <em>empirely (Hacks anwendbar auf alle gängigen Systeme)</em>.</p>
+</li>
+<li>
+<p><strong>Plug &amp; Play Blueprints:</strong> Direkter Zugriff auf sofort kopierbare Funnel-Vorlagen und erprobte Wachstums-Strategien.</p>
+</li>
+<li>
+<p><strong>The Freebie Toolbox:</strong> Handverlesene, kostenlose KI-Tools, die dir jeden Tag Stunden an Arbeit ersparen.</p>
+</li>
+</ul>
+<p><strong>Wichtige Informationen zur Lieferung:</strong></p>
+<ul>
+<li>
+<p><strong>Auslieferungsart:</strong> 100 % Digital (Sofortzugang)</p>
+</li>
+<li>
+<p><strong>Ablauf:</strong> Direkt nach erfolgreicher Bezahlung wird dir dein persönlicher Zugangslink vollautomatisch per E-Mail zugesendet.</p>
+</li>
+<li>
+<p>Du kannst dich in Sekundenschnelle einloggen und direkt in der Base durchstarten!</p>
+</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/725318?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58549/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/725318
 - Vendor affiliate support: https://alfima.com/marketing
 - Canonical redirect: https://www.digistore24.com/redir/725318/adminstore
@@ -75,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ScaleBase – Die Impact Lounge | Dein exklusiver Hub für Busi? — Typ: Member area and video courses, Anbieter: stellenmanufaktur, gelistet seit 2026-08-24
-- Wie viel kostet es? — 22.29994 USD
+- Wie viel kostet es? — 22.25019 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

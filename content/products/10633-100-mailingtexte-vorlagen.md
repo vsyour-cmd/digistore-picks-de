@@ -4,34 +4,34 @@ digistore24_product_id: 20609
 title: "100 Mailingtexte Vorlagen"
 vendor: "rnabenhauer"
 product_type: "Downloads"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 12.19
+earnings_per_sale: 12.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2014-02-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://100mailings.presalesmarketing.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/10633/adminstore/"
 sales_page: "http://100mailings.presalesmarketing.com/"
 language: "de"
 ---
 # 100 Mailingtexte Vorlagen
 
 > Product ID `10633` · Digistore24 productId `20609` · [HTML profile page](../../produkte/100-mailingtexte-vorlagen-10633.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $12.19 |
+| Earnings/sale* | $12.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rnabenhauer |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bieten Sie Ihren Kunden über 100 erprobte, sorgfältig durchdachte Mailings an und sparen Sie jede Menge Zeit! Über 100 Mailings habe ich vergangenes Jahr an meine eigene Newsletterliste versendet. Über 100 sorgfältig getextete und von Profis konzipierte Mailings liegen nun hier und können von mir selbst nicht wieder an meine Newsletterkunden verschickt werden. Aber an Ihre! Ganz unabhängig davon, …
+**Vendor's marketplace description:** <p>&nbsp;</p>
+<h2>Bieten Sie Ihren Kunden &uuml;ber 100 erprobte, sorgf&auml;ltig durchdachte Mailings an und sparen Sie jede Menge Zeit!</h2>
+<p>&Uuml;ber 100 Mailings habe ich vergangenes Jahr an meine eigene Newsletterliste versendet. &Uuml;ber 100 sorgf&auml;ltig getextete und von Profis konzipierte Mailings liegen nun hier und k&ouml;nnen von mir selbst nicht wieder an meine Newsletterkunden verschickt werden. Aber an Ihre! Ganz unabh&auml;ngig davon, welche Produkte Sie selbst im Sortiment haben!</p>
+<p>&nbsp;</p>
+<p><strong>Laden Sie auch Ihre Kontakte und Affiliates zu unserem Partnerprogramm bei digistore24 ein</strong>, Sie erhalten 10% Sub Affiliate Provision!<br /><br /> https://www.digistore24.com/signup/20853/AFFILIATE ersetzen Sie AFFILIATE mit Ihrer Digistore ID und werben Sie neue Sub Affiliates.<br /><br /><br /><strong>Nutzen Sie auch unsere Leadseiten</strong> (ersetzen Sie AFFILIATE mit Ihrer Digistore ID):<br /><br /><br /> Xing erfolgreich nutzen - Kostenloses Ebook<br /><br /> http://promo.AFFILIATE.20219.2935.digistore24.com/CAMPAIGNKEY<br /><br /><br /> 15 Minuten gratis Coaching<br /><br /> http://promo.AFFILIATE.20493.2937.digistore24.com/CAMPAIGNKEY<br /><br /><br /> Sie erhalten 0,50 Cent + % auf jeden Verkauf innerhalb der Cookielaufzeit.</p>
+<p><strong>&nbsp;</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://100mailings.presalesmarketing.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/10633/adminstore/
 - Sales page: http://100mailings.presalesmarketing.com/
 - Vendor affiliate support: http://affiliate.presalesmarketing.com/
 - Canonical redirect: https://www.digistore24.com/redir/20609/adminstore
@@ -75,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100 Mailingtexte Vorlagen? — Typ: Downloads, Anbieter: rnabenhauer, gelistet seit 2014-02-01
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

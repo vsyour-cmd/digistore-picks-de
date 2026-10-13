@@ -4,34 +4,34 @@ digistore24_product_id: 558771
 title: "MONEY³ Mentoring von Daniel Weinstock | Akademie"
 vendor: "Weinstock777"
 product_type: "Member area and video courses"
-price: 1324.55
+price: 1321.59
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 264.91
+earnings_per_sale: 264.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-06-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://go.weinstockacademy.com/geld?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48969/adminstore/"
 sales_page: "https://go.weinstockacademy.com/geld"
 language: "de"
 ---
 # MONEY³ Mentoring von Daniel Weinstock | Akademie
 
 > Product ID `48969` · Digistore24 productId `558771` · [HTML profile page](../../produkte/money-mentoring-von-daniel-weinstock-akademie-48969.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1324.55 (Single payment, Installment) |
+| Price | $1321.59 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $264.91 |
+| Earnings/sale* | $264.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Weinstock777 |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** MONEY³ - In nur 6 Wochen zu einem neuen Reichtumsbewusstsein mit Daniel Weinstock Der stressfreie und sichere Weg zur nachhaltigen Reichtumskonditionierung! - MONEY³ - Das KickOff- MONEY³ - 6 Wochen für Reichtum & Erfolg- Faszination Geld - Das 200 Tage Neurotraining- Positive MONEY³ Mindset Community 3 fette BONI werden mit dazu geliefert!20% AFFILIATE Provision!Wir haben für dieses Produkt ein k…
+**Vendor's marketplace description:** <h3>MONEY³ - In nur 6 Wochen zu einem neuen Reichtumsbewusstsein mit Daniel Weinstock</h3>
+<p>Der stressfreie und sichere Weg zur nachhaltigen Reichtumskonditionierung!</p>
+<p>- MONEY³ - Das KickOff<br />- MONEY³ - 6 Wochen für Reichtum &amp; Erfolg<br />- Faszination Geld - Das 200 Tage Neurotraining<br />- Positive MONEY³ Mindset Community</p>
+<p>3 fette BONI werden mit dazu geliefert!<br /><br />20% AFFILIATE Provision!<br /><br />Wir haben für dieses Produkt ein <strong>kostenfreies Webinar "Der Erfolgscode"</strong> geschaltet, nutze dieses ab sofort für Deinen Funnel. Gib Deine DigistoreID am Ende des Anmeldelinks an und der Prozess sorgt dafür, dass Käufe nach dem Webinar für Dich verprovisioniert werden:<br /><br />https://home.weinstock-erfolgstraining.de/erfolgscode?utm_source=AFFILIATE</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://go.weinstockacademy.com/geld?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48969/adminstore/
 - Sales page: https://go.weinstockacademy.com/geld
 - Canonical redirect: https://www.digistore24.com/redir/558771/adminstore
 
@@ -77,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MONEY³ Mentoring von Daniel Weinstock | Akademie? — Typ: Member area and video courses, Anbieter: Weinstock777, gelistet seit 2024-06-27
-- Wie viel kostet es? — 1324.5492000000002 USD
+- Wie viel kostet es? — 1321.5942 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

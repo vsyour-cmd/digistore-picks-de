@@ -4,16 +4,16 @@ digistore24_product_id: 564175
 title: "60% Provision mit automatisiertem Webinar"
 vendor: "jessicabusse"
 product_type: "Member area and video courses"
-price: 350.31
+price: 349.53
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 210.19
+earnings_per_sale: 209.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-08-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://jessicaginabusse.myfunnelcockpit.com/landingpage-chakra-seminar/?aff=adminstore#aff=adminstore"
 sales_page: "https://jessicaginabusse.myfunnelcockpit.com/landingpage-chakra-seminar/"
@@ -22,16 +22,16 @@ language: "de"
 # 60% Provision mit automatisiertem Webinar
 
 > Product ID `56026` · Digistore24 productId `564175` · [HTML profile page](../../produkte/60-provision-mit-automatisiertem-webinar-56026.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $350.31 (Single payment, Installment) |
+| Price | $349.53 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $210.19 |
+| Earnings/sale* | $209.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jessicabusse |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb die Chakra-Heilung Masterclass ganz einfach über ein kostenfreies Webinar – ohne eigene Inhalte erstellen zu müssen. Interessenten lernen mich und meine Arbeit unverbindlich kennen, während der gesamte Verkaufsprozess automatisiert im Hintergrund läuft. Deine Vorteile als Affiliate: • 60 % Provision auf jeden Verkauf• Du bewirbst nur ein kostenfreies Webinar – der Verkaufsprozess erfolgt im…
+**Vendor's marketplace description:** <p>Bewirb die Chakra-Heilung Masterclass ganz einfach über ein <strong>kostenfreies Webinar – ohne eigene Inhalte erstellen zu müssen.</strong> Interessenten lernen mich und meine Arbeit unverbindlich kennen, während der gesamte Verkaufsprozess automatisiert im Hintergrund läuft.</p>
+<p> </p>
+<p><strong>Deine Vorteile als Affiliate:</strong></p>
+<p style="padding-left:40px;">• <u>60 % Provision</u> auf jeden Verkauf<br />• Du <strong>bewirbst nur ein kostenfreies Webinar</strong> – der Verkaufsprozess erfolgt im Webinar<br />• <em>Komplett automatisierter Funnel</em> übernimmt die Conversion<br />• Kein komplexes Marketing erforderlich<br />• Ideal für Einsteiger und erfahrene Affiliates<br />• Conversion durch <strong>bewährtes Webinar-System</strong></p>
+<p> </p>
+<p>Hier kannst du dir meine Arbeit und auch die Erfahrungen anderer Teilnehmerinnen ansehen (Testimonials): <a href="https://jessicaginabusse.myfunnelcockpit.com/angebote/" target="_blank" rel="noreferrer noopener">Mehr Einblicke &amp; Testimonials</a></p>
+<p>Wenn du Fragen hast, schreib mir gern eine Mail an info@achtsam-busse.de – ich freue mich, von dir zu hören.</p>
 
 ## 2. Links
 
@@ -66,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 60% Provision mit automatisiertem Webinar? — Typ: Member area and video courses, Anbieter: jessicabusse, gelistet seit 2024-08-06
-- Wie viel kostet es? — 350.310766 USD
+- Wie viel kostet es? — 349.52924100000007 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

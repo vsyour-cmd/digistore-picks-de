@@ -4,34 +4,34 @@ digistore24_product_id: 708642
 title: "Werde in 90min. zum KAFFEE EXPERTEN!"
 vendor: "Coffeeman"
 product_type: "Member area and video courses"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 14.88
+earnings_per_sale: 14.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-05-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/708642?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/36923/adminstore/"
 sales_page: "https://www.digistore24.com/product/708642"
 language: "de"
 ---
 # Werde in 90min. zum KAFFEE EXPERTEN!
 
 > Product ID `36923` · Digistore24 productId `708642` · [HTML profile page](../../produkte/werde-in-90min-zum-kaffee-experten-36923.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $14.88 |
+| Earnings/sale* | $14.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Coffeeman |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde in 90min zum KAFFEE-EXPERTEN! <<< Neuartiger Hybrid-Online-Workshop >>> Dieser Kurs komprimiert die über 20 jährige Kaffeeröster-Erfahrung von Rainer Langguth in ca. 90 Minuten voller Wissen und spannender Tipps! Laut "Der Feinschmecker" ist er einer der besten Kaffeeröster Deutschlands. Du besitzt einen Vollautomaten oder eine Siebträgermaschine und ärgerst Dich immer, dass Du bisher noch n…
+**Vendor's marketplace description:** <p>Werde in 90min zum KAFFEE-EXPERTEN!</p>
+<p>&lt;&lt;&lt; Neuartiger Hybrid-Online-Workshop &gt;&gt;&gt;</p>
+<p>Dieser Kurs komprimiert die über 20 jährige Kaffeeröster-Erfahrung von Rainer Langguth in ca. 90 Minuten voller Wissen und spannender Tipps! Laut "Der Feinschmecker" ist er einer der besten Kaffeeröster Deutschlands.</p>
+<p>Du besitzt einen Vollautomaten oder eine  Siebträgermaschine und ärgerst Dich immer, dass Du bisher noch nicht den perfekten Kaffee bzw. Geschmack gefunden hast? Hier erfährst Du die Lösung!</p>
+<p>Du hast in eine hochwertige Kaffeemaschine investiert, bist aber enttäuscht von allen bisher getestete Kaffeebohnen?! Du glaubst noch immer der Werbung, dass 100% Arabica-Bohnen das Non-Plus-Ultra sind? Was ist der Unterschied zwischen "Espresso" und "Cafe Crema"? Warum wird Industriekaffee oft vaporisiert? Ich zeige Dir alle Geschmacks-Geheimnisse von Kaffee, die Dir bis jetzt die Großröster verschwiegen haben.</p>
+<p>In ca. 1.5 Stunden Online-Kurs inklusive Workshop erfährst Du von mir genau, wie Du Dich vor irritierenden Werbeversprechen von Industrie-Kaffeeröstern schützen kannst. Du erfährst all meine Insider-Geheimnisse aus über 20 Jahren Kaffeeröster-Praxis.</p>
+<p>Und dazu zeige ich Dir im Detail eine simple, aber geniale Methode zur Geschmacks-Analyse, das weltweit von allen Kaffeeprofis verwendet wird: CUPPING! Ich sende Dir dazu ein Profi-Cupping-Package (röstfrischen Arabica &amp; Robusta und einen original Cupping-Löffel in edlem GOLD eloxiert) per Post DIREKT nach Hause.</p>
+<p>Mein Versprechen: Du wirst nach diesem Kurs NIE wieder Geld für Kaffeebohnen ausgeben, die DIR nicht schmecken! </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/708642?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36923/adminstore/
 - Sales page: https://www.digistore24.com/product/708642
 - Canonical redirect: https://www.digistore24.com/redir/708642/adminstore
 
@@ -79,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Werde in 90min. zum KAFFEE EXPERTEN!? — Typ: Member area and video courses, Anbieter: Coffeeman, gelistet seit 2021-05-22
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

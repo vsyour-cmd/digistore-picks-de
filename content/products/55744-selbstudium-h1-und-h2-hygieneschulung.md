@@ -4,16 +4,16 @@ digistore24_product_id: 672222
 title: "Selbstudium H1 und H2 Hygieneschulung"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Downloads"
-price: 47.09
+price: 46.98
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 4.71
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-02-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/672222?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/672222"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstudium H1 und H2 Hygieneschulung
 
 > Product ID `55744` · Digistore24 productId `672222` · [HTML profile page](../../produkte/selbstudium-h1-und-h2-hygieneschulung-55744.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $47.09 (Single payment) |
+| Price | $46.98 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xxbeautyliciousbysun8aec |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate werden und verdienen‼️‼️‼️ Der ultimative Kurs für ambitionierte Kosmetikerinnen, Beauty-Einsteigerinnen und Studioinhaberinnen, die sich im Kosmetikbereich professionell weiterentwickeln und zertifiziertes Fachwissen aufbauen möchten.
+**Vendor's marketplace description:** <p>Affiliate werden und verdienen‼️‼️‼️</p>
+<p>Der ultimative Kurs für ambitionierte Kosmetikerinnen, Beauty-Einsteigerinnen und Studioinhaberinnen, die sich im Kosmetikbereich professionell weiterentwickeln und zertifiziertes Fachwissen aufbauen möchten.</p>
 
 ## 2. Links
 
@@ -71,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstudium H1 und H2 Hygieneschulung? — Typ: Downloads, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-27
-- Wie viel kostet es? — 47.08761200000001 USD
+- Wie viel kostet es? — 46.98256200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

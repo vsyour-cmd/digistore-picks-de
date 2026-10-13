@@ -4,34 +4,34 @@ digistore24_product_id: 349840
 title: "Verkaufen mit Herz"
 vendor: "ThomasHammer"
 product_type: "Book (printed)"
-price: 15.65
+price: 15.62
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 3.91
+earnings_per_sale: 3.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.verkaufenmitherzthomas.de/buch?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37643/adminstore/"
 sales_page: "https://www.verkaufenmitherzthomas.de/buch"
 language: "de"
 ---
 # Verkaufen mit Herz
 
 > Product ID `37643` · Digistore24 productId `349840` · [HTML profile page](../../produkte/verkaufen-mit-herz-37643.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $15.65 (Single payment) |
+| Price | $15.62 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $3.91 |
+| Earnings/sale* | $3.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ThomasHammer |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote mein Buch "Verkaufen mit Herz" und Du erhälst 30 % Provision auf den Verkauf des Buches und des Arbeitsbuches. "Verkaufen mit Herz" -176 Seiten purer Content | Hardcover | Sprache: Deutsch - Allgemeines zum Verkauf, Beispiele aus meiner Vertriebstätigkeit und Tipps zur Kundenbindung, sowie Inhalte zu meinen Trainings und Coachings.
+**Vendor's marketplace description:** <p>Promote mein Buch "Verkaufen mit Herz" und Du erhälst 30 % Provision auf den Verkauf des Buches und des Arbeitsbuches. </p>
+<p> </p>
+<p><strong>"Verkaufen mit Herz"</strong></p>
+<p>-176 Seiten purer Content | Hardcover | Sprache: Deutsch</p>
+<p>- Allgemeines zum Verkauf, Beispiele aus meiner Vertriebstätigkeit und Tipps zur Kundenbindung, sowie Inhalte zu meinen Trainings und Coachings.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.verkaufenmitherzthomas.de/buch?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37643/adminstore/
 - Sales page: https://www.verkaufenmitherzthomas.de/buch
 - Vendor affiliate support: https://www.verkaufenmitherzthomas.de/affiliate-verkaufenmitherzundhammer-de
 - Canonical redirect: https://www.digistore24.com/redir/349840/adminstore
@@ -59,7 +63,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verkaufen mit Herz? — Typ: Book (printed), Anbieter: ThomasHammer, gelistet seit 2020-09-27
-- Wie viel kostet es? — 15.654782 USD
+- Wie viel kostet es? — 15.619857000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

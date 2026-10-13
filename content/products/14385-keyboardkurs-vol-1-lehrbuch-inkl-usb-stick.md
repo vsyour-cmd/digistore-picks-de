@@ -4,34 +4,34 @@ digistore24_product_id: 95881
 title: "Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick"
 vendor: "PeterNeuhof"
 product_type: "Deliverable"
-price: 155.38
+price: 155.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 77.69
+earnings_per_sale: 77.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2016-09-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.p-neuhof.de/keyboardkurs-vol/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/14385/adminstore/"
 sales_page: "https://www.p-neuhof.de/keyboardkurs-vol/"
 language: "de"
 ---
 # Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick
 
 > Product ID `14385` · Digistore24 productId `95881` · [HTML profile page](../../produkte/keyboardkurs-vol-1-lehrbuch-inkl-usb-stick-14385.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $155.38 (Single payment, Installment) |
+| Price | $155.04 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $77.69 |
+| Earnings/sale* | $77.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PeterNeuhof |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Endlich richtig gut Keyboard od. Klavier spielen können ! Nach ca. 15 Wochen kannst Du 14 Lieder mit 5 verschiedenen Akkorden und Rhythmus spielen. Schritt für Schritt Anleitung für Anfänger und Einsteiger. Das Lehrbuch wurde von einem erfahrenen Musiklehrer entwickelt und ist für Kinder, Jugendliche und Erwachsene geeignet. Der USB-Stick enthält 16 Video-Lektionen.
+**Vendor's marketplace description:** <h1><em>Endlich richtig gut Keyboard od. Klavier spielen können !</em></h1>
+<h5>Nach ca. 15 Wochen kannst Du 14 Lieder mit 5 verschiedenen Akkorden und Rhythmus spielen. Schritt für Schritt Anleitung für Anfänger und Einsteiger. Das Lehrbuch wurde von einem erfahrenen Musiklehrer entwickelt und ist für Kinder, Jugendliche und Erwachsene geeignet.</h5>
+<h5>Der USB-Stick enthält 16 Video-Lektionen.</h5>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.p-neuhof.de/keyboardkurs-vol/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/14385/adminstore/
 - Sales page: https://www.p-neuhof.de/keyboardkurs-vol/
 - Vendor affiliate support: https://www.p-neuhof.de/affiliate-supportseite-klavier-keyboard/
 - Canonical redirect: https://www.digistore24.com/redir/95881/adminstore
@@ -94,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Keyboardkurs Vol. 1, Lehrbuch inkl. USB-Stick? — Typ: Deliverable, Anbieter: PeterNeuhof, gelistet seit 2016-09-18
-- Wie viel kostet es? — 155.382396 USD
+- Wie viel kostet es? — 155.03574600000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

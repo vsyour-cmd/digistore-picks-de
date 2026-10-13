@@ -4,16 +4,16 @@ digistore24_product_id: 473279
 title: "Netzwerken für's Onlinebusiness"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 490.62
+price: 489.53
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 49.06
+earnings_per_sale: 48.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-12-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/473279?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/473279"
@@ -22,16 +22,16 @@ language: "de"
 # Netzwerken für's Onlinebusiness
 
 > Product ID `43464` · Digistore24 productId `473279` · [HTML profile page](../../produkte/netzwerken-f-r-s-onlinebusiness-43464.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $490.62 (Single payment, Installment) |
+| Price | $489.53 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $49.06 |
+| Earnings/sale* | $48.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hast du dich auch schon gefragt, warum manche Menschen mit Ihrem Onlinebusiness so schnell voran kommen?Der Schlüssel heißt: NETZWERKEN. In diesem Onlinekurs zeige ich Dir Schritt für Schritt meine besten Strategien zum Nachmachen. Du wirst begeistert sein, was du alles zurückbekommst, wenn du echten Mehrwert stiftest. Dein Onlinebusiness kann dadurch wie bei mir in kurzer Zeit auf das nächste Lev…
+**Vendor's marketplace description:** <p>Hast du dich auch schon gefragt, warum manche Menschen mit Ihrem Onlinebusiness so schnell voran kommen?<br />Der Schlüssel heißt: <strong>NETZWERKEN</strong>. In diesem Onlinekurs zeige ich Dir Schritt für Schritt meine besten <strong>Strategien zum Nachmachen</strong>. Du wirst begeistert sein, was du alles zurückbekommst, wenn du echten Mehrwert stiftest. Dein Onlinebusiness kann dadurch wie bei mir in kurzer Zeit auf das <strong>nächste Level</strong> kommen.</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -90,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Netzwerken für's Onlinebusiness? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2022-12-04
-- Wie viel kostet es? — 490.62109200000003 USD
+- Wie viel kostet es? — 489.526542 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

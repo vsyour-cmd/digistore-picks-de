@@ -4,16 +4,16 @@ digistore24_product_id: 704240
 title: "Geld verdienen mit KI"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/geld-verdienen-mit-ki?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/geld-verdienen-mit-ki"
@@ -22,16 +22,16 @@ language: "de"
 # Geld verdienen mit KI
 
 > Product ID `57262` · Digistore24 productId `704240` · [HTML profile page](../../produkte/geld-verdienen-mit-ki-57262.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „Geld verdienen mit KI“ Wie Einsteiger ChatGPT und Co. sinnvoll nutzen – KI ist ein mächtiges Werkzeug, aber kein Geldautomat. Was KI heute kann und was nicht, realistische Wege Geld zu verdienen, Texte, Bilder und Dienstleistungen mit KI und gute Prompts als Handwerk. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema …
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Geld verdienen mit KI“</strong></p>
+<p>Wie Einsteiger ChatGPT und Co. sinnvoll nutzen – KI ist ein mächtiges Werkzeug, aber kein Geldautomat. Was KI heute kann und was nicht, realistische Wege Geld zu verdienen, Texte, Bilder und Dienstleistungen mit KI und gute Prompts als Handwerk.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
+<li>Gefragtes Thema mit großer Zielgruppe</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Was KI heute wirklich kann und was nicht</li>
+<li>Realistische Wege, mit KI Geld zu verdienen</li>
+<li>Texte, Bilder und Dienstleistungen mit KI</li>
+<li>Recht, Kennzeichnung und Urheberrecht beachten</li>
+</ul>
 
 ## 2. Links
 
@@ -85,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld verdienen mit KI? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

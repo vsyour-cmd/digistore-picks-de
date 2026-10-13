@@ -4,16 +4,16 @@ digistore24_product_id: 11155
 title: "Geld- und andere Sorgen einfach ent-sorgen"
 vendor: "AngelKing"
 product_type: "Member area and video courses"
-price: 9.39
+price: 9.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.7
+earnings_per_sale: 4.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2013-02-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://king-selbstcoaching-kurse.de/geld-und-andere-sorgen-einfach-ent-sorgen-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://king-selbstcoaching-kurse.de/geld-und-andere-sorgen-einfach-ent-sorgen-2/"
@@ -22,16 +22,16 @@ language: "de"
 # Geld- und andere Sorgen einfach ent-sorgen
 
 > Product ID `491` · Digistore24 productId `11155` · [HTML profile page](../../produkte/geld-und-andere-sorgen-einfach-ent-sorgen-491.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.39 (Single payment) |
+| Price | $9.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.70 |
+| Earnings/sale* | $4.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AngelKing |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sie möchten Ihre Geld- und anderen Sorgen einfach ent-sorgen? Dann ist dieser Selbstcoaching-Kurs aus der Reihe: "Jetzt geht's den Geldblockaden an den Kragen" genau der richtige! Das Download-Paket enthält: Audio-/MP3-Datei 01A: Aufzeichnung des Geldwebinars mit einer Klärungs- und Balance-Übung, einer Schreibübung zum Herausfinden der Ängste und Sorgen sowie verschiedenen Klopfrunden zum Auflöse…
+**Vendor's marketplace description:** <p>Sie möchten Ihre Geld- und anderen Sorgen einfach ent-sorgen? Dann ist dieser Selbstcoaching-Kurs aus der Reihe: "Jetzt geht's den Geldblockaden an den Kragen" genau der richtige!</p>
+<address><strong>Das Download-Paket enthält:</strong></address>
+<ul><li><address>Audio-/MP3-Datei 01A: Aufzeichnung des Geldwebinars  mit einer Klärungs- und Balance-Übung, einer Schreibübung zum Herausfinden der Ängste und Sorgen sowie verschiedenen Klopfrunden zum Auflösen der entdeckten Ängste und Befürchtungen  – Dauer: 1 Stunde und 9 Minuten</address></li>
+<li><address>Audio-/MP3-Datei: 01B mit der Leinwandübung “Dissolving Roses – Sich auflösende Rosen” – MP3-Datei, Dauer: 22:15 Minuten</address></li>
+<li><address>Informationen zu EFT und der Technik des Geborgten Nutzens -PDF-Datei</address></li>
+<li><address>Abbildung der Power-Point-Präsentation während des Webinars – PDF-Datei</address></li>
+</ul>
 
 ## 2. Links
 
@@ -68,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld- und andere Sorgen einfach ent-sorgen? — Typ: Member area and video courses, Anbieter: AngelKing, gelistet seit 2013-02-27
-- Wie viel kostet es? — 9.390628000000001 USD
+- Wie viel kostet es? — 9.369678000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 410602
 title: "Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden"
 vendor: "Thuphi888"
 product_type: "Webinar"
-price: 279.68
+price: 279.06
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.84
+earnings_per_sale: 139.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://spirit-food.com/klarer-verstand/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/38151/adminstore/"
 sales_page: "https://spirit-food.com/klarer-verstand/"
 language: "de"
 ---
 # Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden
 
 > Product ID `38151` · Digistore24 productId `410602` · [HTML profile page](../../produkte/egregoren-wie-wir-seit-10-000-jahren-kontrolliert-werden-38151.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $279.68 (Single payment, Installment) |
+| Price | $279.06 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.84 |
+| Earnings/sale* | $139.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Thuphi888 |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Webinar "Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden" ist ein weltweit wirklich einmaliges 2-tägiges Erlebnisseminar für Jedermann das monatlich stattfindet. Der Clou dabei ist, dass der 1. Tag kostenlos ist, und sich so jedermann hautnah ein Bild davon machen und die Sachen selbst erleben kann. Mehr als 70% der Teilnehmer buchen dann im Anschluss auch den bezahlten 2. Tag Noch …
+**Vendor's marketplace description:** <p>Das Webinar "Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden" ist ein weltweit wirklich einmaliges 2-tägiges Erlebnisseminar für Jedermann das monatlich stattfindet.</p>
+<p>Der Clou dabei ist, dass der 1. Tag kostenlos ist, und sich so jedermann hautnah ein Bild davon machen und die Sachen selbst erleben kann. Mehr als 70% der Teilnehmer buchen dann im Anschluss auch den bezahlten 2. Tag</p>
+<p>Noch ehrlicheres und authentischeres Marketing ist nicht möglich!</p>
+<p>Alle folgenden Aussagen werden eingehalten und übertroffen:</p>
+<p> - in diesem Webinar bewisen wir die Esoterik</p>
+<p>- in diesem Seminar beweisen wir die     Bewusstseinsmanipulation</p>
+<p>- In diesem Webinar beweisen wir feinstoffliche Energien</p>
+<p>- In diesem Webinar beweisen wir direkt erlebbar den Manifestationsprozess</p>
+<p>- in diesem Webinar beweisen wir dass es JEDER selbst kann</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://spirit-food.com/klarer-verstand/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38151/adminstore/
 - Sales page: https://spirit-food.com/klarer-verstand/
 - Canonical redirect: https://www.digistore24.com/redir/410602/adminstore
 
@@ -80,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden? — Typ: Webinar, Anbieter: Thuphi888, gelistet seit 2021-10-04
-- Wie viel kostet es? — 279.679348 USD
+- Wie viel kostet es? — 279.055398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

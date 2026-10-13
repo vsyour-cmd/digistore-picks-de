@@ -4,34 +4,34 @@ digistore24_product_id: 466021
 title: "Das Glück liebt glückliche Menschen - von Dejan Sekulic"
 vendor: "Deinechance"
 product_type: "E-books"
-price: 3.13
+price: 3.12
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 2.5
+earnings_per_sale: 2.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Profession & Job","Services"]
 listed_since: "2022-10-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://dejansekulic.ch/glueck-ebook?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/42797/adminstore/"
 sales_page: "https://dejansekulic.ch/glueck-ebook"
 language: "de"
 ---
 # Das Glück liebt glückliche Menschen - von Dejan Sekulic
 
 > Product ID `42797` · Digistore24 productId `466021` · [HTML profile page](../../produkte/das-gl-ck-liebt-gl-ckliche-menschen-von-dejan-sekulic-42797.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $3.13 (Single payment) |
+| Price | $3.12 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $2.50 |
+| Earnings/sale* | $2.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Deinechance |
@@ -41,11 +41,33 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dejan Sekulics Amazon Bestseller Buch als Ebook zum absoluten Spitzenpreis Das Glück liebt glückliche Menschen!Nahrung für Geist und Seele. Zitate, Metaphern, Geschichten, Alltagstipps für mehr Glück, Erfolg und Lebensfreude In diesem Buch erwarten DICH: Nahrung für Geist und Seele Hilfreiche Lebensweisheiten Motivierende Zitate von grossen Persönlichkeiten Inspirierende Metaphern sowie nützliche …
+**Vendor's marketplace description:** <h1>Dejan Sekulics <br />Amazon Bestseller Buch als Ebook zum absoluten Spitzenpreis<br /><br /></h1>
+<h4><em>Das Glück liebt glückliche Menschen!<br />Nahrung für Geist und Seele. </em><br /><em>Zitate, Metaphern, Geschichten, <br />Alltagstipps für mehr Glück, Erfolg und Lebensfreude</em></h4>
+<h4><br /><em><strong>In diesem Buch erwarten DICH:</strong></em><br /><br /></h4>
+<ul>
+<li>
+<h4>Nahrung für Geist und Seele</h4>
+</li>
+<li>
+<h4>Hilfreiche Lebensweisheiten  </h4>
+</li>
+<li>
+<h4>Motivierende Zitate von grossen Persönlichkeiten</h4>
+</li>
+<li>
+<h4>Inspirierende Metaphern sowie nützliche Denkanstösse</h4>
+</li>
+<li>
+<h4>Praxistipps für mehr Glück und Lebensfreude</h4>
+</li>
+<li>
+<h4>Das Mindset erfolgreicher Menschen<br /><br />Jeder Affiliate verdient 8<span style="background-color:#ffff00;">0% Provision</span> <br />pro Verkauf </h4>
+</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://dejansekulic.ch/glueck-ebook?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/42797/adminstore/
 - Sales page: https://dejansekulic.ch/glueck-ebook
 - Vendor affiliate support: https://dejan-sekulic.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/466021/adminstore
@@ -72,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Glück liebt glückliche Menschen - von Dejan Sekulic? — Typ: E-books, Anbieter: Deinechance, gelistet seit 2022-10-22
-- Wie viel kostet es? — 3.126474 USD
+- Wie viel kostet es? — 3.1194990000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

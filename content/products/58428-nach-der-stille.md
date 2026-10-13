@@ -4,16 +4,16 @@ digistore24_product_id: 711121
 title: "Nach der Stille"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.82
+earnings_per_sale: 7.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/vermeider-nach-trennung/?aff=adminstore#aff=adminstore"
 sales_page: "https://beziehungscoach-online.de/vermeider-nach-trennung/"
@@ -22,16 +22,16 @@ language: "de"
 # Nach der Stille
 
 > Product ID `58428` · Digistore24 productId `711121` · [HTML profile page](../../produkte/nach-der-stille-58428.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.82 |
+| Earnings/sale* | $7.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das E-Book „Nach der Stille“ richtet sich an Menschen, die nach einer Trennung von einem Partner mit abweisend-vermeidendem Bindungsmuster verstehen möchten, was nach dem Beziehungsende passiert und ob eine erneute Annäherung möglich ist. Es erklärt, wie ein abweisend-vermeidender Mensch eine Trennung häufig verarbeitet, weshalb seine Reaktionen nach dem Ende einer Beziehung so schwer einzuordnen …
+**Vendor's marketplace description:** <p>Das E-Book „Nach der Stille“ richtet sich an Menschen, die nach einer Trennung von einem Partner mit abweisend-vermeidendem Bindungsmuster verstehen möchten, was nach dem Beziehungsende passiert und ob eine erneute Annäherung möglich ist.</p>
+<p>Es erklärt, wie ein abweisend-vermeidender Mensch eine Trennung häufig verarbeitet, weshalb seine Reaktionen nach dem Ende einer Beziehung so schwer einzuordnen sein können und was bei Kontakt, Abstand und einer möglichen Wiederannäherung eine Rolle spielt. Die Leser erfahren, welche Verhaltensweisen den Kontakt eher erleichtern und wodurch erneut Druck und Rückzug entstehen können. Gleichzeitig geht es darum, eine mögliche Annäherung so zu gestalten, dass daraus eine tragfähigere Beziehungsdynamik entstehen kann.</p>
+<p>Das E-Book eignet sich zur Bewerbung bei einer Zielgruppe, die eine Trennung von einem vermeidenden Partner erlebt hat, dessen Verhalten nach der Trennung besser verstehen möchte oder sich mit der Frage beschäftigt, ob und wie ein erneutes Zusammenkommen möglich sein kann.</p>
 
 ## 2. Links
 
@@ -87,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nach der Stille? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

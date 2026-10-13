@@ -4,34 +4,34 @@ digistore24_product_id: 641586
 title: "Frau im Business Onlinekurs"
 vendor: "Sinnplauderei"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.84
+earnings_per_sale: 13.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2025-10-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/641586?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54411/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/641586"
 language: "de"
 ---
 # Frau im Business Onlinekurs
 
 > Product ID `54411` · Digistore24 productId `641586` · [HTML profile page](../../produkte/frau-im-business-onlinekurs-54411.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.84 |
+| Earnings/sale* | $13.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Sinnplauderei |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate-Partner:in von Nina HartmannAls Rechtsanwältin und studierte Personalentwicklerin verbindet Nina Hartmann analytische Klarheit mit psychologischer Tiefe. Ihre Kurse unterstützen Frauen im Business dabei, sichtbar, klar und kraftvoll zu werden – mit praxiserprobten Methoden, fundiertem Wissen und spürbarer Transformation. Für dich als Affiliate-Partner:in bedeutet das: ein seriöses,…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate-Partner:in von Nina Hartmann</strong><br />Als Rechtsanwältin und studierte Personalentwicklerin verbindet Nina Hartmann analytische Klarheit mit psychologischer Tiefe. Ihre Kurse unterstützen Frauen im Business dabei, sichtbar, klar und kraftvoll zu werden – mit praxiserprobten Methoden, fundiertem Wissen und spürbarer Transformation.</p>
+<p>Für dich als Affiliate-Partner:in bedeutet das: <strong>ein seriöses, wachsendes Produktportfolio</strong>, hohe Kundenzufriedenheit und stetige Erweiterungen im Themenfeld <em>weibliche Selbstermächtigung, Business und Persönlichkeitsentwicklung</em>.<br />Empfiehl Programme, hinter denen du mit Überzeugung stehen kannst – ehrlich, professionell und wirksam.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/641586?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54411/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/641586
 - Canonical redirect: https://www.digistore24.com/redir/641586/adminstore
 
@@ -82,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frau im Business Onlinekurs? — Typ: Member area and video courses, Anbieter: Sinnplauderei, gelistet seit 2025-10-15
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

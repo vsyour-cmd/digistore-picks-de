@@ -4,34 +4,34 @@ digistore24_product_id: 626900
 title: "THE POWER OF LOVE I Der Heilige Pfad der 13 Clanmütter"
 vendor: "ThomasYoung"
 product_type: "Member area and video courses"
-price: 659.32
+price: 657.85
 currency: "USD"
 affiliate_commission_pct: 18
-earnings_per_sale: 261.46
+earnings_per_sale: 260.88
 cart_conversion_pct: 25
 cancel_rate_pct: 4.57
 categories: ["Spiri­tua­lity & Esotericism","Marketing Services"]
 listed_since: "2025-07-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.thomasyoung.online/love?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53873/adminstore/"
 sales_page: "https://www.thomasyoung.online/love"
 language: "de"
 ---
 # THE POWER OF LOVE I Der Heilige Pfad der 13 Clanmütter
 
 > Product ID `53873` · Digistore24 productId `626900` · [HTML profile page](../../produkte/the-power-of-love-i-der-heilige-pfad-der-13-clanm-tter-53873.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $659.32 (Single payment, Installment) |
+| Price | $657.85 (Single payment, Installment) |
 | Affiliate commission | 18% |
-| Earnings/sale* | $261.46 |
+| Earnings/sale* | $260.88 |
 | Cart conversion* | 25% |
 | Cancel rate* | 4.57% |
 | Vendor | ThomasYoung |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Power of Love Die Online-Jahresreise mit Thomas Young Bewerbung jetzt möglich! - Werbezeitraum ab Dez '25 Wir starten am 18.01.2026 In THE POWER OF LOVE werden die Teilnehmer ganz praktisch und aktiv 13 Monde lang mit den spezifischen Qualitäten, Stärken und Begabungen der einzelnen Clanmütter verbunden. Die in 13 Einweihungsschritten aufeinander abgestimmten Module und einzigartigen, der Vera…
+**Vendor's marketplace description:** <h1><strong>The Power of Love<br /></strong></h1>
+<h1><strong>Die Online-Jahresreise mit Thomas Young</strong></h1>
+<p><strong>Bewerbung jetzt möglich! - Werbezeitraum ab Dez '25</strong></p>
+<p><strong>Wir starten am 18.01.2026</strong></p>
+<p>In THE POWER OF LOVE werden die Teilnehmer ganz praktisch und aktiv 13 Monde lang mit den spezifischen Qualitäten, Stärken und Begabungen der einzelnen Clanmütter verbunden. Die in 13 Einweihungsschritten aufeinander abgestimmten Module und einzigartigen, der Verankerung dienenden, Meditationen, Impulse, Überraschungen, und Live Calls mit Thomas führen die Teilnehmer in ihre Höchste Kraft und machen sie gleichzeitig vertraut mit dem geheimen Wissen heiliger Medizinfrauen und den aktuellen Herzlehren.</p>
+<h1> </h1>
+<p>Thomas Young ist Bestsellerautor und erfolgreicher Weisheitslehrer, der seit über 20 Jahren seine Heilerfahrungen mit unzähligen Kursteilnehmern in der ganzen Welt teilt. Dieser Kurs umfasst die Quintessenz und populärsten Meditationen seiner Herzlehren. Die grosse Liebe, welche jede der 13 Clanmütter zur Schöpfung, zur Natur, zum Leben trägt, wird diese Jahresreise tief durchwirken und die Teilnehmer in eine neue Art zu lieben führen.</p>
+<p>Der Kurs enthält viele Bonuse, Meditationen und Extras, was deine Conversion steigert:</p>
+<h5>13  Video-Sessions mit 13 Intensiv-Meditationen</h5>
+<h5>plus 13 Online-Live-Events, Workbook und vieles mehr . .</h5>
+<h4>Werde daher jetzt zu unserem Partner und empfiehl deinen Kontakten unsere Jahresreise: <strong>THE POWER OF LOVE.</strong></h4>
+<div>Wir freuen uns auf Dich!</div>
+<div>Team Thomas Young</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.thomasyoung.online/love?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53873/adminstore/
 - Sales page: https://www.thomasyoung.online/love
 - Vendor affiliate support: http://www.thomasyoung.online/partner-page-love
 - Canonical redirect: https://www.digistore24.com/redir/626900/adminstore
@@ -78,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist THE POWER OF LOVE I Der Heilige Pfad der 13 Clanmütter? — Typ: Member area and video courses, Anbieter: ThomasYoung, gelistet seit 2025-07-30
-- Wie viel kostet es? — 659.316216 USD
+- Wie viel kostet es? — 657.845316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

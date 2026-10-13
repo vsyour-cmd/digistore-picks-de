@@ -4,16 +4,16 @@ digistore24_product_id: 666542
 title: "Minibuch: Einfach starten - sicher aufbauen"
 vendor: "digitalesonlinebusiness"
 product_type: "E-books"
-price: 22.4
+price: 22.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.21
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-02-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.juergen-luber.com/minibuch?aff=adminstore#aff=adminstore"
 sales_page: "https://www.juergen-luber.com/minibuch"
@@ -22,16 +22,16 @@ language: "de"
 # Minibuch: Einfach starten - sicher aufbauen
 
 > Product ID `56036` · Digistore24 productId `666542` · [HTML profile page](../../produkte/minibuch-einfach-starten-sicher-aufbauen-56036.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.40 (Single payment) |
+| Price | $22.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.21 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitalesonlinebusiness |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mini-E-Buch– Einfach starten,sicher aufbauen Dein Online-Einkommen ab 40+ mit System – Mit Struktur statt Stress baust du dir Schritt für Schritt ein Online-Einkommen auf, das zu deinem Leben passt. Das bekommst Du im Mini-E-Buch: Kapitel 1: Ich sehe dich Kapitel 2: Die 3 größten Fallen Kapitel 3: Dein System, das zu Dir passt Kapitel 4: Das 3-Säulen-Modell Kapitel 5: Die 3-Sofortschritte Kapitel …
+**Vendor's marketplace description:** <h2><strong>Mini-E-Buch– Einfach starten,sicher aufbauen</strong></h2>
+<h3><strong>Dein Online-Einkommen ab 40+ mit System – Mit Struktur statt Stress baust du dir Schritt für Schritt ein Online-Einkommen auf, das zu deinem Leben passt.</strong></h3>
+<h3><strong>Das bekommst Du im Mini-E-Buch:</strong></h3>
+<h3><strong>Kapitel 1: Ich sehe dich</strong></h3>
+<h3><strong>Kapitel 2: Die 3 größten Fallen</strong></h3>
+<h3><strong>Kapitel 3: Dein System, das zu Dir passt</strong></h3>
+<h3><strong>Kapitel 4: Das 3-Säulen-Modell</strong></h3>
+<h3><strong>Kapitel 5: Die 3-Sofortschritte</strong></h3>
+<h3><strong>Kapitel 6: Bleib dran</strong></h3>
+<h3><strong>Kapitel 7: Anfängerfehler vermeiden</strong></h3>
 
 ## 2. Links
 
@@ -85,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Minibuch: Einfach starten - sicher aufbauen? — Typ: E-books, Anbieter: digitalesonlinebusiness, gelistet seit 2026-02-04
-- Wie viel kostet es? — 22.400793999999998 USD
+- Wie viel kostet es? — 22.350819 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

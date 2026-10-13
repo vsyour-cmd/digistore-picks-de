@@ -4,16 +4,16 @@ digistore24_product_id: 663868
 title: "SalesPals Systems - All-In Class"
 vendor: "SalesPalsSystems"
 product_type: "Telephone coaching"
-price: 43.3
+price: 43.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 21.65
+earnings_per_sale: 21.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Sales Training","Marketing Services"]
 listed_since: "2026-01-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/663868?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/663868"
@@ -22,16 +22,16 @@ language: "de"
 # SalesPals Systems - All-In Class
 
 > Product ID `55308` · Digistore24 productId `663868` · [HTML profile page](../../produkte/salespals-systems-all-in-class-55308.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $43.30 (Subscription) |
+| Price | $43.20 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $21.65 |
+| Earnings/sale* | $21.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SalesPalsSystems |
@@ -41,7 +41,170 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** SalesPals Systems – All-In (6 Monate) Strukturierter Aufbau eines digitalen Systems über Social Media Reichweite SalesPals Systems – All-In ist ein 6-monatiges Begleitprogramm für Menschen, die sich über Social Media Reichweite ein zusätzliches digitales Einkommen aufbauen möchten. Das Programm ist: 100 % anonym umsetzbar ortsunabhängig mit einem Zeitaufwand von ca. 1–2 Stunden pro Tag umsetzbar m…
+**Vendor's marketplace description:** <h2>SalesPals Systems – All-In (6 Monate)</h2>
+<p><strong>Strukturierter Aufbau eines digitalen Systems über Social Media Reichweite</strong></p>
+<p>SalesPals Systems – All-In ist ein <strong>6-monatiges Begleitprogramm</strong> für Menschen, die sich über <strong>Social Media Reichweite</strong> ein <strong>zusätzliches digitales Einkommen</strong> aufbauen möchten.</p>
+<p>Das Programm ist:</p>
+<ul>
+<li>
+<p><strong>100 % anonym umsetzbar</strong></p>
+</li>
+<li>
+<p><strong>ortsunabhängig</strong></p>
+</li>
+<li>
+<p>mit einem Zeitaufwand von ca. <strong>1–2 Stunden pro Tag</strong></p>
+</li>
+<li>
+<p>umsetzbar mit <strong>Smartphone und stabilem Internet</strong></p>
+</li>
+</ul>
+<hr />
+<h3>Kern des Programms</h3>
+<p>Im Fokus steht der <strong>systematische Aufbau von Reichweite</strong>, die <strong>strategisch genutzt und skaliert</strong> werden kann.<br />Dabei werden moderne <strong>KI-Tools</strong>, klare Strukturen und wiederholbare Prozesse eingesetzt.</p>
+<p>Zentrale Themen:</p>
+<ul>
+<li>
+<p>Aufbau und Entwicklung <strong>funktionierender Themenseiten</strong></p>
+</li>
+<li>
+<p>effiziente Content-Erstellung mithilfe von <strong>KI</strong></p>
+</li>
+<li>
+<p>klare Positionierung und visuelle Ausrichtung</p>
+</li>
+<li>
+<p>strukturierter Reichweitenaufbau</p>
+</li>
+<li>
+<p>Monetarisierung digitaler Inhalte</p>
+</li>
+<li>
+<p>Skalierung über mehrere Accounts und Systeme</p>
+</li>
+</ul>
+<hr />
+<h3>Ablauf &amp; Betreuung</h3>
+<ul>
+<li>
+<p>Die Kommunikation erfolgt <strong>ausschließlich über WhatsApp Business</strong></p>
+</li>
+<li>
+<p>Teilnehmer erhalten Zugang zu:</p>
+<ul>
+<li>
+<p>einer <strong>FAQ- &amp; Austauschgruppe</strong></p>
+</li>
+<li>
+<p><strong>wöchentlichen Gruppen-Calls</strong></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>1 Gruppen-Call pro Woche</strong> mit Fokus auf:</p>
+<ul>
+<li>
+<p>Austausch</p>
+</li>
+<li>
+<p>Problemlösungen</p>
+</li>
+<li>
+<p>strategische Weiterentwicklung</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Laufende Betreuung innerhalb der Gruppe</p>
+</li>
+<li>
+<p><strong>Individuelle Profil- und Fortschrittsanalysen</strong></p>
+</li>
+<li>
+<p>Konkrete Optimierungsempfehlungen</p>
+</li>
+</ul>
+<p><strong>Begleitdauer:</strong><br /><strong>6 Monate</strong></p>
+<hr />
+<h3>Inhalte der All-In Class</h3>
+<h4>Entry / Foundation</h4>
+<ul>
+<li>
+<p>Systemverständnis &amp; Grundlagen</p>
+</li>
+<li>
+<p>Social-Media-Mechaniken (Algorithmen, Reichweite, Trends)</p>
+</li>
+<li>
+<p>Plattformverständnis (Instagram, TikTok &amp; Co.)</p>
+</li>
+<li>
+<p>Analyse von Skills &amp; Interessen</p>
+</li>
+<li>
+<p>Strategische Einordnung des Modells</p>
+</li>
+</ul>
+<h4>Mid Class</h4>
+<ul>
+<li>
+<p>Aufbau funktionierender Themenseiten</p>
+</li>
+<li>
+<p>Positionierung &amp; Ästhetik</p>
+</li>
+<li>
+<p>Content-Logik &amp; Posting-Struktur</p>
+</li>
+<li>
+<p>KI-Tools für Content-Erstellung</p>
+</li>
+<li>
+<p>Reichweitenaufbau (eine &amp; mehrere Seiten)</p>
+</li>
+<li>
+<p>Monetarisierung von Content</p>
+</li>
+<li>
+<p>Einführung in Partnerprogramme &amp; eigene Produkte</p>
+</li>
+<li>
+<p>Fester Q&amp;A- / Gruppen-Call</p>
+</li>
+</ul>
+<h4>Master Class</h4>
+<ul>
+<li>
+<p>Individuelle Analyse bestehender Accounts</p>
+</li>
+<li>
+<p>Strategie- und Fokusentscheidungen</p>
+</li>
+<li>
+<p>Optimierung &amp; Skalierung</p>
+</li>
+<li>
+<p>Fehleranalyse und Korrekturen</p>
+</li>
+<li>
+<p>Feinjustierung mehrerer Themenseiten</p>
+</li>
+<li>
+<p>Umgang mit Wachstums- und Umsetzungsblockaden</p>
+</li>
+<li>
+<p>Feste Live-Calls</p>
+</li>
+<li>
+<p>Direkter Zugriff auf die Mentorin</p>
+</li>
+<li>
+<p>Optional: <strong>Upgrade auf VIP 1:1</strong></p>
+</li>
+</ul>
+<p> </p>
+<hr />
+<p><strong>Kurzfassung für die Empfehlung:</strong><br />Ein 6-monatiges, strukturiertes Programm zum <strong>anonymen Aufbau und zur Skalierung digitaler Systeme über Social Media Reichweite</strong>, inklusive Betreuung, Analyse und strategischer Begleitung.</p>
 
 ## 2. Links
 
@@ -91,7 +254,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SalesPals Systems - All-In Class? — Typ: Telephone coaching, Anbieter: SalesPalsSystems, gelistet seit 2026-01-24
-- Wie viel kostet es? — 43.299984 USD
+- Wie viel kostet es? — 43.20338400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

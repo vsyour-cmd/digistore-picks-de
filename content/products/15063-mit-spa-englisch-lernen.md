@@ -4,34 +4,34 @@ digistore24_product_id: 116113
 title: "Mit Spaß Englisch Lernen"
 vendor: "FlyCoach"
 product_type: "Downloads"
-price: 22.6
+price: 22.55
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.31
+earnings_per_sale: 11.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-01-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://englisch-nachhilfe-pforzheim.de/digi-premium-verkauf/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/15063/adminstore/"
 sales_page: "https://englisch-nachhilfe-pforzheim.de/digi-premium-verkauf/"
 language: "de"
 ---
 # Mit Spaß Englisch Lernen
 
 > Product ID `15063` · Digistore24 productId `116113` · [HTML profile page](../../produkte/mit-spa-englisch-lernen-15063.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.60 (Single payment) |
+| Price | $22.55 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.31 |
+| Earnings/sale* | $11.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FlyCoach |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Premium Account für die Webseite: Englisch-Nachhilfe-Pforzheim Zugriff auf über 100 extra Online-Übungen, Texte, Diktate, Multiple Choice Aufgaben und Übersetzungsübungen. Über 100 DIN A4 Seiten Bonusmaterial zum Ausdrucken gratis
+**Vendor's marketplace description:** <h1><strong>Premium Account für die Webseite:</strong></h1>
+<p><a title="Englisch Nachhilfe Pforzheim - Übungen" href="https://englisch-nachhilfe-pforzheim.de/" target="_blank" rel="noreferrer noopener">Englisch-Nachhilfe-Pforzheim</a></p>
+<ul><li>Zugriff auf <strong>über 100 extra </strong>Online-Übungen, Texte, Diktate, Multiple Choice Aufgaben und Übersetzungsübungen.</li>
+<li>Über 100 DIN A4 Seiten Bonusmaterial zum Ausdrucken <strong>gratis</strong></li>
+</ul><p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://englisch-nachhilfe-pforzheim.de/digi-premium-verkauf/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/15063/adminstore/
 - Sales page: https://englisch-nachhilfe-pforzheim.de/digi-premium-verkauf/
 - Canonical redirect: https://www.digistore24.com/redir/116113/adminstore
 
@@ -73,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit Spaß Englisch Lernen? — Typ: Downloads, Anbieter: FlyCoach, gelistet seit 2017-01-28
-- Wie viel kostet es? — 22.602502 USD
+- Wie viel kostet es? — 22.552077000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 528400
 title: "Die Erdkraftkarte-Die Energieladestelle für Mensch und Tier"
 vendor: "raiblo"
 product_type: "Deliverable"
-price: 61.21
+price: 61.07
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 18.37
+earnings_per_sale: 18.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-12-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://meine-erdkraftkarte.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://meine-erdkraftkarte.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Die Erdkraftkarte-Die Energieladestelle für Mensch und Tier
 
 > Product ID `46362` · Digistore24 productId `528400` · [HTML profile page](../../produkte/die-erdkraftkarte-die-energieladestelle-f-r-mensch-und-tier-46362.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $61.21 (Single payment) |
+| Price | $61.07 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $18.37 |
+| Earnings/sale* | $18.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | raiblo |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Erkraft-Lichtkarte ist die neue Energiemedizin!Sie wird eingesetzt als Ladestation zur Energetisierung, Leistungssteigerung und Meditation. Die Erdkraftkarte - Die Energieladestelle für Mensch & Tier! Die Lebensenergie die die Erdkraftkarte abgibt, können sensitive Menschen spüren. Sie sind elanvoller und haben mehr Power. Auch normales Wasser, welches man auf der Erdkraftkarte stellt, lässt s…
+**Vendor's marketplace description:** <p><strong>Die Erkraft-Lichtkarte ist die neue Energiemedizin!</strong><br />Sie wird eingesetzt als Ladestation zur Energetisierung, Leistungssteigerung und Meditation.</p>
+<p><strong>Die Erdkraftkarte - Die Energieladestelle für Mensch &amp; Tier!</strong></p>
+<p>Die Lebensenergie die die Erdkraftkarte abgibt, können sensitive Menschen spüren.  Sie sind elanvoller und haben mehr Power.</p>
+<p>Auch normales Wasser, welches man auf der Erdkraftkarte stellt,  lässt sich in Heilwasser umwandeln.</p>
+<p><strong>Die Provision beträgt ca. 16 € netto.</strong></p>
+<p><strong>• Die Zielgruppe:</strong></p>
+<p>Käufer sind Liebhaber von Esoterikartikeln , Reiki-Praktiker/innen und eigentlich alle Menschen, welche die oben genannten Produkteigenschaften zu schätzen wissen (gesundheitsbewußte Menschen, Sportler).</p>
 
 ## 2. Links
 
@@ -77,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Erdkraftkarte-Die Energieladestelle für Mensch und Tier? — Typ: Deliverable, Anbieter: raiblo, gelistet seit 2023-12-05
-- Wie viel kostet es? — 61.207172 USD
+- Wie viel kostet es? — 61.070622 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

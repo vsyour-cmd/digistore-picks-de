@@ -4,16 +4,16 @@ digistore24_product_id: 145327
 title: "PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)"
 vendor: "profitbiz"
 product_type: "Downloads"
-price: 187.4
+price: 186.98
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 131.18
+earnings_per_sale: 130.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Health & Fitness"]
 listed_since: "2026-07-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://david-emmerich-coaching.com/nie-wieder-impotenz-cpd?aff=adminstore#aff=adminstore"
 sales_page: "https://david-emmerich-coaching.com/nie-wieder-impotenz-cpd"
@@ -22,16 +22,16 @@ language: "de"
 # PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)
 
 > Product ID `57672` · Digistore24 productId `145327` · [HTML profile page](../../produkte/potenzformel-70-provision-video-komplettpaket-f-r-die-m-nner-nische-potenz-und-erektion-57672.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $187.40 (Single payment) |
+| Price | $186.98 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $131.18 |
+| Earnings/sale* | $130.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | profitbiz |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die PotenzFormel ist das bewährte Video-Komplettpaket von David Emmerich für Männer mit Potenz- und Erektionsproblemen (Kernzielgruppe 35+). Digitales Produkt: Sofort-Zugang, keine Versandkosten, weltweit bewerbbar. 70 % Provision auf den Nettoverkaufspreis Endpreis 47 € statt 199 € – der Rabatt wird über die Verkaufsseite automatisch übergeben Provision auch auf die Upsells im Funnel (u. a. Testo…
+**Vendor's marketplace description:** <p><strong>Die PotenzFormel</strong> ist das bewährte Video-Komplettpaket von David Emmerich für Männer mit Potenz- und Erektionsproblemen (Kernzielgruppe 35+). Digitales Produkt: Sofort-Zugang, keine Versandkosten, weltweit bewerbbar.</p>
+<ul>
+<li><strong>70 % Provision</strong> auf den Nettoverkaufspreis</li>
+<li>Endpreis 47 € statt 199 € – der Rabatt wird über die Verkaufsseite automatisch übergeben</li>
+<li>Provision auch auf die Upsells im Funnel (u. a. Testosteron Treiber, LustFormel)</li>
+<li>Conversion-erprobte Video-Verkaufsseite (VSL)</li>
+<li>30 Tage Geld-zurück-Garantie, Abwicklung komplett über Digistore24</li>
+</ul>
+<p>Verkaufsseite: https://david-emmerich-coaching.com/nie-wieder-impotenz-cpd<br />Alle Infos: https://david-emmerich-coaching.com/partnerprogramm</p>
 
 ## 2. Links
 
@@ -80,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion)? — Typ: Downloads, Anbieter: profitbiz, gelistet seit 2026-07-22
-- Wie viel kostet es? — 187.39793799999998 USD
+- Wie viel kostet es? — 186.979863 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

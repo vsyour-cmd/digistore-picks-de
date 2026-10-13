@@ -4,16 +4,16 @@ digistore24_product_id: 392852
 title: "WAKE UP AND SHINE"
 vendor: "InaHaskic"
 product_type: "Member area and video courses"
-price: 189.28
+price: 188.86
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 94.65
+earnings_per_sale: 94.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-06-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://diamondangel.de/wake-up-and-shine/?aff=adminstore#aff=adminstore"
 sales_page: "https://diamondangel.de/wake-up-and-shine/"
@@ -22,16 +22,16 @@ language: "de"
 # WAKE UP AND SHINE
 
 > Product ID `29258` · Digistore24 productId `392852` · [HTML profile page](../../produkte/wake-up-and-shine-29258.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $189.28 (Single payment, Installment) |
+| Price | $188.86 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $94.65 |
+| Earnings/sale* | $94.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | InaHaskic |
@@ -41,7 +41,52 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DEIN SPIRITUELLER ONLINE-WORKSHOP DIY-Videokurs für Deine Herzverbindung, Vision, Meditation, Manifestation & Dein neues Mindset Die Reise zu einem erfüllten Leben beginnt jetzt – und Du kannst sie erleben! Unser Online-Workshop "Wake up and Shine" bereitet Dich in nur 90 Minuten auf eine tiefgreifende Transformation vor. Wenn Du danach strebst, Deine Gedanken und Emotionen positiv zu verändern, n…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>DEIN SPIRITUELLER ONLINE-WORKSHOP</div>
+<p><strong>DIY-Videokurs </strong><strong>für Deine Herzverbindung, Vision, Meditation, Manifestation &amp; Dein neues Mindset </strong></p>
+</div>
+<div>
+<p>Die Reise zu einem erfüllten Leben beginnt jetzt – und Du kannst sie erleben!</p>
+<p>Unser Online-Workshop "Wake up and Shine" bereitet Dich in nur 90 Minuten auf eine tiefgreifende Transformation vor. Wenn Du danach strebst, Deine Gedanken und Emotionen positiv zu verändern, nach mehr Energie sehnst und Deine innere Mitte finden möchtest, dann ist dieser Workshop genau das Richtige für Dich.</p>
+<p>Was erwartet Dich in diesem inspirierenden Workshop?</p>
+<p><strong>7 KRAFTVOLLE MEDITATIONEN</strong></p>
+<p>Diese Meditationen sind der Schlüssel zur Stärkung Deiner Intuition und Herzverbindung. Sie werden Dich auf eine Reise führen, die Dein Leben auf tiefgreifende Weise verändern kann.</p>
+<p><strong>EIN VÖLLIG NEUES MINDSET</strong></p>
+<p>Erfahre, wie Du mehr Energie, Leichtigkeit und Lebensfreude in Dein Leben ziehst. Die Werkzeuge und Einsichten, die Du hier erhältst, sind der Schlüssel zu einem erfüllten Dasein.</p>
+<p><strong>DIE KUNST DES MANIFESTIERENS</strong></p>
+<p>Lerne, wie Du Deine Herzenswünsche richtig manifestierst, um sie zur Wirklichkeit werden zu lassen. Deine Visionen können Realität werden, und wir zeigen Dir, wie das geht.</p>
+<p>Stell Dir vor, wie es wäre, wenn Du regelmäßig und erfolgreich Deine Herzenswünsche manifestierst, um ein erfülltes Leben zu führen. Du wirst erfahren, wie Du Deine Gedanken lenkst und Deine Schwingung erhöhst, um voller Energie zu sein.</p>
+<p> </p>
+<p>Unsere Module im Überblick:</p>
+<ol>
+<li>
+<p><strong>Modul 1: Inneres Gleichgewicht</strong>: Finde Deine innere Stärke und lerne, Stress in Leichtigkeit zu verwandeln. Entdecke, wie Deine Emotionen, Gedanken und Glaubenssätze Dein Leben beeinflussen und wie Du sie positiv verändern kannst.</p>
+</li>
+<li>
+<p><strong>Modul 2: Verbindung mit dem Herzen</strong>: Entdecke den goldenen Schlüssel zum Glücklichsein, indem Du Dich mit Deinem Herzen verbindest. Löse alte Verletzungen auf und finde den Weg zu Deinen Träumen.</p>
+</li>
+<li>
+<p><strong>Modul 3: Manifestieren Deiner Visionen</strong>: Tauche ein in Deine Zukunft und finde Deine verlorenen Wünsche und Träume wieder. Lerne, wie Deine Gedanken Dich bisher blockiert haben und erhalte die Anleitung, wie Du Deine Herzenswünsche verwirklichen kannst.</p>
+</li>
+</ol>
+<p><strong>Bonus-Modul</strong>: Praktische Tipps, um sofort loszulegen und Dein Leben zu verändern.</p>
+<p> </p>
+<p>Zusätzlich erhältst Du 7 wundervolle Meditationen, darunter Chakrenreinigung, Herzheilung und Zielverstärkung.</p>
+<h2><strong>+</strong></h2>
+<div><strong>MANIFESTATION REICHTUM</strong></div>
+<div> </div>
+<div>Aufgaben und Affirmationen zur Manifestation von Reichtum, Wohlstand und finanzielle Fülle in einer Woche</div>
+<div>und 2 Bonusmeditationen für Klarheit &amp; Reichtum</div>
+<div> </div>
+<p>Deine Reise zu einem erfüllten Leben beginnt hier und jetzt!</p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -98,7 +143,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WAKE UP AND SHINE? — Typ: Member area and video courses, Anbieter: InaHaskic, gelistet seit 2021-06-03
-- Wie viel kostet es? — 189.28054600000002 USD
+- Wie viel kostet es? — 188.858271 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

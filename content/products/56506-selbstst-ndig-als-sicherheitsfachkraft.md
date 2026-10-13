@@ -4,16 +4,16 @@ digistore24_product_id: 682122
 title: "Selbstständig als Sicherheitsfachkraft"
 vendor: "Ullertec"
 product_type: "E-books"
-price: 73.3
+price: 73.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.65
+earnings_per_sale: 36.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2026-04-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/682122?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/682122"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstständig als Sicherheitsfachkraft
 
 > Product ID `56506` · Digistore24 productId `682122` · [HTML profile page](../../produkte/selbstst-ndig-als-sicherheitsfachkraft-56506.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $73.30 (Single payment) |
+| Price | $73.13 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.65 |
+| Earnings/sale* | $36.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ullertec |
@@ -41,7 +41,34 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit diesem Praxisleitfaden lernen Fachkräfte für Arbeitssicherheit Schritt für Schritt, wie sie erfolgreich in die Selbstständigkeit starten. Das E-Book vermittelt praxisnah den Aufbau eines eigenen Dienstleistungsunternehmens im Bereich Arbeitsschutz – von den ersten Kunden über Angebote und Vertragsstrukturen bis hin zu Gefährdungsbeurteilungen, Unterweisungen und professionellen Abläufen. Keine…
+**Vendor's marketplace description:** <div>
+<div> </div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Mit diesem Praxisleitfaden lernen Fachkräfte für Arbeitssicherheit Schritt für Schritt, wie sie erfolgreich in die Selbstständigkeit starten.</p>
+<p>Das E-Book vermittelt praxisnah den Aufbau eines eigenen Dienstleistungsunternehmens im Bereich Arbeitsschutz – von den ersten Kunden über Angebote und Vertragsstrukturen bis hin zu Gefährdungsbeurteilungen, Unterweisungen und professionellen Abläufen. Keine Theorie, sondern echte Erfahrungen aus der Praxis.</p>
+<p>Die Nachfrage nach externen Fachkräften für Arbeitssicherheit wächst kontinuierlich. Unternehmen benötigen aufgrund gesetzlicher Vorgaben nach ASiG und DGUV Vorschrift 2 qualifizierte Betreuung, während gleichzeitig viele erfahrene Sicherheitsfachkräfte in den kommenden Jahren aus dem Markt ausscheiden.</p>
+<p>Ideal für Affiliates im Bereich:</p>
+<ul>
+<li>Arbeitsschutz</li>
+<li>Weiterbildung</li>
+<li>Karriere &amp; Selbstständigkeit</li>
+<li>Industrie &amp; B2B</li>
+</ul>
+<p>Digitale Wissensprodukte für Fachkräfte im Arbeitsschutz gehören zu einer stark wachsenden Zukunftsbranche mit hoher Nachfrage.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -79,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstständig als Sicherheitsfachkraft? — Typ: E-books, Anbieter: Ullertec, gelistet seit 2026-04-04
-- Wie viel kostet es? — 73.298446 USD
+- Wie viel kostet es? — 73.134921 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

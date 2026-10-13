@@ -4,16 +4,16 @@ digistore24_product_id: 25521
 title: "EasyActivePlus-Kurs"
 vendor: "crack1967"
 product_type: "Member area and video courses"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.4
+earnings_per_sale: 27.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2014-05-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://easyactiveplus.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://easyactiveplus.de/"
@@ -22,16 +22,16 @@ language: "de"
 # EasyActivePlus-Kurs
 
 > Product ID `3983` · Digistore24 productId `25521` · [HTML profile page](../../produkte/easyactiveplus-kurs-3983.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.40 |
+| Earnings/sale* | $27.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | crack1967 |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** EasyActivePlus - Mühelos zum Idealgewicht Volker Knehr - seit 20 Jahren Trainer und Coach - hatte selbst lange Jahre 40 Kilo Übergewicht. Er probierte die gängigsten Methoden und Diäten aus und hatte auch immer wieder Erfolge. Doch sobald er mit den Programmen wieder aufhörte, kamen die Kilos zuverlässig wieder zurück. Anfang 2011 entdeckte er dann das Geheimnis aller "natürlich Schlanken" und beg…
+**Vendor's marketplace description:** <h1>EasyActivePlus - Mühelos zum Idealgewicht</h1>
+<p>Volker Knehr - seit 20 Jahren Trainer und Coach - hatte selbst lange Jahre 40 Kilo Übergewicht. Er probierte die gängigsten Methoden und Diäten aus und hatte auch immer wieder Erfolge. Doch sobald er mit den Programmen wieder aufhörte, kamen die Kilos zuverlässig wieder zurück.<br /><br /></p>
+<p>Anfang 2011 entdeckte er dann das Geheimnis aller "natürlich Schlanken" und begann – ausschließlich für sich selbst - ein Konzept zu basteln, um wirklich dauerhaft abzunehmen.<br /><br /></p>
+<p>Volker Knehr hat mit diesem Konzept selbst in kürzester Zeit 40 Kilo abgenommen und seit Jahren bleibt das Gewicht konstant. Er hat den einzig wahren Hauptdickmacher für Übergewicht entdeckt und auch, wie man diesen dauerhaft eliminiert. Und dieser Hauptdickmacher hat nichts mit Essen oder mangelnder Bewegung zu tun.<br /><br /></p>
+<p><strong>Die Folge dieses Prozesses:</strong><br />Essen können was man möchte, und dennoch dauerhaft schlank bleiben!<br /><br /></p>
+<p>Im Laufe der Zeit haben Hunderte dieses Konzept erfolgreich umgesetzt und jeder der sich an dieses einfache Konzept hält, erlebt dieselben Erfolge!</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -82,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EasyActivePlus-Kurs? — Typ: Member area and video courses, Anbieter: crack1967, gelistet seit 2014-05-12
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

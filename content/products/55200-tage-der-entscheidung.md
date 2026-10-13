@@ -4,16 +4,16 @@ digistore24_product_id: 621434
 title: "Tage der Entscheidung"
 vendor: "Joerg-Loehr-ET"
 product_type: "Seminar/event for recreation"
-price: 2111.21
+price: 2106.5
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 560.3
+earnings_per_sale: 559.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Marketing Services"]
 listed_since: "2025-06-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://partner.joerg-loehr.com/seminare/tagederentscheidung?aff=adminstore#aff=adminstore"
 sales_page: "https://partner.joerg-loehr.com/seminare/tagederentscheidung"
@@ -22,16 +22,16 @@ language: "de"
 # Tage der Entscheidung
 
 > Product ID `55200` · Digistore24 productId `621434` · [HTML profile page](../../produkte/tage-der-entscheidung-55200.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar/event for recreation |
-| Price | $2111.21 (Single payment, Installment) |
+| Price | $2106.50 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $560.30 |
+| Earnings/sale* | $559.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Joerg-Loehr-ET |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Tage der Entscheidung –Erfolgreich LEBEN DEIN Seminar, wenn es um deine persönliche Weiterentwicklung geht. Lerne an nur 2,5 Tagen, wie du erreichbare Ziele setzt, Selbstzweifel überwindest und mit unerschöpflicher Motivation an der Realisierung deines Traumlebens arbeitest. Deine Lebensziele Entdecke deine wahren Stärken und wie du diese nutzt, um deine Lebensziele langfristig und konsequent zu e…
+**Vendor's marketplace description:** <h1>Tage der Entscheidung –<br />Erfolgreich LEBEN</h1>
+<div>
+<p>DEIN Seminar, wenn es um deine persönliche Weiterentwicklung geht.</p>
+<h2>Lerne an nur 2,5 Tagen, wie du erreichbare Ziele setzt, Selbstzweifel überwindest und mit unerschöpflicher Motivation an der Realisierung deines Traumlebens arbeitest.</h2>
+<h3>Deine Lebensziele</h3>
+<div>
+<p>Entdecke deine wahren Stärken und wie du diese nutzt, um deine Lebensziele langfristig und konsequent zu erreichen.</p>
+<h3>Die besten Methoden</h3>
+<div>
+<p>Lerne die exakten Methoden, die Hunderte erfolgreiche Menschen als ihren entscheidenden Auslöser zu privatem und beruflichem Glück bezeichnen.</p>
+<h3>Dein Erfolg</h3>
+<div>
+<p>Erfahre, wie du Erfolg nicht nur planbar, sondern zur Gewohnheit machst und damit jeden Tag deinem Traumleben ein Stück näher kommst.</p>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -88,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tage der Entscheidung? — Typ: Seminar/event for recreation, Anbieter: Joerg-Loehr-ET, gelistet seit 2025-06-30
-- Wie viel kostet es? — 2111.2104 USD
+- Wie viel kostet es? — 2106.5004000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

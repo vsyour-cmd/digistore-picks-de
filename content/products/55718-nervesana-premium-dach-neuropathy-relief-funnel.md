@@ -4,16 +4,16 @@ digistore24_product_id: 670068
 title: "NerveSana - Premium DACH Neuropathy Relief Funnel"
 vendor: "DS24-MySana"
 product_type: "Supplements - health"
-price: 77.32
+price: 77.15
 currency: "USD"
-affiliate_commission_pct: 60
-earnings_per_sale: 46.39
+affiliate_commission_pct: 65
+earnings_per_sale: 50.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-02-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://nervesana.com/nervesana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://nervesana.com/nervesana-pdp-fe"
@@ -22,16 +22,16 @@ language: "de"
 # NerveSana - Premium DACH Neuropathy Relief Funnel
 
 > Product ID `55718` · Digistore24 productId `670068` · [HTML profile page](../../produkte/nervesana-premium-dach-neuropathy-relief-funnel-55718.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.32 (Single payment) |
-| Affiliate commission | 60% |
-| Earnings/sale* | $46.39 |
+| Price | $77.15 (Single payment) |
+| Affiliate commission | 65% |
+| Earnings/sale* | $50.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS24-MySana |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** NerveSana - Premium DACH Neuropathy Relief Funnel Supplements - for nerve health While US affiliates drown in neuropathy relief saturation, smart media buyers are crushing it in the 110-million-person DACH German-speaking market (one third of the US maket) with NerveSana—the latest winner from the team behind GlucoTrust, SlimSana, KetoSana, MetaboSana, CleanseSana, GlucoSana and VigorSana. The hoo…
+**Vendor's marketplace description:** <p><strong>NerveSana - Premium DACH Neuropathy Relief Funnel</strong></p>
+<p><strong>Supplements - for nerve health</strong></p>
+<p>While US affiliates drown in neuropathy relief saturation, smart media buyers are crushing it in the 110-million-person DACH German-speaking market (one third of the US maket) with NerveSana—the latest winner from the team behind GlucoTrust, SlimSana, KetoSana, MetaboSana, CleanseSana, GlucoSana and VigorSana. The hook? A Harvard-trained doctor reveals why 8.3 million Germans suffer neuropathy... despite trying everything and every specialist. The problem: a three-enzyme "destruction cascade" (COX-2, PGE-2, MMP-13) eating nerve tissue alive that 87% of German neurologists miss entirely. The solution: the "Ikaria Anomaly" discovery—where 90-year-old Greeks have healthier nerves than 40-year-old Germans (0.3% vs 23.7% neuropathy rate)—isolated into 9 pharmaceutical-grade ingredients that systematically STOP enzyme destruction in four phases. Backed by peer-reviewed studies. Deep funnel = €177-294 AOV.  Commissions starting at 60%. CPA deals (€110-€150) ($130 - $180) available. DACH traffic is 40-60% CHEAPER than US with buyers who spend MORE and trust REAL science. Converts freezing cold traffic because the "why you've failed before" story + Harvard credentials crush skepticism instantly. Low refunds. Built-in upsell synergy with MetaboSana/SlimSana/GlucoTrust. Same proven team. Same market mastery. 8.3 million desperate Germans ready to buy. First-movers eat. Late arrivals starve.</p>
 
 ## 2. Links
 
@@ -112,7 +114,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NerveSana - Premium DACH Neuropathy Relief Funnel? — Typ: Supplements - health, Anbieter: DS24-MySana, gelistet seit 2026-02-19
-- Wie viel kostet es? — 77.3214 USD
+- Wie viel kostet es? — 77.14890000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

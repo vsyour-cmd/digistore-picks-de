@@ -4,16 +4,16 @@ digistore24_product_id: 637958
 title: "Onlinekongress Entzündungen entschlüsseln"
 vendor: "IreneSmiatek"
 product_type: "Member area and video courses"
-price: 45.62
+price: 45.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 48.3
+earnings_per_sale: 48.19
 cart_conversion_pct: 7
 cancel_rate_pct: 6.85
 categories: ["Health & Fitness"]
 listed_since: "2025-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.irenesmiatek.com/2505me-onlinekongress-vorlage-kongresspaket-verkaufsseite?aff=adminstore#aff=adminstore"
 sales_page: "https://www.irenesmiatek.com/2505me-onlinekongress-vorlage-kongresspaket-verkaufsseite"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekongress Entzündungen entschlüsseln
 
 > Product ID `54960` · Digistore24 productId `637958` · [HTML profile page](../../produkte/onlinekongress-entz-ndungen-entschl-sseln-54960.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $45.62 (Single payment, Installment) |
+| Price | $45.52 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $48.30 |
+| Earnings/sale* | $48.19 |
 | Cart conversion* | 7% |
 | Cancel rate* | 6.85% |
 | Vendor | IreneSmiatek |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Onlinekongress Entzündungen entschlüsseln - Für ein Leben in Energie, Leichtigkeit und Gesundheit. Erlebe 18 Expertinnen und Experten,die dir praxisnah zeigen,wie wir unsere Gesundheit durch dierichtige Ernährung und Lebensweise bewusstgestalten können und welche Rollestille, chronische Entzündungen dabei spielen und entdecke deinen neuen Blick auf Gesundheit: Erkenne die verborgenen Ursachen von …
+**Vendor's marketplace description:** <p>Onlinekongress Entzündungen entschlüsseln - Für ein Leben in Energie, Leichtigkeit und Gesundheit.</p>
+<p><strong>Erlebe 18 Expertinnen und Experten,<br />die dir praxisnah zeigen,<br /></strong><strong>wie wir unsere Gesundheit durch die<br />richtige Ernährung und Lebensweise bewusst<br />gestalten können </strong><strong>und welche Rolle<br />stille, chronische Entzündungen dabei spielen</strong></p>
+<div>
+<p><strong>und entdecke deinen neuen Blick auf Gesundheit:</strong></p>
+</div>
+<div>
+<ul>
+<li>Erkenne die <strong>verborgenen Ursachen</strong> von <strong>Erschöpfung, Schmerzen </strong>und <strong>Krankheiten</strong> – und wie du sie mit <strong>einfachen Schritten</strong> auflösen kannst </li>
+<li>Entdecke, wie <strong>gezielte Ernährung</strong> und <strong>kleine Lebensstilveränderungen</strong> Entzündungen stoppen und dir <strong>neue Energie</strong> schenken können </li>
+<li>Lerne <strong>praxiserprobte Strategien</strong> kennen, die <strong>Genuss</strong>, <strong>Vitalität </strong>und <strong>innere Balance</strong> dauerhaft in dein Leben bringen </li>
+</ul>
+</div>
 
 ## 2. Links
 
@@ -71,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekongress Entzündungen entschlüsseln? — Typ: Member area and video courses, Anbieter: IreneSmiatek, gelistet seit 2025-09-25
-- Wie viel kostet es? — 45.619626000000004 USD
+- Wie viel kostet es? — 45.51785100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

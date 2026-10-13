@@ -4,16 +4,16 @@ digistore24_product_id: 663491
 title: "Newsletter KI-Automation Masterclass"
 vendor: "CleverMangos"
 product_type: "Member area and video courses"
-price: 1368.25
+price: 1365.2
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 547.3
+earnings_per_sale: 546.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-01-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/663491?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/663491"
@@ -22,16 +22,16 @@ language: "de"
 # Newsletter KI-Automation Masterclass
 
 > Product ID `55324` · Digistore24 productId `663491` · [HTML profile page](../../produkte/newsletter-ki-automation-masterclass-55324.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1368.25 (Single payment) |
+| Price | $1365.20 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $547.30 |
+| Earnings/sale* | $546.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CleverMangos |
@@ -41,7 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Newsletter KI-Automation Masterclass Erstelle deinen Newsletter in 90 Minuten statt 8 Stunden Warum dieser Kurs? Nicht einfach "ChatGPT, schreib mir was" – sondern ein kompletter Workflow inkl. Automation. Das Problem: 90% scheitern an API-Keys, n8n-Setup und Workflow-Konfiguration. Unsere Lösung: Wir zeigen dir alles Schritt-für-Schritt. Einfach mitklicken. Fertig. Was du bekommst PRAXIS PAKET (W…
+**Vendor's marketplace description:** <h1>Newsletter KI-Automation Masterclass</h1>
+<p>Erstelle deinen Newsletter in 90 Minuten statt 8 Stunden</p>
+<p> </p>
+<h2>Warum dieser Kurs?</h2>
+<p>Nicht einfach "ChatGPT, schreib mir was" – sondern ein kompletter Workflow inkl. Automation.</p>
+<p><strong>Das Problem:</strong> 90% scheitern an API-Keys, n8n-Setup und Workflow-Konfiguration.</p>
+<p><strong>Unsere Lösung:</strong> Wir zeigen dir alles Schritt-für-Schritt. Einfach mitklicken. Fertig.</p>
+<p> </p>
+<h2>Was du bekommst</h2>
+<p><br /><strong>PRAXIS PAKET (Wert: 1.221€):</strong></p>
+<ul>
+<li>4+ Stunden Video-Material – kompakt &amp; praxisnah (Wert 497€)</li>
+<li>n8n-Workflows Schritt-für-Schritt erklärt (unbezahlbar)</li>
+<li>Templates &amp; Checklisten für deinen Workflow (Wert 147€)</li>
+<li>7 n8n Blueprints (Wert 197€)</li>
+<li>Bonus: KI-Agenten Prompt-Bibliothek (Wert 97 €)</li>
+<li>Bonus: 6 Monate Community-Zugang (Wert 234€)</li>
+<li>Bonus: Pre-Flight Checkliste (Wert 49€)</li>
+</ul>
+<p> </p>
+<h2>Für wen?</h2>
+<p>Selbstständige, Coaches, Berater, Unternehmer – alle, die ihren Newsletter nicht mehr stundenlang von Hand erstellen wollen.</p>
+<p> </p>
+<p><strong>Keine Tech-Vorkenntnisse nötig.</strong> Wenn du ChatGPT öffnen kannst, reicht das.</p>
 
 ## 2. Links
 
@@ -89,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Newsletter KI-Automation Masterclass? — Typ: Member area and video courses, Anbieter: CleverMangos, gelistet seit 2026-01-22
-- Wie viel kostet es? — 1368.2526 USD
+- Wie viel kostet es? — 1365.2001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

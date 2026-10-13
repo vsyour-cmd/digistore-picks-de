@@ -4,34 +4,34 @@ digistore24_product_id: 130059
 title: "Online-Video-Kurs \"Singen lernen - Das musst Du wissen\""
 vendor: "isidde"
 product_type: "Downloads"
-price: 103.59
+price: 103.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 51.79
+earnings_per_sale: 51.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2017-04-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://www.singwithpassion.com/singen-lernen-online-video-kurs-singen-lernen-das-musst-du-wissen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/15871/adminstore/"
 sales_page: "http://www.singwithpassion.com/singen-lernen-online-video-kurs-singen-lernen-das-musst-du-wissen/"
 language: "de"
 ---
 # Online-Video-Kurs "Singen lernen - Das musst Du wissen"
 
 > Product ID `15871` · Digistore24 productId `130059` · [HTML profile page](../../produkte/online-video-kurs-singen-lernen-das-musst-du-wissen-15871.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $103.59 (Single payment, Installment) |
+| Price | $103.36 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $51.79 |
+| Earnings/sale* | $51.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Singen lernen – Das musst Du wissen (Online Video-Kurs)Der ultimative Grundlagenkurs für alle Sänger in Klassik und Pop 31 Lektionen; 2 h Video Du lernst alles über das Singen in den grundlegenden Musik-Stilen Klassik und Pop: Die musikalischen, sprachlichen und stimmlichen Aspekte des Singens und welche Fallstricke Du vermeiden musst, insbesondere bei der Auswahl Deines Gesangslehrers.
+**Vendor's marketplace description:** <p><strong>Singen lernen – Das musst Du wissen</strong> (Online Video-Kurs)<br />Der ultimative Grundlagenkurs für alle Sänger in Klassik und Pop</p>
+<p>31 Lektionen; 2 h Video</p>
+<p>Du lernst alles über das Singen in den grundlegenden Musik-Stilen Klassik und Pop: Die musikalischen, sprachlichen und stimmlichen Aspekte des Singens und welche Fallstricke Du vermeiden musst, insbesondere bei der Auswahl Deines Gesangslehrers.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.singwithpassion.com/singen-lernen-online-video-kurs-singen-lernen-das-musst-du-wissen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/15871/adminstore/
 - Sales page: http://www.singwithpassion.com/singen-lernen-online-video-kurs-singen-lernen-das-musst-du-wissen/
 - Vendor affiliate support: https://www.isid.de/singen-lernen-affiliate-support-seite/
 - Canonical redirect: https://www.digistore24.com/redir/130059/adminstore
@@ -83,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Video-Kurs "Singen lernen - Das musst Du wissen"? — Typ: Downloads, Anbieter: isidde, gelistet seit 2017-04-01
-- Wie viel kostet es? — 103.588264 USD
+- Wie viel kostet es? — 103.35716400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 285007
 title: "Gesund werden mit Heilpflanzen Teile 1 + 2 + 3"
 vendor: "aquarius"
 product_type: "Downloads"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.72
+earnings_per_sale: 12.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-09-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://pflanzenmedizin.phytocontentus.eu/landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://pflanzenmedizin.phytocontentus.eu/landingpage/"
@@ -22,16 +22,16 @@ language: "de"
 # Gesund werden mit Heilpflanzen Teile 1 + 2 + 3
 
 > Product ID `29908` · Digistore24 productId `285007` · [HTML profile page](../../produkte/gesund-werden-mit-heilpflanzen-teile-1-2-3-29908.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.72 |
+| Earnings/sale* | $12.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aquarius |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Naturmedizin - vor allem die Pflanzenheilkunde (Phytotherapie) - erfreut sich einer immer grösseren Beliebtheit. Immer mehr Menschen möchten sich bei Krankheiten nicht nur auf die Schulmedizin verlassen, sondern suchen auch nach anderen Wegen, um wieder gesund zu werden oder es zu bleiben. Und bei dieser Suche werden dem Interessierten diese eBook's äusserst wertvolle Anregungen und Hilfen ver…
+**Vendor's marketplace description:** <p><span style="color:#003300;">Die <strong>Naturmedizin</strong> - vor allem die <strong><em>Pflanzenheilkunde</em></strong> <em>(Phytotherapie)</em> - erfreut sich einer immer grösseren Beliebtheit. Immer mehr Menschen möchten sich bei Krankheiten nicht nur auf die Schulmedizin verlassen, sondern suchen auch nach anderen Wegen, um wieder gesund zu werden oder es zu bleiben.</span></p>
+<p><span style="color:#003300;"><em>Und bei dieser Suche werden dem Interessierten diese eBook's äusserst wertvolle Anregungen und Hilfen vermitteln. Denn mit diesen eBook's erhält er einen wesentlichen Teil des Wissens an die Hand, welches er für die Behandlung mit pflanzlichen Heilmitteln benötigt.</em></span></p>
+<p><span style="color:#003300;"><strong><em>Der Markt mit natürlichen Heilmitteln boomt enorm! Seien Sie mit dabei!</em></strong></span></p>
+<h5><em><strong><span style="color:#993300;">Bitte beachten: Auf der Verkaufsseite befinden sich auch die Links zu der Teilen 2 + 3.</span></strong></em></h5>
+<p><span style="color:#003300;">Anleitung zum Einfügen eines eigenen Promolinks bei Bedarf unter bit.ly//2mb5OeM </span></p>
 
 ## 2. Links
 
@@ -64,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gesund werden mit Heilpflanzen Teile 1 + 2 + 3? — Typ: Downloads, Anbieter: aquarius, gelistet seit 2019-09-01
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

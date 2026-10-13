@@ -4,7 +4,7 @@ digistore24_product_id: 659704
 title: "Digiffiliate – Der Digistore Marktplatz-Booster"
 vendor: "digiffiliateapp"
 product_type: "Software"
-price: 1.91
+price: 1.9
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 0.36
@@ -12,24 +12,24 @@ cart_conversion_pct: 39
 cancel_rate_pct: 0
 categories: ["Software","Marketing Services"]
 listed_since: "2026-01-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://digiffiliate.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://lowcarbcamp.de/exklusive-voranmeldung-challenge/#aff=adminstore"
 sales_page: "https://digiffiliate.com/"
 language: "de"
 ---
 # Digiffiliate – Der Digistore Marktplatz-Booster
 
 > Product ID `55347` · Digistore24 productId `659704` · [HTML profile page](../../produkte/digiffiliate-der-digistore-marktplatz-booster-55347.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $1.91 (Single payment) |
+| Price | $1.90 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $0.36 |
 | Cart conversion* | 39% |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digiffiliate – Versteckte Digistore-Produkte finden & bewerbenDigiffiliate zeigt Affiliates über 60.000 Digistore-Produkte, die nicht im öffentlichen Marktplatz stehen –Produkte mit Affiliate-Programm, die sonst kaum jemand findet. Für dich als Affiliate: 50% Provision – für jeden, von Anfang an. Egal ob deine Kunden Basic (kostenlos), Basic+ (14€/Monat) oder Pro(27€/Monat) wählen. Bei Basic+ mit …
+**Vendor's marketplace description:** <p>Digiffiliate – Versteckte Digistore-Produkte finden &amp; bewerben<br /><br />Digiffiliate zeigt Affiliates über 60.000 Digistore-Produkte, die nicht im öffentlichen Marktplatz stehen –<br />Produkte mit Affiliate-Programm, die sonst kaum jemand findet. <br /><br />Für dich als Affiliate: <br />50% Provision – für jeden, von Anfang an. Egal ob deine Kunden Basic (kostenlos), Basic+ (14€/Monat) oder Pro<br />(27€/Monat) wählen. <br /><br />Bei Basic+ mit 50% Provision: 7€ pro Monat, solange dein Kunde zahlt.</p>
+<p><br />Bei Pro mit 50% Provision: 13,50€ pro Monat – monatlich, wiederkehrend.<br /><br />Du verdienst bei jedem Verkauf und bei jeder Abo-Verlängerung. <br /><br />Was Digiffiliate bietet: <br />– Zugang zu 60.000+ bewerbbare Produkte außerhalb des öffentlichen Marktplatzes<br />– Smarte Filter nach Provision, Nische, Preis und Score <br />– KI-gestützte Produktbewertung und Zielgruppenanalyse (Pro) <br />– Fertige Affiliate-Links auf Knopfdruck <br /><br />Fertige Werbemittel und Texte findest du direkt auf digiffiliate.com</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digiffiliate.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://lowcarbcamp.de/exklusive-voranmeldung-challenge/#aff=adminstore
 - Sales page: https://digiffiliate.com/
 - Vendor affiliate support: https://digiffiliate.com/partner
 - Canonical redirect: https://www.digistore24.com/redir/659704/adminstore
@@ -61,7 +62,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digiffiliate – Der Digistore Marktplatz-Booster? — Typ: Software, Anbieter: digiffiliateapp, gelistet seit 2026-01-07
-- Wie viel kostet es? — 1.90502 USD
+- Wie viel kostet es? — 1.90077 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

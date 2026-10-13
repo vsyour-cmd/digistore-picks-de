@@ -4,34 +4,34 @@ digistore24_product_id: 719889
 title: "Mathe-Fuchs – Kopfrechnen üben für Grundschulkinder"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 11.21
+price: 11.18
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 3.36
+earnings_per_sale: 3.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.gz-ai-stacks.de/mathe-fuchs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60187/adminstore/"
 sales_page: "https://www.gz-ai-stacks.de/mathe-fuchs/"
 language: "de"
 ---
 # Mathe-Fuchs – Kopfrechnen üben für Grundschulkinder
 
 > Product ID `60187` · Digistore24 productId `719889` · [HTML profile page](../../produkte/mathe-fuchs-kopfrechnen-ben-f-r-grundschulkinder-60187.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $11.21 (Single payment) |
+| Price | $11.18 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $3.36 |
+| Earnings/sale* | $3.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gzaistacks2aae |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lern-App zum Kopfrechnen für Grundschulkinder: Einmaleins, Plus/Minus und Mal/Geteilt in vier Übungsmodi, mit Level-System und Belohnungs-Abzeichen. Läuft offline auf Handy, Tablet und PC, ohne Konto und ohne Werbung. Zielgruppe: Eltern und Großeltern von Grundschulkindern. Einmaliger Kaufpreis 11,90 €, kein Abo. Verkaufsseite: https://www.gz-ai-stacks.de/mathe-fuchs/
+**Vendor's marketplace description:** <p>Lern-App zum Kopfrechnen für Grundschulkinder: Einmaleins, Plus/Minus und Mal/Geteilt in vier Übungsmodi, mit Level-System und Belohnungs-Abzeichen. Läuft offline auf Handy, Tablet und PC, ohne Konto und ohne Werbung.</p>
+<p>Zielgruppe: Eltern und Großeltern von Grundschulkindern.</p>
+<p>Einmaliger Kaufpreis 11,90 €, kein Abo. Verkaufsseite: https://www.gz-ai-stacks.de/mathe-fuchs/</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.gz-ai-stacks.de/mathe-fuchs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60187/adminstore/
 - Sales page: https://www.gz-ai-stacks.de/mathe-fuchs/
 - Canonical redirect: https://www.digistore24.com/redir/719889/adminstore
 
@@ -71,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mathe-Fuchs – Kopfrechnen üben für Grundschulkinder? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-10-05
-- Wie viel kostet es? — 11.206 USD
+- Wie viel kostet es? — 11.181000000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

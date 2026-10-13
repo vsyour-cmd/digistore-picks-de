@@ -4,34 +4,34 @@ digistore24_product_id: 711053
 title: "Tagesreflexion"
 vendor: "nick4nders"
 product_type: "Downloads"
-price: 7.52
+price: 7.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.77
+earnings_per_sale: 3.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Marketing Services"]
 listed_since: "2026-07-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/711053?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57541/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/711053"
 language: "de"
 ---
 # Tagesreflexion
 
 > Product ID `57541` · Digistore24 productId `711053` · [HTML profile page](../../produkte/tagesreflexion-57541.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.52 (Single payment) |
+| Price | $7.50 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.77 |
+| Earnings/sale* | $3.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nick4nders |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Teil von Never Average und unterstütze Menschen dabei, mehr Struktur, Fokus und nachhaltige Gewohnheiten in ihren Alltag zu bringen. Ich entwickle hochwertige digitale Produkte rund um Produktivität, Gewohnheiten und persönliche Entwicklung – darunter Tagesplaner, Reflexionsvorlagen sowie die Never Average App, die Nutzer mit täglichen Check-ins und individuellen Reframings dabei unterstützt…
+**Vendor's marketplace description:** <p><strong>Werde Teil von Never Average und unterstütze Menschen dabei, mehr Struktur, Fokus und nachhaltige Gewohnheiten in ihren Alltag zu bringen.</strong></p>
+<p>Ich entwickle hochwertige digitale Produkte rund um Produktivität, Gewohnheiten und persönliche Entwicklung – darunter Tagesplaner, Reflexionsvorlagen sowie die <strong>Never Average App</strong>, die Nutzer mit täglichen Check-ins und individuellen Reframings dabei unterstützt, langfristig dranzubleiben.</p>
+<p>Neben dem Verkauf über DigiStore24 betreibe ich außerdem einen eigenen Onlineshop. <strong>Affiliate-Rabattcodes</strong> für den Direktverkauf sind ebenfalls möglich und können individuell für unsere Zusammenarbeit eingerichtet werden.</p>
+<p><strong>Ich suche keine kurzfristigen Werbepartner, sondern langfristige Business-Partner</strong>, die meine Vision teilen und gemeinsam mit mir eine starke Marke im Bereich Persönlichkeitsentwicklung aufbauen möchten.</p>
+<p>Wenn du glaubst, dass Never Average zu deiner Community passt oder du Ideen für eine Zusammenarbeit hast, freue ich mich auf deine Nachricht.</p>
+<p><strong>Instagram:</strong> @nick4nders</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/711053?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57541/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/711053
 - Canonical redirect: https://www.digistore24.com/redir/711053/adminstore
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tagesreflexion? — Typ: Downloads, Anbieter: nick4nders, gelistet seit 2026-07-15
-- Wie viel kostet es? — 7.519226000000001 USD
+- Wie viel kostet es? — 7.502451000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

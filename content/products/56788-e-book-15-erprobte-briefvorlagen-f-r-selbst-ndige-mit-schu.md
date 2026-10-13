@@ -4,16 +4,16 @@ digistore24_product_id: 696011
 title: "E-Book + 15 erprobte Briefvorlagen für Selbständige mit Schu"
 vendor: "Mawarth"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 22.61
+earnings_per_sale: 22.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Software"]
 listed_since: "2026-06-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://schuldenpilot.com/buch?aff=adminstore#aff=adminstore"
 sales_page: "https://schuldenpilot.com/buch"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book + 15 erprobte Briefvorlagen für Selbständige mit Schu
 
 > Product ID `56788` · Digistore24 productId `696011` · [HTML profile page](../../produkte/e-book-15-erprobte-briefvorlagen-f-r-selbst-ndige-mit-schu-56788.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $22.61 |
+| Earnings/sale* | $22.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mawarth |
@@ -41,7 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Stundung statt Insolvenz" ist ein 146-seitiges E-Book mit 15 praxiserprobten Anschreiben (bearbeitbare DOCX) und 4 Bonus-Werkzeugen. Es zeigt Selbständigen, Freiberuflern und Gewerbetreibenden Schritt für Schritt, wie sie Steuerschulden stunden, Raten verhandeln und Forderungen herabsetzen – ohne Anwalt. Geschrieben von Mario Reinwarth aus 6 Jahren eigener Verhandlungspraxis mit Finanzamt, Stadtk…
+**Vendor's marketplace description:** <p>„Stundung statt Insolvenz" ist ein 146-seitiges E-Book mit 15 praxiserprobten Anschreiben (bearbeitbare DOCX) und 4 Bonus-Werkzeugen. Es zeigt Selbständigen, Freiberuflern und Gewerbetreibenden Schritt für Schritt, wie sie Steuerschulden stunden, Raten verhandeln und Forderungen herabsetzen – ohne Anwalt. Geschrieben von Mario Reinwarth aus 6 Jahren eigener Verhandlungspraxis mit Finanzamt, Stadtkasse, Gewerbeamt und Krankenkasse.</p>
+<p>Verkaufspreis: <strong>27 €</strong> (einmalig) · optionales Hörbuch-Upsell <strong>9,90 €</strong> · Gesamt-Inhaltswert lt. Verkaufsseite ca. 345 €.</p>
+<p><strong>Warum sich das Bewerben lohnt:</strong></p>
+<ul>
+<li><strong>Riesige, unterversorgte Zielgruppe:</strong> Über 3 Mio. Selbständige in Deutschland – und genau diese werden von kostenlosen Beratungsstellen (Diakonie, Caritas, DRK) regelmäßig abgelehnt, weil sie „nur Privatpersonen" beraten. Es gibt kaum Wettbewerb für dieses spezifische Problem.</li>
+<li><strong>Echter, akuter Schmerz:</strong> Briefe vom Finanzamt, Pfändungsandrohung, Krankenkassen-Rückstände. Hohe Dringlichkeit = hohe Conversion.</li>
+<li><strong>Niedrige Kaufhürde:</strong> 27 € statt 200 € Anwalts-Erstberatung oder 2.500–5.000 € Schuldenberatung. Leicht zu rechtfertigender Impulskauf.</li>
+<li><strong>Conversion-Booster eingebaut:</strong> 30 Tage Geld-zurück-Garantie ohne Begründung + Sofort-Download als PDF.</li>
+<li><strong>Zusätzliche Earnings durch Upsell:</strong> Hörbuch-Bestseller im Bundle, plus Anbindung an das SchuldenPilot-SaaS (Folgeprodukt) im Bonusbereich.</li>
+<li><strong>Evergreen-Nische:</strong> Steuer- und Schuldenthemen sind ganzjährig nachgefragt, krisenresistent und nicht saisonabhängig.</li>
+</ul>
+<p><strong>Ideal für Affiliates mit Reichweite bei:</strong></p>
+<p>Selbständigen, Freelancern, Gründern, Solo-Unternehmern und Kleingewerbe – besonders in den Bereichen Finanzen, Steuern, Buchhaltung, Unternehmertum, Business-Coaching und Selbstständigkeits-Ratgeber. Funktioniert über Blog, Newsletter, YouTube, Social Media, Foren und Steuer-/Gründer-Communities.</p>
+<p><strong>Was der Käufer bekommt:</strong></p>
+<p>E-Book (PDF, 146 Seiten) · 15 erprobte Anschreiben (DOCX, bearbeitbar in Word &amp; Pages) · Bonus 1: Notfall-Checkliste „Die ersten 48 Stunden" · Bonus 2: Entscheidungsbaum „Welche Vorlage?" · Bonus 3: ausfüllbare Behörden-Datenbank · Bonus 4: Telefonskripte (9 Seiten) · kostenlose Updates bei Rechtsänderungen.</p>
+<hr />
+<h2>SEO-/Keyword-Hinweise für die Bewerbung</h2>
+<p>Schulden Selbständige · Steuerschulden Finanzamt · Stundung beantragen · Ratenzahlung Finanzamt · Insolvenz vermeiden Selbständige · Gewerbesteuer stunden · Krankenkasse Rückstände Selbständige · Pfändung abwenden · Musterbrief Finanzamt</p>
+<hr />
+<h2>Hinweise / Compliance für Affiliate-Werbung</h2>
+<ul>
+<li>Produkt ist <strong>keine Rechts- oder Steuerberatung im Sinne des RDG</strong> – Affiliates sollten es als Informations- und Selbsthilfe-Ratgeber bewerben, keine Heilsversprechen oder garantierten Ergebnisse kommunizieren.</li>
+<li>Einzelfall-Ergebnisse (z. B. „Schulden halbiert") nicht als garantiert darstellen.</li>
+<li>Audio-Version mit KI-Stimme (ElevenLabs) – bei Bewerbung des Hörbuchs ggf. erwähnen.</li>
+</ul>
 
 ## 2. Links
 
@@ -91,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book + 15 erprobte Briefvorlagen für Selbständige mit Schu? — Typ: E-books, Anbieter: Mawarth, gelistet seit 2026-06-02
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

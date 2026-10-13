@@ -4,16 +4,16 @@ digistore24_product_id: 529264
 title: "Neurostreams™ in 432 Hertz"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.2
+earnings_per_sale: 37.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2023-12-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/produkte/432-hz/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/produkte/432-hz/"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ in 432 Hertz
 
 > Product ID `47026` · Digistore24 productId `529264` · [HTML profile page](../../produkte/neurostreams-in-432-hertz-47026.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.20 |
+| Earnings/sale* | $37.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -41,7 +41,70 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 432 Hertz ist die "vor-moderne" (alte, traditionelle) Frequenz des musikalischen Kammertons A4. Alle diese Neurostreams™-Versionen wurden auf Basis dieses Kammertons neu komponiert und abgemischt. Enthalten sind jeweils ein Stream pro Titel: Neurostreams™ KLASSIKER in 432 Hz DNA Talk Flow trifft Genie Co-Creation Galaxie DELTA Frischzellenkur Die Zukunft schauen Gaia Club Radio Wellness Walk Neuro…
+**Vendor's marketplace description:** <div>
+<div>
+<p>432 Hertz ist die "vor-moderne" (alte, traditionelle) Frequenz des musikalischen Kammertons A4.</p>
+<p>Alle diese Neurostreams™-Versionen wurden auf Basis dieses Kammertons neu komponiert und abgemischt.</p>
+<p>Enthalten sind jeweils ein Stream pro Titel:</p>
+<p> </p>
+<p><strong>Neurostreams™ KLASSIKER in 432 Hz</strong></p>
+<ul>
+<li>DNA Talk</li>
+<li>Flow trifft Genie</li>
+<li>Co-Creation Galaxie</li>
+<li>DELTA Frischzellenkur</li>
+<li>Die Zukunft schauen</li>
+<li>Gaia Club Radio</li>
+<li>Wellness Walk</li>
+</ul>
+<p> </p>
+<p><strong>Neurostreams™ LABOR in 432 Hz</strong></p>
+<ul>
+<li>Bei der Sache</li>
+<li>Das innere Kind (THETA)</li>
+<li>Den Löwen reiten</li>
+<li>Happiness</li>
+<li>Heiterkeit vor der Schlacht</li>
+<li>Mini Alpha Breaks</li>
+<li>Morphium Jaccuzzi</li>
+<li>Planet Relax</li>
+<li>Power Kur</li>
+<li>Blutdruck-Schleusenöffner</li>
+<li>Treffpunkt Garten Eden</li>
+</ul>
+</div>
+<div>
+<p> </p>
+<p><strong>Neurostreams™ SPECIALS in 432 Hz</strong></p>
+<p><em>Aus der „ZenBox“</em></p>
+<ul>
+<li>DNA Talk</li>
+<li>Zen Quasar</li>
+<li>Silberfaden</li>
+<li>Kyoto Dimension</li>
+</ul>
+<p><em>Aus den „Antriebswellen“</em></p>
+<ul>
+<li>Gamma Hammer</li>
+<li>Sturm und Drang</li>
+<li>Pure Lebendigkeit</li>
+<li>Frühaufsteherbelohnung</li>
+</ul>
+<p><em>Aus der „Megabrain Suite“</em></p>
+<ul>
+<li>IQ 7000</li>
+<li>HyperBrainPower</li>
+<li>KognitionMunition</li>
+<li>Brainstorms</li>
+</ul>
+<p> </p>
+<p><strong>Sofortiger Zugang</strong> nach Bezahlung</p>
+</div>
+</div>
+<p><strong>Umfang: </strong>31 völlig neue zusätzliche Streams in 432 Hz</p>
+<p><strong>Spieldauer:</strong> insgesamt ca. 15 Stunden</p>
+<p><strong>Speicherplatz:</strong> 1,3 Gigabyte </p>
+<p><strong>Mp3-Format:</strong> Maximal beste Qualität: 320 kbit/s</p>
 
 ## 2. Links
 
@@ -88,7 +151,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ in 432 Hertz? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2023-12-11
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

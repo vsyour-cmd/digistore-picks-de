@@ -12,17 +12,17 @@ cart_conversion_pct: 42
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-12-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://shop.growverse.de/funnels/ai-product-system/freebie?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55133/adminstore/"
 sales_page: "https://shop.growverse.de/funnels/ai-product-system/freebie"
 language: "de"
 ---
 # AI Product System Funnel
 
 > Product ID `55133` · Digistore24 productId `657939` · [HTML profile page](../../produkte/ai-product-system-funnel-55133.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,37 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der AI Product System Funnel ist ein vollständig aufgebauter Verkaufsfunnel für Affiliates, die ein hochaktuelles Thema mit klarer Zahlungsbereitschaft vermarkten wollen: KI-Produkte erstellen und monetarisieren – ohne Technik, ohne Vorwissen. Der Funnel startet mit einem kostenlosen Einstieg, der Vertrauen aufbaut und die Kaufentscheidung vorbereitet. Dadurch entsteht eine niedrige Einstiegshürde…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Der <strong>AI Product System Funnel</strong> ist ein vollständig aufgebauter Verkaufsfunnel für Affiliates, die ein <strong>hochaktuelles Thema mit klarer Zahlungsbereitschaft</strong> vermarkten wollen: KI-Produkte erstellen und monetarisieren – ohne Technik, ohne Vorwissen.</p>
+<p>Der Funnel startet mit einem kostenlosen Einstieg, der Vertrauen aufbaut und die Kaufentscheidung vorbereitet. Dadurch entsteht eine niedrige Einstiegshürde und eine deutlich höhere Abschlussquote im Hauptangebot.</p>
+<p>Der Umsatztreiber ist die <strong>AI Product System Masterclass</strong> für 37 €. Affiliates erhalten <strong>50 % Provision pro Verkauf (18,50 €)</strong>. Das Produkt liefert ein klares System: von der Idee über den strukturierten Aufbau eines GPT-Produkts bis hin zu Positionierung, Launch und Skalierung. Praxisorientiert, ohne Theorieballast.</p>
+<p>Ergänzt wird das Angebot durch zwei Addons mit ebenfalls <strong>50 % Provision</strong>: ein E-Book (12,90 € → 6,45 € Provision) und ein Success Toolkit (17,90 € → 8,95 € Provision). Beide sind logisch in den Funnel integriert und erhöhen den durchschnittlichen Warenkorb spürbar.</p>
+<p>Die Zielgruppe ist klar definiert und leicht erreichbar: Coaches, Berater, Experten und Unternehmer, die ihr Wissen monetarisieren wollen, sowie Einsteiger ohne technische Kenntnisse, die KI als Einnahmequelle nutzen möchten.</p>
+<p>Ein realistisches Szenario: 1.000 Besucher, 5 % Conversion auf die Masterclass ergeben 50 Verkäufe und <strong>925 € Provision</strong>. Durch Addons entstehen zusätzliche Einnahmen von rund <strong>186 €</strong>. Gesamtpotenzial: <strong>über 1.100 € Provision</strong> pro 1.000 Besucher.</p>
+<p>Für Affiliates bedeutet das: ein fertiger Funnel, fairer Preis, hohe Conversion, <strong>50 % Provision auf alle Umsätze</strong> und sofortiger Start ohne eigenen Produkt- oder Supportaufwand.</p>
+<p>Sichere Zahlung. Klare Struktur. Direkt einsetzbar.<br />Du lieferst Traffic – der Funnel macht Umsatz.</p>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
+<div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shop.growverse.de/funnels/ai-product-system/freebie?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55133/adminstore/
 - Sales page: https://shop.growverse.de/funnels/ai-product-system/freebie
 - Canonical redirect: https://www.digistore24.com/redir/657939/adminstore
 
@@ -75,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Product System Funnel? — Typ: Downloads, Anbieter: paul-roth, gelistet seit 2025-12-29
-- Wie viel kostet es? — 0.6387419999999999 USD
+- Wie viel kostet es? — 0.637317 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

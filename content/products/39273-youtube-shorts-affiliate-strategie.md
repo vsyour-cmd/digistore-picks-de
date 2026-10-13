@@ -4,34 +4,34 @@ digistore24_product_id: 423403
 title: "Youtube Shorts Affiliate Strategie"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 27.67
+price: 27.61
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 13.34
+earnings_per_sale: 13.31
 cart_conversion_pct: 10
 cancel_rate_pct: 1.9
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-01-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://im-erfolgscenter.com/yt-shorts-strategie?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39273/adminstore/"
 sales_page: "https://im-erfolgscenter.com/yt-shorts-strategie"
 language: "de"
 ---
 # Youtube Shorts Affiliate Strategie
 
 > Product ID `39273` · Digistore24 productId `423403` · [HTML profile page](../../produkte/youtube-shorts-affiliate-strategie-39273.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.67 (Subscription) |
+| Price | $27.61 (Subscription) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $13.34 |
+| Earnings/sale* | $13.31 |
 | Cart conversion* | 10% |
 | Cancel rate* | 1.9% |
 | Vendor | sattelitevendor |
@@ -41,11 +41,37 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle die "Youtube Shorts Affiliate Strategie" und verdiene bis zu 40% jeden Monat an Provisionen! Du kannst die "Youtube Shorts Strategie" an deine Liste oder Kontakte weiterempfehlen. Hier geht es zum Partnerprogramm Deine Vorteile Das Produkt wird für 1€ angeboten Die Verkaufsquote ist so sehr hoch Dahinter haben wir Upsells geschaltet, die dir jeden Monat Provisionen bringen (Abomodell) Der…
+**Vendor's marketplace description:** <h2><span style="color:#ffffff;background-color:#ff0000;"><strong>Empfehle die "Youtube Shorts Affiliate Strategie" und verdiene bis zu 40% jeden Monat an Provisionen!</strong></span></h2>
+<p>Du kannst die "Youtube Shorts Strategie" an deine Liste oder Kontakte weiterempfehlen.</p>
+<p><a href="https://torstenjaeger.com/partnerprogramm-youtube-shorts-strategie/" target="_blank" rel="noreferrer noopener"><strong>Hier geht es zum Partnerprogramm</strong></a></p>
+<hr />
+<div>
+<h3><strong><span style="color:#ff0000;">Deine Vorteile</span></strong></h3>
+<ul>
+<li>Das Produkt wird für 1€ angeboten<br /><br /></li>
+<li>Die Verkaufsquote ist so sehr hoch<br /><br /></li>
+<li>Dahinter haben wir Upsells geschaltet, die dir jeden Monat Provisionen bringen (Abomodell)</li>
+</ul>
+<h3><strong><span style="color:#ff0000;">Der Kunde erhält:</span></strong></h3>
+<ul>
+<li>Mit der <strong>"Youtube Shorts Affiliate Strategie"</strong> bekommst du eine klare Schritt-für-Schritt Profi-Anleitung an die Hand, wie du mit Youtube Shorts und Affiliate Marketing Geld verdienen kannst.<br /><br /></li>
+<li><strong>Schritt für Schritt Video-Anleitung</strong>, wie du ganz leicht mit Youtube Shorts und Affiliate Marketing deine <strong>eigene E-Mail Liste</strong> aufbaust<br /><br /></li>
+<li>Perfekt geeignet für <strong>Anfänger ohne Vorkenntnisse</strong></li>
+</ul>
+</div>
+<h3><strong><span style="color:#ff0000;">Dein Verdienst</span></strong></h3>
+<ul>
+<li>40% an <strong>wiederkehrenden Provisionen<br /><br /></strong></li>
+<li><strong>Bis zu 324€ </strong>(netto) jährliche Provision je Lead möglich<strong><br /><br /></strong></li>
+<li>Der Funnel ist so aufgebaut, dass danach verschiedene Upsellprodukte mit Abomodellen angeboten werden und du somit <strong>monatlich wiederkehrende Provisionen</strong> verdienen kannst</li>
+</ul>
+<hr />
+<p><br />Wir haben viele verschiedene Werbemittel im Partnerprogrammbereich für dich vorbereitet. <br /><strong><a href="https://torstenjaeger.com/partnerprogramm-youtube-shorts-strategie/" target="_blank" rel="noreferrer noopener">Hier klicken</a></strong></p>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://im-erfolgscenter.com/yt-shorts-strategie?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39273/adminstore/
 - Sales page: https://im-erfolgscenter.com/yt-shorts-strategie
 - Vendor affiliate support: https://torstenjaeger.com/partnerprogramm-youtube-shorts-strategie/
 - Canonical redirect: https://www.digistore24.com/redir/423403/adminstore
@@ -59,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Youtube Shorts Affiliate Strategie? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2022-01-06
-- Wie viel kostet es? — 27.667614000000004 USD
+- Wie viel kostet es? — 27.605889000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

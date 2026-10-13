@@ -4,16 +4,16 @@ digistore24_product_id: 660023
 title: "Raus aus der Narzissmusfalle"
 vendor: "SabineBartl"
 product_type: "Member area and video courses"
-price: 138.43
+price: 138.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 69.22
+earnings_per_sale: 69.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-01-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/660023?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/660023"
@@ -22,16 +22,16 @@ language: "de"
 # Raus aus der Narzissmusfalle
 
 > Product ID `56244` · Digistore24 productId `660023` · [HTML profile page](../../produkte/raus-aus-der-narzissmusfalle-56244.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $138.43 (Single payment) |
+| Price | $138.12 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $69.22 |
+| Earnings/sale* | $69.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineBartl |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate-Informationen – Raus aus der Narzissmusfalle
+**Vendor's marketplace description:** <p><strong>Affiliate-Informationen – Raus aus der Narzissmusfalle</strong></p>
+<p>
 
 ## 2. Links
 
@@ -86,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raus aus der Narzissmusfalle? — Typ: Member area and video courses, Anbieter: SabineBartl, gelistet seit 2026-01-08
-- Wie viel kostet es? — 138.427718 USD
+- Wie viel kostet es? — 138.118893 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

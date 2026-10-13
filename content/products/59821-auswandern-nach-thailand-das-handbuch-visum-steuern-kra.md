@@ -4,34 +4,34 @@ digistore24_product_id: 725205
 title: "Auswandern nach Thailand — Das Handbuch: Visum, Steuern, Kra"
 vendor: "stonebridge"
 product_type: "E-books"
-price: 21.28
+price: 21.23
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 14.89
+earnings_per_sale: 14.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://thailandratgeber.de/auswandern/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59821/adminstore/"
 sales_page: "https://thailandratgeber.de/auswandern/"
 language: "de"
 ---
 # Auswandern nach Thailand — Das Handbuch: Visum, Steuern, Kra
 
 > Product ID `59821` · Digistore24 productId `725205` · [HTML profile page](../../produkte/auswandern-nach-thailand-das-handbuch-visum-steuern-kra-59821.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $21.28 (Single payment) |
+| Price | $21.23 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $14.89 |
+| Earnings/sale* | $14.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | stonebridge |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** eBook von Tobias Gensicke, rund 280 Seiten, EPUB und PDF, Rechtsstand 29. September 2026. Für Deutsche, Österreicher und Schweizer, überwiegend ab 50, die dauerhaft nach Thailand ziehen wollen: Aufenthaltswege von DTV über Rentnervisum bis LTR mit Jahreskosten, deutsche Steuerregeln beim Wegzug, Krankenversicherung und Lebenshaltungskosten, an drei Beispielhaushalten durchgerechnet. Jede Rechtsang…
+**Vendor's marketplace description:** <blockquote>
+<p>eBook von Tobias Gensicke, rund 280 Seiten, EPUB und PDF, Rechtsstand 29. September 2026. Für Deutsche, Österreicher und Schweizer, überwiegend ab 50, die dauerhaft nach Thailand ziehen wollen: Aufenthaltswege von DTV über Rentnervisum bis LTR mit Jahreskosten, deutsche Steuerregeln beim Wegzug, Krankenversicherung und Lebenshaltungskosten, an drei Beispielhaushalten durchgerechnet. Jede Rechtsangabe mit Norm oder Quelle und Prüfdatum. 70 % Provision, Partneranfragen werden automatisch freigeschaltet. Fertige Texte, belegte Zahlen und Bilder für Partner: thailandratgeber.de/partner/</p>
+</blockquote>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thailandratgeber.de/auswandern/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59821/adminstore/
 - Sales page: https://thailandratgeber.de/auswandern/
 - Vendor affiliate support: https://thailandratgeber.de/partner/
 - Canonical redirect: https://www.digistore24.com/redir/725205/adminstore
@@ -96,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auswandern nach Thailand — Das Handbuch: Visum, Steuern, Kra? — Typ: E-books, Anbieter: stonebridge, gelistet seit 2026-09-27
-- Wie viel kostet es? — 21.280193999999998 USD
+- Wie viel kostet es? — 21.232719 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 701363
 title: "Erfolgreich als Coach mit WhatsApp"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-whatsapp?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56929/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-whatsapp"
 language: "de"
 ---
 # Erfolgreich als Coach mit WhatsApp
 
 > Product ID `56929` · Digistore24 productId `701363` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-whatsapp-56929.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du über Broadcasts, Direktkontakt und Status planbar Kunden gewinnst Als Coach ist Vertrauen alles – und nirgendwo entsteht es schneller als in einer persönlichen WhatsApp-Nachricht. Dieses E-Book zeigt dir, wie du Broadcasts als Mehrwert-Kanal aufbaust, der Interessenten Schritt für Schritt in Käufer verwandelt. Du lernst, wie du Status und Direktnachrichten als Funnel-Elemente einsetzt, wie …
+**Vendor's marketplace description:** <p><strong>Wie du über Broadcasts, Direktkontakt und Status planbar Kunden gewinnst</strong></p>
+<p>Als Coach ist Vertrauen alles – und nirgendwo entsteht es schneller als in einer persönlichen WhatsApp-Nachricht. Dieses E-Book zeigt dir, wie du Broadcasts als Mehrwert-Kanal aufbaust, der Interessenten Schritt für Schritt in Käufer verwandelt. Du lernst, wie du Status und Direktnachrichten als Funnel-Elemente einsetzt, wie du ohne aufdringliche Werbebotschaften echte Gesprächsanfragen erzeugst und wie du Erstgespräche direkt über WhatsApp einlädst. Die hohen Öffnungsraten der Plattform spielen dir dabei in die Hände: Was du sendest, wird tatsächlich gelesen. Statt Algorithmen zu bekämpfen, nutzt du den direktesten Kanal zu deiner Zielgruppe – und baust so ein System auf, das deinen Kalender regelmäßig füllt.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Broadcast-Funnel aufbauen: von der ersten Nachricht bis zur Buchung</li>
+<li>Mehrwert-Nachrichten schreiben, die Vertrauen statt Ablehnung erzeugen</li>
+<li>Status als tägliche Touchpoints im Coach-Funnel einsetzen</li>
+<li>Direktnachrichten nutzen, um Erstgespräche zu initiieren – ohne Druck</li>
+<li>WhatsApp-Community für Gruppencoachings oder Mastermind-Formate</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-whatsapp?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56929/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-whatsapp
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701363/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit WhatsApp? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

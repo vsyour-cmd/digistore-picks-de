@@ -4,34 +4,34 @@ digistore24_product_id: 582142
 title: "50 % Provision pro Sale – Entdecke alle 4 Persönlichkeitstyp"
 vendor: "Angelika-Traumerfuellerin"
 product_type: "Downloads"
-price: 65.88
+price: 65.73
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.95
+earnings_per_sale: 32.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-11-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://seelengarten-phoenix.com/bundle-power-typen-paket?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50527/adminstore/"
 sales_page: "https://seelengarten-phoenix.com/bundle-power-typen-paket"
 language: "de"
 ---
 # 50 % Provision pro Sale – Entdecke alle 4 Persönlichkeitstyp
 
 > Product ID `50527` · Digistore24 productId `582142` · [HTML profile page](../../produkte/50-provision-pro-sale-entdecke-alle-4-pers-nlichkeitstyp-50527.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $65.88 (Single payment) |
+| Price | $65.73 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.95 |
+| Earnings/sale* | $32.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Angelika-Traumerfuellerin |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hauptbeschreibung Verdiene 50 % Provision pro Sale als Affiliate!Das „PowerTypen“-Paket bietet echten Mehrwert und richtet sich an Menschen, die ihre Persönlichkeit weiterentwickeln, andere besser verstehen und erfolgreichere Beziehungen aufbauen möchten. Ideal für deinen Newsletter, Blog oder Social Media! Kurzbeschreibung Entfessle dein volles Potenzial! Dieses Paket gibt dir tiefgreifende Einbl…
+**Vendor's marketplace description:** <h3>Hauptbeschreibung</h3>
+<p><strong>Verdiene 50 % Provision pro Sale als Affiliate!</strong><br />Das „PowerTypen“-Paket bietet echten Mehrwert und richtet sich an Menschen, die ihre Persönlichkeit weiterentwickeln, andere besser verstehen und erfolgreichere Beziehungen aufbauen möchten. Ideal für deinen Newsletter, Blog oder Social Media!</p>
+<h3>Kurzbeschreibung</h3>
+<p>Entfessle dein volles Potenzial! Dieses Paket gibt dir tiefgreifende Einblicke in alle vier Persönlichkeitstypen – Macher, Kreative, Strategische und Teamplayer – und hilft dir, deren Stärken zu nutzen. Mit Workbooks, binauralen Beats und umfassenden Analysen!</p>
+<h3><strong>Das erhält der Kunde:</strong></h3>
+<p><strong>Ausführliche Analysen aller 4 Persönlichkeitstypen (PDF):</strong><br />Verstehe die Eigenschaften jedes Typs, entdecke deren Stärken und lerne, wie du sie für dich nutzen kannst.</p>
+<p><strong>4 binaurale Beats (MP3):</strong><br />Gezielt abgestimmte Audio-Frequenzen, die dich in den idealen mentalen Zustand versetzen, um deine Ziele zu erreichen.</p>
+<p><strong>4 praktische Workbooks (PDF):</strong><br />Jedes Workbook ist individuell auf die jeweiligen Persönlichkeitstypen zugeschnitten und unterstützt dich dabei, gezielt an deinen Fähigkeiten zu arbeiten.</p>
+<h3><strong>Was macht dieses Paket so wertvoll?</strong></h3>
+<ul>
+<li><strong>Werde vielseitiger:</strong> Entwickle gezielt die Eigenschaften der anderen Typen und werde flexibler im Beruf und Privatleben.</li>
+<li><strong>Verbessere Beziehungen:</strong> Verstehe dich selbst und andere besser, um harmonischer und erfolgreicher zusammenzuarbeiten.</li>
+<li><strong>Nutze Stärken anderer:</strong> Erkenne und fördere die Talente in deinem Umfeld, um gemeinsam Großes zu erreichen.</li>
+<li><strong>Finde Fokus und Balance:</strong> Unterstützt durch binaurale Beats und praxisnahe Workbooks.</li>
+</ul>
+<h3><strong>Warum jetzt zugreifen?</strong></h3>
+<p>Für nur <strong>17,49 €</strong> erhältst du das komplette Paket – alle vier Typen mit detaillierten Beschreibungen, praktischen Workbooks und unterstützenden binauralen Beats. Entdecke die Kombination aus Wissen und Tools, die dein Leben auf ein neues Level bringt!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://seelengarten-phoenix.com/bundle-power-typen-paket?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50527/adminstore/
 - Sales page: https://seelengarten-phoenix.com/bundle-power-typen-paket
 - Canonical redirect: https://www.digistore24.com/redir/582142/adminstore
 
@@ -76,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision pro Sale – Entdecke alle 4 Persönlichkeitstyp? — Typ: Downloads, Anbieter: Angelika-Traumerfuellerin, gelistet seit 2024-11-21
-- Wie viel kostet es? — 65.88007400000001 USD
+- Wie viel kostet es? — 65.73309900000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

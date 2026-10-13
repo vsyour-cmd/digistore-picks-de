@@ -4,16 +4,16 @@ digistore24_product_id: 402673
 title: "Jazz Piano Videokurs"
 vendor: "modernmusic"
 product_type: "Member area and video courses"
-price: 494.39
+price: 493.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 247.19
+earnings_per_sale: 246.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-08-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.modern-music.org/jazz-piano-videokurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.modern-music.org/jazz-piano-videokurs"
@@ -22,16 +22,16 @@ language: "de"
 # Jazz Piano Videokurs
 
 > Product ID `37970` · Digistore24 productId `402673` · [HTML profile page](../../produkte/jazz-piano-videokurs-37970.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $494.39 (Single payment, Installment) |
+| Price | $493.28 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $247.19 |
+| Earnings/sale* | $246.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | modernmusic |
@@ -41,7 +41,44 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Jazz Piano Videokurs Mache die Ausbildung zum Bar Jazz Pianisten und lerne Jazz Piano leichter und effektiver als je zuvor! Gesamtpaket: Jazz Piano Videokurs für ambitionierte Einsteiger und Fortgeschrittene mit grundlegenden Kenntnissen im Klavierspiel, über 100 frei einteilbare Videos, mehr als 10 Stunden reine Spielzeit. Alle Vorteile auf einen Blick: Werde Solo Jazz Pianist und spiele im Bar &…
+**Vendor's marketplace description:** <h3>Jazz Piano Videokurs</h3>
+<div>
+<h4><strong>Mache die Ausbildung zum Bar Jazz Pianisten und lerne Jazz Piano leichter und effektiver als je zuvor!</strong></h4>
+<p><strong>Gesamtpaket: Jazz Piano Videokurs für ambitionierte Einsteiger und Fortgeschrittene mit grundlegenden Kenntnissen im Klavierspiel,</strong> über 100 frei einteilbare Videos, mehr als 10 Stunden reine Spielzeit.</p>
+<p> </p>
+<p><strong>Alle Vorteile auf einen Blick:</strong></p>
+<p>  </p>
+<ul>
+<li>
+<p>Werde Solo Jazz Pianist und spiele im Bar &amp; Cocktail Jazz Piano Stil</p>
+</li>
+<li>
+<p>Lerne die wunderschönsten Jazz Melodien auf Deinem Instrument solistisch zu interpretieren</p>
+</li>
+<li>
+<p>Spiele auch komplexe Voicings sauber und mit Selbstverständlichkeit ohne Nachzudenken</p>
+</li>
+<li>
+<p>Lerne eigene Jazz Piano Arrangements mit Akkorden, Licks &amp; Läufen auszuschmücken</p>
+</li>
+<li>
+<p>Werde ein besserer Jazz Pianist in kürzester Zeit und spiele absolut selbstbewusst</p>
+</li>
+<li>
+<p>Von zu Hause aus, zu Deiner Zeit an Deinem Instrument lernen​</p>
+</li>
+<li>
+<p>Komplettpreis für alle Videos und Noten im PDF-Format zum Download</p>
+</li>
+<li>
+<p><span style="color:#ff0000;">Neu:</span><strong> optionales 1-zu-1 online Piano Coaching buchbar!!!</strong></p>
+</li>
+</ul>
+<p> </p>
+<p>Das Kurspaket wird um weitere wertvolle Inhalte erweitert. Der Preis wird weiter steigen!</p>
+<p><strong>Deshalb: Nutze dieses sensationelle Angebot und steige jetzt noch günstig ein!</strong></p>
+<p>Direkt nach der Bezahlung bekommst du deine Zugangsdaten per E-Mail zugeschickt und kannst sofort beginnen!</p>
+</div>
 
 ## 2. Links
 
@@ -100,7 +137,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Jazz Piano Videokurs? — Typ: Member area and video courses, Anbieter: modernmusic, gelistet seit 2021-08-14
-- Wie viel kostet es? — 494.38630800000004 USD
+- Wie viel kostet es? — 493.283358 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

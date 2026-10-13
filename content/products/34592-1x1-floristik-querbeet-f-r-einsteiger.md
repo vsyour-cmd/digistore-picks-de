@@ -4,16 +4,16 @@ digistore24_product_id: 353359
 title: "\"1x1 Floristik - Querbeet für Einsteiger\""
 vendor: "Elobana"
 product_type: "Member area and video courses"
-price: 131
+price: 130.71
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 18.15
+earnings_per_sale: 18.11
 cart_conversion_pct: 13
 cancel_rate_pct: 0.72
 categories: ["Home & Garden"]
 listed_since: "2020-10-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-querbeet-fuer-einsteiger/?aff=adminstore#aff=adminstore"
 sales_page: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-querbeet-fuer-einsteiger/"
@@ -22,16 +22,16 @@ language: "de"
 # "1x1 Floristik - Querbeet für Einsteiger"
 
 > Product ID `34592` · Digistore24 productId `353359` · [HTML profile page](../../produkte/1x1-floristik-querbeet-f-r-einsteiger-34592.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $131.00 (Single payment) |
+| Price | $130.71 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $18.15 |
+| Earnings/sale* | $18.11 |
 | Cart conversion* | 13% |
 | Cancel rate* | 0.72% |
 | Vendor | Elobana |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dies ist das Kurspaket mit 5 floristischen Werkstücken. 1x Straußbinden in der klassischen Spiraltechnik, die jedem gebundenen Strauß zugrunde liegt. 1x Dekoratives Gesteck. Du lernst die Grundtechnik eines runden oder länglichen Gestecks. 1x Klassischer Kranz. Diese Technik ist für jede Jahreszeit nutzbar. 1x Formbinderei- gewickelte Kugel. Schnell zum Blickfang. 1x Formbinderei- gestecktes Herz.…
+**Vendor's marketplace description:** <p>Dies ist das Kurspaket mit 5 floristischen Werkstücken.</p>
+<p>1x Straußbinden in der klassischen Spiraltechnik, die jedem gebundenen Strauß zugrunde liegt.</p>
+<p>1x Dekoratives Gesteck. Du lernst die Grundtechnik eines runden oder länglichen Gestecks.</p>
+<p>1x Klassischer Kranz. Diese Technik ist für jede Jahreszeit nutzbar. </p>
+<p>1x Formbinderei- gewickelte Kugel. Schnell zum Blickfang.</p>
+<p>1x Formbinderei- gestecktes Herz. Mit dieser Technik kommst du zur perfekten Form.</p>
 
 ## 2. Links
 
@@ -92,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "1x1 Floristik - Querbeet für Einsteiger"? — Typ: Member area and video courses, Anbieter: Elobana, gelistet seit 2020-10-20
-- Wie viel kostet es? — 130.99814 USD
+- Wie viel kostet es? — 130.70589 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

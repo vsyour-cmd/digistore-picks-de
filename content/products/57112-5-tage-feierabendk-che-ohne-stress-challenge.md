@@ -4,16 +4,16 @@ digistore24_product_id: 695812
 title: "5 Tage Feierabendküche ohne Stress Challenge"
 vendor: "pakohli8ptrick"
 product_type: "Member area and video courses"
-price: 110.94
+price: 110.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 55.47
+earnings_per_sale: 55.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2026-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.patrickkohli.com/challenge1/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.patrickkohli.com/challenge1/"
@@ -22,16 +22,16 @@ language: "de"
 # 5 Tage Feierabendküche ohne Stress Challenge
 
 > Product ID `57112` · Digistore24 productId `695812` · [HTML profile page](../../produkte/5-tage-feierabendk-che-ohne-stress-challenge-57112.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $110.94 (Single payment) |
+| Price | $110.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $55.47 |
+| Earnings/sale* | $55.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pakohli8ptrick |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 5 Tage Challenge für eine einfache und gesunde Feierabendküche. Lerne schnelle Rezepte, clevere Routinen und alltagstaugliche Strategien für weniger Stress und mehr Genuss beim Kochen.
+**Vendor's marketplace description:** <p>5 Tage Challenge für eine einfache und gesunde Feierabendküche. Lerne schnelle Rezepte, clevere Routinen und alltagstaugliche Strategien für weniger Stress und mehr Genuss beim Kochen.</p>
 
 ## 2. Links
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 5 Tage Feierabendküche ohne Stress Challenge? — Typ: Member area and video courses, Anbieter: pakohli8ptrick, gelistet seit 2026-06-23
-- Wie viel kostet es? — 110.9394 USD
+- Wie viel kostet es? — 110.6919 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

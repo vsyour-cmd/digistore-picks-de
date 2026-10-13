@@ -4,34 +4,34 @@ digistore24_product_id: 72935
 title: "E-Book: Banken Lexikon"
 vendor: "Staatenlos"
 product_type: "E-books"
-price: 36.57
+price: 36.48
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 16
+earnings_per_sale: 15.97
 cart_conversion_pct: 19
 cancel_rate_pct: 3.92
 categories: ["Business & Investment"]
 listed_since: "2016-02-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://staatenlos.ch/firma-gruenden/banken-lexikon/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/10369/adminstore/"
 sales_page: "https://staatenlos.ch/firma-gruenden/banken-lexikon/"
 language: "de"
 ---
 # E-Book: Banken Lexikon
 
 > Product ID `10369` · Digistore24 productId `72935` · [HTML profile page](../../produkte/e-book-banken-lexikon-10369.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.57 (Single payment) |
+| Price | $36.48 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $16.00 |
+| Earnings/sale* | $15.97 |
 | Cart conversion* | 19% |
 | Cancel rate* | 3.92% |
 | Vendor | Staatenlos |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Im Digitalen "Banken Lexikon – mit Offshore-Banking sicher durch die Krise" erfahren Leser alles über den Vermögensschutz durch Auslandskonten. Dazu gehören: 300 Seiten aktuellste Informationen zum Thema Offshore-Banking 50 Länder und ihre Eignung im Detail 200 Offshore-Banken, davon 67 im Detail Typologien der besten Banken für Deine Bedürfnisse einsteigerfreundliche Anleitungen zu Deinem ersten …
+**Vendor's marketplace description:** <p>Im Digitalen "Banken Lexikon – mit Offshore-Banking sicher durch die Krise" erfahren Leser alles über den Vermögensschutz durch Auslandskonten. Dazu gehören:</p>
+<ul>
+<li>300 Seiten aktuellste Informationen zum Thema Offshore-Banking</li>
+<li>50 Länder und ihre Eignung im Detail</li>
+<li>200 Offshore-Banken, davon 67 im Detail</li>
+<li>Typologien der besten Banken für Deine Bedürfnisse</li>
+<li>einsteigerfreundliche Anleitungen zu Deinem ersten Offshore-Konto</li>
+<li>Spezial zu Bankgeheimnis und Informationsaustausch</li>
+<li>und vieles mehr...</li>
+</ul>
+<p>Im Angesicht von Banken-Instabilität und Staatsverschuldung sollte sich jeder Bürger mit Alternativen für seine Ersparnisse auseinandersetzen, damit sie nicht auf einmal verschwunden sind. "Weil Dein Geld Dir gehört" ist so geschrieben, dass Einsteiger durchblicken, aber selbst Fortgeschrittene sich nicht langweilen.</p>
+<p>Das Affiliate-Programm setzt sich aus einer Komission von 34% auf jeden Verkauf + 10% zusätzliche Kommisison auf sämtliche Verkäufe von selbst geworbenen Affiliates zusammen. 50% erhalten Top-Affiliates ab einer gewissen Umsatzschwelle. Weil mein Geld Dir gehört!</p>
+<p>Ausführliche Informationen auf der Support-Seite.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://staatenlos.ch/firma-gruenden/banken-lexikon/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/10369/adminstore/
 - Sales page: https://staatenlos.ch/firma-gruenden/banken-lexikon/
 - Vendor affiliate support: https://staatenlos.ch/staatenlos/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/72935/adminstore
@@ -102,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Banken Lexikon? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2016-02-24
-- Wie viel kostet es? — 36.565178 USD
+- Wie viel kostet es? — 36.48360300000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

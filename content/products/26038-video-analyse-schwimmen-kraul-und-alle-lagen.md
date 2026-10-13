@@ -4,16 +4,16 @@ digistore24_product_id: 229099
 title: "Video-Analyse Schwimmen (Kraul und alle Lagen)"
 vendor: "jschueren"
 product_type: "Remote service provided electronically"
-price: 47.08
+price: 46.97
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 9.41
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-06-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/229099/adminstore"
 sales_page: "https://www.xn--kraulkraftverstrker-uwb.de/video-stil-analyse-schwimmen/?kraul=[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # Video-Analyse Schwimmen (Kraul und alle Lagen)
 
 > Product ID `26038` · Digistore24 productId `229099` · [HTML profile page](../../produkte/video-analyse-schwimmen-kraul-und-alle-lagen-26038.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $47.08 (Single payment) |
+| Price | $46.97 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $9.41 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jschueren |
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ob Kraul oder eine andere Schwimmlage – lass dich filmen und erhalte eine professionelle Videoanalyse zum Festpreis! Einfach im Rahmen der Vorgaben (wie du dich filmen lassen solltest, findest du hier) Film(e) hochladen, und nach wenigen Tagen erhältst du: Analyse deines Schwimmstils: Wir sagen dir genau, wo deine technischen Fehler lauern Gegenmaßnahmen: Du erfährst, wie du diese Fehler gezielt a…
+**Vendor's marketplace description:** <p>Ob Kraul oder eine andere Schwimmlage – lass dich filmen und erhalte eine professionelle Videoanalyse zum Festpreis! Einfach im Rahmen der Vorgaben (wie du dich filmen lassen solltest, <a href="https://www.xn--kraulkraftverstrker-uwb.de/video-stil-analyse-schwimmen/" target="_blank" rel="noreferrer noopener">findest du hier</a>) Film(e) hochladen, und nach wenigen Tagen erhältst du:</p>
+<ul>
+<li>
+<p><strong>Analyse deines Schwimmstils</strong>: Wir sagen dir genau, wo deine technischen Fehler lauern</p>
+</li>
+<li>
+<p><strong>Gegenmaßnahmen</strong>: Du erfährst, wie du diese Fehler gezielt abstellen kannst</p>
+</li>
+<li>
+<p><strong>Vom Profi</strong>: Du erhältst ausschließlich Analysen von aktuellen A- und B-Lizenz-Trainern</p>
+</li>
+<li>
+<p><strong>Video statt Text</strong>: Du bekommst ein vollkommen individuelles Video, indem deine Aufnahmen gezeigt, analysiert und ausführlich kommentiert werden – Fehler werden wenn nötig in Zeitlupe und mit Erklärungen gezeigt, warum dieser Fehler ein Problem darstellt</p>
+</li>
+<li>
+<p><strong>Einfach und sicher</strong>: Du erhältst einen privaten Upload- und Download-Link; dein Video wird nach 14 Tagen vollständig gelöscht und nicht an Dritte weitergegeben</p>
+</li>
+</ul>
+<p><strong>Alle Infos, Preise und Funktionsweise <a href="https://www.xn--kraulkraftverstrker-uwb.de/video-stil-analyse-schwimmen/" target="_blank" rel="noreferrer noopener">hier</a>!</strong></p>
 
 ## 2. Links
 
@@ -78,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Video-Analyse Schwimmen (Kraul und alle Lagen)? — Typ: Remote service provided electronically, Anbieter: jschueren, gelistet seit 2018-06-20
-- Wie viel kostet es? — 47.076406 USD
+- Wie viel kostet es? — 46.971381 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

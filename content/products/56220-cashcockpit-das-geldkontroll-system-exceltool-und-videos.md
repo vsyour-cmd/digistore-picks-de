@@ -4,16 +4,16 @@ digistore24_product_id: 679666
 title: "CashCockpit - Das GeldKontroll-System | Exceltool und Videos"
 vendor: "NilsWarnecke"
 product_type: "Software"
-price: 55.56
+price: 55.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 78.86
+earnings_per_sale: 78.68
 cart_conversion_pct: 5
 cancel_rate_pct: 4.89
 categories: ["Education","Family & Children","Home & Garden"]
 listed_since: "2026-03-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://cashcockpit.de/cashcockpit-das-geldkontroll-system/?aff=adminstore#aff=adminstore"
 sales_page: "https://cashcockpit.de/cashcockpit-das-geldkontroll-system/"
@@ -22,16 +22,16 @@ language: "de"
 # CashCockpit - Das GeldKontroll-System | Exceltool und Videos
 
 > Product ID `56220` · Digistore24 productId `679666` · [HTML profile page](../../produkte/cashcockpit-das-geldkontroll-system-exceltool-und-videos-56220.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $55.56 (Single payment, Installment) |
+| Price | $55.44 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $78.86 |
+| Earnings/sale* | $78.68 |
 | Cart conversion* | 5% |
 | Cancel rate* | 4.89% |
 | Vendor | NilsWarnecke |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb jetzt CashCockpit - Das GeldKontroll-System als Affiliate und profitiere von einem qualitativ hochwertigen Angebot und hohen Conversion Rates! Deine Vorteile: 50% Provision für jeden einzelnen Verkauf (gilt für jedes verkaufte Produkt) Verkaufsraten von durchschnittlich 8% durch hoch konvertierende Seiten Alle Marketing-Materialien bereits fix und fertig vorbereitet – erstellt mit wenigen K…
+**Vendor's marketplace description:** <p>Bewirb jetzt <strong>CashCockpit - Das GeldKontroll-System</strong> als Affiliate und profitiere von einem qualitativ hochwertigen Angebot und hohen Conversion Rates!</p>
+<p><strong>Deine Vorteile:</strong><br /> </p>
+<ul>
+<li>50% Provision für jeden einzelnen Verkauf (gilt für jedes verkaufte Produkt)</li>
+<li>Verkaufsraten von durchschnittlich 8% durch hoch konvertierende Seiten</li>
+<li>Alle Marketing-Materialien bereits fix und fertig vorbereitet – erstellt mit wenigen Klicks</li>
+<li>Vielfach getestetes und optimiertes Marketing</li>
+</ul>
+<p>Melde dich jetzt zum Partnerprogramm an und generiere sofort die ersten Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!</p>
 
 ## 2. Links
 
@@ -90,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CashCockpit - Das GeldKontroll-System | Exceltool und Videos? — Typ: Software, Anbieter: NilsWarnecke, gelistet seit 2026-03-26
-- Wie viel kostet es? — 55.559348 USD
+- Wie viel kostet es? — 55.435398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

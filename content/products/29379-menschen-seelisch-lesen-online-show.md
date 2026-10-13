@@ -4,34 +4,34 @@ digistore24_product_id: 13857
 title: "Menschen seelisch lesen Online-Show"
 vendor: "elisette"
 product_type: "Remote service provided electronically"
-price: 110.94
+price: 110.69
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 22.19
+earnings_per_sale: 22.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2013-07-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://www.healing-harmony.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/29379/adminstore/"
 sales_page: "https://www.healing-harmony.com"
 language: "de"
 ---
 # Menschen seelisch lesen Online-Show
 
 > Product ID `29379` · Digistore24 productId `13857` · [HTML profile page](../../produkte/menschen-seelisch-lesen-online-show-29379.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $110.94 (Single payment) |
+| Price | $110.69 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $22.19 |
+| Earnings/sale* | $22.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | elisette |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lade zu meiner Menschen seelisch lesen - Show ein, bei der ich 5 Teilnehmer gratis analysiere und ihnen ihr Reading live präsentiere. Das ganze ist möglich in verschiedenen Kontexten: Persönlichkeitsentwicklung (was ist mein nächster Schritt?) Erziehung Familien-Probleme Kontakt zu Verstorbenen u. Ungeborenen spirituelle Entwicklung uvm... Hier ist es möglich allgemein oder mit einer bestimmten Fr…
+**Vendor's marketplace description:** <p>Lade zu meiner Menschen seelisch lesen - Show ein, bei der ich 5 Teilnehmer gratis analysiere und ihnen ihr Reading live präsentiere.</p>
+<p>Das ganze ist möglich in verschiedenen Kontexten:</p>
+<ul><li>Persönlichkeitsentwicklung <br />(was ist mein nächster Schritt?)</li>
+<li>Erziehung</li>
+<li>Familien-Probleme</li>
+<li>Kontakt zu Verstorbenen u. Ungeborenen</li>
+<li>spirituelle Entwicklung</li>
+<li>uvm...</li>
+</ul><p>Hier ist es möglich allgemein oder mit einer bestimmten Fragestellung einem Menschen auf Seelen-Ebene Fragen zu stellen und Antworten zu erhalten.</p>
+<p><br />Die übrigen Teilnehmer erhalten für sich und auf Wunsch auch für ihre Familie einen Sonderpreis.</p>
+<p>Davon und von meinem Upsell bekommst Du 30% Provision!</p>
+<p>Das ganze kann verbunden werden mit einem Interview das in die Readings übergeht.<br /><br /><strong>+++ Du bekommst im Vorfeld ein Reading von mir für Dich gratis, damit Du Dich selbst überzeugen kannst </strong>(schreib mich einfach an)<strong>+++</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.healing-harmony.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/29379/adminstore/
 - Sales page: https://www.healing-harmony.com
 - Vendor affiliate support: https://www.seelen-fluesterin.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/13857/adminstore
@@ -71,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Menschen seelisch lesen Online-Show? — Typ: Remote service provided electronically, Anbieter: elisette, gelistet seit 2013-07-14
-- Wie viel kostet es? — 110.9394 USD
+- Wie viel kostet es? — 110.6919 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

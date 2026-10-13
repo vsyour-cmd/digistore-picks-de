@@ -4,34 +4,34 @@ digistore24_product_id: 368229
 title: "Der 3-Tage-Blitz-Fastenkurs mit Ralf Moll"
 vendor: "RalfMollFastensuppen"
 product_type: "Webinar"
-price: 46.99
+price: 46.88
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 7.05
+earnings_per_sale: 7.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-01-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47209/adminstore/"
 sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage"
 language: "de"
 ---
 # Der 3-Tage-Blitz-Fastenkurs mit Ralf Moll
 
 > Product ID `47209` · Digistore24 productId `368229` · [HTML profile page](../../produkte/der-3-tage-blitz-fastenkurs-mit-ralf-moll-47209.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $46.99 (Single payment) |
+| Price | $46.88 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $7.05 |
+| Earnings/sale* | $7.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RalfMollFastensuppen |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Tue Gutes und empfehle deinen Kunden und Freunden unseren 3-Tage-Blitz-Fastenkurs mit Ralf Moll weiter und verdiene mit uns mit! Deine Vorteile: -> Gute Provisionen von 15% für alle Produkte -> Garantiert etwas für deine Kunden dabei: Jeder muss mal fasten! -> Getestet und optimiert: Bereits über 1.000 verkaufte Online-Kurse -> Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren optim…
+**Vendor's marketplace description:** <h4><strong>Tue Gutes und empfehle deinen Kunden und Freunden unseren 3-Tage-Blitz-Fastenkurs mit Ralf Moll weiter und verdiene mit uns mit!</strong></h4>
+<p>Deine Vorteile:</p>
+<p><strong>-&gt; Gute Provisionen von 15% für alle Produkte</strong></p>
+<p><strong>-&gt; Garantiert etwas für deine Kunden dabei: Jeder muss mal fasten!</strong></p>
+<p><strong>-&gt; Getestet und optimiert: Bereits über 1.000 verkaufte Online-Kurse</strong></p>
+<p><strong>-&gt; Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren optimierten Verkaufsfunneln und Riesennetzwerk</strong></p>
+<p><strong>-&gt; Schneller Support durch unseren Affiliate-Manager</strong></p>
+<p> </p>
+<p>Melde dich jetzt als Affiliate an und verdiene mit uns mit!</p>
+<p>Beste Fastengrüße<br />Ralf Moll</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47209/adminstore/
 - Sales page: https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage
 - Canonical redirect: https://www.digistore24.com/redir/368229/adminstore
 
@@ -88,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 3-Tage-Blitz-Fastenkurs mit Ralf Moll? — Typ: Webinar, Anbieter: RalfMollFastensuppen, gelistet seit 2021-01-16
-- Wie viel kostet es? — 46.986758 USD
+- Wie viel kostet es? — 46.881933000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

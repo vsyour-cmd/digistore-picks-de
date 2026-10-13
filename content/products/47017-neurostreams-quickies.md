@@ -4,34 +4,34 @@ digistore24_product_id: 66567
 title: "Neurostreams™ Quickies"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 44.26
+price: 44.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.13
+earnings_per_sale: 22.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2015-12-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://www.neurostreams.de/portfolio/quickies/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47017/adminstore/"
 sales_page: "http://www.neurostreams.de/portfolio/quickies/"
 language: "de"
 ---
 # Neurostreams™ Quickies
 
 > Product ID `47017` · Digistore24 productId `66567` · [HTML profile page](../../produkte/neurostreams-quickies-47017.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $44.26 (Single payment) |
+| Price | $44.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.13 |
+| Earnings/sale* | $22.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -41,11 +41,40 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Quickies sind Kurzversionen von Neurostreams™ aus (fast) allen Anwendungs-Gebieten. Genauso wirksam - jedoch "schneller rein und schneller raus" in Sachen Zielfrequenz. Die Quickies dauern nur halb so lang wie die Originale. Enthalten sind jeweils zwei Versionen von: von den Neurostreams™ KLASSIKERN... Wellness Walk, Delta Frischzellenkur, DNA Talk, Co-Creation Galaxie, Zukunft schauen, Gaia C…
+**Vendor's marketplace description:** <p>Die Quickies sind Kurzversionen von Neurostreams™ aus (fast) allen Anwendungs-Gebieten.</p>
+<p>Genauso wirksam - jedoch "schneller rein und schneller raus" in Sachen Zielfrequenz.</p>
+<p>Die Quickies dauern nur halb so lang wie die Originale.</p>
+<p> </p>
+<p><strong>Enthalten sind jeweils zwei Versionen von:</strong></p>
+<p>von den Neurostreams™ <strong>KLASSIKERN</strong>...</p>
+<ul>
+<li>Wellness Walk, Delta Frischzellenkur, DNA Talk, Co-Creation Galaxie, Zukunft schauen, Gaia Club Radio, Flow trifft Genie</li>
+</ul>
+<p>aus der Neurostreams™ <strong>ZenBox</strong>...</p>
+<ul>
+<li>Kyoto Dimension, Silberfaden, Zen Quasar</li>
+</ul>
+<p>von den Neurostreams™ <strong>Antriebswellen</strong>...</p>
+<ul>
+<li>Gamma Hammer, Frühaufsteherbelohnung, Pure Lebendigkeit</li>
+</ul>
+<p>aus dem Neurostreams™ <strong>LABOR</strong>...</p>
+<ul>
+<li>Treffpunkt Garten Eden, Power Kur, Das innere Kind [Theta]</li>
+</ul>
+<p>und vom Neurostreams™ <strong>Schlafgold</strong>...</p>
+<ul>
+<li>Einschlaf-Erzwingung, Der Rest ist Schweigen</li>
+</ul>
+<p> </p>
+<p><strong>Auch für Einsteiger und Anfänger geeignet.</strong></p>
+<p>Die Quickies-Sammlung enthält 34 abwechslungsreiche Sessions (über 8 Stunden) mit durchgehend brandneuen, bisher noch nicht gehörten Melodien.</p>
+<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
+<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.neurostreams.de/portfolio/quickies/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47017/adminstore/
 - Sales page: http://www.neurostreams.de/portfolio/quickies/
 - Vendor affiliate support: https://www.timdaugs.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/66567/adminstore
@@ -85,7 +114,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Quickies? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2015-12-17
-- Wie viel kostet es? — 44.2637 USD
+- Wie viel kostet es? — 44.164950000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 718161
 title: "Das 90/10-System – In 7 Schritten zu deinem ersten digitalen"
 vendor: "rs-onlineagentur"
 product_type: "Downloads"
-price: 34.84
+price: 18.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.43
+earnings_per_sale: 9.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://rita-scheer.de/90-10-system-band1-upsell?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58119/adminstore/"
 sales_page: "https://rita-scheer.de/90-10-system-band1-upsell"
 language: "de"
 ---
 # Das 90/10-System – In 7 Schritten zu deinem ersten digitalen
 
 > Product ID `58119` · Digistore24 productId `718161` · [HTML profile page](../../produkte/das-90-10-system-in-7-schritten-zu-deinem-ersten-digitalen-58119.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $18.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.43 |
+| Earnings/sale* | $9.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das 90/10-System – Band I ist ein digitales Workbook für Anfängerinnen und Anfänger, die neben dem Beruf ihr erstes digitales Produkt entwickeln möchten. Das Workbook führt in sieben verständlichen Schritten von einer passenden Produktidee über Zielgruppe, Problem, Format und Struktur bis zum fertigen digitalen Produkt. Für Affiliates ist das Produkt besonders interessant, weil es eine klare Zielg…
+**Vendor's marketplace description:** <p>Das 90/10-System – Band I ist ein digitales Workbook für Anfängerinnen und Anfänger, die neben dem Beruf ihr erstes digitales Produkt entwickeln möchten.</p>
+<p>Das Workbook führt in sieben verständlichen Schritten von einer passenden Produktidee über Zielgruppe, Problem, Format und Struktur bis zum fertigen digitalen Produkt.</p>
+<p>Für Affiliates ist das Produkt besonders interessant, weil es eine klare Zielgruppe anspricht und ein konkretes Anfängerproblem löst: Viele Menschen möchten ein digitales Produkt erstellen, wissen aber nicht, wie sie ihre Idee sinnvoll eingrenzen und umsetzen sollen.</p>
+<p>Das Produkt kostet 37 € einmalig. Nach dem Kauf kann Band II „Sichtbar verkaufen“ als ergänzendes Upsell angeboten werden.</p>
+<p>Auf der Affiliate-Supportseite findest du fertige Werbetexte, Pinterest-Texte, Hooks, Produktinformationen und weitere Hinweise:</p>
+<p>https://rita-scheer.de/affiliate-support/</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://rita-scheer.de/90-10-system-band1-upsell?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58119/adminstore/
 - Sales page: https://rita-scheer.de/90-10-system-band1-upsell
 - Vendor affiliate support: https://rita-scheer.de/affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/718161/adminstore
@@ -89,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das 90/10-System – In 7 Schritten zu deinem ersten digitalen? — Typ: Downloads, Anbieter: rs-onlineagentur, gelistet seit 2026-08-04
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 18.694632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

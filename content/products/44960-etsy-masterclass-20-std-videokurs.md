@@ -4,16 +4,16 @@ digistore24_product_id: 510068
 title: "Etsy Masterclass - 20 Std Videokurs"
 vendor: "CharlotteKster"
 product_type: "Member area and video courses"
-price: 322.86
+price: 322.14
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 71.3
+earnings_per_sale: 71.14
 cart_conversion_pct: 14
 cancel_rate_pct: 6.63
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-08-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.lottismasterclass.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lottismasterclass.de"
@@ -22,16 +22,16 @@ language: "de"
 # Etsy Masterclass - 20 Std Videokurs
 
 > Product ID `44960` · Digistore24 productId `510068` · [HTML profile page](../../produkte/etsy-masterclass-20-std-videokurs-44960.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $322.86 (Single payment, Installment) |
+| Price | $322.14 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $71.30 |
+| Earnings/sale* | $71.14 |
 | Cart conversion* | 14% |
 | Cancel rate* | 6.63% |
 | Vendor | CharlotteKster |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Geld verdienen mit dem Produkt Etsy Masterclass - 100.000€ in einem Jahr erreichen mit Print on Demand Initial15% Sale-Provisionen (für jede 498€ Bestellung) Sale Provision Sofern sich Deine Kontakte, die Interessenten, sich dazu entschließen, die Etsy Masterclass zu kaufen, können sie sofort auf den 19 Std. Kurs zugreifen und du erhälst deine Verkaufsprovision. Sie bezahlen entweder den Kurs sofo…
+**Vendor's marketplace description:** <h4 style="text-align:center;"><strong>Geld verdienen mit dem Produkt <span style="color:#ff6600;">Etsy Masterclass - 100.000€ in einem Jahr erreichen mit Print on Demand</span></strong></h4>
+<h4 style="text-align:center;"><strong>Initial<br />15% Sale-Provisionen (für jede 498€ Bestellung)<br /></strong></h4>
+<p><strong>Sale Provision</strong></p>
+<p>Sofern sich Deine Kontakte, die Interessenten, sich dazu entschließen, <strong>die Etsy Masterclass</strong> zu kaufen, können sie sofort auf den 19 Std. Kurs zugreifen und du erhälst deine Verkaufsprovision. Sie bezahlen entweder den Kurs sofort oder in 2 bis maximal 3 Raten ab.</p>
+<p><span style="background-color:#ffff99;">Pro Sale erhälst du hier eine Provision von <strong>knapp 75€!</strong></span></p>
+<p><span style="text-decoration:underline;">Die angesprochene Zielgruppe sieht wie folgt aus:</span><br />- Frauen, zwischen 20 und 40 Jahren</p>
+<p>- die den idealen Neben- oder Hauptjob suchen, bei dem sie von zu Hause aus bequem online Geld verdienen können</p>
+<p>- die die Kontrolle über ihre Zeit zurück möchten und selbst einteilen können, wann sie arbeiten und wann nicht<br /><br /><strong>ACHTUNG: Keine Goolge Ads Werbung, diese Affiliates werden sofort blockiert.</strong></p>
 
 ## 2. Links
 
@@ -109,7 +116,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Etsy Masterclass - 20 Std Videokurs? — Typ: Member area and video courses, Anbieter: CharlotteKster, gelistet seit 2023-08-03
-- Wie viel kostet es? — 322.85606600000006 USD
+- Wie viel kostet es? — 322.13579100000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

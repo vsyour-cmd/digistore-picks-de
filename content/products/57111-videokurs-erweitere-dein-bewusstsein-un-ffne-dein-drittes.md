@@ -4,7 +4,7 @@ digistore24_product_id: 628795
 title: "Videokurs: Erweitere dein BewusstSEIN un öffne dein drittes"
 vendor: "KKSmith"
 product_type: "Downloads"
-price: 11.3
+price: 11.27
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.13
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/628795?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57111/adminstore/"
 sales_page: "https://www.digistore24.com/product/628795"
 language: "de"
 ---
 # Videokurs: Erweitere dein BewusstSEIN un öffne dein drittes
 
 > Product ID `57111` · Digistore24 productId `628795` · [HTML profile page](../../produkte/videokurs-erweitere-dein-bewusstsein-un-ffne-dein-drittes-57111.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.30 (Single payment) |
+| Price | $11.27 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.13 |
 | Cart conversion* | — |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erweitere dein BewusstSEIN und öffne dein drittes Auge von Kaya D. und Suma (Simhika Devi) ein Videokurs mit praktischen und effektiven Übungsanleitungen! Teil 1 der kommenden Videokurs Reihe Dauer: 40:52 Min. Dieser Selbstlern-Videokurs beinhaltet nicht nur sofort anwendbare praktische Übungsanleitungen, sondern kann Dich durch das Zusammenspiel von Bild und Ton in einen höheren und erweiterten B…
+**Vendor's marketplace description:** <div>
+<p><strong>Erweitere dein BewusstSEIN und öffne dein drittes Auge</strong></p>
+<p>von Kaya D. und Suma (Simhika Devi)</p>
+<p>ein Videokurs mit praktischen und effektiven Übungsanleitungen!</p>
+<p>Teil 1 der kommenden Videokurs Reihe</p>
+<p>Dauer: 40:52 Min.</p>
+<p>Dieser Selbstlern-Videokurs beinhaltet nicht nur sofort anwendbare praktische Übungsanleitungen, sondern kann Dich durch das Zusammenspiel von Bild und Ton in einen höheren und erweiterten Bewusstseinszustand führen.<br />Die Übungen sind einfach auszuführen, doch sehr wirkungsvoll, und haben, zum Teil, ihren Ursprung in spirituellen Traditionen. Alle Übungen in diesem Kurs wurden von den Medien und Buchautoren Kaya D. und Suma (Simhika Devi) selbst erprobt und für sinnvoll und effektiv erachtet, um in einen erweiterten Bewusstseinszustańd zu gelangen und die eigenen Hellsinne zu aktivieren.</p>
+<p>Weiterführende Infos zu den Büchern von Kaya und Suma (Simhika Devi) und mehr findet Ihr auf unserer Webseite: <a>www.keyanu-erstkontakt.org</a></p>
+<p>Dieser Video Kurs ist zum leichteren und schnelleren Download in 4 Teilen herunterzuladen, in Form von komprimierten Zip-Dateien. Diese nach dem Download bitte entpacken!!</p>
+<p>Für technische Fragen zum Download eine Mail an die in der Bestellbestätigung hinterlegte Support Email Adresse senden.</p>
+<p>Dieses Produkt wird als Video zum Download zu max. 10 Downloads für 12 Monate ab der Bestellung bereitgestellt. </p>
+</div>
+<div>Digitaler Download - kein Versand</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/628795?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57111/adminstore/
 - Sales page: https://www.digistore24.com/product/628795
 - Canonical redirect: https://www.digistore24.com/redir/628795/adminstore
 
@@ -71,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs: Erweitere dein BewusstSEIN un öffne dein drittes? — Typ: Downloads, Anbieter: KKSmith, gelistet seit 2026-06-23
-- Wie viel kostet es? — 11.295648 USD
+- Wie viel kostet es? — 11.270448000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 733505
 title: "Immobilien: Erben, Schenken und Steuern komplett vermeiden"
 vendor: "ericpromm"
 product_type: "Downloads"
-price: 2349.49
+price: 2344.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1174.75
+earnings_per_sale: 1172.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Finances","Real Estate"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://promm.de/nachfolge-workshop?aff=adminstore#aff=adminstore"
 sales_page: "https://promm.de/nachfolge-workshop"
@@ -22,16 +22,16 @@ language: "de"
 # Immobilien: Erben, Schenken und Steuern komplett vermeiden
 
 > Product ID `58678` · Digistore24 productId `733505` · [HTML profile page](../../produkte/immobilien-erben-schenken-und-steuern-komplett-vermeiden-58678.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $2349.49 (Single payment, Installment) |
+| Price | $2344.25 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1174.75 |
+| Earnings/sale* | $1172.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ericpromm |
@@ -41,7 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 498,50 € Provision pro Verkauf – plus Folgeprovisionen Du schickst den Interessenten. Unser professioneller Nachfolge-Workshop übernimmt den Verkauf. Thema: Immobilien vererben, verschenken und Steuern minimieren – bis hin zur vollständigen Vermeidung in passenden Gestaltungen. Für Deine Zielgruppe hochrelevant, weil schnell Zehntausende oder sogar Hunderttausende Euro auf dem Spiel stehen können.…
+**Vendor's marketplace description:** <h1><strong>498,50 € Provision pro Verkauf – plus Folgeprovisionen</strong></h1>
+<p>Du schickst den Interessenten.</p>
+<p><strong>Unser professioneller Nachfolge-Workshop übernimmt den Verkauf.</strong></p>
+<p>Thema: <strong>Immobilien vererben, verschenken und Steuern minimieren – bis hin zur vollständigen Vermeidung in passenden Gestaltungen.</strong></p>
+<p>Für Deine Zielgruppe hochrelevant, weil schnell <strong>Zehntausende oder sogar Hunderttausende Euro</strong> auf dem Spiel stehen können.</p>
+<p> </p>
+<p><strong>Deine Vorteile als Partner:</strong></p>
+<ul>
+<li><strong>997 € Verkaufspreis</strong></li>
+<li><strong>50 % Provision</strong></li>
+<li><strong>498,50 € pro Abschluss</strong></li>
+<li>professioneller Workshop mit starkem Verkaufsaufbau</li>
+<li>vermögende, klar definierte Zielgruppe</li>
+<li>hoher finanzieller Schmerz und echte Dringlichkeit</li>
+<li><strong>zusätzliche Provisionen aus Folge-Funnels</strong></li>
+</ul>
+<p> </p>
+<p>Der große Hebel:</p>
+<p><strong>Du musst das Produkt nicht selbst verkaufen.</strong><br />Du bringst den Lead in den Workshop – wir übernehmen Aufklärung, Bedarf, Nutzen und Abschluss.</p>
+<p>Ideal für Immobilien-, Finanz-, Investment-, Unternehmer- und Vermögens-Communities.</p>
+<p><strong>1 Verkauf = 498,50 € Provision.</strong><br />Und ein guter Lead kann Dir durch spätere Käufe noch mehrfach Umsatz bringen.</p>
+<p> </p>
+<p>
 
 ## 2. Links
 
@@ -111,7 +133,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Immobilien: Erben, Schenken und Steuern komplett vermeiden? — Typ: Downloads, Anbieter: ericpromm, gelistet seit 2026-08-26
-- Wie viel kostet es? — 2349.494784 USD
+- Wie viel kostet es? — 2344.253184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

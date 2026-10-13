@@ -4,16 +4,16 @@ digistore24_product_id: 722640
 title: "Tiefenpsychologische Audio und Video Impulse"
 vendor: "polked521"
 product_type: "Downloads"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 38.99
+earnings_per_sale: 38.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/722640?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/722640"
@@ -22,16 +22,16 @@ language: "de"
 # Tiefenpsychologische Audio und Video Impulse
 
 > Product ID `59096` · Digistore24 productId `722640` · [HTML profile page](../../produkte/tiefenpsychologische-audio-und-video-impulse-59096.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.97 (Single payment) |
+| Price | $64.83 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $38.99 |
+| Earnings/sale* | $38.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | polked521 |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Einmalige Kombination von tiefenpsychologischer Erfahrung, Persönlichkeitsentwicklung und Managementtraining. Der Autor Prof. Dr. Jürgen Polke bringt ein geniales Erfahrungswissen aus Managementtraining, psychotherapeutischem Coaching, unternehmerischem Wissen und internationaler Führungsforschung in diese Audios und Videos ein. Ergänzt wird das Angebot der Impulse - Akademie durch Seminare und Vo…
+**Vendor's marketplace description:** <p>Einmalige Kombination von tiefenpsychologischer Erfahrung, Persönlichkeitsentwicklung und Managementtraining. </p>
+<p>Der Autor Prof. Dr. Jürgen Polke bringt ein geniales Erfahrungswissen aus Managementtraining, psychotherapeutischem Coaching, unternehmerischem Wissen und internationaler Führungsforschung in diese Audios und Videos ein. </p>
+<p>Ergänzt wird das Angebot der Impulse - Akademie durch Seminare und Vorträge, die sowohl digital als auch in Präsenz durchfgeführt werden.</p>
+<p>Dies macht das Angebot einzigartig, wie viele tausend   Anwender bestätigen.</p>
+<p>Die bereits bei digistore angebotenen Audios sind nur eine kleine Postprobe.</p>
+<p>Das Portfolio der Impulse Akademie bietet in Kürze eine Vielzahl von Seminaren, Lehrgängen und universitären Zertifikaten sowie modularen internationalen Studiengängen.</p>
+<p>Für Influencer mit Interessensfeldern im Feld des Marktes für digitale Bildungsangebote, Entrepreneurship, Persönlichkeitsentwicklung und mentale Gesundheit bietet sich mit der Impulse - Akademie eine tolle Chance zur Partnerschaft in einem innovativen Umfeld mit großem Entwicklungspotential!</p>
 
 ## 2. Links
 
@@ -78,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tiefenpsychologische Audio und Video Impulse? — Typ: Downloads, Anbieter: polked521, gelistet seit 2026-09-10
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

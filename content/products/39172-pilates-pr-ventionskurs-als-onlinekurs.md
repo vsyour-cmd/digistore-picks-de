@@ -4,16 +4,16 @@ digistore24_product_id: 372710
 title: "Pilates-Präventionskurs als Onlinekurs"
 vendor: "KatiBloedorn"
 product_type: "Downloads"
-price: 56.41
+price: 56.29
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.31
+earnings_per_sale: 31.24
 cart_conversion_pct: 23
 cancel_rate_pct: 4.17
 categories: ["Health & Fitness"]
 listed_since: "2021-02-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.praeventionskurse-online.de/pilates-kraeftigungsprogramm-onlinekurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.praeventionskurse-online.de/pilates-kraeftigungsprogramm-onlinekurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Pilates-Präventionskurs als Onlinekurs
 
 > Product ID `39172` · Digistore24 productId `372710` · [HTML profile page](../../produkte/pilates-pr-ventionskurs-als-onlinekurs-39172.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $56.41 (Single payment) |
+| Price | $56.29 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.31 |
+| Earnings/sale* | $31.24 |
 | Cart conversion* | 23% |
 | Cancel rate* | 4.17% |
 | Vendor | KatiBloedorn |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** VorteileDieser achtwöchige Pilates-Onlinekurs ist von der Zentralen Prüfstelle für Prävention (ZPP) offiziell anerkannt und zertifiziert, d.h. die Teilnehmer*innen bekommen von ihrer gesetzlichen Krankenkasse bis zu 100% der Teilnahmegebühr zurückerstattet. Jede*r gesetzlich Versicherte hat nach §20 SGB einen Anspruch auf Prävention. Dieser Onlinekurs bietet den Teilnehmenden den großen Vorteil oh…
+**Vendor's marketplace description:** <p><strong>Vorteile<br /></strong>Dieser achtwöchige Pilates-Onlinekurs ist von der Zentralen Prüfstelle für Prävention (ZPP) offiziell anerkannt und zertifiziert, d.h. die Teilnehmer*innen bekommen von ihrer gesetzlichen Krankenkasse bis zu 100% der Teilnahmegebühr zurückerstattet. Jede*r gesetzlich Versicherte hat nach §20 SGB einen Anspruch auf Prävention. Dieser Onlinekurs bietet den Teilnehmenden den großen Vorteil ohne Zeitdruck und von überall aus Pilates zu praktizieren. Egal zu welcher Uhrzeit oder von wo aus. Man ist bei diesem Pilates-Programm nicht an feste Kurszeiten gebunden, was sonst typisch ist für einen Kurs, den die Krankenkasse bezuschusst. An diesem Onlinekurs kann jede*r teilnehmen, auch wenn noch keine Pilates-Erfahrungen vorliegen. Und selbst wenn es einmal Fragen gibt, steht ein erfahrenes Supportteam zur Stelle.</p>
+<p><strong>Zum Kurs<br /></strong>In acht hochwertigen Modulvideos à 60 Min., erklären wir dir ganz genau in Theorie und Praxis das Pilates-Training. Pilates ist nicht nur Gesundheitstraining für den Rücken, sondern es ist auch Krafttraining für den gesamten Körper. Im Fokus steht dabei immer das „Powerhouse“ – unser Kraftzentrum – Bauch, Rücken und der Beckenboden. Jedoch ist Pilates ein funktionales Ganzkörperworkout, mit dem Muskeln aufgebaut werden. Vor allen Dingen die Tiefenmuskulatur, die so wichtig für eine aufrechte Körperhaltung ist. Pilates schenkt aber nicht nur einen straffen Körper, sondern Pilates macht auch beweglich! Die Wirbelsäule spielt eine zentrale Rolle im Pilates-Training. Die komplette Wirbelsäule wird mobilisiert und Muskeln, die im Alltag verkürzen werden durch die speziellen Pilates-Übungen gedehnt. Das Highlight ist die spezielle Pilates Atmung: die seitliche Brustkorbatmung! Joseph Pilates, der Erfinder von Pilates nannte sie auch „Internal Shower“ – innerliche Dusche! Ja diese Atmung räumt sozusagen von innen auf und schenkt enorme Energie, Kraft und neues Selbstbewusstsein! Pilates muss man erleben! Joseph Pilates sagte einmal: „Nach 10 Stunden fühlst du den Unterschied. Nach 20 Stunden sieht man den Unterschied. Nach 30 Stunden Pilates hast du einen neuen Körper“. Das Programm kann 6 Monate genutzt werden. So oft du möchtest.</p>
+<p><strong>Wer steckt dahinter<br /></strong>Hinter diesem Onlinekurs steht ein Expert*innenteam und Body &amp; Mind-Studio (Ladyline Loft in Berlin), welches seit nun mehr als 15 Jahren Pilates anbietet. Weiterhin bildet das Team auch TÜV zertifizierte und staatlich anerkannte Pilates Trainierinnen aus.</p>
+<p><strong>Vorteile für Affiliates</strong></p>
+<ul>
+<li>37,54 € Provision pro Kauf</li>
+<li>umfassende Werbemittel auf unserer Homepage</li>
+<li>Die Teilnehmenden bekommen die Kursgebühr bis zu 100% von der Krankenkasse zurückerstattet</li>
+<li>Die Kursinhalte entsprechen den hohen Qualitätskriterien der Zentralen Prüfstelle für Prävention (ZPP)</li>
+</ul>
+<p>Hast Du noch Fragen zum Affiliate-Programm? Dann schreibt uns einfach eine Mail an <a href="mailto:support@praeventionskurse-online.de">support@praeventionskurse-online.de</a></p>
 
 ## 2. Links
 
@@ -89,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pilates-Präventionskurs als Onlinekurs? — Typ: Downloads, Anbieter: KatiBloedorn, gelistet seit 2021-02-08
-- Wie viel kostet es? — 56.411004000000005 USD
+- Wie viel kostet es? — 56.285154000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

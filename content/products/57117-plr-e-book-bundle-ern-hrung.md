@@ -4,34 +4,34 @@ digistore24_product_id: 699700
 title: "PLR-E-Book-Bundle-Ernährung"
 vendor: "onlineratgeber24"
 product_type: "Member area and video courses"
-price: 223
+price: 222.5
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 43.7
+earnings_per_sale: 43.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.startimpulse.online/bundle-plr-business-ernaehrung/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57117/adminstore/"
 sales_page: "https://www.startimpulse.online/bundle-plr-business-ernaehrung/"
 language: "de"
 ---
 # PLR-E-Book-Bundle-Ernährung
 
 > Product ID `57117` · Digistore24 productId `699700` · [HTML profile page](../../produkte/plr-e-book-bundle-ern-hrung-57117.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $223.00 (Single payment) |
+| Price | $222.50 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $43.70 |
+| Earnings/sale* | $43.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | onlineratgeber24 |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Baue dein Business online rasch und profitabel auf – ohne technisches Vorwissen, ohne stundenlange Recherche und ohne das Rad neu erfinden zu müssen. Zu diesem E-Book-Bundle erhältst du zusätzlich eine PLR-Lizenz, um jedes E-Book auch als dein eigenes Produkt weiterverkaufen zu können. Dazu erhältst du ein fertiges Canva-Template, indem du das Produkt nach belieben anpassen kannst.
+**Vendor's marketplace description:** <p>Baue dein Business online rasch und profitabel auf – ohne technisches Vorwissen, ohne stundenlange Recherche und ohne das Rad neu erfinden zu müssen.</p>
+<p>Zu diesem E-Book-Bundle erhältst du zusätzlich eine <strong>PLR-Lizenz</strong>, um jedes E-Book auch als dein eigenes Produkt weiterverkaufen zu können.</p>
+<p>Dazu erhältst du ein fertiges Canva-Template, indem du das Produkt nach belieben anpassen kannst.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.startimpulse.online/bundle-plr-business-ernaehrung/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57117/adminstore/
 - Sales page: https://www.startimpulse.online/bundle-plr-business-ernaehrung/
 - Vendor affiliate support: https://www.startimpulse.online/partnerprogramm-plr-bundle-marketing-ernaehrung/
 - Canonical redirect: https://www.digistore24.com/redir/699700/adminstore
@@ -100,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PLR-E-Book-Bundle-Ernährung? — Typ: Member area and video courses, Anbieter: onlineratgeber24, gelistet seit 2026-06-23
-- Wie viel kostet es? — 222.9994 USD
+- Wie viel kostet es? — 222.5019 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 559832
 title: "Stilvoll Fotografieren"
 vendor: "ChristofArnold"
 product_type: "Book (printed)"
-price: 32.32
+price: 32.25
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 3.99
+earnings_per_sale: 3.98
 cart_conversion_pct: 27
 cancel_rate_pct: 0.61
 categories: ["Education","Photography & Film"]
 listed_since: "2024-07-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://stilvollfotografieren.de/buchfunnel-startseite/?aff=adminstore#aff=adminstore"
 sales_page: "https://stilvollfotografieren.de/buchfunnel-startseite/"
@@ -22,16 +22,16 @@ language: "de"
 # Stilvoll Fotografieren
 
 > Product ID `48680` · Digistore24 productId `559832` · [HTML profile page](../../produkte/stilvoll-fotografieren-48680.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $32.32 (Single payment) |
+| Price | $32.25 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $3.99 |
+| Earnings/sale* | $3.98 |
 | Cart conversion* | 27% |
 | Cancel rate* | 0.61% |
 | Vendor | ChristofArnold |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Stilvoll Fotografieren” richtet sich an alle Menschen, die bessere Fotos machen möchten. Das können absolute Anfänger sein oder Fortgeschrittene, die ihre Bilder auf ein neues, hohes Level pushen wollen. Das Buch beinhaltet von essentiellem Grundwissen über praktische Handwerk-Tipps bis hin zu leicht anwendbaren Blitztechniken, alles, was man für´s erfolgreiche Fotografieren wissen muss. Es ist e…
+**Vendor's marketplace description:** <p>"Stilvoll Fotografieren” richtet sich an alle Menschen, die bessere Fotos machen möchten. Das können absolute Anfänger sein oder  Fortgeschrittene, die ihre Bilder auf ein neues, hohes Level pushen wollen. Das Buch beinhaltet von essentiellem Grundwissen über praktische Handwerk-Tipps bis hin zu leicht anwendbaren Blitztechniken, alles, was man für´s erfolgreiche Fotografieren wissen muss.  Es ist ein umfassendes Nachschlage-Werk mit Schärfe-Regeln, Objektive-Wissen, Reise-Fotografie, Porträts, Filter, ISO-Blende-Verschlusszeit-Zusammenspiel, Makro-, Sonnenuntergang- und Blumen-Fotografie und vieles mehr. Das Buch ist gespickt voll mit Insider-Tipps, welches ich in meiner Arbeit als Profi-Fotograf täglich anwende.  Mein Ziel ist es, den Lesern sowohl praktisches als auch theoretisches Wissen zu vermitteln, um Ihnen bei der Entscheidungsfindung zu helfen, welche Kamera-Einstellungen in welchem Moment die richtigen sind. </p>
 
 ## 2. Links
 
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stilvoll Fotografieren? — Typ: Book (printed), Anbieter: ChristofArnold, gelistet seit 2024-07-04
-- Wie viel kostet es? — 32.318104 USD
+- Wie viel kostet es? — 32.246004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

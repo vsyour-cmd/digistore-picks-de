@@ -4,16 +4,16 @@ digistore24_product_id: 26423
 title: "WeinSelberMachen.net"
 vendor: "serfanoo"
 product_type: "Downloads"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.94
+earnings_per_sale: 13.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2014-05-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "http://www.weinselbermachen.net?aff=adminstore#aff=adminstore"
 sales_page: "http://www.weinselbermachen.net"
@@ -22,16 +22,16 @@ language: "de"
 # WeinSelberMachen.net
 
 > Product ID `3701` · Digistore24 productId `26423` · [HTML profile page](../../produkte/weinselbermachen-net-3701.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.94 |
+| Earnings/sale* | $13.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | serfanoo |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Online Videokurs für Hobbywinzer bzw. Weinmacher. In der Schritt-für-Schritt Anleitung wird genau erklärt, wie man seinen eigenen Wein Zuhause produzieren kann. Die Webseite wurde auf die Kundengruppe optimiert. Hauptsächlich ältere Menschen mit gutem Einkommen interessieren sich für dieses Hobby. Meine Recherche zum Keyword "Wein selber machen" kam zu folgenden Ergbnis (durchschnittliche Suchhäuf…
+**Vendor's marketplace description:** <p>Online Videokurs für Hobbywinzer bzw. Weinmacher. In der Schritt-für-Schritt Anleitung wird genau erklärt, wie man seinen eigenen Wein Zuhause produzieren kann.</p>
+<p>Die Webseite wurde auf die Kundengruppe optimiert. Hauptsächlich ältere Menschen mit gutem Einkommen interessieren sich für dieses Hobby. Meine Recherche zum Keyword "Wein selber machen" kam zu folgenden Ergbnis (durchschnittliche Suchhäufigkeit):</p>
+<p>Jan 1.300 Suchanfragen<br />Feb 1.000<br />Mär 1.000<br />Apr 1.300<br />Mai 1.600<br />Jun 2.400<br /><strong>Juli 3.600</strong><br /><strong>Aug 5.400</strong><br /><strong>Sep 9.900</strong><br /><strong>Okt 6.600</strong><br />Nov 2.400<br />Dez 1.900</p>
+<p>Durchschnittlich 2.900</p>
+<p>Es handelt sich bei diesem Produkt also um ein saisonales, da die meisten Früchte für die Weinproduktion Mitte bis Ende des Jahres reif werden. Es lohnt sich also eine verstärkte Bewerbung zwischen Juli bis November.</p>
+<p>Falls bestimmte Werbemittel oder dergleichen benötigt werden kann mir unter <a href="mailto:sergio@aktivautark.de">sergio@aktivautark.de</a> geschrieben werden.</p>
 
 ## 2. Links
 
@@ -88,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WeinSelberMachen.net? — Typ: Downloads, Anbieter: serfanoo, gelistet seit 2014-05-29
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

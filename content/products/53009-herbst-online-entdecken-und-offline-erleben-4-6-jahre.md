@@ -4,34 +4,34 @@ digistore24_product_id: 616678
 title: "Herbst online entdecken und offline erleben (4–6 Jahre)"
 vendor: "IsabellFa"
 product_type: "Member area and video courses"
-price: 44.26
+price: 44.16
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 11.21
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Fun & Games","Hobby & Craft"]
 listed_since: "2025-06-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/616678?voucher=Herbst&aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53009/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/616678?voucher=Herbst"
 language: "de"
 ---
 # Herbst online entdecken und offline erleben (4–6 Jahre)
 
 > Product ID `53009` · Digistore24 productId `616678` · [HTML profile page](../../produkte/herbst-online-entdecken-und-offline-erleben-4-6-jahre-53009.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.26 (Single payment, Installment) |
+| Price | $44.16 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $11.21 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IsabellFa |
@@ -41,11 +41,38 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Herbst online entdecken und offline erleben (4–6 Jahre) Jetzt Natur entdecken: Die Beta-Version vom Herbstkurs ist da! Begleite dein Kind auf eine magische Reise durch den Herbst – mit spannenden Geschichten, kreativen Aufgaben und echten Naturabenteuern.In dieser Beta-Version erhältst du den kompletten Kurs für nur 27 € statt 47 €! Gibt den Code Herbstfreude ein Mit dabei: 4 fantasievolle Audio-G…
+**Vendor's marketplace description:** <h3>Herbst online entdecken und offline erleben (4–6 Jahre)</h3>
+<div> </div>
+<div>
+<p><strong>Jetzt Natur entdecken: Die Beta-Version vom Herbstkurs ist da!</strong></p>
+<p>Begleite dein Kind auf eine magische Reise durch den Herbst – mit spannenden Geschichten, kreativen Aufgaben und echten Naturabenteuern.<br />In dieser <strong>Beta-Version</strong> erhältst du den kompletten Kurs für nur <strong>27 € statt 47 €</strong>!</p>
+<p>Gibt den Code<strong> Herbstfreude</strong> ein</p>
+<p>Mit dabei:</p>
+<ul>
+<li>
+<p>4 fantasievolle Audio-Geschichten</p>
+</li>
+<li>
+<p>passendes Workbook zum Ausdrucken</p>
+</li>
+<li>
+<p>Naturaufträge, Rätsel und Malseiten</p>
+</li>
+<li>
+<p>liebevoll gestaltete Überraschungen (Rezept &amp; Bastelidee pro Modul)</p>
+</li>
+<li>
+<p>inklusive Naturspürnasen-Urkunde</p>
+</li>
+</ul>
+<p>Ideal für Kinder von 4 bis 6 Jahren und alle, die den Herbst mit offenen Augen erleben wollen.</p>
+<p><br />Du bekommst den Kurs günstiger und darfst mir im Anschluss gerne Feedback geben.</p>
+<p><strong>Nur für kurze Zeit zum Beta-Preis!</strong></p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/616678?voucher=Herbst&aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53009/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/616678?voucher=Herbst
 - Canonical redirect: https://www.digistore24.com/redir/616678/adminstore
 
@@ -71,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Herbst online entdecken und offline erleben (4–6 Jahre)? — Typ: Member area and video courses, Anbieter: IsabellFa, gelistet seit 2025-06-04
-- Wie viel kostet es? — 44.2637 USD
+- Wie viel kostet es? — 44.164950000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

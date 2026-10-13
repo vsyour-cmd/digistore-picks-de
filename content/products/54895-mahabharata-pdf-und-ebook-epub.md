@@ -4,34 +4,34 @@ digistore24_product_id: 654497
 title: "Mahabharata (PDF und Ebook, epub)"
 vendor: "atmarama"
 product_type: "E-books"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.19
+earnings_per_sale: 4.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://atmarama.de/mbjuwel-ebook.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54895/adminstore/"
 sales_page: "https://atmarama.de/mbjuwel-ebook.html"
 language: "de"
 ---
 # Mahabharata (PDF und Ebook, epub)
 
 > Product ID `54895` · Digistore24 productId `654497` · [HTML profile page](../../produkte/mahabharata-pdf-und-ebook-epub-54895.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.19 |
+| Earnings/sale* | $4.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | atmarama |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mahabharata – Juwel der Poeten Mahabharata – Juwel der Poeten beinhaltet eine Zusammenfassung des weltgrößten und berühmtesten Epos MAHABHARATA. Das Mahabharata wurde vor ca. 5000 Jahren vom Weisen Vyasadeva in Sanskrit verfasst und besteht aus über einhunderttausend Versen. Im Mahabharata ist das ganze spirituelle Wissen der Veden, die Geschichte von der Schöpfung bis zur Auflösung und Wiederneus…
+**Vendor's marketplace description:** <h3 style="color:#993366;"><strong>Mahabharata – Juwel der Poeten</strong></h3>
+<p style="margin-top:1em;font-size:1.2em;line-height:1.4em;"><strong>Mahabharata – Juwel der Poeten</strong> beinhaltet eine Zusammenfassung des weltgrößten und berühmtesten Epos MAHABHARATA. Das Mahabharata wurde vor ca. 5000 Jahren vom Weisen Vyasadeva in Sanskrit verfasst und besteht aus über einhunderttausend Versen. Im Mahabharata ist das ganze spirituelle Wissen der Veden, die Geschichte von der Schöpfung bis zur Auflösung und Wiederneuschöpfung, Wissen über Yoga, Selbst- und Gotteserkenntnis und über andere wichtige Themen, über die es außerhalb der vedischen Schriften (Bhagavad-Gita, Bhagavatam, Ramayana usw.) kein oder nur bedingtes Wissen gibt.</p>
+<p style="margin-top:1em;font-size:1.2em;line-height:1.4em;">100.000 Verse – das sind vielleicht 12 mittelgroße Bände mit 500 Seiten und kleiner Schrift. Wer hat in der heutigen Zeit, Lust und Muße das ganze Werk zu lesen?</p>
+<p style="margin-top:1em;font-size:1.2em;line-height:1.4em;"><strong>Mahabharata – Juwel der Poeten</strong> enthält die Essenz des Mahabharata auf 470 Buchseiten bzw. 524 Seiten als Ebook für Ebook-Reader und 838 Seiten als PDF. Der Inhalt basiert auf der englischen Übersetzung des Sanskrit-Originals von Mohan Ganguli. Der Autor Srikanta Sena hat diese engl. Übersetzung ausgiebig studiert und dann <strong>Mahabharata – Juwel der Poeten</strong> verfasst, nachdem er sich zuvor viele Jahre mit den wichtigsten und bedeutensten vedischen Schriften beschäftigt hatte.</p>
+<div>
+<h3 style="color:#993366;margin-top:1em;">Drei Hauptabschnitte</h3>
+<p style="margin-top:1em;font-size:1.2em;line-height:1.4em;"><strong>Mahabharata – Juwel der Poeten</strong> ist in drei Hauptabschnitte gegliedert:</p>
+<ul>
+<li style="font-size:1.2em;">Teil 1 besteht aus einer komprimierten <span style="color:#333399;"><strong>Nacherzählung der Hauptgeschichte des Mahabharata</strong></span>.</li>
+<li style="font-size:1.2em;">Teil 2 enthält <strong>die spirituelle <span style="color:#333399;">Essenz des Mahabharata</span></strong> in hunderten von Zitaten aus Gesprächen und Unterweisungen der spirituellen Lehrer, die im Mahabharata zu Wort kommen.</li>
+<li style="font-size:1.2em;">Teil 3 schließlich enthält <span style="color:#333399;"><strong>dreiundzwanzig lehrreiche Geschichten und Fabeln</strong></span>, die von den Weisen im Mahabharata erzählt werden.</li>
+</ul>
+</div>
+<p style="margin-top:1em;background-color:#f7f2e0;padding:8px;font-size:1.2em;line-height:1.4em;"><span style="color:#993366;">Inhaltsverzeichnis</span> und <span style="color:#993366;">Leseproben</span> sowie weitere Informationen gibt es auf der Verkaufsseite: <a>https://atmarama.de/mbjuwel-ebook.html</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://atmarama.de/mbjuwel-ebook.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54895/adminstore/
 - Sales page: https://atmarama.de/mbjuwel-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/654497/adminstore
 
@@ -70,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mahabharata (PDF und Ebook, epub)? — Typ: E-books, Anbieter: atmarama, gelistet seit 2025-12-10
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

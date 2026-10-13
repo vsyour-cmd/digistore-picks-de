@@ -4,34 +4,34 @@ digistore24_product_id: 726814
 title: "30 Tage sichtbar – Social-Media-Contentplan für Anfänger"
 vendor: "JessiLL81"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 8.34
+earnings_per_sale: 8.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-08-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/726814?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58765/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/726814"
 language: "de"
 ---
 # 30 Tage sichtbar – Social-Media-Contentplan für Anfänger
 
 > Product ID `58765` · Digistore24 productId `726814` · [HTML profile page](../../produkte/30-tage-sichtbar-social-media-contentplan-f-r-anf-nger-58765.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $8.34 |
+| Earnings/sale* | $8.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JessiLL81 |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 30 Tage sichtbar – der Social-Media-Contentplan für Anfänger Viele möchten auf Social Media regelmäßig sichtbar sein, wissen aber oft nicht, was sie posten sollen. Genau hier setzt „30 Tage sichtbar“ an. Der Contentplan bietet 30 Tage lang konkrete Content-Ideen, Hooks, Story-Impulse und Post-Vorlagen und hilft dabei, mehr Struktur und Klarheit in die eigene Contentplanung zu bringen. Ideal für An…
+**Vendor's marketplace description:** <p><strong>30 Tage sichtbar – der Social-Media-Contentplan für Anfänger</strong></p>
+<p>Viele möchten auf Social Media regelmäßig sichtbar sein, wissen aber oft nicht, was sie posten sollen. Genau hier setzt „30 Tage sichtbar“ an.</p>
+<p>Der Contentplan bietet 30 Tage lang konkrete Content-Ideen, Hooks, Story-Impulse und Post-Vorlagen und hilft dabei, mehr Struktur und Klarheit in die eigene Contentplanung zu bringen.</p>
+<p>Ideal für Anfänger, Selbstständige, Creator und alle, die mit Social Media starten oder regelmäßiger posten möchten.</p>
+<p><strong>Das erwartet die Käufer:</strong><br />• 30 Tage Content-Ideen<br />• Hooks und Story-Impulse<br />• Post-Vorlagen<br />• einfache und verständliche Umsetzung<br />• motivierende und praktische Impulse</p>
+<p><strong>Verkaufspreis: 19,90 €</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726814?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58765/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/726814
 - Canonical redirect: https://www.digistore24.com/redir/726814/adminstore
 
@@ -70,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 Tage sichtbar – Social-Media-Contentplan für Anfänger? — Typ: E-books, Anbieter: JessiLL81, gelistet seit 2026-08-29
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

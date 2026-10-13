@@ -4,34 +4,34 @@ digistore24_product_id: 602426
 title: "Webinaris - High-Ticket-Provisionen und passives Einkommen"
 vendor: "Webinaris"
 product_type: "Member area and video courses"
-price: 1200.16
+price: 1197.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 600.08
+earnings_per_sale: 598.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2025-03-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://webinaris.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52519/adminstore/"
 sales_page: "https://webinaris.com/"
 language: "de"
 ---
 # Webinaris - High-Ticket-Provisionen und passives Einkommen
 
 > Product ID `52519` · Digistore24 productId `602426` · [HTML profile page](../../produkte/webinaris-high-ticket-provisionen-und-passives-einkommen-52519.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1200.16 (Single payment, Installment) |
+| Price | $1197.49 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $600.08 |
+| Earnings/sale* | $598.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Webinaris |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Seit 2013 arbeiten wir an einem einzigen Ziel:Menschen und Unternehmen mit automatisierten Webinaren erfolgreich zu machen. Wir sind Marktführer im deutschsprachigen Raum für vollautomatisierte Sales-Funnels auf Webinar-Basis – mit tausenden Kunden, unzähligen Launches, Millionenumsätzen. Unser Wissen haben wir jetzt in ein Coaching-Produkt gepackt. Dieses Produkt verkaufen wir im Webinar für 997 …
+**Vendor's marketplace description:** <p>Seit 2013 arbeiten wir an einem einzigen Ziel:<br /><strong>Menschen und Unternehmen mit automatisierten Webinaren erfolgreich zu machen.</strong></p>
+<p>Wir sind <strong>Marktführer im deutschsprachigen Raum</strong> für vollautomatisierte Sales-Funnels auf Webinar-Basis – mit tausenden Kunden, unzähligen Launches, Millionenumsätzen.</p>
+<p>Unser Wissen haben wir jetzt in ein Coaching-Produkt gepackt. <strong><span style="background-color:#ffff99;">Dieses Produkt verkaufen wir im Webinar für 997 €</span><br /><br />So funktioniert´s:</strong></p>
+<p>Wenn du nur 10 Leute ins Webinar bringst – kauft im Schnitt einer das Coaching für 997 €.</p>
+<p>Du bekommst 50 % davon: 498,50 € pro Sale. Doch das ist nur der Anfang:</p>
+<p>Jeder Käufer startet automatisch mit einem Abo für 299 € monatlich,in dem er mit unserer Plattform Webinaris sein Webinar auch umsetzt.</p>
+<p><span style="background-color:#ffff99;"><strong>Auch hier bekommst du zusätzlich 25 % Lifetime-Provision: 74,75 € pro Monat – passiv. (auch wenn der Kunde seinen Tarif ändert, bleibt er immer auf dich geschlüsselt und du bekommst immer deine 25 Prozent)</strong></span></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://webinaris.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52519/adminstore/
 - Sales page: https://webinaris.com/
 - Vendor affiliate support: https://docs.google.com/document/d/1NSgq0237kRylDjepK7lsBDeLVgC0Hccjlzga_Sakx2c/edit?usp=sharing
 - Canonical redirect: https://www.digistore24.com/redir/602426/adminstore
@@ -89,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Webinaris - High-Ticket-Provisionen und passives Einkommen? — Typ: Member area and video courses, Anbieter: Webinaris, gelistet seit 2025-03-18
-- Wie viel kostet es? — 1200.1626 USD
+- Wie viel kostet es? — 1197.4851 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

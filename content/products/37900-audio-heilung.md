@@ -4,16 +4,16 @@ digistore24_product_id: 110115
 title: "Audio Heilung"
 vendor: "doitAkademie"
 product_type: "Downloads"
-price: 850.58
+price: 848.68
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 282.02
+earnings_per_sale: 281.39
 cart_conversion_pct: 2
 cancel_rate_pct: 9.97
 categories: ["Personal Development"]
 listed_since: "2016-12-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://bodysense.de/koerperfeldcoaching-audio/?aff=adminstore#aff=adminstore"
 sales_page: "https://bodysense.de/koerperfeldcoaching-audio/"
@@ -22,16 +22,16 @@ language: "de"
 # Audio Heilung
 
 > Product ID `37900` · Digistore24 productId `110115` · [HTML profile page](../../produkte/audio-heilung-37900.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $850.58 (Single payment, Installment) |
+| Price | $848.68 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $282.02 |
+| Earnings/sale* | $281.39 |
 | Cart conversion* | 2% |
 | Cancel rate* | 9.97% |
 | Vendor | doitAkademie |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Audio Heilung beinhaltet 2 CDs: Heilung von Selbst Frequenzreisen im Quantenfeld 1 Anleitungsbooklet Die jeweiligen CDs in den Formaten mp3 und wav. Ihre Vorteile: 40% Provision für den Verkauf der AudioHeilung als Download Produkt Schnelle und persönliche Unterstützung auf Deutsch durch unser Team Weltweit einzigartiges Produkt ganz auf erforschter wissenschaftlicher Grundlage Auf unsere Affi…
+**Vendor's marketplace description:** <p>Die Audio Heilung beinhaltet 2 CDs:</p>
+<ul>
+<li>Heilung von Selbst</li>
+<li>Frequenzreisen im Quantenfeld</li>
+<li>1 Anleitungsbooklet</li>
+<li>Die jeweiligen CDs in den Formaten mp3 und wav.</li>
+</ul>
+<p>Ihre Vorteile:</p>
+<ul>
+<li><strong>40%</strong> Provision für den Verkauf der AudioHeilung als <strong>Download Produkt</strong></li>
+<li>Schnelle und persönliche Unterstützung auf Deutsch durch unser Team</li>
+<li>Weltweit einzigartiges Produkt ganz auf erforschter wissenschaftlicher Grundlage</li>
+<li>Auf unsere Affiliate Support Seite erhalten Sie eine Kurzeinführung, Bilder und E-Mail Texte</li>
+</ul>
+<p><strong>Hinweis:</strong> Nach dem Klick auf <strong>"Jetzt promoten" </strong>erhältst du eine E-Mail von uns. Absender: doitAkademie<strong><br /></strong></p>
+<p><strong>Bitte bestätige deine E-Mail Adresse</strong> mit Klick auf den Link in der E-Mail mit dem Betreff: "Ein Klick fehlt noch..." um weitere Unterstützung und Informationen per E-Mail von uns zu erhalten.</p>
 
 ## 2. Links
 
@@ -77,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Audio Heilung? — Typ: Downloads, Anbieter: doitAkademie, gelistet seit 2016-12-21
-- Wie viel kostet es? — 850.580224 USD
+- Wie viel kostet es? — 848.682624 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

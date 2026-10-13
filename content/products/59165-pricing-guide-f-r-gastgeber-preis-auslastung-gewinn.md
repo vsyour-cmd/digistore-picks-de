@@ -4,34 +4,34 @@ digistore24_product_id: 706785
 title: "Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn"
 vendor: "Anha13"
 product_type: "E-books"
-price: 24.09
+price: 24.04
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.64
+earnings_per_sale: 9.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59165/adminstore/"
 sales_page: "https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/"
 language: "de"
 ---
 # Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn
 
 > Product ID `59165` · Digistore24 productId `706785` · [HTML profile page](../../produkte/pricing-guide-f-r-gastgeber-preis-auslastung-gewinn-59165.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $24.09 (Single payment) |
+| Price | $24.04 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.64 |
+| Earnings/sale* | $9.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Anha13 |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für wen: Gastgeberinnen und Gastgeber, die ihren Preis bisher nach Gefühl setzen und merken, dass die Auslastung stimmt, aber am Jahresende zu wenig übrig bleibt – oder umgekehrt. Was drin ist: Wie Preis, Auslastung und Gewinn zusammenhängen, wie man Saison- und Wochenendpreise sinnvoll staffelt, wo Rabatte helfen und wo sie Geld verbrennen, und woran man erkennt, dass der Preis zu niedrig ist. Pr…
+**Vendor's marketplace description:** <p><strong>Für wen:</strong> Gastgeberinnen und Gastgeber, die ihren Preis bisher nach Gefühl setzen und merken, dass die Auslastung stimmt, aber am Jahresende zu wenig übrig bleibt – oder umgekehrt.</p>
+<p><strong>Was drin ist:</strong> Wie Preis, Auslastung und Gewinn zusammenhängen, wie man Saison- und Wochenendpreise sinnvoll staffelt, wo Rabatte helfen und wo sie Geld verbrennen, und woran man erkennt, dass der Preis zu niedrig ist.</p>
+<p><strong>Preis:</strong> 23,00 €  |  <strong>Provision:</strong> 40 %</p>
+<p><strong>Warum es sich verkauft:</strong> Preisgestaltung ist das Thema, bei dem Gastgeber am unsichersten sind und bei dem eine einzige Korrektur sich sofort in barem Geld auszahlt. Die Autorin vermietet drei eigene Ferienwohnungen.</p>
+<p><strong>Passende Kanäle:</strong> Blogs, Newsletter und Accounts rund um Ferienwohnung, Airbnb- und Booking-Gastgeber, Vermietung als Nebeneinkommen, Immobilien und Finanzen. Ganzjährig, mit Spitzen vor der Saisonplanung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59165/adminstore/
 - Sales page: https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/
 - Canonical redirect: https://www.digistore24.com/redir/706785/adminstore
 
@@ -84,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn? — Typ: E-books, Anbieter: Anha13, gelistet seit 2026-09-13
-- Wie viel kostet es? — 24.0929 USD
+- Wie viel kostet es? — 24.039150000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

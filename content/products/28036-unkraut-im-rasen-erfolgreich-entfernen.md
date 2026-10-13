@@ -4,16 +4,16 @@ digistore24_product_id: 238872
 title: "Unkraut im Rasen erfolgreich entfernen"
 vendor: "RasenExperte"
 product_type: "E-books"
-price: 13.51
+price: 13.48
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.06
+earnings_per_sale: 4.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2018-09-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.rasen-experte.de/ebook-einfach-unkrautfrei-unkraut-im-rasen-erfolgreich-entfernen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rasen-experte.de/ebook-einfach-unkrautfrei-unkraut-im-rasen-erfolgreich-entfernen/"
@@ -22,16 +22,16 @@ language: "de"
 # Unkraut im Rasen erfolgreich entfernen
 
 > Product ID `28036` · Digistore24 productId `238872` · [HTML profile page](../../produkte/unkraut-im-rasen-erfolgreich-entfernen-28036.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.51 (Single payment) |
+| Price | $13.48 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.06 |
+| Earnings/sale* | $4.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RasenExperte |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerben Sie ein tolles eBook, in dem Ihre User lernen, wie man die 30 am weitesten verbreiteten Unkräuter im Rasen erfolgreich entfernen kann. Auf über 100 Seiten haben wir die wichtigsten Merkmale zum Identifizieren zusammengefasst und die individuell notwendigen Schritte für die langfristige Entfernung der Unkraut-Pflanzen aufgeschrieben. Jedes Unkraut wird mit Bild und Text vorgestellt. Die ni…
+**Vendor's marketplace description:** <p>Bewerben Sie ein tolles eBook, in dem Ihre User lernen, wie man die 30 am weitesten verbreiteten Unkräuter im Rasen erfolgreich entfernen kann.</p>
+<p>Auf<strong> über 100 Seiten</strong> haben wir die wichtigsten Merkmale zum Identifizieren zusammengefasst und die individuell notwendigen Schritte für die langfristige Entfernung der Unkraut-Pflanzen aufgeschrieben.</p>
+<p>Jedes Unkraut wird mit Bild und Text vorgestellt. Die niedrige Stornoquote spricht für die gute Qualität des Produktes.</p>
+<p>Für jeden erfolgreichen Verkauf, erhalten <strong>Sie 30% des Netto-Verkaufspreises</strong> als Provision.</p>
+<p>Viel Erfolg bei der Bewerbung dieses wirklich tollen Produktes!</p>
 
 ## 2. Links
 
@@ -76,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Unkraut im Rasen erfolgreich entfernen? — Typ: E-books, Anbieter: RasenExperte, gelistet seit 2018-09-05
-- Wie viel kostet es? — 13.514436000000002 USD
+- Wie viel kostet es? — 13.484286 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

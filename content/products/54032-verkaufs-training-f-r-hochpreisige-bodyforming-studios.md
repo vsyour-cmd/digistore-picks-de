@@ -4,16 +4,16 @@ digistore24_product_id: 616449
 title: "Verkaufs-Training für hochpreisige Bodyforming-Studios"
 vendor: "annaschmidthaler"
 product_type: "Member area and video courses"
-price: 220.76
+price: 220.27
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 198.88
+earnings_per_sale: 198.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Sales Training"]
 listed_since: "2025-06-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://anna-versum.funnelcockpit.com/lizenzpakete-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://anna-versum.funnelcockpit.com/lizenzpakete-2/"
@@ -22,16 +22,16 @@ language: "de"
 # Verkaufs-Training für hochpreisige Bodyforming-Studios
 
 > Product ID `54032` · Digistore24 productId `616449` · [HTML profile page](../../produkte/verkaufs-training-f-r-hochpreisige-bodyforming-studios-54032.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $220.76 (Subscription) |
+| Price | $220.27 (Subscription) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $198.88 |
+| Earnings/sale* | $198.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | annaschmidthaler |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Viele Studios glauben, sie brauchen mehr Leads – in Wahrheit liegt das Problem im Verkaufsgespräch. Unser Kurs liefert fertige Skripte plus Psychologie & Kommunikations-Wirkung, damit mehr Leads zu zahlenden Kunden werden. Provisionen: SOLO: 177,48 € TEAM: 222,78 € TEAM PLUS: 268,08 € Zusatzlizenz: 44,50 €
+**Vendor's marketplace description:** <p>Viele Studios glauben, sie brauchen mehr Leads – in Wahrheit liegt das Problem im Verkaufsgespräch. Unser Kurs liefert <strong>fertige Skripte</strong> plus <strong>Psychologie &amp; Kommunikations-Wirkung</strong>, damit mehr Leads zu zahlenden Kunden werden.</p>
+<p> </p>
+<p><strong>Provisionen:</strong></p>
+<ul>
+<li>
+<p>SOLO: 177,48 €</p>
+</li>
+<li>
+<p>TEAM: 222,78 €</p>
+</li>
+<li>
+<p>TEAM PLUS: 268,08 €</p>
+</li>
+<li>
+<p>Zusatzlizenz: 44,50 €</p>
+</li>
+</ul>
 
 ## 2. Links
 
@@ -67,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verkaufs-Training für hochpreisige Bodyforming-Studios? — Typ: Member area and video courses, Anbieter: annaschmidthaler, gelistet seit 2025-06-03
-- Wie viel kostet es? — 220.75820000000002 USD
+- Wie viel kostet es? — 220.2657 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 81713
 title: "Geburtsvorbereitung Onlinekurs"
 vendor: "beermann"
 product_type: "Member area and video courses"
-price: 103.52
+price: 103.29
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 33.88
+earnings_per_sale: 33.8
 cart_conversion_pct: 20
 cancel_rate_pct: 0.42
 categories: ["Health & Fitness"]
 listed_since: "2016-05-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.nadine-beermann.de/onlinekurs-gvb/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/16133/adminstore/"
 sales_page: "https://www.nadine-beermann.de/onlinekurs-gvb/"
 language: "de"
 ---
 # Geburtsvorbereitung Onlinekurs
 
 > Product ID `16133` · Digistore24 productId `81713` · [HTML profile page](../../produkte/geburtsvorbereitung-onlinekurs-16133.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $103.52 (Single payment) |
+| Price | $103.29 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $33.88 |
+| Earnings/sale* | $33.80 |
 | Cart conversion* | 20% |
 | Cancel rate* | 0.42% |
 | Vendor | beermann |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Geburtsvorbereitung Onlinekurs von Hebamme Nadine Beermann Ideale Vorbereitung auf die Geburt für alle Schwangeren: mehr als 20 Kurseinheiten als Video alle relevanten Infos rund um die Schwangerschaft, die Geburt und das Wochenbett in einem kompakten Kurs praxiserprobtes Wissen, anschaulich und ansprechend vermittelt von Hebamme Nadine Beermann erstklassiges Feedback von Kursteilnehmerinnen Perfe…
+**Vendor's marketplace description:** <h1><span style="color:#993366;">Geburtsvorbereitung Onlinekurs von Hebamme Nadine Beermann</span></h1>
+<h2>Ideale Vorbereitung auf die Geburt für alle Schwangeren:</h2>
+<ul>
+<li>mehr als 20 Kurseinheiten als Video</li>
+<li>alle relevanten Infos rund um die Schwangerschaft, die Geburt und das Wochenbett in einem kompakten Kurs</li>
+<li>praxiserprobtes Wissen, anschaulich und ansprechend vermittelt von Hebamme Nadine Beermann</li>
+<li>erstklassiges Feedback von Kursteilnehmerinnen</li>
+</ul>
+<p><em>Perfektes Produkt auch für Hebammen, die in ihren Kursen vor Ort nicht genügend Plätze anbieten können und mit der Vermittlung dieses Onlinekurses trotzdem mitverdienen können.</em></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.nadine-beermann.de/onlinekurs-gvb/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/16133/adminstore/
 - Sales page: https://www.nadine-beermann.de/onlinekurs-gvb/
 - Vendor affiliate support: http://www.nadine-beermann.de/affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/81713/adminstore
@@ -95,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geburtsvorbereitung Onlinekurs? — Typ: Member area and video courses, Anbieter: beermann, gelistet seit 2016-05-20
-- Wie viel kostet es? — 103.521028 USD
+- Wie viel kostet es? — 103.29007800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

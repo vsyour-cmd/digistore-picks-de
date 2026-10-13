@@ -4,34 +4,34 @@ digistore24_product_id: 269292
 title: "Live Mixing - Mixing Small Gigs Like A Pro"
 vendor: "GRZAudio"
 product_type: "E-books"
-price: 30.23
+price: 30.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.12
+earnings_per_sale: 15.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2019-04-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.grzaudio.com/live-mixing-ebook/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/28769/adminstore/"
 sales_page: "https://www.grzaudio.com/live-mixing-ebook/"
 language: "de"
 ---
 # Live Mixing - Mixing Small Gigs Like A Pro
 
 > Product ID `28769` · Digistore24 productId `269292` · [HTML profile page](../../produkte/live-mixing-mixing-small-gigs-like-a-pro-28769.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.23 (Single payment) |
+| Price | $30.17 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.12 |
+| Earnings/sale* | $15.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GRZAudio |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Mixing Small Gigs Like A Pro" ist ein eBook im PDF-Format mit 130 Seiten zum Thema Live-Mischen von kleinen bis mittelgroßen Veranstaltungen Dieses eBook ist eine von Tontechnikern getestete Schritt für Schritt Anleitung für perfekten Live-Sound Neben zahlreichen Tipps und Tricks gibt es auch einen Download Bereich auf unserer Verkaufsseite mit hilfreichen Material zum Buch Zusätzlich wird in die…
+**Vendor's marketplace description:** <ul><li>"Mixing Small Gigs Like A Pro" ist ein eBook im PDF-Format mit 130 Seiten zum Thema Live-Mischen von kleinen bis mittelgroßen Veranstaltungen</li>
+<li>Dieses eBook ist eine von Tontechnikern getestete Schritt für Schritt Anleitung für perfekten Live-Sound</li>
+<li>Neben zahlreichen Tipps und Tricks gibt es auch einen <a>Download Bereich</a> auf unserer <a>Verkaufsseite </a>mit hilfreichen Material zum Buch</li>
+<li>Zusätzlich wird in diesem eBook die Vorgehensweise für ein Behringer X32 Mischpult erklärt. Das Behringer X32 ist das weit verbreiteste Mischpult für kleine bis mittelgroße Veranstaltungen.</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.grzaudio.com/live-mixing-ebook/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/28769/adminstore/
 - Sales page: https://www.grzaudio.com/live-mixing-ebook/
 - Vendor affiliate support: https://www.grzaudio.com/digistore-support
 - Canonical redirect: https://www.digistore24.com/redir/269292/adminstore
@@ -87,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Live Mixing - Mixing Small Gigs Like A Pro? — Typ: E-books, Anbieter: GRZAudio, gelistet seit 2019-04-24
-- Wie viel kostet es? — 30.233788 USD
+- Wie viel kostet es? — 30.166338000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

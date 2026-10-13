@@ -4,34 +4,34 @@ digistore24_product_id: 652361
 title: "EU AI Act – Transparenzpflichten"
 vendor: "MindshiftDigitalStudio"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.19
+earnings_per_sale: 8.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/652361?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59715/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/652361"
 language: "de"
 ---
 # EU AI Act – Transparenzpflichten
 
 > Product ID `59715` · Digistore24 productId `652361` · [HTML profile page](../../produkte/eu-ai-act-transparenzpflichten-59715.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.19 |
+| Earnings/sale* | $8.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -41,11 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** EU AI Act Transparenzpflichten 2026/2027 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, die KI-Systeme einsetzen und ihre Informations-, Kennzeichnungs- und Transparenzpflichten strukturiert umsetzen und dokumentieren möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, KI-Transparenz, Nutzerinformation, Kennzeichnung und interne Nachweisführ…
+**Vendor's marketplace description:** <p><strong>EU AI Act Transparenzpflichten 2026/2027</strong></p>
+<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, die KI-Systeme einsetzen und ihre Informations-, Kennzeichnungs- und Transparenzpflichten strukturiert umsetzen und dokumentieren möchten.</p>
+<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, KI-Transparenz, Nutzerinformation, Kennzeichnung und interne Nachweisführung</strong>.</p>
+<p><strong>Geeignet für:</strong></p>
+<ul>
+<li>Selbstständige und KMU</li>
+<li>Unternehmen mit KI-gestützten Anwendungen</li>
+<li>Agenturen und Beratungen</li>
+<li>Marketing-, Service- und Kommunikationsteams</li>
+<li>Compliance- und Datenschutzverantwortliche</li>
+<li>Unternehmen ohne eigene KI-Compliance-Abteilung</li>
+</ul>
+<p><strong>Enthalten sind unter anderem:</strong></p>
+<ul>
+<li>Vorlagen für KI-Transparenzhinweise</li>
+<li>Nutzer- und Kundeninformationen</li>
+<li>Kennzeichnung von KI-Einsatz</li>
+<li>Dokumentation von Informationspflichten</li>
+<li>interne Verantwortlichkeiten und Freigaben</li>
+<li>Prüf- und Nachweisprozesse</li>
+<li>Checklisten für verschiedene KI-Anwendungsfälle</li>
+<li>Audit- und Dokumentationshilfen</li>
+</ul>
+<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
+<p>Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe für Transparenzpflichten beim Einsatz von KI und ersetzt keine individuelle Rechtsberatung.</p>
+<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/652361?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59715/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/652361
 - Canonical redirect: https://www.digistore24.com/redir/652361/adminstore
 
@@ -73,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EU AI Act – Transparenzpflichten? — Typ: Downloads, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

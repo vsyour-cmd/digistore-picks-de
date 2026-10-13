@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2020-08-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://createrawvision.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/34137/adminstore/"
 sales_page: "https://createrawvision.de"
 language: "de"
 ---
 # CreateRawVision Mitgliederbereich (Rohkost)
 
 > Product ID `34137` · Digistore24 productId `339809` · [HTML profile page](../../produkte/createrawvision-mitgliederbereich-rohkost-34137.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ich bin Angie von CreateRawVision und unterstütze Meschen mit unserem Mitgliederbereich auf ihrem Weg in eine bewusste und vegane Rohkost-Ernährung. In unserem Mitgliederbereich gibt es über 1.500 Rezepte, 50 Tutorials, den Einsteigerkurs „Dein Weg zur Rohkost Leicht Gemacht“ und vieles mehr. Ausführlichere Informationen findest du auf unserer Startseite. Ich freue mich, wenn ich mit dir Hand in H…
+**Vendor's marketplace description:** <p>Ich bin Angie von CreateRawVision und unterstütze Meschen mit unserem Mitgliederbereich auf ihrem Weg in eine bewusste und vegane Rohkost-Ernährung.</p>
+<p>In unserem Mitgliederbereich gibt es über 1.500 Rezepte, 50 Tutorials, den Einsteigerkurs „Dein Weg zur Rohkost Leicht Gemacht“ und vieles mehr. Ausführlichere Informationen findest du <a href="https://createrawvision.de" target="_blank" rel="noreferrer noopener">auf unserer Startseite</a>.</p>
+<p>Ich freue mich, wenn ich mit dir Hand in Hand die vegane Rohkost-Ernährung verbreiten kann, um anderen Menschen zu einem bewussten Leben zu verhelfen. Deine Unterstützung ist uns dabei <strong>50 %</strong> vom Erlös wert.</p>
+<p>Ich freue mich auf eine Zusammenarbeit mit dir,<br />Angie</p>
+<p> </p>
+<p>PS: Mein Mitgliederplugin verlangt, dass die Nutzer sich erst auf unserem Server registrieren. Die Zahlungspläne werden dynamisch erzeugt. Deshalb steht hier 0,00 €. Die üblichen Preise sind 19,00 € pro Monat oder 120,00 € pro Jahr. Beim Monatsabo erhältst du dauerhaft 50 % Provision und beim Jahresabo einmalig 34,75 € (~ 50 %). Bei einem Upgrade auf ein Jahresabo erhältst du auch diese Provision.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://createrawvision.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/34137/adminstore/
 - Sales page: https://createrawvision.de
 - Vendor affiliate support: https://createrawvision.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/339809/adminstore

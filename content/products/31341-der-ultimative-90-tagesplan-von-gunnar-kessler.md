@@ -4,34 +4,34 @@ digistore24_product_id: 286659
 title: "Der ultimative 90 Tagesplan - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "E-books"
-price: 32.41
+price: 32.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.77
+earnings_per_sale: 12.75
 cart_conversion_pct: 30
 cancel_rate_pct: 9.06
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://byebyeschufterei.de/90-tageplan-7500/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/31341/adminstore/"
 sales_page: "https://byebyeschufterei.de/90-tageplan-7500/"
 language: "de"
 ---
 # Der ultimative 90 Tagesplan - von Gunnar Kessler
 
 > Product ID `31341` · Digistore24 productId `286659` · [HTML profile page](../../produkte/der-ultimative-90-tagesplan-von-gunnar-kessler-31341.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $32.41 (Single payment) |
+| Price | $32.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.77 |
+| Earnings/sale* | $12.75 |
 | Cart conversion* | 30% |
 | Cancel rate* | 9.06% |
 | Vendor | GTK-littlefreilich |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der ultimative 90 Tagesplan zum dauerhaften Online EinkommenDer 90 Tage Produktplan zeigt seinen Kunden, wie sie mit 60 Minuten Aufwand am Tag mehr als 500€ Monatlich mehr verdienen können Mit dem 90 Tage Produktplan bieten Sie Ihren Kunden eine einmalige Möglichkeit 100%ig, sicher neue passive Einkommensströme über das Internet aufzubauen.Unsere Conversionrate beträgt bei zielgerichtetem Traffic …
+**Vendor's marketplace description:** <p><strong>Der ultimative 90 Tagesplan zum dauerhaften Online Einkommen</strong><br /><br /><strong>Der 90 Tage Produktplan zeigt seinen Kunden, wie sie mit 60 Minuten Aufwand am Tag mehr als 500€ Monatlich mehr verdienen können </strong><br /><br />Mit dem 90 Tage Produktplan bieten Sie Ihren Kunden eine einmalige Möglichkeit 100%ig, sicher neue passive Einkommensströme über das Internet aufzubauen.<br /><br /><br />Unsere Conversionrate beträgt bei zielgerichtetem Traffic bis zu 21,7% und die Refundrate ist geringer als 1%.<br /><br /></p>
+<p>Die Upsellrate liegt bei über 24% (gemessen an mehr als 1000 Verkäufen)<br /><br />Hier sind die Benefits für Ihre Kunden:<br /><br /></p>
+<p>Mit dem 90 Tages Produktplan können Sie:</p>
+<p>* mit einem 90-tägigem Plan Schritt für Schirtt ihr eigenes Geld erwirtschaftendes Online Business aufbauen.</p>
+<p>* für unter 0,10€ am Tag, die Tools sehen, mit dennen ich mir meinen jetztigen Lebensstil leisten kann</p>
+<p>* erfolgreich werden, ohne Kentnnise von Technick oder einem genauen Plan in welche Richtung sich ihr Bussines entwickeln soll<br /><br />* alles wird 1:1 zum Nachmachen erklärt<br /><br /><strong>Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://byebyeschufterei.de/90-tageplan-7500/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/31341/adminstore/
 - Sales page: https://byebyeschufterei.de/90-tageplan-7500/
 - Vendor affiliate support: https://partner.digitalmoneymaker.de/der-ultimative-90-tagesplan/
 - Canonical redirect: https://www.digistore24.com/redir/286659/adminstore
@@ -72,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der ultimative 90 Tagesplan - von Gunnar Kessler? — Typ: E-books, Anbieter: GTK-littlefreilich, gelistet seit 2019-09-13
-- Wie viel kostet es? — 32.407752 USD
+- Wie viel kostet es? — 32.335452000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

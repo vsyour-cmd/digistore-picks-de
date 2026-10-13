@@ -4,34 +4,34 @@ digistore24_product_id: 737065
 title: "Scheidung vorbereiten: Unterlagen, Finanzen und Termine an einem Ort"
 vendor: "bltsad"
 product_type: "Software"
-price: 940.74
+price: 938.64
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 376.3
+earnings_per_sale: 375.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://assetshield-x.com/anti-rosenkrieg-kompass.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59969/adminstore/"
 sales_page: "https://assetshield-x.com/anti-rosenkrieg-kompass.html"
 language: "de"
 ---
 # Scheidung vorbereiten: Unterlagen, Finanzen und Termine an einem Ort
 
 > Product ID `59969` · Digistore24 productId `737065` · [HTML profile page](../../produkte/scheidung-vorbereiten-unterlagen-finanzen-und-termine-an-einem-ort-59969.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $940.74 (Single payment) |
+| Price | $938.64 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $376.30 |
+| Earnings/sale* | $375.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bltsad |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Anti-Rosenkrieg-Kompass von AssetShield-X ist ein Programm, das Sie im Browser öffnen — auf Ihrem Rechner, Ihrem Tablet oder Ihrem Telefon. Wenn beide wollen, dass es anständig bleibt, scheitert es selten am Willen. Es scheitert daran, dass niemand die Übersicht hat und jedes Gespräch wieder bei null anfängt. Im Kompass steckt alles, was auch im Rosenkrieg-Navigator steckt. Dazu halten Sie in …
+**Vendor's marketplace description:** <p>Der Anti-Rosenkrieg-Kompass von AssetShield-X ist ein Programm, das Sie im Browser öffnen — auf Ihrem Rechner, Ihrem Tablet oder Ihrem Telefon.</p>
+<p>Wenn beide wollen, dass es anständig bleibt, scheitert es selten am Willen. Es scheitert daran, dass niemand die Übersicht hat und jedes Gespräch wieder bei null anfängt.</p>
+<p>Im Kompass steckt alles, was auch im Rosenkrieg-Navigator steckt. Dazu halten Sie in der Zeile „Absprachen“ fest, was Sie beide besprochen haben. Daraus drucken Sie ein Einigungspapier für die Kanzlei. Sie schreiben die Regelung zu den Kindern auf: Betreuung, Wochen, Ferien, Übergaben. Die zweite Person bekommt über einen Einladungslink einen eigenen Zugang für 299 EUR inkl. Mehrwertsteuer. Sie sieht die gemeinsamen Bereiche, aber nicht Ihre Vermögensangaben.</p>
+<p>Für drei Geräte Ihrer Wahl, keine Cloud. Sieben Anleitungen zum Lesen und als PDF.</p>
+<p>999 EUR einmalig, inkl. Mehrwertsteuer. 30 Tage Geld zurück — ohne Angabe von Gründen. Eine freiwillige Zusage, zusätzlich zu Ihren gesetzlichen Rechten.</p>
+<p>Mehr erfahren: <a href="https://assetshield-x.com/partner.html">assetshield-x.com/partner.html</a></p>
+<p>Information und Organisation, keine Rechtsdienstleistung im Sinne des § 2 RDG.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://assetshield-x.com/anti-rosenkrieg-kompass.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59969/adminstore/
 - Sales page: https://assetshield-x.com/anti-rosenkrieg-kompass.html
 - Vendor affiliate support: https://assetshield-x.com/partner.html
 - Canonical redirect: https://www.digistore24.com/redir/737065/adminstore
@@ -87,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Scheidung vorbereiten: Unterlagen, Finanzen und Termine an einem Ort? — Typ: Software, Anbieter: bltsad, gelistet seit 2026-09-27
-- Wie viel kostet es? — 940.7437 USD
+- Wie viel kostet es? — 938.6449500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

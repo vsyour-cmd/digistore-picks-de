@@ -4,34 +4,34 @@ digistore24_product_id: 519122
 title: "The Affiliate Academy - Das Affiliate Netzwerk Nr. 1"
 vendor: "marketingmarko"
 product_type: "Member area and video courses"
-price: 74.69
+price: 74.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.01
+earnings_per_sale: 36.93
 cart_conversion_pct: 3
 cancel_rate_pct: 9.66
 categories: ["Business & Investment","Services"]
 listed_since: "2023-10-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.theaffiliateacademy.de/?aff=adminstore#aff=adminstore"
+promo_link: "http://wiebkeschmidt.com/e-mailmarketing-autoresponderkurs/#aff=adminstore"
 sales_page: "https://www.theaffiliateacademy.de/"
 language: "de"
 ---
 # The Affiliate Academy - Das Affiliate Netzwerk Nr. 1
 
 > Product ID `50377` · Digistore24 productId `519122` · [HTML profile page](../../produkte/the-affiliate-academy-das-affiliate-netzwerk-nr-1-50377.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.69 (Single payment, Installment) |
+| Price | $74.52 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.01 |
+| Earnings/sale* | $36.93 |
 | Cart conversion* | 3% |
 | Cancel rate* | 9.66% |
 | Vendor | marketingmarko |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Starte deine Affiliate Marketing JourneyDie Affiliate Academy ist eine Online Community, in der man Zugang zu einer Video Schritt-für-Schritt Anleitung erhählt, mit über 60 Videos und einer Laufzeit von über 5 Stunden. Einem wird von A-Z alles beigebracht, was man benötigt, um mit Affiliate marketing erfolgreich zu starten Produktfindung Personal Branding Instagram und TikTok Aufbau und Leitung Ve…
+**Vendor's marketplace description:** <p><strong>Starte deine Affiliate Marketing Journey<br /><br /></strong>Die Affiliate Academy ist <strong>eine Online Community</strong>, in der man Zugang zu einer <strong>Video Schritt-für-Schritt Anleitung</strong> erhählt, mit über 60 Videos und einer Laufzeit von über 5 Stunden. Einem wird von A-Z alles beigebracht, was man benötigt, um mit Affiliate marketing erfolgreich zu starten</p>
+<ol>
+<li>Produktfindung</li>
+<li>Personal Branding</li>
+<li>Instagram und TikTok Aufbau und Leitung</li>
+<li>Verkauf deiner Produkte (mit KI)</li>
+</ol>
+<p>Außerdem erhält man Zutritt zu unserer<strong> privaten Teilnehmergruppe</strong>, in der man sich mit allen <em>300+ Mitgliedern</em> austauschen kann, Fragen stellen kann und sich helfen lassen kann bei Problemen, die man defintiv zum Start haben wird.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.theaffiliateacademy.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://wiebkeschmidt.com/e-mailmarketing-autoresponderkurs/#aff=adminstore
 - Sales page: https://www.theaffiliateacademy.de/
 - Canonical redirect: https://www.digistore24.com/redir/519122/adminstore
 
@@ -66,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist The Affiliate Academy - Das Affiliate Netzwerk Nr. 1? — Typ: Member area and video courses, Anbieter: marketingmarko, gelistet seit 2023-10-03
-- Wie viel kostet es? — 74.68799000000001 USD
+- Wie viel kostet es? — 74.52136500000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

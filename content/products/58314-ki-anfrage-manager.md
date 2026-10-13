@@ -4,16 +4,16 @@ digistore24_product_id: 721044
 title: "KI-Anfrage-Manager"
 vendor: "MichaMH"
 product_type: "Remote service provided electronically"
-price: 885.27
+price: 883.3
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 177.05
+earnings_per_sale: 176.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://affyro.com/ki-automatisierung.html?aff=adminstore#aff=adminstore"
 sales_page: "https://affyro.com/ki-automatisierung.html"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Anfrage-Manager
 
 > Product ID `58314` · Digistore24 productId `721044` · [HTML profile page](../../produkte/ki-anfrage-manager-58314.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $885.27 (Single payment) |
+| Price | $883.30 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $177.05 |
+| Earnings/sale* | $176.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichaMH |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** High-Ticket B2B Asset: 158,00 € Provision pro Sale mit schlüsselfertiger KI-Automatisierung! Der KI-Anfrage-Manager löst ein massives Schmerzproblem bei kleinen und mittelständischen Unternehmen (KMU): Verpasste Kundenanfragen und zeitraubende Qualifizierung im Büroalltag. Warum du dieses Produkt bewerben solltest: Hoher Verdienst: 158,00 € Reingewinn pro einzigem Verkauf (20 % Provision). Kaufkrä…
+**Vendor's marketplace description:** <p><strong>High-Ticket B2B Asset: 158,00 € Provision pro Sale mit schlüsselfertiger KI-Automatisierung!</strong></p>
+<p>Der <strong>KI-Anfrage-Manager</strong> löst ein massives Schmerzproblem bei kleinen und mittelständischen Unternehmen (KMU): Verpasste Kundenanfragen und zeitraubende Qualifizierung im Büroalltag.</p>
+<p><strong>Warum du dieses Produkt bewerben solltest:</strong></p>
+<ul>
+<li>
+<p><strong>Hoher Verdienst:</strong> <strong>158,00 € Reingewinn</strong> pro einzigem Verkauf (20 % Provision).</p>
+</li>
+<li>
+<p><strong>Kaufkräftige B2B-Zielgruppe:</strong> Firmen investieren gerne in Zeitersparnis und schnelle Reaktionszeiten.</p>
+</li>
+<li>
+<p><strong>Geringe Stornoquote:</strong> B2B-Einrichtungsservices haben naturgemäß extrem niedrige Rückgabe-Quoten.</p>
+</li>
+<li>
+<p><strong>Starke Conversion:</strong> Durch das transparente Festpreis-Modell ohne zeitraubende Sales-Calls schließt die Landingpage direkt ab.</p>
+</li>
+</ul>
+<p><strong>Perfekt geeignet für:</strong> B2B-Newsletter, LinkedIn-Creator, Business-Blogs, YouTube-Kanäle für Unternehmertum/Produktivität und B2B-Meta-Ads.</p>
 
 ## 2. Links
 
@@ -77,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Anfrage-Manager? — Typ: Remote service provided electronically, Anbieter: MichaMH, gelistet seit 2026-08-12
-- Wie viel kostet es? — 885.274 USD
+- Wie viel kostet es? — 883.2990000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

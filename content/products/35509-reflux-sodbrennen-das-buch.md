@@ -4,34 +4,34 @@ digistore24_product_id: 368076
 title: "Reflux Sodbrennen - Das Buch"
 vendor: "partner17"
 product_type: "E-books"
-price: 15.65
+price: 15.62
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 5.17
+earnings_per_sale: 5.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-01-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.reflux-kliniken.de/das_buch/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/35509/adminstore/"
 sales_page: "https://www.reflux-kliniken.de/das_buch/"
 language: "de"
 ---
 # Reflux Sodbrennen - Das Buch
 
 > Product ID `35509` · Digistore24 productId `368076` · [HTML profile page](../../produkte/reflux-sodbrennen-das-buch-35509.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.65 (Single payment) |
+| Price | $15.62 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $5.17 |
+| Earnings/sale* | $5.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | partner17 |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Reflux & Sodbrennen - Das Buch beantwortet auf über 80 Seiten die wichtigsten Fragen rund um das Thema Reflux und chronisches Sodbrennen. Wie äussert sich die Erkrankung, was kann man selbst dagegen tun. Wie sollte man seinen Lebensstil ändern, seine Ernährung und welche Möglichkeiten der Heilung gibt es. Zu guter Letzt gibt es eine Klinikliste mit den zertifizierten Reflux Zentren in Deutschland,…
+**Vendor's marketplace description:** <p>Reflux &amp; Sodbrennen - Das Buch beantwortet auf über 80 Seiten die wichtigsten Fragen rund um das Thema Reflux und chronisches Sodbrennen. Wie äussert sich die Erkrankung, was kann man selbst dagegen tun. Wie sollte man seinen Lebensstil ändern, seine Ernährung und welche Möglichkeiten der Heilung gibt es. Zu guter Letzt gibt es eine Klinikliste mit den zertifizierten Reflux Zentren in Deutschland, Österreich und der Schweiz, für die Menschen, bei denen eine Operation unumgänglich wird, um die Krankheit zu heilen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.reflux-kliniken.de/das_buch/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/35509/adminstore/
 - Sales page: https://www.reflux-kliniken.de/das_buch/
 - Canonical redirect: https://www.digistore24.com/redir/368076/adminstore
 
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reflux Sodbrennen - Das Buch? — Typ: E-books, Anbieter: partner17, gelistet seit 2021-01-15
-- Wie viel kostet es? — 15.654782 USD
+- Wie viel kostet es? — 15.619857000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

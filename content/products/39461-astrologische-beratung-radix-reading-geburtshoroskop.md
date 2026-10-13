@@ -4,34 +4,34 @@ digistore24_product_id: 334784
 title: "Astrologische Beratung - Radix-Reading Geburtshoroskop"
 vendor: "starsandbusiness"
 product_type: "Remote service provided electronically"
-price: 546.17
+price: 544.95
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 98.83
+earnings_per_sale: 98.61
 cart_conversion_pct: 5
 cancel_rate_pct: 3.02
 categories: ["Personal Development"]
 listed_since: "2020-07-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://starsandbusiness.de/astrologie-beratung/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39461/adminstore/"
 sales_page: "https://starsandbusiness.de/astrologie-beratung/"
 language: "de"
 ---
 # Astrologische Beratung - Radix-Reading Geburtshoroskop
 
 > Product ID `39461` · Digistore24 productId `334784` · [HTML profile page](../../produkte/astrologische-beratung-radix-reading-geburtshoroskop-39461.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $546.17 (Single payment) |
+| Price | $544.95 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $98.83 |
+| Earnings/sale* | $98.61 |
 | Cart conversion* | 5% |
 | Cancel rate* | 3.02% |
 | Vendor | starsandbusiness |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehlen Sie die einzigartigen und seriösen Readings von Ernst Albrecht Vöhringer, dem ersten Wirtschaftsastrologen Deutschlands. Die Einzelberatungen zum individuellen astrologischen Geburtshoroskop sind sehr beliebt und unterstützen die Kunden dabei ein selbstbestimmten Leben zu führen. Der Verkaufsprozess ist vollautomatisiert und mehrfach erprobt. Bisher wurden nur ausgewählte Influencer als …
+**Vendor's marketplace description:** <p>Empfehlen Sie die einzigartigen und seriösen Readings von Ernst Albrecht Vöhringer, dem ersten Wirtschaftsastrologen Deutschlands. Die Einzelberatungen zum individuellen astrologischen Geburtshoroskop sind sehr beliebt und unterstützen die Kunden dabei ein selbstbestimmten Leben zu führen.</p>
+<p>Der Verkaufsprozess ist vollautomatisiert und mehrfach erprobt. Bisher wurden nur ausgewählte Influencer als Affiliates aufgenommen. Nun geben wir neben großen Influencern auch jedem Einzelnen die Möglichkeit das Reading zu empfehlen und daran zu partizipieren. Ihre Vorteile:</p>
+<ul>
+<li>20% Affiliate Provision auf alle Verkäufe über Ihren Affiliate Link.</li>
+<li>wenn Sie über 50 Verkäufe generieren erhöhen wir Ihre Provision.</li>
+<li>weitere 10% Provision über unser Affiliate-Empfehlungsprogramm möglich.</li>
+<li>weitere 10% Lifetime-Provision; wenn ein von Ihnen vermittelter Käufer weitere digitale Produkte von uns kauft, dann sind Sie ebenfalls beteiligt.</li>
+<li>schneller und professioneller Affiliate und Kunden-Support über Email.</li>
+</ul>
+<p>Besuchen Sie auch unsere Affiliate-Support-Seite für mehr Informationen und Werbemittel.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://starsandbusiness.de/astrologie-beratung/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39461/adminstore/
 - Sales page: https://starsandbusiness.de/astrologie-beratung/
 - Vendor affiliate support: https://starsandbusiness.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/334784/adminstore
@@ -98,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Astrologische Beratung - Radix-Reading Geburtshoroskop? — Typ: Remote service provided electronically, Anbieter: starsandbusiness, gelistet seit 2020-07-03
-- Wie viel kostet es? — 546.169234 USD
+- Wie viel kostet es? — 544.9507590000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

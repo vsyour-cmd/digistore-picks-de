@@ -4,16 +4,16 @@ digistore24_product_id: 649016
 title: "100 Master-Prompts für Sozialbehörden und AI Act"
 vendor: "MindshiftDigitalStudio"
 product_type: "E-books"
-price: 103.68
+price: 103.45
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.11
+earnings_per_sale: 31.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/649016?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/649016"
@@ -22,16 +22,16 @@ language: "de"
 # 100 Master-Prompts für Sozialbehörden und AI Act
 
 > Product ID `59700` · Digistore24 productId `649016` · [HTML profile page](../../produkte/100-master-prompts-f-r-sozialbeh-rden-und-ai-act-59700.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $103.68 (Single payment) |
+| Price | $103.45 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.11 |
+| Earnings/sale* | $31.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -41,7 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sozial Compliance-Kit 2026/2027 – 100 Master-Prompts für AI Act, DSGVO & KI-Governance Dieses digitale Compliance-Kit enthält 100 direkt nutzbare Master-Prompts speziell für Sozialbehörden, Jobcenter, kommunale Träger und Organisationen des Sozialwesens. Die Inhalte unterstützen bei der strukturierten Nutzung und Dokumentation von KI sowie bei typischen Aufgaben rund um EU AI Act, DSGVO, Hochrisik…
+**Vendor's marketplace description:** <p><strong>Sozial Compliance-Kit 2026/2027 – 100 Master-Prompts für AI Act, DSGVO &amp; KI-Governance</strong></p>
+<p>Dieses digitale Compliance-Kit enthält <strong>100 direkt nutzbare Master-Prompts</strong> speziell für Sozialbehörden, Jobcenter, kommunale Träger und Organisationen des Sozialwesens.</p>
+<p>Die Inhalte unterstützen bei der strukturierten Nutzung und Dokumentation von KI sowie bei typischen Aufgaben rund um <strong>EU AI Act, DSGVO, Hochrisiko-KI und interne KI-Governance</strong>.</p>
+<p><strong>Geeignet für:</strong></p>
+<ul>
+<li>Sozialbehörden und Sozialverwaltungen</li>
+<li>Jobcenter und Leistungsstellen</li>
+<li>Jugendämter und Jugendhilfe</li>
+<li>kommunale Träger</li>
+<li>Pflege- und Sozialdienste</li>
+<li>Integrationsdienste</li>
+<li>Verwaltungs-, Datenschutz- und Compliance-Teams</li>
+</ul>
+<p><strong>Themenschwerpunkte:</strong></p>
+<ul>
+<li>KI-Risikoanalyse und Governance</li>
+<li>DSGVO und Datenschutz</li>
+<li>Hochrisiko-KI im Sozialbereich</li>
+<li>Transparenz und Nachvollziehbarkeit</li>
+<li>Dokumentation und interne Prüfprozesse</li>
+<li>Bias- und Diskriminierungsrisiken</li>
+<li>menschliche Aufsicht und Verantwortlichkeiten</li>
+<li>Checklisten, SOPs und strukturierte Arbeitsabläufe</li>
+</ul>
+<p><strong>Wichtig:</strong> Es handelt sich um ein <strong>digitales Download-Produkt mit 100 Master-Prompts und Arbeitshilfen</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
+<p>Ein spezialisiertes B2B-/B2G-Produkt für Behörden, kommunale Träger und soziale Einrichtungen, die KI einsetzen oder ihren zukünftigen KI-Einsatz strukturiert und nachvollziehbar vorbereiten möchten.</p>
 
 ## 2. Links
 
@@ -92,7 +117,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100 Master-Prompts für Sozialbehörden und AI Act? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
-- Wie viel kostet es? — 103.677912 USD
+- Wie viel kostet es? — 103.446612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

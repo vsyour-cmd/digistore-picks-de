@@ -4,7 +4,7 @@ digistore24_product_id: 300078
 title: "Privater Finanzplan (Freebie) 0€ | 50% für Folgeprodukte"
 vendor: "NilsWarnecke"
 product_type: "Software"
-price: 10.75
+price: 10.72
 currency: "USD"
 affiliate_commission_pct: 100
 earnings_per_sale: 0
@@ -12,24 +12,24 @@ cart_conversion_pct: 9
 cancel_rate_pct: 4.94
 categories: ["Education","Profession & Job","Finances"]
 listed_since: "2019-12-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://cashcockpit.de/6-konten-modell-excelvorlage-2/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/36759/adminstore/"
 sales_page: "https://cashcockpit.de/6-konten-modell-excelvorlage-2/"
 language: "de"
 ---
 # Privater Finanzplan (Freebie) 0€ | 50% für Folgeprodukte
 
 > Product ID `36759` · Digistore24 productId `300078` · [HTML profile page](../../produkte/privater-finanzplan-freebie-0-50-f-r-folgeprodukte-36759.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $10.75 (Single payment) |
+| Price | $10.72 (Single payment) |
 | Affiliate commission | 100% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 9% |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenke den Finanzplan-Freebie und profitiere von Vollversion-Verkäufen und Upsells 1+2+3+4. Deine Vorteile: 50% Provision für Folgeprodukte Coversionsrate 62% Verkaufsrate der Vollversion 8% Stornofreie Provisionen Email-Vorlagen Blog-Artikel Vorlage Melde dich jetzt zum Partnerprogramm an und erhalte Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!
+**Vendor's marketplace description:** <p><strong>Verschenke den Finanzplan-Freebie </strong>und profitiere von Vollversion-Verkäufen und Upsells 1+2+3+4.</p>
+<p>Deine Vorteile:<br /> </p>
+<ul>
+<li><strong>50% Provision</strong> für Folgeprodukte</li>
+<li>Coversionsrate 62%</li>
+<li>Verkaufsrate der Vollversion 8% </li>
+<li>Stornofreie Provisionen</li>
+<li>Email-Vorlagen</li>
+<li>Blog-Artikel Vorlage</li>
+</ul>
+<p>Melde dich jetzt zum Partnerprogramm an und erhalte Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://cashcockpit.de/6-konten-modell-excelvorlage-2/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36759/adminstore/
 - Sales page: https://cashcockpit.de/6-konten-modell-excelvorlage-2/
 - Vendor affiliate support: https://cashcockpit.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/300078/adminstore
@@ -77,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Privater Finanzplan (Freebie) 0€ | 50% für Folgeprodukte? — Typ: Software, Anbieter: NilsWarnecke, gelistet seit 2019-12-17
-- Wie viel kostet es? — 10.746554 USD
+- Wie viel kostet es? — 10.722579000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

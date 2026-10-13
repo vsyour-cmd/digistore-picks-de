@@ -4,34 +4,34 @@ digistore24_product_id: 616785
 title: "Kreativ Elfe"
 vendor: "DreamElfe"
 product_type: "E-books"
-price: 16.75
+price: 16.72
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 3.35
+earnings_per_sale: 3.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Hobby & Craft","Profession & Job"]
 listed_since: "2025-06-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://dreamelfes-buisness.systeme.io/krweativelfe-ds?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56167/adminstore/"
 sales_page: "https://dreamelfes-buisness.systeme.io/krweativelfe-ds"
 language: "de"
 ---
 # Kreativ Elfe
 
 > Product ID `56167` · Digistore24 productId `616785` · [HTML profile page](../../produkte/kreativ-elfe-56167.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.75 (Single payment) |
+| Price | $16.72 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $3.35 |
+| Earnings/sale* | $3.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DreamElfe |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ✨ Kreativ Elfe – Finde deinen Ausdruck & verbinde dich mit dir selbst Vielleicht fühlst du mehr, als du zeigen kannst. Gedanken.Gefühle.Ideen. Sie sind da –aber sie finden keinen Raum. Du hältst sie zurück.Oder weißt nicht, wie du ihnen Ausdruck geben sollst. Und genau das wird mit der Zeit schwer.
+**Vendor's marketplace description:** <h1>✨ Kreativ Elfe – Finde deinen Ausdruck &amp; verbinde dich mit dir selbst</h1>
+<p>Vielleicht fühlst du mehr, als du zeigen kannst.</p>
+<p>Gedanken.<br />Gefühle.<br />Ideen.</p>
+<p>Sie sind da –<br />aber sie finden keinen Raum.</p>
+<p>Du hältst sie zurück.<br />Oder weißt nicht, wie du ihnen Ausdruck geben sollst.</p>
+<p>Und genau das wird mit der Zeit schwer.</p>
+<hr />
+<h2>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://dreamelfes-buisness.systeme.io/krweativelfe-ds?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56167/adminstore/
 - Sales page: https://dreamelfes-buisness.systeme.io/krweativelfe-ds
 - Canonical redirect: https://www.digistore24.com/redir/616785/adminstore
 
@@ -66,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kreativ Elfe? — Typ: E-books, Anbieter: DreamElfe, gelistet seit 2025-06-04
-- Wie viel kostet es? — 16.75297 USD
+- Wie viel kostet es? — 16.715595 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

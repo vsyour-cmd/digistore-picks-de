@@ -4,16 +4,16 @@ digistore24_product_id: 706371
 title: "Relax sound"
 vendor: "worldxpb"
 product_type: "Downloads"
-price: 4.7
+price: 4.68
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 1.18
+earnings_per_sale: 1.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2026-06-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/706371?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/706371"
@@ -22,16 +22,16 @@ language: "de"
 # Relax sound
 
 > Product ID `57318` · Digistore24 productId `706371` · [HTML profile page](../../produkte/relax-sound-57318.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.70 (Single payment) |
+| Price | $4.68 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $1.18 |
+| Earnings/sale* | $1.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bindet euren Affiliate Link auf euren Plattformen so ein, dass die Kunden über euren Link auch kaufen. :) Es handelt sich hierbei um eine MP3 Datei 30min Relax-Sound , egal ob zum Lernen, in einem Massagestudio, im Wellnesshotel, zum Yoga, für Kurse etc. Die Musik darf nach Kauf kommerziell frei genutzt werden. Gute Verkäufe dir!:) -> Need help? conact: worldfinancemovement@outlook.de
+**Vendor's marketplace description:** <p>Bindet euren Affiliate Link auf euren Plattformen so ein, dass die Kunden über euren Link auch kaufen. :)</p>
+<p> </p>
+<p>Es handelt sich hierbei um eine MP3 Datei 30min Relax-Sound , egal ob zum Lernen, in einem Massagestudio, im Wellnesshotel, zum Yoga, für Kurse etc.</p>
+<p>Die Musik darf nach Kauf kommerziell frei genutzt werden.</p>
+<p>Gute Verkäufe dir!:)</p>
+<p>-&gt; Need help?</p>
+<p>conact: worldfinancemovement@outlook.de</p>
 
 ## 2. Links
 
@@ -71,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Relax sound? — Typ: Downloads, Anbieter: worldxpb, gelistet seit 2026-06-30
-- Wie viel kostet es? — 4.695314000000001 USD
+- Wie viel kostet es? — 4.684839000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 423798
 title: "Bauprogramm - Für jeden Bau- und Projektleiter unverzichtbar"
 vendor: "Bauprogramm"
 product_type: "Software"
-price: 321.57
+price: 320.85
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 77.6
+earnings_per_sale: 77.43
 cart_conversion_pct: 40
 cancel_rate_pct: 4.14
 categories: ["Home & Garden","Software","Real Estate"]
 listed_since: "2022-01-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/423798/adminstore"
 sales_page: "https://www.bauprogramm.com/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,16 +22,16 @@ language: "de"
 # Bauprogramm - Für jeden Bau- und Projektleiter unverzichtbar
 
 > Product ID `42192` · Digistore24 productId `423798` · [HTML profile page](../../produkte/bauprogramm-f-r-jeden-bau-und-projektleiter-unverzichtbar-42192.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $321.57 (Subscription) |
+| Price | $320.85 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $77.60 |
+| Earnings/sale* | $77.43 |
 | Cart conversion* | 40% |
 | Cancel rate* | 4.14% |
 | Vendor | Bauprogramm |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Endlich eine einfache Terminprogramm - Software Dargestellt als Gantt Diagramm Webbasiert Bauprogramm ist ein anderes Wort für Bauzeitenplan oder Bauablaufplan. Das Bauprogramm dient zur Koordination und Kontrolle aller beteiligten Projektpartner. Bauprogramm.com wurde ursprünglich für das Baugewerbe entwickelt, wird aber inzwischen von vielen weiteren Branchen verwendet. Das Perfekte Affiliate Pr…
+**Vendor's marketplace description:** <p><strong>Endlich eine einfache Terminprogramm - Software</strong></p>
+<ul>
+<li>Dargestellt als Gantt Diagramm</li>
+<li>Webbasiert</li>
+</ul>
+<p>Bauprogramm ist ein anderes Wort für Bauzeitenplan oder Bauablaufplan. Das Bauprogramm dient zur Koordination und Kontrolle aller beteiligten Projektpartner.  Bauprogramm.com wurde ursprünglich für das Baugewerbe entwickelt, wird aber inzwischen von vielen weiteren Branchen verwendet.</p>
+<p><strong>Das Perfekte Affiliate Produkt:</strong></p>
+<ul>
+<li>Fast jeder Architekt, Bau- und Projektleiter muss Bauzeitenpläne erstellen</li>
+<li>Attraktiver Verkaufspreis</li>
+<li><strong>10% Lifetime-Provision</strong></li>
+<li><strong>Empfehlungsprovision</strong></li>
+<li>100-prozentiger Affiliate-Schutz: garantiert korrekte und pünktlich ausgezahlte Provisionen sowie Real-Time-Tracking dank Digistore24.</li>
+</ul>
+<p>Der Interessent kann zuerst eine kostenlose Free-Lizenz lösen. Sobald dieser eine Lizenz kauft, wird deine Provision ausgelöst.</p>
 
 ## 2. Links
 
@@ -85,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bauprogramm - Für jeden Bau- und Projektleiter unverzichtbar? — Typ: Software, Anbieter: Bauprogramm, gelistet seit 2022-01-10
-- Wie viel kostet es? — 321.56737599999997 USD
+- Wie viel kostet es? — 320.849976 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

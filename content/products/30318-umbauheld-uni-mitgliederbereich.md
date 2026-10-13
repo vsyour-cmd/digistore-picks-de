@@ -4,16 +4,16 @@ digistore24_product_id: 292330
 title: "UMBAUHELD UNI MITGLIEDERBEREICH"
 vendor: "Kamille69"
 product_type: "Member area and video courses"
-price: 158
+price: 157.65
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 79
+earnings_per_sale: 78.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2019-10-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/d3RpNiXYshZro6Hk7?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/d3RpNiXYshZro6Hk7"
@@ -22,16 +22,16 @@ language: "de"
 # UMBAUHELD UNI MITGLIEDERBEREICH
 
 > Product ID `30318` · Digistore24 productId `292330` · [HTML profile page](../../produkte/umbauheld-uni-mitgliederbereich-30318.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $158.00 (Single payment, Installment) |
+| Price | $157.65 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $79.00 |
+| Earnings/sale* | $78.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Kamille69 |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** UMBAUHELD UNI MITGLIEDERBEREICH - Die Kunden haben Zugriff auf alle vorhandenen und zukünftig erscheinenden Online-Kurse, Tipps und Tricks, exklusive Videos und Informationen! - Zusätzlich gibt es wöchentliche Workshops, in denen live die Fragen der Kunden beantwortet werden. - Mehr als 70 Videos mit Profi-Fachwissen aus über 25 Jahren Erfahrung in der Altbausanierung! - Genaue Schritt für Schritt…
+**Vendor's marketplace description:** <p><strong>UMBAUHELD UNI MITGLIEDERBEREICH</strong></p>
+<p>- <strong>Die Kunden haben Zugriff auf alle vorhandenen und zukünftig erscheinenden Online-Kurse, Tipps und Tricks, exklusive Videos und Informationen!</strong></p>
+<h4>- Zusätzlich gibt es wöchentliche Workshops, in denen live die Fragen der Kunden beantwortet werden.</h4>
+<h4>- Mehr als 70 Videos mit Profi-Fachwissen aus über 25 Jahren Erfahrung in der Altbausanierung!</h4>
+<h4>- Genaue Schritt für Schritt Anleitungen, direkt zum Nachmachen!</h4>
+<h4>- Für Anfänger genauso geeignet wie für fortgeschrittene Heimwerker, verständlich gezeigt und erklärt!</h4>
+<h4>- Praxisnahe Tutorials direkt von der Baustelle!</h4>
+<h4> - Die Zielgruppe sind Heimwerker, Haus-oder Wohnungseigentümer und Leute, die Spaß am Anpacken haben. Alter ca. 25-55 Jahre</h4>
+<p>- Es handelt sich hier um <strong>ein Abo.</strong></p>
+<p> </p>
 
 ## 2. Links
 
@@ -66,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist UMBAUHELD UNI MITGLIEDERBEREICH? — Typ: Member area and video courses, Anbieter: Kamille69, gelistet seit 2019-10-27
-- Wie viel kostet es? — 158.0046 USD
+- Wie viel kostet es? — 157.65210000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

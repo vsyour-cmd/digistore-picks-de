@@ -4,34 +4,34 @@ digistore24_product_id: 583562
 title: "The Affiliate Academy Plus"
 vendor: "marketingmarko"
 product_type: "Member area and video courses"
-price: 376.67
+price: 373.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 120.61
+earnings_per_sale: 120.34
 cart_conversion_pct: 3
 cancel_rate_pct: 9.28
 categories: ["Business & Investment","Social Media"]
 listed_since: "2024-11-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.theaffiliateacademy.de/taaplus+/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51269/adminstore/"
 sales_page: "https://www.theaffiliateacademy.de/taaplus+/"
 language: "de"
 ---
 # The Affiliate Academy Plus
 
 > Product ID `51269` · Digistore24 productId `583562` · [HTML profile page](../../produkte/the-affiliate-academy-plus-51269.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $376.67 (Single payment, Installment) |
+| Price | $373.01 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $120.61 |
+| Earnings/sale* | $120.34 |
 | Cart conversion* | 3% |
 | Cancel rate* | 9.28% |
 | Vendor | marketingmarko |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Starte deine Affiliate Marketing Journey Die Affiliate Academy Plus ist die Erweiterung der normalen "The Affiliate Academy" und ist perfekt für Leute, die den anderen einen Schritt voraus sein wollen.Ala Affiliate bekommst du lukrative 50% Provision pro Verkauf und eine Conversion Optimierte Landing Page, welche dir den VErkauf vereinfacht.Die Affiliate Academy Plus enhält:1. Eine Videoanleitung …
+**Vendor's marketplace description:** <p><strong>Starte deine Affiliate Marketing Journey<br /></strong></p>
+<p>Die Affiliate Academy Plus ist die Erweiterung der normalen "The Affiliate Academy" und ist perfekt für Leute, die den anderen <em>einen Schritt voraus</em> sein wollen.<br /><br />Ala Affiliate bekommst du lukrative <strong>50% Provision pro Verkauf</strong> und eine Conversion Optimierte Landing Page, welche dir den VErkauf vereinfacht.<br /><br />Die Affiliate Academy Plus enhält:<br /><br />1. Eine Videoanleitung mit 80+ Videos<br />2. Eine Teilnehmergruppe mit über 350 Mitgliedern<br />3. 2 Monate lang Zugang zu allen Live Zoom Meetings (alle 2 Tage)<br /><br />Der perfekte Einstieg für Anfänger ins Affiliate Marketing<br />-&gt; <strong>Wissen, Support, Hilfe</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.theaffiliateacademy.de/taaplus+/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51269/adminstore/
 - Sales page: https://www.theaffiliateacademy.de/taaplus+/
 - Canonical redirect: https://www.digistore24.com/redir/583562/adminstore
 
@@ -66,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist The Affiliate Academy Plus? — Typ: Member area and video courses, Anbieter: marketingmarko, gelistet seit 2024-11-30
-- Wie viel kostet es? — 376.667278 USD
+- Wie viel kostet es? — 373.00934100000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

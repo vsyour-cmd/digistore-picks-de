@@ -4,16 +4,16 @@ digistore24_product_id: 620855
 title: "Dein Unterbewusstsein"
 vendor: "CarstenTeich"
 product_type: "Member area and video courses"
-price: 41.46
+price: 41.37
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 18.66
+earnings_per_sale: 18.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-06-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.carstenteich.com/unterbewusstsein/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.carstenteich.com/unterbewusstsein/"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Unterbewusstsein
 
 > Product ID `56074` · Digistore24 productId `620855` · [HTML profile page](../../produkte/dein-unterbewusstsein-56074.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.46 (Single payment) |
+| Price | $41.37 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $18.66 |
+| Earnings/sale* | $18.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CarstenTeich |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Videokurs zum Thema Unterbewusstsein und mentale Blockaden. Der Kurs zeigt verständlich, warum viele Menschen sich selbst ausbremsen und wie sie diese Muster durchbrechen können. 50 % Provision im Frontend, mit Upsells sind bis zu 87 € pro Verkauf möglich. Ideal für breite Zielgruppen.
+**Vendor's marketplace description:** <p>Videokurs zum Thema Unterbewusstsein und mentale Blockaden.</p>
+<p> </p>
+<p>Der Kurs zeigt verständlich, warum viele Menschen sich selbst ausbremsen und wie sie diese Muster durchbrechen können.</p>
+<p> </p>
+<p>50 % Provision im Frontend, mit Upsells sind bis zu 87 € pro Verkauf möglich. Ideal für breite Zielgruppen.</p>
 
 ## 2. Links
 
@@ -67,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Unterbewusstsein? — Typ: Member area and video courses, Anbieter: CarstenTeich, gelistet seit 2025-06-26
-- Wie viel kostet es? — 41.4622 USD
+- Wie viel kostet es? — 41.3697 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

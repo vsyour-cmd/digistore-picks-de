@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://lisa-jakob.app.mentortools.com/senior-hunde-und-basis-kurs?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58879/adminstore/"
 sales_page: "https://lisa-jakob.app.mentortools.com/senior-hunde-und-basis-kurs"
 language: "de"
 ---
 # Pour Ellie – Seniorenernährung beim Hund
 
 > Product ID `58879` · Digistore24 productId `653103` · [HTML profile page](../../produkte/pour-ellie-seniorenern-hrung-beim-hund-58879.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Seniorhunde richtig ernähren – für mehr Vitalität und Lebensqualität im Alter Wenn ein Hund älter wird, verändern sich Stoffwechsel, Verdauung, Aktivität und Körperzusammensetzung. Viele Hundehalter fragen sich dann, ob sie das Futter wechseln, Protein reduzieren oder auf spezielles „Seniorfutter“ umsteigen sollten. Der Onlinekurs „Seniorhunde richtig ernähren“ vermittelt verständlich und praxisna…
+**Vendor's marketplace description:** <p><strong>Seniorhunde richtig ernähren – für mehr Vitalität und Lebensqualität im Alter</strong></p>
+<p>Wenn ein Hund älter wird, verändern sich Stoffwechsel, Verdauung, Aktivität und Körperzusammensetzung. Viele Hundehalter fragen sich dann, ob sie das Futter wechseln, Protein reduzieren oder auf spezielles „Seniorfutter“ umsteigen sollten.</p>
+<p>Der Onlinekurs <strong>„Seniorhunde richtig ernähren“</strong> vermittelt verständlich und praxisnah, was sich im Körper eines Hundes im Alter tatsächlich verändert und wie die Ernährung sinnvoll und individuell angepasst werden kann.</p>
+<p>Dabei geht es nicht um pauschale Seniorfutter-Empfehlungen, sondern darum, Zusammenhänge zu verstehen und fundierte Entscheidungen für den eigenen Hund zu treffen.</p>
+<p><strong>Im Kurs lernen Hundehalter unter anderem:</strong></p>
+<p>• wann ein Hund überhaupt als Senior gilt<br />• wie sich Stoffwechsel und Verdauung im Alter verändern<br />• warum Muskelabbau im Alter entsteht und wie die Ernährung dabei eine Rolle spielt<br />• welche Bedeutung hochverdauliche Nahrung hat<br />• welche Rolle das Mikrobiom und das Immunsystem im Alter spielen<br />• wie altersbedingte Entzündungsprozesse eingeordnet werden können<br />• wie rohes und gekochtes Futter im Alter beurteilt werden können<br />• wie Rezepte an den älteren Hund angepasst werden<br />• wie Trockenfutter, Nassfutter, BARF und gekochte Rationen sinnvoll verglichen werden<br />• wie Trockensubstanz, Feuchtigkeit und Futterkonsistenz richtig eingeordnet werden<br />• wie Ernährung bei typischen Altersproblemen unterstützend eingesetzt werden kann<br />• praktische Strategien rund um Appetit, Portionen und Alltag</p>
+<p>Der Kurs zeigt außerdem, warum typische Aussagen wie „Seniorhunde brauchen grundsätzlich weniger Protein“ nicht einfach pauschal übernommen werden sollten. Ziel ist es, Ernährung nicht nach Alterslabeln, sondern nach den tatsächlichen Bedürfnissen des einzelnen Hundes anzupassen.</p>
+<p><strong>Zwei Möglichkeiten für Käufer:</strong><br />Der Seniorenkurs kann einzeln gebucht werden. Für Hundehalter ohne solides Grundlagenwissen gibt es zusätzlich das empfohlene Bundle aus Basis-Kurs Futterklarheit + Seniorenkurs. Der Basis-Kurs vermittelt das Fundament, der Seniorenkurs die gezielte Anwendung auf den älteren Hund.</p>
+<p><strong>Für wen eignet sich das Partnerprogramm?</strong></p>
+<p>Besonders interessant für Hundetrainer, Hundeschulen, Tierarztpraxen, Tiertherapeuten, Hundeernährungsberater, Tierkommunikatoren, Züchter, Hundephysiotherapeuten, Hundebetreuer sowie Content Creator mit einer Zielgruppe aus Hundehaltern.</p>
+<p><strong>Warum diesen Kurs empfehlen?</strong></p>
+<p>• klare Zielgruppe: Halter älter werdender und bereits seniorer Hunde<br />• verständliche Einordnung der körperlichen Veränderungen im Alter<br />• Fokus auf Muskelmasse, Verdauung, Mikrobiom und Verdaulichkeit<br />• verschiedene Fütterungsarten werden differenziert betrachtet<br />• praxisnah und verständlich aufgebaut<br />• keine pauschalen Produktempfehlungen<br />• markenunabhängige Wissensvermittlung<br />• sofort verfügbar<br />• 120 Tage Zugriff<br />• Teil der Pour-Ellie-Wissenswelt rund um Hundeernährung und Tierfutterherstellung</p>
+<p><strong>Affiliate-Provision: 40 %</strong></p>
+<p>Die Zuordnung der vermittelten Verkäufe und die Abrechnung der Provision erfolgen automatisch über Digistore24.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lisa-jakob.app.mentortools.com/senior-hunde-und-basis-kurs?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58879/adminstore/
 - Sales page: https://lisa-jakob.app.mentortools.com/senior-hunde-und-basis-kurs
 - Canonical redirect: https://www.digistore24.com/redir/653103/adminstore
 

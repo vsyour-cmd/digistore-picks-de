@@ -4,16 +4,16 @@ digistore24_product_id: 295701
 title: "Digital Lettering Kurs"
 vendor: "Timothy90"
 product_type: "Member area and video courses"
-price: 76.72
+price: 76.55
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.45
+earnings_per_sale: 37.37
 cart_conversion_pct: 23
 cancel_rate_pct: 0.39
 categories: ["Hobby & Craft"]
 listed_since: "2019-11-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://manylearn.com/kurse/digital-lettering-kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://manylearn.com/kurse/digital-lettering-kurs"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Lettering Kurs
 
 > Product ID `40296` · Digistore24 productId `295701` · [HTML profile page](../../produkte/digital-lettering-kurs-40296.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $76.72 (Single payment, Installment) |
+| Price | $76.55 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.45 |
+| Earnings/sale* | $37.37 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0.39% |
 | Vendor | Timothy90 |
@@ -41,7 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Digital Lettering Kurs - DER Kurs für alle, die das Handlettering auf dem iPad meistern wollen! Achtung: Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst. Nach meinem beliebten Handlettering Online Kurs bietet der iPad Handlettering Kurs den perfekten Einstieg in die unendlichen Möglichkeiten…
+**Vendor's marketplace description:** <p><strong>Der Digital Lettering Kurs - DER Kurs für alle, die das Handlettering auf dem iPad meistern wollen!</strong></p>
+<hr />
+<p><span style="color:#ff0000;"><strong>Achtung:</strong> Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst.</span></p>
+<hr />
+<p>Nach meinem beliebten Handlettering Online Kurs bietet der iPad Handlettering Kurs den perfekten Einstieg in die unendlichen Möglichkeiten des digitalen Letterings.</p>
+<p>Folgende Inhalte und Themen erwarten den Nutzer im Kurs:</p>
+<ul>
+<li>Die Grundlagen des digitalen Letterings</li>
+<li>ProCreate Schnellstart – die wichtigsten Funktionen um loszulegen</li>
+<li>Lettering Styles üben mit passenden (digitalen) Workbooks</li>
+<li>Einfache Schriftzüge und Letterings auf Fotos</li>
+<li>Farbe und Struktur für mehr Realismus nutzen, Verläufe erzeugen</li>
+<li>Verschiedene 3D Effekte und komplexe Schatten</li>
+<li>Buchstaben und Wörter effektiv konstruieren</li>
+<li>Kompositionen und Layouts erstellen (mehrere Wörter)</li>
+<li>Die analoge und digitale Welt verschmelzen lassen</li>
+<li>Gemeinsame Meisterprojekte</li>
+<li>Einführung in das Thema Animationen</li>
+</ul>
+<p>Inklusive passendem Material:</p>
+<ul>
+<li>Fotos und Hintergründe zum Beschriften</li>
+<li>Workbooks zum Üben</li>
+<li>Layout Designer Brushset für ProCreate</li>
+</ul>
 
 ## 2. Links
 
@@ -89,7 +113,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Lettering Kurs? — Typ: Member area and video courses, Anbieter: Timothy90, gelistet seit 2019-11-18
-- Wie viel kostet es? — 76.716276 USD
+- Wie viel kostet es? — 76.545126 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

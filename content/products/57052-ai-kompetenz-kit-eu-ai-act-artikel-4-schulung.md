@@ -4,16 +4,16 @@ digistore24_product_id: 702019
 title: "AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung"
 vendor: "svenpetercontacteb58"
 product_type: "Member area and video courses"
-price: 88.53
+price: 88.33
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.41
+earnings_per_sale: 35.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Law & Justice"]
 listed_since: "2026-06-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ai-kompetenz-kit.de/kit?aff=adminstore#aff=adminstore"
 sales_page: "https://ai-kompetenz-kit.de/kit"
@@ -22,16 +22,16 @@ language: "de"
 # AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung
 
 > Product ID `57052` · Digistore24 productId `702019` · [HTML profile page](../../produkte/ai-kompetenz-kit-eu-ai-act-artikel-4-schulung-57052.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $88.53 (Single payment) |
+| Price | $88.33 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.41 |
+| Earnings/sale* | $35.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | svenpetercontacteb58 |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Pflichtthema mit Rückenwind: Seit Februar 2025 müssen Unternehmen ihreMitarbeitenden nach EU AI Act Artikel 4 in KI-Kompetenz schulen — diebehördliche Durchsetzung startet August 2026. Jedes KMU ist betroffen. Das AI-Kompetenz-Kit ist das schlüsselfertige Komplettpaket: 6 Online-Module(je ~25 Min., Video + Quiz), fertige AI-Use-Policy-Vorlage, Doku-Vorlagen undTeilnahmezertifikat — Einmalkauf stat…
+**Vendor's marketplace description:** <p>Pflichtthema mit Rückenwind: Seit Februar 2025 müssen Unternehmen ihre<br />Mitarbeitenden nach EU AI Act Artikel 4 in KI-Kompetenz schulen — die<br />behördliche Durchsetzung startet August 2026. Jedes KMU ist betroffen.</p>
+<p>Das AI-Kompetenz-Kit ist das schlüsselfertige Komplettpaket: 6 Online-Module<br />(je ~25 Min., Video + Quiz), fertige AI-Use-Policy-Vorlage, Doku-Vorlagen und<br />Teilnahmezertifikat — Einmalkauf statt Abo.</p>
+<p>Ideal für Affiliates mit KMU-Kontakt (IT-Dienstleister, externe<br />Datenschutzbeauftragte, Unternehmensberater): Du empfiehlst eine fertige,<br />rechtssichere Lösung an deinen eigenen Bestand und verdienst 40 % Provision<br />pro Verkauf (Team-10 ~80 €, Team-25 ~160 €).</p>
+<p>Preise: Einzel 79 € · Team-10 199 € · Team-25 399 € (netto, Einmalkauf).<br />14 Tage Widerrufsrecht über Digistore24.</p>
 
 ## 2. Links
 
@@ -87,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI-Kompetenz-Kit – EU AI Act Artikel 4 Schulung? — Typ: Member area and video courses, Anbieter: svenpetercontacteb58, gelistet seit 2026-06-18
-- Wie viel kostet es? — 88.5274 USD
+- Wie viel kostet es? — 88.32990000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

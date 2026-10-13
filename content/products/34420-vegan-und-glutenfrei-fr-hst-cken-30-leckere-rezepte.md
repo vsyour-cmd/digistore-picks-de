@@ -4,16 +4,16 @@ digistore24_product_id: 352781
 title: "Vegan und glutenfrei Frühstücken - 30 leckere Rezepte"
 vendor: "tastykaty"
 product_type: "E-books"
-price: 12.52
+price: 12.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.26
+earnings_per_sale: 6.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2020-10-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://tastykaty.de/vegan-glutenfrei-fruehstuecken-e-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://tastykaty.de/vegan-glutenfrei-fruehstuecken-e-book/"
@@ -22,16 +22,16 @@ language: "de"
 # Vegan und glutenfrei Frühstücken - 30 leckere Rezepte
 
 > Product ID `34420` · Digistore24 productId `352781` · [HTML profile page](../../produkte/vegan-und-glutenfrei-fr-hst-cken-30-leckere-rezepte-34420.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.52 (Single payment) |
+| Price | $12.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.26 |
+| Earnings/sale* | $6.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tastykaty |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die 30 besten Frühstücksrezepte – vegan, glutenfrei und ohne industriellen Zucker – von Tasty Katy’s Blog, ausgewählt in einem liebevoll aufbereiteten eBook. Die Rezepte sind leicht umsetzbar und einfach beschrieben. Inhalt des eBooks: • 30 leckere Frühstücksrezepte (vegan, glutenfrei & zuckerfrei) • Rezepte für cremige Porridges, leckere Brote und tolle Extras • Template für eigene Rezepte • Temp…
+**Vendor's marketplace description:** <p>Die 30 besten Frühstücksrezepte – <em>vegan, glutenfrei und ohne industriellen Zucker</em> – von Tasty Katy’s Blog, ausgewählt in einem liebevoll aufbereiteten eBook.</p>
+<p>Die Rezepte sind leicht umsetzbar und einfach beschrieben.</p>
+<p> </p>
+<p><strong> Inhalt des eBooks:</strong></p>
+<p>• 30 leckere Frühstücksrezepte</p>
+<p>  (vegan, glutenfrei &amp; zuckerfrei)</p>
+<p>• Rezepte für cremige Porridges, leckere Brote und tolle Extras </p>
+<p>• Template für eigene Rezepte</p>
+<p>• Template für eine Einkaufsliste</p>
+<p> </p>
+<p>Biete deinen Kunden ein einzigartiges eBook mit vielen liebevoll aufbereiteten Rezepten für ein leckeres &amp; gesundes Frühstück.</p>
 
 ## 2. Links
 
@@ -73,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vegan und glutenfrei Frühstücken - 30 leckere Rezepte? — Typ: E-books, Anbieter: tastykaty, gelistet seit 2020-10-18
-- Wie viel kostet es? — 12.517102 USD
+- Wie viel kostet es? — 12.489177000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

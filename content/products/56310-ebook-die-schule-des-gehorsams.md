@@ -4,16 +4,16 @@ digistore24_product_id: 685637
 title: "Ebook - Die Schule des Gehorsams"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.28
+price: 6.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.14
+earnings_per_sale: 3.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/685637?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/685637"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Die Schule des Gehorsams
 
 > Product ID `56310` · Digistore24 productId `685637` · [HTML profile page](../../produkte/ebook-die-schule-des-gehorsams-56310.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.28 (Single payment) |
+| Price | $6.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.14 |
+| Earnings/sale* | $3.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochaktuelles, kontroverses Sachbuch für ein kritisch denkendes Publikum, das die Schwächen des modernen Bildungssystems schonungslos offenlegt und emotional stark anspricht. Die klare Positionierung gegen Konformität und für Selbstermächtigung trifft den Nerv von Eltern, Pädagogen und gesellschaftskritischen Lesern – eine kaufkräftige und engagierte Zielgruppe. Das Thema Bildung, Kreativität …
+**Vendor's marketplace description:** <p>Ein hochaktuelles, kontroverses Sachbuch für ein kritisch denkendes Publikum, das die Schwächen des modernen Bildungssystems schonungslos offenlegt und emotional stark anspricht.</p>
+<p> </p>
+<p>Die klare Positionierung gegen Konformität und für Selbstermächtigung trifft den Nerv von Eltern, Pädagogen und gesellschaftskritischen Lesern – eine kaufkräftige und engagierte Zielgruppe.</p>
+<p> </p>
+<p>Das Thema Bildung, Kreativität und Systemkritik sorgt für hohe Relevanz, starke Diskussionen und damit ideale Voraussetzungen für virales Marketing.</p>
+<p> </p>
+<p>Durch die provokante These und den intellektuellen Tiefgang bietet das Buch hervorragende Hook-Ansätze für Ads, Content und Storytelling.</p>
+<p> </p>
+<p>Ein Produkt mit klarer Botschaft, emotionalem Trigger und starkem Marktinteresse – optimal für performante Affiliate-Kampagnen.</p>
 
 ## 2. Links
 
@@ -71,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Die Schule des Gehorsams? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-17
-- Wie viel kostet es? — 6.27536 USD
+- Wie viel kostet es? — 6.26136 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

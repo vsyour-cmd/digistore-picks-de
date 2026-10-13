@@ -4,7 +4,7 @@ digistore24_product_id: 717239
 title: "Psychologie der Massen"
 vendor: "Novaris_web"
 product_type: "Downloads"
-price: 8.43
+price: 8.41
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.84
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Politics & Economy"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://novaris.de.cool/massenpsyche.php?aff=adminstore#aff=adminstore"
 sales_page: "https://novaris.de.cool/massenpsyche.php"
@@ -22,14 +22,14 @@ language: "de"
 # Psychologie der Massen
 
 > Product ID `58726` · Digistore24 productId `717239` · [HTML profile page](../../produkte/psychologie-der-massen-58726.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.43 (Single payment) |
+| Price | $8.41 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.84 |
 | Cart conversion* | — |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Psychologie der Massen Hörbuch & PDF als BundleBundle €8,955 Std. 36 Min Eine Vorgehensweise, um Menschen psychologisch als Sklaven zu halten und unnatürliches Verhalten zu indoktrinieren. Psychologische Beeinflussung, welche Machthaber und Eliten,- zur geistigen Steuerung und zur Unterwerfung der Massen erfolgreich einsetzen. Eine aufmerksame Beobachtung der geschichtlichen Tatsachen hat mir näml…
+**Vendor's marketplace description:** <p><strong>Psychologie der Massen</strong></p>
+<p>Hörbuch &amp; PDF als Bundle<br />Bundle €8,95<br />5 Std. 36 Min</p>
+<p>Eine Vorgehensweise, um Menschen psychologisch als Sklaven zu halten und unnatürliches Verhalten zu indoktrinieren. Psychologische Beeinflussung, welche Machthaber und Eliten,- zur geistigen Steuerung und zur Unterwerfung der Massen erfolgreich einsetzen.</p>
+<p>Eine aufmerksame Beobachtung der geschichtlichen Tatsachen hat mir nämlich stets gezeigt, daß, da die sozialen Organismen ebenso kompliziert sind wie die anderen Organismen, es ganz und gar nicht in unserer Macht steht, sie in jäher Weise tiefgehenden Umwandlungen zu unterwerfen. Zuweilen ist die Natur radikal, aber nicht so, wie wir es verstehen!</p>
+<p>Daher gibt es nichts Traurigeres für ein Volk als die Manie der großen Reformen, so vortrefflich diese Reformen theoretisch erscheinen können. Nützlich wären sie nur dann, wenn es möglich wäre, die Volksseele plötzlich zu ändern. Die Zeit hat diese Macht. Die Menschen werden von Ideen, Gefühlen und Gewohnheiten geleitet, von Dingen, die in uns selbst sind. Die Institutionen und Gesetze sind die Offenbarung unserer Seele, der Ausdruck ihrer Bedürfnisse. Von dieser Seele ausgehend, können Institutionen und Gesetze sie nicht ändern.</p>
+<p>Das Studium der sozialen Erscheinungen läßt sich nicht von dem der Völker, bei denen sie sich vollzogen haben, trennen. Philosophisch betrachtet, können diese Erscheinungen einen absoluten Wert haben, praktisch aber sind sie nur von relativem Wert.</p>
 
 ## 2. Links
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Psychologie der Massen? — Typ: Downloads, Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 8.426912 USD
+- Wie viel kostet es? — 8.408112000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

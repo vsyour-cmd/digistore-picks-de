@@ -4,16 +4,16 @@ digistore24_product_id: 738079
 title: "Online Business Blueprint – Kurs für 97 €, 50 % Provision"
 vendor: "influexai"
 product_type: "Downloads"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.68
+earnings_per_sale: 45.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/738079?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/738079"
@@ -22,16 +22,16 @@ language: "de"
 # Online Business Blueprint – Kurs für 97 €, 50 % Provision
 
 > Product ID `59970` · Digistore24 productId `738079` · [HTML profile page](../../produkte/online-business-blueprint-kurs-f-r-97-50-provision-59970.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.68 |
+| Earnings/sale* | $45.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | influexai |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Online Business Blueprint: 40 Lektionen in 10 Modulen zeigen Einsteigern und Nebenberuflichen Schritt für Schritt, wie sie ein eigenes Online-Business aufbauen – von der Idee bis zum ersten Verkauf. Mit 10 Erklärvideos, 32 Prompts, Workbook und Business-Planer. Zielgruppe: Einsteiger, Nebenberufliche, Selbstständige und Creator, die seriös starten wollen – ohne Reich-in-30-Tagen-Versprechen. Dein …
+**Vendor's marketplace description:** <p><strong>Online Business Blueprint</strong>: 40 Lektionen in 10 Modulen zeigen Einsteigern und Nebenberuflichen Schritt für Schritt, wie sie ein eigenes Online-Business aufbauen – von der Idee bis zum ersten Verkauf. Mit 10 Erklärvideos, 32 Prompts, Workbook und Business-Planer.</p>
+<p><strong>Zielgruppe:</strong> Einsteiger, Nebenberufliche, Selbstständige und Creator, die seriös starten wollen – ohne Reich-in-30-Tagen-Versprechen.</p>
+<p><strong>Dein Vorteil als Partner:</strong> 50 % Provision bei 97 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.</p>
 
 ## 2. Links
 
@@ -78,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Business Blueprint – Kurs für 97 €, 50 % Provision? — Typ: Downloads, Anbieter: influexai, gelistet seit 2026-09-27
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

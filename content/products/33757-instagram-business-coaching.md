@@ -4,34 +4,34 @@ digistore24_product_id: 341389
 title: "Instagram Business Coaching"
 vendor: "TanjaV"
 product_type: "Online coaching"
-price: 28.58
+price: 28.51
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 3.99
+earnings_per_sale: 3.98
 cart_conversion_pct: 29
 cancel_rate_pct: 1.5
 categories: ["Profession & Job"]
 listed_since: "2020-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/341389?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/33757/adminstore/"
 sales_page: "https://www.digistore24.com/product/341389"
 language: "de"
 ---
 # Instagram Business Coaching
 
 > Product ID `33757` · Digistore24 productId `341389` · [HTML profile page](../../produkte/instagram-business-coaching-33757.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $28.58 (Single payment) |
+| Price | $28.51 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $3.99 |
+| Earnings/sale* | $3.98 |
 | Cart conversion* | 29% |
 | Cancel rate* | 1.5% |
 | Vendor | TanjaV |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** HALLO, ICH BIN TANJA VALLEE Seit mehreren Jahren coache ich Selbstständige und Unternehmer beim effektiven Aufbau ihres Instagram Accounts. Ich gebe meinen Kunden Werkzeuge an die Hand womit sie selbstständig und erfolgreich ihr Business aufbauen können. Mit Dienstleistern teile ich gerne mein now how und unterstütze sie bei der Produkt Gestaltung und im Online -Marketing.Es ist mir eine Freude me…
+**Vendor's marketplace description:** <h2>HALLO, ICH BIN TANJA VALLEE</h2>
+<p>Seit mehreren Jahren coache ich Selbstständige und Unternehmer beim effektiven Aufbau ihres Instagram Accounts.</p>
+<p>Ich gebe meinen Kunden Werkzeuge an die Hand womit sie selbstständig und erfolgreich ihr Business aufbauen können. Mit Dienstleistern teile ich gerne mein now how und unterstütze sie bei der Produkt Gestaltung und im Online -Marketing.<br />Es ist mir eine Freude meine Kunden zu unterstützen ein optimales Business aufzubauen, das zu ihnen passt.<br />Ich selbst habe verschiedene Coachings gebucht um mich weiter zu entwickeln  und konnte da durch viel Zeit, Geld und Energie sparen.<br />Diese Chance möchte ich dir auch geben, damit du mit mir die Abkürzung nehmen kannst.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/341389?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/33757/adminstore/
 - Sales page: https://www.digistore24.com/product/341389
 - Vendor affiliate support: https://www.ts-onlinemedia.de/affiliate-crash-kurs-instagram/
 - Canonical redirect: https://www.digistore24.com/redir/341389/adminstore
@@ -77,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram Business Coaching? — Typ: Online coaching, Anbieter: TanjaV, gelistet seit 2020-08-17
-- Wie viel kostet es? — 28.575300000000002 USD
+- Wie viel kostet es? — 28.511550000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

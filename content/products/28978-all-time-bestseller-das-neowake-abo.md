@@ -4,16 +4,16 @@ digistore24_product_id: 263811
 title: "All Time Bestseller: Das neowake® Abo"
 vendor: "EnergeticTernity"
 product_type: "Member area and video courses"
-price: 169.5
+price: 169.12
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.72
+earnings_per_sale: 98.5
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Personal Development"]
 listed_since: "2019-03-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://neowake.de/jetzt-testen?aff=adminstore#aff=adminstore"
 sales_page: "https://neowake.de/jetzt-testen"
@@ -22,16 +22,16 @@ language: "de"
 # All Time Bestseller: Das neowake® Abo
 
 > Product ID `28978` · Digistore24 productId `263811` · [HTML profile page](../../produkte/all-time-bestseller-das-neowake-abo-28978.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $169.50 (Subscription) |
+| Price | $169.12 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.72 |
+| Earnings/sale* | $98.50 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -41,7 +41,44 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das lukrativste Abo-Produkt auf Digistore Verdiene passives Einkommen durch monatliche Provisionen (30%) Mit der neowake Mitgliedschaft erhalten Mitglieder Zugriff auf wirksame Hör-Programme zur Erweiterung des Bewusstseins. Die neowake können für besseren Schlaf, tiefere Meditationen, Entspannung, Zufriedenheit, Gesundheit, Selbstfindung, Energie und vieles Mehr genutzt werden. Als Affiliate von …
+**Vendor's marketplace description:** <h2><strong>Das lukrativste Abo-Produkt auf Digistore<br /></strong></h2>
+<h4><span style="background-color:#ff6600;color:#ffffff;"><strong>Verdiene passives Einkommen durch monatliche Provisionen (30%)</strong></span></h4>
+<p>Mit der neowake<strong> Mitgliedschaft</strong> erhalten Mitglieder Zugriff auf wirksame Hör-Programme zur Erweiterung des Bewusstseins. Die neowake können für besseren Schlaf, tiefere Meditationen, Entspannung, Zufriedenheit, Gesundheit, Selbstfindung, Energie und vieles Mehr genutzt werden.</p>
+<p>Als Affiliate von neowake profitieren Sie an der Möglichkeit <strong>passives Einkommen</strong> durch die Mitgliedschaft zu generieren. Die Mitglieder bleiben durchschnittlich mehrere Monate in der Mitgliedschaft und generieren so <strong>&gt;100 Euro für Sie (passiv; jeden Monat)</strong></p>
+<p>Wenn Sie die neowake Mitgliedschaft bewerben erhalten Sie monatliche Provisionen und <strong>zusätzlich Provisionen</strong> auf alle weiteren Verkäufe im langen Email Funnel. </p>
+<h4><span style="background-color:#339966;color:#ffffff;">Conversionstarke Verkaufsfunnels und Retargeting inklusive</span></h4>
+<p><em>Alle Verkaufsseiten und Funnels werden permanent optimiert, um die maximale Durchschlagskraft für ihren Traffic zu gewährleisten.</em></p>
+<p>Bewerben Sie jetzt die neowake Mitgliedschaft, eines der attraktivsten Affiliate Produkte im deutschen Markt. Sie sehen Monat für Monat neue Einnahmen in ihren Account fließen und profitieren von der <strong>hohen Kundenzufriedenheit</strong> und der <strong>geringen Kündigungsrate</strong> von neowake. </p>
+<h4><br /><span style="color:#ffffff;background-color:#3366ff;">Beispiel-Einnahmen für Sie</span></h4>
+<table style="height:156px;border-color:#f89525;" border="2" width="358">
+<tbody>
+<tr>
+<td style="width:167px;"><strong>Vermittelte Abos</strong></td>
+<td style="width:167px;"><strong>Monatliche Einnahmen</strong></td>
+</tr>
+<tr>
+<td style="width:167px;">10</td>
+<td style="width:167px;">ca. 50 Euro</td>
+</tr>
+<tr>
+<td style="width:167px;">100</td>
+<td style="width:167px;">ca. 500 Euro</td>
+</tr>
+<tr>
+<td style="width:167px;">1000</td>
+<td style="width:167px;">ca. 5000 Euro</td>
+</tr>
+<tr>
+<td style="width:167px;">5000</td>
+<td style="width:167px;">ca. 25000 Euro</td>
+</tr>
+<tr>
+<td style="width:167px;">10000</td>
+<td style="width:167px;">ca. 50000 Euro</td>
+</tr>
+</tbody>
+</table>
+<p><br />Bei weiteren Fragen kontaktieren Sie uns gerne unter <a href="mailto:Support@neobeats.de">Support@neowake.de</a>.<br /><br />Auf eine erfolgreiche Partnerschaft!</p>
 
 ## 2. Links
 
@@ -67,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist All Time Bestseller: Das neowake® Abo? — Typ: Member area and video courses, Anbieter: EnergeticTernity, gelistet seit 2019-03-12
-- Wie viel kostet es? — 169.501956 USD
+- Wie viel kostet es? — 169.123806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

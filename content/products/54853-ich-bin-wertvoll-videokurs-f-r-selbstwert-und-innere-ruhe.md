@@ -4,7 +4,7 @@ digistore24_product_id: 651579
 title: "Ich bin wertvoll VIDEOKURS für Selbstwert und innere Ruhe"
 vendor: "gesundergeist"
 product_type: "Member area and video courses"
-price: 28.16
+price: 28.1
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0.53
@@ -12,24 +12,24 @@ cart_conversion_pct: 9
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://selbstwert-aufbauen.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54853/adminstore/"
 sales_page: "https://selbstwert-aufbauen.com"
 language: "de"
 ---
 # Ich bin wertvoll VIDEOKURS für Selbstwert und innere Ruhe
 
 > Product ID `54853` · Digistore24 productId `651579` · [HTML profile page](../../produkte/ich-bin-wertvoll-videokurs-f-r-selbstwert-und-innere-ruhe-54853.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.16 (Single payment) |
+| Price | $28.10 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.53 |
 | Cart conversion* | 9% |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 5 Euro Provision 1. Du sendest den Link zum Selbstwert-Videokurs an potenzielle Käufer 2. Käufer bestellen 3. Du erhältst 5 Euro Provision Über 540 Minuten Videolektionen vom Nr. 1 BILD-Bestsellerautor! Ein absolut seriöses und solides Produkt. Zielgruppe: Persönlichkeitsentwicklung, Psychologie, Selbstliebe, Achtsamkeit, Spiritualität, Dating (Selbstliebe stärken statt im Außen suchen) usw.
+**Vendor's marketplace description:** <p><span style="color:#000000;"><strong><span style="background-color:#99cc00;">5 Euro Provision </span></strong></span></p>
+<p>1. Du sendest den Link zum Selbstwert-Videokurs an potenzielle Käufer </p>
+<p>2. Käufer bestellen</p>
+<p>3. Du erhältst 5 Euro Provision</p>
+<p>Über 540 Minuten Videolektionen vom Nr. 1 BILD-Bestsellerautor! <strong>Ein absolut seriöses und solides Produkt.</strong></p>
+<p><span style="background-color:#ff9900;">Zielgruppe:</span> Persönlichkeitsentwicklung, Psychologie, Selbstliebe, Achtsamkeit, Spiritualität, Dating (Selbstliebe stärken statt im Außen suchen) usw.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://selbstwert-aufbauen.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54853/adminstore/
 - Sales page: https://selbstwert-aufbauen.com
 - Canonical redirect: https://www.digistore24.com/redir/651579/adminstore
 
@@ -84,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ich bin wertvoll VIDEOKURS für Selbstwert und innere Ruhe? — Typ: Member area and video courses, Anbieter: gesundergeist, gelistet seit 2026-04-24
-- Wie viel kostet es? — 28.160678 USD
+- Wie viel kostet es? — 28.097853 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

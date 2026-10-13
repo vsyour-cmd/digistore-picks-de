@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2022-05-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.javidhoffmann.de/gratis-buch?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40321/adminstore/"
 sales_page: "https://www.javidhoffmann.de/gratis-buch"
 language: "de"
 ---
 # [GRATIS BUCH] COACHING MILLIONÄR
 
 > Product ID `40321` · Digistore24 productId `445024` · [HTML profile page](../../produkte/gratis-buch-coaching-million-r-40321.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Profitiere von einem einzigartigen Affiliate Programm! Einzigartig [hohe Conversion]:• 60% Provision vom GRATIS Buch - 3,90€• 60% Provision auf Upsell - 22,84€• 60% Provision auf Downsell - 52,96€• Zusätzlich 60% vom Order Bump - 11,18€Verdiene als Affiliate bis zu 90€ pro Verkauf!
+**Vendor's marketplace description:** <p><strong>P</strong><strong>rofitiere</strong> von einem einzigartigen Affiliate Programm!</p>
+<p><strong>Einzigartig [hohe Conversion]:<br /></strong>• 60% Provision vom GRATIS Buch - 3,90€<br />• 60% Provision auf Upsell - 22,84€<br />• 60% Provision auf Downsell - 52,96€<br />• Zusätzlich 60% vom Order Bump - 11,18€<strong><br /><br /></strong>Verdiene als Affiliate bis zu <strong>90€ pro Verkauf!</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.javidhoffmann.de/gratis-buch?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40321/adminstore/
 - Sales page: https://www.javidhoffmann.de/gratis-buch
 - Vendor affiliate support: https://www.javidhoffmann.de/buch-affiliate
 - Canonical redirect: https://www.digistore24.com/redir/445024/adminstore

@@ -4,16 +4,16 @@ digistore24_product_id: 660957
 title: "AI-Influencer System"
 vendor: "CyrilCash"
 product_type: "Member area and video courses"
-price: 187.04
+price: 186.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 131.23
+earnings_per_sale: 130.94
 cart_conversion_pct: 9
 cancel_rate_pct: 1.99
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-01-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://aifluencersystem.de/start?aff=adminstore#aff=adminstore"
 sales_page: "https://aifluencersystem.de/start"
@@ -22,16 +22,16 @@ language: "de"
 # AI-Influencer System
 
 > Product ID `55780` · Digistore24 productId `660957` · [HTML profile page](../../produkte/ai-influencer-system-55780.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.04 (Single payment, Installment) |
+| Price | $186.62 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $131.23 |
+| Earnings/sale* | $130.94 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.99% |
 | Vendor | CyrilCash |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ⭐ Das #1 KI-Influencer-Produkt in Deutschland! | VSL Geld verdienen mit KI-Influencern ist gerade extrem heiß! Sichere dir jetzt deinen Teil von diesem revolutionären neuen Business-Modell, bewirb das KI-Influencer-System und verdiene massive Provisionen! ✔︎ Revolutionäres Produkt in einem komplett neuen Business-Modell! ✔︎ Erstellt von erfahrenen Digistore-Vendoren! ✔︎ Aussergewöhnlich hohe Provi…
+**Vendor's marketplace description:** <h2><strong>⭐ Das #1 KI-Influencer-Produkt in Deutschland! | VSL</strong><br /><br /></h2>
+<div><strong>Geld verdienen mit KI-Influencern ist gerade extrem heiß! Sichere dir jetzt deinen Teil von diesem revolutionären neuen Business-Modell, bewirb das KI-Influencer-System und verdiene massive Provisionen!</strong></div>
+<div>
+<div> </div>
+</div>
+<p><strong>✔︎</strong> Revolutionäres Produkt in einem komplett neuen Business-Modell!</p>
+<p><strong>✔︎</strong> Erstellt von erfahrenen Digistore-Vendoren!</p>
+<p><strong>✔︎</strong> Aussergewöhnlich hohe Provision!</p>
+<p><strong>✔︎</strong> Hohe Conversion auf Frontend + Upsells!</p>
+<p><strong>✔︎</strong> Top Support für Affiliates</p>
+<p> </p>
+<p><em><strong>Klicke jetzt auf den Button um zu den Werbemittel zu gelangen!</strong></em></p>
+<p><a href="https://aifluencersystem.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"><img src="https://www.digistore24-app.com/pb/img/merchant_831468/image/orderform_image/BR1WKQDS.png" alt="Beschreibung des Bildes" width="200" /></a></p>
+<p> </p>
+<p> </p>
+<p>Bei Fragen schreibe uns eine E-Mail an <span style="color:#0000ff;"><a href="mailto:info@coaching.business-kickstart.de">info@coaching.business-kickstart.de</a></span></p>
+<p> </p>
 
 ## 2. Links
 
@@ -67,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI-Influencer System? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2026-01-13
-- Wie viel kostet es? — 187.039346 USD
+- Wie viel kostet es? — 186.622071 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

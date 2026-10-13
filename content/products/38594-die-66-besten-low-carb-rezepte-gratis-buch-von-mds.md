@@ -4,16 +4,16 @@ digistore24_product_id: 415828
 title: "Die 66 besten Low Carb Rezepte Gratis Buch von MDS"
 vendor: "produktmanagerin"
 product_type: "E-books"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 6.96
+earnings_per_sale: 6.94
 cart_conversion_pct: 34
 cancel_rate_pct: 12.33
 categories: ["Food & Drink"]
 listed_since: "2021-11-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://machdichschlank.info/66-low-carb-rezepte/?aff=adminstore#aff=adminstore"
 sales_page: "https://machdichschlank.info/66-low-carb-rezepte/"
@@ -22,16 +22,16 @@ language: "de"
 # Die 66 besten Low Carb Rezepte Gratis Buch von MDS
 
 > Product ID `38594` · Digistore24 productId `415828` · [HTML profile page](../../produkte/die-66-besten-low-carb-rezepte-gratis-buch-von-mds-38594.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $6.96 |
+| Earnings/sale* | $6.94 |
 | Cart conversion* | 34% |
 | Cancel rate* | 12.33% |
 | Vendor | produktmanagerin |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digistore24 Affiliatebereich: https://www.digistore24-app.com/account/partnerarea/165719/de 3 E-Mails für dein E-Mail Follow Up oder als Newsletter: https://drive.google.com/file/d/1RTJ6Q0qkJ8DKpg8PZ1wnoR8hyJDlIm6s/view?usp=sharing Bewerbe unser brandneues Buch "Die 66 besten Low Carb Rezepte" in digitaler Form. Als Upsell 1 besteht die Möglichkeit unsere bewährten Fett Weg Pläne und Rezepte zu er…
+**Vendor's marketplace description:** <h4 style="text-align:left;"> Digistore24 Affiliatebereich: </h4>
+<h4><strong><span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.digistore24-app.com/account/partnerarea/165719/de">https://www.digistore24-app.com/account/partnerarea/165719/de</a></span></strong></h4>
+<p><span style="color:#000000;"><strong>3 E-Mails für dein E-Mail Follow Up oder als Newsletter:</strong></span></p>
+<p><span style="color:#0000ff;"><strong><a style="color:#0000ff;" href="https://drive.google.com/file/d/1RTJ6Q0qkJ8DKpg8PZ1wnoR8hyJDlIm6s/view?usp=sharing" target="_blank" rel="noreferrer noopener">https://drive.google.com/file/d/1RTJ6Q0qkJ8DKpg8PZ1wnoR8hyJDlIm6s/view?usp=sharing</a></strong></span></p>
+<p> </p>
+<p>Bewerbe unser brandneues Buch "Die 66 besten Low Carb Rezepte" in digitaler Form.</p>
+<p>Als Upsell 1 besteht die Möglichkeit unsere bewährten Fett Weg Pläne und Rezepte zu erhalten als Monatsabo</p>
+<p>In den ersten 14 Tagen für 0€, somit hat der Kunde 14 Tage Zeit zu testen und ab 15 Tagen werden dann so wie jeden weiteren Monat 29,97€ fällig (Auf Abos gibt es 50% Provision auf Lebenszeit - Monat für Monat)</p>
+<p>Als zweites Upsell besteht die Möglichkeit unserem Beach Body Club beizutreten als Monatsabo.</p>
+<p>Hier hat der Kunde 21 Tage Zeit um das Produkt für 0€ zu testen und danach werden auch hier 29,97€ monatlich fällig. Auch hier gibt es 50% Abo Provision auf Lebenszeit</p>
+<p>Rückgabezeitraum beträgt lediglich 14 Tage.</p>
+<p>Bewirb jetzt "Die 66 besten Low Carb Rezepte" und erhalte auf die beiden Abos jeweils 50% Provision lebenslänglich und baue dir somit ein langfristiges monatliches Einkommen mit Abos auf.</p>
+<p>Für weitere Fragen sind wir jeder Zeit erreichbar: <a>support@machdichschlank.info</a></p>
+<p> </p>
 
 ## 2. Links
 
@@ -87,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 66 besten Low Carb Rezepte Gratis Buch von MDS? — Typ: E-books, Anbieter: produktmanagerin, gelistet seit 2021-11-12
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

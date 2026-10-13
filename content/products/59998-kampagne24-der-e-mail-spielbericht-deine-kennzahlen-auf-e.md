@@ -4,16 +4,16 @@ digistore24_product_id: 729177
 title: "Kampagne24 - Der E-Mail-Spielbericht: Deine Kennzahlen auf e"
 vendor: "carstenfeuerbach"
 product_type: "Member area and video courses"
-price: 41.46
+price: 41.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.73
+earnings_per_sale: 20.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://kampagne24.com/sales-spielbericht?aff=adminstore#aff=adminstore"
 sales_page: "https://kampagne24.com/sales-spielbericht"
@@ -22,16 +22,16 @@ language: "de"
 # Kampagne24 - Der E-Mail-Spielbericht: Deine Kennzahlen auf e
 
 > Product ID `59998` · Digistore24 productId `729177` · [HTML profile page](../../produkte/kampagne24-der-e-mail-spielbericht-deine-kennzahlen-auf-e-59998.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.46 (Single payment) |
+| Price | $41.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.73 |
+| Earnings/sale* | $20.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | carstenfeuerbach |
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Fette Provisionen mit dem Kampagne24-E-Mail-Spielbericht von Carsten Feuerbach Trag deine Kennzahlen pro E-Mail-Versand ein, den Rest rechnet der Spielbericht automatisch: Öffnungsrate, Klickrate, Conversion, Umsatz aus Hauptprodukt, Orderbump und Upsells, dazu Formkurve und Bestwerte auf einen Blick. Kein Google Sheet mehr nötig. Provision: 50% auf den Spielbericht (37€, also 18,50€ pro Sale für …
+**Vendor's marketplace description:** <p><strong>Fette Provisionen mit dem <a href="https://kampagne24.com/sales-spielbericht" target="_blank" rel="noreferrer noopener">Kampagne24-E-Mail-Spielbericht</a> von Carsten Feuerbach</strong></p>
+<p>Trag deine Kennzahlen pro E-Mail-Versand ein, den Rest rechnet der Spielbericht automatisch: Öffnungsrate, Klickrate, Conversion, Umsatz aus Hauptprodukt, Orderbump und Upsells, dazu Formkurve und Bestwerte auf einen Blick. Kein Google Sheet mehr nötig.</p>
+<p><strong>Provision:</strong> 50% auf den Spielbericht (37€, also 18,50€ pro Sale für dich) PLUS 50% auf den <a href="https://kampagne24.com/sales-promokalender" target="_blank" rel="noreferrer noopener"><strong>Kampagne24-Promo-Kalender</strong></a> als Upsell direkt im selben Funnel (nochmal 37€, also weitere 18,50€ pro Sale). Bis zu 37€ Provision pro Kunde möglich.</p>
+<p><strong>Start:</strong> Ab sofort, direkt loslegen!</p>
+<p>✅ Öffnungsrate, Klickrate, Conversion und Umsatz automatisch berechnet, inklusive Orderbump/Upsell-Aufschlüsselung<br />✅ Formkurve und Benchmark-Ampel zeigen sofort, ob ein Versand gut oder schlecht lief<br />✅ Direkt danach wird der Promo-Kalender als Upsell angeboten (37€, 50% Provision für dich)<br />✅ Sofortiger, automatischer Zugang, rund um die Uhr, egal wann bestellt wird</p>
+<p><strong>Zielgruppe:</strong></p>
+<ul>
+<li>Affiliates und E-Mail-Marketer, die ihre Versand-Performance endlich messen wollen</li>
+<li>Jeder, der aktuell noch mit Google Sheets oder gar nicht trackt</li>
+<li>Ideal für alle, die bereits mit Kampagne24-Produkten vertraut sind</li>
+</ul>
+<p><strong>Deine Vorteile als Partner:</strong></p>
+<ul>
+<li>Zwei Provisionen aus einem Funnel (Spielbericht + Promo-Kalender-Upsell)</li>
+<li>Hohe Relevanz für jeden, der E-Mail-Marketing aktiv betreibt</li>
+<li>Schnelle Abrechnung über Digistore24</li>
+</ul>
+<p><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener"><strong>Jetzt Partner werden und mit dem Spielbericht starten!</strong></a></p>
+<p>Weitere Infos, Werbemittel und weitere Produkte von Carsten Feuerbach unter:<br /><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">https://go.carstenfeuerbach.de/partnerprogramm</a></strong></p>
 
 ## 2. Links
 
@@ -84,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kampagne24 - Der E-Mail-Spielbericht: Deine Kennzahlen auf e? — Typ: Member area and video courses, Anbieter: carstenfeuerbach, gelistet seit 2026-09-28
-- Wie viel kostet es? — 41.4622 USD
+- Wie viel kostet es? — 41.3697 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

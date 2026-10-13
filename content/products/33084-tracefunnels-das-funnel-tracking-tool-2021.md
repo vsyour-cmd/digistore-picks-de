@@ -4,16 +4,16 @@ digistore24_product_id: 364920
 title: "TraceFunnels - Das Funnel Tracking Tool 2021"
 vendor: "TraceFunnels"
 product_type: "Member area and video courses"
-price: 187.14
+price: 186.72
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 56.14
+earnings_per_sale: 56.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2020-12-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://tracefunnels.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://tracefunnels.com/"
@@ -22,16 +22,16 @@ language: "de"
 # TraceFunnels - Das Funnel Tracking Tool 2021
 
 > Product ID `33084` · Digistore24 productId `364920` · [HTML profile page](../../produkte/tracefunnels-das-funnel-tracking-tool-2021-33084.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.14 (Subscription) |
+| Price | $186.72 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $56.14 |
+| Earnings/sale* | $56.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TraceFunnels |
@@ -41,7 +41,46 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit deinen Empfehlungen passiv und wiederkehrend Geld verdienen Das TraceFunnels Partnerprogramm Deine Vorteile: Software as a Service Produkt Made in Germany Deutscher Support & Kundenservice Sichere Anmeldung & Zahlungsabwicklung über Digistore24.com 30% Lifetime Provision* *Voraussetzung ist, dass die Abos, der von dir empfohlenen Kunden, nicht widerrufen wurden. Es ist ganz einfach: Schritt 1.…
+**Vendor's marketplace description:** <div>
+<h3>Mit deinen Empfehlungen passiv und wiederkehrend Geld verdienen</h3>
+</div>
+<div>
+<p><strong>Das TraceFunnels Partnerprogramm</strong></p>
+</div>
+<div>
+<div>
+<p><span style="background-color:#99cc00;">Deine Vorteile:</span></p>
+</div>
+<div>
+<ul>
+<li>
+<div> Software as a Service Produkt</div>
+</li>
+<li>
+<div> Made in Germany</div>
+</li>
+<li>
+<div> Deutscher Support &amp; Kundenservice</div>
+</li>
+<li>
+<div> Sichere Anmeldung &amp; Zahlungsabwicklung über Digistore24.com</div>
+</li>
+<li>
+<div> <a>30% Lifetime Provision*</a></div>
+</li>
+</ul>
+<p>*Voraussetzung ist, dass die Abos, der von dir empfohlenen Kunden, nicht widerrufen wurden.</p>
+<p> </p>
+<p><strong>Es ist ganz einfach</strong>:</p>
+<p>Schritt 1. Empfehle TraceFunnels den Besuchern deiner Website, den Empfängern deiner E-Mails oder schalte Werbung. </p>
+<p>Schritt 2. Deine Besucher melden sich bei TraceFunnels an. Begeistert von TraceFunnels, werden diese zu treuen und erfolgreichen Abonnenten.</p>
+<p>Schritt 3. Erhalte 30% Lifetime-Provision auf den Account und alle Zusatzkäufe deiner Kunden, solange diese aktive Kunden sind. </p>
+<p> </p>
+<p>TraceFunnels, der fortschittlichste Link-Shortener Deutschlands. Tracke unbegrenzt viele Links, nutze deine eigene Domain, tracke die Link-Aufrufe LIVE, führe detaillierte Split-Tests durch, u.v.m.</p>
+<p><span style="background-color:#ffff99;">Zum unschlagbaren Preis!</span></p>
+<p> </p>
+</div>
+</div>
 
 ## 2. Links
 
@@ -66,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TraceFunnels - Das Funnel Tracking Tool 2021? — Typ: Member area and video courses, Anbieter: TraceFunnels, gelistet seit 2020-12-28
-- Wie viel kostet es? — 187.1402 USD
+- Wie viel kostet es? — 186.7227 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

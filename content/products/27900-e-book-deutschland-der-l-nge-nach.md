@@ -4,7 +4,7 @@ digistore24_product_id: 241445
 title: "E-Book \"Deutschland der Länge nach\""
 vendor: "einfachbewusst"
 product_type: "Remote service provided electronically"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.82
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2018-09-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.einfachbewusst.de/e-book-deutschland-der-laenge-nach/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.einfachbewusst.de/e-book-deutschland-der-laenge-nach/"
@@ -22,14 +22,14 @@ language: "de"
 # E-Book "Deutschland der Länge nach"
 
 > Product ID `27900` · Digistore24 productId `241445` · [HTML profile page](../../produkte/e-book-deutschland-der-l-nge-nach-27900.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 2,3 Millionen Schritte | 1735 km | 73 Tage | 8 kg Rucksackgewicht | 7 Bundesländer | 2 Beine | 1½ Paar Wanderschuhe | 1 Ziel Ich erzähle in diesem liebevoll gestalteten E-Book in 18 Berichten und 97 Fotos von meiner 73 Tage und 1735 km lange Wanderung vom südlichsten Punkt Deutschlands, dem Grenzstein 147 am Haldenwanger Eck in den Allgäuer Alpen, zum nördlichsten Punkt Deutschlands am Ellenbogen …
+**Vendor's marketplace description:** <h2>2,3 Millionen Schritte | 1735 km | 73 Tage | 8 kg Rucksackgewicht | 7 Bundesländer | 2 Beine | 1½ Paar Wanderschuhe | 1 Ziel</h2>
+<p>Ich erzähle in diesem liebevoll gestalteten E-Book in <strong>18 Berichten und 97 Fotos</strong> von meiner <strong>73 Tage und 1735 km lange Wanderung</strong> <strong>vom südlichsten Punkt Deutschlands</strong>, dem Grenzstein 147 am Haldenwanger Eck in den <strong>Allgäuer Alpen</strong>, <strong>zum nördlichsten Punkt Deutschlands</strong> am Ellenbogen auf <strong>Sylt</strong>.</p>
+<p><strong>Statistiken</strong>, die <strong>Route</strong> auf einer Karte, eine <strong>Packliste, </strong>die <strong>Etappenübersicht</strong> inkl. einer Bewertung jeder einzelnen Etappe und <strong>GPS-Tracks</strong> der kompletten Route gibt es obendrauf.</p>
+<p>Das E-Book "Deutschland der Länge nach – 73 Tage und 1735 km von den Allgäuer Alpen bis nach Sylt" kommt als <strong>PDF mit 99 Seiten</strong>. </p>
+<p><em>Bewerbe mein Produkt und bekomme <strong>30 % Provision</strong>.</em></p>
 
 ## 2. Links
 
@@ -93,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book "Deutschland der Länge nach"? — Typ: Remote service provided electronically, Anbieter: einfachbewusst, gelistet seit 2018-09-26
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 453210
 title: "Der Aktien Crashkurs"
 vendor: "Pharell"
 product_type: "Member area and video courses"
-price: 187.4
+price: 186.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.7
+earnings_per_sale: 93.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2022-07-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://aktiencrashkurs.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40721/adminstore/"
 sales_page: "https://aktiencrashkurs.de/"
 language: "de"
 ---
 # Der Aktien Crashkurs
 
 > Product ID `40721` · Digistore24 productId `453210` · [HTML profile page](../../produkte/der-aktien-crashkurs-40721.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.40 (Single payment, Installment) |
+| Price | $186.98 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.70 |
+| Earnings/sale* | $93.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Pharell |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DER AKTIEN CRASHKURS 50% Affiliate Provision und starke Conversion Starker Inhalt zum fairen Preis - das lässt sich gut bewerben! Der Aktien Crashkurs ist eine Börsen Komplettanleitung. ♦ 33 Module ♦ ♦ 61 Videos ♦ ♦ 6 Stunden Inhalt �� ♦ Fundamentale & charttechnische Analyse uvm. ♦
+**Vendor's marketplace description:** <h3 style="text-align:center;"><span style="background-color:#ffff00;"><strong>DER AKTIEN CRASHKURS</strong></span></h3>
+<p style="text-align:center;"><span style="color:#000000;background-color:#ff00ff;"><strong>50% Affiliate Provision und starke Conversion</strong></span></p>
+<h3 style="text-align:center;"><span style="background-color:#00ffff;">Starker Inhalt zum fairen Preis - das lässt sich gut bewerben! Der Aktien Crashkurs ist eine Börsen Komplettanleitung.</span></h3>
+<h5 style="text-align:center;"><strong>♦ 33 Module ♦</strong></h5>
+<h5 style="text-align:center;"><strong>♦ 61 Videos ♦</strong></h5>
+<h5 style="text-align:center;"><strong>♦ 6 Stunden Inhalt ♦</strong></h5>
+<h5 style="text-align:center;"><strong>♦ Fundamentale &amp; charttechnische Analyse uvm. ♦</strong></h5>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://aktiencrashkurs.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40721/adminstore/
 - Sales page: https://aktiencrashkurs.de/
 - Canonical redirect: https://www.digistore24.com/redir/453210/adminstore
 
@@ -66,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Aktien Crashkurs? — Typ: Member area and video courses, Anbieter: Pharell, gelistet seit 2022-07-28
-- Wie viel kostet es? — 187.39793799999998 USD
+- Wie viel kostet es? — 186.979863 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

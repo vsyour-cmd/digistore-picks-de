@@ -4,7 +4,7 @@ digistore24_product_id: 649618
 title: "Selbstliebe Journal – 31-seitiges Achtsamkeits-Workbook (PDF"
 vendor: "Melliscolorworld"
 product_type: "Downloads"
-price: 14.65
+price: 14.61
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 2.92
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-11-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/649618?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/649618"
@@ -22,14 +22,14 @@ language: "de"
 # Selbstliebe Journal – 31-seitiges Achtsamkeits-Workbook (PDF
 
 > Product ID `54690` · Digistore24 productId `649618` · [HTML profile page](../../produkte/selbstliebe-journal-31-seitiges-achtsamkeits-workbook-pdf-54690.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.65 (Single payment) |
+| Price | $14.61 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $2.92 |
 | Cart conversion* | — |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Selbstliebe Journal ist ein liebevoll gestaltetes 31-Seiten-Workbook im PDF-Format.Ideal für Frauen, die mehr Ruhe, Klarheit und Achtsamkeit in den Alltag bringen möchten. Perfekt für deine Zielgruppe, wenn sie sich für Spiritualität, Selbstwert, Achtsamkeit oder Persönlichkeitsentwicklung interessiert. Highlights:• 31 gestaltete Seiten zum Reflektieren und Ausfüllen• Sofort-Download als PDF• …
+**Vendor's marketplace description:** <p>Das Selbstliebe Journal ist ein liebevoll gestaltetes 31-Seiten-Workbook im PDF-Format.<br />Ideal für Frauen, die mehr Ruhe, Klarheit und Achtsamkeit in den Alltag bringen möchten.</p>
+<p>Perfekt für deine Zielgruppe, wenn sie sich für Spiritualität, Selbstwert, Achtsamkeit oder Persönlichkeitsentwicklung interessiert.</p>
+<p><strong>Highlights:</strong><br />• 31 gestaltete Seiten zum Reflektieren und Ausfüllen<br />• Sofort-Download als PDF<br />• Ideal für Social Media Traffic (TikTok, Instagram, Pinterest)<br />• Hohe Conversion durch schönes Design<br />• Perfekt als Low-Ticket Frontend für deine Funnels</p>
 
 ## 2. Links
 
@@ -71,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstliebe Journal – 31-seitiges Achtsamkeits-Workbook (PDF? — Typ: Downloads, Anbieter: Melliscolorworld, gelistet seit 2025-11-19
-- Wie viel kostet es? — 14.646242 USD
+- Wie viel kostet es? — 14.613567000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

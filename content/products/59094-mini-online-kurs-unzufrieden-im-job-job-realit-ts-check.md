@@ -4,16 +4,16 @@ digistore24_product_id: 651802
 title: "Mini Online Kurs \"Unzufrieden im Job\"- Job-Realitäts-Check"
 vendor: "HeartfulMindset"
 product_type: "Member area and video courses"
-price: 47.09
+price: 46.98
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 4.71
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Personal Development"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.heartful-mindset.de/jobrealitaetscheck-live?aff=adminstore#aff=adminstore"
 sales_page: "https://www.heartful-mindset.de/jobrealitaetscheck-live"
@@ -22,16 +22,16 @@ language: "de"
 # Mini Online Kurs "Unzufrieden im Job"- Job-Realitäts-Check
 
 > Product ID `59094` · Digistore24 productId `651802` · [HTML profile page](../../produkte/mini-online-kurs-unzufrieden-im-job-job-realit-ts-check-59094.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $47.09 (Single payment, Installment) |
+| Price | $46.98 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeartfulMindset |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Job-Realitäts-Check ist ein 6-Tage-Onlinekurs für Menschen, die spüren, dass in ihrem Job etwas nicht mehr stimmt, aber noch nicht genau wissen, woran es liegt. In täglich 20–30 Minuten geht es darum, die eigenen Werte und Stärken zu erkennen, herauszufinden, was im Job wirklich auslaugt und welche Veränderungen sinnvoll sein könnten. Mit über 50-seitigem Workbook, Reflexionen und praktischen …
+**Vendor's marketplace description:** <p>Der <strong>Job-Realitäts-Check</strong> ist ein 6-Tage-Onlinekurs für Menschen, die spüren, dass in ihrem Job etwas nicht mehr stimmt, aber noch nicht genau wissen, woran es liegt.</p>
+<p>In täglich 20–30 Minuten geht es darum, die eigenen Werte und Stärken zu erkennen, herauszufinden, was im Job wirklich auslaugt und welche Veränderungen sinnvoll sein könnten.</p>
+<p>Mit über 50-seitigem Workbook, Reflexionen und praktischen Übungen entsteht innerhalb von sechs Tagen mehr Klarheit über die eigene berufliche Situation.</p>
+<p><strong>Ideal für Communities rund um Karriere, Frauen im Beruf, Persönlichkeitsentwicklung und berufliche Veränderung.</strong></p>
+<p><strong>Als Affiliate erhältst du 40 % Provision auf jeden erfolgreichen Verkauf.</strong></p>
 
 ## 2. Links
 
@@ -73,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mini Online Kurs "Unzufrieden im Job"- Job-Realitäts-Check? — Typ: Member area and video courses, Anbieter: HeartfulMindset, gelistet seit 2026-09-10
-- Wie viel kostet es? — 47.08761200000001 USD
+- Wie viel kostet es? — 46.98256200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

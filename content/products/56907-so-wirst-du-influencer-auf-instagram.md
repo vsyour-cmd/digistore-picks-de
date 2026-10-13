@@ -4,34 +4,34 @@ digistore24_product_id: 701339
 title: "So wirst du Influencer auf Instagram"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 25.14
+price: 25.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.57
+earnings_per_sale: 12.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-instagram?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/56907/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-instagram"
 language: "de"
 ---
 # So wirst du Influencer auf Instagram
 
 > Product ID `56907` · Digistore24 productId `701339` · [HTML profile page](../../produkte/so-wirst-du-influencer-auf-instagram-56907.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.14 (Single payment) |
+| Price | $25.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.57 |
+| Earnings/sale* | $12.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Reichweite aufbauen, eine Community binden und Markendeals sicher landen Influencer zu werden ist kein Zufall – es ist Handwerk, das du lernen kannst. Dieses E-Book zeigt dir den Weg vom kleinen Account zur gefragten Creator-Marke: wie du mit Reels als Reichweiten-Motor schnell wächst, mit Karussells eine treue Community aufbaust und dich für Markenkooperationen professionell positionierst. Du ler…
+**Vendor's marketplace description:** <p><strong>Reichweite aufbauen, eine Community binden und Markendeals sicher landen</strong></p>
+<p>Influencer zu werden ist kein Zufall – es ist Handwerk, das du lernen kannst. Dieses E-Book zeigt dir den Weg vom kleinen Account zur gefragten Creator-Marke: wie du mit Reels als Reichweiten-Motor schnell wächst, mit Karussells eine treue Community aufbaust und dich für Markenkooperationen professionell positionierst. Du lernst, wie der Instagram-Algorithmus Trend-Audio und Engagement bewertet, wie du durch Karussells maximale Saves und Shares erzielst und wie du Mediadaten erstellst, die Marken überzeugen. Dazu: UGC als Einnahmequelle, Preise selbstbewusst aufrufen und Deals verhandeln, die fair bezahlt sind.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Reels-Strategie: Trend-Audio, Hooks und der Explore-Seiten-Effekt</li>
+<li>Karussells für maximale Saves, Shares und Algorithmus-Reichweite</li>
+<li>Aus Followern echte Fans und eine aktive Community machen</li>
+<li>Dein Marken-Kit: Mediadaten, die Kooperationen gewinnen</li>
+<li>UGC als Einnahmequelle nutzen – auch ohne riesige Reichweite</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-instagram?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/56907/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-instagram
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701339/adminstore
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So wirst du Influencer auf Instagram? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 25.135058 USD
+- Wie viel kostet es? — 25.078983 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

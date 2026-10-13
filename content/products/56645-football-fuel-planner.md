@@ -4,34 +4,34 @@ digistore24_product_id: 689269
 title: "Football Fuel Planner"
 vendor: "JMFussballathletik"
 product_type: "Software"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.19
+earnings_per_sale: 8.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://footballfuelplanner.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56645/adminstore/"
 sales_page: "https://footballfuelplanner.com"
 language: "de"
 ---
 # Football Fuel Planner
 
 > Product ID `56645` · Digistore24 productId `689269` · [HTML profile page](../../produkte/football-fuel-planner-56645.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.19 |
+| Earnings/sale* | $8.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JMFussballathletik |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Football Fuel Planner liefert dir genau die Ernährung, die du als Fußballer wirklich brauchst, abgestimmt auf Training, Spieltag und Regeneration. Statt komplizierter Pläne bekommst du klare, umsetzbare Empfehlungen für maximale Leistung auf dem Platz. Individuelle Tagespläne passend zu Training oder Spiel, Konkrete Mahlzeiten-Empfehlungen statt theoretischer Vorgaben. Spezieller Spieltag-Modu…
+**Vendor's marketplace description:** <p>Der Football Fuel Planner liefert dir genau die Ernährung, die du als Fußballer wirklich brauchst, abgestimmt auf Training, Spieltag und Regeneration. Statt komplizierter Pläne bekommst du klare, umsetzbare Empfehlungen für maximale Leistung auf dem Platz. Individuelle Tagespläne passend zu Training oder Spiel, Konkrete Mahlzeiten-Empfehlungen statt theoretischer Vorgaben. Spezieller Spieltag-Modus für optimale Performance. Einfach umsetzbar ohne Kalorientracking oder Technik-Zwang. Entwickelt für Amateur- und ambitionierte Fußballer.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://footballfuelplanner.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56645/adminstore/
 - Sales page: https://footballfuelplanner.com
 - Canonical redirect: https://www.digistore24.com/redir/689269/adminstore
 
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Football Fuel Planner? — Typ: Software, Anbieter: JMFussballathletik, gelistet seit 2026-05-22
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

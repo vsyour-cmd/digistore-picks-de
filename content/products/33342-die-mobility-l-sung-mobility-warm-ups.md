@@ -4,16 +4,16 @@ digistore24_product_id: 253064
 title: "Die Mobility-Lösung (Mobility Warm-ups)"
 vendor: "Sukopp"
 product_type: "Downloads"
-price: 72.51
+price: 72.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.26
+earnings_per_sale: 36.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-12-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/253064?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/253064"
@@ -22,16 +22,16 @@ language: "de"
 # Die Mobility-Lösung (Mobility Warm-ups)
 
 > Product ID `33342` · Digistore24 productId `253064` · [HTML profile page](../../produkte/die-mobility-l-sung-mobility-warm-ups-33342.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $72.51 (Single payment, Installment) |
+| Price | $72.35 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.26 |
+| Earnings/sale* | $36.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Sukopp |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Im Fitnessbereich ist die Nachfrage nach kurzen Trainings, die die Beweglichkeit verbessern, in den letzten Jahren deutlich gestiegen. In Mobility Warm-ups werden neben einer Einführung ins Beweglichkeitstraining 52 Programme vorgestellt, die in der Durchführung jeweils nur 10 bis 15 Minuten dauern (fast 3 Stunden an Videomaterial). Diese Programme wurden jahrelang als Aufwärmprogramme bei unseren…
+**Vendor's marketplace description:** <p>Im Fitnessbereich ist die Nachfrage nach kurzen Trainings, die die Beweglichkeit verbessern, in den letzten Jahren deutlich gestiegen.</p>
+<p>In Mobility Warm-ups werden neben einer Einführung ins Beweglichkeitstraining 52 Programme vorgestellt, die in der Durchführung jeweils nur 10 bis 15 Minuten dauern (fast 3 Stunden an Videomaterial).</p>
+<p>Diese Programme wurden jahrelang als Aufwärmprogramme bei unseren funktionellen Trainings erfolgreich eingesetzt, können aber auch als kleine Bewegungseinheit im Tagesverlauf durchgeführt werden.</p>
+<p>Alle Übungen werden mit verlinkten Erklärvideos in verschiedenen Schwierigkeitsgraden gezeigt.</p>
+<p>Das Produkt wird mit einem Webinar beworben und durch zwei Upsell-Angebote ergänzt:</p>
+<ul><li>ein Videokurs, in dem man lernt wie sich die Gesundheit, Konzentration und Produktivität im Büro schnell und spürbar steigern lassen (u. a. durch die Einrichtung eines dynamischen Arbeitsplatzes)</li>
+<li>Ein Videozusammenschnitt eines Mobility-Seminares, das wir für Freizeitsportler, Trainer und Therapeuten angeboten haben.</li>
+</ul>
 
 ## 2. Links
 
@@ -83,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Mobility-Lösung (Mobility Warm-ups)? — Typ: Downloads, Anbieter: Sukopp, gelistet seit 2018-12-18
-- Wie viel kostet es? — 72.514026 USD
+- Wie viel kostet es? — 72.352251 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

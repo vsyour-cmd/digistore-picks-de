@@ -4,34 +4,34 @@ digistore24_product_id: 106293
 title: "Bildbearbeitung Landschaftsfotografie mit Adobe Photoshop"
 vendor: "MatthiasHaltenhof"
 product_type: "Downloads"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.68
+earnings_per_sale: 45.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2016-11-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.matthiashaltenhof.de/videokurse/bildbearbeitung-landschaftsfotografie-adobe-photoshop/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/29375/adminstore/"
 sales_page: "https://www.matthiashaltenhof.de/videokurse/bildbearbeitung-landschaftsfotografie-adobe-photoshop/"
 language: "de"
 ---
 # Bildbearbeitung Landschaftsfotografie mit Adobe Photoshop
 
 > Product ID `29375` · Digistore24 productId `106293` · [HTML profile page](../../produkte/bildbearbeitung-landschaftsfotografie-mit-adobe-photoshop-29375.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.68 |
+| Earnings/sale* | $45.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MatthiasHaltenhof |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für meinen Videokurs über Bildbearbeitung für Landschaftsfotografie mit Adobe Photoshop und verdiene 50 % Provision pro Verkauf! Deine Vorteile: 50 % Provision pro Verkauf Zahlreiche zufriedene Käufer - gute Reputation für dich Niedrige Stornoquote Zum Bewerben des Produktes kannst du praktisch alle Materialien nutzen, die du auf der Verkaufsseite des Produktes findest. Wenn du noc…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für meinen Videokurs über Bildbearbeitung für Landschaftsfotografie mit Adobe Photoshop und verdiene 50 % Provision pro Verkauf!</strong></p>
+<p>Deine Vorteile:</p>
+<ul><li>50 % Provision pro Verkauf</li>
+<li>Zahlreiche zufriedene Käufer - gute Reputation für dich</li>
+<li>Niedrige Stornoquote</li>
+</ul><p>Zum Bewerben des Produktes kannst du praktisch alle Materialien nutzen, die du auf der Verkaufsseite des Produktes findest. Wenn du noch mehr Infos oder Grafiken brauchst, schreib mir einfach!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.matthiashaltenhof.de/videokurse/bildbearbeitung-landschaftsfotografie-adobe-photoshop/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/29375/adminstore/
 - Sales page: https://www.matthiashaltenhof.de/videokurse/bildbearbeitung-landschaftsfotografie-adobe-photoshop/
 - Canonical redirect: https://www.digistore24.com/redir/106293/adminstore
 
@@ -88,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bildbearbeitung Landschaftsfotografie mit Adobe Photoshop? — Typ: Downloads, Anbieter: MatthiasHaltenhof, gelistet seit 2016-11-26
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

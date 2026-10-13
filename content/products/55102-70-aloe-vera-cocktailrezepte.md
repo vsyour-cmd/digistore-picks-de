@@ -4,16 +4,16 @@ digistore24_product_id: 330482
 title: "70 Aloe Vera Cocktailrezepte"
 vendor: "chef63"
 product_type: "E-books"
-price: 5.13
+price: 5.12
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 3.08
+earnings_per_sale: 3.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-06-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://trafficstrategien.funnelcockpit.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://trafficstrategien.funnelcockpit.com/"
@@ -22,16 +22,16 @@ language: "de"
 # 70 Aloe Vera Cocktailrezepte
 
 > Product ID `55102` · Digistore24 productId `330482` · [HTML profile page](../../produkte/70-aloe-vera-cocktailrezepte-55102.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.13 (Single payment) |
+| Price | $5.12 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $3.08 |
+| Earnings/sale* | $3.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | chef63 |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Aloe Vera- Gesundheit aus der Natur ! 70 verschiedene Rezepte für Aloe-Vera Cocktails und Drinks! Das wirst du in diesem E-Book erfahren: > Du findest 70 verschiedene Rezepte um deine Aloe-Vera Cocktails zu mixen ! > Für jeden Cocktail sind die genauen Mengenangaben der Zutaten angeführt! > Du findest Empfehlungen für das dekorieren der Getränke! > Die Cocktails sind einfach und leicht zuzubereite…
+**Vendor's marketplace description:** <p><span style="color:#003300;"><strong>Aloe Vera- Gesundheit aus der Natur !</strong></span></p>
+<h2><span style="background-color:#99cc00;"><strong>70 verschiedene Rezepte für Aloe-Vera Cocktails und Drinks!</strong></span></h2>
+<p><span style="text-decoration:underline;"><strong>Das wirst du in diesem E-Book erfahren:</strong></span></p>
+<p><strong>&gt; Du findest 70 verschiedene Rezepte um deine Aloe-Vera Cocktails zu mixen !</strong></p>
+<p>&gt; <strong>Für jeden Cocktail sind die genauen Mengenangaben der Zutaten angeführt!</strong></p>
+<p>&gt; <strong>Du findest Empfehlungen für das dekorieren der Getränke!</strong></p>
+<p>&gt; <strong>Die Cocktails sind einfach und leicht zuzubereiten !</strong></p>
+<p>&gt; <strong>Du bekommst viele weitere allgemeine Informationen über die Aloe Vera !</strong></p>
+<p><span style="color:#008000;"><strong>NEUAUFLAGE 2026 !</strong></span></p>
+<p><span style="text-decoration:underline;"><span style="color:#008000;"><strong>Jetzt um € 4,50 Euro bestellen !</strong></span></span></p>
 
 ## 2. Links
 
@@ -58,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 70 Aloe Vera Cocktailrezepte? — Typ: E-books, Anbieter: chef63, gelistet seit 2020-06-07
-- Wie viel kostet es? — 5.132348 USD
+- Wie viel kostet es? — 5.120898 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

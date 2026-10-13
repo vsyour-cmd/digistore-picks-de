@@ -4,34 +4,34 @@ digistore24_product_id: 314566
 title: "DAS Kaninchen & Hasen-E-Book - Ideal für Haustierseiten"
 vendor: "opticlix"
 product_type: "E-books"
-price: 18.75
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.38
+earnings_per_sale: 9.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-03-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://kaninchenstallwelt.de/kaninchen-e-book/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/32305/adminstore/"
 sales_page: "https://kaninchenstallwelt.de/kaninchen-e-book/"
 language: "de"
 ---
 # DAS Kaninchen & Hasen-E-Book - Ideal für Haustierseiten
 
 > Product ID `32305` · Digistore24 productId `314566` · [HTML profile page](../../produkte/das-kaninchen-hasen-e-book-ideal-f-r-haustierseiten-32305.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.75 (Single payment) |
+| Price | $18.71 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.38 |
+| Earnings/sale* | $9.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | opticlix |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Bestseller #1 in der Nische "Kaninchen und Kaninchenstall" In der inzwischen 2. Auflage haben wir unser offizielles Kaninchen-E-Book komplett überarbeitet und nochmal verbessert. Unsere drei Boni sind ein echter Conversion-Booster und hebeln den Mehrwert des Produktes nochmal deutlich. Äußerst geringe Stornoquote Hohe Cart-Conversion Weitere Upsells bereits in Planung Du hast eine große Reichw…
+**Vendor's marketplace description:** <p><strong><span style="background-color:#99cc00;">Der Bestseller #1 in der Nische "Kaninchen und Kaninchenstall"</span></strong></p>
+<p>In der inzwischen <strong>2. Auflage</strong> haben wir unser offizielles Kaninchen-E-Book komplett überarbeitet und nochmal verbessert. </p>
+<p>Unsere drei Boni sind <strong>ein echter Conversion-Booster</strong> und hebeln den Mehrwert des Produktes nochmal deutlich. </p>
+<ul><li>Äußerst geringe Stornoquote</li>
+<li>Hohe Cart-Conversion</li>
+<li>Weitere Upsells bereits in Planung</li>
+</ul><p>Du hast eine große Reichweite oder Liste? Du betreibst eine Website zum Thema Kleintiere, Haustiere, Kaninchen oder Hasen - und du willst eine (weitere) passive Einkommensquelle erschließen?</p>
+<p>Dann werde jetzt Affiliate <strong>beim offiziellen Kaninchen-E-Book inkl. Checklisten und Planer</strong>.</p>
+<p>Ideal für alle Kaninchenhalter, die eine artgerechte Tierhaltung verfolgen möchten. <br /><br />Beste Grüße</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kaninchenstallwelt.de/kaninchen-e-book/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/32305/adminstore/
 - Sales page: https://kaninchenstallwelt.de/kaninchen-e-book/
 - Canonical redirect: https://www.digistore24.com/redir/314566/adminstore
 
@@ -77,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DAS Kaninchen & Hasen-E-Book - Ideal für Haustierseiten? — Typ: E-books, Anbieter: opticlix, gelistet seit 2020-03-21
-- Wie viel kostet es? — 18.747638000000002 USD
+- Wie viel kostet es? — 18.705813000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

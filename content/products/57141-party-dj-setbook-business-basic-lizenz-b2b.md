@@ -4,34 +4,34 @@ digistore24_product_id: 653376
 title: "Party DJ Setbook - Business BASIC-Lizenz (B2B)"
 vendor: "djnicogoetze"
 product_type: "Downloads"
-price: 559.18
+price: 557.93
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 167.75
+earnings_per_sale: 167.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2026-06-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.dj-setbook.com/lizenzmodelle?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57141/adminstore/"
 sales_page: "https://www.dj-setbook.com/lizenzmodelle"
 language: "de"
 ---
 # Party DJ Setbook - Business BASIC-Lizenz (B2B)
 
 > Product ID `57141` · Digistore24 productId `653376` · [HTML profile page](../../produkte/party-dj-setbook-business-basic-lizenz-b2b-57141.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $559.18 (Single payment) |
+| Price | $557.93 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $167.75 |
+| Earnings/sale* | $167.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | djnicogoetze |
@@ -41,11 +41,72 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Party DJ Setbook Business BASIC-Lizenz (B2B) richtet sich an Unternehmen, DJ-Agenturen, Veranstalter, Hotels, Clubs, Verleiher und Organisationen, die ihren DJs einen einheitlichen Qualitätsstandard für professionelle DJ-Sets zur Verfügung stellen möchten. Die Business BASIC-Lizenz ermöglicht die gleichzeitige Nutzung durch bis zu 3 aktive Nutzer (Seats) innerhalb eines Unternehmens. Das Party…
+**Vendor's marketplace description:** <p>Die <strong>Party DJ Setbook Business BASIC-Lizenz (B2B)</strong> richtet sich an <strong>Unternehmen, DJ-Agenturen, Veranstalter, Hotels, Clubs, Verleiher und Organisationen</strong>, die ihren DJs einen einheitlichen Qualitätsstandard für professionelle DJ-Sets zur Verfügung stellen möchten.</p>
+<p>Die <strong>Business BASIC-Lizenz</strong> ermöglicht die gleichzeitige Nutzung durch <strong>bis zu 3 aktive Nutzer (Seats)</strong> innerhalb eines Unternehmens.</p>
+<p>Das Party DJ Setbook ist <strong>keine Playlist</strong>, <strong>keine DJ-Software</strong> und <strong>kein Autopilot</strong>.</p>
+<p>Es ist ein <strong>DJ-Navigationssystem</strong>, das bewährte Entscheidungswege statt einzelner Songvorschläge zeigt. Anstatt ständig zu überlegen <em>„Was spielen wir als Nächstes?“</em>, arbeiten alle eingesetzten DJs mit derselben klaren Struktur und einem gemeinsamen Qualitätsstandard.</p>
+<h2> </h2>
+<h2><strong>Das Alleinstellungsmerkmal</strong></h2>
+<p>Im Gegensatz zu zahlreichen Songlisten und Playlist-Sammlungen, die lediglich Musiktitel auflisten, basiert das Party DJ Setbook auf einem durchgängigen Navigationssystem aus:</p>
+<ul>
+<li>bewährten 3er- und 5er-Setstrukturen</li>
+<li>einer strukturierten BPM-Navigation für stimmige Energieverläufe</li>
+<li>einer Camelot-Key-Struktur für harmonische Übergänge</li>
+</ul>
+<p>Dadurch entstehen nicht nur Songlisten, sondern nachvollziehbare Entscheidungswege, mit denen DJs schneller passende und professionell aufgebaute DJ-Sets zusammenstellen können.</p>
+<h2> </h2>
+<h2><strong>Enthalten sind</strong></h2>
+<ul>
+<li>605 praxiserprobte DJ-Sets</li>
+<li>über 2.400 Partyhits aus 70 Jahren Musikgeschichte</li>
+<li>5 Hauptgenres (Pop, Rock, EDM, Urban, German)</li>
+<li>über 40 Subgenres</li>
+<li>bewährte 3er- und 5er-Setstrukturen</li>
+<li>BPM- und Camelot-Key-Navigation</li>
+<li>digitales PDF</li>
+<li>Sofort-Download</li>
+<li>Business BASIC-Lizenz für bis zu 3 aktive Nutzer (Seats)</li>
+<li>personalisierte Unternehmenslizenz</li>
+</ul>
+<h2> </h2>
+<h2><strong>Wichtiger Hinweis</strong></h2>
+<p>Das Party DJ Setbook enthält keine Audiodateien, keine Musikdownloads, keine MP3-Dateien, keine Streaming-Playlists und keinen Zugriff auf Musikstreaming-Dienste.</p>
+<p>Es handelt sich ausschließlich um ein strukturiertes DJ-Navigationssystem mit Songtiteln, BPM-, Camelot-Key- und Setstrukturen. Die aufgeführten Musiktitel müssen vom Lizenznehmer bzw. den eingesetzten DJs eigenständig und rechtmäßig erworben oder bereits in der eigenen Musikbibliothek vorhanden sein.</p>
+<h2> </h2>
+<h2><strong>Lizenzmodell</strong></h2>
+<ul>
+<li>Business BASIC-Lizenz für bis zu 3 aktive Nutzer (Seats)</li>
+<li>Personalisierte Unternehmenslizenz</li>
+<li>Laufzeit: 1 Jahr ab Kaufdatum</li>
+<li>Keine automatische Vertragsverlängerung</li>
+<li>Nach Ablauf der Lizenzlaufzeit endet das Nutzungsrecht automatisch.</li>
+<li>Für die weitere Nutzung ist der Erwerb einer neuen Jahreslizenz erforderlich.</li>
+<li>Keine automatischen Abbuchungen</li>
+<li>Keine versteckten Folgekosten</li>
+</ul>
+<h2> </h2>
+<h2><strong>Geeignet für</strong></h2>
+<ul>
+<li>DJ-Agenturen</li>
+<li>Veranstaltungsunternehmen</li>
+<li>Eventagenturen</li>
+<li>Hotels</li>
+<li>Clubs &amp; Diskotheken</li>
+<li>Verleiher</li>
+<li>Kreuzfahrtreedereien</li>
+<li>Freizeitparks</li>
+<li>Unternehmen mit bis zu 3 gleichzeitig aktiven DJs</li>
+</ul>
+<h2> </h2>
+<h2><strong>Nicht geeignet für</strong></h2>
+<p>Diese Lizenz ist ausschließlich für Unternehmen mit bis zu 3 aktiven Nutzern (Seats) vorgesehen. Unternehmen mit größerem DJ-Team sollten die Business PRO-Lizenz (bis zu 8 aktive Nutzer) oder die Business ENTERPRISE-Lizenz (ab 9 aktiven Nutzern) wählen.</p>
+<h2> </h2>
+<h2><strong>Hinweis für Affiliates</strong></h2>
+<p>Die Business BASIC-Lizenz ist bewusst <strong>nicht als automatisch verlängerndes Abonnement</strong> konzipiert. Nach Ablauf der einjährigen Lizenzlaufzeit endet das Nutzungsrecht automatisch. Möchte der Lizenzinhaber das Party DJ Setbook weiterhin nutzen, ist der Erwerb einer neuen Jahreslizenz erforderlich. Dadurch entstehen keine ungewollten Vertragsverlängerungen oder automatischen Abbuchungen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.dj-setbook.com/lizenzmodelle?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57141/adminstore/
 - Sales page: https://www.dj-setbook.com/lizenzmodelle
 - Vendor affiliate support: https://www.dropbox.com/scl/fo/h3f3h91ytirtzelj38xo6/AFxvV7BbchloOLOoYDm3pcQ?rlkey=xgjn86xx4tovx800izhr6uby6&st=s33ntleq&dl=0
 - Canonical redirect: https://www.digistore24.com/redir/653376/adminstore
@@ -88,7 +149,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Party DJ Setbook - Business BASIC-Lizenz (B2B)? — Typ: Downloads, Anbieter: djnicogoetze, gelistet seit 2026-06-26
-- Wie viel kostet es? — 559.1794 USD
+- Wie viel kostet es? — 557.9319 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

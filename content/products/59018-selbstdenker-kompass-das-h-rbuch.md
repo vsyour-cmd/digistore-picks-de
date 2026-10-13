@@ -4,16 +4,16 @@ digistore24_product_id: 728238
 title: "Selbstdenker-Kompass — Das Hörbuch"
 vendor: "Klartextkompass"
 product_type: "Audio book (download)"
-price: 39.27
+price: 39.18
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.78
+earnings_per_sale: 11.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Education","Personal Development"]
 listed_since: "2026-09-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.klartext-kompass.de/hoerbuch/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.klartext-kompass.de/hoerbuch/"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstdenker-Kompass — Das Hörbuch
 
 > Product ID `59018` · Digistore24 productId `728238` · [HTML profile page](../../produkte/selbstdenker-kompass-das-h-rbuch-59018.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $39.27 (Single payment, Installment) |
+| Price | $39.18 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.78 |
+| Earnings/sale* | $11.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Klartextkompass |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das bietet dir der Selbstdenker-Kompass für Partner: ✓ Sehr hohe Verkaufs-Rate ✓ 30% Provision auf deine Verkäufe ✓ 7 % auf jeden Verkauf deiner Partner, die du für das Programm einlädst ✓ Lifetime Provision (Aftersales): 15% ✓ Geringe Rückgabe-Quote (<2%)✓ Fertige Marketingmaterialien und Beiträge zum sofortigen Einsatz ✓ Persönliche Unterstützung beim Vertrieb durch das Klartextkompass-Team ✓ La…
+**Vendor's marketplace description:** <p>Das bietet dir der Selbstdenker-Kompass für Partner:</p>
+<p>✓ Sehr hohe Verkaufs-Rate  <br />✓ 30% Provision auf deine Verkäufe <br />✓ 7 % auf jeden Verkauf deiner Partner, die du für das Programm einlädst <br />✓ Lifetime Provision (Aftersales): 15% <br />✓ Geringe Rückgabe-Quote (&lt;2%)<br />✓ Fertige Marketingmaterialien und Beiträge zum sofortigen Einsatz <br />✓ Persönliche Unterstützung beim Vertrieb durch das Klartextkompass-Team <br />✓ Laufendes E-Mail-Marketing, das die Wiederkaufsquote und damit deine Lifetime-Provision zusätzlich steigert <br />✓ Langfristige Partnerschaft mit weiteren Projekten aus dem Klartextkompass-Portfolio in Planung <br />✓ Positive Resonanz mit zahlreichen dankbaren Kundenstimmen</p>
+<h2>Das Problem und die Lösung</h2>
+<p>Der Vater hält an einer Ernährung fest, die ihn krank macht. Die Mutter nimmt eine Diagnose hin, ohne sie zu hinterfragen. Beim Partner endet jedes ernsthafte Gespräch vor dem Fernseher, und ein alter Freund macht sich inzwischen lustig, sobald ein unbequemes Thema aufkommt.</p>
+<p>Wer das kennt, hat meist schon alles versucht: gute Argumente, gute Quellen, Geduld. Und ist trotzdem immer wieder an derselben Wand gescheitert, weil Argumente in solchen Gesprächen selten das eigentliche Problem lösen.</p>
+<p>Der Selbstdenker-Kompass setzt genau dort an. Er zeigt, warum diese Gespräche scheitern, und gibt Lesern wissenschaftlich belegte Methoden an die Hand, mit denen sie Menschen wieder erreichen, ohne die Beziehung aufs Spiel zu setzen.</p>
+<h2>Für wen der Ratgeber passt</h2>
+<p>Das Problem ist nicht auf eine einzelne Nische beschränkt, deshalb funktioniert der Ratgeber für ein breites Partnerspektrum. Besonders gut passt er zu Kanälen und Partnern aus der Persönlichkeitsentwicklung, der Achtsamkeit und dem Beziehungscoaching, dem Kommunikationstraining und der Familienberatung sowie dem aufklärungsnahen und systemkritischen Bereich.</p>
+<p>Die Rückgabequote liegt bei circa 3% und damit deutlich unter dem Branchendurchschnitt digitaler Ratgeber.</p>
+<p>Erste eigene Testbeiträge zeigen die Resonanz in der Praxis bereits:</p>
+<ul>
+<li><a href="https://t.me/FreiheitDerGedanken/21959">https://t.me/FreiheitDerGedanken/21722</a></li>
+<li><a href="https://t.me/FreiheitDerGedanken/21994">https://t.me/FreiheitDerGedanken/21745</a> </li>
+<li><a href="https://t.me/FreiheitDerGedanken/21911">https://t.me/FreiheitDerGedanken/21698</a></li>
+</ul>
 
 ## 2. Links
 
@@ -86,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstdenker-Kompass — Das Hörbuch? — Typ: Audio book (download), Anbieter: Klartextkompass, gelistet seit 2026-09-08
-- Wie viel kostet es? — 39.265824 USD
+- Wie viel kostet es? — 39.178224 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

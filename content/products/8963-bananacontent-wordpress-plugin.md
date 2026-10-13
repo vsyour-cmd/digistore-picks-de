@@ -4,16 +4,16 @@ digistore24_product_id: 58717
 title: "bananacontent WordPress Plugin"
 vendor: "JonasB"
 product_type: "Downloads"
-price: 322.73
+price: 322.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 96.82
+earnings_per_sale: 96.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2015-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://bananacontent.de?aff=adminstore#aff=adminstore"
 sales_page: "https://bananacontent.de"
@@ -22,16 +22,16 @@ language: "de"
 # bananacontent WordPress Plugin
 
 > Product ID `8963` · Digistore24 productId `58717` · [HTML profile page](../../produkte/bananacontent-wordpress-plugin-8963.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $322.73 (Subscription) |
+| Price | $322.01 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $96.82 |
+| Earnings/sale* | $96.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JonasB |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das WordPress SEO Plugin für Content Marketer. Als Affiliate bekommst du satte 30% Lifetime Provision.
+**Vendor's marketplace description:** <p>Das WordPress SEO Plugin für Content Marketer. Als Affiliate bekommst du satte 30% Lifetime Provision.</p>
 
 ## 2. Links
 
@@ -100,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist bananacontent WordPress Plugin? — Typ: Downloads, Anbieter: JonasB, gelistet seit 2015-09-13
-- Wie viel kostet es? — 322.7328 USD
+- Wie viel kostet es? — 322.0128 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

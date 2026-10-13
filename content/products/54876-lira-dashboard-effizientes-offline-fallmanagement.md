@@ -4,16 +4,16 @@ digistore24_product_id: 653546
 title: "LiRa Dashboard – Effizientes Offline-Fallmanagement"
 vendor: "LiraDigiPro"
 product_type: "Software"
-price: 75.34
+price: 75.17
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 26.37
+earnings_per_sale: 26.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Software"]
 listed_since: "2025-12-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/653546?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/653546"
@@ -22,16 +22,16 @@ language: "de"
 # LiRa Dashboard – Effizientes Offline-Fallmanagement
 
 > Product ID `54876` · Digistore24 productId `653546` · [HTML profile page](../../produkte/lira-dashboard-effizientes-offline-fallmanagement-54876.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $75.34 (Single payment) |
+| Price | $75.17 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $26.37 |
+| Earnings/sale* | $26.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LiraDigiPro |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** LiRa Dashboard – Offline Fall-Management & Echtzeit-Analysen Das LiRa Dashboard ist ein leistungsstarkes, vollständig offline-fähiges Fall-Management-System für schnelle, sichere und übersichtliche Vorgangsbearbeitung. Ideal für Verwaltungen, Dienstleister und Teams, die effizient und datenschutzkonform arbeiten möchten. 100% lokal & datensicher: Keine Cloud, keine Server, keine externen Daten. Sm…
+**Vendor's marketplace description:** <p><strong>LiRa Dashboard – Offline Fall-Management &amp; Echtzeit-Analysen</strong></p>
+<p>Das LiRa Dashboard ist ein leistungsstarkes, vollständig offline-fähiges Fall-Management-System für schnelle, sichere und übersichtliche Vorgangsbearbeitung. Ideal für Verwaltungen, Dienstleister und Teams, die effizient und datenschutzkonform arbeiten möchten.</p>
+<ul>
+<li><strong>100% lokal &amp; datensicher:</strong> Keine Cloud, keine Server, keine externen Daten.</li>
+<li><strong>Smartes Fall-Management:</strong> Akten anlegen, bearbeiten, filtern &amp; priorisieren.</li>
+<li><strong>Echtzeit-Analysen:</strong> KPI-Karten &amp; Diagramme für optimale Übersicht.</li>
+<li><strong>Produktivitäts-Tools:</strong> To-Do-Liste, Textbausteine &amp; Quick-Links integriert.</li>
+<li><strong>Auto-Backup:</strong> Lokale Sicherungen &amp; JSON-Export/Import.</li>
+</ul>
+<p>Einfach starten: ZIP entpacken, Datei öffnen – sofort einsatzbereit, auch ohne Internet.</p>
 
 ## 2. Links
 
@@ -92,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LiRa Dashboard – Effizientes Offline-Fallmanagement? — Typ: Software, Anbieter: LiraDigiPro, gelistet seit 2025-12-06
-- Wie viel kostet es? — 75.33793800000001 USD
+- Wie viel kostet es? — 75.169863 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

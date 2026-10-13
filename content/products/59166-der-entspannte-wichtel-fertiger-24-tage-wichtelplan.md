@@ -4,16 +4,16 @@ digistore24_product_id: 723183
 title: "Der entspannte Wichtel – fertiger 24-Tage-Wichtelplan"
 vendor: "Anha13"
 product_type: "E-books"
-price: 13.51
+price: 13.48
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 5.4
+earnings_per_sale: 5.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ahliving.de/weihnachtswichtel-streiche-wichteltuer-wichtelstreiche/?aff=adminstore#aff=adminstore"
 sales_page: "https://ahliving.de/weihnachtswichtel-streiche-wichteltuer-wichtelstreiche/"
@@ -22,16 +22,16 @@ language: "de"
 # Der entspannte Wichtel – fertiger 24-Tage-Wichtelplan
 
 > Product ID `59166` · Digistore24 productId `723183` · [HTML profile page](../../produkte/der-entspannte-wichtel-fertiger-24-tage-wichtelplan-59166.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.51 (Single payment) |
+| Price | $13.48 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $5.40 |
+| Earnings/sale* | $5.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Anha13 |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für wen: Familien mit Kindern, die eine Wichteltür haben oder sich eine wünschen – und im Dezember nicht jeden Abend um halb zwölf eine neue Idee aus dem Hut zaubern wollen. Was drin ist: Ein fertiger 24-Tage-Wichtelplan als PDF mit 24 Streichen samt Aufbauzeit, Materialangabe und Aufräum-Ampel, zu jedem Tag eine schnelle Ausweich-Idee, Einkaufsliste, 15 fertige Wichtelbriefe zum Ausdrucken, 27 St…
+**Vendor's marketplace description:** <p><strong>Für wen:</strong> Familien mit Kindern, die eine Wichteltür haben oder sich eine wünschen – und im Dezember nicht jeden Abend um halb zwölf eine neue Idee aus dem Hut zaubern wollen.</p>
+<p><strong>Was drin ist:</strong> Ein fertiger 24-Tage-Wichtelplan als PDF mit 24 Streichen samt Aufbauzeit, Materialangabe und Aufräum-Ampel, zu jedem Tag eine schnelle Ausweich-Idee, Einkaufsliste, 15 fertige Wichtelbriefe zum Ausdrucken, 27 Streich- und 9 Notfall-Karten, 12 Türschilder, Fußspuren, Umzugskarton, Wichtel-Spielbrett – und eine Rettungs-Seite für den Morgen, an dem man es vergessen hat. Sofort nach dem Kauf per Mail, jedes Jahr wieder nutzbar.</p>
+<p><strong>Provision:</strong> 40 %</p>
+<p><strong>Warum es sich verkauft:</strong> Die Wichteltür ist in den letzten Jahren zum Massenphänomen geworden, und der Druck, 24 Tage durchzuhalten, ist das Problem, über das alle Eltern klagen. Das Produkt löst genau das – und es löst es sofort.</p>
+<p><strong>Saison:</strong> Die Suche startet Anfang Oktober und gipfelt Anfang bis Mitte November, weil alle vor dem 1. Dezember fertig sein wollen. Bewerbung ab Oktober einplanen.</p>
+<p><strong>Passende Kanäle:</strong> Eltern- und Familienblogs, Accounts rund um Wichteltür, Advent, Basteln mit Kindern, Pinterest.</p>
 
 ## 2. Links
 
@@ -88,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der entspannte Wichtel – fertiger 24-Tage-Wichtelplan? — Typ: E-books, Anbieter: Anha13, gelistet seit 2026-09-13
-- Wie viel kostet es? — 13.514436000000002 USD
+- Wie viel kostet es? — 13.484286 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

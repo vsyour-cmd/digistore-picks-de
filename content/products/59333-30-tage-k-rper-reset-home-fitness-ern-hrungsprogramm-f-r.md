@@ -4,34 +4,34 @@ digistore24_product_id: 734087
 title: "30 Tage Körper Reset – Home-Fitness/Ernährungsprogramm für"
 vendor: "ersanfidan6767c470"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.43
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Personal Development"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://koerperleveltwo.netlify.app?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59333/adminstore/"
 sales_page: "https://koerperleveltwo.netlify.app"
 language: "de"
 ---
 # 30 Tage Körper Reset – Home-Fitness/Ernährungsprogramm für
 
 > Product ID `59333` · Digistore24 productId `734087` · [HTML profile page](../../produkte/30-tage-k-rper-reset-home-fitness-ern-hrungsprogramm-f-r-59333.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.43 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ersanfidan6767c470 |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 30 Tage Körper Reset ist ein digitales 30-Tage-Fitnessprogramm für Anfänger und Wiedereinsteiger, die zuhause trainieren und eine klare Routine für Bewegung und Ernährung aufbauen möchten. Der Funnel besteht aus einem Hauptprodukt für 39 €, einem passenden High-Protein-Rezeptpaket als Order Bump sowie dem Folgeprogramm „Körper Reset Level 2 – Tag 31 bis 90“ als Upsell. Das Angebot eignet sich beso…
+**Vendor's marketplace description:** <p><code>30 Tage Körper Reset ist ein digitales 30-Tage-Fitnessprogramm für Anfänger und Wiedereinsteiger, die zuhause trainieren und eine klare Routine für Bewegung und Ernährung aufbauen möchten.</code></p>
+<p><code>Der Funnel besteht aus einem Hauptprodukt für 39 €, einem passenden High-Protein-Rezeptpaket als Order Bump sowie dem Folgeprogramm „Körper Reset Level 2 – Tag 31 bis 90“ als Upsell.</code></p>
+<p><code>Das Angebot eignet sich besonders für Affiliates aus den Bereichen Fitness, Gesundheit, Ernährung, Home-Workout und Lifestyle. Verkaufsseite, Bestellprozess und digitale Produktauslieferung sind vollständig eingerichtet.</code></p>
+<p><code>Affiliate-Vorteile: digitales Produkt, klar definierte Zielgruppe, komplette Verkaufsseite, zusätzlicher Order Bump und Upsell sowie attraktive Provisionen.</code></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://koerperleveltwo.netlify.app?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59333/adminstore/
 - Sales page: https://koerperleveltwo.netlify.app
 - Vendor affiliate support: http://supportkoerperreset.netlify.app
 - Canonical redirect: https://www.digistore24.com/redir/734087/adminstore
@@ -84,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 Tage Körper Reset – Home-Fitness/Ernährungsprogramm für? — Typ: E-books, Anbieter: ersanfidan6767c470, gelistet seit 2026-09-17
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

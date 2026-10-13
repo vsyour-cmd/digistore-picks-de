@@ -7,22 +7,22 @@ product_type: "Member area and video courses"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.8
+earnings_per_sale: 6.79
 cart_conversion_pct: 65
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Profession & Job"]
 listed_since: "2026-02-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.meinneuerlifestyle.vip/dein-power-mindset-fr/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55643/adminstore/"
 sales_page: "https://www.meinneuerlifestyle.vip/dein-power-mindset-fr/"
 language: "de"
 ---
 # Power Mindset - Programmiere Dich auf Erfolg
 
 > Product ID `55643` · Digistore24 productId `668819` · [HTML profile page](../../produkte/power-mindset-programmiere-dich-auf-erfolg-55643.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.80 |
+| Earnings/sale* | $6.79 |
 | Cart conversion* | 65% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Power Mindset (Ebook) - Programmiere Dich auf Erfolg ✅ Deine Community erhält ein Power Mindset für einen überragenden Lifestyle ✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 123 Euro
+**Vendor's marketplace description:** <p><strong>Power Mindset (Ebook) - Programmiere Dich auf Erfolg</strong></p>
+<p> </p>
+<div><em><strong>✅ </strong>Deine Community erhält ein Power Mindset für einen überragenden Lifestyle</em></div>
+<div> </div>
+<div><em><strong>✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet</strong></em></div>
+<div><br /><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></div>
+<div> </div>
+<div><em><strong>Du kannst durch Upsells und AddOn bis zu 123 Euro</strong></em></div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/dein-power-mindset-fr/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55643/adminstore/
 - Sales page: https://www.meinneuerlifestyle.vip/dein-power-mindset-fr/
 - Canonical redirect: https://www.digistore24.com/redir/668819/adminstore
 

@@ -4,7 +4,7 @@ digistore24_product_id: 418781
 title: "Bücher vom Verlag für Introvertierte"
 vendor: "RicardaColditz"
 product_type: "Book (printed)"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 5
 earnings_per_sale: 1.04
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-12-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.verlag-colditz.de?aff=adminstore#aff=adminstore"
 sales_page: "http://www.verlag-colditz.de"
@@ -22,14 +22,14 @@ language: "de"
 # Bücher vom Verlag für Introvertierte
 
 > Product ID `41676` · Digistore24 productId `418781` · [HTML profile page](../../produkte/b-cher-vom-verlag-f-r-introvertierte-41676.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 5% |
 | Earnings/sale* | $1.04 |
 | Cart conversion* | — |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Der Pfad der Introvertierten zum Networking" von Matthew Pollard "Der Pfad der Introvertierten zum Verkaufen" von Matthew Pollard "von introvertiert zu positioniert" (Erfolgsjournal) von Ricarda Colditz (Hrsg)
+**Vendor's marketplace description:** <p>"Der Pfad der Introvertierten zum Networking" von Matthew Pollard</p>
+<p>"Der Pfad der Introvertierten zum Verkaufen" von Matthew Pollard</p>
+<p>"von introvertiert zu positioniert" (Erfolgsjournal) von Ricarda Colditz (Hrsg)</p>
 
 ## 2. Links
 
@@ -88,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bücher vom Verlag für Introvertierte? — Typ: Book (printed), Anbieter: RicardaColditz, gelistet seit 2021-12-01
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 463226
 title: "GRATIS Social Media Vorlagen"
 vendor: "CyrilCash"
 product_type: "Member area and video courses"
-price: 183.91
+price: 183.5
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 124.75
+earnings_per_sale: 124.47
 cart_conversion_pct: 9
 cancel_rate_pct: 1.78
 categories: ["Social Media"]
 listed_since: "2022-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://business-kickstart.de/social-media-vorlagen-gratis/?aff=adminstore#aff=adminstore"
 sales_page: "https://business-kickstart.de/social-media-vorlagen-gratis/"
@@ -22,16 +22,16 @@ language: "de"
 # GRATIS Social Media Vorlagen
 
 > Product ID `41474` · Digistore24 productId `463226` · [HTML profile page](../../produkte/gratis-social-media-vorlagen-41474.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $183.91 (Single payment) |
+| Price | $183.50 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $124.75 |
+| Earnings/sale* | $124.47 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.78% |
 | Vendor | CyrilCash |
@@ -41,7 +41,38 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Gratis Produkte verschenken und bis zu 50€ pro Lead verdienen! Verschenke dieses hochwertige Produkt und verdienen an den verschiedenen Upsells im Funnel bis zu 70% Provision pro Verkauf! >>Jetzt Partner werden (hier klicken!) Der Funnel Initial Produkt - Gratis Upsell 1 - 27€ | 70% Provision Upsell 2 - 97€ | 50% Provision Upsell 3 - 497€ | 45% Provision Diverese weitere Upsells & Downsells >>Werb…
+**Vendor's marketplace description:** <h1><span style="color:#ff0066;"><strong>Gratis Produkte verschenken und <span style="text-decoration:underline;">bis zu 50€ pro Lead</span> verdienen!</strong></span></h1>
+<p>Verschenke dieses hochwertige Produkt und verdienen an den verschiedenen Upsells im Funnel bis zu 70% Provision pro Verkauf!  </p>
+<p><strong><a href="https://business-kickstart.de/digistore-partner-signup-alle-produkte-weiterleitung/" target="_blank" rel="noreferrer noopener"><span style="color:#3366ff;">&gt;&gt;Jetzt Partner werden (hier klicken!)</span></a></strong> </p>
+<p> </p>
+<h2><span style="color:#ff0066;"><strong>Der Funnel</strong></span></h2>
+<ul>
+<li><strong>Initial Produkt - Gratis</strong></li>
+<li><strong>Upsell 1 - 27€ | 70% Provision</strong></li>
+<li><strong>Upsell 2 - 97€ | 50% Provision</strong></li>
+<li><strong>Upsell 3 - 497€ | 45% Provision</strong></li>
+<li><strong>Diverese weitere Upsells &amp; Downsells </strong></li>
+</ul>
+<p style="text-align:left;"><a href="https://business-kickstart.de/gratis-social-media-vorlagen-partnerprogramm/" target="_blank" rel="noreferrer noopener"><strong><span style="color:#3366ff;">&gt;&gt;Werbemittel findest du hier!</span></strong></a></p>
+<h2> </h2>
+<h2><span style="color:#ff0066;"><strong>Deine Vorteile</strong></span></h2>
+<ul>
+<li>
+<p>Extrem hohe Provision und viele Upsells, Downsells, Crossells, etc. </p>
+</li>
+<li>
+<p>Grosse auswahl an hochwertigen Werbemittel</p>
+</li>
+<li>
+<p>Hohe Conversion und permanente Optimierung des Funnels</p>
+</li>
+<li>
+<p>Top Betreuung und Support durch unsere erfahrenen Affiliate Manager</p>
+</li>
+</ul>
+<p style="text-align:center;"> </p>
+<p style="text-align:center;"><span style="color:#0000ff;"><a style="color:#0000ff;" href="https://business-kickstart.de/digistore-partner-signup-alle-produkte-weiterleitung/" target="_blank" rel="noreferrer noopener"><strong>Jetzt Partner werden (hier klicken!)</strong></a></span></p>
+<p style="text-align:left;"> Bei Fragen schreibe uns an: <em>info@coaching.business-kickstart.de</em></p>
 
 ## 2. Links
 
@@ -67,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GRATIS Social Media Vorlagen? — Typ: Member area and video courses, Anbieter: CyrilCash, gelistet seit 2022-10-04
-- Wie viel kostet es? — 183.91287200000002 USD
+- Wie viel kostet es? — 183.50257200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

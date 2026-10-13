@@ -4,34 +4,34 @@ digistore24_product_id: 744138
 title: "CollabProof – Das Influencer-Kit für PR-Pakete  Kooperatio"
 vendor: "MindshiftDigitalStudio"
 product_type: "Downloads"
-price: 44.26
+price: 44.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.13
+earnings_per_sale: 22.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/744138?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60445/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/744138"
 language: "de"
 ---
 # CollabProof – Das Influencer-Kit für PR-Pakete  Kooperatio
 
 > Product ID `60445` · Digistore24 productId `744138` · [HTML profile page](../../produkte/collabproof-das-influencer-kit-f-r-pr-pakete-kooperatio-60445.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $44.26 (Single payment) |
+| Price | $44.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.13 |
+| Earnings/sale* | $22.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -41,11 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** CollabProof – Das Influencer-Kit für PR-Pakete & Kooperationen Deine Zielgruppe bekommt PR-Pakete und bezahlt Kooperationen? Dann braucht sie auch Ordnung bei den Nachweisen. Welche Marke hat was geschickt? Welchen Wert hatte das Produkt? Wo liegt der Beleg? CollabProof hilft Influencern und UGC-Creatorn, diese Fragen rechtzeitig zu dokumentieren – bevor die Steuerkanzlei oder das Finanzamt nachfr…
+**Vendor's marketplace description:** <h3>CollabProof – Das Influencer-Kit für PR-Pakete &amp; Kooperationen</h3>
+<p><strong>Deine Zielgruppe bekommt PR-Pakete und bezahlt Kooperationen? Dann braucht sie auch Ordnung bei den Nachweisen.</strong></p>
+<p>Welche Marke hat was geschickt? Welchen Wert hatte das Produkt? Wo liegt der Beleg? CollabProof hilft Influencern und UGC-Creatorn, diese Fragen rechtzeitig zu dokumentieren – bevor die Steuerkanzlei oder das Finanzamt nachfragt.</p>
+<h4>Das erhalten Käufer</h4>
+<ul>
+<li>Offline-App zum Erfassen von Kooperationen, PR-Paketen und Honoraren</li>
+<li>PDF-Jahresbericht, CSV-Export und JSON-Backups</li>
+<li>PDF-Leitfaden mit Checklisten und 6 kopierfertigen E-Mail-Vorlagen</li>
+<li>Beleg-Ordnerstruktur, Beispieldaten und Startanleitung</li>
+</ul>
+<p><strong>Einmal kaufen, ohne Abo und ohne App-Konto nutzen.</strong> Das digitale Kit wird als ZIP-Download geliefert und ist für einen Computer mit aktuellem Browser vorgesehen.</p>
+<h4>Deine Vorteile als Affiliate</h4>
+<ul>
+<li><strong>50 % Affiliate-Provision</strong></li>
+<li><strong>47 € einmaliger Verkaufspreis</strong></li>
+<li>Konkreter Nutzen für Influencer, UGC-Creator und deren Coaches</li>
+<li>Passend für Inhalte über PR-Pakete, Markenkooperationen und die Organisation des Creator-Business</li>
+</ul>
+<p><strong>Dein Aufhänger: „PR-Pakete rein. Chaos raus. Dokumentiere deine Kooperationen – bevor das Finanzamt nachfragt.“</strong></p>
+<p><small>CollabProof ist eine Dokumentationshilfe und ersetzt keine Steuer- oder Rechtsberatung. Die Affiliate-Provision wird auf die von Digistore24 festgelegte Provisionsbasis berechnet.</small></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/744138?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60445/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/744138
 - Canonical redirect: https://www.digistore24.com/redir/744138/adminstore
 
@@ -73,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CollabProof – Das Influencer-Kit für PR-Pakete  Kooperatio? — Typ: Downloads, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-10-09
-- Wie viel kostet es? — 44.2637 USD
+- Wie viel kostet es? — 44.164950000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

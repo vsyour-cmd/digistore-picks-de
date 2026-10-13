@@ -4,16 +4,16 @@ digistore24_product_id: 735217
 title: "Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision"
 vendor: "DerPate"
 product_type: "Downloads"
-price: 37.57
+price: 37.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.79
+earnings_per_sale: 18.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://meinevorlagenkiste.de/hochzeitsplaner/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinevorlagenkiste.de/hochzeitsplaner/"
@@ -22,16 +22,16 @@ language: "de"
 # Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision
 
 > Product ID `59418` · Digistore24 productId `735217` · [HTML profile page](../../produkte/hochzeitsplaner-premium-komplettes-planungssystem-50-provision-59418.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.57 (Single payment) |
+| Price | $37.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.79 |
+| Earnings/sale* | $18.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DerPate |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** HOCHZEIT PLANEN, OHNE ZETTELCHAOS, TABELLEN-WIRRWARR UND VERLORENE ABSPRACHEN Der Hochzeitsplaner Premium ist ein sofort verfügbares digitales Komplettpaket für verlobte Paare, Trauzeug:innen und alle, die eine Hochzeit strukturiert vorbereiten möchten. DAS ERHALTEN KUNDINNEN UND KUNDEN • 60-seitiger Hochzeitsplaner als Druckversion und digital ausfüllbare PDF• Excel-Steuerzentrale mit 20 Bereiche…
+**Vendor's marketplace description:** <p>HOCHZEIT PLANEN, OHNE ZETTELCHAOS, TABELLEN-WIRRWARR UND VERLORENE ABSPRACHEN</p>
+<p>Der Hochzeitsplaner Premium ist ein sofort verfügbares digitales Komplettpaket für verlobte Paare, Trauzeug:innen und alle, die eine Hochzeit strukturiert vorbereiten möchten.</p>
+<p>DAS ERHALTEN KUNDINNEN UND KUNDEN</p>
+<p>• 60-seitiger Hochzeitsplaner als Druckversion und digital ausfüllbare PDF<br />• Excel-Steuerzentrale mit 20 Bereichen für Budget, Gäste, Sitzplan, Aufgaben und Termine<br />• zusätzliche Werkzeuge für Risiken, Plan B, Dokumente, Kommunikation und Hochzeitstag-Regie<br />• 20 sofort anpassbare Textbausteine für Dienstleister und Gäste<br />• Schnellstart-Anleitung und sofortiger digitaler Download</p>
+<p>STARKER KLICKGRUND</p>
+<p>Statt vieler einzelner Listen führt dieses System Entscheidungen, Kosten, Gäste, Dienstleister und den Ablauf an einem Ort zusammen.</p>
+<p>IDEAL FÜR IHRE ZIELGRUPPE</p>
+<p>Verlobte Paare in der aktiven Planungsphase, Hochzeits- und Lifestyle-Communities, Wedding-Creator, Trauzeug:innen und beratungsnahe Dienstleister.</p>
+<p>AFFILIATE-VORTEILE</p>
+<p>50 % Provision, klarer Problemlöser, emotionales Thema und ein umfangreiches Produkt mit konkretem Sofortnutzen.</p>
 
 ## 2. Links
 
@@ -85,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hochzeitsplaner Premium – komplettes Planungssystem | 50 % Provision? — Typ: Downloads, Anbieter: DerPate, gelistet seit 2026-09-20
-- Wie viel kostet es? — 37.573718 USD
+- Wie viel kostet es? — 37.489893 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

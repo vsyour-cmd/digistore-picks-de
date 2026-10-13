@@ -4,34 +4,34 @@ digistore24_product_id: 582138
 title: "50 % Provision pro Sale –„Macher-Typ“-Paket!"
 vendor: "Angelika-Traumerfuellerin"
 product_type: "Downloads"
-price: 16.47
+price: 16.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.24
+earnings_per_sale: 8.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-11-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://seelengarten-phoenix.com/bundle-kreativer?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50529/adminstore/"
 sales_page: "https://seelengarten-phoenix.com/bundle-kreativer"
 language: "de"
 ---
 # 50 % Provision pro Sale –„Macher-Typ“-Paket!
 
 > Product ID `50529` · Digistore24 productId `582138` · [HTML profile page](../../produkte/50-provision-pro-sale-macher-typ-paket-50529.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.47 (Single payment) |
+| Price | $16.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.24 |
+| Earnings/sale* | $8.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Angelika-Traumerfuellerin |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hauptbeschreibung Verdiene 50 % Provision pro Sale als Affiliate!Dieses Paket ist perfekt für alle, die ihren Macher-Typ weiterentwickeln, Blockaden überwinden und mit Fokus und Struktur an Projekten arbeiten wollen. Ideal für deinen Newsletter, Blog oder Social Media! Kurzbeschreibung Entdecke die Stärken deines Macher-Typen! Mit detaillierter Typenanalyse, binauralen Beats und einem praxisnahen …
+**Vendor's marketplace description:** <h3>Hauptbeschreibung</h3>
+<p><strong>Verdiene 50 % Provision pro Sale als Affiliate!</strong><br />Dieses Paket ist perfekt für alle, die ihren Macher-Typ weiterentwickeln, Blockaden überwinden und mit Fokus und Struktur an Projekten arbeiten wollen. Ideal für deinen Newsletter, Blog oder Social Media!</p>
+<h3>Kurzbeschreibung</h3>
+<p>Entdecke die Stärken deines Macher-Typen! Mit detaillierter Typenanalyse, binauralen Beats und einem praxisnahen Workbook lernst du, deine Ideen in die Tat umzusetzen und dein volles Potenzial zu entfalten.</p>
+<h3><strong>Das erhält der Kunde:</strong></h3>
+<p><strong>Detaillierte Typenanalyse (PDF):</strong><br />Erhalte tiefgehende Einblicke in die Stärken und Entwicklungsmöglichkeiten deines Macher-Typen.</p>
+<p><strong>Binaurale Beats (MP3):</strong><br />Speziell abgestimmte Frequenzen, die dich in einen produktiven Flow bringen und mentale Blockaden lösen.</p>
+<p><strong>Praxisorientiertes Workbook (PDF):</strong><br />Ein Workbook, das dir hilft, deine Projekte mit Fokus und Struktur umzusetzen und deinen Arbeitsstil zu optimieren.</p>
+<h3><strong>Was macht dieses Paket so wertvoll?</strong></h3>
+<ul>
+<li><strong>Fokus auf Ergebnisse:</strong> Entwickle deine Stärken und lerne, wie du Ideen schneller und effektiver in die Realität umsetzt.</li>
+<li><strong>Verbessere Beziehungen:</strong> Nutze deine Fähigkeiten, um mit deinem Umfeld harmonisch und produktiv zusammenzuarbeiten.</li>
+<li><strong>Erreiche deine Ziele:</strong> Steigere deine Produktivität und finde Klarheit in deiner Lebensgestaltung.</li>
+<li><strong>Hole das Maximum aus dir heraus:</strong> Mit Tools und Techniken, die speziell für Macher entwickelt wurden.</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://seelengarten-phoenix.com/bundle-kreativer?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50529/adminstore/
 - Sales page: https://seelengarten-phoenix.com/bundle-kreativer
 - Canonical redirect: https://www.digistore24.com/redir/582138/adminstore
 
@@ -66,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision pro Sale –„Macher-Typ“-Paket!? — Typ: Downloads, Anbieter: Angelika-Traumerfuellerin, gelistet seit 2024-11-21
-- Wie viel kostet es? — 16.47282 USD
+- Wie viel kostet es? — 16.43607 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

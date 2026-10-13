@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2025-04-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52407/adminstore/"
 sales_page: "https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw"
 language: "de"
 ---
 # YouTube Short Traffic Booster
 
 > Product ID `52407` · Digistore24 productId `607268` · [HTML profile page](../../produkte/youtube-short-traffic-booster-52407.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** YouTube Short Traffic-Booster Bewirb den „YouTube Short Traffic-Booster“, ein digitales E-Book rund um YouTube Shorts, Reichweitenaufbau und automatisierte Lead-Generierung. Als Affiliate profitierst du von: einem stark wachsenden Thema (YouTube Shorts & Kurzvideo-Traffic) praxisnahen Inhalten für Einsteiger und Marketer attraktiven Provisionen inklusive Upsell-Verdienst von bis zu 125 € pro Verka…
+**Vendor's marketplace description:** <h3 style="text-align:center;"><strong><span style="color:#ff0000;">YouTube</span> Short Traffic-Booster</strong></h3>
+<p>Bewirb den <strong>„YouTube Short Traffic-Booster“</strong>, ein digitales E-Book rund um YouTube Shorts, Reichweitenaufbau und automatisierte Lead-Generierung.</p>
+<p>Als Affiliate profitierst du von:</p>
+<ul>
+<li>
+<p>einem stark wachsenden Thema (YouTube Shorts &amp; Kurzvideo-Traffic)</p>
+</li>
+<li>
+<p>praxisnahen Inhalten für Einsteiger und Marketer</p>
+</li>
+<li>
+<p><strong>attraktiven Provisionen inklusive Upsell-Verdienst von bis zu 125 € pro Verkauf</strong></p>
+</li>
+</ul>
+<p>Ideal für Affiliates, Creator und Marketer, die Produkte im Bereich Video-Marketing, Traffic und digitales Business bewerben möchten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52407/adminstore/
 - Sales page: https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw
 - Vendor affiliate support: https://page.funnelcockpit.com/4vj52wFP75RPFHMvq
 - Canonical redirect: https://www.digistore24.com/redir/607268/adminstore

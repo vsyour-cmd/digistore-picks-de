@@ -2,6 +2,17 @@
   "site": "de",
   "entries": [
     {
+      "date": "2026-10-13b",
+      "summary": "Marktplatz-Daten nach Re-Login vollständig aktualisiert (Snapshot 2026-10-13; die eingefrorenen Daten seit dem 10.10. sind vorbei). Der Promo-Link jedes Produkts ist jetzt der offizielle, über die Digistore24-Content-Link-API generierte Link — abgelöst wurden die abgeleiteten Vendor-Domain-Deep-Links, die still veralten, sobald Anbieter ihre Funnels ändern (genau die Ursache der 18 Anbieter-Benachrichtigungen dieser Woche). 18 Benachrichtigungen verarbeitet und bestätigt; 24 betroffene Produkte waren gelistet-Entfernt, ihre Seiten wurden entfernt.",
+      "changes": [
+        "Datenaktualisierung: vollständiger EN (1255) + DE (4263) Marktplatz-Re-Scrape nach Session-Re-Login",
+        "Promo-Links: 619 EN + 2.203 DE offizielle Plattform-Links live; übrige Angebote behalten den abgeleiteten Fallback",
+        "18 Anbieter-Benachrichtigungen zu Promo-Link-Änderungen verarbeitet und im Konto bestätigt",
+        "85 veraltete Seiten entfernt",
+        "Tägliche Snapshots fortgesetzt — Preis-Monitor zeigt echte Tagesveränderungen"
+      ]
+    },
+    {
       "date": "2026-10-13",
       "summary": "Inhalts-Überholung: jede Kategorie hat jetzt ein 50-Fragen-Käufer-FAQ (jede Antwort aus den eigenen Marktplatz-Zahlen der Kategorie berechnet), Produktseiten haben Reddit-Community-Blöcke (~5 Links: echte Subreddits plus Live-Suchen, kuratierte Käuferfragen bei Schwerpunkt-Angeboten) und einen Amazon.de-Block (Partner-tag adminstorede-21). Neu: /amazon-picks.html mit internationalen Picks und Kategorie-Shortcuts. Marktplatz-Daten weiterhin auf Stand 2026-10-10; ein Frische-Wächter bricht den Build laut ab, wenn der Scrape älter als 26 Stunden ist.",
       "changes": [

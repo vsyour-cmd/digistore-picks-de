@@ -4,16 +4,16 @@ digistore24_product_id: 586934
 title: "Das Führungsdreieck – Können, Wollen, Dürfen Video und Workb"
 vendor: "PFEOS-Kraemer"
 product_type: "Member area and video courses"
-price: 14.03
+price: 14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.21
+earnings_per_sale: 4.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Leadership & Management"]
 listed_since: "2024-12-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/586934?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/586934"
@@ -22,16 +22,16 @@ language: "de"
 # Das Führungsdreieck – Können, Wollen, Dürfen Video und Workb
 
 > Product ID `50784` · Digistore24 productId `586934` · [HTML profile page](../../produkte/das-f-hrungsdreieck-k-nnen-wollen-d-rfen-video-und-workb-50784.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $14.03 (Single payment) |
+| Price | $14.00 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.21 |
+| Earnings/sale* | $4.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PFEOS-Kraemer |
@@ -41,7 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Entdecke die drei zentralen Aspekte erfolgreicher Führung – Können, Wollen und Dürfen. In nur 30 Minuten lernst Du, wie Du Deine Mitarbeiter:innen gezielt motivierst und Blockaden auflöst. Ergänzt durch ein praxisorientiertes Workbook. Das Führungsdreieck – Können, Wollen, Dürfen – Video + Workbook Entdecke die drei zentralen Aspekte erfolgreicher Führung – Können, Wollen und Dürfen. In nur 30 Min…
+**Vendor's marketplace description:** <p>Entdecke die drei zentralen Aspekte erfolgreicher Führung – Können, Wollen und Dürfen. In nur 30 Minuten lernst Du, wie Du Deine Mitarbeiter:innen gezielt motivierst und Blockaden auflöst. Ergänzt durch ein praxisorientiertes Workbook.</p>
+<p>Das Führungsdreieck – Können, Wollen, Dürfen – Video + Workbook  </p>
+<p>Entdecke die drei zentralen Aspekte erfolgreicher Führung – Können, Wollen und Dürfen. In nur 30 Minuten lernst Du, wie Du Deine Mitarbeiter:innen gezielt motivierst und Blockaden auflöst. Ergänzt durch ein praxisorientiertes Workbook.</p>
+<ul>
+<li>Führung mit Klarheit – das Führungsdreieck als Schlüssel zu mehr Erfolg im Team.</li>
+</ul>
+<p>Das Führungsdreieck beleuchtet die drei wichtigsten Faktoren für gelungene Führung: Können, Wollen und Dürfen. Dieses Modell hilft Dir, Hindernisse zu erkennen und die Zusammenarbeit im Team nachhaltig zu verbessern.  </p>
+<p>Das erwartet Dich:</p>
+<p style="text-align:justify;">Ein 30-minütiges Video, das die Grundlagen des Führungsdreiecks erklärt:  </p>
+<p>Können: Wie Du Fähigkeiten gezielt förderst.  </p>
+<p>Wollen: Wie Du Motivation weckst und aufrechterhältst.  </p>
+<p> Dürfen: Wie Du Rahmenbedingungen schaffst, die produktives Arbeiten ermöglichen.  </p>
+<p>Ein Workbook, das praktische Übungen, Reflexionen und Checklisten enthält, um das Modell direkt im Arbeitsalltag anzuwenden.  </p>
+<p>Das lernst Du:</p>
+<ul>
+<li>Warum Mitarbeiter:innen auf Widerstand gehen oder sich zurückziehen.  </li>
+<li>Wie Du Motivation gezielt steigerst und Blockaden löst.  </li>
+<li>Wie Du Dein Team befähigst, mit Klarheit und Eigenverantwortung zu arbeiten.  </li>
+</ul>
+<p>Für wen geeignet:</p>
+<ul>
+<li>Führungskräfte, die ihr Team besser verstehen und gezielt fördern möchten. </li>
+<li>Coaches, die das Modell in Workshops oder Coachings einsetzen wollen.  </li>
+</ul>
+<p>Preis: Nur 7,99 €    </p>
 
 ## 2. Links
 
@@ -71,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Führungsdreieck – Können, Wollen, Dürfen Video und Workb? — Typ: Member area and video courses, Anbieter: PFEOS-Kraemer, gelistet seit 2024-12-19
-- Wie viel kostet es? — 14.029912 USD
+- Wie viel kostet es? — 13.998612000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

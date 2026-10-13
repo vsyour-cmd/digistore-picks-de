@@ -4,34 +4,34 @@ digistore24_product_id: 456413
 title: "(Neu) 70% Provision pro verkauftem Buch! - Motivation"
 vendor: "Deinechance"
 product_type: "Book (printed)"
-price: 11.19
+price: 11.17
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 7.83
+earnings_per_sale: 7.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Home & Garden","Survival"]
 listed_since: "2022-08-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://dejansekulic.ch/glueck-gedrucktes-buch?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/44265/adminstore/"
 sales_page: "https://dejansekulic.ch/glueck-gedrucktes-buch"
 language: "de"
 ---
 # (Neu) 70% Provision pro verkauftem Buch! - Motivation
 
 > Product ID `44265` · Digistore24 productId `456413` · [HTML profile page](../../produkte/neu-70-provision-pro-verkauftem-buch-motivation-44265.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $11.19 (Single payment) |
+| Price | $11.17 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $7.83 |
+| Earnings/sale* | $7.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Deinechance |
@@ -41,11 +41,40 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hallo Lieber Affiliate Wenn du mein Buch bewirbst, darfst du dich auf 70% Provision pro verkauftem Buch (Taschenbuch) freuen :-) ...und dann 50% an den Folgeverkäufen, da es sich um einen Funnel handelt. Besuche über den Link gerne auch meine Affiliate Support Seite https://dejan-sekulic.com/partnerprogrammdort findest du jede Menge sehr gute und attraktive Werbemittel. Zu jeder Zeit ist unser Sup…
+**Vendor's marketplace description:** <p>Hallo Lieber Affiliate  <br />Wenn du mein Buch bewirbst, darfst du dich auf<strong> 70%</strong> <strong>Provision pro verkauftem Buch</strong> (Taschenbuch) freuen :-) <br />...und dann <strong>50% an den Folgeverkäufen</strong>, da es sich um einen Funnel handelt.  </p>
+<p>Besuche über den Link gerne auch meine Affiliate Support Seite <a>https://dejan-sekulic.com/partnerprogramm<br /></a>dort findest du jede Menge sehr gute und attraktive Werbemittel.  </p>
+<p>Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren.  </p>
+<p> </p>
+<h4><strong>Das bewirbst du:</strong></h4>
+<p> </p>
+<p><strong>Dejan Sekulics Amazon Bestseller Buch (Taschenbuch) </strong></p>
+<h6><em>Das Glück liebt glückliche Menschen!</em><br /><em>Nahrung für Geist und Seele.</em><br /><em>Zitate, Metaphern, Geschichten,</em><br /><em>Alltagstipps für mehr Glück, Erfolg und Lebensfreude</em></h6>
+<h4><br /><em><strong>Darauf dürfen sich deine Kundinnen und Kunden freuen:</strong></em><br /><br /></h4>
+<ul>
+<li>
+<h4>Nahrung für Geist und Seele</h4>
+</li>
+<li>
+<h4>Hilfreiche Lebensweisheiten  </h4>
+</li>
+<li>
+<h4>Motivierende Zitate von grossen Persönlichkeiten</h4>
+</li>
+<li>
+<h4>Inspirierende Metaphern sowie nützliche Denkanstösse</h4>
+</li>
+<li>
+<h4>Praxistipps für mehr Glück und Lebensfreude</h4>
+</li>
+<li>
+<h4>Das Mindset erfolgreicher Menschen<br /><br />Jeder Affiliate verdient <span style="background-color:#ffff00;">70% Provision</span><br /><span style="background-color:#ffff00;">pro verkauftem Buch (Taschenbuch) </span></h4>
+</li>
+<li><span style="background-color:#ffff00;">...und dann am gesamten Funnel!!!</span></li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://dejansekulic.ch/glueck-gedrucktes-buch?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/44265/adminstore/
 - Sales page: https://dejansekulic.ch/glueck-gedrucktes-buch
 - Vendor affiliate support: https://dejan-sekulic.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/456413/adminstore
@@ -72,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist (Neu) 70% Provision pro verkauftem Buch! - Motivation? — Typ: Book (printed), Anbieter: Deinechance, gelistet seit 2022-08-20
-- Wie viel kostet es? — 11.194794 USD
+- Wie viel kostet es? — 11.169819 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

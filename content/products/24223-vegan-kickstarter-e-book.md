@@ -4,34 +4,34 @@ digistore24_product_id: 56501
 title: "Vegan Kickstarter E-Book"
 vendor: "chrisi20"
 product_type: "Downloads"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.61
+earnings_per_sale: 3.6
 cart_conversion_pct: 4
 cancel_rate_pct: 2.46
 categories: ["Food & Drink"]
 listed_since: "2015-08-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/56501?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/24223/adminstore/"
 sales_page: "https://www.digistore24.com/product/56501"
 language: "de"
 ---
 # Vegan Kickstarter E-Book
 
 > Product ID `24223` · Digistore24 productId `56501` · [HTML profile page](../../produkte/vegan-kickstarter-e-book-24223.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.61 |
+| Earnings/sale* | $3.60 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.46% |
 | Vendor | chrisi20 |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle das Vegan Kickstarter E-Book! Das über 400 mal verkaufte interaktive E-Book ist 40 Seiten stark und nimmt den Leser mit auf die Reise sein individuelles Ziel zu erreichen. Auf dieser Reise kann der Leser seinen Fitnessstatus bestimmen und bekommt, aus einer Auswahl der 20 besten Rezepte, seine ganz individuelle Rezepte vorgeschlagen! Ziele des Lesers können sein: Abnehmen, Muskeln aufbaue…
+**Vendor's marketplace description:** <p>Empfehle das Vegan Kickstarter E-Book! <strong><br /></strong></p>
+<p>Das über 400 mal verkaufte interaktive E-Book ist 40 Seiten stark und nimmt den Leser mit auf die Reise sein individuelles Ziel zu erreichen.</p>
+<p>Auf dieser Reise kann der Leser seinen Fitnessstatus bestimmen und bekommt, aus einer Auswahl der 20 besten Rezepte, seine ganz individuelle Rezepte vorgeschlagen!</p>
+<p><strong>Ziele des Lesers können sein:</strong></p>
+<p><strong>Abnehmen, Muskeln aufbauen, Definieren &amp; Fit werden</strong></p>
+<p> </p>
+<p>Deine Vorteile auf einen Blick:</p>
+<ul><li>über 400mal verkauft</li>
+<li>Stornoquote &lt; 5%</li>
+<li>Hohe Glaubwürdigkeit</li>
+<li>ca. 5€ Einnahmen pro Verkauf bei einem Einstiegsprodukt</li>
+<li>Kaufraten von 15 - 30% im optimierten Sales Funnel</li>
+<li>schnelle Unterstützung auf Deutsch bei Rückfragen über Affiliate Manager</li>
+</ul><p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/56501?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/24223/adminstore/
 - Sales page: https://www.digistore24.com/product/56501
 - Canonical redirect: https://www.digistore24.com/redir/56501/adminstore
 
@@ -75,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vegan Kickstarter E-Book? — Typ: Downloads, Anbieter: chrisi20, gelistet seit 2015-08-13
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

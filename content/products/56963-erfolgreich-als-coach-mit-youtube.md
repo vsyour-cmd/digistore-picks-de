@@ -4,34 +4,34 @@ digistore24_product_id: 701281
 title: "Erfolgreich als Coach mit YouTube"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-youtube?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56963/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-youtube"
 language: "de"
 ---
 # Erfolgreich als Coach mit YouTube
 
 > Product ID `56963` · Digistore24 productId `701281` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-youtube-56963.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du mit Wissens-Videos Vertrauen aufbaust und Kunden gewinnst Als Coach lebst du von Vertrauen – und kein Kanal baut Vertrauen so stark auf wie YouTube. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Videos machst, die nicht nur Reichweite bringen, sondern planbar Anfragen und Kunden. Du lernst, wie du Themen wählst, nach denen deine Wunschkunden aktiv suchen, wie du Expertise zeigst ohn…
+**Vendor's marketplace description:** <p><strong>Wie du mit Wissens-Videos Vertrauen aufbaust und Kunden gewinnst</strong></p>
+<p>Als Coach lebst du von Vertrauen – und kein Kanal baut Vertrauen so stark auf wie YouTube. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Videos machst, die nicht nur Reichweite bringen, sondern planbar Anfragen und Kunden. Du lernst, wie du Themen wählst, nach denen deine Wunschkunden aktiv suchen, wie du Expertise zeigst ohne alles zu verschenken und wie du jeden Zuschauer sanft Richtung Erstgespräch führst. Statt für Klicks zu produzieren, baust du ein System, das dich als die Autorität deiner Nische positioniert – und deinen Kalender füllt.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Die Content-Strategie, die Vertrauen UND Anfragen erzeugt</li>
+<li>Themen finden, nach denen deine Wunschkunden suchen</li>
+<li>Expertise zeigen, ohne dein Angebot zu verschenken</li>
+<li>Der sanfte Call-to-Action zum Erstgespräch</li>
+<li>Video-Funnel: vom Zuschauer zum zahlenden Kunden</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-youtube?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56963/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-youtube
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701281/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit YouTube? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

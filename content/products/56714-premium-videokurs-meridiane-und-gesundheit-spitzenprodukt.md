@@ -4,16 +4,16 @@ digistore24_product_id: 605434
 title: "Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)"
 vendor: "SabineQigong"
 product_type: "Member area and video courses"
-price: 444.88
+price: 443.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 222.44
+earnings_per_sale: 221.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/new-video-sales-31851?aff=adminstore#aff=adminstore"
 sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/new-video-sales-31851"
@@ -22,16 +22,16 @@ language: "de"
 # Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)
 
 > Product ID `56714` · Digistore24 productId `605434` · [HTML profile page](../../produkte/premium-videokurs-meridiane-und-gesundheit-spitzenprodukt-56714.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $444.88 (Single payment) |
+| Price | $443.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $222.44 |
+| Earnings/sale* | $221.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineQigong |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte 50% Provision pro Verkauf rechnen. Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel. Besuche über den Link unten auch gerne meine Affiliate Supportseite, denn dort findest du jede Menge sehr gute und attraktive Werbem…
+**Vendor's marketplace description:** <p>Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte </p>
+<h3><strong>50% Provision pro Verkauf</strong></h3>
+<p>rechnen.</p>
+<p><strong>Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel.</strong></p>
+<p>Besuche über den Link unten auch gerne meine <strong>Affiliate Supportseite,</strong> denn dort findest du jede Menge sehr gute und <strong>attraktive Werbemittel</strong>: Vorlage-Newsletter, Werbebanner in allen Größen,...</p>
+<p><strong>Das bewirbst du:</strong></p>
+<p>Qigong-Video-Kurs: "Meridiane &amp; Wie sie deine körperliche, emotionale und geistige Gesundheit beeinflussen...",</p>
+<ul>
+<li>wo wertvolles TCM-Wissen leicht und verständlich weitergegeben wird.</li>
+<li>Praktische Meridian-Übungen zum Mitmachen.</li>
+<li>Symptomenaufstellung: als PDF zum Herunterladen</li>
+</ul>
+<p><strong>Zielgruppe:</strong></p>
+<p>Frauen <strong>45+</strong>, welche aktiv für ihr Wohlbefinden sorgen und wieder ihre wohlverdiente <strong>körperliche Gesundheit und emotionale Ausgeglichenheit mit Qigong zurückerobern</strong> wollen.</p>
 
 ## 2. Links
 
@@ -81,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premium Videokurs: Meridiane und Gesundheit (Spitzenprodukt)? — Typ: Member area and video courses, Anbieter: SabineQigong, gelistet seit 2026-05-27
-- Wie viel kostet es? — 444.8782 USD
+- Wie viel kostet es? — 443.88570000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 725874
 title: "DIE SEELE AMERIKAS I Das Grosse Experiment"
 vendor: "ThomasYoung"
 product_type: "Member area and video courses"
-price: 279.68
+price: 279.06
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 83.9
+earnings_per_sale: 83.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.thomasyoung.online/masterclass-dsa?aff=adminstore#aff=adminstore"
 sales_page: "https://www.thomasyoung.online/masterclass-dsa"
@@ -22,16 +22,16 @@ language: "de"
 # DIE SEELE AMERIKAS I Das Grosse Experiment
 
 > Product ID `60244` · Digistore24 productId `725874` · [HTML profile page](../../produkte/die-seele-amerikas-i-das-grosse-experiment-60244.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.68 (Single payment, Installment) |
+| Price | $279.06 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $83.90 |
+| Earnings/sale* | $83.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ThomasYoung |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der neue Online-Kurs mit Herzlehrer Thomas Young Bewerbung jetzt möglich! – Werbezeitraum ab 18. Oktober Wir starten am 15.11.2026 In DIE SEELE AMERIKAS erleben die Teilnehmer unsere bewegte Zeit aus einer neuen, zutiefst ermutigenden Perspektive: Amerika nicht als politische Macht, sondern als großes Seelen-Experiment der Menschheit – und die Erschütterungen der Gegenwart nicht als Untergang, son…
+**Vendor's marketplace description:** <p><strong>Der neue Online-Kurs mit Herzlehrer Thomas Young</strong></p>
+<p>Bewerbung jetzt möglich! – Werbezeitraum ab 18. Oktober</p>
+<p>Wir starten am 15.11.2026</p>
+<p>In DIE SEELE AMERIKAS erleben die Teilnehmer unsere bewegte Zeit aus einer neuen, zutiefst ermutigenden Perspektive: Amerika nicht als politische Macht, sondern als großes Seelen-Experiment der Menschheit – und die Erschütterungen der Gegenwart nicht als Untergang, sondern als Geburt. Inspiriert von den Visionen des Sehers Edgar Cayce, führen sieben aufeinander abgestimmte Einweihungsschritte mit Video-Vorträgen, Healing Flow Meditationen und Übungen für Herz und Alltag die Teilnehmer von der großen kosmischen Geschichte zu ihrer ganz persönlichen Antwort: Warum bin ich gerade jetzt hier – und was kann nur durch mich in diese Welt kommen? Den Höhepunkt der 21 Tage bildet ein großes Live-Finale mit Thomas.</p>
+<p>Thomas Young ist Bestsellerautor und erfolgreicher Weisheitslehrer, der seit über 25 Jahren seine Heilerfahrungen mit unzähligen Kursteilnehmern in der ganzen Welt teilt. Für diesen Kurs hat er sieben neue Healing Flow Meditationen geschaffen – in Studioqualität produziert, mit berührender Musik von Deuter. Getragen von seinen Herzlehren, dem Wissen indigener Völker und der hawaiianischen Aloha-Tradition, ist DIE SEELE AMERIKAS ein Weg der Initiation, nicht der Angst. Er schenkt den Teilnehmern einen inneren Kompass für die außerordentliche Zeit, in der wir leben – und die tiefe Gewissheit, dass sie nicht zufällig gerade jetzt hier sind.</p>
+<p>Der Kurs enthält viele Boni, Meditationen und Extras, was deine Conversion steigert:</p>
+<p>7 Video-Vorträge mit 7 Healing Flow Meditationen plus großes Live-Finale mit Thomas, Workbooks, Gemeinschaftsforum, Bonus-Meditation, drei Herz-Soulcasts und vieles mehr . .</p>
+<p>Werde daher jetzt zu unserem Partner und empfiehl deinen Kontakten unsere 21-Tage-Reise: DIE SEELE AMERIKAS.</p>
 
 ## 2. Links
 
@@ -79,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DIE SEELE AMERIKAS I Das Grosse Experiment? — Typ: Member area and video courses, Anbieter: ThomasYoung, gelistet seit 2026-10-06
-- Wie viel kostet es? — 279.679348 USD
+- Wie viel kostet es? — 279.055398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

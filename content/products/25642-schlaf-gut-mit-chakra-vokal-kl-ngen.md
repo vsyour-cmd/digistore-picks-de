@@ -4,16 +4,16 @@ digistore24_product_id: 232178
 title: "Schlaf gut mit Chakra-Vokal-Klängen"
 vendor: "chakraklang"
 product_type: "Downloads"
-price: 14.13
+price: 14.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.07
+earnings_per_sale: 7.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2018-07-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.chakraklang.de/106-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.chakraklang.de/106-2/"
@@ -22,16 +22,16 @@ language: "de"
 # Schlaf gut mit Chakra-Vokal-Klängen
 
 > Product ID `25642` · Digistore24 productId `232178` · [HTML profile page](../../produkte/schlaf-gut-mit-chakra-vokal-kl-ngen-25642.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.13 (Single payment) |
+| Price | $14.10 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.07 |
+| Earnings/sale* | $7.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | chakraklang |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** CD als Downloadprodukt für 14 EUR mit 50% Provision besser einschlafen? tiefer schlafen? erholt und erfrischt aufwachen? Die CD für einen guten und erholsamen Schlaf. Gutes Einschlafen sowie Durchschlafen sind wichtig für unser Wohlbefinden. Durch die Harmonisierung mit Chakra-Vokal-Klängen kann der Gedankenfluss zur Ruhe kommen und das Bewusstsein besser mit dem Körper verbunden werden. Beides sc…
+**Vendor's marketplace description:** <p>CD als Downloadprodukt für 14 EUR mit 50% Provision</p>
+<p><strong>besser einschlafen?</strong></p>
+<p><strong>tiefer schlafen?</strong></p>
+<p><strong>erholt und erfrischt aufwachen?</strong></p>
+<p>Die CD für einen guten und erholsamen Schlaf.</p>
+<div>
+<div>
+<p>Gutes Einschlafen sowie Durchschlafen sind wichtig für unser Wohlbefinden.</p>
+<p>Durch die Harmonisierung mit Chakra-Vokal-Klängen kann der Gedankenfluss zur Ruhe kommen und das Bewusstsein besser mit dem Körper verbunden werden. Beides schafft die Grundlage für einen tieferen und erholsamen Schlaf.</p>
+<p>Die CD wurde entwickelt von Joachim Sevenich. Er hat mittlerweile 30 Jahre Erfahrung mit dem Chakra-Vokal-Training (Buch, CDs, Seminare). Die Webseite ist:  <a href="http://www.chakraklang.de" target="_blank" rel="noreferrer noopener">www.chakraklang.de</a></p>
+<p>Produkt-Nr.: 232178</p>
+<p>Promolink: https://www.digistore24.com/redir/232178/AFFILIATE/CAMPAIGNKEY</p>
+</div>
+</div>
 
 ## 2. Links
 
@@ -67,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlaf gut mit Chakra-Vokal-Klängen? — Typ: Downloads, Anbieter: chakraklang, gelistet seit 2018-07-05
-- Wie viel kostet es? — 14.130766 USD
+- Wie viel kostet es? — 14.099241000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

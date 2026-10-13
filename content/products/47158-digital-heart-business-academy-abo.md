@@ -4,16 +4,16 @@ digistore24_product_id: 488621
 title: "Digital Heart Business Academy ABO"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 54.91
+price: 54.79
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 5.49
+earnings_per_sale: 5.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-03-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://dhba.funnelcockpit.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://dhba.funnelcockpit.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Heart Business Academy ABO
 
 > Product ID `47158` · Digistore24 productId `488621` · [HTML profile page](../../produkte/digital-heart-business-academy-abo-47158.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $54.91 (Subscription) |
+| Price | $54.79 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $5.49 |
+| Earnings/sale* | $5.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In der "DIGITAL HEART BUSINESS ACADEMY" bekommst du ein monatliches Masterteaching live per Zoom inkl. Aufzeichnung, sowie 3 Onlinekurse und alle Aufzeichnungen der Masterteachings. Dies ist der Turbo für dein Onlinebusiness. Deine Provision: 20% pro Monat, Mindestlaufzeit des Abonnements 12 Monate Beim derzeitigen Verkaufspreis von 58,31 € (brutto) sind das für dich nach Abzug der Gebühren und de…
+**Vendor's marketplace description:** <p>In der "DIGITAL HEART BUSINESS ACADEMY" bekommst du ein monatliches Masterteaching live per Zoom inkl. Aufzeichnung, sowie 3 Onlinekurse und alle Aufzeichnungen der Masterteachings. Dies ist der Turbo für dein Onlinebusiness.</p>
+<p>Deine Provision: <strong>20% pro Monat, Mindestlaufzeit des Abonnements 12 Monate</strong></p>
+<p>Beim derzeitigen Verkaufspreis von<strong> 58,31 €</strong> (brutto) sind das für dich nach Abzug der Gebühren und der Steuer <strong>104,16€</strong> (netto pro Jahr) für dich.</p>
 
 ## 2. Links
 
@@ -59,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Heart Business Academy ABO? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2023-03-12
-- Wie viel kostet es? — 54.909400000000005 USD
+- Wie viel kostet es? — 54.7869 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 91407
 title: "Katzenfutter Selbermachen - Gesunde Rezepte"
 vendor: "Insider-Media"
 product_type: "Downloads"
-price: 17.6
+price: 17.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.81
+earnings_per_sale: 8.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2016-08-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.meine-katze-erziehen.com/katzenfutter-selber-machen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/12633/adminstore/"
 sales_page: "https://www.meine-katze-erziehen.com/katzenfutter-selber-machen/"
 language: "de"
 ---
 # Katzenfutter Selbermachen - Gesunde Rezepte
 
 > Product ID `12633` · Digistore24 productId `91407` · [HTML profile page](../../produkte/katzenfutter-selbermachen-gesunde-rezepte-12633.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.60 (Single payment) |
+| Price | $17.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.81 |
+| Earnings/sale* | $8.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 101 Rezepte um Katzenfutter selber zu machen, was gesünder und besonders lecker für die Katze ist. Affiliates verdienen 50% Provision, es sind auch Upsells vorhanden. Die Konversionsrate ist erstaunlich hoch, das es sich ja auch um ein hoch emotionales Produkt handelt. Nur das Beste für den flauschigen Wollknäuel!
+**Vendor's marketplace description:** <p>101 Rezepte um Katzenfutter selber zu machen, was gesünder und besonders lecker für die Katze ist.</p>
+<p>Affiliates verdienen 50% Provision, es sind auch Upsells vorhanden. Die Konversionsrate ist erstaunlich hoch, das es sich ja auch um ein hoch emotionales Produkt handelt. </p>
+<p>Nur das Beste für den flauschigen Wollknäuel!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.meine-katze-erziehen.com/katzenfutter-selber-machen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/12633/adminstore/
 - Sales page: https://www.meine-katze-erziehen.com/katzenfutter-selber-machen/
 - Vendor affiliate support: https://www.meine-katze-erziehen.com/partner/
 - Canonical redirect: https://www.digistore24.com/redir/91407/adminstore
@@ -59,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Katzenfutter Selbermachen - Gesunde Rezepte? — Typ: Downloads, Anbieter: Insider-Media, gelistet seit 2016-08-15
-- Wie viel kostet es? — 17.604626000000003 USD
+- Wie viel kostet es? — 17.565351000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

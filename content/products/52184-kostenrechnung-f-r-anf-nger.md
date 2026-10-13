@@ -4,16 +4,16 @@ digistore24_product_id: 607922
 title: "Kostenrechnung für Anfänger"
 vendor: "wileleg"
 product_type: "Member area and video courses"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.62
+earnings_per_sale: 46.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-04-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kostenrechnung-fur-anfanger-gaaanz-einfach-af?aff=adminstore#aff=adminstore"
 sales_page: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kostenrechnung-fur-anfanger-gaaanz-einfach-af"
@@ -22,16 +22,16 @@ language: "de"
 # Kostenrechnung für Anfänger
 
 > Product ID `52184` · Digistore24 productId `607922` · [HTML profile page](../../produkte/kostenrechnung-f-r-anf-nger-52184.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.62 |
+| Earnings/sale* | $46.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wileleg |
@@ -41,7 +41,76 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kostenrechnung lernen – verständlich, strukturiert und ohne Frust „Kostenrechnung für Anfänger – gaaanz einfach!“ ist der perfekte Einstieg für alle, die eine kaufmännische Ausbildung oder Weiterbildung machen und Kostenrechnung endlich wirklich verstehen möchten – ohne Fachchinesisch, ohne Lücken, und ohne Langeweile. Der Kurs ist so aufgebaut, dass auch trockene Themen praxisnah, anschaulich und…
+**Vendor's marketplace description:** <p><strong>Kostenrechnung lernen – verständlich, strukturiert und ohne Frust</strong></p>
+<p> </p>
+<p>„Kostenrechnung für Anfänger – gaaanz einfach!“ ist der perfekte Einstieg für alle, die <strong>eine kaufmännische Ausbildung oder Weiterbildung machen</strong> und <strong>Kostenrechnung endlich wirklich verstehen möchten</strong> – ohne Fachchinesisch, ohne Lücken, und ohne Langeweile.</p>
+<p> </p>
+<p>Der Kurs ist so aufgebaut, dass auch trockene Themen <strong>praxisnah, anschaulich und mit einer Portion Humor</strong> vermittelt werden. Die Rückmeldungen zeigen: Selbst wer sich bisher schwergetan hat, kommt hier mit – und hat sogar Spaß beim Lernen.</p>
+<p> </p>
+<p><strong>Das steckt im Kurs:</strong></p>
+<ul>
+<li>
+<p>Verständliche Erklärvideos mit vielen praxisnahen Beispielen</p>
+</li>
+<li>
+<p>Digitales Arbeitsheft mit passenden Aufgaben und Lösungen</p>
+</li>
+<li>
+<p>Schritt-für-Schritt-Anleitungen und Schemaübersichten</p>
+</li>
+<li>
+<p>226-seitiges Prüfungsheft mit prüfungsnahen Aufgaben</p>
+</li>
+<li>
+<p>Kein Vorwissen nötig – ideal für den Einstieg oder zur Wiederholung</p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Für wen ist der Kurs ideal:</strong></p>
+<ul>
+<li>
+<p>Auszubildende und Umschüler mit kaufmännischer Ausbildung</p>
+</li>
+<li>
+<p>Studenten wirtschaftlicher Fachrichtungen</p>
+</li>
+<li>
+<p>Teilnehmer von Weiterbildungen wie Fachwirt oder Wirtschaftsfachwirt</p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Was den Kurs besonders macht:</strong></p>
+<p><strong>Keine Theorieflut, keine Fachsprache – sondern verständliches Lernen mit Struktur und Spaß.</strong></p>
+<p>Viele Teilnehmer berichten, dass sie mit diesem Kurs Inhalte zum ersten Mal wirklich verstanden haben – und sich sicher und gut vorbereitet fühlen.</p>
+<p> </p>
+<p><span style="background-color:#ffff00;"><strong>Hinweis zur Affiliate-Partnerschaft:</strong></span></p>
+<p>Die Affiliate-Partnerschaft wird <strong>nicht automatisch freigegeben</strong>.</p>
+<p>Bitte stelle deine Anfrage über den Button auf dieser Seite. Ich melde mich dann <strong>persönlich bei dir</strong>, um zu besprechen, wie du den Kurs am besten bewirbst.</p>
+<p>Ich unterstütze dich mit konkreten Tipps, Erfahrung und allem, was du brauchst, um erfolgreich zu verkaufen.</p>
+<p> </p>
+<p><strong>Warum du diesen Kurs bewerben solltest:</strong></p>
+<ul>
+<li>
+<p>Klare, kaufkräftige Zielgruppe mit Prüfungsbedarf</p>
+</li>
+<li>
+<p>Humorvoll, verständlich und mit echtem Mehrwert</p>
+</li>
+<li>
+<p>50 % Provision pro Verkauf</p>
+</li>
+<li>
+<p>Sehr geringe Rückgabequote</p>
+</li>
+<li>
+<p>Persönliche Betreuung statt Massenfreigabe</p>
+</li>
+<li>
+<p>Erfolgreiche Zusammenarbeit mit ausgewählten Partnern</p>
+</li>
+</ul>
+<p> </p>
+<p><span style="background-color:#ffff00;"><strong>Ich arbeite lieber mit wenigen, engagierten Affiliates – mit echtem Austausch und einer Zusammenarbeit, bei der alle gewinnen.</strong></span></p>
 
 ## 2. Links
 
@@ -66,7 +135,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kostenrechnung für Anfänger? — Typ: Member area and video courses, Anbieter: wileleg, gelistet seit 2025-04-17
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

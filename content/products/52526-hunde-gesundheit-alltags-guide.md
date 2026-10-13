@@ -4,16 +4,16 @@ digistore24_product_id: 612767
 title: "Hunde Gesundheit - Alltags Guide"
 vendor: "Loverie"
 product_type: "E-books"
-price: 19.9
+price: 19.86
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.96
+earnings_per_sale: 7.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Health & Fitness"]
 listed_since: "2025-05-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://hundegesundheit.little-lovin.de/82073a18-0309-4f34-96b6-6d9768dcc7c6/?aff=adminstore#aff=adminstore"
 sales_page: "https://hundegesundheit.little-lovin.de/82073a18-0309-4f34-96b6-6d9768dcc7c6/"
@@ -22,16 +22,16 @@ language: "de"
 # Hunde Gesundheit - Alltags Guide
 
 > Product ID `52526` · Digistore24 productId `612767` · [HTML profile page](../../produkte/hunde-gesundheit-alltags-guide-52526.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.90 (Single payment, Installment) |
+| Price | $19.86 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.96 |
+| Earnings/sale* | $7.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Loverie |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Fütterungsarten im Überblick – Vor- und Nachteile, Tipps wie du die beste Ernährung für deinen Hund findest. Individuelle Bedürfnisse erkennen. Expertenwissen & Mikronährstoffe - Alles zu Makronährstoffen, Mikronährstoffen, gängigen Supplementen und Superfoods. Gesundheit von Kopf bis Pfote - von Sodbrennen bis Gelenke. Naturheilkunde & Kräuter Die besten Kräuter für Hunde, Anwendung von Kefir, De…
+**Vendor's marketplace description:** <div>
+<p><strong>Fütterungsarten im Überblick</strong> – Vor- und Nachteile, Tipps wie du die beste Ernährung für deinen Hund findest.</p>
+<p><strong>Individuelle Bedürfnisse erkennen.</strong></p>
+<p><strong>Expertenwissen &amp; Mikronährstoffe</strong> - Alles zu Makronährstoffen, Mikronährstoffen, gängigen Supplementen und Superfoods.</p>
+<p><strong>Gesundheit von Kopf bis Pfote</strong> - von Sodbrennen bis Gelenke.</p>
+<p><strong>Naturheilkunde &amp; Kräuter</strong> Die besten Kräuter für Hunde, Anwendung von Kefir, Detox-Methoden und natürliche Vorsorge.</p>
+<p><strong>Praktische Extras für den Alltag &amp; die Gesundheit</strong>, Notfallwissen &amp; Disclaimer</p>
+</div>
 
 ## 2. Links
 
@@ -66,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hunde Gesundheit - Alltags Guide? — Typ: E-books, Anbieter: Loverie, gelistet seit 2025-05-14
-- Wie viel kostet es? — 19.901856000000002 USD
+- Wie viel kostet es? — 19.857456000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

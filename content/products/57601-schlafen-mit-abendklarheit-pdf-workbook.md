@@ -4,34 +4,34 @@ digistore24_product_id: 710319
 title: "Schlafen mit Abendklarheit – PDF-Workbook"
 vendor: "mathiaswalecki190574dc"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/710319?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57601/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/710319"
 language: "de"
 ---
 # Schlafen mit Abendklarheit – PDF-Workbook
 
 > Product ID `57601` · Digistore24 productId `710319` · [HTML profile page](../../produkte/schlafen-mit-abendklarheit-pdf-workbook-57601.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mathiaswalecki190574dc |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Abendklarheit ist ein digitales 7-Tage-PDF-Workbook zur Selbstreflexion am Abend. Es hilft dir dabei, Gedanken zu sortieren, den Tag bewusster abzuschließen und eine ruhige Abendroutine für dich aufzubauen. Du erhältst:• ein digitales PDF-Workbook• 7 klare Reflexionstage• einfache Schreibimpulse• eine Abendkarte zum Ausdrucken Du kannst direkt nach dem Kauf mit dem Download starten. Hinweis: Diese…
+**Vendor's marketplace description:** <p>Abendklarheit ist ein digitales 7-Tage-PDF-Workbook zur Selbstreflexion am Abend.</p>
+<p>Es hilft dir dabei, Gedanken zu sortieren, den Tag bewusster abzuschließen und eine ruhige Abendroutine für dich aufzubauen.</p>
+<p>Du erhältst:<br />• ein digitales PDF-Workbook<br />• 7 klare Reflexionstage<br />• einfache Schreibimpulse<br />• eine Abendkarte zum Ausdrucken</p>
+<p>Du kannst direkt nach dem Kauf mit dem Download starten.</p>
+<p>Hinweis:</p>
+<p>Dieses Workbook dient der Selbstreflexion und persönlichen Orientierung. Es ersetzt keine psychologische oder psychotherapeutische Beratung, Diagnose oder Behandlung und keine medizinische Beratung oder Behandlung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/710319?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57601/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/710319
 - Vendor affiliate support: https://abendklarheit-de-a.reflektierende-welten.workers.dev/
 - Canonical redirect: https://www.digistore24.com/redir/710319/adminstore
@@ -72,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlafen mit Abendklarheit – PDF-Workbook? — Typ: E-books, Anbieter: mathiaswalecki190574dc, gelistet seit 2026-07-19
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

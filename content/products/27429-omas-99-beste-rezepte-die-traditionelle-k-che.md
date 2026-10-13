@@ -4,34 +4,34 @@ digistore24_product_id: 252890
 title: "Omas 99 beste Rezepte! Die traditionelle Küche"
 vendor: "geldhuepfer"
 product_type: "E-books"
-price: 8.37
+price: 8.35
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 5.02
+earnings_per_sale: 5.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2018-12-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/252890?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/27429/adminstore/"
 sales_page: "https://www.digistore24.com/product/252890"
 language: "de"
 ---
 # Omas 99 beste Rezepte! Die traditionelle Küche
 
 > Product ID `27429` · Digistore24 productId `252890` · [HTML profile page](../../produkte/omas-99-beste-rezepte-die-traditionelle-k-che-27429.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.37 (Single payment) |
+| Price | $8.35 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $5.02 |
+| Earnings/sale* | $5.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | geldhuepfer |
@@ -41,11 +41,44 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Omas 99 beste Rezepte! Die traditionelle Küche Über das ProduktDas komplette Kochbuch von Dr. Anne Klaas: Auf über 100 Seiten finden sich die 99 besten traditionellen Rezepte aus Omas Kochbuch – 19 Vorspeisen, 40 Hauptgerichte und 40 Desserts, dazu Mittagsgerichte, Snacks, Salate und süßes Gebäck. Kontrolliert, lecker und für jedes Budget gemacht – eine Schatztruhe für Anfänger wie erfahrene Kochl…
+**Vendor's marketplace description:** <center><span style="font-size:large;"><strong>Omas 99 beste Rezepte! Die traditionelle Küche</strong></span></center>
+<p><br /><br /></p>
+<table border="0" width="100%" cellspacing="0" cellpadding="14" bgcolor="#f2f2f2">
+<tbody>
+<tr>
+<td><span style="color:#555555;font-size:large;"><strong>Über das Produkt</strong></span><br /><span style="color:#333333;">Das komplette Kochbuch von Dr. Anne Klaas: Auf über 100 Seiten finden sich die 99 besten traditionellen Rezepte aus Omas Kochbuch – 19 Vorspeisen, 40 Hauptgerichte und 40 Desserts, dazu Mittagsgerichte, Snacks, Salate und süßes Gebäck. Kontrolliert, lecker und für jedes Budget gemacht – eine Schatztruhe für Anfänger wie erfahrene Kochliebhaber.</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<table border="0" width="100%" cellspacing="0" cellpadding="14" bgcolor="#eafbe7">
+<tbody>
+<tr>
+<td><span style="color:#1a6b34;font-size:large;"><strong>Warum sich die Bewerbung für dich lohnt</strong></span><br /><span style="color:#1a6b34;">Traditionelle Küche ist ein zeitloses Thema mit breiter, alltäglicher Nachfrage – von Kochanfängern bis zu erfahrenen Hobbyköchen ist jeder eine passende Zielgruppe. Das macht dir das Bewerben leicht, ohne komplizierte Erklärarbeit.</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<table border="0" width="100%" cellspacing="0" cellpadding="14" bgcolor="#eaf2fb">
+<tbody>
+<tr>
+<td><span style="color:#1c5a8a;font-size:large;"><strong>Werbemittel bereits fertig für dich vorbereitet</strong></span><br /><span style="color:#1c5a8a;">Wie immer findest du alle Vorlagen und Informationen auf meiner Affiliate-Support-Seite – startklar zum Copy-Paste, ohne eigenen Aufwand für dich.</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<table border="0" width="100%" cellspacing="0" cellpadding="14" bgcolor="#fdf6e3">
+<tbody>
+<tr>
+<td><span style="color:#8a6d1a;font-size:large;"><strong>Zusätzliches Umsatzpotenzial durch Upsells</strong></span><br /><span style="color:#8a6d1a;">Du hast zusätzliche Verdienstmöglichkeiten durch Upsells!</span></td>
+</tr>
+</tbody>
+</table>
+<p><br /><span style="color:#777777;">Hinweis: Das Rezeptbuch ist ein eBook und ausschließlich in digitaler PDF-Ausführung erhältlich.</span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/252890?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/27429/adminstore/
 - Sales page: https://www.digistore24.com/product/252890
 - Vendor affiliate support: https://geldhuepfer.de/affiliate-support-seite-omas-99-beste-rezepte-die-traditionelle-kueche-digi
 - Canonical redirect: https://www.digistore24.com/redir/252890/adminstore
@@ -70,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Omas 99 beste Rezepte! Die traditionelle Küche? — Typ: E-books, Anbieter: geldhuepfer, gelistet seit 2018-12-17
-- Wie viel kostet es? — 8.370882 USD
+- Wie viel kostet es? — 8.352207 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

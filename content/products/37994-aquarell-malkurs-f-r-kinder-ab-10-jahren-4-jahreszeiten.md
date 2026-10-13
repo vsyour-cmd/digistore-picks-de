@@ -4,16 +4,16 @@ digistore24_product_id: 408957
 title: "Aquarell Malkurs für Kinder ab 10 Jahren \"4 Jahreszeiten\""
 vendor: "kolibrischool"
 product_type: "Member area and video courses"
-price: 23.44
+price: 23.39
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 4.68
+earnings_per_sale: 4.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://kolibri-school.de/vier-jahreszeiten-malen/?aff=adminstore#aff=adminstore"
 sales_page: "https://kolibri-school.de/vier-jahreszeiten-malen/"
@@ -22,16 +22,16 @@ language: "de"
 # Aquarell Malkurs für Kinder ab 10 Jahren "4 Jahreszeiten"
 
 > Product ID `37994` · Digistore24 productId `408957` · [HTML profile page](../../produkte/aquarell-malkurs-f-r-kinder-ab-10-jahren-4-jahreszeiten-37994.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.44 (Single payment) |
+| Price | $23.39 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $4.68 |
+| Earnings/sale* | $4.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kolibrischool |
@@ -41,7 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kolibri School ist eine online Malschule für Kinder, in der jedes Kind ab 6 ganz einfach und praktisch von zu Hause malen lernen kann. In diesem Malkurs lernen die Kinder Schritt-für-Schritt 4 Aquarell Bilder zu malen: die duftenden Blüten im Frühling, eine erfrischende Brise an heißen Sommertagen, ein stimmungsvoller Spaziergang im Herbstwald und das magische Spiel der Polarlichter im Winter. Du …
+**Vendor's marketplace description:** <p>Kolibri School ist eine <strong>online Malschule für Kinder</strong>, in der jedes Kind ab 6 ganz einfach und praktisch von zu Hause malen lernen kann.</p>
+<p>In diesem Malkurs lernen die Kinder Schritt-für-Schritt 4 Aquarell Bilder zu malen: die duftenden Blüten im <strong>Frühling</strong>, eine erfrischende Brise an heißen <strong>Sommertagen</strong>, ein stimmungsvoller Spaziergang im <strong>Herbstwald</strong> und das magische Spiel der Polarlichter im <strong>Winter</strong>.</p>
+<p>Du hast als Zielgruppe <strong>Eltern mit Kindern im Alter von 10 bis 14</strong> und Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an.</p>
+<p> </p>
+<p><strong>Zum Produkt:</strong></p>
+<ul>
+<li>4 Video Malkurse je ca 35 Min</li>
+<li>4 selbstgemalte Bilder in Aquarell</li>
+<li>kindergerechte und pädagogisch aufbereitete Schritt-für-Schritt-Anleitung</li>
+<li>geeignet für Kinder ab 10 Jahren</li>
+<li>von Profi-Künstlerin erstellt</li>
+</ul>
+<p><strong>Deine Vorteile:</strong></p>
+<ul>
+<li>20% Provision pro Verkauf</li>
+<li>Hochwertiges Produkt zum atraktiven Preis</li>
+<li>zufriedene Kunden</li>
+<li>sicheres Partnerprogram verwaltet durch Digistore24</li>
+<li>perfekte Nische, kaum Wettbewerb</li>
+<li>Werbemittel nach Anfrage  </li>
+</ul>
+<p>Bei weiteren Fragen stehen wir gerne per E-mail kunst@kolibri-school.de zur Verfügung.</p>
 
 ## 2. Links
 
@@ -69,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aquarell Malkurs für Kinder ab 10 Jahren "4 Jahreszeiten"? — Typ: Member area and video courses, Anbieter: kolibrischool, gelistet seit 2021-09-23
-- Wie viel kostet es? — 23.442952000000002 USD
+- Wie viel kostet es? — 23.390652000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

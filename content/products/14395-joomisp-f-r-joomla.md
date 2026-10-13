@@ -4,34 +4,34 @@ digistore24_product_id: 71639
 title: "JoomISP für Joomla!"
 vendor: "RolandSM"
 product_type: "Downloads"
-price: 257.4
+price: 256.83
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 51.48
+earnings_per_sale: 51.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2016-02-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://joomisp.de/de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/14395/adminstore/"
 sales_page: "https://joomisp.de/de"
 language: "de"
 ---
 # JoomISP für Joomla!
 
 > Product ID `14395` · Digistore24 productId `71639` · [HTML profile page](../../produkte/joomisp-f-r-joomla-14395.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $257.40 (Single payment, Subscription) |
+| Price | $256.83 (Single payment, Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $51.48 |
+| Earnings/sale* | $51.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RolandSM |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit der Joomla! Erweiterung JoomISP können Sie als Internet Dienstleister Ihre Produkte & Leistungen wie Webhosting, Serververmietung uvm. direkt auf Ihrer Joomla! Homepage verkaufen. Mit zahlreichen optionalen Plugins & Modulen können Sie den Bestellprozess weiter vereinfachen, wie z.B. das gekaufte Webhosting Paket auf dem Zielserver einrichten bestellte Domains registrieren oder umziehen automa…
+**Vendor's marketplace description:** <p>Mit der <strong>Joomla! Erweiterung <em>JoomISP</em></strong> können Sie als Internet Dienstleister Ihre Produkte &amp; Leistungen wie Webhosting, Serververmietung uvm. direkt auf Ihrer Joomla! Homepage verkaufen.</p>
+<p>  </p>
+<p>Mit zahlreichen optionalen Plugins &amp; Modulen können Sie den Bestellprozess weiter vereinfachen, wie z.B.</p>
+<ul><li>das gekaufte Webhosting Paket auf dem Zielserver einrichten</li>
+<li>bestellte Domains registrieren oder umziehen</li>
+<li>automatische Erstellung der Rechnungen für den Kunden</li>
+<li>automatisches Email Marketing</li>
+</ul><p> </p>
+<p>Ganz einfach mit der <strong>Joomla! Erweiterung <em>JoomISP</em></strong>!</p>
+<p>Alle Informationen zu JoomISP, seinen Funktionen sowie verfügbare Plugins finden Sie auf der <a title="JoomISP Webseite" href="https://joomisp.de" target="_blank" rel="noreferrer noopener">JoomISP Webseite</a>!</p>
+<p> </p>
+<p><strong>Erhalten Sie 20% bei Verkauf des Pakets über Ihren Promo Link!</strong></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://joomisp.de/de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/14395/adminstore/
 - Sales page: https://joomisp.de/de
 - Vendor affiliate support: https://joomisp.de/de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/71639/adminstore
@@ -81,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist JoomISP für Joomla!? — Typ: Downloads, Anbieter: RolandSM, gelistet seit 2016-02-12
-- Wie viel kostet es? — 257.40182 USD
+- Wie viel kostet es? — 256.82757000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 447376
 title: "Mission Angstfrei 2.0: Angst und Panik überwinden"
 vendor: "saschajurek"
 product_type: "Member area and video courses"
-price: 301.84
+price: 301.17
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 74.98
+earnings_per_sale: 74.81
 cart_conversion_pct: 9
 cancel_rate_pct: 5.59
 categories: ["Personal Development"]
 listed_since: "2022-06-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://go.saschajurek.de/mission-angstfrei-20-neu/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.saschajurek.de/mission-angstfrei-20-neu/"
@@ -22,16 +22,16 @@ language: "de"
 # Mission Angstfrei 2.0: Angst und Panik überwinden
 
 > Product ID `41513` · Digistore24 productId `447376` · [HTML profile page](../../produkte/mission-angstfrei-2-0-angst-und-panik-berwinden-41513.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $301.84 (Single payment, Installment) |
+| Price | $301.17 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $74.98 |
+| Earnings/sale* | $74.81 |
 | Cart conversion* | 9% |
 | Cancel rate* | 5.59% |
 | Vendor | saschajurek |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Internet ist voll mit Tipps&Tricks gegen Ängste. Trotzdem leiden heute mehr Menschen denn je an Ängsten und Panikattacken. Woran liegt das? Der Grund dafür ist einfach: Viele Methoden zum Auflösen von Ängsten sind veraltet und widersprechen neuen Erkenntnissen aus der Neurowissenschaft. Denn wir wissen heute, wie man die Ursache von Ängsten finden und so bearbeiten kann, dass die Angst nicht m…
+**Vendor's marketplace description:** <p>Das Internet ist voll mit Tipps&amp;Tricks gegen Ängste. Trotzdem leiden heute mehr Menschen denn je an Ängsten und Panikattacken. </p>
+<p>Woran liegt das? </p>
+<p>Der Grund dafür ist einfach: Viele Methoden zum Auflösen von Ängsten sind veraltet und widersprechen neuen Erkenntnissen aus der Neurowissenschaft. Denn wir wissen heute, wie man die Ursache von Ängsten finden und so bearbeiten kann, dass die Angst nicht mehr getriggert wird.</p>
+<p>Leider werden diese Erkenntnisse der Hirnforschung nicht in den Standardtherapien eingesetzt. Andere Methoden beruhen lediglich darauf, das Nervensystem mithilfe von Achtsamkeit oder Meditation zu beruhigen. Das verzögert aber nur das nächste Ausbrechen der Angst anstatt die Ursache aufzulösen.  </p>
+<p>Mit der TNE Methode ist es erstmals online möglich, zu lernen, Ängste und Panik ursachenorientiert und damit nachhaltig aufzulösen. </p>
+<p>Gründer der TNE Methode ist Sascha Jurek, Heilpraktiker für Psychotherapie und zertifizierter Hypnosetherapeut. </p>
+<p>Die Methode beruht auf aktueller wissenschaftlicher Forschung und setzt diese Erkenntnisse in einen leicht nachvollziehbaren Prozess um. </p>
+<p>Der Online Kurs umfasst ein Workbook, Videos sowie Audio-Hypnosen. </p>
+<p>Schon mehr als 2.000 Teilnehmer!</p>
+<p>Auch Ärzte, Psychologen, Coaches und Prominente vertrauen der TNE Methode, um Ängste aufzulösen!</p>
+<p><strong>Vorteile:</strong></p>
+<ul>
+<li>Verkaufspsychologisch optimierter Funnel</li>
+<li>Hohe Provision</li>
+<li>Geringe Stornoquote</li>
+<li>Hohe Bekanntheit von Sascha Jurek als Experte für Ängste</li>
+</ul>
 
 ## 2. Links
 
@@ -66,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mission Angstfrei 2.0: Angst und Panik überwinden? — Typ: Member area and video courses, Anbieter: saschajurek, gelistet seit 2022-06-18
-- Wie viel kostet es? — 301.84481600000004 USD
+- Wie viel kostet es? — 301.171416 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 590371
 title: "Leben und Arbeiten in Kroatien"
 vendor: "medienversand2014"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2025-01-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://noebauerfxj.wixsite.com/leben-kroatien?aff=adminstore#aff=adminstore"
 sales_page: "https://noebauerfxj.wixsite.com/leben-kroatien"
@@ -22,16 +22,16 @@ language: "de"
 # Leben und Arbeiten in Kroatien
 
 > Product ID `50964` · Digistore24 productId `590371` · [HTML profile page](../../produkte/leben-und-arbeiten-in-kroatien-50964.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | medienversand2014 |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Träumst Du davon, am kristallklaren Meer zu leben, in einer bezaubernden mediterranen Umgebung zu arbeiten und das ganze Jahr über die Sonne zu genießen? Kroatien bietet Dir genau das und noch viel mehr! Entdecke, wie Du Deinen Traum vom Leben und Arbeiten in Kroatien verwirklichen kannst. Bitte unbedingt beachten:Hier handelt es sich um ein digitales Produkt und kein pysisches Buch.
+**Vendor's marketplace description:** <p>Träumst Du davon, am kristallklaren Meer zu leben, in einer bezaubernden mediterranen Umgebung zu arbeiten und das ganze Jahr über die Sonne zu genießen? Kroatien bietet Dir genau das und noch viel mehr! <br />Entdecke, wie Du Deinen Traum vom Leben und Arbeiten in Kroatien verwirklichen kannst.</p>
+<p> </p>
+<p> </p>
+<p><span style="color:#ff0000;"><strong>Bitte unbedingt beachten:</strong></span><br /><span style="color:#ff0000;">Hier handelt es sich um ein digitales Produkt und kein pysisches Buch.</span></p>
 
 ## 2. Links
 
@@ -67,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leben und Arbeiten in Kroatien? — Typ: E-books, Anbieter: medienversand2014, gelistet seit 2025-01-14
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

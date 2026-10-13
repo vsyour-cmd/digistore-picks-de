@@ -4,34 +4,34 @@ digistore24_product_id: 325707
 title: "Das Partnerprogramm von Maxim Mankevich"
 vendor: "Koepfe-der-Genies"
 product_type: "Member area and video courses"
-price: 276.61
+price: 275.99
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 63.58
+earnings_per_sale: 63.44
 cart_conversion_pct: 1
 cancel_rate_pct: 7.32
 categories: ["Personal Development"]
 listed_since: "2020-05-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://akademie.maximmankevich.com/soulmaster?aff=adminstore#aff=adminstore"
+promo_link: "http://www.lenormand-online24.de/ebook-leno7#aff=adminstore"
 sales_page: "https://akademie.maximmankevich.com/soulmaster"
 language: "de"
 ---
 # Das Partnerprogramm von Maxim Mankevich
 
 > Product ID `30123` · Digistore24 productId `325707` · [HTML profile page](../../produkte/das-partnerprogramm-von-maxim-mankevich-30123.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $276.61 (Single payment, Installment) |
+| Price | $275.99 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $63.58 |
+| Earnings/sale* | $63.44 |
 | Cart conversion* | 1% |
 | Cancel rate* | 7.32% |
 | Vendor | Koepfe-der-Genies |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Maxim Mankevich Partnerprogramm Deine Vorteile auf den Punkt: + 51% Provision auf jedes Seminar + Geringe Stornoquote, da bekannter Experte im Markt + Umfangreiche und fertige Werbematerialien für den Sofort-Start Weitere Infos: https://maximmankevich.com/partnerprogramm Maxim Mankevich ist Experte für Erfolgswissen. Nach seinem BWL-Studium (Diplom) startete er zunächst im Consulting. Nach nur ein…
+**Vendor's marketplace description:** <p>Maxim Mankevich Partnerprogramm</p>
+<p>Deine Vorteile auf den Punkt:</p>
+<p><span style="color:#ff6600;"><strong>  <span style="color:#000000;">+</span> 51% Provision</strong></span> auf jedes Seminar<br />  <strong>+</strong> Geringe Stornoquote, da bekannter Experte im Markt<br />  <strong>+</strong> Umfangreiche und fertige Werbematerialien für den Sofort-Start</p>
+<p>Weitere Infos: <a href="https://maximmankevich.com/partnerprogramm" target="_blank" rel="noreferrer noopener">https://maximmankevich.com/partnerprogramm</a></p>
+<p>Maxim Mankevich ist <strong>Experte für Erfolgswissen</strong>. Nach seinem BWL-Studium (Diplom) startete er zunächst im Consulting. Nach nur einem Jahr in zahlreichen internationalen Projekten, stieg er direkt als Studienleiter beim Branchenprimus „<strong>GEDANKENtanken</strong>“ ein. Innerhalb kürzester Zeit bildete er Experten &amp; Führungskräfte aus und wurde so dort zum jüngster Trainer aller Zeiten. Zudem mitbegründete Maxim den Studiengang: „Management Training“, indem er als <strong>Hochschuldozent</strong> zahlreiche Seminare leitete.</p>
+<p>Als <strong>Vortragsredner</strong> steht Maxim jedes Jahr <strong>vor tausenden Menschen</strong>! Er inspiriert, berührt und rüttelt wach. In seinen Vorträgen erlebt das Publikum zielgerichtete<strong> Inspiration und Inhalt mit Tiefgang</strong>.</p>
+<p>Maxim ist ein <strong>gefragter Experte</strong> und verfügt mit über 480.000 Abonnenten über eine riesige Social-Media-Reichweite. Mit seiner starken Präsenz im Markt, erreicht er über Facebook, Youtube &amp; Instagram <strong>über 5 Millionen</strong> Menschen jeden Monat, hält europaweit Seminare &amp; Vorträge und begeistert Menschen von jung bis alt.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://akademie.maximmankevich.com/soulmaster?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://www.lenormand-online24.de/ebook-leno7#aff=adminstore
 - Sales page: https://akademie.maximmankevich.com/soulmaster
 - Vendor affiliate support: https://maximmankevich.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/325707/adminstore
@@ -89,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm von Maxim Mankevich? — Typ: Member area and video courses, Anbieter: Koepfe-der-Genies, gelistet seit 2020-05-09
-- Wie viel kostet es? — 276.608904 USD
+- Wie viel kostet es? — 275.991804 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

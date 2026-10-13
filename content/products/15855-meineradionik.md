@@ -4,34 +4,34 @@ digistore24_product_id: 115687
 title: "MeineRadionik"
 vendor: "kohnlesoft"
 product_type: "Member area and video courses"
-price: 487.44
+price: 486.35
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 51.97
+earnings_per_sale: 51.86
 cart_conversion_pct: 21
 cancel_rate_pct: 2.03
 categories: ["Software","Spiri­tua­lity & Esotericism"]
 listed_since: "2017-01-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/115687/adminstore"
+promo_link: "https://www.digistore24.com/redir/15855/adminstore/"
 sales_page: "https://meine-radionik.de/?pk_campaign=dgs-[AFFILIATE]&pk_kwd=[CAMPAIGNKEY]"
 language: "de"
 ---
 # MeineRadionik
 
 > Product ID `15855` · Digistore24 productId `115687` · [HTML profile page](../../produkte/meineradionik-15855.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $487.44 (Subscription) |
+| Price | $486.35 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $51.97 |
+| Earnings/sale* | $51.86 |
 | Cart conversion* | 21% |
 | Cancel rate* | 2.03% |
 | Vendor | kohnlesoft |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ihr eigenes virtuelles Radionikgerät Jetzt ist die Zeit für eine Radioniksoftware gekommen, die rein internetbasiert arbeitet, bezahlbar ist, keine Zusatzgeräte benötigt und von überall aus zu benutzen ist. MeineRadionik analysiert und harmonisiert die bioenergetischen Felder von Personen, Tieren und Pflanzen, sowie von Objekten, Gebäuden und Ökosystemen. Auch soziale Systeme, wie z.B. Familien, G…
+**Vendor's marketplace description:** <p><strong>Ihr eigenes virtuelles Radionikgerät</strong></p>
+<p>Jetzt ist die Zeit für eine Radioniksoftware gekommen, die rein internetbasiert arbeitet, bezahlbar ist, keine Zusatzgeräte benötigt und von überall aus zu benutzen ist.</p>
+<p>MeineRadionik analysiert und harmonisiert die bioenergetischen Felder von Personen, Tieren und Pflanzen, sowie von Objekten, Gebäuden und Ökosystemen. Auch soziale Systeme, wie z.B. Familien, Gruppen, Unternehmen können damit bearbeitet werden. Radionik ist eine Methode, mit der Gedanken, Muster und Schwingungen übertragen werden können. Dies funktioniert sogar, ohne dass der Klient persönlich anwesend sein muss.</p>
+<p>Durch intensive Forschungsarbeit ist es uns gelungen, ihnen eine Software bereitzustellen, die rein internetbasiert arbeitet. Sie benötigen weder teure Zusatzgeräte, noch sind stoffliche Proben der Klienten notwendig. MeineRadionik richtet sich an Anfänger genauso wie an Profis und bietet eine einfach zu bedienende und hocheffektive Methode, um aktiv mit bioenergetischen Feldern zu arbeiten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/115687/adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/15855/adminstore/
 - Sales page: https://meine-radionik.de/?pk_campaign=dgs-[AFFILIATE]&pk_kwd=[CAMPAIGNKEY]
 - Vendor affiliate support: https://meine-radionik.de/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/115687/adminstore
@@ -85,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MeineRadionik? — Typ: Member area and video courses, Anbieter: kohnlesoft, gelistet seit 2017-01-26
-- Wie viel kostet es? — 487.43858800000004 USD
+- Wie viel kostet es? — 486.35113800000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

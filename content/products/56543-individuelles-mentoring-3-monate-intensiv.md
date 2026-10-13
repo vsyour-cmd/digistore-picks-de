@@ -4,34 +4,34 @@ digistore24_product_id: 614001
 title: "Individuelles Mentoring – 3 Monate intensiv"
 vendor: "verwitwet-leben"
 product_type: "Online coaching"
-price: 734.51
+price: 732.87
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 73.46
+earnings_per_sale: 73.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-05-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://verwitwet-leben.de/individuelles-mentoring/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56543/adminstore/"
 sales_page: "https://verwitwet-leben.de/individuelles-mentoring/"
 language: "de"
 ---
 # Individuelles Mentoring – 3 Monate intensiv
 
 > Product ID `56543` · Digistore24 productId `614001` · [HTML profile page](../../produkte/individuelles-mentoring-3-monate-intensiv-56543.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $734.51 (Single payment, Installment) |
+| Price | $732.87 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $73.46 |
+| Earnings/sale* | $73.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | verwitwet-leben |
@@ -41,11 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Individuelles Mentoring – 3 Monate intensive finanzielle Begleitung Du brauchst Klarheit zu Deiner Witwenrente, Einkommensanrechnung oder finanziellen Zukunft? In diesem persönlichen 1:1Intensiv Mentoring klären wir in drei Monaten Deine individuelle Situation – verständlich, strukturiert und lösungsorientiert. Wenn du unsicher bist und keine falschen Entscheidungen treffen möchtest, ist dieses Me…
+**Vendor's marketplace description:** <h2>Individuelles Mentoring – 3 Monate intensive finanzielle Begleitung</h2>
+<p>Du brauchst Klarheit zu Deiner <strong>Witwenrente</strong>, Einkommensanrechnung oder <strong>finanziellen Zukunft</strong>? In diesem persönlichen 1:1Intensiv Mentoring klären wir in drei Monaten Deine individuelle Situation – verständlich, strukturiert und lösungsorientiert.</p>
+<p>Wenn du <strong>unsicher bist</strong> und keine falschen Entscheidungen treffen möchtest, ist dieses Mentoring <strong>genau für dich gedacht. </strong>Ich begleite dich in deiner schwierigen Lebenssituation und lasse dich finanziell nicht alleine.</p>
+<h2>Individuelles Mentoring intensiv</h2>
+<p>In diesem Mentoring begleite ich dich intensiv über einen Zeitraum von <strong>drei Monaten</strong> bei deiner persönlichen Situation.</p>
+<p><strong>Das ist enthalten:</strong></p>
+<ul>
+<li>Drei individuelle 1:1 Sessions (je ca. 60 Minuten)</li>
+<li>persönliche Begleitung über einen Zeitraum von Monaten</li>
+<li>Ein Videokurs aus meinem Angebot zum Selbstlernen</li>
+<li><strong>Bonus:</strong> Inklusive <a><strong>Excel-Berechnungshilfe</strong></a> mit Lifehack im Wert von <strong>79 €!</strong></li>
+</ul>
+<p><strong>Zwischen den Terminen:</strong></p>
+<p>Du hast die Möglichkeit, <strong>mir Fragen per E-Mail oder Sprachnachricht</strong> zu stellen. Ich antworte dir gesammelt und strukturiert – in der Regel innerhalb weniger Tage.</p>
+<p>So hast du auch zwischen den Terminen Klarheit, ohne dass du alleine weitermachen musst. Viele Fragen lassen sich auch gut in den nächsten Termin mitnehmen – wir strukturieren das gemeinsam.</p>
+<p>Die Gespräche finden online <strong>per Zoom oder Teams</strong> statt. Die Termine vereinbaren wir ganz individuell nach Deinem Bedarf.</p>
+<h3>Im Mentoring geht es intensiv um Dich!</h3>
+<p><strong>Leistungen im Gesamtwert von 686 €<br />Deine Investition: 600 €<br /></strong>(3 bequeme Raten à 220 € möglich)</p>
+<p><strong>Bonus:</strong> Inklusive <a><strong>Excel-Berechnungshilfe</strong></a><strong> </strong>mit Lifehack im Wert von <strong>79 €!</strong></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://verwitwet-leben.de/individuelles-mentoring/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56543/adminstore/
 - Sales page: https://verwitwet-leben.de/individuelles-mentoring/
 - Canonical redirect: https://www.digistore24.com/redir/614001/adminstore
 
@@ -96,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Individuelles Mentoring – 3 Monate intensiv? — Typ: Online coaching, Anbieter: verwitwet-leben, gelistet seit 2026-05-16
-- Wie viel kostet es? — 734.5084760000001 USD
+- Wie viel kostet es? — 732.8698260000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

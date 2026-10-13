@@ -4,34 +4,34 @@ digistore24_product_id: 335967
 title: "Kreativer online Malkurs für Kinder \"Sommer Motive\""
 vendor: "kolibrischool"
 product_type: "Member area and video courses"
-price: 28.16
+price: 28.1
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 5.64
+earnings_per_sale: 5.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-07-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://kolibri-school.de/sommer-motive?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37475/adminstore/"
 sales_page: "https://kolibri-school.de/sommer-motive"
 language: "de"
 ---
 # Kreativer online Malkurs für Kinder "Sommer Motive"
 
 > Product ID `37475` · Digistore24 productId `335967` · [HTML profile page](../../produkte/kreativer-online-malkurs-f-r-kinder-sommer-motive-37475.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.16 (Single payment) |
+| Price | $28.10 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $5.64 |
+| Earnings/sale* | $5.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kolibrischool |
@@ -41,11 +41,33 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kolibri School ist eine online Malschule für Kinder, in der jedes Kind ab 6 ganz einfach und praktisch von zu Hause malen lernen kann. In dem Malkurs "Sommer Motive" lernen die Kinder 6 verschiedene Sommerbilder in Acryl und Aquarell zu malen. Du hast als Zielgruppe Eltern mit Kindern im Alter von 6 bis 10 und Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an. Zum Produ…
+**Vendor's marketplace description:** <p>Kolibri School ist eine <strong>online Malschule für Kinder</strong>, in der jedes Kind ab 6 ganz einfach und praktisch von zu Hause malen lernen kann.</p>
+<p>In dem Malkurs "Sommer Motive" lernen die Kinder <strong>6 verschiedene Sommerbilder in Acryl und Aquarell</strong> zu malen. </p>
+<p>Du hast als Zielgruppe <strong>Eltern mit Kindern im Alter von 6 bis 10</strong> und Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an.</p>
+<p><strong>Zum Produkt:</strong></p>
+<ul>
+<li>6 Video Malkurse je ca 25 Min</li>
+<li>6 selbstgemalte Bilder in Acryl und Aquarell</li>
+<li>kindergerechte und pädagogisch aufbereitete Schritt-für-Schritt-Anleitung</li>
+<li>geeignet für Kinder ab 6 Jahren</li>
+<li>von Profi-Künstlerin erstellt</li>
+<li>90 Tage lang zugang zu dem Malkurs</li>
+</ul>
+<p><strong>Deine Vorteile:</strong></p>
+<ul>
+<li>20% Provision pro Verkauf</li>
+<li>Hochwertiges Produkt zum atraktiven Preis</li>
+<li>zufriedene Kunden</li>
+<li>sicheres Partnerprogram verwaltet durch Digistore24</li>
+<li>perfekte Nische, kaum Wettbewerb</li>
+<li>Werbemittel nach Anfrage</li>
+</ul>
+<p> </p>
+<p>Bei weiteren Fragen stehen wir gerne per E-mail <a>kunst@kolibri-school.de</a> zur Verfügung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kolibri-school.de/sommer-motive?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37475/adminstore/
 - Sales page: https://kolibri-school.de/sommer-motive
 - Canonical redirect: https://www.digistore24.com/redir/335967/adminstore
 
@@ -70,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kreativer online Malkurs für Kinder "Sommer Motive"? — Typ: Member area and video courses, Anbieter: kolibrischool, gelistet seit 2020-07-10
-- Wie viel kostet es? — 28.160678 USD
+- Wie viel kostet es? — 28.097853 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 551151
 title: "Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs"
 vendor: "DeinSprachcoach"
 product_type: "Member area and video courses"
-price: 268.53
+price: 267.93
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 105.08
+earnings_per_sale: 104.84
 cart_conversion_pct: 4
 cancel_rate_pct: 2.13
 categories: ["Education"]
 listed_since: "2024-05-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://dein-sprachcoach.de/c1-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://dein-sprachcoach.de/c1-kurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs
 
 > Product ID `48160` · Digistore24 productId `551151` · [HTML profile page](../../produkte/das-partnerprogramm-von-dein-sprachcoach-der-c1-kurs-48160.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $268.53 (Single payment, Installment) |
+| Price | $267.93 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $105.08 |
+| Earnings/sale* | $104.84 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.13% |
 | Vendor | DeinSprachcoach |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** C1-Kurs "Grammatik-Helden und Wortschatz-Profis" - 30% pro Verkauf! Werde ebenfalls Affiliatepartner und profitiere von einem beliebten und einzigartigen Affiliate Programm! Einzigartig [hohe Conversion]: 30% Provision vom C1-Kurs (199€) Überdurchschnittlich hohe Conversion Rates (bis zu 30% auf einzelnen Landingpages) Besonders lange Cookielaufzeit von 180 Tagen Persönlicher und schneller Support…
+**Vendor's marketplace description:** <h4><strong>C1-Kurs "Grammatik-Helden und Wortschatz-Profis" - 30% pro Verkauf!</strong><strong><br /></strong></h4>
+<p><strong>Werde ebenfalls Affiliatepartner </strong>und profitiere von einem beliebten und einzigartigen Affiliate Programm!</p>
+<p><strong>Einzigartig [hohe Conversion]:<br /></strong></p>
+<ul>
+<li><strong>30% Provision</strong> vom C1-Kurs (199€)</li>
+<li>Überdurchschnittlich <strong>hohe Conversion Rates</strong> (bis zu 30% auf einzelnen Landingpages)</li>
+<li>Besonders lange <strong>Cookielaufzeit von 180 Tagen</strong></li>
+<li>Persönlicher und<strong> schneller Support</strong></li>
+</ul>
+<p>Starke Personal Brand von Deinem Sprachcoach (1.500.000+ Follower auf Social Media) erhöht den Wiedererkennungswert und führt zu einer schnelleren Kaufentscheidung.<br /><br />Nachdem wir <strong>organisch über 40.000 Kunden </strong>überzeugen konnten und die Verkaufsprozesse optimiert haben, wollen wir weiter skalieren. Daher suchen wir DICH als Affiliate Marketing PartnerIn.</p>
+<p><em>Du hast eine bestehende Community, die an der deutschen Sprache interessiert ist?</em></p>
+<p><em>Oder du bist erfahren im Online Marketing?</em></p>
+<p>Dann überzeuge dich von unserem Partnerprogramm, schalte Online Werbung für unseren B1-Kurs und verdiene damit Geld.</p>
+<p><a href="https://dein-sprachcoach.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; Hinweise zum Partnerprogramm (hier klicken) &lt;&lt;</strong></a></p>
 
 ## 2. Links
 
@@ -96,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs? — Typ: Member area and video courses, Anbieter: DeinSprachcoach, gelistet seit 2024-05-05
-- Wie viel kostet es? — 268.529378 USD
+- Wie viel kostet es? — 267.93030300000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 726452
 title: "Ihre eigene automatisierte Kalender  \"Termin Buchungssystem\""
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 504.27
+price: 503.15
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 151.28
+earnings_per_sale: 150.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2026-08-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/termin-buchungssystem-erstellen-guenstig-450euro-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/termin-buchungssystem-erstellen-guenstig-450euro-digistore24/"
@@ -22,16 +22,16 @@ language: "de"
 # Ihre eigene automatisierte Kalender  "Termin Buchungssystem"
 
 > Product ID `58766` · Digistore24 productId `726452` · [HTML profile page](../../produkte/ihre-eigene-automatisierte-kalender-termin-buchungssystem-58766.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $504.27 (Single payment, Installment) |
+| Price | $503.15 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $151.28 |
+| Earnings/sale* | $150.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -41,7 +41,60 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** NIE MEHR TERMINE – VERPASSEN Sichern Sie Sich Ihre Termin Buchungssystem - Ich erstelle Ihre Kalender mit bis 10 Events Nur mit 450€ #0 Diese Preis Für 1 Person und bis 10 Events #1 Inklusiv 1 Page erstellen für Ihre System #2 Upgraden für mehr Personen und Events ja ist möglich #3 Software Abonnementgebühren Ja sehr niedrig #4 Auf Ihrer eigenen Website, nicht auf einer Plattform #5 3 Erinnerungen…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<h1><span style="color:#993300;"><strong>NIE MEHR TERMINE – VERPASSEN</strong></span></h1>
+<div><span style="color:#993300;"><strong> </strong></span></div>
+</div>
+</div>
+<div>
+<div>
+<pre><span style="color:#993300;"><strong>Sichern Sie Sich </strong><strong>Ihre Termin Buchungssystem - Ich erstelle Ihre Kalender mit bis 10 Events </strong></span></pre>
+</div>
+</div>
+<div>
+<div>
+<p><span style="color:#993300;">Nur mit 450<em>€</em> </span></p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div> </div>
+</div>
+</div>
+</div>
+<div>
+<ul>
+<li>#0 Diese Preis Für 1 Person und bis 10 Events</li>
+<li>#1 Inklusiv 1 Page erstellen für Ihre System</li>
+<li>#2 Upgraden für mehr Personen und Events ja ist möglich</li>
+<li>#3 Software Abonnementgebühren Ja sehr niedrig</li>
+<li>#4 Auf Ihrer eigenen Website, nicht auf einer Plattform</li>
+<li>#5 3 Erinnerungen (vor dem Termin)</li>
+<li>#6 1 Email (nach dem Termin)</li>
+<li>#7 Stornierungen –und automatische Änderungen</li>
+<li>#8 Anbindung mit Google Kalender oder andere</li>
+<li>#9 Anbindung an Zoom, Teams, GoToMeeting (optional)</li>
+<li>#10 Felder/Formulare/Fragen zusätzlich &amp; Datenerfassung</li>
+<li>#11 Synchronisierung mit anderer Software, möglich</li>
+<li>#12 Pflege : Ja möglich zusätzlich kostet</li>
+<li> </li>
+</ul>
+<p> </p>
+<ul>
+<li>Schauen Sie hier unsere Video, was können wir für Euch tun sehr günstig</li>
+</ul>
+</div>
+</div>
+<div>
+<div>
+<p> </p>
+</div>
+</div>
 
 ## 2. Links
 
@@ -94,7 +147,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ihre eigene automatisierte Kalender  "Termin Buchungssystem"? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2026-08-29
-- Wie viel kostet es? — 504.27000000000004 USD
+- Wie viel kostet es? — 503.14500000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 680632
 title: "Lese-Rechtschreibförderprogramm"
 vendor: "KerstinSchimkus"
 product_type: "Downloads"
-price: 198.35
+price: 197.9
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 19.83
+earnings_per_sale: 19.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://lexosophie.mydigibiz24.com/lexoschool-hefte?aff=adminstore#aff=adminstore"
 sales_page: "https://lexosophie.mydigibiz24.com/lexoschool-hefte"
@@ -22,16 +22,16 @@ language: "de"
 # Lese-Rechtschreibförderprogramm
 
 > Product ID `57366` · Digistore24 productId `680632` · [HTML profile page](../../produkte/lese-rechtschreibf-rderprogramm-57366.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $198.35 (Single payment) |
+| Price | $197.90 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $19.83 |
+| Earnings/sale* | $19.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Schreibstark®- Hefte (Anleitungs- und Übungsheft) helfen Kindern von 7-17 Jahren bei Lese-Rechtschreibschwierigkeiten. Sie basieren auf der Methode der Lexosophie und bilden die Basis für korrekte Dopplung und Dehnung. Das Anleitungsheft zeigt ausführlichst, wie das Übungsheft bearbeitet wird.
+**Vendor's marketplace description:** <p>Die Schreibstark®- Hefte (Anleitungs- und Übungsheft) helfen Kindern von 7-17 Jahren bei Lese-Rechtschreibschwierigkeiten. Sie basieren auf der Methode der Lexosophie und bilden die Basis für korrekte Dopplung und Dehnung. </p>
+<p>Das Anleitungsheft zeigt ausführlichst, wie das Übungsheft bearbeitet wird.</p>
 
 ## 2. Links
 
@@ -79,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lese-Rechtschreibförderprogramm? — Typ: Downloads, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 198.3462 USD
+- Wie viel kostet es? — 197.90370000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

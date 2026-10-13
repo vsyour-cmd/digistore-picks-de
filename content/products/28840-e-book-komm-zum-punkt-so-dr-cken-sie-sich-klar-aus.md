@@ -4,7 +4,7 @@ digistore24_product_id: 202589
 title: "E-Book: Komm zum Punkt! So drücken Sie sich klar aus"
 vendor: "ThiloBaum"
 product_type: "E-books"
-price: 6.17
+price: 6.16
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.09
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-02-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://klartextexperte.de/komm-zum-punkt/?aff=adminstore#aff=adminstore"
 sales_page: "https://klartextexperte.de/komm-zum-punkt/"
@@ -22,14 +22,14 @@ language: "de"
 # E-Book: Komm zum Punkt! So drücken Sie sich klar aus
 
 > Product ID `28840` · Digistore24 productId `202589` · [HTML profile page](../../produkte/e-book-komm-zum-punkt-so-dr-cken-sie-sich-klar-aus-28840.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.17 (Single payment) |
+| Price | $6.16 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.09 |
 | Cart conversion* | — |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Komm zum Punkt!“ ist Thilo Baums wichtigstes Buch. Es bündelt das relevante Wissen, damit sich Menschen in Unternehmen klar ausdrücken.Das Buch ist erstmals 2009 bei Eichborn erschienen und gehört heute zu Thilo Baums Eigenverlag. Die vierte Auflage ist aktualisiert und um neue Beispiele aus Seminaren ergänzt.Erfahren Sie auf 230 Seiten, wie klare Sprache funktioniert und wie Sie sie im Unternehm…
+**Vendor's marketplace description:** <h4>„Komm zum Punkt!“ ist Thilo Baums wichtigstes Buch. Es bündelt das relevante Wissen, damit sich Menschen in Unternehmen klar ausdrücken.<br /><br />Das Buch ist erstmals 2009 bei Eichborn erschienen und gehört heute zu Thilo Baums Eigenverlag. Die vierte Auflage ist aktualisiert und um neue Beispiele aus Seminaren ergänzt.<br /><br />Erfahren Sie auf 230 Seiten, wie klare Sprache funktioniert und wie Sie sie im Unternehmen konkret anwenden – mit mehr als 100 leicht anwendbaren und anschaulichen Klartext-Tipps.<br /><br />Das E-Book erhalten Sie hier für 5,90 Euro.</h4>
 
 ## 2. Links
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Komm zum Punkt! So drücken Sie sich klar aus? — Typ: E-books, Anbieter: ThiloBaum, gelistet seit 2018-02-20
-- Wie viel kostet es? — 6.174506 USD
+- Wie viel kostet es? — 6.160731 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

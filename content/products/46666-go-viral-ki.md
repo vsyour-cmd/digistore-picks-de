@@ -4,16 +4,16 @@ digistore24_product_id: 532250
 title: "GO Viral KI"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 63.09
+price: 62.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.54
+earnings_per_sale: 31.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-01-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/viraler-ki-boost/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/viraler-ki-boost/"
@@ -22,16 +22,16 @@ language: "de"
 # GO Viral KI
 
 > Product ID `46666` · Digistore24 productId `532250` · [HTML profile page](../../produkte/go-viral-ki-46666.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $63.09 (Single payment) |
+| Price | $62.95 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.54 |
+| Earnings/sale* | $31.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe den Bestseller Kurs: GO Viral ✅ Exponentielles Wachstum der Social Media Kanäle (TikTok, Insta, YouTube usw.) ✅ Zum Viralen Inluencer dank KI werden ✅ Man kann auch komplett ANONYM bleiben !!! ✅ Als Bonus bekommt deine Communite den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen Content (auch kostenfreier Content)...
+**Vendor's marketplace description:** <div><strong><em>Bewerbe den Bestseller Kurs: GO Viral</em></strong></div>
+<div> </div>
+<div>
+<p><strong><em>✅  Exponentielles Wachstum der Social Media Kanäle (TikTok, Insta, YouTube usw.)</em></strong></p>
+<p><strong><em>✅ </em> Zum Viralen Inluencer dank KI werden</strong></p>
+<p><strong><em>✅  Man kann auch komplett ANONYM bleiben !!!</em></strong></p>
+<p><strong><em>✅  </em>Als Bonus bekommt deine Communite den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen Content (auch kostenfreier Content)...</strong></p>
+</div>
 
 ## 2. Links
 
@@ -66,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GO Viral KI? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-01-01
-- Wie viel kostet es? — 63.08978 USD
+- Wie viel kostet es? — 62.94903 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

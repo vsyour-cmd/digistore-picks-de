@@ -4,34 +4,34 @@ digistore24_product_id: 140951
 title: "Bewegen wie die Meister Teil 2"
 vendor: "EquilibriumState"
 product_type: "Downloads"
-price: 37.65
+price: 37.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.83
+earnings_per_sale: 18.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-05-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://es-welt.de/index.php?page_id=1308&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/16857/adminstore/"
 sales_page: "http://es-welt.de/index.php?page_id=1308"
 language: "de"
 ---
 # Bewegen wie die Meister Teil 2
 
 > Product ID `16857` · Digistore24 productId `140951` · [HTML profile page](../../produkte/bewegen-wie-die-meister-teil-2-16857.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.65 (Single payment) |
+| Price | $37.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.83 |
+| Earnings/sale* | $18.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EquilibriumState |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 60 Minuten Seminarmitschnitt des Seminars "Bewegen wie die Meister 2" 2017. Stream / Zugang Mitgliederbereich. In diesem 60minütigen Seminarmitschnitt bekommst du: Grundlagen und Konzepte funktionalen Bewegens Myofascial Unwinding zur Lösung faszialer Verklebungen Wirksame und praktische Solo-Übungen zum Fascial Stretch und Sensory Refinement Das ECHTE "Fliegende Schwert" - Übungen zum Rebound Eff…
+**Vendor's marketplace description:** <p>60 Minuten Seminarmitschnitt des Seminars "Bewegen wie die Meister 2" 2017. Stream / Zugang Mitgliederbereich.</p>
+<p>In diesem 60minütigen Seminarmitschnitt bekommst du:</p>
+<ul><li><strong>Grundlagen und Konzepte funktionalen Bewegens</strong></li>
+<li><strong>Myofascial Unwinding zur Lösung faszialer Verklebungen</strong></li>
+<li><strong>Wirksame und praktische Solo-Übungen zum Fascial Stretch und Sensory Refinement</strong></li>
+<li><strong>Das ECHTE "Fliegende Schwert" - Übungen zum Rebound Effect / Recoil Effect</strong></li>
+<li><strong>Partnerübung zum Sensory Refinement</strong></li>
+<li><strong>Kurzeinführung in das Thema Ballengang im Kontext Kampfkunst   </strong></li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://es-welt.de/index.php?page_id=1308&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/16857/adminstore/
 - Sales page: http://es-welt.de/index.php?page_id=1308
 - Canonical redirect: https://www.digistore24.com/redir/140951/adminstore
 
@@ -77,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bewegen wie die Meister Teil 2? — Typ: Downloads, Anbieter: EquilibriumState, gelistet seit 2017-05-31
-- Wie viel kostet es? — 37.65216 USD
+- Wie viel kostet es? — 37.568160000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 704256
 title: "Der Evergreen-Launch"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ratgeberplatz.de/ratgeber/evergreen-launch-aufbauen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57279/adminstore/"
 sales_page: "https://ratgeberplatz.de/ratgeber/evergreen-launch-aufbauen"
 language: "de"
 ---
 # Der Evergreen-Launch
 
 > Product ID `57279` · Digistore24 productId `704256` · [HTML profile page](../../produkte/der-evergreen-launch-57279.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „Der Evergreen-Launch“ Verkaufen auf Autopilot – Ein Evergreen-Launch verkauft das ganze Jahr. Vom Live-Launch zum automatisierten Dauerläufer: der automatisierte Funnel, E-Mail-Sequenzen, die immer laufen, echte Verknappung statt Fake-Druck sowie Optimieren und Pflegen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Them…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Der Evergreen-Launch“</strong></p>
+<p>Verkaufen auf Autopilot – Ein Evergreen-Launch verkauft das ganze Jahr. Vom Live-Launch zum automatisierten Dauerläufer: der automatisierte Funnel, E-Mail-Sequenzen, die immer laufen, echte Verknappung statt Fake-Druck sowie Optimieren und Pflegen.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
+<li>Gefragtes Thema mit großer Zielgruppe</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Vom Live-Launch zum automatisierten Dauerläufer</li>
+<li>Einen automatisierten Funnel aufbauen</li>
+<li>E-Mail-Sequenzen, die immer laufen</li>
+<li>Widerrufsrecht und faire Automatisierung</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/evergreen-launch-aufbauen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57279/adminstore/
 - Sales page: https://ratgeberplatz.de/ratgeber/evergreen-launch-aufbauen
 - Canonical redirect: https://www.digistore24.com/redir/704256/adminstore
 
@@ -85,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Evergreen-Launch? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

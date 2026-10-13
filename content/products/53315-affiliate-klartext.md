@@ -12,17 +12,17 @@ cart_conversion_pct: 51
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-07-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.ilias-marketing.de/affiliate-klartext/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53315/adminstore/"
 sales_page: "https://www.ilias-marketing.de/affiliate-klartext/"
 language: "de"
 ---
 # Affiliate Klartext
 
 > Product ID `53315` · Digistore24 productId `624283` · [HTML profile page](../../produkte/affiliate-klartext-53315.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenke das eBook oder verwende es als persönlichen Leadmagnet und sammle E-Mail Adressen am Fließband! Du kannst mein eBook verwenden und wirst dafür sogar noch bezahlt. 50% Provision am Orderbump Hohe Conversion durch niedrigen Einstieg(0€) 50% Provision auf alle Up- & Downsells Hemmschwelle niedrig, weil 0€! Einfacher kannst Du keine E-Mail Liste aufbauen und noch Geld verdienen. Zielgruppe:…
+**Vendor's marketplace description:** <h4><strong>Verschenke das eBook oder verwende es als persönlichen Leadmagnet und sammle E-Mail Adressen am Fließband!</strong></h4>
+<p>Du kannst mein eBook verwenden und wirst dafür sogar noch bezahlt.</p>
+<p> </p>
+<ul>
+<li><strong>50% Provision </strong><strong>am Orderbump</strong></li>
+<li>Hohe Conversion durch niedrigen Einstieg(0€)</li>
+<li>50% Provision auf alle Up- &amp; Downsells</li>
+</ul>
+<p> </p>
+<p><strong>Hemmschwelle niedrig, weil 0€!</strong></p>
+<p><strong>Einfacher kannst Du keine E-Mail Liste aufbauen und noch Geld verdienen. </strong></p>
+<p> </p>
+<p><strong>Zielgruppe: Jeder der Social Media Marketing betreibt</strong></p>
+<p> </p>
+<p><strong>Deine Vorteile als Affiliate auf einen Blick:</strong></p>
+<ul>
+<li><strong>Durch Order Bump auf der Bestellseite, direkt mehr Provisionen bekommen</strong></li>
+<li><strong>Die Verkaufsseite wird stetig Conversion optimiert </strong></li>
+<li><strong>Ideales Produkt für "jeden" der Social Media Marketing betreibt</strong></li>
+<li><strong>Die Verkaufsseite ist speziel mobil optimiert, um beste Ergebnisse zu erzielen</strong></li>
+<li><strong>Du erhältst 50% Provision auf das Hauptprodukt, sowie auf Order Bumps und Upsells </strong></li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.ilias-marketing.de/affiliate-klartext/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53315/adminstore/
 - Sales page: https://www.ilias-marketing.de/affiliate-klartext/
 - Vendor affiliate support: https://www.ilias-marketing.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/624283/adminstore
@@ -81,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Klartext? — Typ: E-books, Anbieter: iliasmak, gelistet seit 2025-07-15
-- Wie viel kostet es? — 0.324974 USD
+- Wie viel kostet es? — 0.324249 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

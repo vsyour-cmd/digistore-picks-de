@@ -4,16 +4,16 @@ digistore24_product_id: 663444
 title: "Empfehle SMILE – den niederschwelligen Glücks-Einstieg 40%"
 vendor: "Magierschule"
 product_type: "Member area and video courses"
-price: 23.81
+price: 23.76
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.2
+earnings_per_sale: 13.17
 cart_conversion_pct: 23
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-01-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://magierschule.de/smile-designe-dein-lebensglueck?aff=adminstore#aff=adminstore"
 sales_page: "https://magierschule.de/smile-designe-dein-lebensglueck"
@@ -22,16 +22,16 @@ language: "de"
 # Empfehle SMILE – den niederschwelligen Glücks-Einstieg 40%
 
 > Product ID `56382` · Digistore24 productId `663444` · [HTML profile page](../../produkte/empfehle-smile-den-niederschwelligen-gl-cks-einstieg-40-56382.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.81 (Single payment) |
+| Price | $23.76 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.20 |
+| Earnings/sale* | $13.17 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0% |
 | Vendor | Magierschule |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** SMILE ist Olivers kompaktes Selbstlern-Programm für mehr Lebensglück, Klarheit und innere Ausrichtung. Niederschwelliger Preis, hohe Conversion, perfekte Eintrittstür in die gesamte Glücks-Welt der Magierschule. Was dich erwartet 40 % Sofort-Provision pro Verkauf (= 16 € bei 40 €) 20 % lifetime auf alle Folgekäufe deiner Empfehlung – auch Jahre später Lifetime-Kundenzuordnung nach Erstkauf (nicht …
+**Vendor's marketplace description:** <p>SMILE ist Olivers kompaktes Selbstlern-Programm für mehr Lebensglück, Klarheit und innere Ausrichtung. Niederschwelliger Preis, hohe Conversion, perfekte Eintrittstür in die gesamte Glücks-Welt der Magierschule.</p>
+<p><strong>Was dich erwartet</strong></p>
+<ul>
+<li>40 % Sofort-Provision pro Verkauf (= 16 € bei 40 €)</li>
+<li>20 % lifetime auf alle Folgekäufe deiner Empfehlung – auch Jahre später</li>
+<li>Lifetime-Kundenzuordnung nach Erstkauf (nicht nur 180-Tage-Cookie)</li>
+<li>Kostenloser Geschenk-Funnel über GlücksBewusst – du verschenkst Content, der Funnel verkauft</li>
+<li>Logischer Upsell-Weg: SMILE → Glückscoach-Ausbildung (2.160 € → 432 € Provision für dich)</li>
+<li><a href="https://magierschule.de/werbemittel" target="_blank" rel="noreferrer noopener">Klickstarke Werbemittel: Banner, Mailtexte, Social-Snippets</a></li>
+</ul>
+<p><strong>Der Funnel (entscheidender Vorteil):</strong> Du musst SMILE nicht direkt verkaufen. Du verschenkst den kostenlosen GlücksBewusst-Mini-Kurs – darin wird SMILE organisch platziert. Wer SMILE bucht, ist später oft offen für die Glückscoach-Jahresausbildung. Darauf erhältst du 40 % auf einen Betrag von über 2K = &gt; 800 € zusätzlich.</p>
+<p><strong>Für wen das passt</strong> Coaches, Mental-Trainer, Yogalehrer, Newsletter-Betreiber, Blogger und Creator im Bereich Persönlichkeitsentwicklung, Glück und Selbstführung.</p>
+<p>Schau dir die Werbemittel an. Da ist jetzt schon sehr viel möglich. Sprich uns an, wenn du Sonderlösungen brauchst.</p>
 
 ## 2. Links
 
@@ -67,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Empfehle SMILE – den niederschwelligen Glücks-Einstieg 40%? — Typ: Member area and video courses, Anbieter: Magierschule, gelistet seit 2026-01-22
-- Wie viel kostet es? — 23.81275 USD
+- Wie viel kostet es? — 23.759625000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

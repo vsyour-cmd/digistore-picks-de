@@ -4,16 +4,16 @@ digistore24_product_id: 688410
 title: "21 Tage Dopamin Detox Challenge by Bastian"
 vendor: "BastianBauer"
 product_type: "E-books"
-price: 20.93
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 8.37
+earnings_per_sale: 8.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-04-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/688410?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/688410"
@@ -22,16 +22,16 @@ language: "de"
 # 21 Tage Dopamin Detox Challenge by Bastian
 
 > Product ID `56410` · Digistore24 productId `688410` · [HTML profile page](../../produkte/21-tage-dopamin-detox-challenge-by-bastian-56410.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.93 (Single payment) |
+| Price | $20.89 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $8.37 |
+| Earnings/sale* | $8.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BastianBauer |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Diese 21-Tage-Challenge ist ein digitales E-Book, das dir einen wissenschaftlich fundierten Weg bietet, um dein Gehirn von digitaler Überreizung zu befreien und deine volle Konzentration zurückzugewinnen. Auf 48 praxisnahen Seiten wirst du durch tägliche Missionen und gezielte Reflexionsübungen Schritt für Schritt zu einem bewussteren Lebensstil geführt. Das minimalistische Format ermöglicht es di…
+**Vendor's marketplace description:** <p>Diese 21-Tage-Challenge ist ein digitales E-Book, das dir einen wissenschaftlich fundierten Weg bietet, um dein Gehirn von digitaler Überreizung zu befreien und deine volle Konzentration zurückzugewinnen. Auf 48 praxisnahen Seiten wirst du durch tägliche Missionen und gezielte Reflexionsübungen Schritt für Schritt zu einem bewussteren Lebensstil geführt. Das minimalistische Format ermöglicht es dir, den Ratgeber jederzeit auf deinem Tablet, Smartphone oder E-Reader zu nutzen, um ohne Ablenkung an deiner mentalen Klarheit zu arbeiten. Dieses E-Book ist dein persönlicher Begleiter, um die Kontrolle über deine Aufmerksamkeit zurückzuerlangen und echte Zufriedenheit im Hier und Jetzt zu finden.</p>
 
 ## 2. Links
 
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 21 Tage Dopamin Detox Challenge by Bastian? — Typ: E-books, Anbieter: BastianBauer, gelistet seit 2026-04-28
-- Wie viel kostet es? — 20.932808 USD
+- Wie viel kostet es? — 20.886108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

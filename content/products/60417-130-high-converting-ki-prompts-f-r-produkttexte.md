@@ -4,34 +4,34 @@ digistore24_product_id: 743612
 title: "130 High-Converting KI-Prompts für Produkttexte"
 vendor: "DaveCrypto"
 product_type: "Downloads"
-price: 14.03
+price: 14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.01
+earnings_per_sale: 7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/743612?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60417/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/743612"
 language: "de"
 ---
 # 130 High-Converting KI-Prompts für Produkttexte
 
 > Product ID `60417` · Digistore24 productId `743612` · [HTML profile page](../../produkte/130-high-converting-ki-prompts-f-r-produkttexte-60417.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.03 (Single payment) |
+| Price | $14.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.01 |
+| Earnings/sale* | $7.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DaveCrypto |
@@ -41,11 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 130 High-Converting KI-Prompts für Shopify, Amazon & Etsy Produkttexte 2026 Du willst mehr Verkäufe auf Shopify, Amazon oder Etsy, aber das Schreiben von Produktbeschreibungen kostet dich Stunden und Nerven? Dieses PDF liefert dir 130 sofort einsetzbare, professionelle KI-Prompts, die speziell für E-Commerce optimiert sind. Damit erstellst du in wenigen Minuten: Überzeugende Produkttitel SEO-optim…
+**Vendor's marketplace description:** <p><strong>130 High-Converting KI-Prompts für Shopify, Amazon &amp; Etsy Produkttexte 2026</strong></p>
+<p><br />Du willst mehr Verkäufe auf Shopify, Amazon oder Etsy, aber das Schreiben von Produktbeschreibungen kostet dich Stunden und Nerven? Dieses PDF liefert dir 130 sofort einsetzbare, professionelle KI-Prompts, die speziell für E-Commerce optimiert sind. Damit <br />erstellst du in wenigen Minuten:</p>
+<ul style="list-style-type:circle;">
+<li>Überzeugende Produkttitel</li>
+<li>SEO-optimierte Beschreibungen</li>
+<li>Emotionale und benefit-starke Bullet Points</li>
+<li>Lange, verkaufsstarke Produkttexte</li>
+<li>Amazon A+ Content</li>
+<li>Varianten- und Bundle-Beschreibungen</li>
+<li>Cross-Selling- &amp; Upsell-Texte</li>
+</ul>
+<p>Wichtig:<br />Die Prompts funktionieren nicht nur mit ChatGPT, sondern auch mit Claude, Gemini, Grok,<br />Perplexity und den meisten anderen aktuellen KIs 1:1.</p>
+<p>So nutzt du die Prompts optimal:</p>
+<ul>
+<li>Ersetze alle Platzhalter in eckigen Klammern <strong>[ ]</strong> durch deine Angaben.</li>
+<li>Je genauer du Produktname, Zielgruppe, Vorteile und Besonderheiten angibst, desto besser das Ergebnis.</li>
+<li>Lass dir immer 2 bis 3 Varianten generieren und wähle die stärkste aus.</li>
+<li>Passe den Ton an deine Marke an (z. B. „begeistert und freundlich“ oder <br />„professionell und vertrauenswürdig“).</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/743612?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60417/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/743612
 - Canonical redirect: https://www.digistore24.com/redir/743612/adminstore
 
@@ -71,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 130 High-Converting KI-Prompts für Produkttexte? — Typ: Downloads, Anbieter: DaveCrypto, gelistet seit 2026-10-08
-- Wie viel kostet es? — 14.029912 USD
+- Wie viel kostet es? — 13.998612000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

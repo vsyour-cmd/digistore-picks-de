@@ -4,34 +4,34 @@ digistore24_product_id: 719130
 title: "Sunny’s Keto Academy – Dein Keto Starter Guide"
 vendor: "nadinesunny"
 product_type: "E-books"
-price: 68.08
+price: 67.92
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 47.66
+earnings_per_sale: 47.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/719130?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58685/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/719130"
 language: "de"
 ---
 # Sunny’s Keto Academy – Dein Keto Starter Guide
 
 > Product ID `58685` · Digistore24 productId `719130` · [HTML profile page](../../produkte/sunny-s-keto-academy-dein-keto-starter-guide-58685.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $68.08 (Single payment) |
+| Price | $67.92 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $47.66 |
+| Earnings/sale* | $47.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nadinesunny |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sunny’s Keto Academy bietet einen einfachen Einstieg in die ketogene Ernährung – verständlich, alltagstauglich und ohne komplizierte Regeln. Die Keto Wissens-Startbox enthält praktische Keto-Grundlagen, Orientierung für den Einstieg und hilfreiche Inhalte für Menschen, die Keto besser verstehen und umsetzen möchten. Ideal für Affiliates aus den Bereichen Keto, Low Carb, Ernährung, Lifestyle und Wo…
+**Vendor's marketplace description:** <p>Sunny’s Keto Academy bietet einen einfachen Einstieg in die ketogene Ernährung – verständlich, alltagstauglich und ohne komplizierte Regeln.</p>
+<p>Die Keto Wissens-Startbox enthält praktische Keto-Grundlagen, Orientierung für den Einstieg und hilfreiche Inhalte für Menschen, die Keto besser verstehen und umsetzen möchten.</p>
+<p>Ideal für Affiliates aus den Bereichen Keto, Low Carb, Ernährung, Lifestyle und Wohlbefinden.</p>
+<p>✓ Attraktives Affiliate-Programm<br />✓ Kein MLM<br />✓ Kein Kaufzwang<br />✓ Kein Starterpaket erforderlich<br />✓ Einfach empfehlen und Provision verdienen</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/719130?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58685/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/719130
 - Canonical redirect: https://www.digistore24.com/redir/719130/adminstore
 
@@ -79,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sunny’s Keto Academy – Dein Keto Starter Guide? — Typ: E-books, Anbieter: nadinesunny, gelistet seit 2026-08-26
-- Wie viel kostet es? — 68.07645000000001 USD
+- Wie viel kostet es? — 67.924575 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

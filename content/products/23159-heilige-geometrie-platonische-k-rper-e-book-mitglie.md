@@ -4,34 +4,34 @@ digistore24_product_id: 206741
 title: "Heilige Geometrie - Platonische Körper - E-Book      Mitglie"
 vendor: "AndreasBeutel"
 product_type: "Downloads"
-price: 14.13
+price: 14.1
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 5.65
+earnings_per_sale: 5.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2018-03-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.heilyoga.me/herzensfreude-2-herzenergie-im-einsatz/#aff=adminstore"
 sales_page: "https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/"
 language: "de"
 ---
 # Heilige Geometrie - Platonische Körper - E-Book      Mitglie
 
 > Product ID `23159` · Digistore24 productId `206741` · [HTML profile page](../../produkte/heilige-geometrie-platonische-k-rper-e-book-mitglie-23159.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.13 (Single payment) |
+| Price | $14.10 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $5.65 |
+| Earnings/sale* | $5.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasBeutel |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Von Andreas Beutel E-Book „Die Platonischen Körper entdecken“ Tauche ein in die Schönheit der Grundformen des Universums! Was Du mit diesem E-Book erhältst: 21 seitiges E-Book inkl. 5 Baupläne aller Platonischen Körper 15 min Video FullHD mit vier Kameraperspektiven, in dem ich Dir zeige, wie ich geometrische Modelle zusammenklebe Materialliste die Du benötigst zum Basteln Ich zeige Dir, wie Du mi…
+**Vendor's marketplace description:** <div style="text-align:left;">
+<div align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Von Andreas Beutel</span></strong></div>
+<div align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">E-Book „Die Platonischen Körper entdecken“</span></strong></div>
+</div>
+<p align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Tauche ein in die Schönheit der Grundformen des Universums! </span></strong></p>
+<h2 style="text-align:center;">Was Du mit diesem E-Book erhältst:</h2>
+<ul>
+<li>21 seitiges E-Book</li>
+<li>inkl. 5 Baupläne aller Platonischen Körper</li>
+<li>15 min Video FullHD mit vier Kameraperspektiven, in dem ich Dir zeige, wie ich geometrische Modelle zusammenklebe</li>
+<li>Materialliste die Du benötigst zum Basteln</li>
+<li>Ich zeige Dir, wie Du mit Deinen Modellen ein wundervolles Mobile bauen kannst</li>
+<li>Einführung in die geheime Sprache der Geometrie</li>
+<li>Inspirationen zur farblichen Gestaltung</li>
+</ul>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.heilyoga.me/herzensfreude-2-herzenergie-im-einsatz/#aff=adminstore
 - Sales page: https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/
 - Vendor affiliate support: https://andreas-beutel.tv/affiliate-info/
 - Canonical redirect: https://www.digistore24.com/redir/206741/adminstore
@@ -76,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilige Geometrie - Platonische Körper - E-Book      Mitglie? — Typ: Downloads, Anbieter: AndreasBeutel, gelistet seit 2018-03-07
-- Wie viel kostet es? — 14.130766 USD
+- Wie viel kostet es? — 14.099241000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

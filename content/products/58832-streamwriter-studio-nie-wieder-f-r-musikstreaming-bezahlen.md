@@ -4,16 +4,16 @@ digistore24_product_id: 727349
 title: "StreamWriter Studio - Nie wieder für Musikstreaming bezahlen"
 vendor: "andrelobach79c7"
 product_type: "Software"
-price: 47.08
+price: 46.97
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 14.12
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://streamwriter.studio/?aff=adminstore#aff=adminstore"
 sales_page: "https://streamwriter.studio/"
@@ -22,16 +22,16 @@ language: "de"
 # StreamWriter Studio - Nie wieder für Musikstreaming bezahlen
 
 > Product ID `58832` · Digistore24 productId `727349` · [HTML profile page](../../produkte/streamwriter-studio-nie-wieder-f-r-musikstreaming-bezahlen-58832.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $47.08 (Single payment) |
+| Price | $46.97 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $14.12 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andrelobach79c7 |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb StreamWriter Studio (Mac & Windows): Internetradio automatisch aufnehmen, Titel erkennen, Mediathek aufbauen – Einmalkauf 69,99 €, kein Abo, gratis iPhone-App inklusive. Evergreen-Nische mit starkem „Kein-Abo"-Argument, fertige Werbemittel vorhanden. Attraktive Provision pro Verkauf.
+**Vendor's marketplace description:** <p>Bewirb StreamWriter Studio (Mac &amp; Windows): Internetradio automatisch aufnehmen, Titel erkennen, Mediathek aufbauen – Einmalkauf 69,99 €, kein Abo, gratis iPhone-App inklusive. Evergreen-Nische mit starkem „Kein-Abo"-Argument, fertige Werbemittel vorhanden. Attraktive Provision pro Verkauf.</p>
 
 ## 2. Links
 
@@ -103,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist StreamWriter Studio - Nie wieder für Musikstreaming bezahlen? — Typ: Software, Anbieter: andrelobach79c7, gelistet seit 2026-09-01
-- Wie viel kostet es? — 47.076406 USD
+- Wie viel kostet es? — 46.971381 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

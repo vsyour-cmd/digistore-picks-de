@@ -4,16 +4,16 @@ digistore24_product_id: 546392
 title: "Rauchfrei für immer - Rauchstopp Programm"
 vendor: "MoruecoCoaching"
 product_type: "Downloads"
-price: 157.27
+price: 156.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 78.63
+earnings_per_sale: 78.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Health & Fitness","Personal Development"]
 listed_since: "2024-04-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.aufhoeren-rauchen.com/rauchstopp?aff=adminstore#aff=adminstore"
 sales_page: "https://www.aufhoeren-rauchen.com/rauchstopp"
@@ -22,16 +22,16 @@ language: "de"
 # Rauchfrei für immer - Rauchstopp Programm
 
 > Product ID `56144` · Digistore24 productId `546392` · [HTML profile page](../../produkte/rauchfrei-f-r-immer-rauchstopp-programm-56144.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $157.27 (Single payment) |
+| Price | $156.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $78.63 |
+| Earnings/sale* | $78.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MoruecoCoaching |
@@ -41,7 +41,42 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** RAUCHFREI FÜR IMMER Mit Struktur statt Willenskraft Rauchfrei werden – mit Struktur, mentaler Vorbereitung und klaren Schritten. Dieses Programm wurde aus eigener Erfahrung und langjähriger Praxisarbeit entwickelt.Es begleitet Sie bewusst durch den Prozess der Rauchentwöhnung – ohne Druck, ohne Überforderung. Sie erhalten: Schritt-für-Schritt-Anleitung als PDF Motivationsimpulse zur inneren Festig…
+**Vendor's marketplace description:** <h2>RAUCHFREI FÜR IMMER</h2>
+<h3>Mit Struktur statt Willenskraft</h3>
+<p><strong>Rauchfrei werden – mit Struktur, mentaler Vorbereitung und klaren Schritten.</strong></p>
+<p>Dieses Programm wurde aus eigener Erfahrung und langjähriger Praxisarbeit entwickelt.<br />Es begleitet Sie bewusst durch den Prozess der Rauchentwöhnung – ohne Druck, ohne Überforderung.</p>
+<hr />
+<h3>Sie erhalten:</h3>
+<ul>
+<li>
+<p>Schritt-für-Schritt-Anleitung als PDF</p>
+</li>
+<li>
+<p>Motivationsimpulse zur inneren Festigung</p>
+</li>
+<li>Vorteil/Nachteil Hilfsblatt</li>
+<li>
+<p>Selbstreflexions-Tagebuch</p>
+</li>
+<li>Workbook - Struktur statt Willenskraft</li>
+<li>
+<p>Vorbereitungs-Entspannungshypnose (MP3)</p>
+</li>
+<li>
+<p>Vorbereitungsvideo (MP4)</p>
+</li>
+<li>
+<p>Bewährte Hypnosetrance „Rauchfrei für immer“ (MP3)</p>
+</li>
+</ul>
+<hr />
+<p>Dieses Programm ersetzt keine medizinische Behandlung,<br />sondern unterstützt Sie in Ihrem persönlichen Veränderungsprozess.</p>
+<hr />
+<p><strong>Einmalige Investition: € 167</strong><br />Kein Abo. Sofortiger Zugang.</p>
+<hr />
+<p>Wenn Sie spüren, dass jetzt ein guter Zeitpunkt ist,<br />beginnen Sie bewusst.</p>
+<hr />
+<p>Entwickelt von Ricky Morueco<br />Zertifizierter Hypnosetherapeut (OMNI / NGH)</p>
 
 ## 2. Links
 
@@ -103,7 +138,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rauchfrei für immer - Rauchstopp Programm? — Typ: Downloads, Anbieter: MoruecoCoaching, gelistet seit 2024-04-02
-- Wie viel kostet es? — 157.265004 USD
+- Wie viel kostet es? — 156.91415400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

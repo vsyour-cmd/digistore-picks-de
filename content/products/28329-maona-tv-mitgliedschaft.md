@@ -4,34 +4,34 @@ digistore24_product_id: 248911
 title: "maona.tv - Mitgliedschaft"
 vendor: "maonatvgmbh"
 product_type: "Member area and video courses"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 15.2
-earnings_per_sale: 14.16
+earnings_per_sale: 14.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2018-11-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.maona.tv/home-ds?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/28329/adminstore/"
 sales_page: "https://www.maona.tv/home-ds"
 language: "de"
 ---
 # maona.tv - Mitgliedschaft
 
 > Product ID `28329` · Digistore24 productId `248911` · [HTML profile page](../../produkte/maona-tv-mitgliedschaft-28329.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.22 (Subscription) |
+| Price | $93.01 (Subscription) |
 | Affiliate commission | 15.2% |
-| Earnings/sale* | $14.16 |
+| Earnings/sale* | $14.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | maonatvgmbh |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du möchtest helfen die Welt ein Stück besser zu machen? Dann verbreite inspirierende Filme und baue Dir ein passives Einkommen auf! Du kannst dazu beitragen, dass sich Filme wie „What the bleep do we know?“,„Emotion“, „Jenseits des Greifbaren“,„Awake“, „Der Weg“ und viele weitere sinnstiftende Filme verbreiten! Werde jetzt Botschafter von maona.tv. Pro vermittelter Mitgliedschaft bekommst du von u…
+**Vendor's marketplace description:** <h2 style="text-align:center;"><strong>Du möchtest helfen die Welt ein Stück besser zu machen?</strong></h2>
+<h4 style="text-align:center;"><strong>Dann verbreite inspirierende Filme und baue Dir ein passives Einkommen auf!</strong></h4>
+<p>Du kannst dazu beitragen, dass sich Filme wie „<em>What the bleep do we know?</em>“,„<em>Emotion</em>“, „<em>Jenseits des Greifbaren</em>“,„<em>Awake</em>“, „<em>Der Weg</em>“ und viele weitere sinnstiftende Filme verbreiten! Werde jetzt Botschafter von maona.tv.</p>
+<p><span style="background-color:#ffff00;"><strong>Pro vermittelter Mitgliedschaft bekommst du von uns <span style="text-decoration:underline;">jeden Monat 1€</span> überwiesen, solange das Abo des Kunden besteht.</strong></span></p>
+<p>✅ Lebenslang wiederkehrende Provisionen in Höhe von 1€ monatlich pro vermitteltem Mitglied </p>
+<p>✅ Die Cookie-Laufzeit beträgt 180 Tage.</p>
+<p>✅ Kontinuierlich optimierter Sales-Funnel</p>
+<p><strong>Klicke rechts auf den blauen Button "<span style="text-decoration:underline;">Jetzt promoten</span>", werde Botschafter und verdiene dir ein passives monatliches Einkommen!</strong> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.maona.tv/home-ds?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/28329/adminstore/
 - Sales page: https://www.maona.tv/home-ds
 - Vendor affiliate support: https://www.maona.tv/botschafter-werden
 - Canonical redirect: https://www.digistore24.com/redir/248911/adminstore
@@ -96,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist maona.tv - Mitgliedschaft? — Typ: Member area and video courses, Anbieter: maonatvgmbh, gelistet seit 2018-11-20
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

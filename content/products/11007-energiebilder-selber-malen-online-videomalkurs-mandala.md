@@ -4,34 +4,34 @@ digistore24_product_id: 74631
 title: "\"Energiebilder selber malen\" Online Videomalkurs \"Mandala\""
 vendor: "RaulFalco"
 product_type: "Member area and video courses"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.32
+earnings_per_sale: 22.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2016-03-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://energiebilder-selber-malen.de/index.php?page_id=639&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/11007/adminstore/"
 sales_page: "http://energiebilder-selber-malen.de/index.php?page_id=639"
 language: "de"
 ---
 # "Energiebilder selber malen" Online Videomalkurs "Mandala"
 
 > Product ID `11007` · Digistore24 productId `74631` · [HTML profile page](../../produkte/energiebilder-selber-malen-online-videomalkurs-mandala-11007.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.32 |
+| Earnings/sale* | $22.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RaulFalco |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hallo, wir sind Karsten „Raul Falco“ Wagner und Jeannette Wagner, und ein Künstlerpaar aus Sachsen. Wir freuen uns Dir den Online Videomalkurs "Mandala selber malen" vorstellen zu dürfen. Dieser Videokurs existiert seit März 2016, und ist der zweite aus der Reihe "Energiebilder selber malen". Mit unserem ersten Kurs über die Blume des Lebens haben wir schon viele Menschen erreicht, und ihnen beige…
+**Vendor's marketplace description:** <p>Hallo, wir sind Karsten „Raul Falco“ Wagner und Jeannette Wagner, und ein Künstlerpaar aus Sachsen.</p>
+<p>Wir freuen uns Dir den Online Videomalkurs "Mandala selber malen" vorstellen zu dürfen. Dieser Videokurs existiert seit März 2016, und ist der zweite aus der Reihe "Energiebilder selber malen". Mit unserem ersten Kurs über die Blume des Lebens haben wir schon viele Menschen erreicht, und ihnen beigebracht die Blume des Lebens auf Leinwand in Gold zu malen. </p>
+<p>Nun möchten wir dort anknüpfen, und unser neuestens Baby auch unter die Menschen bringen. </p>
+<p>Dabei kannst Du uns helfen, und wir helfen Dir, indem Du bei jedem Kauf profitieren kannst.</p>
+<p>Pro Empfehlung ist eine Provision bis 20 € für Dich möglich.</p>
+<p>Das ist eine ganze Menge, aber wir möchten auch, dass Du entsprechend honoriert wirst für Deine Empfehlung.</p>
+<p> </p>
+<p> </p>
+<p>Wir würden uns sehr freuen wenn Du Interesse hast unseren wunderbaren Kurs promoten zu wollen. Heute in unser schnelllebigen Zeit sind kreative Auszeiten, und Techniken zum Stressabbau sehr wichtig.</p>
+<p>Hilf uns dabei etwas Gutes zu bewirken, und den Menschen wieder Kraft und Lebensfreude zu schenken.</p>
+<p> </p>
+<p>Jeannette und Karsten</p>
+<p> </p>
+<p>Die Verkaufsseite findest Du hier: <a href="https://energiebilder-selber-malen.de/mandala-malen/" target="_blank" rel="noreferrer noopener"><strong>Verkaufsseite</strong></a></p>
+<p> </p>
+<p>Mehr Hinweise,s owie einige Banner zu unserem Partnerprogramm findest Du unter folgendem Link: <a href="https://energiebilder-selber-malen.de/affiliate-info/" target="_blank" rel="noreferrer noopener"><strong>Partnerpogramm</strong></a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://energiebilder-selber-malen.de/index.php?page_id=639&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/11007/adminstore/
 - Sales page: http://energiebilder-selber-malen.de/index.php?page_id=639
 - Vendor affiliate support: https://energiebilder-selber-malen.de/affiliate-info/
 - Canonical redirect: https://www.digistore24.com/redir/74631/adminstore
@@ -100,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Energiebilder selber malen" Online Videomalkurs "Mandala"? — Typ: Member area and video courses, Anbieter: RaulFalco, gelistet seit 2016-03-10
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

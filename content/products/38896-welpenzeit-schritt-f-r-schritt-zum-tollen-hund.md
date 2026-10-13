@@ -4,16 +4,16 @@ digistore24_product_id: 252196
 title: "WELPENZEIT - Schritt für Schritt zum tollen Hund"
 vendor: "ddsteffi"
 product_type: "Member area and video courses"
-price: 105.98
+price: 105.74
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 28.46
+earnings_per_sale: 28.4
 cart_conversion_pct: 13
 cancel_rate_pct: 0.4
 categories: ["Animals & Pets"]
 listed_since: "2018-12-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://hundeerziehung-hundepension.de/9wzvk7ytt?aff=adminstore#aff=adminstore"
 sales_page: "https://hundeerziehung-hundepension.de/9wzvk7ytt"
@@ -22,16 +22,16 @@ language: "de"
 # WELPENZEIT - Schritt für Schritt zum tollen Hund
 
 > Product ID `38896` · Digistore24 productId `252196` · [HTML profile page](../../produkte/welpenzeit-schritt-f-r-schritt-zum-tollen-hund-38896.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $105.98 (Single payment) |
+| Price | $105.74 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $28.46 |
+| Earnings/sale* | $28.40 |
 | Cart conversion* | 13% |
 | Cancel rate* | 0.4% |
 | Vendor | ddsteffi |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** WELPENZEITSchritt für Schritt zum tollen HundOnline Selbstlernkurs mit 3 Modulen (gesamt 32 Videos) REIZANGELTRAINING (kostenloser Bonus)Online Selbstlernkurs (gesamt 3 Videos) Die Werbemittel verweisen auf ein Extravideo, in dem der Interessent "3 bewährte Profi-Welpenerziehungstipps" kostenlos bekommt. Das Extravideo wird auf der Landingpage/Landeseite ausgestrahlt. Im Extravideo wird nach den "…
+**Vendor's marketplace description:** <p><strong>WELPENZEIT</strong><br />Schritt für Schritt zum tollen Hund<br />Online Selbstlernkurs mit 3 Modulen (gesamt 32 Videos)</p>
+<p><strong>REIZANGELTRAINING (kostenloser Bonus)</strong><br />Online Selbstlernkurs (gesamt 3 Videos)</p>
+<p><br />Die Werbemittel verweisen auf ein Extravideo, in dem der Interessent "3 bewährte Profi-Welpenerziehungstipps" kostenlos bekommt. Das Extravideo wird auf der Landingpage/Landeseite ausgestrahlt. Im Extravideo wird nach den "3 bewährten Profi-Welpenerziehungstipps" das Produkt vorgestellt und verkauft.</p>
+<p>WICHTIG: Bei der Promotion nicht direkt auf das "Produkt" verweisen, sondern vielmehr auf das Extravideo mit den "3 bewährten Profi-Welpenerziehungstipps".</p>
 
 ## 2. Links
 
@@ -96,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WELPENZEIT - Schritt für Schritt zum tollen Hund? — Typ: Member area and video courses, Anbieter: ddsteffi, gelistet seit 2018-12-11
-- Wie viel kostet es? — 105.97514199999999 USD
+- Wie viel kostet es? — 105.73871700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

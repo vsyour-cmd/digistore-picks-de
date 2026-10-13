@@ -4,16 +4,16 @@ digistore24_product_id: 722501
 title: "CloverLift – E-Learning für Teams, 25 % Provision"
 vendor: "hihdigital"
 product_type: "Software"
-price: 21.29
+price: 21.24
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 5.32
+earnings_per_sale: 5.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://cloverlift.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://cloverlift.com/order.html"
@@ -22,16 +22,16 @@ language: "de"
 # CloverLift – E-Learning für Teams, 25 % Provision
 
 > Product ID `58624` · Digistore24 productId `722501` · [HTML profile page](../../produkte/cloverlift-e-learning-f-r-teams-25-provision-58624.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $21.29 (Subscription) |
+| Price | $21.24 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $5.32 |
+| Earnings/sale* | $5.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hihdigital |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für Affiliates: CloverLift ist E-Learning für Unternehmen, Trainer und Teams. 25 % Provision auf Starter, Business und Enterprise. Kurse erstellen, Fortschritt verfolgen, Zertifikate ausstellen. Wiederkehrende SaaS-Provision. Starter ab 19 € / Monat Verwandte Tarife: Business, Enterprise Salespage: cloverlift.comAffiliate-Support: hih-digital.com/affiliates/cloverlift.html
+**Vendor's marketplace description:** <p><strong>Für Affiliates:</strong> CloverLift ist E-Learning für Unternehmen, Trainer und Teams. 25 % Provision auf Starter, Business und Enterprise.</p>
+<p>Kurse erstellen, Fortschritt verfolgen, Zertifikate ausstellen. Wiederkehrende SaaS-Provision.</p>
+<ul>
+<li>Starter ab 19 € / Monat</li>
+<li>Verwandte Tarife: Business, Enterprise</li>
+</ul>
+<p>Salespage: <a href="https://cloverlift.com">cloverlift.com</a><br />Affiliate-Support: <a href="https://hih-digital.com/affiliates/cloverlift.html">hih-digital.com/affiliates/cloverlift.html</a></p>
 
 ## 2. Links
 
@@ -75,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CloverLift – E-Learning für Teams, 25 % Provision? — Typ: Software, Anbieter: hihdigital, gelistet seit 2026-08-24
-- Wie viel kostet es? — 21.2914 USD
+- Wie viel kostet es? — 21.243900000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

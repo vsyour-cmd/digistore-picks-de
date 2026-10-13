@@ -4,16 +4,16 @@ digistore24_product_id: 326981
 title: "Schwangerschafts- und Babytagebuch"
 vendor: "LaClaudineFotografie"
 product_type: "Deliverable"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.6
+earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-05-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.laclaudine-fotografie.de/schwangerschafts-babytagebuch/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.laclaudine-fotografie.de/schwangerschafts-babytagebuch/"
@@ -22,16 +22,16 @@ language: "de"
 # Schwangerschafts- und Babytagebuch
 
 > Product ID `32804` · Digistore24 productId `326981` · [HTML profile page](../../produkte/schwangerschafts-und-babytagebuch-32804.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.60 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LaClaudineFotografie |
@@ -41,7 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 5,- € Provision auf jedes vermittelte Buch + 2 Tagebücher in einem + einfaches eintragen für die Eltern Schwangerschafts- & Babytagebuch ➡️ robustes Hardcover Tagebuch um wichtige Gedanken und Erlebnisse der Schwangerschaft, Geburt und Babys erstes Jahr festzuhalten ➡️ zum ausfüllen, ankreuzen und kreativ werden ➡️ Ideales Geschenk für werdende Eltern ➡️ Bietet genügend Platz für eigene Gedanken u…
+**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong><span style="color:#ff0000;">5,- € Provision</span> auf jedes vermittelte Buch </strong></span></p>
+<p><span style="background-color:#ffff00;"><strong>+ 2 Tagebücher in einem<br /></strong></span></p>
+<p><span style="background-color:#ffff00;"><strong>+ einfaches eintragen für die Eltern<br /></strong></span></p>
+<p> </p>
+<p><strong>Schwangerschafts- &amp; Babytagebuch</strong></p>
+<p>➡️ robustes Hardcover Tagebuch um wichtige Gedanken und Erlebnisse der Schwangerschaft, Geburt und Babys erstes Jahr festzuhalten</p>
+<p>➡️ zum ausfüllen, ankreuzen und kreativ werden</p>
+<p>➡️ Ideales Geschenk für werdende Eltern</p>
+<p>➡️ Bietet genügend Platz für eigene Gedanken und Erlebnisse</p>
+<p>➡️ Ein persönliches und individuelles Familienerbstück</p>
+<p>➡️ Liebevoll von Hand gestaltete Seiten</p>
+<table>
+<tbody>
+<tr>
+<td>
+<div>
+<p><strong>Inhalt des Buches:</strong></p>
+<p>✔️ Hardcoverbuch: 120 Seiten</p>
+<p>✔️ alle wichtigen Dinge und Erlebisse zum ausfüllen, ankreuzen und einkleben       </p>
+<p>✔️ alle Details von Hand gezeichnet</p>
+<p>✔️ Leseband und 2 Briefe für persönliche Grüße an das Kind</p>
+<p>✔️ Größe: 17 x 24 cm</p>
+<p>✔️ Sprache: Deutsch</p>
+<p> </p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Bei Fragen kontaktiert mich bitte unter folgender E-Mail:laclaudine@gmx.de</p>
 
 ## 2. Links
 
@@ -81,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schwangerschafts- und Babytagebuch? — Typ: Deliverable, Anbieter: LaClaudineFotografie, gelistet seit 2020-05-16
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

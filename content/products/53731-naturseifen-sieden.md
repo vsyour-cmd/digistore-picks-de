@@ -4,34 +4,34 @@ digistore24_product_id: 525809
 title: "Naturseifen sieden"
 vendor: "Katharinaruehrt"
 product_type: "Member area and video courses"
-price: 69.68
+price: 69.52
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 13.39
+earnings_per_sale: 13.36
 cart_conversion_pct: 11
 cancel_rate_pct: 0.9
 categories: ["Green Products & Environmental Protection","Hobby & Craft","Marketing Services"]
 listed_since: "2023-11-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.katharinaruehrt.com/seife-sieden?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/53731/adminstore/"
 sales_page: "https://www.katharinaruehrt.com/seife-sieden"
 language: "de"
 ---
 # Naturseifen sieden
 
 > Product ID `53731` · Digistore24 productId `525809` · [HTML profile page](../../produkte/naturseifen-sieden-53731.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $69.68 (Single payment) |
+| Price | $69.52 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $13.39 |
+| Earnings/sale* | $13.36 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.9% |
 | Vendor | Katharinaruehrt |
@@ -41,11 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Seife sieden ist nicht kompliziert! In diesem Workshop zeige ich dir, wie du dir deine eigenen Seifen herstellst. Ich erkläre dir, wie du deine Küche mit wenigen Handgriffen zu einem geeigneten Arbeitsplatz machst und sicher mit der Lauge umgehst. Wenn du weißt, wie es richtig geht, ist Seife sieden genial einfach. Schon bald kannst du dich über deine erste selbstgesiedete Seife freuen, die herrli…
+**Vendor's marketplace description:** <div>
+<div>
+<h2>Seife sieden ist nicht kompliziert!</h2>
+</div>
+<div>
+<p>In diesem Workshop zeige ich dir, wie du dir deine eigenen Seifen herstellst. Ich erkläre dir, wie du deine Küche mit wenigen Handgriffen zu einem geeigneten Arbeitsplatz machst und sicher mit der Lauge umgehst. Wenn du weißt, wie es richtig geht, ist Seife sieden genial einfach.</p>
+<p>Schon bald kannst du dich über deine erste selbstgesiedete Seife freuen, die herrlich nach Kräutern duften. Und das Beste ist: Seifen sieden macht irre Spaß!</p>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div><strong>Wann?</strong></div>
+</div>
+</div>
+</div>
+<div>
+<p>Sofort, wenn du magst! Nach deiner Buchung schalte ich dir den Workshop direkt frei. Dann kannst du innerhalb der nächsten 6 Monate in deinem Tempo rühren und dir die Aufzeichnung immer wieder anschauen.</p>
+<p> </p>
+<p><a>https://www.katharinaruehrt.com/seife-selber-machen</a></p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.katharinaruehrt.com/seife-sieden?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/53731/adminstore/
 - Sales page: https://www.katharinaruehrt.com/seife-sieden
 - Canonical redirect: https://www.digistore24.com/redir/525809/adminstore
 
@@ -82,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Naturseifen sieden? — Typ: Member area and video courses, Anbieter: Katharinaruehrt, gelistet seit 2023-11-17
-- Wie viel kostet es? — 69.678908 USD
+- Wie viel kostet es? — 69.523458 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

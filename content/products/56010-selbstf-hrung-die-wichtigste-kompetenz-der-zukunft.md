@@ -4,16 +4,16 @@ digistore24_product_id: 468413
 title: "Selbstführung – die wichtigste Kompetenz der Zukunft!"
 vendor: "LifeSkripting_"
 product_type: "Book (printed)"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 6.25
+earnings_per_sale: 6.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-11-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/468413?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/468413"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstführung – die wichtigste Kompetenz der Zukunft!
 
 > Product ID `56010` · Digistore24 productId `468413` · [HTML profile page](../../produkte/selbstf-hrung-die-wichtigste-kompetenz-der-zukunft-56010.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $6.25 |
+| Earnings/sale* | $6.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LifeSkripting_ |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Selbstführung ist das Megatrend-Thema unserer Zeit – und dieses Buch trifft genau den Nerv deiner Community. „Positive Selbstführung" richtet sich an alle Menschen, die ihr Leben aktiv gestalten, in Krisen stark bleiben und echte Resilienz aufbauen wollen. Eine riesige, kaufbereite Zielgruppe – ideal für Coaches, Trainer, Therapeuten, Blogger und alle, die im Bereich Persönlichkeitsentwicklung, Mi…
+**Vendor's marketplace description:** <p><strong>Selbstführung ist das Megatrend-Thema unserer Zeit</strong> – und dieses Buch trifft genau den Nerv deiner Community.</p>
+<p>„Positive Selbstführung" richtet sich an alle Menschen, die ihr Leben aktiv gestalten, in Krisen stark bleiben und echte Resilienz aufbauen wollen. Eine riesige, kaufbereite Zielgruppe – ideal für Coaches, Trainer, Therapeuten, Blogger und alle, die im Bereich Persönlichkeitsentwicklung, Mindset oder mentale Gesundheit aktiv sind.</p>
+<p>Das Buch überzeugt durch:</p>
+<ul>
+<li>✅ Klare Struktur in 10 Schlüsselbereichen des Lebens</li>
+<li>✅ Sofort umsetzbare Methoden &amp; Strategien</li>
+<li>✅ Breite Zielgruppe – vom Berufseinsteiger bis zur Führungskraft</li>
+<li>✅ Kein Selbstoptimierungs-Hype, sondern echte, nachhaltige Persönlichkeitsentwicklung</li>
+</ul>
+<p>Ein Buch, das du deiner Community mit voller Überzeugung empfehlen kannst.</p>
 
 ## 2. Links
 
@@ -71,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstführung – die wichtigste Kompetenz der Zukunft!? — Typ: Book (printed), Anbieter: LifeSkripting_, gelistet seit 2022-11-07
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

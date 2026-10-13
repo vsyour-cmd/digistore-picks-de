@@ -4,34 +4,34 @@ digistore24_product_id: 301508
 title: "Das vegane Starterpaket (E-Book)"
 vendor: "Melanie341"
 product_type: "E-books"
-price: 16.8
+price: 16.76
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.04
+earnings_per_sale: 5.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-12-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://vegaliferocks.de/der-vegane-starterguide/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/31629/adminstore/"
 sales_page: "https://vegaliferocks.de/der-vegane-starterguide/"
 language: "de"
 ---
 # Das vegane Starterpaket (E-Book)
 
 > Product ID `31629` · Digistore24 productId `301508` · [HTML profile page](../../produkte/das-vegane-starterpaket-e-book-31629.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.80 (Single payment) |
+| Price | $16.76 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.04 |
+| Earnings/sale* | $5.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Melanie341 |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Heißhunger, Angst vor Nährstoffmangel oder Ideenlosigkeit beim Kochen? Damit ist jetzt Schluss! Fit fühlen, gesund und voller Energie - und zwar jeden Tag! Ade sagen zu Fast Food, Zucker und künstlichen Inhaltsstoffen die dick machen und runterziehen. Ein Leben frei von Schuldgefühlen, im Einklang mit den Tieren und der Natur. Tolle Rezeptideen, die Spaß machen und sich gut anfühlen. Vegane Ernähr…
+**Vendor's marketplace description:** <p><strong>Heißhunger, Angst vor Nährstoffmangel oder Ideenlosigkeit beim Kochen? Damit ist jetzt Schluss! </strong> </p>
+<p>Fit fühlen, gesund und voller Energie - und zwar jeden Tag! Ade sagen zu Fast Food, Zucker und künstlichen Inhaltsstoffen die dick machen und runterziehen. Ein Leben frei von Schuldgefühlen, im Einklang mit den Tieren und der Natur. Tolle Rezeptideen, die Spaß machen und sich gut anfühlen. Vegane Ernährung ist einfach - mit den richtigen Tools und Strategien. Der Körper in seiner besten Form, weil er ganz genau weißt, welche Nährstoffe er braucht</p>
+<div>
+<div>
+<p><strong>Lerne wie du mit viel Spaß deine Gewohnheiten Schritt für Schritt ändern kannst und das ganz ohne Verzicht!</strong></p>
+</div>
+<p>&gt; Als attraktiven Upsell gibt es noch zwei weitere Produkte dazu. Melde dich auch hierfür als Affiliate an. </p>
+<h3>Um dieses Produkt zu bewerben, schreibe bitte eine Nachricht an <a>melanie@vegaliferocks.de</a> mit folgenden Angaben: </h3>
+<p>- Deine primäre Seite / Plattform, wo du das Produkt bewerben wirst</p>
+<p>- Wie würdest du deine Zielgruppe beschreben?</p>
+<p>- Wie hoch ist deine monatliche Reichweite?</p>
+<p>Vielen Dank</p>
+<p> </p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://vegaliferocks.de/der-vegane-starterguide/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/31629/adminstore/
 - Sales page: https://vegaliferocks.de/der-vegane-starterguide/
 - Canonical redirect: https://www.digistore24.com/redir/301508/adminstore
 
@@ -89,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das vegane Starterpaket (E-Book)? — Typ: E-books, Anbieter: Melanie341, gelistet seit 2019-12-30
-- Wie viel kostet es? — 16.797794 USD
+- Wie viel kostet es? — 16.760319000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

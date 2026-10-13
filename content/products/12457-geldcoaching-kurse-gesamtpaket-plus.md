@@ -4,34 +4,34 @@ digistore24_product_id: 50399
 title: "Geldcoaching-Kurse Gesamtpaket PLUS"
 vendor: "AngelKing"
 product_type: "Member area and video courses"
-price: 104.53
+price: 104.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 52.26
+earnings_per_sale: 52.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2015-05-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://king-selbstcoaching-kurse.de/geldcoaching-kurse-gesamtpaket/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12457/adminstore/"
 sales_page: "https://king-selbstcoaching-kurse.de/geldcoaching-kurse-gesamtpaket/"
 language: "de"
 ---
 # Geldcoaching-Kurse Gesamtpaket PLUS
 
 > Product ID `12457` · Digistore24 productId `50399` · [HTML profile page](../../produkte/geldcoaching-kurse-gesamtpaket-plus-12457.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $104.53 (Single payment, Installment) |
+| Price | $104.30 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $52.26 |
+| Earnings/sale* | $52.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AngelKing |
@@ -41,11 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sie haben die Nase voll vom ständigen “Sich-Sorgen-machen”? Sie möchten endlich Wohlstand, Fülle und Leichtigkeit in Ihr Leben ziehen? Sie möchten Geld- und Erfolgsblockaden von Grund auf und für immer lösen?! Dann starten Sie mit dieser Selbstcoachingreiihe Ihre ersten Schritte zur (finanziellen) Freiheit! Das Download-Paket enthält insgesamt 11 Selbstcoaching-Kurse: + Basis-Seminar: "Das Finanzi…
+**Vendor's marketplace description:** <p>Sie haben die Nase voll vom ständigen “Sich-Sorgen-machen”?</p>
+<p>Sie möchten endlich Wohlstand, Fülle und Leichtigkeit in Ihr Leben ziehen?</p>
+<p>Sie möchten Geld- und Erfolgsblockaden von Grund auf und für immer lösen?!</p>
+<p>Dann starten Sie mit dieser Selbstcoachingreiihe Ihre ersten Schritte zur (finanziellen) Freiheit!</p>
+<p>Das Download-Paket enthält insgesamt 11 Selbstcoaching-Kurse:</p>
+<p>+ Basis-Seminar: "Das Finanzielle-Vagheit-Syndrom" - Lösungsschritte, Tipps und Strategien für ein gutes Geldcoaching</p>
+<p>#1: Geld- und andere Sorgen einfach ent-sorgen</p>
+<p># 2: Vom Frust der unerreichten Ziele zur Magie der großen Ziele</p>
+<p># 3: Heilung finanzieller Traumata u. a. alter Wunden</p>
+<p># 4: Zu den Wurzeln zurück - …Geldblockaden aus der Kindheit, der Familiengeschichte oder auch aus früheren Leben entdecken und lösen</p>
+<p># 5: Erfolgsverhinderungs-Gefühle oder: … oder: Was Schuldgefühle, Hoffnungslosigkeit, Ärger, Wut &amp; Co mit unserer finanziellen Situation zu tun haben</p>
+<p># 6: Update alter Überzeugungen</p>
+<p># 7: Tief-sitzende Geld- und Erfolgsblockaden lösen</p>
+<p># 8: Wer bin ich und wer will ich sein - Wege zur Entwicklung einer "Erfolgs-Identität"</p>
+<p># 9: Sich mit der Energie des Reichtums verbinden und Leichtigkeit, Wohlstand und Fülle in dein Leben ziehen</p>
+<p>+ Empfangsblockaden auflösen und AnNehmen lernen</p>
+<p style="text-align:center;"><strong><span style="color:#ff0000;">11 Selbstcoaching-Kurse + Bonus-Videos</span></strong></p>
+<p style="text-align:center;"><strong><span style="color:#ff0000;">über 20 Stunden Geld-Coaching pur</span></strong></p>
+<p style="text-align:center;"><strong><span style="color:#ff0000;">MP3- und PDF-Datein + Bonus-Videos</span></strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://king-selbstcoaching-kurse.de/geldcoaching-kurse-gesamtpaket/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12457/adminstore/
 - Sales page: https://king-selbstcoaching-kurse.de/geldcoaching-kurse-gesamtpaket/
 - Canonical redirect: https://www.digistore24.com/redir/50399/adminstore
 
@@ -81,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geldcoaching-Kurse Gesamtpaket PLUS? — Typ: Member area and video courses, Anbieter: AngelKing, gelistet seit 2015-05-29
-- Wie viel kostet es? — 104.52956800000001 USD
+- Wie viel kostet es? — 104.29636800000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

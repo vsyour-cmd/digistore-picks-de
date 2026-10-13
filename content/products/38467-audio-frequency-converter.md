@@ -4,34 +4,34 @@ digistore24_product_id: 419418
 title: "Audio Frequency Converter"
 vendor: "MobileApps"
 product_type: "Software"
-price: 32.95
+price: 32.87
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.88
+earnings_per_sale: 9.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-12-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.432hzconverter.com/app2?lang=de&aff=adminstore#aff=adminstore"
+promo_link: "https://www.veronica-gerritzen.de/produktubersicht-rezeptbuch-start/#aff=adminstore"
 sales_page: "https://www.432hzconverter.com/app2?lang=de"
 language: "de"
 ---
 # Audio Frequency Converter
 
 > Product ID `38467` · Digistore24 productId `419418` · [HTML profile page](../../produkte/audio-frequency-converter-38467.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $32.95 (Single payment) |
+| Price | $32.87 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.88 |
+| Earnings/sale* | $9.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MobileApps |
@@ -41,11 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Audio Frequency Converter Software konvertiert Ihre Musik in beliebige Frequenzen, wie beispielsweise 174 Hz, 285 Hz, 396 Hz, 417 Hz, 432 Hz, 440 Hz, 444 Hz, 528 Hz, 639 Hz, 741 Hz, 852 Hz, 963 Hz, und eigene Frequenzen. Funktionen Konvertiert Musik in beliebige Frequenzen. Batch-Konvertierung von Musiksammlungen. Unerstützt High Quality 24 Bit Audio und Multi-Channel Audio (z.B. 5.1 Sound). M…
+**Vendor's marketplace description:** <div>
+<p>Die Audio Frequency Converter Software konvertiert Ihre Musik in beliebige Frequenzen, wie beispielsweise 174 Hz, 285 Hz, 396 Hz, 417 Hz, 432 Hz, 440 Hz, 444 Hz, 528 Hz, 639 Hz, 741 Hz, 852 Hz, 963 Hz, und eigene Frequenzen.</p>
+<p><strong>Funktionen</strong></p>
+<ul>
+<li>Konvertiert Musik in <strong>beliebige Frequenzen</strong>.</li>
+<li>Batch-Konvertierung von <strong>Musiksammlungen</strong>.</li>
+<li>Unerstützt <strong>High Quality</strong> 24 Bit Audio und Multi-Channel Audio (z.B. 5.1 Sound).</li>
+<li>MP3, M4A, WAV, FLAC (<strong>Lossless</strong>), sowie das Input-Format.</li>
+</ul>
+<p><strong>Anwendungsbeispiele</strong></p>
+<ul>
+<li>Musiktherapie.</li>
+<li>Solfeggio.</li>
+<li>432 Hz Musik.</li>
+<li>Musik-Tuning (zum Anpassen an Orchesterfrequenzen).</li>
+<li>Well-Being und Joyfulness.</li>
+</ul>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.432hzconverter.com/app2?lang=de&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.veronica-gerritzen.de/produktubersicht-rezeptbuch-start/#aff=adminstore
 - Sales page: https://www.432hzconverter.com/app2?lang=de
 - Canonical redirect: https://www.digistore24.com/redir/419418/adminstore
 
@@ -74,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Audio Frequency Converter? — Typ: Software, Anbieter: MobileApps, gelistet seit 2021-12-06
-- Wie viel kostet es? — 32.94564 USD
+- Wie viel kostet es? — 32.87214 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

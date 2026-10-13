@@ -4,16 +4,16 @@ digistore24_product_id: 574211
 title: "Sven Gabor Janszky - Membership"
 vendor: "SvenGaborJanszky"
 product_type: "Member area and video courses"
-price: 1117
+price: 1114.51
 currency: "USD"
 affiliate_commission_pct: 47.5
-earnings_per_sale: 419.87
+earnings_per_sale: 418.93
 cart_conversion_pct: 7
 cancel_rate_pct: 4.91
 categories: ["Education","Personal Development"]
 listed_since: "2024-10-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/574211?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/574211"
@@ -22,16 +22,16 @@ language: "de"
 # Sven Gabor Janszky - Membership
 
 > Product ID `50984` · Digistore24 productId `574211` · [HTML profile page](../../produkte/sven-gabor-janszky-membership-50984.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1117.00 (Subscription) |
+| Price | $1114.51 (Subscription) |
 | Affiliate commission | 47.5% |
-| Earnings/sale* | $419.87 |
+| Earnings/sale* | $418.93 |
 | Cart conversion* | 7% |
 | Cancel rate* | 4.91% |
 | Vendor | SvenGaborJanszky |
@@ -41,7 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bist Du bereit, Dein Leben mit den neuesten Erkenntnissen und Trends aktiv zu gestalten? Tritt der ‚Future Me Community‘ bei und profitiere von wöchentlichen Impulsen und monatlichem Live-Coaching durch Sven Gabor Janszky, Europas führendem Zukunftsexperten. Zukunfts-Mindset: Jede Woche neue Einblicke und Zugriff auf hochkarätige Onlinekurse, um Dein Verständnis für die bevorstehenden globalen Ver…
+**Vendor's marketplace description:** <div>
+<div>
+<p>Bist Du bereit, Dein Leben mit den neuesten Erkenntnissen und Trends aktiv zu gestalten? Tritt der ‚Future Me Community‘ bei und profitiere von wöchentlichen Impulsen und monatlichem Live-Coaching durch Sven Gabor Janszky, Europas führendem Zukunftsexperten.</p>
+</div>
+</div>
+<div>
+<ul>
+<li><strong>Zukunfts-Mindset</strong><strong>:</strong> Jede Woche neue Einblicke und Zugriff auf hochkarätige Onlinekurse, um Dein Verständnis für die bevorstehenden globalen Veränderungen zu schärfen.<br /><br /></li>
+<li><strong>Innerer Zirkel</strong><strong>:</strong> Erhalte exklusiven Zugang zu Sven Gabor Janszky in monatlichen Live-Calls und werde Teil einer Community, die Zukunft gestaltet.<br /><br /></li>
+<li><strong>Erstklassige Impulse</strong><strong>:</strong> Nutze personalisierte Entwicklungspläne und exklusive Inhalte, die sonst nirgendwo verfügbar sind, um Deine Persönlichkeit weiterzuentwickeln.</li>
+</ul>
+</div>
+<p> </p>
+<p>INSPIRATION - NETWORKING - ZUKUNFTS-ICH METHODE<br /><br /><strong>Dein Membership Paket im Wert von über 5.000 EURO</strong>, mit Kursen, die Dein Leben verändern werden!<br /><br /></p>
+<ul>
+<li>Erhalte direkt Zugang zu über <strong>11 Onlinekursen</strong> im Wert von über 3.000 EUR, von Sven Gabor Janszky, Hermann Scherer, Reinhard Krechler<br /><br /></li>
+<li><strong>Jeden Monat </strong>einen <strong>Gruppen-Coaching-Call mit Sven Gabor Janszky</strong> im Wert von 1.164 EUR.<br /><br /></li>
+<li><strong>2x </strong><strong>Stammtische mit Deinem persönlichen Zukunfts-Coach</strong> im Wert on 468 EUR.<br /><br /></li>
+<li>Erhalte direkt Zugang zu den Aufzeichnungen des 2b AHEAD Zukunftskongress 2022, 2021 im Wert von 398 EUR.<br /><br /></li>
+<li>Erhalte direkt Zugang zu den <strong>Aufzeichnungen des 2b AHEAD Zukunftstages</strong>, im Wert von 99 EUR.<br /><br /></li>
+<li>Erhalte direkt Zugang zu exklusiven <strong>Trendanalysen des 2b AHEAD ThinkTanks</strong><br /><br /></li>
+<li>Exklusive Episoden und Veröffentlichungen aus dem <strong>Zukunftsmacher Podcast</strong> von Sven Gabor Janszky</li>
+</ul>
+<p> </p>
+<p><strong>Nach dem Kauf erhältst Du direkt Zugang zur</strong> Future.me Skool-Community (<a>https://www.skool.com/</a>)</p>
 
 ## 2. Links
 
@@ -80,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sven Gabor Janszky - Membership? — Typ: Member area and video courses, Anbieter: SvenGaborJanszky, gelistet seit 2024-10-08
-- Wie viel kostet es? — 1117.002874 USD
+- Wie viel kostet es? — 1114.510899 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

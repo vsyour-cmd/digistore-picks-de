@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing"]
 listed_since: "2023-12-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/527997?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/527997"
@@ -22,7 +22,7 @@ language: "de"
 # Der Verkaufsmagnet inkl. Bonus ChatGPT Prompt SqueezePage
 
 > Product ID `46226` · Digistore24 productId `527997` · [HTML profile page](../../produkte/der-verkaufsmagnet-inkl-bonus-chatgpt-prompt-squeezepage-46226.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** AFFILIATE-PROVISION MIT MAGNETISCHER ANZIEHUNG: Erschaffe unwiderstehliche Webtexte, die Provision magisch anziehen. Inkl. Copywriting-Formel: E-Mail Für Einsteiger im Affiliate Marketing mag Copywriting wie eine entfernte Kunst erscheinen. Dieses E-Book enthüllt jedoch grundlegende Copywriting Skills, die den Grundstein für deinen Online-Business-Erfolg legen. Denn jedes erfolgreiche Affiliate-Ma…
+**Vendor's marketplace description:** <p>AFFILIATE-PROVISION</p>
+<p>MIT MAGNETISCHER ANZIEHUNG:</p>
+<p>Erschaffe unwiderstehliche Webtexte, die Provision magisch anziehen. Inkl. Copywriting-Formel: E-Mail</p>
+<p>Für Einsteiger im Affiliate Marketing mag Copywriting wie eine entfernte Kunst erscheinen. Dieses E-Book enthüllt jedoch grundlegende Copywriting Skills, die den Grundstein für deinen Online-Business-Erfolg legen. Denn jedes erfolgreiche Affiliate-Marketing-Unternehmen beginnt mit den richtigen Worten.</p>
 
 ## 2. Links
 

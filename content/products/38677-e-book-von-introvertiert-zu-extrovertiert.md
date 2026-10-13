@@ -4,34 +4,34 @@ digistore24_product_id: 422227
 title: "E-Book: Von Introvertiert zu Extrovertiert"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 26.18
+price: 26.12
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 20.94
+earnings_per_sale: 20.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-12-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://page.funnelcockpit.com/4dYxSmzGjboRTePxL?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/38677/adminstore/"
 sales_page: "https://page.funnelcockpit.com/4dYxSmzGjboRTePxL"
 language: "de"
 ---
 # E-Book: Von Introvertiert zu Extrovertiert
 
 > Product ID `38677` · Digistore24 productId `422227` · [HTML profile page](../../produkte/e-book-von-introvertiert-zu-extrovertiert-38677.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.18 (Single payment) |
+| Price | $26.12 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $20.94 |
+| Earnings/sale* | $20.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -41,11 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verkaufe unseren neuen TopSeller zum Thema Rhetorik und Charisma ✅ Sofort mehr Selbstbewusstsein! ✅ Lerne funktionierenden Methoden für gelungene Kommunikation Entwickle ein neues positives Mindset ✅ Werde schlagfertig und beweise dein Können vor anderen Leuten ✅ Schluss mit Nervosität und Lampenfieber ✅ 5BS? ist natürlich erlaubt Du bekommst 80% von der Netto Provision des E-Books (ca. 2,5 Eur…
+**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Verkaufe unseren neuen TopSeller zum Thema Rhetorik und Charisma </strong></span></p>
+<ul>
+<li>
+<p>✅  Sofort mehr Selbstbewusstsein!</p>
+</li>
+<li>
+<p>✅  Lerne funktionierenden Methoden für gelungene  Kommunikation</p>
+</li>
+<li>
+<p> Entwickle ein neues positives Mindset</p>
+</li>
+<li>
+<p>✅  Werde schlagfertig und beweise dein Können vor anderen Leuten</p>
+</li>
+<li>
+<p>✅  Schluss mit Nervosität und Lampenfieber</p>
+</li>
+<li>
+<p>✅  5BS? ist natürlich erlaubt</p>
+</li>
+</ul>
+<p> </p>
+<ul>
+<li><span style="background-color:#ffff00;"><strong>Du bekommst 80% von der Netto Provision des E-Books (ca. 2,5 Euro)</strong></span></li>
+</ul>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://page.funnelcockpit.com/4dYxSmzGjboRTePxL?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38677/adminstore/
 - Sales page: https://page.funnelcockpit.com/4dYxSmzGjboRTePxL
 - Canonical redirect: https://www.digistore24.com/redir/422227/adminstore
 
@@ -66,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Von Introvertiert zu Extrovertiert? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2021-12-27
-- Wie viel kostet es? — 26.177216 USD
+- Wie viel kostet es? — 26.118816000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

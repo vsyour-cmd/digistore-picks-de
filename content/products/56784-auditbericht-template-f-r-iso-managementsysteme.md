@@ -4,16 +4,16 @@ digistore24_product_id: 697117
 title: "Auditbericht-Template für ISO-Managementsysteme"
 vendor: "MSB-Bartels"
 product_type: "Downloads"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.46
+earnings_per_sale: 18.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Project Management"]
 listed_since: "2026-06-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://msb-bup.de/service/?aff=adminstore#aff=adminstore"
 sales_page: "https://msb-bup.de/service/"
@@ -22,16 +22,16 @@ language: "de"
 # Auditbericht-Template für ISO-Managementsysteme
 
 > Product ID `56784` · Digistore24 productId `697117` · [HTML profile page](../../produkte/auditbericht-template-f-r-iso-managementsysteme-56784.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.46 |
+| Earnings/sale* | $18.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MSB-Bartels |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Professionelle Word-Vorlage zur Erstellung normkonformer Auditberichte für ISO-Managementsysteme. Sofort einsetzbare Word-Vorlage für interne Audits nach ISO 9001, ISO 14001, ISO 45001 und ISO 50001. Die Vorlage enthält eine strukturierte Auditberichterstattung mit Auditumfang, Auditzielen, Auditfeststellungen, Bewertungen, Maßnahmen und Abschlussbewertung. Vorteile: • Sofort einsetzbar • Individu…
+**Vendor's marketplace description:** <p><strong>Professionelle Word-Vorlage zur Erstellung normkonformer Auditberichte für ISO-Managementsysteme.</strong></p>
+<p>Sofort einsetzbare Word-Vorlage für interne Audits nach ISO 9001, ISO 14001, ISO 45001 und ISO 50001.</p>
+<p>Die Vorlage enthält eine strukturierte Auditberichterstattung mit Auditumfang, Auditzielen, Auditfeststellungen, Bewertungen, Maßnahmen und Abschlussbewertung.</p>
+<p><strong>Vorteile:</strong></p>
+<p>• Sofort einsetzbar</p>
+<p>• Individuell anpassbar</p>
+<p>• Professionelles Layout</p>
+<p>• Für interne Audits geeignet</p>
+<p>• Sofortdownload nach Kauf</p>
+<p><strong>Zielgruppe:</strong></p>
+<p>• Interne Auditoren</p>
+<p>• Qualitätsmanager</p>
+<p>• Umweltmanager</p>
+<p>• Energiemanager</p>
+<p>• Managementsystem-Beauftragte</p>
+<p>• Unternehmensberater</p>
 
 ## 2. Links
 
@@ -79,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auditbericht-Template für ISO-Managementsysteme? — Typ: Downloads, Anbieter: MSB-Bartels, gelistet seit 2026-06-02
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

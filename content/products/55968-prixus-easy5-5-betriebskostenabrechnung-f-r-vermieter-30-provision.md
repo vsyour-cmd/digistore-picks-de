@@ -4,16 +4,16 @@ digistore24_product_id: 676802
 title: "PRIXUS EASY5.5 – Betriebskostenabrechnung für Vermieter | 30% Provision"
 vendor: "PRIXUS-UG"
 product_type: "Software"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.97
+earnings_per_sale: 27.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Real Estate"]
 listed_since: "2026-03-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/676802?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/676802"
@@ -22,16 +22,16 @@ language: "de"
 # PRIXUS EASY5.5 – Betriebskostenabrechnung für Vermieter | 30% Provision
 
 > Product ID `55968` · Digistore24 productId `676802` · [HTML profile page](../../produkte/prixus-easy5-5-betriebskostenabrechnung-f-r-vermieter-30-provision-55968.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.97 |
+| Earnings/sale* | $27.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PRIXUS-UG |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** PRIXUS EASY5.5 – Desktop-Software für rechtssichere Betriebskostenabrechnungen nach §2 BetrKV. Perfekt für private Vermieter, Eigentümergemeinschaften und kleine Hausverwaltungen. Warum dieses Produkt bewerben? 30% Provision = 29,70 € pro Verkauf bei 99 € Einmalzahlung Kein Abo-Modell – keine Provision-Rückbuchungen durch Kündigungen Klare Zielgruppe: Private Vermieter, WEG-Verwalter, kleine Hausv…
+**Vendor's marketplace description:** <p><strong>PRIXUS EASY5.5</strong> – Desktop-Software für rechtssichere Betriebskostenabrechnungen nach §2 BetrKV. Perfekt für private Vermieter, Eigentümergemeinschaften und kleine Hausverwaltungen.</p>
+<p><strong>Warum dieses Produkt bewerben?</strong></p>
+<ul>
+<li><strong>30% Provision</strong> = 29,70 € pro Verkauf bei 99 € Einmalzahlung</li>
+<li><strong>Kein Abo-Modell</strong> – keine Provision-Rückbuchungen durch Kündigungen</li>
+<li><strong>Klare Zielgruppe:</strong> Private Vermieter, WEG-Verwalter, kleine Hausverwaltungen</li>
+<li><strong>Hohe Conversion:</strong> Einmalzahlung statt teurer Cloud-Abos (20–50 €/Monat)</li>
+<li><strong>Bewährtes Produkt</strong> seit über 10 Jahren auf dem Markt</li>
+</ul>
+<p><strong>Features:</strong> Unbegrenzte Objekte/Mieter, 17 Kostenarten nach BetrKV, automatische Pro-Rata-Berechnung, Fristenwarnung, Ein-Klick-PDF-Export, 100% lokal &amp; DSGVO-konform.</p>
+<p>Verkaufsseite: <a href="https://www.prixus.de/software/easy55/">https://www.prixus.de/software/easy55/</a></p>
 
 ## 2. Links
 
@@ -87,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PRIXUS EASY5.5 – Betriebskostenabrechnung für Vermieter | 30% Provision? — Typ: Software, Anbieter: PRIXUS-UG, gelistet seit 2026-03-16
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 433387
 title: "Wohlfühkörper Kurs"
 vendor: "Issdichgesund_Mel"
 product_type: "Downloads"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 25.99
+earnings_per_sale: 25.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-03-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://iss-dich-gesund.info/online-workshop/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40077/adminstore/"
 sales_page: "https://iss-dich-gesund.info/online-workshop/"
 language: "de"
 ---
 # Wohlfühkörper Kurs
 
 > Product ID `40077` · Digistore24 productId `433387` · [HTML profile page](../../produkte/wohlf-hk-rper-kurs-40077.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.97 (Single payment) |
+| Price | $64.83 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $25.99 |
+| Earnings/sale* | $25.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Issdichgesund_Mel |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dein Weg zum Wohlfühlkörper! Du willst Du dich endlich wieder wohlfühlen in deinem Körper und deiner Haut. Du hast aber wenig Zeit, um Termine in deinem Alltag mit einzuplanen, dann buche dir jetzt den reinen online Kurs und schau dir alles dann an, wenn es dir zeitlich passt. Lindere so Beschwerden, komm wieder in deine Leichtigkeit und Iss dich buchstäblich gesund. Und das alles, als schnupper K…
+**Vendor's marketplace description:** <p><strong>Dein Weg zum Wohlfühlkörper!</strong></p>
+<p> </p>
+<p>Du willst Du dich endlich wieder wohlfühlen in deinem Körper und deiner Haut.</p>
+<p>Du hast aber wenig Zeit, um Termine in deinem Alltag mit einzuplanen, dann buche dir jetzt den reinen online Kurs und schau dir alles dann an, wenn es dir zeitlich passt.</p>
+<p>Lindere so Beschwerden, komm wieder in deine Leichtigkeit und Iss dich buchstäblich gesund.</p>
+<p>Und das alles, als schnupper Kurs im Angebot für kleines Geld.</p>
+<p> </p>
+<p>Mit Leichtigkeit und Genuss, ganz ohne Hungern zurück in Deine natürliche Schönheit und Kraft.</p>
+<p> </p>
+<p>Iss Dich gesund!</p>
+<p>Einfach mit Mel</p>
+<p><br /><br /></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://iss-dich-gesund.info/online-workshop/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40077/adminstore/
 - Sales page: https://iss-dich-gesund.info/online-workshop/
 - Canonical redirect: https://www.digistore24.com/redir/433387/adminstore
 
@@ -99,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wohlfühkörper Kurs? — Typ: Downloads, Anbieter: Issdichgesund_Mel, gelistet seit 2022-03-09
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 672302
 title: "Affirmationskarten-Set für Mamas"
 vendor: "HolistischMama"
 product_type: "Downloads"
-price: 17.88
+price: 17.84
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.15
+earnings_per_sale: 7.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-02-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://holistischmama.de/affirmationskarten/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55851/adminstore/"
 sales_page: "https://holistischmama.de/affirmationskarten/"
 language: "de"
 ---
 # Affirmationskarten-Set für Mamas
 
 > Product ID `55851` · Digistore24 productId `672302` · [HTML profile page](../../produkte/affirmationskarten-set-f-r-mamas-55851.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.88 (Single payment) |
+| Price | $17.84 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.15 |
+| Earnings/sale* | $7.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HolistischMama |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Holistisch Mama Affirmationskarten – 31 regulierende Karten für frisch gebackene Mamas (PDF & PNG Download) Die ersten Monate als Mama sind intensiv, wunderschön – und manchmal überwältigend.Diese 31 liebevoll formulierten Affirmationskarten unterstützen dich dabei, deinen inneren Druck loszulassen und wieder in deine Ruhe zu finden. Statt Perfektionsanspruch bekommst du stärkende Worte, die dich …
+**Vendor's marketplace description:** <p><strong>Holistisch Mama Affirmationskarten – 31 regulierende Karten für frisch gebackene Mamas (PDF &amp; PNG Download)</strong></p>
+<p>Die ersten Monate als Mama sind intensiv, wunderschön – und manchmal überwältigend.<br />Diese 31 liebevoll formulierten Affirmationskarten unterstützen dich dabei, deinen inneren Druck loszulassen und wieder in deine Ruhe zu finden.</p>
+<p>Statt Perfektionsanspruch bekommst du stärkende Worte, die dich im Wochenbett, in der Stillzeit und im ersten Babyjahr emotional begleiten.</p>
+<p>✔ 31 regulierende Affirmationen<br />✔ Speziell für Wochenbett &amp; frühe Mutterschaft<br />✔ Minimalistisches, warmes Design<br />✔ Druckfertige PDF-Datei &amp; PNG Dateien<br />✔ Sofortiger Download<br />✔ Inklusive Anleitung zum Ausdrucken</p>
+<p>Ideal für dich selbst oder als Geschenk für eine frischgebackene Mama.</p>
+<p>Nach dem Kauf erhältst du sofort Zugriff auf deine Datei und kannst direkt starten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://holistischmama.de/affirmationskarten/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55851/adminstore/
 - Sales page: https://holistischmama.de/affirmationskarten/
 - Canonical redirect: https://www.digistore24.com/redir/672302/adminstore
 
@@ -84,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affirmationskarten-Set für Mamas? — Typ: Downloads, Anbieter: HolistischMama, gelistet seit 2026-02-27
-- Wie viel kostet es? — 17.884776000000002 USD
+- Wie viel kostet es? — 17.844876000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

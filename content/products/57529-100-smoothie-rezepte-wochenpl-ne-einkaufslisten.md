@@ -4,34 +4,34 @@ digistore24_product_id: 711237
 title: "100 Smoothie-Rezepte, Wochenpläne & Einkaufslisten"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 21.26
+earnings_per_sale: 21.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Food & Drink","Health & Fitness"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://gesundleben360.de/detox-style-smoothies/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57529/adminstore/"
 sales_page: "https://gesundleben360.de/detox-style-smoothies/"
 language: "de"
 ---
 # 100 Smoothie-Rezepte, Wochenpläne & Einkaufslisten
 
 > Product ID `57529` · Digistore24 productId `711237` · [HTML profile page](../../produkte/100-smoothie-rezepte-wochenpl-ne-einkaufslisten-57529.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $21.26 |
+| Earnings/sale* | $21.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Herzenswelt |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein visuell hochwertiges digitales Produkt für eine große, gesundheitsbewusste Zielgruppe: „Detox Smoothies für jeden Tag“ ist eine umfangreiche Rezeptesammlung mit 100 einfachen Smoothie-Rezepten, praktischen Wochenplänen, Einkaufslisten, Vorratstipps und zusätzlichen Smoothie-Bowl-Ideen. Auf insgesamt 128 liebevoll gestalteten Seiten finden Käufer abwechslungsreiche Rezepte für grüne Smoothies, …
+**Vendor's marketplace description:** <p><strong>Ein visuell hochwertiges digitales Produkt für eine große, gesundheitsbewusste Zielgruppe:</strong></p>
+<p>„Detox Smoothies für jeden Tag“ ist eine umfangreiche Rezeptesammlung mit <strong>100 einfachen Smoothie-Rezepten</strong>, praktischen Wochenplänen, Einkaufslisten, Vorratstipps und zusätzlichen Smoothie-Bowl-Ideen.</p>
+<p>Auf insgesamt <strong>128 liebevoll gestalteten Seiten</strong> finden Käufer abwechslungsreiche Rezepte für grüne Smoothies, Beeren-Smoothies, tropische Kreationen, Protein-Smoothies, zuckerärmere Varianten, Frühstücks-Smoothies, familienfreundliche Rezepte, Gemüse-Smoothies, Meal-Prep und Smoothie-Bowls.</p>
+<p>Das Produkt eignet sich besonders gut für Affiliates aus den Bereichen:</p>
+<ul>
+<li>gesunde und bewusste Ernährung</li>
+<li>Smoothies und Frühstücksideen</li>
+<li>Familienrezepte</li>
+<li>Meal-Prep und Alltagserleichterung</li>
+<li>Fitness, Wohlbefinden und Lifestyle</li>
+<li>Pinterest, Instagram, Foodblogs und Newsletter</li>
+</ul>
+<p><strong>Starke Verkaufsargumente:</strong></p>
+<p>✓ 100 alltagstaugliche Rezepte<br />✓ 128 professionell gestaltete Seiten<br />✓ einfache Zutaten und verständliche Zubereitung<br />✓ Wochenpläne, Einkaufslisten und Vorratstipps<br />✓ viele unterschiedliche Werbeaufhänger<br />✓ digitales Produkt mit sofortigem Zugriff<br />✓ ganzjährig bewerbbares Evergreen-Thema</p>
+<p>Der Begriff „Detox“ steht in diesem Produkt für frische Zutaten, bewusste Ernährung und kleine wohltuende Routinen im Alltag. Es werden ausdrücklich keine Heil-, Entgiftungs- oder Abnehmversprechen gegeben.</p>
+<p>Mögliche Werbewinkel sind beispielsweise „Smoothie-Frühstück für stressige Tage“, „100 neue Smoothie-Ideen“, „zuckerärmere Smoothies“, „Smoothies für die ganze Familie“, „Meal-Prep mit Smoothies“ oder „7-Tage-Smoothie-Start“.</p>
+<p><strong>Jetzt Affiliate-Partnerschaft anfragen und das Produkt passend zur eigenen Food-, Gesundheits- oder Lifestyle-Community bewerben.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://gesundleben360.de/detox-style-smoothies/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57529/adminstore/
 - Sales page: https://gesundleben360.de/detox-style-smoothies/
 - Canonical redirect: https://www.digistore24.com/redir/711237/adminstore
 
@@ -85,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100 Smoothie-Rezepte, Wochenpläne & Einkaufslisten? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-07-14
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

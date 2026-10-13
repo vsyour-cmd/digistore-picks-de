@@ -12,8 +12,8 @@ cart_conversion_pct: 21
 cancel_rate_pct: 0.64
 categories: ["Computer & Internet"]
 listed_since: "2022-12-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/webpirat-membership/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/webpirat-membership/"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Marketing Tools und Gratis Online Kurse (Geschenk)
 
 > Product ID `42152` · Digistore24 productId `474841` · [HTML profile page](../../produkte/affiliate-marketing-tools-und-gratis-online-kurse-geschenk-42152.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,42 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wir bauen die beste Online Marketing Community auf - und du kannst ein Teil davon sein! Webpirat Membership Pass Schenke deinen Kontakten den Zugang zu unzähligen Ressourcen, Tools und kostenfreien Online Kursen zum Thema Online Marketing. Wie sieht der Funnel aus? Kostenfreie Mitgliedschaft (kein Abo, keine versteckten Kosten) im Frontend 7€ Order-Bump (50% Provision) 37€ Upsell 1 (50% Provision)…
+**Vendor's marketplace description:** <p>Wir bauen die beste Online Marketing Community auf - und du kannst ein Teil davon sein!</p>
+<p><strong>Webpirat Membership Pass</strong></p>
+<p>Schenke deinen Kontakten den Zugang zu unzähligen Ressourcen, Tools und kostenfreien Online Kursen zum Thema Online Marketing.</p>
+<p><span style="background-color:#ffcc00;"><strong>Wie sieht der Funnel aus?</strong></span></p>
+<ul>
+<li>Kostenfreie Mitgliedschaft (kein Abo, keine versteckten Kosten) im Frontend</li>
+<li>7€ Order-Bump (50% Provision)</li>
+<li>37€ Upsell 1 (50% Provision)</li>
+<li>197€ Upsell 2 (50% Provision)</li>
+<li>47€ Downsell (50% Provision)</li>
+</ul>
+<p><span style="background-color:#ffcc00;"><strong>Mögliche Provision pro Klick / Kunde</strong>:</span></p>
+<ul>
+<li>Insgesamt 144€ pro Klick / Kunde möglich</li>
+</ul>
+<p><span style="background-color:#ffcc00;"><strong>Was enthält die Webpirat Mitgliedschaft?</strong></span></p>
+<ul>
+<li>Kostenlose Online Kurse</li>
+<li>Kostenlose Webinare</li>
+<li>Kostenlose E-Books</li>
+<li>Kostenlose Tutorials</li>
+<li>Kostenlose Tools für Online Marketer</li>
+<li>Listen mit exklusiven Affiliate-Netzwerken und Partnerprogrammen</li>
+<li>Kostenloses Forum</li>
+<li><strong>Wöchentliche Updates</strong> mit weiteren kostenfreien Ressourcen für dein Online Business</li>
+<li>Exklusiver VIP Newsletter (Jederzeit widerrufbar)</li>
+<li>Und vieles mehr...</li>
+</ul>
+<p><span style="background-color:#ffcc00;"><strong>Zielgruppe</strong>:</span></p>
+<ul>
+<li>Unternehmer</li>
+<li>Selbstständige</li>
+<li>Affiliates</li>
+<li>Coaches</li>
+<li>(Jeder der Online Geld verdienen möchte)</li>
+</ul>
 
 ## 2. Links
 
@@ -73,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Marketing Tools und Gratis Online Kurse (Geschenk)? — Typ: Member area and video courses, Anbieter: webpirat, gelistet seit 2022-12-14
-- Wie viel kostet es? — 0.403416 USD
+- Wie viel kostet es? — 0.40251600000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

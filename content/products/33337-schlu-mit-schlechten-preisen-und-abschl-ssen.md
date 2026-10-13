@@ -4,34 +4,34 @@ digistore24_product_id: 334681
 title: "\"Schluß mit schlechten Preisen und Abschlüssen\""
 vendor: "dealwinner"
 product_type: "Webinar"
-price: 17.9
+price: 17.86
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.37
+earnings_per_sale: 5.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sales Training"]
 listed_since: "2020-07-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://12260.webinaris.co/18063/schluss_mit_schlechten_preisen_und_abschluessen.html?mode=N&mode=N&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/33337/adminstore/"
 sales_page: "https://12260.webinaris.co/18063/schluss_mit_schlechten_preisen_und_abschluessen.html?mode=N&mode=N"
 language: "de"
 ---
 # "Schluß mit schlechten Preisen und Abschlüssen"
 
 > Product ID `33337` · Digistore24 productId `334681` · [HTML profile page](../../produkte/schlu-mit-schlechten-preisen-und-abschl-ssen-33337.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $17.90 (Single payment) |
+| Price | $17.86 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.37 |
+| Earnings/sale* | $5.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dealwinner |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verkaufen Sie zu schlechten Preisen? Erzielen Sie miserable Abschlüsse? Webinar für mehr Power im Vertrieb bzw. Verkauf Online-Seminar für bessere Preisgespräche bzw. Preisverhandlungen, Verkaufstraining mit Praxistipps, 80 Minuten Laufzeit, EUR 39,- inkl. MwSt. Mein Name ist Christian Kober, Verhandlungstrainer seit 30 Jahren und mehrfacher Buchautor. Zu meinen Teilnehmern gehören zahlreiche erfo…
+**Vendor's marketplace description:** <p><strong>Verkaufen Sie zu schlechten Preisen?</strong></p>
+<p><strong>Erzielen Sie miserable Abschlüsse?</strong></p>
+<p><strong>Webinar für mehr Power im Vertrieb bzw. Verkauf</strong></p>
+<p><strong>Online-Seminar für bessere Preisgespräche bzw. Preisverhandlungen, Verkaufstraining mit Praxistipps, 80 Minuten Laufzeit, EUR 39,- inkl. MwSt.</strong></p>
+<p>Mein Name ist Christian Kober, Verhandlungstrainer seit 30 Jahren und mehrfacher Buchautor. Zu meinen Teilnehmern gehören zahlreiche erfolgreiche Verkäufer und Führungskräfte aus Deutschland und Österreich.</p>
+<p>Profitieren auch Sie als Affiliate und Ihre Netzwerkpartner von diesem praxisbewährten Erfahrungsschatz für das Führen von Preisgesprächen. Empfehlen Sie mein Online-Seminar. <br /><br />Es enthält praxisbewährte Tipps und Anregungen zu folgenden Themen:</p>
+<ul>
+<li>„Sie sind zu teuer“ – Die wesentlichen Argumente zu dieser Aussage. Damit Sie Ihren Kunden doch noch von Ihrem Angebot überzeugen.<br /><br /></li>
+<li>Wie Sie im Preisgespräch überzeugend argumentieren und keine unnötigen Rabatte verschenken<br /><br /></li>
+<li>So gelingt es Ihnen durch gekonnte Argumente, Ihre Preise stabil und damit Ihre Verhandlungserträge ertragreich zu halten<br /><br /></li>
+<li>Sie erfahren, welche Methoden gewiefte Einkäufer in Verhandlungen einsetzen <br /><br /></li>
+<li>Sie wissen, nach dem Videoseminar, wie Einkäufer denken und handeln und verstehen dadurch Ihre Verhandlungspartner genauer<br /><br /></li>
+<li>Sie sind wesentlich besser auf Ihre Preisgespräche mit cleveren Einkäufern vorbereitet<br /><br /></li>
+<li>Sie erzielen mehr ertragreiche Abschlüsse<br /><br /></li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://12260.webinaris.co/18063/schluss_mit_schlechten_preisen_und_abschluessen.html?mode=N&mode=N&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/33337/adminstore/
 - Sales page: https://12260.webinaris.co/18063/schluss_mit_schlechten_preisen_und_abschluessen.html?mode=N&mode=N
 - Vendor affiliate support: https://12260.webinaris.co/18063/schluss_mit_schlechten_preisen_und_abschluessen.html?mode=N&mode=N
 - Canonical redirect: https://www.digistore24.com/redir/334681/adminstore
@@ -63,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist "Schluß mit schlechten Preisen und Abschlüssen"? — Typ: Webinar, Anbieter: dealwinner, gelistet seit 2020-07-03
-- Wie viel kostet es? — 17.895982 USD
+- Wie viel kostet es? — 17.856057000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

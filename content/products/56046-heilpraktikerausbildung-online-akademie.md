@@ -4,16 +4,16 @@ digistore24_product_id: 679337
 title: "Heilpraktikerausbildung - Online-Akademie"
 vendor: "info8293"
 product_type: "Online coaching"
-price: 2655.54
+price: 2649.62
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 796.67
+earnings_per_sale: 794.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-03-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/679337?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/679337"
@@ -22,16 +22,16 @@ language: "de"
 # Heilpraktikerausbildung - Online-Akademie
 
 > Product ID `56046` · Digistore24 productId `679337` · [HTML profile page](../../produkte/heilpraktikerausbildung-online-akademie-56046.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $2655.54 (Single payment) |
+| Price | $2649.62 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $796.67 |
+| Earnings/sale* | $794.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info8293 |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Eine vollständig strukturierte, medizinisch fundierte Online-Ausbildung zur Vorbereitung auf die Heilpraktikerprüfung – mit klarem Curriculum, systematischem Aufbau und hoher Bestehensrelevanz. Ideal für ernsthafte Teilnehmer, die gezielt bestehen wollen – nicht nur „ein bisschen lernen“.
+**Vendor's marketplace description:** <p>Eine vollständig strukturierte, medizinisch fundierte Online-Ausbildung zur Vorbereitung auf die Heilpraktikerprüfung – mit klarem Curriculum, systematischem Aufbau und hoher Bestehensrelevanz.</p>
+<p>Ideal für ernsthafte Teilnehmer, die <strong>gezielt bestehen wollen – nicht nur „ein bisschen lernen“.</strong></p>
+<hr />
+<h2> </h2>
 
 ## 2. Links
 
@@ -79,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilpraktikerausbildung - Online-Akademie? — Typ: Online coaching, Anbieter: info8293, gelistet seit 2026-03-25
-- Wie viel kostet es? — 2655.54185 USD
+- Wie viel kostet es? — 2649.617475 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 727165
 title: "Das geheime Spielbuch für Social Media Manager:innen –Teil1"
 vendor: "Medina88"
 product_type: "E-books"
-price: 103.68
+price: 103.45
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.11
+earnings_per_sale: 31.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/727165?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58887/adminstore/"
 sales_page: "https://www.digistore24.com/product/727165"
 language: "de"
 ---
 # Das geheime Spielbuch für Social Media Manager:innen –Teil1
 
 > Product ID `58887` · Digistore24 productId `727165` · [HTML profile page](../../produkte/das-geheime-spielbuch-f-r-social-media-manager-innen-teil1-58887.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $103.68 (Single payment) |
+| Price | $103.45 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.11 |
+| Earnings/sale* | $31.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Medina88 |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein praxisorientierter digitaler Guide für angehende und aktive Social Media Manager:innen, die ihr Angebot professionell aufbauen, Kunden gewinnen und ihr Social-Media-Business strukturiert entwickeln möchten. „Das geheime Spielbuch für Social Media Manager:innen“ verbindet praxisnahes Wissen mit konkreten Strategien und umsetzbaren Schritten. Zielgruppe:• angehende Social Media Manager:innen• Fr…
+**Vendor's marketplace description:** <p><strong>Ein praxisorientierter digitaler Guide für angehende und aktive Social Media Manager:innen, die ihr Angebot professionell aufbauen, Kunden gewinnen und ihr Social-Media-Business strukturiert entwickeln möchten.</strong></p>
+<p>„Das geheime Spielbuch für Social Media Manager:innen“ verbindet praxisnahes Wissen mit konkreten Strategien und umsetzbaren Schritten.</p>
+<p><strong>Zielgruppe:</strong><br />• angehende Social Media Manager:innen<br />• Freelancer:innen und Selbstständige im Social-Media-Bereich<br />• Personen, die mit Social Media Management ein eigenes Business aufbauen möchten<br />• Social Media Manager:innen, die professioneller Kunden gewinnen und arbeiten möchten</p>
+<p><strong>Warum das Produkt interessant für Affiliates ist:</strong><br />• klare und wachsende Zielgruppe im Bereich Social Media &amp; Online-Business<br />• digitales Produkt mit sofortiger Auslieferung<br />• konkreter Praxisnutzen statt reiner Theorie<br />• geeignet für Content rund um Social Media, Selbstständigkeit, Kundenakquise, Online-Business und digitale Dienstleistungen<br />• Teil einer Produktreihe mit weiterführendem Teil 2 für Wachstum und Skalierung</p>
+<p><strong>Preis:</strong> 99 €</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/727165?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58887/adminstore/
 - Sales page: https://www.digistore24.com/product/727165
 - Vendor affiliate support: http://almedinahajro.de
 - Canonical redirect: https://www.digistore24.com/redir/727165/adminstore
@@ -89,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das geheime Spielbuch für Social Media Manager:innen –Teil1? — Typ: E-books, Anbieter: Medina88, gelistet seit 2026-09-03
-- Wie viel kostet es? — 103.677912 USD
+- Wie viel kostet es? — 103.446612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

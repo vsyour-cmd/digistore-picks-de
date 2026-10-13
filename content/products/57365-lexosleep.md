@@ -4,34 +4,34 @@ digistore24_product_id: 689271
 title: "Lexosleep"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 1120.6
+price: 1118.1
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 112.06
+earnings_per_sale: 111.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/689271?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57365/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/689271"
 language: "de"
 ---
 # Lexosleep
 
 > Product ID `57365` · Digistore24 productId `689271` · [HTML profile page](../../produkte/lexosleep-57365.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1120.60 (Single payment, Installment) |
+| Price | $1118.10 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $112.06 |
+| Earnings/sale* | $111.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sprachförderprogramm für Kinder. In der Nacht den Sprachrhytmus erwerben. Eltern spielen ihren Kindern Input vor, mit dem sie den Rhythmus erwerben. Dieser ist die Basis für den kompletten Sprachaufbau und die Voraussetzung für Lesen und Schreiben, inklusive 12 Monate Support über Telegram durch Fachtherapeuten.
+**Vendor's marketplace description:** <p>Sprachförderprogramm für Kinder. In der Nacht den Sprachrhytmus erwerben. Eltern spielen ihren Kindern Input vor, mit dem sie den Rhythmus erwerben. Dieser ist die Basis für den kompletten Sprachaufbau und die Voraussetzung für Lesen und Schreiben, inklusive 12 Monate Support über Telegram durch Fachtherapeuten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689271?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57365/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/689271
 - Canonical redirect: https://www.digistore24.com/redir/689271/adminstore
 
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lexosleep? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 1120.6000000000001 USD
+- Wie viel kostet es? — 1118.1000000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

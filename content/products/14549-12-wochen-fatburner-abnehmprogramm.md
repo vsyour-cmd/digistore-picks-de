@@ -4,34 +4,34 @@ digistore24_product_id: 104181
 title: "12 Wochen Fatburner Abnehmprogramm"
 vendor: "amg-onlinekonzepte"
 product_type: "Downloads"
-price: 83.81
+price: 83.62
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 20.96
+earnings_per_sale: 20.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2016-11-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://fatburner-programm.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/14549/adminstore/"
 sales_page: "http://fatburner-programm.de/"
 language: "de"
 ---
 # 12 Wochen Fatburner Abnehmprogramm
 
 > Product ID `14549` · Digistore24 productId `104181` · [HTML profile page](../../produkte/12-wochen-fatburner-abnehmprogramm-14549.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $83.81 (Subscription) |
+| Price | $83.62 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $20.96 |
+| Earnings/sale* | $20.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | amg-onlinekonzepte |
@@ -41,11 +41,42 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Deine Schritt für Schritt Anleitung, um erfolgreich, gesund und dauerhaft abzunehmen. (Perfekt für Anfänger) 84 FULL-HD Videos 12 Wochen-Module 12 Monate Zugang 30 Tage Rückgaberecht Interaktiver Rezepteplaner Mobil auf allen Geräten nutzbar Sofortiger Zugang Zusätzliche Downloads Zugang zur Fatburner Community Du bekommst: Über 120 Abnehm-Rezepte 36 Fatburner Workouts 12 Ernährungsvideos 12 Kochv…
+**Vendor's marketplace description:** <h4><span style="color:#000000;">Deine Schritt für Schritt Anleitung, um erfolgreich, gesund und dauerhaft abzunehmen.</span></h4>
+<h5><strong><span style="color:#cc99ff;">(Perfekt für Anfänger)</span></strong></h5>
+<ul><li><span style="color:#000000;">84 FULL-HD Videos</span></li>
+<li><span style="color:#000000;"><span style="color:#000000;">12 Wochen-Module</span></span><span style="color:#000000;"><br /></span></li>
+<li><span style="color:#000000;">12 Monate Zugang </span></li>
+<li><span style="color:#000000;">30 Tage Rückgaberecht<br /></span></li>
+<li><span style="color:#000000;">Interaktiver Rezepteplaner<br /></span></li>
+<li><span style="color:#000000;">Mobil auf allen Geräten nutzbar<br /></span></li>
+<li><span style="color:#000000;">Sofortiger Zugang<br /></span></li>
+<li><span style="color:#000000;">Zusätzliche Downloads</span><em><br /></em></li>
+<li><span style="color:#000000;">Zugang zur Fatburner Community</span></li>
+</ul><h4><span style="color:#cc99ff;"><br /><strong>Du bekommst:</strong></span></h4>
+<ul><li>Über 120 Abnehm-Rezepte</li>
+<li>36 Fatburner Workouts</li>
+<li>12 Ernährungsvideos</li>
+<li>12 Kochvideos</li>
+<li>12 Trainingsvideos</li>
+<li>12 Übungsvideos</li>
+<li>12 Entspannungsaudios</li>
+</ul><p>Und jede Menge Motivation von Anna! Deinem neuen Abnehmcoach :)</p>
+<h4><strong><br /><span style="color:#cc99ff;">Bonusmaterial:</span></strong></h4>
+<ul><li>Die Starter-Einkaufsliste</li>
+<li>Das Ernährungs-Booklet</li>
+<li>Der Danach-Guide</li>
+</ul><p> </p>
+<p>Preismodell:</p>
+<p>89,00 Euro einmalig, Zugangsdauer 12 Monate, danach 9,90 Euro als Abo, monatlich kündbar</p>
+<p><br />oder</p>
+<p><br />9,90 Euro/Monat, Mindestlaufzeit 12 Monate, danach monatlich kündbar</p>
+<h4><strong> </strong></h4>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://fatburner-programm.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/14549/adminstore/
 - Sales page: http://fatburner-programm.de/
 - Vendor affiliate support: http://fatburner-programm.de/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/104181/adminstore
@@ -89,7 +120,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 12 Wochen Fatburner Abnehmprogramm? — Typ: Downloads, Anbieter: amg-onlinekonzepte, gelistet seit 2016-11-14
-- Wie viel kostet es? — 83.80967400000002 USD
+- Wie viel kostet es? — 83.62269900000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 391973
 title: "Hammer Concept Palmstick Defense Onlinekurs"
 vendor: "fma24_com"
 product_type: "Member area and video courses"
-price: 96.05
+price: 95.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 48.03
+earnings_per_sale: 47.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport","Survival"]
 listed_since: "2021-05-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.fma24.com/onlinekurse/palmstick-defense/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.fma24.com/onlinekurse/palmstick-defense/"
@@ -22,16 +22,16 @@ language: "de"
 # Hammer Concept Palmstick Defense Onlinekurs
 
 > Product ID `39160` · Digistore24 productId `391973` · [HTML profile page](../../produkte/hammer-concept-palmstick-defense-onlinekurs-39160.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $96.05 (Single payment, Installment) |
+| Price | $95.83 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $48.03 |
+| Earnings/sale* | $47.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fma24_com |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die EINFACHE Selbstverteidigung mit Palmstick / Kubotan / Tactical Pen und Alltagsgegenständen (EDC). In diesem Onlinekurs lernst Du Schritt-für-Schritt die einfache Anwendung des Palmsticks / Kubotans zur effektiven Selbstverteidigung in Notwehrsituationen. Der Palmstick ist ein kurzer Stock (10 - 15 cm) und dient Dir als Schlagverstärker. Weitere Bezeichnungen für einen Palmstick sind Kubotan, P…
+**Vendor's marketplace description:** <h2>Die <span style="text-decoration:underline;">EINFACHE</span> Selbstverteidigung</h2>
+<h3>mit Palmstick / Kubotan / Tactical Pen und Alltagsgegenständen (EDC).</h3>
+<p>In diesem Onlinekurs lernst Du Schritt-für-Schritt die <strong>einfache </strong>Anwendung des Palmsticks / Kubotans zur <strong>effektiven</strong> Selbstverteidigung in Notwehrsituationen.</p>
+<p><strong>Der Palmstick ist ein kurzer Stock</strong> (10 - 15 cm) und dient Dir als <strong>Schlagverstärker</strong>. Weitere Bezeichnungen für einen Palmstick sind Kubotan, Pocketstick, Yawara, Dulo Dulo oder Nervenstock.</p>
+<p><strong>Der "Palmstick" steht auch für handliche Alltagsgegenstände</strong>, die du bei dir trägst (EDC) oder in deiner Umgebung finden kannst, wie z.B. Taschenlampe, Flaschenöffner, Kugelschreiber / Tactical Pen, Zahnbürste usw.</p>
+<p>Die "Hammer Concept Palmstick Defense" ist <strong>Notfall-Selbstverteidigung</strong> für <strong>Extrem-Notwehrsituationen</strong>.</p>
+<p><strong>Ohne Schnörkel. Einfach und direkt.</strong></p>
+<p><span style="text-decoration:underline;background-color:#ffff00;color:#000000;"><strong>26 Lektionen mit 3.5 Stunden Videomaterial!</strong></span><span style="text-decoration:underline;background-color:#ffff00;"><strong><br /></strong></span></p>
+<p>PLUS <strong>2 Bonus-Kurse</strong> (ca. 80 Minuten Video)</p>
+<p><em>Garantiert OHNE Schnickschnack.</em></p>
+<h3>Deine Vorteile als Affiliate</h3>
+<ul>
+<li>50 % Provision pro Verkauf</li>
+<li>Fertige Produktbanner und -bilder</li>
+<li>Promo-Pixel ready!</li>
+<li>Sonderaktionen für Shopbetreiber und reichweitenstarke Kanäle auf Anfrage</li>
+</ul>
+<p><strong><a href="https://www.fma24.com/partnerprogramm/" target="_blank" rel="noreferrer noopener">Check die FAQ unseres Partnerprogramms [hier klicken]...</a></strong></p>
 
 ## 2. Links
 
@@ -86,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hammer Concept Palmstick Defense Onlinekurs? — Typ: Member area and video courses, Anbieter: fma24_com, gelistet seit 2021-05-28
-- Wie viel kostet es? — 96.046626 USD
+- Wie viel kostet es? — 95.832351 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

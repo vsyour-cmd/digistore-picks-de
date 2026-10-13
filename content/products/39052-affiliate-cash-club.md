@@ -4,16 +4,16 @@ digistore24_product_id: 420804
 title: "Affiliate Cash Club"
 vendor: "Robinfocke"
 product_type: "Member area and video courses"
-price: 489.7
+price: 488.61
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 146.91
+earnings_per_sale: 146.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-12-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://www.digistore24.com/redir/420804/adminstore"
 sales_page: "https://affiliatecashclub.de?p=[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Cash Club
 
 > Product ID `39052` · Digistore24 productId `420804` · [HTML profile page](../../produkte/affiliate-cash-club-39052.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $489.70 (Single payment, Installment) |
+| Price | $488.61 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $146.91 |
+| Earnings/sale* | $146.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Robinfocke |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Einzigartiges System für Affiliates Weltweit einzigartig Der Affiliate Cash Club ist die perfekte Kombination aus Strategie und Software. Deine Vorteile: - 108,15 € Provision pro Verkauf - Multi Device Tracking - Automatischer Affiliates Aufbau - Einzigartiges System Du verdienst nicht nur eine Provision, wenn du den Affiliate Cash Club verkaufst, sondern du gewinnst gleichzeitig einen Affiliate a…
+**Vendor's marketplace description:** <h2 style="text-align:center;"><span style="background-color:#ffff00;color:#ff0000;"><strong>Einzigartiges System für Affiliates</strong></span></h2>
+<h2 style="text-align:center;"><span style="background-color:#ffff00;color:#ff0000;"><strong> Weltweit einzigartig </strong></span></h2>
+<p> </p>
+<p><strong>Der Affiliate Cash Club ist die perfekte Kombination aus Strategie und Software.</strong></p>
+<p> </p>
+<h4 style="text-align:left;text-decoration:underline;">Deine Vorteile:</h4>
+<p>- 108,15 € Provision pro Verkauf</p>
+<p>- Multi Device Tracking</p>
+<p>- Automatischer Affiliates Aufbau</p>
+<p>- Einzigartiges System</p>
+<p> </p>
+<p>Du verdienst nicht nur eine Provision, wenn du den Affiliate Cash Club verkaufst, sondern du gewinnst gleichzeitig einen Affiliate an dem du 20 % auf 2 Ebene mitverdienst.<br /><br />Im Hintergrund haben wir eine E-Mail Kampagne laufen für potenzielle Kunden die durch dich geworben werden. Sollte der potenzielle Kunde über einer unsere Mail kaufen, wird dir auch die Provision gutgeschrieben.</p>
+<p><strong> </strong></p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -64,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Cash Club? — Typ: Member area and video courses, Anbieter: Robinfocke, gelistet seit 2021-12-14
-- Wie viel kostet es? — 489.7022 USD
+- Wie viel kostet es? — 488.60970000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

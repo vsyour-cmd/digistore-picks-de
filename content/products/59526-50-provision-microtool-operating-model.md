@@ -4,16 +4,16 @@ digistore24_product_id: 735956
 title: "50% Provision: MicroTool Operating Model"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.66
+earnings_per_sale: 13.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/735956?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/735956"
@@ -22,16 +22,16 @@ language: "de"
 # 50% Provision: MicroTool Operating Model
 
 > Product ID `59526` · Digistore24 productId `735956` · [HTML profile page](../../produkte/50-provision-microtool-operating-model-59526.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.66 |
+| Earnings/sale* | $13.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -41,7 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Struktur wirkt nur, wenn sie im Alltag verstanden und gelebt wird. Das NAVOK Operating Model macht das in einer Vorlage sichtbar: Aufbau, Rollencluster, Verantwortungslogik, Schnittstellen, Governance und Steuerungslogik – strukturiert in einem direkt einsetzbaren Template. Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt. Zielgru…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<pre><code>Struktur wirkt nur, wenn sie im Alltag verstanden und gelebt wird. Das NAVOK Operating
+Model macht das in einer Vorlage sichtbar: Aufbau, Rollencluster, Verantwortungslogik,
+Schnittstellen, Governance und Steuerungslogik – strukturiert in einem direkt
+einsetzbaren Template.
+
+Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt.
+
+<strong>Zielgruppe:</strong> Führungskräfte und Organisationsentwickler, die schnell ein belastbares
+Zielbild für ihre Struktur brauchen, ohne gleich das komplette System einzuführen.
+
+<strong>Für Sie als Affiliate:</strong> 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für
+Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind.
+
+Digitaler Download, sofort verfügbar, ca. 2 Seiten.</code></pre>
+</div>
+</div>
+</div>
+<p> </p>
 
 ## 2. Links
 
@@ -74,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: MicroTool Operating Model? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-09-22
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 670687
 title: "Selbsthypnosereihe"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 145.68
+price: 145.35
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 14.57
+earnings_per_sale: 14.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://lexosophie.mydigibiz24.com/lexosleep-app?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57377/adminstore/"
 sales_page: "https://lexosophie.mydigibiz24.com/lexosleep-app"
 language: "de"
 ---
 # Selbsthypnosereihe
 
 > Product ID `57377` · Digistore24 productId `670687` · [HTML profile page](../../produkte/selbsthypnosereihe-57377.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $145.68 (Subscription) |
+| Price | $145.35 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $14.57 |
+| Earnings/sale* | $14.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Selbsthypnosereihe zur Entspannung, um aus deinem stressigen Alltag herauszugehen. Sie bauen aufeinander auf, du kannst sie gezielt bei Anspannung oder einfach in ruhigen Momenten für dich nutzen. 5 aufgesprochene Hypnosesessions. Nutzung der Audios für 1 Jahr im Mitgliederbereich in unserer App.
+**Vendor's marketplace description:** <p>Selbsthypnosereihe zur Entspannung, um aus deinem stressigen Alltag herauszugehen. Sie bauen aufeinander auf, du kannst sie gezielt bei Anspannung oder einfach in ruhigen Momenten für dich nutzen.</p>
+<p>5 aufgesprochene Hypnosesessions. Nutzung der Audios für 1 Jahr im Mitgliederbereich in unserer App.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lexosophie.mydigibiz24.com/lexosleep-app?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57377/adminstore/
 - Sales page: https://lexosophie.mydigibiz24.com/lexosleep-app
 - Canonical redirect: https://www.digistore24.com/redir/670687/adminstore
 
@@ -83,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbsthypnosereihe? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 145.678 USD
+- Wie viel kostet es? — 145.353 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

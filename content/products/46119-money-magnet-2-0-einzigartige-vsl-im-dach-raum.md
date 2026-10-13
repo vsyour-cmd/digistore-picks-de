@@ -4,34 +4,34 @@ digistore24_product_id: 526339
 title: "Money Magnet 2.0 - Einzigartige VSL im DACH Raum"
 vendor: "funnelprofits"
 product_type: "Member area and video courses"
-price: 63.9
+price: 63.75
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 40.77
+earnings_per_sale: 40.68
 cart_conversion_pct: 12
 cancel_rate_pct: 8.44
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-11-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://moneymagnet.funnelcockpit.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46119/adminstore/"
 sales_page: "https://moneymagnet.funnelcockpit.com/"
 language: "de"
 ---
 # Money Magnet 2.0 - Einzigartige VSL im DACH Raum
 
 > Product ID `46119` · Digistore24 productId `526339` · [HTML profile page](../../produkte/money-magnet-2-0-einzigartige-vsl-im-dach-raum-46119.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $63.90 (Single payment, Installment) |
+| Price | $63.75 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $40.77 |
+| Earnings/sale* | $40.68 |
 | Cart conversion* | 12% |
 | Cancel rate* | 8.44% |
 | Vendor | funnelprofits |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** !!!BRANDNEUE MOBILE VSL 2025 VERDOPPELT DEINE CONVERSIONRATEN!!! Der Money Magnet 2.0 60% Provision auf das Frontend Produkt - 50% Provision auf die Upsells. Bis zu 255 € Provision sind im Funnel für Dich möglich + durch das Abo monatlich weitere Lifetime Provisionen. Deine Vorteile: Ideales Produkt für jeden der Online Geld verdienen möchte Conversionsstarke VSL Die Verkaufs- und Upsellseiten wer…
+**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>!!!BRANDNEUE MOBILE VSL 2025 VERDOPPELT DEINE CONVERSIONRATEN!!!</strong></span></p>
+<p><strong>Der Money Magnet 2.0 </strong><br /><br /><strong><span style="color:#ff0000;">60% Provision auf das Frontend Produkt - 50% Provision auf die Upsells.</span></strong></p>
+<p><strong>Bis zu 255 € Provision sind im Funnel für Dich möglich + durch das Abo monatlich weitere Lifetime Provisionen.</strong></p>
+<p><strong>Deine Vorteile:</strong></p>
+<ul>
+<li>Ideales Produkt für jeden der Online Geld verdienen möchte</li>
+<li>Conversionsstarke VSL</li>
+<li>Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert.</li>
+</ul>
+<p>Von den E-Mail Vorlagen bis hin zu Werbebildern ist alles für dich vorbereitet.</p>
+<p><a href="https://moneymagnet.funnelcockpit.com/partnerseite-2-2/" target="_blank" rel="noreferrer noopener">&gt;&gt;Hier klicken für die Werbemittel&lt;&lt;</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://moneymagnet.funnelcockpit.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46119/adminstore/
 - Sales page: https://moneymagnet.funnelcockpit.com/
 - Vendor affiliate support: https://moneymagnet.funnelcockpit.com/partnerseite-2-2/
 - Canonical redirect: https://www.digistore24.com/redir/526339/adminstore
@@ -67,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Money Magnet 2.0 - Einzigartige VSL im DACH Raum? — Typ: Member area and video courses, Anbieter: funnelprofits, gelistet seit 2023-11-21
-- Wie viel kostet es? — 63.896612000000005 USD
+- Wie viel kostet es? — 63.75406200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

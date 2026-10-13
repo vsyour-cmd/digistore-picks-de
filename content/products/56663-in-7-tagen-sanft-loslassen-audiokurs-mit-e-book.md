@@ -4,34 +4,34 @@ digistore24_product_id: 694749
 title: "In 7 Tagen sanft loslassen | Audiokurs mit E-Book"
 vendor: "PsycheVital"
 product_type: "Downloads"
-price: 18.78
+price: 18.74
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.39
+earnings_per_sale: 9.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-05-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.loslassenlernen-online.de/loslassen-lernen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56663/adminstore/"
 sales_page: "https://www.loslassenlernen-online.de/loslassen-lernen/"
 language: "de"
 ---
 # In 7 Tagen sanft loslassen | Audiokurs mit E-Book
 
 > Product ID `56663` · Digistore24 productId `694749` · [HTML profile page](../../produkte/in-7-tagen-sanft-loslassen-audiokurs-mit-e-book-56663.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.78 (Single payment) |
+| Price | $18.74 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.39 |
+| Earnings/sale* | $9.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PsycheVital |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Loslassen lernen | Ein Online-Audio-Kurs in 7 Schritten "In 7 Tagen sanft loslassen" ist ein ebenso effektiver, wie einfühlsamer Selfcare-Online-Audiokurs, der dich dabei unterstützt mentalen Müll und Dinge, die dich blockieren loszulassen. Das begleitende E-Book unterstützt mit weiteren Texten, Übungen und positiven Affirmationen. Lasse jetzt los.
+**Vendor's marketplace description:** <p>Loslassen lernen | Ein Online-Audio-Kurs in 7 Schritten</p>
+<div>
+<p>"In 7 Tagen sanft loslassen" ist ein ebenso effektiver, wie einfühlsamer Selfcare-Online-Audiokurs, der dich dabei unterstützt mentalen Müll und Dinge, die dich blockieren loszulassen.</p>
+<p>Das begleitende E-Book unterstützt mit weiteren Texten, Übungen und positiven Affirmationen.</p>
+<p><strong>Lasse jetzt los.</strong></p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.loslassenlernen-online.de/loslassen-lernen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56663/adminstore/
 - Sales page: https://www.loslassenlernen-online.de/loslassen-lernen/
 - Canonical redirect: https://www.digistore24.com/redir/694749/adminstore
 
@@ -76,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist In 7 Tagen sanft loslassen | Audiokurs mit E-Book? — Typ: Downloads, Anbieter: PsycheVital, gelistet seit 2026-05-24
-- Wie viel kostet es? — 18.781256000000003 USD
+- Wie viel kostet es? — 18.739356000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

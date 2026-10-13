@@ -4,7 +4,7 @@ digistore24_product_id: 702998
 title: "10 KI-Prompts für Business-Mamas - Copy-Paste Playbook"
 vendor: "carinabauer"
 product_type: "Downloads"
-price: 13.18
+price: 13.15
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 3.29
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Profession & Job"]
 listed_since: "2026-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/702998?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57109/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/702998"
 language: "de"
 ---
 # 10 KI-Prompts für Business-Mamas - Copy-Paste Playbook
 
 > Product ID `57109` · Digistore24 productId `702998` · [HTML profile page](../../produkte/10-ki-prompts-f-r-business-mamas-copy-paste-playbook-57109.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $13.18 (Single payment) |
+| Price | $13.15 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $3.29 |
 | Cart conversion* | — |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du erhältst ein PDF mit 10 sofort einsetzbaren Copy-Paste KI-Prompts für ChatGPT. Die Prompts helfen dir bei Content-Erstellung, Angebots-Texten und E-Mail-Marketing für dein Business als Mama."
+**Vendor's marketplace description:** <p>Du erhältst ein PDF mit 10 sofort einsetzbaren Copy-Paste KI-Prompts für ChatGPT. Die Prompts helfen dir bei Content-Erstellung, Angebots-Texten und E-Mail-Marketing für dein Business als Mama."</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/702998?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57109/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/702998
 - Canonical redirect: https://www.digistore24.com/redir/702998/adminstore
 
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 KI-Prompts für Business-Mamas - Copy-Paste Playbook? — Typ: Downloads, Anbieter: carinabauer, gelistet seit 2026-06-23
-- Wie viel kostet es? — 13.178256000000001 USD
+- Wie viel kostet es? — 13.148856 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

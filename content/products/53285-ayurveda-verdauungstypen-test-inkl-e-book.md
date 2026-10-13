@@ -4,34 +4,34 @@ digistore24_product_id: 621180
 title: "Ayurveda-Verdauungstypen-Test inkl. E-Book"
 vendor: "Eliane_Duerst"
 product_type: "E-books"
-price: 5.19
+price: 5.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 2.6
+earnings_per_sale: 2.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-06-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://elianeduerst-ayurveda.ch/ebook-dosha-test/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53285/adminstore/"
 sales_page: "https://elianeduerst-ayurveda.ch/ebook-dosha-test/"
 language: "de"
 ---
 # Ayurveda-Verdauungstypen-Test inkl. E-Book
 
 > Product ID `53285` · Digistore24 productId `621180` · [HTML profile page](../../produkte/ayurveda-verdauungstypen-test-inkl-e-book-53285.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.19 (Single payment) |
+| Price | $5.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $2.60 |
+| Earnings/sale* | $2.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Eliane_Duerst |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** [Neu] Ayurveda-Verdauungstypen-Test inkl. E-Book 24 Seiten achtsamer Content | Digitales PDF | Sprache: Deutsch3 ausführliche Typ-Kapitel (Vata, Pitta, Kapha)Inklusive Ernährungstipps, Tagesroutinen & RezepteMit liebevollen Illustrationen und klarer Struktur Verkaufspreis: CHF 4.95 Mit dem Kauf dieses Produktes erhältst du ebenfalls unseren Newsletter, der dich über aktuelle Angebote und Informati…
+**Vendor's marketplace description:** <p><strong>[Neu] Ayurveda-Verdauungstypen-Test inkl. E-Book</strong></p>
+<p>24 Seiten achtsamer Content | Digitales PDF | Sprache: Deutsch<br />3 ausführliche Typ-Kapitel (Vata, Pitta, Kapha)<br />Inklusive Ernährungstipps, Tagesroutinen &amp; Rezepte<br />Mit liebevollen Illustrationen und klarer Struktur</p>
+<p><strong>Verkaufspreis: CHF 4.95</strong><br /><br /></p>
+<p>Mit dem Kauf dieses Produktes erhältst du ebenfalls unseren Newsletter, der dich über aktuelle Angebote und Informationen zum Thema <strong>Ayurveda, Ernährung &amp; ganzheitliches Wohlbefinden</strong> per E-Mail benachrichtigt.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://elianeduerst-ayurveda.ch/ebook-dosha-test/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53285/adminstore/
 - Sales page: https://elianeduerst-ayurveda.ch/ebook-dosha-test/
 - Vendor affiliate support: https://elianeduerst-ayurveda.ch/affiliate-partnerseite/
 - Canonical redirect: https://www.digistore24.com/redir/621180/adminstore
@@ -78,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ayurveda-Verdauungstypen-Test inkl. E-Book? — Typ: E-books, Anbieter: Eliane_Duerst, gelistet seit 2025-06-28
-- Wie viel kostet es? — 5.188378 USD
+- Wie viel kostet es? — 5.1768030000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

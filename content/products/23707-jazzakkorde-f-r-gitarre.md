@@ -4,34 +4,34 @@ digistore24_product_id: 209613
 title: "Jazzakkorde für Gitarre"
 vendor: "musiklehrer"
 product_type: "Downloads"
-price: 83.25
+price: 83.06
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 16.27
+earnings_per_sale: 16.23
 cart_conversion_pct: 15
 cancel_rate_pct: 2.88
 categories: ["Dancing & Music"]
 listed_since: "2018-03-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.gitarrenvideounterricht.de/kurse/jazzakkorde/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/23707/adminstore/"
 sales_page: "https://www.gitarrenvideounterricht.de/kurse/jazzakkorde/"
 language: "de"
 ---
 # Jazzakkorde für Gitarre
 
 > Product ID `23707` · Digistore24 productId `209613` · [HTML profile page](../../produkte/jazzakkorde-f-r-gitarre-23707.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $83.25 (Single payment) |
+| Price | $83.06 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $16.27 |
+| Earnings/sale* | $16.23 |
 | Cart conversion* | 15% |
 | Cancel rate* | 2.88% |
 | Vendor | musiklehrer |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieser Kurs für fortgeschrittene Gitarristen vermittelt die Fähigkeiten zum Begleiten von Jazzstandards. Es werden die harmonischen Hintergründe verschiedener Akkordkonzepte erklärt, bevor es zur praktischen Umsetzung mithilfe bekannter Jazzstandards geht. Alle Übungen werden in ergänzenden Videos vorgeführt, Playalongs zum Üben gehören ebenfalls zum Kursumfang. Ein fundamentales Lehrwerk zum Erle…
+**Vendor's marketplace description:** <p>Dieser Kurs für fortgeschrittene Gitarristen vermittelt die Fähigkeiten zum Begleiten von Jazzstandards. Es werden die harmonischen Hintergründe verschiedener Akkordkonzepte erklärt, bevor es zur praktischen Umsetzung mithilfe bekannter Jazzstandards geht. Alle Übungen werden in ergänzenden Videos vorgeführt, Playalongs zum Üben gehören ebenfalls zum Kursumfang.</p>
+<p>Ein fundamentales Lehrwerk zum Erlernen der Jazzharmonik für Gitarristen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.gitarrenvideounterricht.de/kurse/jazzakkorde/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/23707/adminstore/
 - Sales page: https://www.gitarrenvideounterricht.de/kurse/jazzakkorde/
 - Vendor affiliate support: https://www.gitarrenvideounterricht.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/209613/adminstore
@@ -84,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Jazzakkorde für Gitarre? — Typ: Downloads, Anbieter: musiklehrer, gelistet seit 2018-03-20
-- Wie viel kostet es? — 83.249374 USD
+- Wie viel kostet es? — 83.06364900000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

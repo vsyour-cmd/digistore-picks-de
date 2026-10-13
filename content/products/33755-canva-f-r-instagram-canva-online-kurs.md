@@ -4,34 +4,34 @@ digistore24_product_id: 340896
 title: "Canva für Instagram - Canva Online-Kurs"
 vendor: "TanjaV"
 product_type: "Member area and video courses"
-price: 28.58
+price: 28.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.99
+earnings_per_sale: 3.98
 cart_conversion_pct: 29
 cancel_rate_pct: 1.5
 categories: ["Profession & Job"]
 listed_since: "2020-08-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.ts-onlinemedia.de/canva-online-kurs-grafiken-leicht-gemacht/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/33755/adminstore/"
 sales_page: "https://www.ts-onlinemedia.de/canva-online-kurs-grafiken-leicht-gemacht/"
 language: "de"
 ---
 # Canva für Instagram - Canva Online-Kurs
 
 > Product ID `33755` · Digistore24 productId `340896` · [HTML profile page](../../produkte/canva-f-r-instagram-canva-online-kurs-33755.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.58 (Single payment, Installment) |
+| Price | $28.51 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.99 |
+| Earnings/sale* | $3.98 |
 | Cart conversion* | 29% |
 | Cancel rate* | 1.5% |
 | Vendor | TanjaV |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DU BIST HIER GENAU RICHTIG, WENN DU LERNEN MÖCHTEST, WIE DU SCHNELL UND INDIVIDUELLE GRAFIKEN ERSTELLEN MÖCHTEST Ich habe all meine Erfahrungen in diesen Online Kurs gepackt, damit dir Instagram wieder Spaß macht und du dir kinderleicht, individuelle Grafiken für Deinen Instagram Account und alle anderen Social Media Media Plattformen effektiv und in kurzer Zeit erstellen kannst. In dem Kurs Grafi…
+**Vendor's marketplace description:** <h2><strong>DU BIST HIER GENAU RICHTIG, WENN DU LERNEN MÖCHTEST, WIE DU SCHNELL UND INDIVIDUELLE GRAFIKEN ERSTELLEN MÖCHTEST</strong></h2>
+<p><strong>Ich habe all meine Erfahrungen in diesen Online Kurs gepackt, damit dir Instagram wieder Spaß macht und du dir kinderleicht, individuelle Grafiken für Deinen Instagram Account und alle anderen Social Media Media Plattformen effektiv und in kurzer Zeit erstellen kannst.</strong></p>
+<p><strong>In dem Kurs Grafiken leicht gemacht zeige ich dir schritt für schritt wie Canva funktioniert und gebe dir viele Ideen, mit denen du dir tolle Beiträge erstellen kannst.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.ts-onlinemedia.de/canva-online-kurs-grafiken-leicht-gemacht/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/33755/adminstore/
 - Sales page: https://www.ts-onlinemedia.de/canva-online-kurs-grafiken-leicht-gemacht/
 - Vendor affiliate support: https://www.ts-onlinemedia.de/affiliate-canva-kurs/
 - Canonical redirect: https://www.digistore24.com/redir/340896/adminstore
@@ -59,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Canva für Instagram - Canva Online-Kurs? — Typ: Member area and video courses, Anbieter: TanjaV, gelistet seit 2020-08-14
-- Wie viel kostet es? — 28.575300000000002 USD
+- Wie viel kostet es? — 28.511550000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

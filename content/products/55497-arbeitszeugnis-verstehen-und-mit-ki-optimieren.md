@@ -4,34 +4,34 @@ digistore24_product_id: 665673
 title: "Arbeitszeugnis verstehen und mit KI optimieren"
 vendor: "Diveco"
 product_type: "Downloads"
-price: 23.44
+price: 23.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.72
+earnings_per_sale: 11.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Services"]
 listed_since: "2026-02-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55497/adminstore/"
 sales_page: "https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/"
 language: "de"
 ---
 # Arbeitszeugnis verstehen und mit KI optimieren
 
 > Product ID `55497` · Digistore24 productId `665673` · [HTML profile page](../../produkte/arbeitszeugnis-verstehen-und-mit-ki-optimieren-55497.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.44 (Single payment) |
+| Price | $23.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.72 |
+| Earnings/sale* | $11.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -41,11 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Praxis‑Workbook zeigt Arbeitnehmern Schritt für Schritt, wie sie ihr Arbeitszeugnis korrekt interpretieren, Geheimcodes erkennen und es anschließend mit KI‑gestützten Textvorschlägen professionell optimieren. Ideal für alle, die sich bewerben, ihr Image verbessern oder sich vor unfairen Formulierungen schützen wollen. Das Workbook enthält: verständliche Erklärungen aller wichtigen Arbeitsze…
+**Vendor's marketplace description:** <p>Dieses Praxis‑Workbook zeigt Arbeitnehmern Schritt für Schritt, wie sie ihr Arbeitszeugnis <strong>korrekt interpretieren</strong>, <strong>Geheimcodes erkennen</strong> und es anschließend mit <strong>KI‑gestützten Textvorschlägen</strong> professionell optimieren.</p>
+<p>Ideal für alle, die sich bewerben, ihr Image verbessern oder sich vor unfairen Formulierungen schützen wollen.</p>
+<p>Das Workbook enthält:</p>
+<ul>
+<li>
+<p>verständliche Erklärungen aller wichtigen Arbeitszeugnis‑Formulierungen</p>
+</li>
+<li>
+<p>Beispiele für gute, schlechte und kritische Bewertungen</p>
+</li>
+<li>
+<p>KI‑Prompts zur sofortigen Optimierung</p>
+</li>
+<li>
+<p>Checklisten &amp; Vorlagen</p>
+</li>
+<li>
+<p>Formulierungsbausteine für ein starkes, modernes Zeugnis</p>
+</li>
+<li>als PDF</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55497/adminstore/
 - Sales page: https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/
 - Vendor affiliate support: https://heinzbader.com/affiliate-support-seite-arbeitszeugnis/
 - Canonical redirect: https://www.digistore24.com/redir/665673/adminstore
@@ -82,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Arbeitszeugnis verstehen und mit KI optimieren? — Typ: Downloads, Anbieter: Diveco, gelistet seit 2026-02-01
-- Wie viel kostet es? — 23.442952000000002 USD
+- Wie viel kostet es? — 23.390652000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

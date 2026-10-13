@@ -4,16 +4,16 @@ digistore24_product_id: 435093
 title: "Kunden gewinnen mit Social Media auf Knopfdruck"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 12.46
+price: 12.43
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 9.97
+earnings_per_sale: 9.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2022-03-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/P2iv5fjx23ja4Z5Ho?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/P2iv5fjx23ja4Z5Ho"
@@ -22,16 +22,16 @@ language: "de"
 # Kunden gewinnen mit Social Media auf Knopfdruck
 
 > Product ID `41724` · Digistore24 productId `435093` · [HTML profile page](../../produkte/kunden-gewinnen-mit-social-media-auf-knopfdruck-41724.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.46 (Single payment) |
+| Price | $12.43 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $9.97 |
+| Earnings/sale* | $9.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Bestseller: Kunden gewinnen mit Social Media auf Knopfdruck! Das gibt es hier alles: ✅ Social Media automatisieren: Worauf du achten musst ✅ Welche Abläufe Du automatisieren solltest ✅ Was sich nicht automatisieren lässt ✅ Vollkommen automatisch Sales generieren? Der Marketing Funnel ✅ Warum viele Standard-Funnel nicht so funktionieren wie geplant ✅ Verschenke dieses geniale E-Book an Deine …
+**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Der Bestseller: Kunden gewinnen mit Social Media auf Knopfdruck!</strong></span></p>
+<p><strong>Das gibt es hier alles:</strong></p>
+<p><strong>✅  Social Media automatisieren: Worauf du achten musst</strong></p>
+<p><strong>✅  Welche Abläufe Du automatisieren solltest</strong></p>
+<p><strong>✅  Was sich nicht automatisieren lässt</strong></p>
+<p><strong>✅  Vollkommen automatisch Sales generieren? Der Marketing Funnel</strong></p>
+<p><strong>✅  Warum viele Standard-Funnel nicht so funktionieren wie geplant</strong></p>
+<p><strong>✅  Verschenke dieses geniale E-Book  an Deine Community</strong></p>
+<p><span style="background-color:#ffff00;"><strong>+ den Kurs: Affiliate Cash Machine (Wert 97 hier für 0 Euro!)</strong></span></p>
+<p><span style="background-color:#ffff00;"><strong>Im Upsell warten über 100 Euro Netto Provision auf Dich! inklusive einem Abo! Für dauerhafte wiederkehrente Provisionen !!! </strong></span></p>
 
 ## 2. Links
 
@@ -58,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kunden gewinnen mit Social Media auf Knopfdruck? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-03-20
-- Wie viel kostet es? — 12.461072 USD
+- Wie viel kostet es? — 12.433272 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

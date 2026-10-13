@@ -4,16 +4,16 @@ digistore24_product_id: 735941
 title: "50% Provision: MicroTool KommunikationsKompass"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.66
+earnings_per_sale: 13.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/735941?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/735941"
@@ -22,16 +22,16 @@ language: "de"
 # 50% Provision: MicroTool KommunikationsKompass
 
 > Product ID `59496` · Digistore24 productId `735941` · [HTML profile page](../../produkte/50-provision-microtool-kommunikationskompass-59496.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.66 |
+| Earnings/sale* | $13.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Entscheidungen werden getroffen, aber nicht verstanden. Erwartungen werdenausgesprochen, aber nicht eingeordnet. Der NAVOK KommunikationsKompass macht das ineiner Vorlage sichtbar: Orientierung, Entscheidung und Erwartung – drei Elemente, diejede Führungskommunikation klar und nachvollziehbar machen. Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfo…
+**Vendor's marketplace description:** <p>Entscheidungen werden getroffen, aber nicht verstanden. Erwartungen werden<br />ausgesprochen, aber nicht eingeordnet. Der NAVOK KommunikationsKompass macht das in<br />einer Vorlage sichtbar: Orientierung, Entscheidung und Erwartung – drei Elemente, die<br />jede Führungskommunikation klar und nachvollziehbar machen.</p>
+<p>Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt.</p>
+<p><strong>Zielgruppe:</strong> Führungskräfte und Teams, die wichtige Entscheidungen sofort klarer<br />kommunizieren wollen, ohne gleich das komplette System einzuführen.</p>
+<p><strong>Für Sie als Affiliate:</strong> 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für<br />Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind.</p>
+<p>Digitaler Download, sofort verfügbar, ca. 2 Seiten.</p>
 
 ## 2. Links
 
@@ -74,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: MicroTool KommunikationsKompass? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-09-22
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

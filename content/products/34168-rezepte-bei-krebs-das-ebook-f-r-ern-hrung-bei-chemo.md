@@ -4,16 +4,16 @@ digistore24_product_id: 349780
 title: "Rezepte bei Krebs - das eBook für Ernährung bei Chemo"
 vendor: "danachblog"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2020-09-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.danaheidrich.com/start/buecher/rezeptebeikrebs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.danaheidrich.com/start/buecher/rezeptebeikrebs/"
@@ -22,16 +22,16 @@ language: "de"
 # Rezepte bei Krebs - das eBook für Ernährung bei Chemo
 
 > Product ID `34168` · Digistore24 productId `349780` · [HTML profile page](../../produkte/rezepte-bei-krebs-das-ebook-f-r-ern-hrung-bei-chemo-34168.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | danachblog |
@@ -41,7 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ernährung bei der Chemotherapie Sei Affiliate für dieses EBook im pdf-Format zum schnellen Download mit praktikablen Rezepten während einer Krebserkrankung und für die Zeit der Chemotherapie. Warum bist Du ideal als Affiliate? Du beschäftigst dich schon länger mit Ernährung oder gar Krebs? Du hast eine Fitnessseite? Vielleicht bist du gar Ernährungsberater? Du bist ein Verkaufs-Profi? Eine Affinit…
+**Vendor's marketplace description:** <h1>Ernährung bei der Chemotherapie</h1>
+<div>
+<p>Sei Affiliate für dieses EBook im pdf-Format zum schnellen Download mit praktikablen Rezepten während einer Krebserkrankung und für die Zeit der Chemotherapie.</p>
+<h2>Warum bist Du ideal als Affiliate?</h2>
+<p>Du beschäftigst dich schon länger mit Ernährung oder gar Krebs? Du hast eine Fitnessseite? Vielleicht bist du gar Ernährungsberater? Du bist ein Verkaufs-Profi?</p>
+<p>Eine Affinität für Essen wäre ideal, ist aber nicht notwendig.</p>
+<h2>USP</h2>
+<p>Maximale Gewinnmarge bei einem Thema, welches fast jeden einmal im Leben betrifft. Wenn glücklicherweise nicht persönlich, dann kennt man doch mindestens einen Betroffenen.</p>
+<p>Es gibt leider viel zu wenige Bücher auf dem Markt, die sich mit dem Thema Ernährung während der Chemotherapie beschäftigen.</p>
+<p>Daher ist dieses Buch einzigartig. Fundierte Fakten, Praxistipps und eigene Erfahrungen. </p>
+<p>Dieses Buch enthält Ernährungstipps und einfach nachzukochende Rezepte direkt von mir, Cateringunternehmerin in Berlin, für jedermann inkl. Mealprep und Tipps fürs Krankenhaus.</p>
+<h2><span style="color:#00ff00;">Tue Gutes, indem du das Produkt bewirbst und helfe Krebs-Betroffenen!</span></h2>
+<h2>Inhalt:</h2>
+<p>In diesem Buch wird folgendes erklärt: </p>
+<ol>
+<li>109 A4 Seiten geballtes Wissen</li>
+<li>Ernährung die vor Krebs schützen kann</li>
+<li>Nahrungsumstellung - und wie ich diese in den Alltag integriere</li>
+<li>praktischer Ernährungsplan für die Chemotherapie</li>
+<li>39 Schmackhafte Rezepte für alle Phasen der Chemotherapie (Aufbaurezepte und Schonkost)</li>
+</ol>
+</div>
 
 ## 2. Links
 
@@ -88,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rezepte bei Krebs - das eBook für Ernährung bei Chemo? — Typ: E-books, Anbieter: danachblog, gelistet seit 2020-09-26
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

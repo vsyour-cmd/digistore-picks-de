@@ -4,16 +4,16 @@ digistore24_product_id: 712194
 title: "Sanfte Eltern-Guides für Kinder von 0–6 · 50 % Provision"
 vendor: "teamwonnekind"
 product_type: "Downloads"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.37
+earnings_per_sale: 18.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2026-07-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/712194/adminstore"
 sales_page: "https://wonnekind.shop/index.html#guides"
@@ -22,16 +22,16 @@ language: "de"
 # Sanfte Eltern-Guides für Kinder von 0–6 · 50 % Provision
 
 > Product ID `57796` · Digistore24 productId `712194` · [HTML profile page](../../produkte/sanfte-eltern-guides-f-r-kinder-von-0-6-50-provision-57796.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.37 |
+| Earnings/sale* | $18.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | teamwonnekind |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wonnekind bietet kurze, verständliche PDF-Guides für typische Situationen in den ersten Familienjahren: Schlaf, Essen, Kita und Schule sowie Geschwister. Das Angebot passt zu deutschsprachigem Content rund um Familienalltag, Elternsein, Kleinkinder, bindungsorientierte Begleitung, Familienrezepte und Kita-Start. Affiliates erhalten 50 % Provision gemäß der im Produkt hinterlegten Digistore24-Einst…
+**Vendor's marketplace description:** <p>Wonnekind bietet kurze, verständliche PDF-Guides für typische Situationen in den ersten Familienjahren: Schlaf, Essen, Kita und Schule sowie Geschwister.</p>
+<p>Das Angebot passt zu deutschsprachigem Content rund um Familienalltag, Elternsein, Kleinkinder, bindungsorientierte Begleitung, Familienrezepte und Kita-Start.</p>
+<p>Affiliates erhalten 50 % Provision gemäß der im Produkt hinterlegten Digistore24-Einstellung, ein Bundle für 39 EUR und vier Einzelguides für jeweils 15 EUR, kostenlose Prüfexemplare nach bestätigter Partnerschaft, anpassbare Ideen für Reels, Storys, Pinterest und Newsletter sowie Promolinks und automatische Auszahlung über Digistore24.</p>
+<p>Es gibt keine Umsatzgarantie. Inhalte müssen ehrlich und transparent als Werbung beziehungsweise Affiliate-Inhalt gekennzeichnet werden. Keine Heil-, Erfolgs- oder Ergebnisversprechen.</p>
 
 ## 2. Links
 
@@ -88,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sanfte Eltern-Guides für Kinder von 0–6 · 50 % Provision? — Typ: Downloads, Anbieter: teamwonnekind, gelistet seit 2026-07-29
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

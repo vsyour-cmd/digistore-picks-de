@@ -4,16 +4,16 @@ digistore24_product_id: 38629
 title: "Onlinekurs \"Die MET-Glücksformel\""
 vendor: "franke2met"
 product_type: "Member area and video courses"
-price: 190.19
+price: 189.76
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 32.09
+earnings_per_sale: 32.02
 cart_conversion_pct: 21
 cancel_rate_pct: 7.17
 categories: ["Health & Fitness"]
 listed_since: "2014-12-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://franke-akademie.de/met-gluecksformel/?aff=adminstore#aff=adminstore"
 sales_page: "https://franke-akademie.de/met-gluecksformel/"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekurs "Die MET-Glücksformel"
 
 > Product ID `33938` · Digistore24 productId `38629` · [HTML profile page](../../produkte/onlinekurs-die-met-gl-cksformel-33938.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $190.19 (Single payment) |
+| Price | $189.76 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $32.09 |
+| Earnings/sale* | $32.02 |
 | Cart conversion* | 21% |
 | Cancel rate* | 7.17% |
 | Vendor | franke2met |
@@ -41,7 +41,107 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Onlinekurs: Die MET-Glücksformel inkl. Bonus Onlinekurs mit Dipl.-Psych. Rainer-M. Franke Mittels der MET-Klopftechnik lernst du: Wie Du Ängste und andere negative Gefühle schnell und dauerhaft auflösen kannst Wie Du Deine körperliche Gesundheit verbesserst Wie Du emotionale Belastungen aus der Vergangenheit auflöst Wie Du Stress und Burn-Out erfolgreich bekämpfst Wie Du blockierende Glaubenssätze…
+**Vendor's marketplace description:** <table>
+<tbody>
+<tr>
+<td>
+<div>Onlinekurs: Die MET-Glücksformel inkl. Bonus</div>
+<div>
+<div> </div>
+<div><em>Onlinekurs mit Dipl.-Psych. Rainer-M. Franke</em><strong><br /></strong></div>
+<div>
+<p>Mittels der MET-Klopftechnik lernst du:</p>
+<ul>
+<li>Wie Du Ängste und andere negative Gefühle schnell und dauerhaft auflösen kannst</li>
+<li>Wie Du Deine körperliche Gesundheit verbesserst</li>
+<li>Wie Du emotionale Belastungen aus der Vergangenheit auflöst</li>
+<li>Wie Du Stress und Burn-Out erfolgreich bekämpfst</li>
+<li>Wie Du blockierende Glaubenssätze auflöst</li>
+<li>Wie Du mehr Selbstvertrauen und Energie bekommst</li>
+<li>Wie Du Dein Leben wieder selbst in die Hand nimmst</li>
+</ul>
+</div>
+<div>(Preis inklusive gesetzlicher länderabhängiger Mehrwertsteuer)</div>
+<div> </div>
+<div><strong>Bonus</strong></div>
+<ul>
+<li>Onlineseminar MET mit Kindern</li>
+<li>Onlineseminar MET mit Tieren</li>
+<li>MET-Turbo (Webinaraufzeichnung)</li>
+</ul>
+</div>
+</td>
+<td>299 €</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<div>Onlineseminar MET mit Kindern</div>
+<div>
+<div> </div>
+<div><em>Online-Kurs mit Rainer-M. Franke.</em></div>
+<div>
+<p>Mittels der MET-Klopftechnik lernst du:</p>
+<ul>
+<li>Wie Du Ängste und andere negative Gefühle schnell und dauerhaft auflösen kannst</li>
+<li>Wie Du mit Kindern klopfen kannst</li>
+<li>Wie Du Symptome von Kindern auflösen kannst</li>
+<li>Welche Rolle Kinder als Indikatoren für Probleme in der Familie sind und wie Du am besten vorgehst</li>
+<li>Was Deine eigenen Gefühle mit denen Deiner Kinder zu tun haben</li>
+<li>Wie Du mit Kindern von 0-3 Jahren, 3-6 Jahren klopfst</li>
+<li>Wie Du mit Kindern in der Schulzeit und der Pubertät klopfst</li>
+</ul>
+<p>Enthaltene Module:</p>
+<ul>
+<li>Einführung MET mit Kindern</li>
+<li>Kinder im Alter von 0-3 Jahren</li>
+<li>Kinder im Alter von 3-6 Jahren</li>
+<li>Kinder in der Schulzeit</li>
+<li>Kinder in der Pubertät</li>
+</ul>
+<p><strong>Über 30 Minuten Fachwissen</strong></p>
+</div>
+<div>(Preis inklusive gesetzlicher länderabhängiger Mehrwertsteuer)</div>
+</div>
+</td>
+<td>0 €</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<div>Onlineseminar MET mit Tieren</div>
+<div>
+<div> </div>
+<div><em>Online-Kurs mit Rainer-M. Franke</em></div>
+<div>
+<p>Mittels der MET-Klopftechnik lernst du:</p>
+<ul>
+<li>Wie Du Deine Haustiere beklopfen kannst</li>
+<li>Wie Du das Stellvertreter-Klopfen für die Arbeit mit Tieren nutzt</li>
+</ul>
+</div>
+<div>(Preis inklusive gesetzlicher länderabhängiger Mehrwertsteuer)</div>
+<div> </div>
+<div><strong>Rund 10 Minuten kompaktes Wissen für Dich und Dein Haustier.</strong></div>
+</div>
+</td>
+<td>0 €</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<div>MET-Turbo (Webinaraufzeichnung)</div>
+<div>
+<p>Du erhältst <em>den Kurs MET-Turbo Mentaltechnik </em>im Wert von 99,- €</p>
+</div>
+</td>
+<td>0 €</td>
+</tr>
+</tbody>
+</table>
 
 ## 2. Links
 
@@ -88,7 +188,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs "Die MET-Glücksformel"? — Typ: Member area and video courses, Anbieter: franke2met, gelistet seit 2014-12-14
-- Wie viel kostet es? — 190.188232 USD
+- Wie viel kostet es? — 189.763932 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

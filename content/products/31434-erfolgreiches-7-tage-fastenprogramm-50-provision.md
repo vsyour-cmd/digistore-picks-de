@@ -4,16 +4,16 @@ digistore24_product_id: 261488
 title: "Erfolgreiches 7-Tage-Fastenprogramm (50% Provision)"
 vendor: "digicube"
 product_type: "Member area and video courses"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.49
+earnings_per_sale: 32.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-02-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://lanaprinzip.com/fastenwebinar/?aff=adminstore#aff=adminstore"
 sales_page: "https://lanaprinzip.com/fastenwebinar/"
@@ -22,16 +22,16 @@ language: "de"
 # Erfolgreiches 7-Tage-Fastenprogramm (50% Provision)
 
 > Product ID `31434` · Digistore24 productId `261488` · [HTML profile page](../../produkte/erfolgreiches-7-tage-fastenprogramm-50-provision-31434.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.97 (Single payment) |
+| Price | $64.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.49 |
+| Earnings/sale* | $32.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digicube |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehlen Sie das HOCHWERTIGE Produkt für Gesundheit, Wohlbefinden und Abnehmen mit überragendem Customer Feedback in unserem eigenen Fastenforum und niedriger Stornoquote. Ihre Vorteile: Lebenslang 50 % Provision auf Ihre Verkäufe Hohe Kaufrate in unserem Sales-Funnel (inklusive KOSTENLOSEM Vorbereitungsvideo + Tipps) Große Auswahl optimierter Webemittel: klickstarke Banner, Vorlage für E-Mail-Te…
+**Vendor's marketplace description:** <p>Empfehlen Sie das HOCHWERTIGE Produkt für Gesundheit, Wohlbefinden und Abnehmen mit <strong>überragendem Customer Feedback</strong> in unserem <a href="http://lana.li/forum" target="_blank" rel="noreferrer noopener">eigenen Fastenforum</a> und <strong>niedriger Stornoquote</strong>. Ihre Vorteile:</p>
+<ul>
+<li>Lebenslang 50 % Provision auf Ihre Verkäufe</li>
+<li>Hohe Kaufrate <a href="http://lana.li/fasten" target="_blank" rel="noreferrer noopener">in unserem Sales-Funnel</a> (inklusive <a href="http://lana.li/fastentipps" target="_blank" rel="noreferrer noopener">KOSTENLOSEM Vorbereitungsvideo</a> + Tipps) </li>
+<li>Große Auswahl optimierter Webemittel: klickstarke Banner, Vorlage für E-Mail-Text, Bilder der Seminar-Leiterin für mehr Leads und Verkäufe.</li>
+<li>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: <a href="http://lana.li/affiliate" target="_blank" rel="noreferrer noopener">http://lana.li/affiliate</a>.</li>
+</ul>
+<p>Wir freuen uns auf eine erfolgreiche Partnerschaft!</p>
 
 ## 2. Links
 
@@ -103,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreiches 7-Tage-Fastenprogramm (50% Provision)? — Typ: Member area and video courses, Anbieter: digicube, gelistet seit 2019-02-22
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

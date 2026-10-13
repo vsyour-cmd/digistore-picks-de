@@ -4,16 +4,16 @@ digistore24_product_id: 710657
 title: "Der Goldene Abschluss - Workbook"
 vendor: "Diveco"
 product_type: "Downloads"
-price: 18.74
+price: 18.69
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.5
+earnings_per_sale: 7.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Sales Training"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/landingpage-der-goldene-abschluss/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/landingpage-der-goldene-abschluss/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Goldene Abschluss - Workbook
 
 > Product ID `57528` · Digistore24 productId `710657` · [HTML profile page](../../produkte/der-goldene-abschluss-workbook-57528.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.74 (Single payment) |
+| Price | $18.69 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.50 |
+| Earnings/sale* | $7.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der goldene Abschluss – Ihr Workbook für mehr Verkaufsabschlüsse Sofort nach dem Kauf erhalten Sie das vollständige Workbook als PDF-Download: 10 Module, 7 Abschlusstechniken, ein Bonus-Modul mit KI-Prompts für Ihre Branche sowie einen 7-Tage-Trainingsplan zur direkten Umsetzung. Ihr Preis: 19,90 € – einmalig, kein Abonnement.Die Abrechnung erfolgt sicher über Digistore24.▸ Jetzt bestellen und sof…
+**Vendor's marketplace description:** <p>Der goldene Abschluss – Ihr Workbook für mehr Verkaufsabschlüsse</p>
+<p><br />Sofort nach dem Kauf erhalten Sie das vollständige Workbook als PDF-Download:</p>
+<p>10 Module,</p>
+<p>7 Abschlusstechniken, ein Bonus-Modul mit KI-Prompts für Ihre Branche sowie einen 7-Tage-Trainingsplan zur direkten Umsetzung.</p>
+<p><br />Ihr Preis: 19,90 € – einmalig, kein Abonnement.<br />Die Abrechnung erfolgt sicher über Digistore24.<br />▸ Jetzt bestellen und sofort downloaden.</p>
 
 ## 2. Links
 
@@ -86,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Goldene Abschluss - Workbook? — Typ: Downloads, Anbieter: Diveco, gelistet seit 2026-07-14
-- Wie viel kostet es? — 18.736432 USD
+- Wie viel kostet es? — 18.694632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

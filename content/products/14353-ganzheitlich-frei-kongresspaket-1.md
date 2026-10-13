@@ -4,34 +4,34 @@ digistore24_product_id: 88863
 title: "Ganzheitlich FREI Kongresspaket 1"
 vendor: "kandina"
 product_type: "Member area and video courses"
-price: 122.37
+price: 122.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 61.18
+earnings_per_sale: 61.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2016-07-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://ganzheitlich-frei.com/upsell-kongresspakete1-3/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/14353/adminstore/"
 sales_page: "https://ganzheitlich-frei.com/upsell-kongresspakete1-3/"
 language: "de"
 ---
 # Ganzheitlich FREI Kongresspaket 1
 
 > Product ID `14353` · Digistore24 productId `88863` · [HTML profile page](../../produkte/ganzheitlich-frei-kongresspaket-1-14353.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $122.37 (Single payment, Installment) |
+| Price | $122.10 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $61.18 |
+| Earnings/sale* | $61.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kandina |
@@ -41,11 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Beim Ganzheitlich FREI Online Kongress kann sich jeder der sich dazu anmeldet, kostenlos für jeweils 24h die Interviews von international bekannten Experten in Bereichen gesunder Ernährung, Erfolgstechniken, Persönlichkeitsentwicklung und Bewusstseinserweiterung ansehen. Im Mitgliederbereich können sich die Käufer des Kongresspaketes 1 die Interviews in verschiedenen Qualitäten herunterladen oder …
+**Vendor's marketplace description:** <div>Beim Ganzheitlich FREI Online Kongress kann sich jeder der sich dazu anmeldet, <strong>kostenlos für jeweils 24h</strong> die Interviews von international bekannten Experten in Bereichen gesunder Ernährung, Erfolgstechniken, Persönlichkeitsentwicklung und Bewusstseinserweiterung ansehen.</div>
+<p> </p>
+<p>Im Mitgliederbereich können sich die Käufer des Kongresspaketes 1 die Interviews in verschiedenen Qualitäten herunterladen oder einfach nur ansehen.</p>
+<p> </p>
+<h2>Du bekommst faire 50% vom Paketpreis</h2>
+<p> </p>
+<p><strong>Kurt Tepperwein, Markus Rothkranz, Lumira, Clemens Kuby, Raho J. Bornhorst, Prof. Dr. Guillaume de Meuter, Dr. Ruediger Dahlke, Bruno Würtenberger, Dagmar Neubronner uvm.</strong> wurden von uns, zu unser aller lebenbetreffenden Themen befragt.</p>
+<ul><li>Mehr als 33h Video Spieldauer</li>
+<li>alle Interviews auch als mp3-Audio</li>
+<li>ein E-Book</li>
+</ul><p> </p>
+<h2>Du bewirbst nicht direkt ein Produkt, sondern die Teilnahme an einem kostenlosen Online-Kongress!</h2>
+<p> </p>
+<p><strong>Mehr dazu: </strong></p>
+<p><span style="color:#3366ff;"><a style="color:#3366ff;" href="https://ganzheitlich-frei.com/partnerprogramm/">https://ganzheitlich-frei.com/partnerprogramm/</a></span></p>
+<p> </p>
+<p>Wir unterstützen Dich gerne! Schreibe uns dazu einfach eine E-Mail an: <a href="mailto:partner@ganzheitlich-frei.com">partner@ganzheitlich-frei.com</a></p>
+<p> </p>
+<p>Herzliche Grüße</p>
+<p>Kristina &amp; Andy Dimovska</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ganzheitlich-frei.com/upsell-kongresspakete1-3/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/14353/adminstore/
 - Sales page: https://ganzheitlich-frei.com/upsell-kongresspakete1-3/
 - Vendor affiliate support: https://ganzheitlich-frei.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/88863/adminstore
@@ -79,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ganzheitlich FREI Kongresspaket 1? — Typ: Member area and video courses, Anbieter: kandina, gelistet seit 2016-07-24
-- Wie viel kostet es? — 122.36952000000001 USD
+- Wie viel kostet es? — 122.09652000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

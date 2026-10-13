@@ -4,34 +4,34 @@ digistore24_product_id: 59355
 title: "Online-Video-Kurs \"Sprache professionell aufnehmen\" 2019"
 vendor: "isidde"
 product_type: "Downloads"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.68
+earnings_per_sale: 45.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2015-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.isid.de/sprachaufnahme/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/11043/adminstore/"
 sales_page: "https://www.isid.de/sprachaufnahme/"
 language: "de"
 ---
 # Online-Video-Kurs "Sprache professionell aufnehmen" 2019
 
 > Product ID `11043` · Digistore24 productId `59355` · [HTML profile page](../../produkte/online-video-kurs-sprache-professionell-aufnehmen-2019-11043.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.68 |
+| Earnings/sale* | $45.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In diesem kompakten, mit wertvollem Knowhow voll gepackten Video-Intensiv-Kurs lernen Sie praxisnah und ohne unnötigen Ballast innerhalb weniger Stunden, wie Sie in Tonstudio- und Rundfunkqualität Sprache aufnehmen können und das mit Aufnahme Equipment unter 500 €. Sie brauchen keine Sprecherkabine, keinen besonderen Aufnahme-Raum und keinen Tonmeister. Die einzige Voraussetzung ist, dass Sie alle…
+**Vendor's marketplace description:** <p>In diesem kompakten, mit wertvollem Knowhow voll gepackten Video-Intensiv-Kurs lernen Sie praxisnah und ohne unnötigen Ballast innerhalb weniger Stunden, wie Sie in Tonstudio- und Rundfunkqualität Sprache aufnehmen können und das mit Aufnahme Equipment unter 500 €. Sie brauchen keine Sprecherkabine, keinen besonderen Aufnahme-Raum und keinen Tonmeister.</p>
+<p>Die einzige Voraussetzung ist, dass Sie alle Anweisungen akribisch umsetzen und an keinem Punkt des Aufnahmeprozesses Fehler machen. Sprache aufnehmen ist ein Kinderspiel, wenn man weiß, wie.</p>
+<p>97 € - Zugang.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.isid.de/sprachaufnahme/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/11043/adminstore/
 - Sales page: https://www.isid.de/sprachaufnahme/
 - Vendor affiliate support: https://www.isid.de/sprache-professionell-aufnehmen-affiliate-support-seite/
 - Canonical redirect: https://www.digistore24.com/redir/59355/adminstore
@@ -85,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Video-Kurs "Sprache professionell aufnehmen" 2019? — Typ: Downloads, Anbieter: isidde, gelistet seit 2015-09-21
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

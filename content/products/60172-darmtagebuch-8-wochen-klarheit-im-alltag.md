@@ -4,7 +4,7 @@ digistore24_product_id: 741326
 title: "Darmtagebuch – 8 Wochen Klarheit im Alltag"
 vendor: "linalind1"
 product_type: "Downloads"
-price: 12.19
+price: 12.16
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.22
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Personal Development"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/741326?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/741326"
@@ -22,14 +22,14 @@ language: "de"
 # Darmtagebuch – 8 Wochen Klarheit im Alltag
 
 > Product ID `60172` · Digistore24 productId `741326` · [HTML profile page](../../produkte/darmtagebuch-8-wochen-klarheit-im-alltag-60172.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.19 (Single payment) |
+| Price | $12.16 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.22 |
 | Cart conversion* | — |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein übersichtliches 8‑Wochen‑Darmtagebuch zum Ausfüllen und Ausdrucken. Es hilft dabei, Beschwerden, Ernährung, Verdauung, Wohlbefinden und mögliche Zusammenhänge im Alltag strukturiert festzuhalten. So werden Muster leichter sichtbar und Veränderungen nachvollziehbarer.
+**Vendor's marketplace description:** <p>Ein übersichtliches 8‑Wochen‑Darmtagebuch zum Ausfüllen und Ausdrucken.</p>
+<p><strong>Es hilft dabei, Beschwerden, Ernährung, Verdauung, Wohlbefinden und mögliche Zusammenhänge im Alltag strukturiert festzuhalten. </strong></p>
+<p>So werden Muster leichter sichtbar und Veränderungen nachvollziehbarer.</p>
 
 ## 2. Links
 
@@ -73,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Darmtagebuch – 8 Wochen Klarheit im Alltag? — Typ: Downloads, Anbieter: linalind1, gelistet seit 2026-10-04
-- Wie viel kostet es? — 12.192128000000002 USD
+- Wie viel kostet es? — 12.164928000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

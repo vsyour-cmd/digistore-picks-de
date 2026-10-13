@@ -4,16 +4,16 @@ digistore24_product_id: 662904
 title: "Onlinekurs Lektinfreie Ernährung leichtgemacht!"
 vendor: "actrice21"
 product_type: "Member area and video courses"
-price: 129.01
+price: 128.73
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 32.25
+earnings_per_sale: 32.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-01-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://lektin-frei.de/lp/d-lektinfrei-onlinekurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://lektin-frei.de/lp/d-lektinfrei-onlinekurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekurs Lektinfreie Ernährung leichtgemacht!
 
 > Product ID `56186` · Digistore24 productId `662904` · [HTML profile page](../../produkte/onlinekurs-lektinfreie-ern-hrung-leichtgemacht-56186.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $129.01 (Single payment) |
+| Price | $128.73 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $32.25 |
+| Earnings/sale* | $32.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | actrice21 |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lektinfreie Ernährung leicht gemacht! Weniger Blähbauch. Mehr Energie. Strahlende Haut. Viele Menschen ernähren sich gesund – und fühlen sind dennoch aufgebläht, müde oder chronisch krank. Ein möglicher Grund, der oft übersehen wird: Lektine. Diese pflanzlichen Eiweißstoffe stecken in vielen alltäglichen Lebensmitteln und können bei empfindlichen Menschen den Darm reizen und das Immunsystem belast…
+**Vendor's marketplace description:** <h1><span style="color:#993366;">Lektinfreie Ernährung leicht gemacht!</span></h1>
+<div>
+<p><span style="color:#800080;">Weniger Blähbauch. Mehr Energie. Strahlende Haut.</span></p>
+<p>Viele Menschen ernähren sich gesund – und fühlen sind dennoch aufgebläht, müde oder chronisch krank. Ein möglicher Grund, der oft übersehen wird: Lektine. Diese pflanzlichen Eiweißstoffe stecken in vielen alltäglichen Lebensmitteln und können bei empfindlichen Menschen den Darm reizen und das Immunsystem belasten.</p>
+<p>In meinem Onlinekurs zeige ich dir, wie du Lektine in deiner Ernährung erkennst, schonend reduzierst und deine Ernährung so anpasst, dass sie dir wirklich guttut – alltagstauglich, genussvoll und ohne Verzicht. Mit fundiertem Wissen, praktischen Tipps, leckeren Rezepten und meiner persönlichen Begleitung findest du Schritt für Schritt zurück zu mehr Wohlbefinden.</p>
+<p>Für alle, die trotz gesunder Ernährung unter Beschwerden leiden – und endlich verstehen wollen, warum.</p>
+</div>
 
 ## 2. Links
 
@@ -91,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs Lektinfreie Ernährung leichtgemacht!? — Typ: Member area and video courses, Anbieter: actrice21, gelistet seit 2026-01-20
-- Wie viel kostet es? — 129.014678 USD
+- Wie viel kostet es? — 128.726853 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

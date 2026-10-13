@@ -4,16 +4,16 @@ digistore24_product_id: 277893
 title: "Gitarre ONLINE Elementar"
 vendor: "Guitarschool"
 product_type: "Member area and video courses"
-price: 83.44
+price: 83.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 21.68
+earnings_per_sale: 21.64
 cart_conversion_pct: 17
 cancel_rate_pct: 7.76
 categories: ["Dancing & Music"]
 listed_since: "2019-07-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.guitarschool.at/gitarrenkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.guitarschool.at/gitarrenkurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Gitarre ONLINE Elementar
 
 > Product ID `29356` · Digistore24 productId `277893` · [HTML profile page](../../produkte/gitarre-online-elementar-29356.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.44 (Single payment) |
+| Price | $83.25 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $21.68 |
+| Earnings/sale* | $21.64 |
 | Cart conversion* | 17% |
 | Cancel rate* | 7.76% |
 | Vendor | Guitarschool |
@@ -41,7 +41,103 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Warum diesen Online Kurs bewerben? 30% Provision! Die Grundlagen der Konzertgitarre mit brandneuer Methode! Anhand von Beispielvideos der Schüler, werden die häufigsten Fehler analysiert und von Anfang an vermieden. Alle Musikstücke können gleich mitgespielt werden. Dabei lernt man ganz nebenbei die Grundlagen der Musiktheorie und das Notenlesen. "Gitarre Online Elementar" ist eine eigenständige G…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h2>Warum diesen Online Kurs bewerben?</h2>
+<p><strong>30% Provision!</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Die <strong>Grundlagen</strong> der <strong>Konzertgitarre</strong> mit brandneuer Methode! Anhand von <strong>Beispielvideos der Schüler</strong>, werden die <strong>häufigsten Fehler</strong> analysiert und <strong>von Anfang an vermieden</strong>.</p>
+<p>Alle Musikstücke können gleich mitgespielt werden. Dabei lernt man ganz nebenbei die <strong>Grundlagen der Musiktheorie</strong> und das <strong>Notenlesen</strong>.</p>
+<p>"Gitarre Online Elementar" ist eine eigenständige <strong>Gitarrenschule PDF.</strong>. Das Buch vermittelt alle wichtigen Grundlagen zum Thema Gitarre lernen. Zum Buch wurden <strong>Lehrvideos</strong> produziert, die alle Lerninhalte behandeln.</p>
+<p><strong>Werbetext Beispiel:</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Der Elementarkurs gilt als <strong>idealer Einstieg</strong> in die Welt der Gitarre und vermittelt die wichtigsten <strong>Grundkenntnisse der</strong> <strong>“klassischen” Methode </strong>(Fingerpicking, Fingerstyle), auf eine moderne, zeitgemäße Art.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Bei der Gestaltung des Kurses wurden Überlegungen angestellt, wie <strong>Lerninhalte</strong> sinnvoll <strong>online </strong>vermittelt werden können, um den Schülern eine fundierte <strong>Online-Ausbildung</strong> zu ermöglichen, die mit einer Ausbildung an einer Musikschule vergleichbar ist.</p>
+<p>Der Kurs ist <strong>aufbauend</strong> gestaltet und schafft somit die besten Voraussetzungen für ein erfolgreiches Spiel, <strong>egal mit welcher Art von Gitarre </strong>später gespielt werden soll oder für welche Musikrichtung man sich in der Zukunft entscheidet.</p>
+<hr />
+<ul>
+<li><strong>Art:</strong> Gitarrenschule (35 Seiten pdf. Download) + Videokurs</li>
+<li><strong>Schwierigkeit:</strong> sehr leicht (entspricht Elementarstufe 1 KOMU)</li>
+<li><strong>Menge:</strong> &gt; 65 Videos (Erklärvideos, Schülervideos mit Fehleranalyse, Workout)</li>
+<li><strong>Format:</strong> Full HD .mp4</li>
+<li><strong>Kompatibel mit:</strong> Smartphone, Tablet, PC</li>
+<li><strong>Mitgliederbereich sofort verfügbar</strong></li>
+<li><strong>Zugang zum Kurs im Login Bereich</strong></li>
+<li><strong>14 Tage Geld-zurück-Garantie</strong></li>
+</ul>
+<hr />
+<div>
+<div>
+<div>
+<div>
+<div>
+<h2><strong>Lerninhalte für 9 Wochen<br /></strong></h2>
+<ul>
+<li><em><strong>Haltung</strong></em></li>
+<li><em><strong>Anschlagtechniken</strong></em></li>
+<li><em><strong>Koordination von rechter und linker Hand</strong></em></li>
+<li><em><strong>Handhaltung</strong></em></li>
+<li><em><strong>Melodiespiel</strong></em></li>
+<li><em><strong>Liedbegleitung mit leeren Bässen</strong></em></li>
+<li><em><strong>Elementar entwickelte Vorstellung von Tonqualität</strong></em></li>
+<li><em><strong>einfaches Akkordspiel</strong></em></li>
+<li><em><strong>Aufwärm- und Technikübungen</strong></em></li>
+<li><em><strong>Rhythmische Schulung</strong></em></li>
+<li><em><strong>Grundlagen der Musiktheorie</strong></em></li>
+<li><em><strong>Spielen nach Noten</strong></em></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<h4>Moderner ONLINE Kurs für Klassische Gitarre in Deutsch!</h4>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -94,7 +190,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gitarre ONLINE Elementar? — Typ: Member area and video courses, Anbieter: Guitarschool, gelistet seit 2019-07-03
-- Wie viel kostet es? — 83.439876 USD
+- Wie viel kostet es? — 83.253726 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

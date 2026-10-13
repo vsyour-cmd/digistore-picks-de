@@ -4,16 +4,16 @@ digistore24_product_id: 682622
 title: "MyDF-Alive Publish Studio-24 Monate Zugang"
 vendor: "Selfrealization"
 product_type: "Software"
-price: 375.73
+price: 374.89
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 112.72
+earnings_per_sale: 112.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Online Marketing"]
 listed_since: "2026-06-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://mydayflow-ai.com/preise?aff=adminstore#aff=adminstore"
 sales_page: "https://mydayflow-ai.com/preise"
@@ -22,16 +22,16 @@ language: "de"
 # MyDF-Alive Publish Studio-24 Monate Zugang
 
 > Product ID `56876` · Digistore24 productId `682622` · [HTML profile page](../../produkte/mydf-alive-publish-studio-24-monate-zugang-56876.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $375.73 (Single payment, Installment) |
+| Price | $374.89 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $112.72 |
+| Earnings/sale* | $112.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Selfrealization |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erhalte 30% Provision! Text für den Kunden: Dies ist die Lösung um Digitale Bücher, Unternehmensbroschüren, Vermarktungsideen, Newsletter, Kurse oder Zeitungen mit Videos und lebendigen Bildern zu erzeugen. Dies gilt genauso für PDF,s. Dazu steht Ihnen neben einem Plagiatsvorprüfer ein Marketing - Tool zur Verfügung um die passendste Strategie für ihr erstelltes Produkt zu finden. Nutzen Sie ihr v…
+**Vendor's marketplace description:** <p><span style="color:#800000;background-color:#ffff00;"><strong>Erhalte 30% Provision!</strong></span></p>
+<p><strong>Text für den Kunden: </strong>Dies ist die Lösung um Digitale Bücher, Unternehmensbroschüren,  Vermarktungsideen, Newsletter, Kurse oder Zeitungen mit Videos und lebendigen Bildern zu erzeugen. Dies gilt genauso für PDF,s. Dazu steht Ihnen neben einem Plagiatsvorprüfer ein Marketing - Tool zur Verfügung um die passendste Strategie für ihr erstelltes Produkt zu finden. </p>
+<p>Nutzen Sie ihr vorhandenes Buchscript oder ihren Vermarktungstext um ihn dort einzupflegen und auf einfache Weise ihre Videos oder Veo Bilder hochzuladen und über link oder QR Code zu verteilen.</p>
+<p>Oder wählen Sie die Erstellung ihrer Broschüre, ihres Buches mit Ki-  geben sie kurz die Handlung in Stichwörtern ein sowie die Anzahl der Kapitel und erhalten Sie ihr vorgefertigtes Buch innerhalb von 3 Minuten. Dies in allen Sprachen, die Sie eingeben. Geben Sie ihre Handlung in Französischen Stichworten ein, erhalten Sie ihr Werk in Französisch. Generieren Sie dazu Bilder sofern sie keine eigenen hochladen. </p>
+<p><strong><span style="background-color:#ffff00;color:#800000;">Die Support Seite für alle Affiliates  mit Werbenaterialien findet Ihr unter: </span></strong></p>
+<p><strong><span style="background-color:#ffff00;color:#800000;"><a href="https://mydayflow-ai.com/affiliate-support">https://mydayflow-ai.com/affiliate-support</a></span></strong></p>
+<p><strong><span style="background-color:#ffff00;color:#800000;">Viel Freude beim Vermarkten ud ein Dankeschön!- </span></strong></p>
+<p><strong>Der Kunde erhält mit beiden Versionen- Zugriff auf: </strong></p>
+<p><span style="color:#800000;"><strong>Living-Buch Generator mit Ki</strong></span></p>
+<p><span style="color:#800000;"><strong>einstellbare Formatgrößen</strong></span></p>
+<p><span style="color:#800000;"><strong>Plagiatsvorprüfer</strong></span></p>
+<p><span style="color:#800000;"><strong>Schreibstilveränderung- 4 Varianten</strong></span></p>
+<p><span style="color:#800000;"><strong>Rechtschreibprüfung Deutsch</strong></span></p>
+<p><span style="color:#800000;"><strong>Ki-Bildgenerierung bis zu 12 Bilder pro Monat</strong></span></p>
+<p><span style="color:#800000;"><strong>Upload von Videos/ Bildern</strong></span></p>
+<p><span style="color:#800000;"><strong>Integriertes Covererstellungstool </strong></span></p>
+<p><span style="color:#800000;"><strong>5-10GB Speicher je nach Version</strong></span></p>
 
 ## 2. Links
 
@@ -72,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MyDF-Alive Publish Studio-24 Monate Zugang? — Typ: Software, Anbieter: Selfrealization, gelistet seit 2026-06-13
-- Wie viel kostet es? — 375.72597400000006 USD
+- Wie viel kostet es? — 374.88774900000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

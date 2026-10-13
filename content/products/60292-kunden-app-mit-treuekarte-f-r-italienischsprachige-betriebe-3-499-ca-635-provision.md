@@ -4,16 +4,16 @@ digistore24_product_id: 741552
 title: "Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 3920.98
+price: 3912.23
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 784.2
+earnings_per_sale: 782.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.direzionex.com/offerta/app?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/app"
@@ -22,16 +22,16 @@ language: "de"
 # Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision
 
 > Product ID `60292` · Digistore24 productId `741552` · [HTML profile page](../../produkte/kunden-app-mit-treuekarte-f-r-italienischsprachige-betriebe-3-499-ca-635-provision-60292.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $3920.98 (Single payment) |
+| Price | $3912.23 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $784.20 |
+| Earnings/sale* | $782.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Eigene App für iOS und Android im Design des Kunden: Treuekarte mit Punkten, exklusive Angebote und Push-Nachrichten direkt aufs Handy seiner Kunden, ohne Werbekosten.Für wen: Bars, Geschäfte, Salons: alle, die Stammkunden haben.Deine Provision: 20 % pro Verkauf, ca. 635 € bei 3.499 € netto. Einmalzahlung, kein Abo.Wichtig: Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn d…
+**Vendor's marketplace description:** <p>Eigene App für iOS und Android im Design des Kunden: Treuekarte mit Punkten, exklusive Angebote und Push-Nachrichten direkt aufs Handy seiner Kunden, ohne Werbekosten.</p><p><strong>Für wen:</strong> Bars, Geschäfte, Salons: alle, die Stammkunden haben.</p><p><strong>Deine Provision:</strong> 20 % pro Verkauf, ca. 635 € bei 3.499 € netto. Einmalzahlung, kein Abo.</p><p><strong>Wichtig:</strong> Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst.</p><p><strong>So läuft es:</strong> Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.</p>
 
 ## 2. Links
 
@@ -80,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kunden-App mit Treuekarte für italienischsprachige Betriebe: 3.499 €, ca. 635 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 3920.9794 USD
+- Wie viel kostet es? — 3912.2319 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

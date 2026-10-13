@@ -4,34 +4,34 @@ digistore24_product_id: 663597
 title: "7-Tages-Kurs: Deine Natur-Routine für mehr Gelassenheit"
 vendor: "Perspektiv-Akademie"
 product_type: "Member area and video courses"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.97
+earnings_per_sale: 27.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Profession & Job"]
 listed_since: "2026-01-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/663597?aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/56205/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/663597"
 language: "de"
 ---
 # 7-Tages-Kurs: Deine Natur-Routine für mehr Gelassenheit
 
 > Product ID `56205` · Digistore24 productId `663597` · [HTML profile page](../../produkte/7-tages-kurs-deine-natur-routine-f-r-mehr-gelassenheit-56205.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.97 |
+| Earnings/sale* | $27.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Perspektiv-Akademie |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 15 Minuten täglich in der Natur – die einfachste Methode für Führungskräfte, um Stress abzubauen und klarer zu denken. Erschöpft trotz Erfolg? Dieser 7-Tage-Online-Kurs ist die Lösung. Als Führungskraft funktionierst du. Jeden Tag. Aber nach innen fühlst du dich leer. Du hast schon alles versucht – Meditations-Apps, Achtsamkeits-Podcasts, früher Feierabend (klappt nie). Was, wenn die Lösung viel e…
+**Vendor's marketplace description:** <p><strong>15 Minuten täglich in der Natur – die einfachste Methode für Führungskräfte, um Stress abzubauen und klarer zu denken. </strong></p>
+<p><strong>Erschöpft trotz Erfolg? Dieser 7-Tage-Online-Kurs ist die Lösung.</strong></p>
+<p>Als Führungskraft funktionierst du. Jeden Tag. Aber nach innen fühlst du dich leer. Du hast schon alles versucht – Meditations-Apps, Achtsamkeits-Podcasts, früher Feierabend (klappt nie).</p>
+<p><strong>Was, wenn die Lösung viel einfacher ist?</strong></p>
+<p>15 Minuten. Draussen. Jeden Tag.</p>
+<p>Keine komplizierten Techniken. Keine Esoterik. Nur das, was wissenschaftlich fundiert funktioniert.</p>
+<p><strong>Was deine Kunden bekommen:</strong></p>
+<p>✓ <strong>7 Video-Lektionen</strong> – klar, praktisch, sofort umsetzbar <br />✓ <strong>7 Tagesaufgaben</strong> – einfach, aber wirkungsvoll <br />✓ <strong>7 praktische PDFs</strong> –  zum Nachschlagen <br />✓ <strong>BONUS:</strong> "7 Notfall-Interventionen für stressige Tage" <br />✓ <strong>Community-Zugang</strong> – exklusive LinkedIn-Gruppe <br />✓ <strong>Sofortiger Zugang</strong> – alle Inhalte direkt nach Kauf verfügbar</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/663597?aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/56205/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/663597
 - Canonical redirect: https://www.digistore24.com/redir/663597/adminstore
 
@@ -86,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7-Tages-Kurs: Deine Natur-Routine für mehr Gelassenheit? — Typ: Member area and video courses, Anbieter: Perspektiv-Akademie, gelistet seit 2026-01-23
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

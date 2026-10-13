@@ -4,16 +4,16 @@ digistore24_product_id: 295505
 title: "Ad Campus Online Plattform - 40% Lifetime Provision"
 vendor: "ChrisdaS"
 product_type: "Member area and video courses"
-price: 84.73
+price: 84.54
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 33.89
+earnings_per_sale: 33.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2019-11-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.ad-campus.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ad-campus.de"
@@ -22,16 +22,16 @@ language: "de"
 # Ad Campus Online Plattform - 40% Lifetime Provision
 
 > Product ID `34308` · Digistore24 productId `295505` · [HTML profile page](../../produkte/ad-campus-online-plattform-40-lifetime-provision-34308.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $84.73 (Subscription) |
+| Price | $84.54 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $33.89 |
+| Earnings/sale* | $33.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ChrisdaS |
@@ -41,7 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle die #1 Plattform "Ad Campus" für effektives Facebook Marketing und verdiene 40% Lifetime Provision. Im Ad Campus lernst Du alle Facebook Marketing Grundlagen von 0 auf an und verstehst anschließend die Funktionen und Mechanismen zu 100%. Deine Vorteile: Lebenslang 40 % wiederkehrende Provisionen auf Deine Verkäufe Eintragungsraten von 18 bis 33 % im ständig hochoptimierten Ad Campus Lead-…
+**Vendor's marketplace description:** <p>Empfehle die #1 Plattform "Ad Campus" für effektives Facebook Marketing und verdiene 40% Lifetime Provision.</p>
+<p>Im Ad Campus lernst Du alle Facebook Marketing Grundlagen von 0 auf an und verstehst anschließend die Funktionen und Mechanismen zu 100%. </p>
+<p><span style="background-color:#ccffcc;"><strong>Deine Vorteile:</strong></span></p>
+<ul>
+<li>Lebenslang 40 % wiederkehrende Provisionen auf Deine Verkäufe </li>
+<li>Eintragungsraten von 18 bis 33 % im ständig hochoptimierten Ad Campus Lead-Funnel.</li>
+<li>Kaufraten von 10-15% im ständig hochoptimierten Ad Campus Sales-Funnel</li>
+<li>Große Auswahl optimierter Webemittel: Du bekommst klickstarke Creatives, Vorlagen für E-Mail-Texte, Videos und alles was Du benötigst um mehr Leads und Verkäufe zu erzielen.</li>
+<li>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Ad Campus Affiliate-Manager.</li>
+<li>Ständige Live Trainings der Top Affiliates mit dem Gründer persönlich, für noch mehr Umsatz und Provisionen</li>
+</ul>
+<p><strong><span style="background-color:#ffff99;">Wichtiger Hinweis:</span></strong></p>
+<ul style="list-style-type:circle;">
+<li><span style="background-color:#ffcc99;">Ab 50</span> erfolgreichen Verkäufen wird die Provision manuell auf <strong><span style="background-color:#ffcc99;">60% erhöht</span></strong></li>
+<li><span style="background-color:#ffcc99;">Ab 75</span> erfolgreichen Verkäufen wird die Provision manuell auf <strong><span style="background-color:#ffcc99;">80% erhöht</span></strong></li>
+<li><span style="background-color:#ffcc99;">Ab 100</span> erfolgreichen Verkäufen wird die Provision manuell <strong>dauerhaft</strong> auf <strong><span style="background-color:#ffcc99;">100% erhöht</span></strong></li>
+</ul>
+<p>Besuche jetzt unser Affiliate Center, um noch heute Teil der Ad Campus Familie zu werden!</p>
+<p>Herzliche Grüße aus Köln und viel Erfolg beim bewerben</p>
+<p>Christian da Silva  </p>
 
 ## 2. Links
 
@@ -67,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ad Campus Online Plattform - 40% Lifetime Provision? — Typ: Member area and video courses, Anbieter: ChrisdaS, gelistet seit 2019-11-17
-- Wie viel kostet es? — 84.728566 USD
+- Wie viel kostet es? — 84.539541 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

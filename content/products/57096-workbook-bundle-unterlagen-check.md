@@ -4,16 +4,16 @@ digistore24_product_id: 676905
 title: "Workbook-Bundle „Unterlagen-Check\""
 vendor: "Diveco"
 product_type: "E-books"
-price: 78.23
+price: 78.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 39.12
+earnings_per_sale: 39.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-06-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-bewerbrhandbuch-unterlagen-check-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/workbook-bewerbrhandbuch-unterlagen-check-landingpage/"
@@ -22,16 +22,16 @@ language: "de"
 # Workbook-Bundle „Unterlagen-Check"
 
 > Product ID `57096` · Digistore24 productId `676905` · [HTML profile page](../../produkte/workbook-bundle-unterlagen-check-57096.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $78.23 (Single payment) |
+| Price | $78.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $39.12 |
+| Earnings/sale* | $39.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** PRODUKTNAME: Workbook-Bundle „Unterlagen-Check" ZIELGRUPPE: Berufseinsteiger, Jobwechsler, erfahrene Fachkräfte nach Bewerbungspause – jeder im aktuellen oder anstehenden Bewerbungsprozess. WARUM DIESES PRODUKT BEWERBEN: Bewerbungs-Coaching ist eines der konstantesten Themen im digitalen Markt – unabhängig von Saison oder Konjunktur, denn Menschen bewerben sich ganzjährig. 2026 kommt ein zusätzlic…
+**Vendor's marketplace description:** <p>PRODUKTNAME: Workbook-Bundle „Unterlagen-Check"</p>
+<p>ZIELGRUPPE: Berufseinsteiger, Jobwechsler, erfahrene Fachkräfte nach Bewerbungspause – jeder im aktuellen oder anstehenden Bewerbungsprozess.</p>
+<p>WARUM DIESES PRODUKT BEWERBEN:</p>
+<p>Bewerbungs-Coaching ist eines der konstantesten Themen im digitalen Markt – unabhängig von Saison oder Konjunktur, denn Menschen bewerben sich ganzjährig. 2026 kommt ein zusätzlicher Faktor hinzu: Künstliche Intelligenz verändert den Bewerbungsprozess grundlegend, und viele Menschen sind verunsichert, wie sie KI richtig einsetzen sollen. Genau diese Lücke schließt das Workbook.</p>
+<p>Das Produkt ist:<br />– digital (sofortiger Download, kein Versand)<br />– evergreen (ganzjährig nachgefragt)<br />– praxisnah (direkt umsetzbare Checklisten und Vorlagen)<br />– zielgruppenstark (eine der breitesten Nischen im Coaching-Bereich)</p>
+<p>Als Affiliate erhältst du fertige Werbemittel: Social-Media-Texte, E-Mail-Vorlagen und LinkedIn-Posts – alles sofort einsatzbereit über die Affiliate-Support-Seite.</p>
+<p>DEIN LINK: https://www.digistore24.com/product/674178?voucher=Bundle</p>
 
 ## 2. Links
 
@@ -92,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Workbook-Bundle „Unterlagen-Check"? — Typ: E-books, Anbieter: Diveco, gelistet seit 2026-06-22
-- Wie viel kostet es? — 78.22908600000001 USD
+- Wie viel kostet es? — 78.054561 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

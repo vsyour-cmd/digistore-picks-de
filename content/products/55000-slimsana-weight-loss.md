@@ -4,16 +4,16 @@ digistore24_product_id: 651454
 title: "SlimSana Weight Loss"
 vendor: "DS24-MySana"
 product_type: "Supplements - for slimming"
-price: 177.04
+price: 176.65
 currency: "USD"
-affiliate_commission_pct: 60
-earnings_per_sale: 108.94
+affiliate_commission_pct: 65
+earnings_per_sale: 108.7
 cart_conversion_pct: 12
 cancel_rate_pct: 7.12
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-11-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://myslimsana.com/slimsana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://myslimsana.com/slimsana-pdp-fe"
@@ -22,16 +22,16 @@ language: "de"
 # SlimSana Weight Loss
 
 > Product ID `55000` · Digistore24 productId `651454` · [HTML profile page](../../produkte/slimsana-weight-loss-55000.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $177.04 (Single payment) |
-| Affiliate commission | 60% |
-| Earnings/sale* | $108.94 |
+| Price | $176.65 (Single payment) |
+| Affiliate commission | 65% |
+| Earnings/sale* | $108.70 |
 | Cart conversion* | 12% |
 | Cancel rate* | 7.12% |
 | Vendor | DS24-MySana |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** SlimSana - German Weight Loss Supplement (DACH Market) From the team behind GlucoTrust's crushing German offer comes SlimSana: a doctor-endorsed weight loss supplement targeting frustrated German women and men 35-60+ who've tried everything and failed. The hook? A Harvard-trained naturopath reveals the hidden "metabolic switch" sabotaging their fat loss... and how 11 clinically-researched ingredie…
+**Vendor's marketplace description:** <p><strong>SlimSana - German Weight Loss Supplement (DACH Market)</strong></p>
+<p>From the team behind GlucoTrust's crushing German offer comes SlimSana: a doctor-endorsed weight loss supplement targeting frustrated German women and men 35-60+ who've tried everything and failed. The hook? A Harvard-trained naturopath reveals the hidden "metabolic switch" sabotaging their fat loss... and how 11 clinically-researched ingredients can flip it in 60 seconds a day. No crash diets. No endless cardio. Just a simple capsule that attacks cravings, boosts thermogenesis, and rebalances insulin response. Proven sales page and VSL combining emotional storytelling with scientific credibility.  Very deep funnel means higher AOV and bigger commissions and higher EPCs. Massive underserved DACH market hungry for solutions that actually work. Converts cold traffic because the pain is REAL and the science backs it up.</p>
 
 ## 2. Links
 
@@ -105,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SlimSana Weight Loss? — Typ: Supplements - for slimming, Anbieter: DS24-MySana, gelistet seit 2025-11-27
-- Wie viel kostet es? — 177.043594 USD
+- Wie viel kostet es? — 176.64861900000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

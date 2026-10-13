@@ -4,34 +4,34 @@ digistore24_product_id: 90663
 title: "Der Zielnavigator"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 100.85
+price: 100.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 50.43
+earnings_per_sale: 50.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2016-08-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://erfolg-intuitiv.de/zielnavigator-online-seminar/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12851/adminstore/"
 sales_page: "https://erfolg-intuitiv.de/zielnavigator-online-seminar/"
 language: "de"
 ---
 # Der Zielnavigator
 
 > Product ID `12851` · Digistore24 productId `90663` · [HTML profile page](../../produkte/der-zielnavigator-12851.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $100.85 (Single payment, Installment) |
+| Price | $100.63 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $50.43 |
+| Earnings/sale* | $50.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg-Intuitiv |
@@ -41,11 +41,34 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Starke Konvertierung! Verkauf über tägliches Webeniar Viele wertvolle Inhalte und Tipps. Echter Mehrwert für Ihre Liste! Kann jederzeit beworben werden. Bei Fragen: info@erfolg-intuitiv.de Online-Video-Coaching über 4 Module 1. Modul: Zielklarheit und VisionZiele erfolgssicher definieren 2. Modul: Innere Kräfte mobilisierenErfolgs-Mindset, Zielbewusstsein und die Programmierung Ihres Unterbewussts…
+**Vendor's marketplace description:** <p><strong>Starke Konvertierung!</strong></p>
+<ul><li><strong>Verkauf über tägliches Webeniar</strong></li>
+<li><strong>Viele wertvolle Inhalte und Tipps.</strong></li>
+<li><strong>Echter Mehrwert für Ihre Liste!</strong></li>
+<li><strong>Kann jederzeit beworben werden.</strong></li>
+</ul><p><span style="background-color:#ffff00;"><strong>Bei Fragen: info@erfolg-intuitiv.de</strong></span></p>
+<p> </p>
+<p><span style="text-decoration:underline;"><strong>Online-Video-Coaching über 4 Module</strong></span></p>
+<table style="width:357px;height:182px;"><tbody><tr><td style="width:71px;vertical-align:top;"><strong>1. Modul:</strong></td>
+<td style="width:280px;vertical-align:top;"><strong>Zielklarheit und Vision</strong><br />Ziele erfolgssicher definieren</td>
+</tr><tr><td style="width:71px;vertical-align:top;"><strong>2. Modul:</strong></td>
+<td style="width:280px;vertical-align:top;"><strong>Innere Kräfte mobilisieren</strong><br />Erfolgs-Mindset, Zielbewusstsein und die Programmierung Ihres Unterbewusstseins</td>
+</tr><tr><td style="width:71px;vertical-align:top;"><strong>3. Modul:</strong></td>
+<td style="width:280px;vertical-align:top;"><strong>Äußere Kräfte richtig nutzen</strong><br />„Mentale Firewall“ installieren und erfolgsfördernde Kontakte aufbauen</td>
+</tr><tr><td style="width:71px;vertical-align:top;"><strong>4. Modul:</strong></td>
+<td style="width:280px;vertical-align:top;"><strong>Der direkte Weg zum Erfolg</strong><br />Zielsicher planen und maximale Effektivität entwickeln</td>
+</tr></tbody></table><p><span style="text-decoration:underline;"><strong>Begleichtmaterial:</strong></span></p>
+<ul><li><strong>Präsentation mit den wichtigsten Stichpunkten<br /></strong>für einen höheren Lern- und Behaltenseffekt</li>
+<li><strong>Verständnis und Erkenntnisfragen<br /></strong>für tieferes Verstehen und wichtige eigene Erkenntnisse</li>
+<li><strong>Wertvolle Checklisten</strong><br />durch die Sie die wichtigsten Punkte im Auge behalten.</li>
+<li><strong>Intuitive Arbeisblätter</strong><br />die Ihnen dabei helfen, das gelernte erfolgreich in die Tat umzusetzen.</li>
+<li><strong>Vordrucke für erfolgsorientierte Zielplanungen</strong><br />So bekommen Sie eine Glasklare Zielstruktur,<br />die Ihre Erfolgs-Chancen um eine vielfaches erhöht!</li>
+<li><strong>Effektivitäts-Check Ihrer Aktivitäten</strong><br />So erreichen Sie bei nur halben Aufwand das doppelte<br />und noch viel mehr! </li>
+</ul><p><span style="background-color:#ffff00;"><strong>Bei Fragen: info@erfolg-intuitiv.de</strong></span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://erfolg-intuitiv.de/zielnavigator-online-seminar/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12851/adminstore/
 - Sales page: https://erfolg-intuitiv.de/zielnavigator-online-seminar/
 - Vendor affiliate support: https://erfolg-intuitiv.de/partnerprogramm-zn/
 - Canonical redirect: https://www.digistore24.com/redir/90663/adminstore
@@ -87,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Zielnavigator? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2016-08-09
-- Wie viel kostet es? — 100.854 USD
+- Wie viel kostet es? — 100.629 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

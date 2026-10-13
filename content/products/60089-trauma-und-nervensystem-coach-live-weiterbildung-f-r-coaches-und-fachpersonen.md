@@ -4,34 +4,34 @@ digistore24_product_id: 681025
 title: "Trauma- und Nervensystem-Coach – Live-Weiterbildung für Coaches und Fachpersonen"
 vendor: "Neurotraining_Akademie"
 product_type: "Online coaching"
-price: 3104.72
+price: 3097.8
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 310.47
+earnings_per_sale: 309.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Personal Development"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://neurotraining-akademie.de/trauma-programm?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60089/adminstore/"
 sales_page: "https://neurotraining-akademie.de/trauma-programm"
 language: "de"
 ---
 # Trauma- und Nervensystem-Coach – Live-Weiterbildung für Coaches und Fachpersonen
 
 > Product ID `60089` · Digistore24 productId `681025` · [HTML profile page](../../produkte/trauma-und-nervensystem-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60089.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $3104.72 (Single payment, Installment) |
+| Price | $3097.80 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $310.47 |
+| Earnings/sale* | $309.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Neurotraining_Akademie |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Live-Weiterbildung für Coaches, Berater:innen, Therapeut:innen und weitere Fachpersonen, die Menschen traumasensibel begleiten und dabei das Nervensystem einbeziehen. 60 Unterrichtsstunden live online im virtuellen Klassenzimmer Freitags 19:00–21:00 Uhr, dazu vier Embodiment-Samstage Start: Februar 2027 Leitung: Marina Winkler, M.Sc. Psychologin und Hochschuldozentin für Klinische Psychologie Hinw…
+**Vendor's marketplace description:** <p><strong>Live-Weiterbildung für Coaches, Berater:innen, Therapeut:innen und weitere Fachpersonen</strong>, die Menschen traumasensibel begleiten und dabei das Nervensystem einbeziehen.</p>
+<ul>
+<li>60 Unterrichtsstunden live online im virtuellen Klassenzimmer</li>
+<li>Freitags 19:00–21:00 Uhr, dazu vier Embodiment-Samstage</li>
+<li>Start: Februar 2027</li>
+<li>Leitung: Marina Winkler, M.Sc. Psychologin und Hochschuldozentin für Klinische Psychologie</li>
+</ul>
+<p>Hinweis: Weiterbildung für Fachpersonen. Keine Therapie- oder Diagnostikausbildung, kein staatlich anerkannter Abschluss. Preise und Termine gelten wie auf der Programmseite.</p>
+<p>Provision für Affiliates: 10 %. Informationen und fertiges Bildmaterial für Partner:innen finden Sie auf der Partnerseite der Neurotraining Akademie.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://neurotraining-akademie.de/trauma-programm?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60089/adminstore/
 - Sales page: https://neurotraining-akademie.de/trauma-programm
 - Vendor affiliate support: https://neurotraining-akademie.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/681025/adminstore
@@ -90,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trauma- und Nervensystem-Coach – Live-Weiterbildung für Coaches und Fachpersonen? — Typ: Online coaching, Anbieter: Neurotraining_Akademie, gelistet seit 2026-10-01
-- Wie viel kostet es? — 3104.7231540000002 USD
+- Wie viel kostet es? — 3097.7966790000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

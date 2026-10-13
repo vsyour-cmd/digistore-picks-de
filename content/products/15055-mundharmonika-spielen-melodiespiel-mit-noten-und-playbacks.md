@@ -4,34 +4,34 @@ digistore24_product_id: 113631
 title: "Mundharmonika spielen: Melodiespiel mit Noten und Playbacks"
 vendor: "Activent"
 product_type: "Member area and video courses"
-price: 141.16
+price: 140.85
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.47
+earnings_per_sale: 56.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2017-01-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.mundharmonikaspielen.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/15055/adminstore/"
 sales_page: "https://www.mundharmonikaspielen.com/"
 language: "de"
 ---
 # Mundharmonika spielen: Melodiespiel mit Noten und Playbacks
 
 > Product ID `15055` · Digistore24 productId `113631` · [HTML profile page](../../produkte/mundharmonika-spielen-melodiespiel-mit-noten-und-playbacks-15055.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.16 (Subscription) |
+| Price | $140.85 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.47 |
+| Earnings/sale* | $56.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Activent |
@@ -41,11 +41,46 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ich habe einen Onlinekurs für die Mundharmonikas Melodystar von Hohner und chromatische Mundharmonika in C erstellt. Diesen Onlinekurs habe über 15 Jahre lang mit meinen Schülern entwickelt und sie sind begeistert. Dieser Onlinekurs ist geeignet für alle, die gerne Melodien auf der Mundharmonika spielen wollen. In meinem Mundharmonikakurs habe ich im Grunde genommen mehrere Kurse für folgende Mund…
+**Vendor's marketplace description:** <p>Ich habe einen Onlinekurs für die Mundharmonikas Melodystar von Hohner und chromatische Mundharmonika in C erstellt.</p>
+<p>Diesen Onlinekurs habe <strong>über 15 Jahre lang</strong> mit meinen Schülern entwickelt und sie sind begeistert.</p>
+<p>Dieser Onlinekurs ist geeignet für alle, die gerne <strong>Melodien</strong> auf der <strong>Mundharmonika spielen</strong> wollen.</p>
+<p>In meinem Mundharmonikakurs habe ich im Grunde genommen <strong>mehrere Kurse</strong> für folgende Mundharmonikas erarbeitet:</p>
+<p>a) Melodystar von Hohner</p>
+<p>b) chromatische Mundharmonika (bis 48 Töne) in C-Dur</p>
+<p>c) 4-Loch Mundharmonika</p>
+<p>d) Big Six von Seydel in Folklorestimmung</p>
+<p>e) Alle Mundharmonikas in Solostimmung</p>
+<p> </p>
+<p>Dieser Onlinekurs beinhaltet <strong>mehrere Hundert Lieder mit Noten und Zahlen</strong> (ideal auch für Anfänger), <strong>über 5000 Videoplaybacks</strong> und <strong>Videoanleitungen</strong>.</p>
+<p> </p>
+<p>Dieser Mundharmonikakurs ist sehr umfassend und jeder kann von Beginn an (ohne Notenkenntnisse) Mundharmonika spielen.</p>
+<p>Alter: Ab 6 - 100 Jahre!</p>
+<p> </p>
+<p>Als Lehrer für Musik und Deutsch habe ich diesen Mundharmonikakurs aus der Praxis herus für meine Schüler im Rahmen des Klassenmusizierens entwickelt. So ist das hier ein praxisnaher Mundharmonikakurs und was die Teilnehmer schätzen, ist, dass ich auch zusätzlich Videoanleitungen für die Lieder etc. mache und dass ich diesen Mundharmonikakurs ständig weiter entwickle.<br />Meine Schüler spielen bereits nach 4 Wochen Hallelujah und sind begeistert.</p>
+<p> </p>
+<p>Dieser Mundharmonikakurs ist auch für <strong>Musikhäuser</strong>, <strong>Onlineshops</strong> (Musik) usw. geeignet, die mehr Mundharmonikas verkaufen wollen und die an der Vermittlung dieses Mundharmonikakurses monatlich Geld verdienen wollen.</p>
+<p>Dieser Mundharmonikakurs ist auch geeignet für jeden, der <strong>Mundharmonikaunterricht</strong> anbieten will und der gleichzeitig diesen Mundharmonikakurs vermittelt, und dabei regelmäßig Geld verdienen will.</p>
+<p> </p>
+<p>Mundharmonikaspielen macht Spaß und ist ganz einfach.</p>
+<p>Vor allem die <strong>Videoplaybacks</strong> und die regelmäßigen <strong>Webinare</strong> sind nahezu eine Garantie dafür, dass jeder lange gerne mit meinem Mundharmonikakurs Mundharmonika spielt.</p>
+<p>Ich zeige auch dabei neben der entsprechenden <strong>Atemtechnik</strong>, <strong>Haltung</strong> usw auch, wie man <strong>Lieder</strong> interessant <strong>interpretiert</strong>, wie man auswendig spielen kann (trainiert das Gehirn) und wie man im <strong>Flow</strong> sielt.</p>
+<p> </p>
+<p>Daher ist dieser Mundharmonikakurs auch für alle, die sich entschleunigen wollen, die Flow erlernen wollen und auch für Leute, die Burnout-Probleme haben.</p>
+<p>Schon ab 10 Minuten täglich hat man in kurzer Zeit schon richtige Erfolge und kann vorspielen.</p>
+<p>Überraschen Sie Ihre Freunde und Bekannte beim nächsten Treffen mit schönen Liedern und zur Weihnachtszeit spielen Sie auf einmal Mundharmonika vor.</p>
+<p>Dieser Onlinekurs darf für alle Famlienmitglieder verwendet werden. Jede Familie zahlt also nur einen Zugang.</p>
+<p>Dieser Mundharmonikakurs ist auf auf monatlicher Basis oder jährlicher Basis.</p>
+<p>Dies bedeutet: Es gibt für jeden, der diesen Mundharmonikakurs weiterempfiehlt, regelmäßig Provisionen.</p>
+<p>Ich entwickle diesen Mundharmonikkurs ständig weiter.</p>
+<p> </p>
+<p>Viel Spaß beim Mundharmonikaspielen und beim Empfehlen!</p>
+<p> </p>
+<p><strong>Marketing:</strong><br />Für Affiliates biete ich an, dass wir zusammen für Ihre Kontakte ein Webinar (oder mehrere) machen, damit sie sich in diesen Mundharmonikakurs über Ihren Affiliatelink eintragen.</p>
+<p>Da dieser Mundharmonikakurs sehr umfassend ist und ständig weiterentwickelt wird und da ich durch meine Live-Webinare eine gute Kundenbindung aufbauen möchte, können Affiliates durch die Vermittlung meiner Onlinekurse durch monatliche oder jährliche Beiträge lange für sich finanziell profitieren.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.mundharmonikaspielen.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/15055/adminstore/
 - Sales page: https://www.mundharmonikaspielen.com/
 - Canonical redirect: https://www.digistore24.com/redir/113631/adminstore
 
@@ -96,7 +131,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mundharmonika spielen: Melodiespiel mit Noten und Playbacks? — Typ: Member area and video courses, Anbieter: Activent, gelistet seit 2017-01-15
-- Wie viel kostet es? — 141.161982 USD
+- Wie viel kostet es? — 140.847057 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

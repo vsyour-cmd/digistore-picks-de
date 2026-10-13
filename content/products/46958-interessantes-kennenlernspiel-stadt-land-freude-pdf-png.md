@@ -4,16 +4,16 @@ digistore24_product_id: 535532
 title: "interessantes Kennenlernspiel: Stadt Land Freude (PDF, PNG"
 vendor: "wiegehtliebe-de"
 product_type: "Downloads"
-price: 9.32
+price: 9.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.66
+earnings_per_sale: 4.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Fun & Games"]
 listed_since: "2024-01-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://melli-seedorf.de/stadt-land-glueckstraining/?aff=adminstore#aff=adminstore"
 sales_page: "https://melli-seedorf.de/stadt-land-glueckstraining/"
@@ -22,16 +22,16 @@ language: "de"
 # interessantes Kennenlernspiel: Stadt Land Freude (PDF, PNG
 
 > Product ID `46958` · Digistore24 productId `535532` · [HTML profile page](../../produkte/interessantes-kennenlernspiel-stadt-land-freude-pdf-png-46958.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.32 (Single payment) |
+| Price | $9.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.66 |
+| Earnings/sale* | $4.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wiegehtliebe-de |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Inspiriert von der japanischen Aufräumexpertin Marie Kondo entwickelte die Glückstrainerin Melli Seedorf ihr neues, zweites Spiel: "Stadt, Land, Freude" Gemeinsam lustige oder freudevolle Spiele spielen lässt uns Menschen mehr Nähe zu anderen empfinden. Das stärkt unser Wohlbefinden und unsere Gesundheit. Drum ist dieses Spiel nicht nur eine schöne Freizeitbeschäftigung sondern auch eine Wohltat f…
+**Vendor's marketplace description:** <p><span style="color:#333399;">Inspiriert von der japanischen Aufräumexpertin <strong>Marie Kondo</strong> entwickelte die Glückstrainerin <strong>Melli Seedorf</strong> ihr neues, zweites Spiel:</span></p>
+<h2><span style="color:#333399;background-color:#ffff99;"><strong> "Stadt, Land, Freude"</strong></span></h2>
+<p><span style="color:#333399;">Gemeinsam lustige oder freudevolle Spiele spielen lässt uns Menschen <strong>mehr Nähe zu anderen</strong> empfinden. Das stärkt unser Wohlbefinden und unsere Gesundheit.</span></p>
+<p><span style="color:#333399;">Drum ist dieses Spiel nicht nur eine schöne Freizeitbeschäftigung sondern auch eine Wohltat für unsere Gesundheit.</span></p>
+<p><span style="color:#333399;">Die Spielregeln sind die gleichen wie die des Spieleklassikers <strong>Stadt, Land, Fluss</strong>.</span></p>
+<p> </p>
+<p><span style="color:#333399;background-color:#ffff99;"><strong>Der Download enthält 2 Dateien:</strong></span></p>
+<ol>
+<li><span style="color:#333399;">eine <strong>PDF </strong>(eine Seite), die dank der ausfüllbaren Textfelder direkt am Bildschirm ausgefüllt werden kann (ideal zum online spielen)</span><br /><br /></li>
+<li><span style="color:#333399;">eine <strong>PNG</strong>-Datei, die man auf normales DIN A4 Kopierpapier selber Zuhause, bei Freunden oder im Copyshop ausdrucken kann</span></li>
+</ol>
 
 ## 2. Links
 
@@ -80,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist interessantes Kennenlernspiel: Stadt Land Freude (PDF, PNG? — Typ: Downloads, Anbieter: wiegehtliebe-de, gelistet seit 2024-01-22
-- Wie viel kostet es? — 9.323392 USD
+- Wie viel kostet es? — 9.302592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

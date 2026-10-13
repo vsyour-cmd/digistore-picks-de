@@ -4,34 +4,34 @@ digistore24_product_id: 195109
 title: "Die Over/Under Wettformel!"
 vendor: "ttservice"
 product_type: "Downloads"
-price: 37.66
+price: 37.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.84
+earnings_per_sale: 18.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems"]
 listed_since: "2018-01-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://www.sportwetten-formel.gr8.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/22137/adminstore/"
 sales_page: "http://www.sportwetten-formel.gr8.com"
 language: "de"
 ---
 # Die Over/Under Wettformel!
 
 > Product ID `22137` · Digistore24 productId `195109` · [HTML profile page](../../produkte/die-over-under-wettformel-22137.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.66 (Single payment) |
+| Price | $37.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.84 |
+| Earnings/sale* | $18.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ttservice |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Neues Top Partnerprogramm:+ 50% Provison auf alle Verkäufe!+ zahlreiche Werbemittel zur Verfügung gestellt!+ Persönlicher Support für alle Affiliates!+ Neue Werbegrafiken auf Wunsch!Alle Infos zum Produkt und dem Partnerprogramm sowie die Werbemittel gibt es auf unserer Affiliate Support Seite unter: www.wettformel-affiliate.gr8.comDas Produkt: - sagt die Wahrscheinichkeit von Sportwetten voraus- …
+**Vendor's marketplace description:** <p>Neues Top Partnerprogramm:<br /><br />+ 50% Provison auf alle Verkäufe!<br />+ zahlreiche Werbemittel zur Verfügung gestellt!<br />+ Persönlicher Support für alle Affiliates!<br />+ Neue Werbegrafiken auf Wunsch!<br /><br />Alle Infos zum Produkt und dem Partnerprogramm sowie die Werbemittel gibt es auf unserer Affiliate Support Seite unter: <a href="http://www.wettformel-affiliate.gr8.com">www.wettformel-affiliate.gr8.com</a><br /><br />Das Produkt:</p>
+<p>- sagt die Wahrscheinichkeit von Sportwetten voraus<br />- wurde getestet und funktioniert<br />- ist für alle Wettbegeisterten und hat einen großen Markt<br />- ist für jeden Sportwettenfreund leistbar<br /><br />Unser Verkauf:<br /><br />- Werbung in allen Sozialen Netzwerken<br />- auch bei kaltem Traffic super Verkaufszahlen<br />- Exit Pop-up mit anschließender, automatischer E-Mail Kampagne für noch mehr Verkäufe<br /><br />Bei Fragen bitte unter: <a href="mailto:wettformel@gmail.com">wettformel@gmail.com</a> melden. </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.sportwetten-formel.gr8.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/22137/adminstore/
 - Sales page: http://www.sportwetten-formel.gr8.com
 - Vendor affiliate support: https://www.wettformel-affiliate.gr8.com
 - Canonical redirect: https://www.digistore24.com/redir/195109/adminstore
@@ -75,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Over/Under Wettformel!? — Typ: Downloads, Anbieter: ttservice, gelistet seit 2018-01-19
-- Wie viel kostet es? — 37.663366 USD
+- Wie viel kostet es? — 37.579341 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

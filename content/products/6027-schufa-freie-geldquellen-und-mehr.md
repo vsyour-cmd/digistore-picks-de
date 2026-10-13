@@ -4,16 +4,16 @@ digistore24_product_id: 40579
 title: "SCHUFA-FREIE GELDQUELLEN und mehr"
 vendor: "BIGbenn1"
 product_type: "Downloads"
-price: 25
+price: 24.94
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 11.09
+earnings_per_sale: 11.07
 cart_conversion_pct: 8
 cancel_rate_pct: 2.93
 categories: ["Profession & Job"]
 listed_since: "2015-01-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "http://www.benn-verlag.de/digi-gq/index.html?aff=adminstore#aff=adminstore"
 sales_page: "http://www.benn-verlag.de/digi-gq/index.html"
@@ -22,16 +22,16 @@ language: "de"
 # SCHUFA-FREIE GELDQUELLEN und mehr
 
 > Product ID `6027` · Digistore24 productId `40579` · [HTML profile page](../../produkte/schufa-freie-geldquellen-und-mehr-6027.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.00 (Single payment) |
+| Price | $24.94 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $11.09 |
+| Earnings/sale* | $11.07 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.93% |
 | Vendor | BIGbenn1 |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** SCHUFA-FREIE GELDQUELLEN & mehr Kredite, Finanzierungen, Hypotheken, Konten, Kreditkarten – alles ohne lästige Schufa. Für jeden Zweck, für Privat, für Existenzgründer, für Geschäftsleute. Die Kontakte im In- und Ausland. Einmaliger Report im deutschsprachigen Raum. Jetzt noch umfangreicher! Als Bonus gibt es die Ebooks "Geldgeschen vom Staat", "Mikrokredite" sowie "Crowdfunding" kostenlos dazu! M…
+**Vendor's marketplace description:** <p><span style="color:#800080;"><strong>SCHUFA-FREIE GELDQUELLEN &amp; mehr</strong></span></p>
+<p>Kredite, Finanzierungen, Hypotheken, Konten, Kreditkarten – alles ohne lästige Schufa.</p>
+<p>Für jeden Zweck, für Privat, für Existenzgründer, für Geschäftsleute.</p>
+<p>Die Kontakte im In- und Ausland. Einmaliger Report im deutschsprachigen Raum.</p>
+<p>Jetzt noch umfangreicher!</p>
+<p>Als Bonus gibt es die Ebooks "Geldgeschen vom Staat", "Mikrokredite" sowie "Crowdfunding" kostenlos dazu!</p>
+<p> </p>
+<p><span style="background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
+<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
+<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
+<p>2 einfache Schritte:</p>
+<ol>
+<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html</a></span> (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
+<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
+</ol>
+<p> </p>
+<p><em><strong> </strong></em></p>
 
 ## 2. Links
 
@@ -67,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SCHUFA-FREIE GELDQUELLEN und mehr? — Typ: Downloads, Anbieter: BIGbenn1, gelistet seit 2015-01-14
-- Wie viel kostet es? — 25.000586 USD
+- Wie viel kostet es? — 24.944811 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

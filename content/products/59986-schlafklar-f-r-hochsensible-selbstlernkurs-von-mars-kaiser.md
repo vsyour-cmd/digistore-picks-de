@@ -4,16 +4,16 @@ digistore24_product_id: 730272
 title: "Schlafklar für Hochsensible: Selbstlernkurs von Mars Kaiser"
 vendor: "marcokaiser8e50"
 product_type: "Member area and video courses"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.97
+earnings_per_sale: 27.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://webinar.marskaiser.de/schlafklar2?aff=adminstore#aff=adminstore"
 sales_page: "https://webinar.marskaiser.de/schlafklar2"
@@ -22,16 +22,16 @@ language: "de"
 # Schlafklar für Hochsensible: Selbstlernkurs von Mars Kaiser
 
 > Product ID `59986` · Digistore24 productId `730272` · [HTML profile page](../../produkte/schlafklar-f-r-hochsensible-selbstlernkurs-von-mars-kaiser-59986.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.22 (Single payment, Installment) |
+| Price | $93.01 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.97 |
+| Earnings/sale* | $27.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | marcokaiser8e50 |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Schlafklar für Hochsensible ist ein deutschsprachiger digitaler Selbstlernkurs von Mars Kaiser für Menschen, die abends erschöpft sind und sich dennoch innerlich wach fühlen. Der Kurs verbindet verständliches Wissen über Schlaf und Reizverarbeitung mit Anregungen zur Selbstbeobachtung. Er umfasst 4 Module, 20 Lerneinheiten und 19 PDFs, darunter ein 30-Tage-Programm und vier private Reflexionshefte…
+**Vendor's marketplace description:** <p><strong>Schlafklar für Hochsensible</strong> ist ein deutschsprachiger digitaler Selbstlernkurs von Mars Kaiser für Menschen, die abends erschöpft sind und sich dennoch innerlich wach fühlen.</p>
+<p>Der Kurs verbindet verständliches Wissen über Schlaf und Reizverarbeitung mit Anregungen zur Selbstbeobachtung. Er umfasst 4 Module, 20 Lerneinheiten und 19 PDFs, darunter ein 30-Tage-Programm und vier private Reflexionshefte. Die Teilnehmenden lernen in ihrem eigenen Tempo. Individuelle Begleitung, persönliche Rückmeldungen und Calls sind nicht enthalten.</p>
+<p><strong>Für Affiliates:</strong> Das Angebot passt zu Inhalten über Hochsensibilität, abendliches Grübeln, Reizverarbeitung und Selbstfürsorge. Die klar umrissene Zielgruppe und die Verbindung aus Erklärungen und Arbeitsmaterialien bieten konkrete Anknüpfungspunkte für eine sachliche Empfehlung.</p>
+<ul>
+<li>Verkaufspreis: 199 € einmalig, kein Abonnement. Eingerichtete Ratenpläne haben denselben Gesamtbetrag.</li>
+<li>Affiliate-Provision: 30 %. Partnerschaftsanfragen werden automatisch angenommen.</li>
+<li>Produkt-ID: 730272. Den persönlichen Promolink bitte direkt über Digistore24 beziehen.</li>
+</ul>
+<p>Die tatsächliche Provisionsabrechnung richtet sich nach Digistore24. Es werden keine festen Auszahlungsbeträge, Conversion-Raten oder Einnahmen zugesagt.</p>
+<p>Bitte Werbung und Affiliate-Links klar kennzeichnen und den Kurs nicht als kostenloses Webinar bewerben. Der Kurs ersetzt keine medizinische oder psychotherapeutische Abklärung oder Behandlung und verspricht keine bestimmten Schlafergebnisse. Anhaltende oder stark belastende Schlafbeschwerden sollten fachlich abgeklärt werden.</p>
 
 ## 2. Links
 
@@ -94,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlafklar für Hochsensible: Selbstlernkurs von Mars Kaiser? — Typ: Member area and video courses, Anbieter: marcokaiser8e50, gelistet seit 2026-09-28
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

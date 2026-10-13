@@ -4,16 +4,16 @@ digistore24_product_id: 725967
 title: "Der ruhige Anfang – 14 stoische Schritte"
 vendor: "urkraftmindset"
 product_type: "E-books"
-price: 15.61
+price: 15.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.81
+earnings_per_sale: 7.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://urkraftmindset.ch/der-ruhige-anfang?aff=adminstore#aff=adminstore"
 sales_page: "https://urkraftmindset.ch/der-ruhige-anfang"
@@ -22,16 +22,16 @@ language: "de"
 # Der ruhige Anfang – 14 stoische Schritte
 
 > Product ID `59002` · Digistore24 productId `725967` · [HTML profile page](../../produkte/der-ruhige-anfang-14-stoische-schritte-59002.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.61 (Single payment) |
+| Price | $15.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.81 |
+| Earnings/sale* | $7.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | urkraftmindset |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein praxisnahes digitales Einstiegsangebot für Menschen, die Stoizismus kennenlernen und Schritt für Schritt in ihren Alltag integrieren möchten. „Der ruhige Anfang“ führt in 14 klar aufgebauten Schritten durch zentrale Prinzipien der stoischen Lebensweise – verständlich, alltagstauglich und ohne philosophische Vorkenntnisse. Zwei Produktvarianten für unterschiedliche Bedürfnisse: • „Der ruhige An…
+**Vendor's marketplace description:** <p><strong>Ein praxisnahes digitales Einstiegsangebot für Menschen, die Stoizismus kennenlernen und Schritt für Schritt in ihren Alltag integrieren möchten.</strong></p>
+<p>„Der ruhige Anfang“ führt in 14 klar aufgebauten Schritten durch zentrale Prinzipien der stoischen Lebensweise – verständlich, alltagstauglich und ohne philosophische Vorkenntnisse.</p>
+<p><strong>Zwei Produktvarianten für unterschiedliche Bedürfnisse:</strong></p>
+<p>• <strong>„Der ruhige Anfang“</strong> als kompakte Basisversion mit dem vollständigen 14-Tage-E-Book<br />• <strong>„Der ruhige Anfang – Praxis-Edition“</strong> als umfassende Begleitung mit Praxisjournal, 14 Audioimpulsen, Tageskarten und zusätzlichen Arbeitsmaterialien</p>
+<p>Beide Varianten werden auf derselben professionellen Verkaufsseite angeboten und können von Affiliates beworben werden.</p>
+<p><strong>Das erwartet deine Zielgruppe:</strong></p>
+<p>• verständlicher Einstieg in den modernen Stoizismus<br />• strukturierte 14-Tage-Begleitung<br />• 56 kompakte Lehrmodule<br />• konkrete Übungen und Reflexionsfragen<br />• Grundkompass zur persönlichen Orientierung<br />• professionell gestaltete digitale Inhalte<br />• sofortiger Zugriff nach dem Kauf</p>
+<p><strong>Deine Vorteile als Affiliate:</strong></p>
+<p>• <strong>50 % Affiliate-Provision</strong><br />• zwei Produktvarianten mit unterschiedlichen Preispunkten<br />• attraktives Einstiegsangebot mit niedriger Kaufhürde<br />• klar definierte Zielgruppe im Bereich Persönlichkeitsentwicklung, Mindset und Stoizismus<br />• professionelle Verkaufsseite<br />• fertige Werbemittel und Textvorlagen<br />• geeignet für Blogs, Newsletter, YouTube, Instagram, TikTok und Pinterest</p>
+<p>Besonders interessant für Affiliates mit Zielgruppen aus den Bereichen <strong>Persönlichkeitsentwicklung, Mindset, Resilienz, Selbstführung, Philosophie und Stoizismus</strong>.</p>
+<p><strong>Du erhältst von uns fertige Werbemittel, damit du direkt mit der Bewerbung starten kannst.</strong></p>
 
 ## 2. Links
 
@@ -91,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der ruhige Anfang – 14 stoische Schritte? — Typ: E-books, Anbieter: urkraftmindset, gelistet seit 2026-09-07
-- Wie viel kostet es? — 15.609958 USD
+- Wie viel kostet es? — 15.575133000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

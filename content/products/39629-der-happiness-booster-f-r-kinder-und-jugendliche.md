@@ -4,34 +4,34 @@ digistore24_product_id: 379592
 title: "Der Happiness Booster für Kinder und Jugendliche"
 vendor: "YesOnline"
 product_type: "Member area and video courses"
-price: 86.64
+price: 86.45
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 23.47
+earnings_per_sale: 23.41
 cart_conversion_pct: 24
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-03-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.yes-onlinekurs.ch/lp/happiness-booster/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39629/adminstore/"
 sales_page: "https://www.yes-onlinekurs.ch/lp/happiness-booster/"
 language: "de"
 ---
 # Der Happiness Booster für Kinder und Jugendliche
 
 > Product ID `39629` · Digistore24 productId `379592` · [HTML profile page](../../produkte/der-happiness-booster-f-r-kinder-und-jugendliche-39629.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $86.64 (Single payment) |
+| Price | $86.45 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $23.47 |
+| Earnings/sale* | $23.41 |
 | Cart conversion* | 24% |
 | Cancel rate* | 0% |
 | Vendor | YesOnline |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Happiness Booster ist ein 21-Tage-Audio-Training für Kinder und Jugendliche von 11 - 16 Jahren. Lade dich mit Kraft und Positivität auf, entwickle neue Gewohnheiten und werde dein eigener Glückscoach! Du findest in diesem Kurs: Entspannungstricks, um Stress abzubauen und dich besser zu konzentrieren Kreative Gestaltungsindeen für innere Ruhe, Gelassenheit und erholsamen Schlaf Positive Affirma…
+**Vendor's marketplace description:** <p style="text-align:left;">Der <a title="Happiness Booster" href="https://www.yes-onlinekurs.ch/lp/happiness-booster/" target="_blank" rel="noreferrer noopener"><strong>Happiness Booster</strong></a> ist ein 21-Tage-Audio-Training für Kinder und Jugendliche von 11 - 16 Jahren.</p>
+<p style="text-align:left;">Lade dich mit Kraft und Positivität auf, entwickle neue Gewohnheiten und werde dein eigener <strong>Glückscoach!</strong></p>
+<p>Du findest in diesem Kurs:</p>
+<div>
+<ul>
+<li>Entspannungstricks, um Stress abzubauen und dich besser zu konzentrieren</li>
+<li>Kreative Gestaltungsindeen für innere Ruhe, Gelassenheit und erholsamen Schlaf</li>
+<li>Positive Affirmationen, um deine Ziele zu erreichen</li>
+<li>Notfalltipps, mit denen du dich gleich besser fühlst</li>
+<li>Geleitete Meditationen für mehr Selbstvertrauen</li>
+<li>2 Yoga Specials für Energie und Ausgleich im Schulalltag</li>
+<li>Hilfestellungen, wie du für deine Freundinnen und Freunde in schwierigen Situationen da sein kannst</li>
+<li>Rezepte für einen extra Schub Glück</li>
+</ul>
+<h4 style="text-align:left;"><span style="background-color:#ff0000;color:#ccffff;"><a style="background-color:#ff0000;color:#ccffff;" href="https://www.yes-onlinekurs.ch/lp/support-fur-partnerinnen-1/" target="_blank" rel="noreferrer noopener"><span style="color:#00ffff;">Alle Infos zum Partnerprogramm</span></a></span></h4>
+</div>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.yes-onlinekurs.ch/lp/happiness-booster/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39629/adminstore/
 - Sales page: https://www.yes-onlinekurs.ch/lp/happiness-booster/
 - Vendor affiliate support: https://www.yes-onlinekurs.ch/lp/support-fur-partnerinnen-1/
 - Canonical redirect: https://www.digistore24.com/redir/379592/adminstore
@@ -96,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Happiness Booster für Kinder und Jugendliche? — Typ: Member area and video courses, Anbieter: YesOnline, gelistet seit 2021-03-17
-- Wie viel kostet es? — 86.644792 USD
+- Wie viel kostet es? — 86.451492 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

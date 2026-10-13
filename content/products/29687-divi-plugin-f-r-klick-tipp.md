@@ -4,34 +4,34 @@ digistore24_product_id: 96601
 title: "Divi Plugin für Klick-Tipp"
 vendor: "intellicon"
 product_type: "Downloads"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.2
+earnings_per_sale: 37.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2016-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.klicksuite.de/bestellung/?product=96601&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/29687/adminstore/"
 sales_page: "https://www.klicksuite.de/bestellung/?product=96601"
 language: "de"
 ---
 # Divi Plugin für Klick-Tipp
 
 > Product ID `29687` · Digistore24 productId `96601` · [HTML profile page](../../produkte/divi-plugin-f-r-klick-tipp-29687.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.40 (Subscription) |
+| Price | $74.23 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.20 |
+| Earnings/sale* | $37.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | intellicon |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Unser WordPress Klick-Tipp Plugin für das wunderschöne Divi Theme von elegantthemes.com ermöglicht es, mit wenigen Klicks ein E-Mail Opt-In Formular in eine mit dem Divi Theme / dem Divi Builder gestaltete Seite einzubinden. Dabei wird ganz einfach der RAW Code eines Klick-Tipp-Optin-Formulares in das Seitenelement kopiert und schon ist ein in das Design integriertes Opt-In Formular fertig.
+**Vendor's marketplace description:** <p>Unser <strong>WordPress Klick-Tipp Plugin für das wunderschöne Divi Theme von <a>elegantthemes.com</a></strong> ermöglicht es, mit wenigen Klicks ein E-Mail Opt-In Formular in eine mit dem Divi Theme / dem Divi Builder gestaltete Seite einzubinden. Dabei wird ganz einfach der RAW Code eines Klick-Tipp-Optin-Formulares in das Seitenelement kopiert und schon ist ein in das Design integriertes Opt-In Formular fertig.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.klicksuite.de/bestellung/?product=96601&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/29687/adminstore/
 - Sales page: https://www.klicksuite.de/bestellung/?product=96601
 - Vendor affiliate support: https://www.klick-tipp-tools.de/partner/
 - Canonical redirect: https://www.digistore24.com/redir/96601/adminstore
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Divi Plugin für Klick-Tipp? — Typ: Downloads, Anbieter: intellicon, gelistet seit 2016-09-23
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 425571
 title: "„Die Heilung des Schoßraumes, der Sexualorgane und der...“"
 vendor: "phoenix999"
 product_type: "Downloads"
-price: 465.51
+price: 464.47
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 73.51
+earnings_per_sale: 73.35
 cart_conversion_pct: 23
 cancel_rate_pct: 2.86
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-01-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://andreas-goldemann.mykajabi.com/schossraum-e?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-goldemann.mykajabi.com/schossraum-e"
@@ -22,16 +22,16 @@ language: "de"
 # „Die Heilung des Schoßraumes, der Sexualorgane und der...“
 
 > Product ID `39686` · Digistore24 productId `425571` · [HTML profile page](../../produkte/die-heilung-des-scho-raumes-der-sexualorgane-und-der-39686.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $465.51 (Single payment, Installment) |
+| Price | $464.47 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $73.51 |
+| Earnings/sale* | $73.35 |
 | Cart conversion* | 23% |
 | Cancel rate* | 2.86% |
 | Vendor | phoenix999 |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sexualität und alles, was damit zusammenhängt, ist für die allermeisten das wichtigste Thema im Leben. Denn negative Erlebnisse, Emotionen und limitierende Muster hinterlassen tiefe Spuren und Prägungen, die Dich oft sehr lange begleiten und beeinflussen. Manchmal ein Leben lang. Doch mit seinem Online-Kurs „Die Heilung des Schoßraumes, der Sexualorgane und der Sexualität“ bringt Andreas Goldemann…
+**Vendor's marketplace description:** <p>Sexualität und alles, was damit zusammenhängt, ist für die allermeisten das wichtigste Thema im Leben. Denn negative Erlebnisse, Emotionen und limitierende Muster hinterlassen tiefe Spuren und Prägungen, die Dich oft sehr lange begleiten und beeinflussen. Manchmal ein Leben lang.</p>
+<p>Doch mit seinem Online-Kurs „Die Heilung des Schoßraumes, der Sexualorgane und der Sexualität“ bringt Andreas Goldemann jetzt <strong>Klarheit, Entspannung und Befreiung</strong> in die persönlichen Themen rund um Sexualität.</p>
+<p>Das Ganze geschieht durch Goldemanns einmalige, intuitive Arbeit, bei der Du nur präsent im Körper und offen für Veränderung sein brauchst, damit es wirkt.</p>
+<p>Der Online-Kurs beinhaltet <strong>über 50 Sessions</strong> mit wertvollen Themen für beide Geschlechter. Die ersten 2 Sessions bekommen Deine Kontakte in unserem Funnel geschenkt.</p>
+<p>Was erwartet Dich? </p>
+<ul>
+<li><strong>33 % Provision</strong>: Bei dem derzeitigen Verkaufspreis von 497 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer <strong>130,25 € (Netto) für Dich</strong>, pro erfolgreicher Vermittlung!</li>
+<li><strong>20 % Lifetime-Provision</strong> für Folgeprodukte, die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft.</li>
+<li><strong>Optimierter Funnel </strong> mit Freebie, Verknappung und toller Conversion.</li>
+</ul>
+<p>Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen.</p>
+<p><strong>Werde jetzt unser Partner</strong> und empfiehl Deinen Kontakten unseren Onlinekurs „Die Heilung des Schoßraumes, der Sexualorgane und der Sexualität“, damit auch sie wieder <strong>freier und entspannter in ihrer Sexualität</strong> sein können.</p>
 
 ## 2. Links
 
@@ -95,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Die Heilung des Schoßraumes, der Sexualorgane und der...“? — Typ: Downloads, Anbieter: phoenix999, gelistet seit 2022-01-19
-- Wie viel kostet es? — 465.50844600000005 USD
+- Wie viel kostet es? — 464.46992100000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

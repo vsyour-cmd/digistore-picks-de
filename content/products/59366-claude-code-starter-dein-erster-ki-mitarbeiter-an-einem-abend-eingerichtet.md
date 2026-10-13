@@ -4,16 +4,16 @@ digistore24_product_id: 729885
 title: "Claude Code Starter: Dein erster KI-Mitarbeiter, an einem Abend eingerichtet"
 vendor: "Mawarth"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.07
+earnings_per_sale: 23.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://mr-online-marketing.de/claude-starter?aff=adminstore#aff=adminstore"
 sales_page: "https://mr-online-marketing.de/claude-starter"
@@ -22,16 +22,16 @@ language: "de"
 # Claude Code Starter: Dein erster KI-Mitarbeiter, an einem Abend eingerichtet
 
 > Product ID `59366` · Digistore24 productId `729885` · [HTML profile page](../../produkte/claude-code-starter-dein-erster-ki-mitarbeiter-an-einem-abend-eingerichtet-59366.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.07 |
+| Earnings/sale* | $23.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mawarth |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Claude Code Starter ist das Einsteigertraining fuer Selbststaendige und Unternehmer, die Claude bisher nur zum Chatten benutzen. In der normalen Desktop App, ohne Programmieren und ohne Terminal: Zugriff auf Dateien, Postfach und Kalender einrichten, dann fuenf Aufgaben abgeben, die in jedem Unternehmen jede Woche anfallen. Vier Kurse mit 25 Lektionen und 85 Minuten Video, Zugang sofort nach dem K…
+**Vendor's marketplace description:** Claude Code Starter ist das Einsteigertraining fuer Selbststaendige und Unternehmer, die Claude bisher nur zum Chatten benutzen. In der normalen Desktop App, ohne Programmieren und ohne Terminal: Zugriff auf Dateien, Postfach und Kalender einrichten, dann fuenf Aufgaben abgeben, die in jedem Unternehmen jede Woche anfallen. Vier Kurse mit 25 Lektionen und 85 Minuten Video, Zugang sofort nach dem Kauf, 60 Tage Geld-zurueck-Garantie. Fuer Partner: 50 Prozent auf alle drei Trainings (49, 97 und 297 Euro) und 20 Prozent auf den Coachingplatz der Pioniergruppe (1.950 Euro netto, also 390 Euro). Ein Kunde, der den ganzen Kaufweg geht, bringt rund 576 Euro. Partneranfragen werden automatisch angenommen, die Freischaltung gilt fuer die ganze Strecke. Fertige Werbemittel und Textvorlagen liegen unter mr-online-marketing.de/claude-starter/partner bereit. Zielgruppe: Selbststaendige, Coaches, Berater, Agenturen und kleine Unternehmen, die KI im Alltag einsetzen wollen und keine Entwickler sind.
 
 ## 2. Links
 
@@ -96,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Claude Code Starter: Dein erster KI-Mitarbeiter, an einem Abend eingerichtet? — Typ: Member area and video courses, Anbieter: Mawarth, gelistet seit 2026-09-19
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

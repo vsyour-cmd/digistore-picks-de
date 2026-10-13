@@ -4,34 +4,34 @@ digistore24_product_id: 702652
 title: "Gesundheit beginnt im Kopf - §20 Präventionskurs"
 vendor: "glueckwaerts"
 product_type: "Member area and video courses"
-price: 140.31
+price: 140
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.12
+earnings_per_sale: 55.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.glueckwaerts.com/os-ds?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59557/adminstore/"
 sales_page: "https://www.glueckwaerts.com/os-ds"
 language: "de"
 ---
 # Gesundheit beginnt im Kopf - §20 Präventionskurs
 
 > Product ID `59557` · Digistore24 productId `702652` · [HTML profile page](../../produkte/gesundheit-beginnt-im-kopf-20-pr-ventionskurs-59557.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.31 (Single payment) |
+| Price | $140.00 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.12 |
+| Earnings/sale* | $55.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | glueckwaerts |
@@ -41,11 +41,41 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle unseren zertifizierten Gesundheitskurs Mit unserem Onlinekurs „Gesundheit beginnt im Kopf“ hilfst du Menschen mit hoher Stressbelastung ihre Gesundheit an der Wurzel zu stärken – und erhältst für jede erfolgreiche Buchung eine attraktive Provision. ​Deine Vorteile: Attraktive Provision: 40 % pro Verkauf Hohe Qualität: Zertifizierter §20 Präventionskurs Hohe Kaufbereitschaft: Die Krankenka…
+**Vendor's marketplace description:** <h2>Empfehle unseren zertifizierten Gesundheitskurs</h2>
+<p>Mit unserem Onlinekurs „Gesundheit beginnt im Kopf“ hilfst du Menschen mit hoher Stressbelastung ihre Gesundheit an der Wurzel zu stärken – und erhältst für jede erfolgreiche Buchung eine attraktive Provision.</p>
+<p>​Deine Vorteile:</p>
+<ul>
+<li>
+<p>Attraktive Provision: 40 % pro Verkauf</p>
+</li>
+<li>
+<p>Hohe Qualität: Zertifizierter §20 Präventionskurs</p>
+</li>
+<li>
+<p>Hohe Kaufbereitschaft: Die Krankenkassen erstatten 80-100% der Kursgebühr</p>
+</li>
+<li>
+<p>Fertige Werbemittel: erhalte fertige Texte, Bilder und Videos</p>
+</li>
+</ul>
+<p> </p>
+<div>
+<h3>Über unseren Onlinekurs</h3>
+</div>
+<div>
+<p>​✔️ 8 aufeinander aufgebaute Wochenmodule: Sie leiten dich Schritt für Schritt durch den Prozess – leicht verständlich und gut machbar.</p>
+<p>✔️ Inspirierende Lehrvideos</p>
+<p>✔️ Natur - Audioanleitungen zum Download</p>
+<p>✔️ Arbeitsbuch zur Reflexion inkl. Erfolgstagebuch: Halte deine Fortschritte fest, erkenne Muster – und bleibe motiviert.</p>
+<p>✔️ 100 % Kostenerstattung: Deine Krankenkasse übernimmt den Großteil</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=4eabIuW2ZzU" target="_blank" rel="noreferrer noopener">Infovideo zum Kurs</a></li>
+</ul>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.glueckwaerts.com/os-ds?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59557/adminstore/
 - Sales page: https://www.glueckwaerts.com/os-ds
 - Vendor affiliate support: https://www.glueckwaerts.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/702652/adminstore
@@ -101,7 +131,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gesundheit beginnt im Kopf - §20 Präventionskurs? — Typ: Member area and video courses, Anbieter: glueckwaerts, gelistet seit 2026-09-22
-- Wie viel kostet es? — 140.310326 USD
+- Wie viel kostet es? — 139.997301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

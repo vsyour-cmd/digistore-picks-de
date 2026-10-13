@@ -4,16 +4,16 @@ digistore24_product_id: 13203
 title: "Handbuch des Heilmagnetismus"
 vendor: "Elisabeth"
 product_type: "E-books"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.04
+earnings_per_sale: 13.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2013-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.heilmagnetismus-info.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.heilmagnetismus-info.de"
@@ -22,16 +22,16 @@ language: "de"
 # Handbuch des Heilmagnetismus
 
 > Product ID `1597` · Digistore24 productId `13203` · [HTML profile page](../../produkte/handbuch-des-heilmagnetismus-1597.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.04 |
+| Earnings/sale* | $13.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Elisabeth |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Handbuch des Heilmagnetismus - als PDF-Datei / eBookvon Heinz Schiegl Das "Handbuch des Heilmagnetismus" von Heinz Schiegl wurde von dem ehemaligen Bauer-Verlag vertrieben. Bei Amazon ist es noch gelistet aber nicht mehr erhältlich. Das Handbuch wurde überarbeitet und ohne Werbung als Ebook über Digistore24 seit einigen Jahren verkauft. Es gab keine Stornos.
+**Vendor's marketplace description:** <div class="title" style="line-height:24px;font-weight:bold;font-family:arial, helvetica;font-size:14px;background-color:#f3f4f5;">Handbuch des Heilmagnetismus - als PDF-Datei / eBook<br /><span style="font-size:x-small;line-height:17px;">von Heinz Schiegl</span></div>
+<div class="description" style="font-size:13px;font-family:arial, helvetica;line-height:17px;background-color:#f3f4f5;">
+<p> </p>
+<p>Das "Handbuch des Heilmagnetismus" von Heinz Schiegl wurde von dem ehemaligen Bauer-Verlag vertrieben. Bei Amazon ist es noch gelistet aber nicht mehr erhältlich.</p>
+<p>Das Handbuch wurde überarbeitet und ohne Werbung als Ebook über Digistore24 seit einigen Jahren verkauft. Es gab keine Stornos.</p>
+<p> </p>
+</div>
 
 ## 2. Links
 
@@ -79,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Handbuch des Heilmagnetismus? — Typ: E-books, Anbieter: Elisabeth, gelistet seit 2013-06-23
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

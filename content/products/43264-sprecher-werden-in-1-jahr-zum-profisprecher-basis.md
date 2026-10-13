@@ -4,16 +4,16 @@ digistore24_product_id: 490823
 title: "Sprecher werden - In 1 Jahr zum Profisprecher - Basis"
 vendor: "isidde"
 product_type: "Online coaching"
-price: 632.02
+price: 630.61
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 126.4
+earnings_per_sale: 126.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2023-03-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.isid.de/sprecher-ausbildung-sprecher-werden-in-1-jahr-zum-profisprecher/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isid.de/sprecher-ausbildung-sprecher-werden-in-1-jahr-zum-profisprecher/"
@@ -22,16 +22,16 @@ language: "de"
 # Sprecher werden - In 1 Jahr zum Profisprecher - Basis
 
 > Product ID `43264` · Digistore24 productId `490823` · [HTML profile page](../../produkte/sprecher-werden-in-1-jahr-zum-profisprecher-basis-43264.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $632.02 (Single payment, Installment) |
+| Price | $630.61 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $126.40 |
+| Earnings/sale* | $126.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Deine fundierte Komplett-Ausbildung zum Profisprecher Matthias Ernst Holzmann ist professioneller Werbesprecher und Hörbuchsprecher mit über 120 Hörbüchern auf Audible. Er begleitet Dich persönlich und individuell 1 Jahr lang auf Deinem Weg zum professionellen Sprecher oder zur professionellen Sprecherin. Du erhältst umfangreiches Arbeitsmaterial und Anleitungen und kannst Dich regelmäßig mit ihm …
+**Vendor's marketplace description:** <p><strong>Deine fundierte Komplett-Ausbildung zum Profisprecher </strong></p>
+<p>Matthias Ernst Holzmann ist professioneller Werbesprecher und Hörbuchsprecher mit über 120 Hörbüchern auf Audible. Er begleitet Dich persönlich und individuell 1 Jahr lang auf Deinem Weg zum professionellen Sprecher oder zur professionellen Sprecherin. Du erhältst umfangreiches Arbeitsmaterial und Anleitungen und kannst Dich regelmäßig mit ihm persönlich austauschen. Matthias Ernst Holzmann überwacht Deine Fortschritte persönlich. Mit den erworbenen Fähigkeiten kannst Du Synchronsprecher werden, Werbesprecher werden oder Hörbuchsprecher werden.</p>
+<p><strong>BASIS-VERSION</strong></p>
+<p><strong>Beachten Sie weitere Versionen dieses Kurses!</strong></p>
 
 ## 2. Links
 
@@ -84,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sprecher werden - In 1 Jahr zum Profisprecher - Basis? — Typ: Online coaching, Anbieter: isidde, gelistet seit 2023-03-24
-- Wie viel kostet es? — 632.0184 USD
+- Wie viel kostet es? — 630.6084000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 308228
 title: "Liebeskummer Extrem! | Onlinekurs"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 338.06
+price: 337.31
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 118.32
+earnings_per_sale: 118.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2020-02-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://katja-amberg-shop.de/liebeskummerextrem?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40071/adminstore/"
 sales_page: "http://katja-amberg-shop.de/liebeskummerextrem"
 language: "de"
 ---
 # Liebeskummer Extrem! | Onlinekurs
 
 > Product ID `40071` · Digistore24 productId `308228` · [HTML profile page](../../produkte/liebeskummer-extrem-onlinekurs-40071.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $338.06 (Single payment, Installment) |
+| Price | $337.31 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $118.32 |
+| Earnings/sale* | $118.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mariposa75 |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** KATJA AMBERG | Liebeskummer EXTREM | ONLINEKURS Video-/ Audiokurs LIEBESKUMMER EXTREM (ONLINEKURS incl. Download von 23 Audiodateien) DER ONLINEKURS Diese Anwendung ist komplett online nutzbar. Zusätzlich sind sämtliche Audiodateien nicht nur online abrufbar sondern auch mit einem Download-Link versehen. Somit sind die Nutzungsmöglichkeiten für Sie erweitert.Sie können die Dateien z.B. auf Ihr Mob…
+**Vendor's marketplace description:** <h3><span style="color:#ff00ff;">KATJA AMBERG | Liebeskummer EXTREM | ONLINEKURS</span></h3>
+<div>
+<div>Video-/ Audiokurs  </div>
+<div>LIEBESKUMMER EXTREM</div>
+<div>(ONLINEKURS incl. Download von 23 Audiodateien)</div>
+<div> </div>
+<div>
+<p>DER ONLINEKURS  </p>
+<p>Diese Anwendung ist komplett online nutzbar. Zusätzlich sind sämtliche Audiodateien nicht nur online abrufbar sondern auch mit einem Download-Link versehen. Somit sind die Nutzungsmöglichkeiten für Sie erweitert.Sie können die Dateien z.B. auf Ihr Mobiltelefon laden und über dieses Gerät - sofern der Flugmodus eingeschlaten ist oder das Gerät auf stumm geschalten ist, die Anwendung ungestört nutzen.  </p>
+<p><strong>Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von <a>www.katja-amberg-coaching.de</a> über gesonderten login. Die login-Daten werden nach Kaufabschluß per Mail übermittelt. </strong></p>
+<p>Katja Amberg (Hypnosetherapeutin, Mentalchoach, Heilpraktikerin b.a.d.Gebiet d. Psychotherapie)</p>
+<p>Dieser Kurs ist Dein MUST HAVE für Lebensglück und die Grundvoraussetzung für glückliche Beziehungen.</p>
+<p>Du leidest unter extremen Liebeskummer? Du willst Dich endlich wieder besser fühlen und den EX - Partner vergessen? Nimmt dieser Liebeskummer absolut kein Ende, egal was Du tust, egal wieviel Zeit verstreicht? Warst Du in einer On/Off Beziehung, einer toxischen Beziehung mit einem Narzissten oder einem Menschen mit starker Bindungsangst? Du hast Liebeskummer OBWOHL Du Dich noch in der Beziehung befindest? Hast Du also Liebeskummer IN der Beziehung?</p>
+<p>Quält Dich Tag und Nacht nur noch die Frage: „WARUM?“.</p>
+<p>In diesem Kurs befreist Du Dich nicht nur von Deinem unendlichen Schmerz, sondern Du bekommst die BASIS für Glück, Liebe und zukünftige erfüllende Beziehungen. Dieser Schritt-für-Schritt-Kurs hilft Dir, Dich ganz gezielt aus dem Leid zu holen. Du wirst Dich sofort schnell besser fühlen, vor allem, wenn Du die vielen Zusammenhänge endlich vestehst, warum Du überhaupt so EXTREM leidest. Es stehen Dir 4 Werkzeuge zu Verfügung mit denen Du ganz gezielt mit meiner Anleitung die Trauer, Sehnsucht und Einsamkeit lösen kannst und mit denen Du ganz nebenbei noch viele negative Glaubenssätze wegputzen kannst. Auf Deinem Weg helfen Dir 4 Werkzeuge zum Schmerz lösen und zu Deiner Transformation, welche ich Dir in 23 Audios und 5 Videos an die Hand gebe und sie Dir darin erkläre. Ein von mir liebevoll zusammengestelltes, sehr umfangreiches 59-Seitiges Begleitmaterial gebe ich Dir als Leitfaden dazu.</p>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://katja-amberg-shop.de/liebeskummerextrem?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40071/adminstore/
 - Sales page: http://katja-amberg-shop.de/liebeskummerextrem
 - Canonical redirect: https://www.digistore24.com/redir/308228/adminstore
 
@@ -86,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Liebeskummer Extrem! | Onlinekurs? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-02-14
-- Wie viel kostet es? — 338.062608 USD
+- Wie viel kostet es? — 337.30840800000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

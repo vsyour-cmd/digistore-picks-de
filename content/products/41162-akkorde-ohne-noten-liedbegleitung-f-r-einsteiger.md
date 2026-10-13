@@ -4,16 +4,16 @@ digistore24_product_id: 349935
 title: "Akkorde ohne Noten - Liedbegleitung für Einsteiger"
 vendor: "Guitarschool"
 product_type: "Member area and video courses"
-price: 85.32
+price: 85.13
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.92
+earnings_per_sale: 22.87
 cart_conversion_pct: 19
 cancel_rate_pct: 7.13
 categories: ["Education","Hobby & Craft"]
 listed_since: "2020-09-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.guitarschool.at/akkorde-lernen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.guitarschool.at/akkorde-lernen/"
@@ -22,16 +22,16 @@ language: "de"
 # Akkorde ohne Noten - Liedbegleitung für Einsteiger
 
 > Product ID `41162` · Digistore24 productId `349935` · [HTML profile page](../../produkte/akkorde-ohne-noten-liedbegleitung-f-r-einsteiger-41162.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $85.32 (Single payment) |
+| Price | $85.13 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.92 |
+| Earnings/sale* | $22.87 |
 | Cart conversion* | 19% |
 | Cancel rate* | 7.13% |
 | Vendor | Guitarschool |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Attraktiver Kurs mit professioneller Landingpage. Gute Verdienstmöglichkeit durch Crossselling mehrerer Kurse auf www.guitarschool.at Wenn du Fragen hast, melde dich einfach bei mir. "Gitarrengriffe ganz einfach online lernen! Kurs Beschreibung Die beliebtesten Schlagmuster und Zupfmuster spielen lernen?Deinen Lieblingssong aus dem Internet selbstständig erarbeiten?Du weißt nicht wo du starten sol…
+**Vendor's marketplace description:** <p>Attraktiver Kurs mit<strong> professioneller Landingpage.</strong></p>
+<p><strong>Gute Verdienstmöglichkeit durch Crossselling mehrerer Kurse auf <a href="http://www.guitarschool.at">www.guitarschool.at</a></strong></p>
+<p><strong>Wenn du Fragen hast, melde dich einfach bei mir.</strong></p>
+<div>
+<div>
+<h2><strong>"Gitarrengriffe ganz einfach online lernen!</strong></h2>
+<p><strong>Kurs Beschreibung</strong></p>
+<p>Die beliebtesten <strong>Schlagmuster und Zupfmuster</strong> spielen lernen?<br /><strong>Deinen Lieblingssong</strong> aus dem Internet selbstständig erarbeiten?<br />Du weißt nicht <strong>wo </strong>du<strong> starten </strong>sollst?<br />Deine <strong>Akkorde</strong> klingen <strong>unsauber</strong>?<br />Du willst <strong>schnelle Fortschritte</strong> an der Gitarre machen?</p>
+<p><strong>Dann ist dieser Kurs genau der Richtige für DICH!"</strong></p>
+</div>
+</div>
 
 ## 2. Links
 
@@ -95,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Akkorde ohne Noten - Liedbegleitung für Einsteiger? — Typ: Member area and video courses, Anbieter: Guitarschool, gelistet seit 2020-09-28
-- Wie viel kostet es? — 85.322484 USD
+- Wie viel kostet es? — 85.13213400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

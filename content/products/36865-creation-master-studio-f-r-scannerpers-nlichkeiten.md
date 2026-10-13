@@ -4,34 +4,34 @@ digistore24_product_id: 382195
 title: "Creation Master Studio - für Scannerpersönlichkeiten"
 vendor: "HolgerMarkgraf"
 product_type: "Member area and video courses"
-price: 276.79
+price: 276.17
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 110.72
+earnings_per_sale: 110.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Project Management"]
 listed_since: "2021-04-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.tausendsassaonlineschule.com/creation-studio?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/36865/adminstore/"
 sales_page: "https://www.tausendsassaonlineschule.com/creation-studio"
 language: "de"
 ---
 # Creation Master Studio - für Scannerpersönlichkeiten
 
 > Product ID `36865` · Digistore24 productId `382195` · [HTML profile page](../../produkte/creation-master-studio-f-r-scannerpers-nlichkeiten-36865.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $276.79 (Single payment, Installment) |
+| Price | $276.17 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $110.72 |
+| Earnings/sale* | $110.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HolgerMarkgraf |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das bekommst du im Creation Master Studio: - Einen 8-teiligen Videokurs über Klarheit und Fokus über deine Projekte für vielbegabte Scannerpersönlichkeiten.Der Kurs ist so konzipiert, dass die Inhalte konkret auf den Punkt gebracht werden, sodass du keine Zeit mit sinnlosem Geplänkel verschwendest. Inhalte: 1. Einführung2. Deine Vision, dein Warum3. Dein Commitment4. Idealisierung, Visualisierung5…
+**Vendor's marketplace description:** <p>Das bekommst du im Creation Master Studio:</p>
+<p>- Einen 8-teiligen Videokurs über Klarheit und Fokus über deine Projekte für vielbegabte Scannerpersönlichkeiten.<br />Der Kurs ist so konzipiert, dass die Inhalte konkret auf den Punkt gebracht werden, sodass du keine Zeit mit sinnlosem Geplänkel verschwendest.</p>
+<p>Inhalte:</p>
+<p>1. Einführung<br />2. Deine Vision, dein Warum<br />3. Dein Commitment<br />4. Idealisierung, Visualisierung<br />5. Flow-Chart<br />6. Zeit<br />7. Iss den Frosch<br />8. Routinen, Rituale</p>
+<p>- Eine exklusive 3-monatige Mitgliedschaft in einem Erfolgteam.<br />Durch die Mitgliedschaft erhältst du die Unterstützung der anderen Mitglieder und erfährst dadurch neuen Mut, Durchhaltervermögen, neue Impulse, gemeinsame Erfahrungen, den gemeinsam kreiert es sich leichter und schneller.</p>
+<p>ein intensives Erfolgsteam-Treffen pro Woche in einem kleinen und persönlichen Team, das dich in allen Bereichen unterstützt und dir neue Impulse und eine andere Perspektive auf dein Projekt ermöglicht.</p>
+<p>Die Teams finden durch eine individuelle Betreuung in kleinen Gruppe (max. 4 Personen) statt.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tausendsassaonlineschule.com/creation-studio?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36865/adminstore/
 - Sales page: https://www.tausendsassaonlineschule.com/creation-studio
 - Canonical redirect: https://www.digistore24.com/redir/382195/adminstore
 
@@ -107,7 +114,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Creation Master Studio - für Scannerpersönlichkeiten? — Typ: Member area and video courses, Anbieter: HolgerMarkgraf, gelistet seit 2021-04-01
-- Wie viel kostet es? — 276.7882 USD
+- Wie viel kostet es? — 276.1707 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

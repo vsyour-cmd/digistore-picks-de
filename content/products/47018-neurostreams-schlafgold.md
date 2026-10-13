@@ -4,16 +4,16 @@ digistore24_product_id: 24605
 title: "Neurostreams™ Schlafgold"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 5.98
+price: 5.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.58
+earnings_per_sale: 6.56
 cart_conversion_pct: 21
 cancel_rate_pct: 1.76
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2014-04-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.neurostreams.de/portfolio/schlafhilfe/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.neurostreams.de/portfolio/schlafhilfe/"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ Schlafgold
 
 > Product ID `47018` · Digistore24 productId `24605` · [HTML profile page](../../produkte/neurostreams-schlafgold-47018.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $5.98 (Single payment) |
+| Price | $5.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.58 |
+| Earnings/sale* | $6.56 |
 | Cart conversion* | 21% |
 | Cancel rate* | 1.76% |
 | Vendor | newdimension |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 7 Neurostreams zum effektiven Einschlafen als Sofort-Download (MP3). 3 mal „Schlafunterstützung“ (je 60 min.) 2 mal „Einschlaf-Erzwingung“ (kurze und lange Version) 1 mal „Nachtschlaftraining“ (30 min) Bonus: „Der Rest ist Schweigen“ (30 min) Sofort-Download. Stereo-Kopfhörer empfohlen! Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werde…
+**Vendor's marketplace description:** <p>7 Neurostreams zum effektiven Einschlafen als Sofort-Download (MP3).</p>
+<ul>
+<li>3 mal „Schlafunterstützung“ (je 60 min.)</li>
+<li>2 mal „Einschlaf-Erzwingung“ (kurze und lange Version)</li>
+<li>1 mal „Nachtschlaftraining“ (30 min)</li>
+<li>Bonus: „Der Rest ist Schweigen“ (30 min)</li>
+</ul>
+<p><strong>Sofort-Download.</strong></p>
+<p>Stereo-Kopfhörer empfohlen!</p>
+<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
+<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
+<p>Dateigröße: ca. 300 MB</p>
+<p><strong>2 Jahre </strong>Produktsupport inklusive.</p>
 
 ## 2. Links
 
@@ -81,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Schlafgold? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2014-04-24
-- Wie viel kostet es? — 5.984004 USD
+- Wie viel kostet es? — 5.970654000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

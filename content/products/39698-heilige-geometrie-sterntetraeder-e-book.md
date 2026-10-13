@@ -4,16 +4,16 @@ digistore24_product_id: 278496
 title: "Heilige Geometrie - Sterntetraeder - E-Book"
 vendor: "AndreasBeutel"
 product_type: "Downloads"
-price: 14.13
+price: 14.1
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 5.65
+earnings_per_sale: 5.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2019-07-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://andreas-beutel.tv/den-sterntetraeder-bauen-und-selber-entdecken/?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-beutel.tv/den-sterntetraeder-bauen-und-selber-entdecken/"
@@ -22,16 +22,16 @@ language: "de"
 # Heilige Geometrie - Sterntetraeder - E-Book
 
 > Product ID `39698` · Digistore24 productId `278496` · [HTML profile page](../../produkte/heilige-geometrie-sterntetraeder-e-book-39698.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.13 (Single payment) |
+| Price | $14.10 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $5.65 |
+| Earnings/sale* | $5.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasBeutel |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Von Andreas Beutel E-Book „Den Sterntetraeder bauen und selber entdecken“ Entdecke die faszinierende Grundform der Mer-Ka-Ba! Was Du mit diesem E-Book erhältst: 18 seitiges E-Book inkl. Bauplan für Deinen Sterntetraeder 15 min Video FullHD mit vier Kameraperspektiven, in dem ich Dir zeige, wie ich geometrische Modelle zusammenklebe Materialliste die Du zum Basteln benötigst Einführung in die gehei…
+**Vendor's marketplace description:** <div style="text-align:left;">
+<div align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Von Andreas Beutel</span></strong></div>
+<div align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">E-Book „Den Sterntetraeder bauen und selber entdecken“</span></strong></div>
+</div>
+<p align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Entdecke die faszinierende Grundform der Mer-Ka-Ba!</span></strong></p>
+<h2 style="line-height:1.38;text-align:center;">Was Du mit diesem E-Book erhältst:</h2>
+<ul>
+<li>18 seitiges E-Book</li>
+<li>inkl. Bauplan für Deinen Sterntetraeder</li>
+<li>15 min Video FullHD mit vier Kameraperspektiven, in dem ich Dir zeige, wie ich geometrische Modelle zusammenklebe</li>
+<li>Materialliste die Du zum Basteln benötigst</li>
+<li>Einführung in die geheime Sprache der Geometrie</li>
+</ul>
 
 ## 2. Links
 
@@ -74,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilige Geometrie - Sterntetraeder - E-Book? — Typ: Downloads, Anbieter: AndreasBeutel, gelistet seit 2019-07-08
-- Wie viel kostet es? — 14.130766 USD
+- Wie viel kostet es? — 14.099241000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

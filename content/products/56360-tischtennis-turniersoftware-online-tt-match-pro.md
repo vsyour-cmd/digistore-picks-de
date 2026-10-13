@@ -4,16 +4,16 @@ digistore24_product_id: 686195
 title: "Tischtennis-Turniersoftware (online) | TT-Match PRO"
 vendor: "linguatools"
 product_type: "Software"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.62
+earnings_per_sale: 46.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Sport"]
 listed_since: "2026-04-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://tt-match.net/de/sites/dg24_turnier-software?aff=adminstore#aff=adminstore"
 sales_page: "https://tt-match.net/de/sites/dg24_turnier-software"
@@ -22,16 +22,16 @@ language: "de"
 # Tischtennis-Turniersoftware (online) | TT-Match PRO
 
 > Product ID `56360` · Digistore24 productId `686195` · [HTML profile page](../../produkte/tischtennis-turniersoftware-online-tt-match-pro-56360.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.62 |
+| Earnings/sale* | $46.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | linguatools |
@@ -41,7 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle die Tischtennis-Turniersoftware TT-Match PROFür jeden verkauften Zugang erhältst du eine Provision in Höhe von 50% Empfehlen kannst du die Software z.B. an:- Deine Community, wie Follower, Newsletter-Abonnenten- Verbände- Vereine- Trainingszentren- Turnierleiter- Tischtennis-Camps- Trainer- Sport-Zentren--------------------- Beim Kauf von TT-Match PRO erhält der Kunde: ✓ 24/7-Online-Zugan…
+**Vendor's marketplace description:** <pre style="text-align:center;"><br /><strong>Empfehle die Tischtennis-Turniersoftware</strong></pre>
+<pre style="text-align:center;"><strong><br />TT-Match PRO<br /><br /></strong><span style="background-color:#ffff99;">Für jeden verkauften Zugang erhältst du<br /> eine Provision in Höhe von 50%</span></pre>
+<p style="text-align:left;"><br /><br />Empfehlen kannst du die Software z.B. an:<br /><br />- Deine Community, wie<br />  Follower, Newsletter-Abonnenten<br />- Verbände<br />- Vereine<br />- Trainingszentren<br />- Turnierleiter<br />- Tischtennis-Camps<br />- Trainer<br />- Sport-Zentren<br /><br />---------------------<br /><br /></p>
+<p>Beim Kauf von TT-Match PRO erhält der Kunde:<br /><br /></p>
+<p>✓ 24/7-Online-Zugang zu tt-match.net für 1 Jahr<br />✓ Unbegrenzte Turnieranzahl<br />✓ Diverse gefragte Turnierformate<br />✓ Mitglieder-Verwaltung<br />✓ Updates inklusive<br />✓ Priorisierter Support<br /><br /></p>
+<p>Turnierformate:</p>
+<ul>
+<li>Gruppensystem + KO/Doppel-KO</li>
+<li>KO/Doppel-KO</li>
+<li>Schweizer System<br /><br /></li>
+</ul>
+<p>Spieleranzahl:</p>
+<ul>
+<li>KO: bis 32 Spieler</li>
+<li>Doppel-KO: bis 16 Spieler</li>
+<li>Gruppensystem bis zu 64 Spieler</li>
+<li>Schweizer System: bis zu 64 Spieler<br /><br /></li>
+</ul>
+<p>Der Kunde zahlt nur einmal - kein Abo<br />Der Kunde kann TT-Match PRO optional um 1 Jahr für 49 € verlängern.<br /><br /></p>
+<h1> </h1>
+<p> </p>
+<h1> </h1>
+<p> </p>
 
 ## 2. Links
 
@@ -91,7 +113,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tischtennis-Turniersoftware (online) | TT-Match PRO? — Typ: Software, Anbieter: linguatools, gelistet seit 2026-04-20
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

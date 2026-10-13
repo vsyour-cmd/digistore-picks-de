@@ -4,34 +4,34 @@ digistore24_product_id: 734107
 title: "50 Rezepte - antientzündlich und hormonfreundlich"
 vendor: "natuerlich-hormonisch"
 product_type: "E-books"
-price: 20.93
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.47
+earnings_per_sale: 10.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://www.natuerlich-hormonisch.de/digitales-rezeptbuch-digistore?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59613/adminstore/"
 sales_page: "https://www.natuerlich-hormonisch.de/digitales-rezeptbuch-digistore"
 language: "de"
 ---
 # 50 Rezepte - antientzündlich und hormonfreundlich
 
 > Product ID `59613` · Digistore24 productId `734107` · [HTML profile page](../../produkte/50-rezepte-antientz-ndlich-und-hormonfreundlich-59613.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.93 (Single payment) |
+| Price | $20.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.47 |
+| Earnings/sale* | $10.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | natuerlich-hormonisch |
@@ -41,11 +41,37 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 50 antientzündliche & hormonfreundliche Rezepte, die deinen Zyklus unterstützen Das digitale Rezeptbuch mit Gerichten, die deinen Körper wieder mit dem versorgen, was er wirklich braucht. Unkompliziert, alltagstauglich, lecker. Bewerbung nur ohne Heilversprechen, bitte beachte die Richtlinien auf der Support-Seite!!! Kurzbeschreibung Das Rezeptbuch für eine Zielgruppe, die jeden Monat neu nach Ant…
+**Vendor's marketplace description:** <h3>50 antientzündliche &amp; hormonfreundliche Rezepte, die deinen Zyklus unterstützen</h3>
+<p>Das digitale Rezeptbuch mit Gerichten, die deinen Körper wieder mit dem versorgen, was er wirklich braucht. Unkompliziert, alltagstauglich, lecker.</p>
+<p><span style="color:#ff0000;">Bewerbung nur ohne Heilversprechen, bitte beachte die Richtlinien auf der Support-Seite!!!</span></p>
+<p><strong>Kurzbeschreibung </strong><br />Das Rezeptbuch für eine Zielgruppe, die jeden Monat neu nach Antworten sucht: Frauen mit PMS und Zyklusbeschwerden.</p>
+<p>50 alltagstaugliche Rezepte von einer ärztlich geprüften Gesundheits- und Ernährungsberaterin.</p>
+<p>Günstiger Einstiegspreis, echte Kundenstimmen, 50 % Provision.</p>
+<p> </p>
+<p><strong>Beschreibung für Affiliates</strong></p>
+<p>Du erreichst Frauen, die sich für ihre Gesundheit, ihren Zyklus oder eine bewusste und antientzündliche Ernährung interessieren - ohne Verzicht? Dann ist dieses Rezeptbuch ein Produkt, das deine Community wirklich braucht und das du guten Gewissens empfehlen kannst.</p>
+<p> </p>
+<p><strong>Darum geht es im Rezeptbuch</strong><br />Viele Frauen kennen das: Jeden Monat kommen Stimmungsschwankungen, Heißhunger, Erschöpfung oder ein aufgeblähter Bauch zurück. Die meisten suchen nach einer natürlichen Möglichkeit, ihren Körper im Alltag zu unterstützen. Genau hier setzt „Antientzündlich &amp; hormonfreundlich“ an: 50 Rezepte, die gezielt Lebensmittel mit wichtigen Nährstoffen für den weiblichen Zyklus kombinieren. Dazu gibt es eine verständliche Einführung, was PMS ist, welche Symptome typisch sind und welche 5 Schlüsselnährstoffe dabei eine Rolle spielen.</p>
+<p>Die Rezepte decken den ganzen Tag ab: Frühstück, Mittagessen, Abendessen, Snacks und Getränke. Zu jedem Rezept erklärt eine „Gut für dich“-Box, warum die Zutaten sinnvoll sind. So versteht die Leserin nicht nur <em>was</em> sie kocht, sondern auch <em>warum</em>.</p>
+<p> </p>
+<p><strong>Warum sich die Bewerbung für dich lohnt</strong></p>
+<p>Das Rezeptbuch wurde von Christine Schermacher erstellt. Sie ist ärztlich geprüfte Gesundheits- und Ernährungsberaterin mit Zusatzausbildung in Hormonberatung, Phytotherapie und Naturheilkunde. Du empfiehlst also kein beliebiges Kochbuch, sondern ein fachlich fundiertes Produkt ohne Esoterik und ohne Diät-Trends.</p>
+<p>Die Zielgruppe ist groß und das Thema kommt jeden Monat wieder. Viele Frauen haben Zyklusbeschwerden, und das Interesse an natürlicher Frauengesundheit wächst stetig. Das Thema ist persönlich und emotional, das sind gute Voraussetzungen für eine hohe Kaufbereitschaft.</p>
+<p>Der Preis macht die Entscheidung leicht. Mit 19,99 € als Einmalzahlung ist das Rezeptbuch ein klassischer Impulskauf. Deine Leserinnen müssen nicht lange überlegen, das bedeutet für dich eine gute Conversion.</p>
+<p>Du bekommst eine attraktive Provision. Du erhältst 50 % auf jeden Verkauf, den du vermittelst.</p>
+<p>Die Verkaufsseite ist fertig. Sie ist warm, ehrlich und ohne Druck geschrieben, enthält echte Kundenstimmen und führt direkt zum Digistore24-Checkout. Eine Kundin schreibt zum Beispiel: ‚Eine sehr schön übersichtlich zusammengestellte Rezeptsammlung mit hervorragenden Einblicken in das Wie und Warum diese Ernährungsweise Sinn macht.‘“</p>
+<p>Das Produkt passt zu vielen Nischen. Es ist ideal für Frauengesundheit, Hormon- und Zyklusthemen, Mama-Blogs, Ernährungsberatung, Fitness und Sport, gesunde Küche und Lifestyle.</p>
+<p><strong>Für wen sich das Rezeptbuch eignet</strong><br />Frauen mit PMS oder Zyklusbeschwerden, Frauen, die sich natürlich und bewusst ernähren möchten, Mütter, die schnelle und gesunde Gerichte suchen, und alle, die ihr Wohlbefinden über die Ernährung unterstützen wollen.</p>
+<p><strong>Produktdetails</strong><br />Digitales E-Book (PDF) · 50 Rezepte · ca. 60 Seiten · sofortiger Download - PDF · 19,99 € Einmalzahlung</p>
+<p> </p>
+<p>Ich prüfe jede Partnerschaft persönlich.</p>
+<p> </p>
+<p><span style="color:#ff0000;"><strong>Wichtig:</strong></span></p>
+<p><span style="color:#ff0000;"><strong>Hinweis: Das Rezeptbuch ersetzt keine ärztliche Beratung oder Behandlung. Bitte bewirb das Produkt ohne Heilversprechen.</strong></span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.natuerlich-hormonisch.de/digitales-rezeptbuch-digistore?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59613/adminstore/
 - Sales page: https://www.natuerlich-hormonisch.de/digitales-rezeptbuch-digistore
 - Vendor affiliate support: https://www.natuerlich-hormonisch.de/affiliate-digistore-rezeptbuch
 - Canonical redirect: https://www.digistore24.com/redir/734107/adminstore
@@ -62,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 Rezepte - antientzündlich und hormonfreundlich? — Typ: E-books, Anbieter: natuerlich-hormonisch, gelistet seit 2026-09-23
-- Wie viel kostet es? — 20.932808 USD
+- Wie viel kostet es? — 20.886108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

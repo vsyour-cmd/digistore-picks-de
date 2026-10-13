@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 3.88
+earnings_per_sale: 3.87
 cart_conversion_pct: 57
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2024-02-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://michelweinand.systeme.io/affiliate-star?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50261/adminstore/"
 sales_page: "https://michelweinand.systeme.io/affiliate-star"
 language: "de"
 ---
 # Affiliate Insights
 
 > Product ID `50261` · Digistore24 productId `537534` · [HTML profile page](../../produkte/affiliate-insights-50261.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $3.88 |
+| Earnings/sale* | $3.87 |
 | Cart conversion* | 57% |
 | Cancel rate* | 0% |
 | Vendor | weinand1986 |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate Insights – Dein Guide für erfolgreiches Affiliate Marketing Mit Affiliate Insights erhältst du und deine Zielgruppe einen umfassenden Einstieg in die Welt des Affiliate Marketings – und das kostenlos! Dieses eBook deckt alle Grundlagen und bewährten Strategien ab, die Affiliates brauchen, um erfolgreich zu sein. Von der Digistore24-Nutzung bis hin zu Social-Media-Strategien und Lead-Gene…
+**Vendor's marketplace description:** <p><strong>Affiliate Insights – Dein Guide für erfolgreiches Affiliate Marketing</strong></p>
+<p>Mit <em>Affiliate Insights</em> erhältst du und deine Zielgruppe einen umfassenden Einstieg in die Welt des Affiliate Marketings – und das kostenlos! Dieses eBook deckt alle Grundlagen und bewährten Strategien ab, die Affiliates brauchen, um erfolgreich zu sein. Von der Digistore24-Nutzung bis hin zu Social-Media-Strategien und Lead-Generierung zeigt <em>Affiliate Insights</em> deinen Lesern den Weg zu passiven Einnahmen und neuen Marketingmöglichkeiten.</p>
+<p><strong>Das Beste für dich als Affiliate:</strong> Für alle Up- und Downsell-Produkte, die beim Download erworben werden, sicherst du dir 50% Provision!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://michelweinand.systeme.io/affiliate-star?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50261/adminstore/
 - Sales page: https://michelweinand.systeme.io/affiliate-star
 - Vendor affiliate support: https://michelweinand.systeme.io/werbemittel
 - Canonical redirect: https://www.digistore24.com/redir/537534/adminstore

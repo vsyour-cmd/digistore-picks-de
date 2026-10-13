@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-01-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://b-to-go.de/minikurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/31409/adminstore/"
 sales_page: "https://b-to-go.de/minikurs/"
 language: "de"
 ---
 # Messenger Marketing Kurs (Kostenlos)
 
 > Product ID `31409` · Digistore24 productId `305098` · [HTML profile page](../../produkte/messenger-marketing-kurs-kostenlos-31409.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sichere Dir jetzt 100% kostenlos die Video-Serie "Business to-go MINIKURS" In 4 einfachen Schritten wirst Du lernen wie Du die ersten Provisionen Online verdienen kannst über Messenger Marketing. Das ganze ist in weniger als 24h umgesetzt und kann direkt gestartet werden, außerdem erhältst Du einen komplett neuen Messenger Funnel von uns geschenkt. (Ein fertiges System zum kopieren) Viel Erfolg da…
+**Vendor's marketplace description:** <p>Sichere Dir jetzt 100% kostenlos die Video-Serie <strong>"Business to-go MINIKURS"</strong></p>
+<p> </p>
+<p>In 4 einfachen Schritten wirst Du lernen wie Du die ersten Provisionen Online verdienen kannst über Messenger Marketing.</p>
+<p> </p>
+<p>Das ganze ist in weniger als 24h umgesetzt und kann direkt gestartet werden, außerdem erhältst Du einen komplett neuen <strong>Messenger Funnel von uns geschenkt.</strong> (Ein fertiges System zum kopieren)</p>
+<p> </p>
+<p>Viel Erfolg damit! :)</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://b-to-go.de/minikurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/31409/adminstore/
 - Sales page: https://b-to-go.de/minikurs/
 - Canonical redirect: https://www.digistore24.com/redir/305098/adminstore
 

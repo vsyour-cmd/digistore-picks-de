@@ -12,17 +12,17 @@ cart_conversion_pct: 32
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-01-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://shop.growverse.de/funnels/ai-funnel-system/freebie?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55885/adminstore/"
 sales_page: "https://shop.growverse.de/funnels/ai-funnel-system/freebie"
 language: "de"
 ---
 # AI Funnel System
 
 > Product ID `55885` · Digistore24 productId `662015` · [HTML profile page](../../produkte/ai-funnel-system-55885.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der AI Funnel System Funnel ist ein mehrstufiger Funnel für Affiliates in einem stark wachsenden Markt: KI-gestützte Funnel-Erstellung mit Lovable AI. Das Thema ist aktuell, verständlich und für eine breite Zielgruppe direkt relevant – von Affiliates über Vendoren bis hin zu Online-Marketern, die ihre Seiten schneller bauen und schneller live bringen wollen. Der Funnel startet mit dem kostenlosen …
+**Vendor's marketplace description:** <p><strong>Der AI Funnel System Funnel</strong> ist ein mehrstufiger Funnel für Affiliates in einem stark wachsenden Markt: KI-gestützte Funnel-Erstellung mit Lovable AI. Das Thema ist aktuell, verständlich und für eine breite Zielgruppe direkt relevant – von Affiliates über Vendoren bis hin zu Online-Marketern, die ihre Seiten schneller bauen und schneller live bringen wollen.</p>
+<p>Der Funnel startet mit dem kostenlosen <strong>AI Funnel Starter – 5 Minuten Blueprint</strong>. Dieses Freebie zeigt, warum klassische Funnel-Seiten oft unnötig viel Zeit kosten und wie mit Lovable AI in wenigen Minuten erste Ergebnisse möglich sind. So wird Interesse aufgebaut und die Kaufbereitschaft für die nächsten Funnel-Stufen erhöht.</p>
+<p>Der erste Umsatztreiber ist das <strong>AI Funnel System E-Book</strong>, das kompakt vermittelt, wie Freebie-, Sales- und Danke-Seiten mit Lovable AI schnell und ohne Technikfrust erstellt werden. Affiliates erhalten <strong>50 % Provision</strong> auf jeden Verkauf.</p>
+<p>Zusätzlich erhöht das <strong>AI Funnel System – Success Toolkit</strong> mit Audiokurs, Workbook und Checkliste den Warenkorb sinnvoll und unterstützt die direkte Umsetzung. Auch hier gibt es <strong>50 % Provision</strong>.</p>
+<p>Ein zentrales Element des Funnels ist außerdem der <strong>AI Funnel System Videokurs</strong>. Er zeigt Schritt für Schritt, wie verkaufsstarke Funnel-Seiten mit Lovable AI erstellt, optimiert und in skalierbare Workflows integriert werden – ohne Designhürden und ohne stundenlanges Herumbauen. Auch auf dieses Angebot erhalten Affiliates <strong>50 % Provision</strong>.</p>
+<p>Für Affiliates entsteht dadurch ein klar aufgebauter Funnel mit mehreren Conversion-Chancen: kostenloser Einstieg, Einstiegsprodukt, Addon-Upsell und weiterführender Videokurs als Hauptangebot. Das erhöht die Abschlusswahrscheinlichkeit und den Umsatz pro Besucher deutlich.</p>
+<p><strong>Freebie, E-Book, Addon und Videokurs in einem Funnel. 50 % Provision auf alle Umsätze.</strong><br /><strong>Du bringst Traffic – der Funnel holt das Maximum raus.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shop.growverse.de/funnels/ai-funnel-system/freebie?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55885/adminstore/
 - Sales page: https://shop.growverse.de/funnels/ai-funnel-system/freebie
 - Canonical redirect: https://www.digistore24.com/redir/662015/adminstore
 

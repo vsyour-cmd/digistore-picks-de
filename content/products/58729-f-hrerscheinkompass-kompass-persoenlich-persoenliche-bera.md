@@ -4,34 +4,34 @@ digistore24_product_id: 720601
 title: "FührerscheinKompass - Kompass Persoenlich: Persoenliche Bera"
 vendor: "thorstenbahrb86a"
 product_type: "Telephone coaching"
-price: 262.72
+price: 262.14
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 52.54
+earnings_per_sale: 52.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://fuehrerschein-kompass.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58729/adminstore/"
 sales_page: "https://fuehrerschein-kompass.de/"
 language: "de"
 ---
 # FührerscheinKompass - Kompass Persoenlich: Persoenliche Bera
 
 > Product ID `58729` · Digistore24 productId `720601` · [HTML profile page](../../produkte/f-hrerscheinkompass-kompass-persoenlich-persoenliche-bera-58729.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $262.72 (Single payment) |
+| Price | $262.14 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $52.54 |
+| Earnings/sale* | $52.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | thorstenbahrb86a |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Drei persönliche Beratungsgespräche à 45 Minuten zur Organisation deiner Führerscheinausbildung: Planung von Zeit und Budget, Auswahl und Prüfung der Fahrschule, Organisation rund um den Prüfungstag. Plus das komplette Kompass-PLUS-Paket. Keine Fahrausbildung, kein Theorie- oder Fahrunterricht - der bleibt bei deiner Fahrschule.
+**Vendor's marketplace description:** <p>Drei persönliche Beratungsgespräche à 45 Minuten zur Organisation deiner Führerscheinausbildung: Planung von Zeit und Budget, Auswahl und Prüfung der Fahrschule, Organisation rund um den Prüfungstag. Plus das komplette Kompass-PLUS-Paket. Keine Fahrausbildung, kein Theorie- oder Fahrunterricht - der bleibt bei deiner Fahrschule.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fuehrerschein-kompass.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58729/adminstore/
 - Sales page: https://fuehrerschein-kompass.de/
 - Canonical redirect: https://www.digistore24.com/redir/720601/adminstore
 
@@ -92,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FührerscheinKompass - Kompass Persoenlich: Persoenliche Bera? — Typ: Telephone coaching, Anbieter: thorstenbahrb86a, gelistet seit 2026-08-27
-- Wie viel kostet es? — 262.72467 USD
+- Wie viel kostet es? — 262.138545 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

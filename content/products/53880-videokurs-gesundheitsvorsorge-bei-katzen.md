@@ -4,16 +4,16 @@ digistore24_product_id: 596322
 title: "Videokurs \"Gesundheitsvorsorge bei Katzen\""
 vendor: "MiriamKnischewski"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 4.62
+earnings_per_sale: 4.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-02-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://shop.katzen-fieber.de/gesundheitsvorsorge-katzen?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.katzen-fieber.de/gesundheitsvorsorge-katzen"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs "Gesundheitsvorsorge bei Katzen"
 
 > Product ID `53880` · Digistore24 productId `596322` · [HTML profile page](../../produkte/videokurs-gesundheitsvorsorge-bei-katzen-53880.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $4.62 |
+| Earnings/sale* | $4.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MiriamKnischewski |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erspare deiner Community die lästige Suche nach verlässlichen Informationen über die Katzenhaltung. Empfehle Videokurse & Webinare mit echtem Mehrwert! Vorteile für dich: Sofort 10 % Provision zum Start unserer Partnerschaft pro durch dich vermitteltem Verkauf* 20 % Provision ab dem 10. durch dich vermitteltem Verkauf* 20 % Provision für eingetragene und als gemeinnützig anerkannte Tierschutzverei…
+**Vendor's marketplace description:** <p><span style="color:#504f4f;">Erspare deiner Community die lästige Suche nach verlässlichen Informationen über die Katzenhaltung. Empfehle Videokurse &amp; Webinare mit <em>echtem</em> Mehrwert! </span></p>
+<p> </p>
+<p><strong><span style="color:#5d83c5;">Vorteile für dich:</span></strong></p>
+<ul>
+<li><span style="color:#504f4f;"><strong>Sofort 10 % Provision zum Start unserer Partnerschaft</strong> pro durch dich vermitteltem Verkauf*</span></li>
+<li><span style="color:#504f4f;"><strong>20 % Provision</strong> ab dem 10. durch dich vermitteltem Verkauf*</span></li>
+<li><span style="color:#504f4f;"><strong>20 % Provision</strong> für eingetragene und als gemeinnützig anerkannte Tierschutzvereine*</span></li>
+<li><span style="color:#504f4f;">Möglichkeit auf <strong>exklusive gemeinsame Aktionen</strong>: z. B. Webinare und Rabattaktionen speziell für deine Community<br /><br /></span></li>
+</ul>
+<p><strong><span style="color:#5d83c5;">Über den Videokurs "Gesundheitsvorsorge bei Katzen":</span></strong><br /><span style="color:#504f4f;">Gewinne überraschende Einblicke in die Zusammenhänge der Katzengesundheit und unterstütze sie zielgerichtet</span></p>
+<ul>
+<li><span style="color:#504f4f;">Lerne Gesundheit ganzheitlich zu denken</span></li>
+<li><span style="color:#504f4f;">Bringe zielsicher Struktur in euren Vorsorgeplan</span></li>
+<li><span style="color:#504f4f;">Selbstlernkurs bestehend aus 108 Minuten Videokurs &amp; 34-seitigem Workbook</span></li>
+</ul>
+<p> </p>
+<p><span style="color:#504f4f;">Steig jetzt mit ein und profitiere von deinen Empfehlungen!</span></p>
+<p><span style="color:#504f4f;"><strong>Wichtig:</strong> Bitte gib deine E-Mail-Adresse zur Ansicht für mich frei oder schreibe mich über <a style="color:#5d83c5;" href="mailto:support@katzen-fieber.de">support@katzen-fieber.de</a> an, damit ich deine Partnerschaftsanfrage überprüfen &amp; freischalten kann.</span></p>
 
 ## 2. Links
 
@@ -72,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs "Gesundheitsvorsorge bei Katzen"? — Typ: Member area and video courses, Anbieter: MiriamKnischewski, gelistet seit 2025-02-14
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

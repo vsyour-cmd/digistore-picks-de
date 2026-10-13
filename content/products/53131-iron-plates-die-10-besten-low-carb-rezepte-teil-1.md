@@ -4,34 +4,34 @@ digistore24_product_id: 623155
 title: "Iron Plates Die 10 besten Low-Carb-Rezepte Teil 1"
 vendor: "InShape4You"
 product_type: "E-books"
-price: 20.93
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.47
+earnings_per_sale: 10.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2025-07-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/623155?aff=adminstore"
+promo_link: "https://trilax.info/01trxdl/?epk=Dw3vEmKgx0Za84EzA5NectrEV1o8IBCm7FSM1C3yD3JM8nmJs9#aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/623155"
 language: "de"
 ---
 # Iron Plates Die 10 besten Low-Carb-Rezepte Teil 1
 
 > Product ID `53131` · Digistore24 productId `623155` · [HTML profile page](../../produkte/iron-plates-die-10-besten-low-carb-rezepte-teil-1-53131.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.93 (Single payment) |
+| Price | $20.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.47 |
+| Earnings/sale* | $10.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | InShape4You |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Iron Plates – Die 10 besten Low-Carb-Rezepte | Teil 1Dein Einstieg in die genussvolle Low-Carb-Küche!In diesem kompakten E-Book erwarten dich 10 eiweißreiche, alltagstaugliche Rezepte – perfekt für Muskelaufbau, Fettverbrennung und einen gesunden Lifestyle. Einfach, lecker & ohne Reue genießen!
+**Vendor's marketplace description:** <p><strong>Iron Plates – Die 10 besten Low-Carb-Rezepte | Teil 1</strong><br />Dein Einstieg in die genussvolle Low-Carb-Küche!<br />In diesem kompakten E-Book erwarten dich 10 eiweißreiche, alltagstaugliche Rezepte – perfekt für Muskelaufbau, Fettverbrennung und einen gesunden Lifestyle. Einfach, lecker &amp; ohne Reue genießen!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/623155?aff=adminstore
+- **Promo link (affiliate):** https://trilax.info/01trxdl/?epk=Dw3vEmKgx0Za84EzA5NectrEV1o8IBCm7FSM1C3yD3JM8nmJs9#aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/623155
 - Canonical redirect: https://www.digistore24.com/redir/623155/adminstore
 
@@ -70,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Iron Plates Die 10 besten Low-Carb-Rezepte Teil 1? — Typ: E-books, Anbieter: InShape4You, gelistet seit 2025-07-09
-- Wie viel kostet es? — 20.932808 USD
+- Wie viel kostet es? — 20.886108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

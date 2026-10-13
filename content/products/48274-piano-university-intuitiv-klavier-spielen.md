@@ -4,16 +4,16 @@ digistore24_product_id: 548914
 title: "Piano.University - Intuitiv Klavier spielen"
 vendor: "gordonnovember"
 product_type: "Member area and video courses"
-price: 422.81
+price: 421.87
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 105.71
+earnings_per_sale: 105.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Education","Hobby & Craft"]
 listed_since: "2024-04-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/548914?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/548914"
@@ -22,16 +22,16 @@ language: "de"
 # Piano.University - Intuitiv Klavier spielen
 
 > Product ID `48274` · Digistore24 productId `548914` · [HTML profile page](../../produkte/piano-university-intuitiv-klavier-spielen-48274.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $422.81 (Subscription) |
+| Price | $421.87 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $105.71 |
+| Earnings/sale* | $105.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gordonnovember |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lass uns auf die Reise gehen und erlebe wie leicht das Klavierspielen sein kann - mit dem Piano.University Intuinauten-Programm. Premium Video-Online-Klavierkurse Masterclass Intuition: Spiele Klavier nach Intuition. Notuition: Werde sicher mit Noten und spiele intuitiv die richtigen Töne. Tonarten meistern ohne Noten: Werde schnell fit in Tonarten. Abstauber Akkordeon: Akkordeon spielen? Das könn…
+**Vendor's marketplace description:** <p>Lass uns auf die Reise gehen und erlebe wie leicht das Klavierspielen sein kann - mit dem <strong><a>Piano.University Intuinauten-Programm</a>.</strong></p>
+<p><strong>Premium Video-Online-Klavierkurse</strong></p>
+<ul>
+<li><strong>Masterclass Intuition: </strong>Spiele Klavier nach Intuition.</li>
+<li><strong>Notuition: </strong>Werde sicher mit Noten und spiele intuitiv die richtigen Töne.</li>
+<li><strong>Tonarten meistern ohne Noten: </strong>Werde schnell fit in Tonarten.</li>
+<li><strong>Abstauber Akkordeon: </strong>Akkordeon spielen? Das können Intuinauten nach nur wenigen Lektionen!</li>
+</ul>
+<ul>
+<li><strong>inkl. Lern-App</strong> für Android &amp; iOS</li>
+</ul>
 
 ## 2. Links
 
@@ -88,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Piano.University - Intuitiv Klavier spielen? — Typ: Member area and video courses, Anbieter: gordonnovember, gelistet seit 2024-04-19
-- Wie viel kostet es? — 422.81358600000004 USD
+- Wie viel kostet es? — 421.870311 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

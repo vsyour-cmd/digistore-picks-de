@@ -4,16 +4,16 @@ digistore24_product_id: 582138
 title: "50 % Provision pro Sale –„Kreativer-Typ“-Paket!"
 vendor: "Angelika-Traumerfuellerin"
 product_type: "Downloads"
-price: 16.47
+price: 16.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.24
+earnings_per_sale: 8.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-11-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://seelengarten-phoenix.com/bundle-kreativer?aff=adminstore#aff=adminstore"
 sales_page: "https://seelengarten-phoenix.com/bundle-kreativer"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % Provision pro Sale –„Kreativer-Typ“-Paket!
 
 > Product ID `50530` · Digistore24 productId `582138` · [HTML profile page](../../produkte/50-provision-pro-sale-kreativer-typ-paket-50530.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.47 (Single payment) |
+| Price | $16.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.24 |
+| Earnings/sale* | $8.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Angelika-Traumerfuellerin |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verdiene 50 % Provision pro Sale als Affiliate!Das „Kreativer-Typ“-Paket unterstützt Menschen dabei, ihre kreative Persönlichkeit zu entfalten, Blockaden zu überwinden und ihre Projekte mit Struktur und Fokus zu verwirklichen. Ideal für deinen Newsletter, Blog oder Social Media! Kurzbeschreibung Hol das Beste aus deinem kreativen Typen heraus! Mit detaillierter Typenanalyse, binauralen Beats und e…
+**Vendor's marketplace description:** <p><strong>Verdiene 50 % Provision pro Sale als Affiliate!</strong><br />Das „Kreativer-Typ“-Paket unterstützt Menschen dabei, ihre kreative Persönlichkeit zu entfalten, Blockaden zu überwinden und ihre Projekte mit Struktur und Fokus zu verwirklichen. Ideal für deinen Newsletter, Blog oder Social Media!</p>
+<h3>Kurzbeschreibung</h3>
+<p>Hol das Beste aus deinem kreativen Typen heraus! Mit detaillierter Typenanalyse, binauralen Beats und einem praxisorientierten Workbook erhältst du alles, was du brauchst, um deine Ideen und Projekte gezielt umzusetzen.</p>
+<h3><strong>Das erhält der Kunde:</strong></h3>
+<p><strong>Detaillierte Typenanalyse (PDF):</strong><br />Erfahre alles über die Stärken und Entwicklungsmöglichkeiten deines kreativen Typen, um gezielt an deinem Potenzial zu arbeiten.</p>
+<p><strong>Binaurale Beats (MP3):</strong><br />Gezielte Audio-Frequenzen, die dich in einen produktiven Flow versetzen und mentale Blockaden lösen.</p>
+<p><strong>Praxisorientiertes Workbook (PDF):</strong><br />Ein Workbook, das dir hilft, deine Ideen zu strukturieren, deinen Arbeitsstil zu optimieren und kreative Projekte erfolgreich umzusetzen.</p>
+<h3><strong>Was macht dieses Paket so wertvoll?</strong></h3>
+<ul>
+<li><strong>Entfessle deine Kreativität:</strong> Finde neue Wege, deine kreativen Ideen mit Struktur und Fokus zu realisieren.</li>
+<li><strong>Fördere Beziehungen:</strong> Verstehe dich selbst und dein Umfeld besser, um inspirierende Verbindungen aufzubauen.</li>
+<li><strong>Produktivität steigern:</strong> Lerne, deine kreative Energie besser zu lenken und deine Ziele mit Klarheit zu erreichen.</li>
+<li><strong>Entdecke dein Potenzial:</strong> Hol das Maximum aus deiner Persönlichkeit heraus und gestalte dein Leben voller kreativer Erfolge.</li>
+</ul>
 
 ## 2. Links
 
@@ -66,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision pro Sale –„Kreativer-Typ“-Paket!? — Typ: Downloads, Anbieter: Angelika-Traumerfuellerin, gelistet seit 2024-11-21
-- Wie viel kostet es? — 16.47282 USD
+- Wie viel kostet es? — 16.43607 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

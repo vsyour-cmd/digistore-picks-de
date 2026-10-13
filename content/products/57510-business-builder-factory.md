@@ -4,16 +4,16 @@ digistore24_product_id: 703268
 title: "Business Builder Factory"
 vendor: "Verdienst-Kompass"
 product_type: "Member area and video courses"
-price: 18.83
+price: 18.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.41
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "http://lp-mircodigital.de/bbf?aff=adminstore#aff=adminstore"
 sales_page: "http://lp-mircodigital.de/bbf"
@@ -22,16 +22,16 @@ language: "de"
 # Business Builder Factory
 
 > Product ID `57510` · Digistore24 productId `703268` · [HTML profile page](../../produkte/business-builder-factory-57510.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.83 (Single payment) |
+| Price | $18.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.41 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Verdienst-Kompass |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate-Provision: 50 % Provision auf alle Addons, Order Bumps und Upsells. Business Builder Factory – Basic Deine Kunden erstellen mit wenigen Klicks professionelle Checklisten, E-Books, Workbooks und Swipe Files als PDF. Sie erhalten sofort nutzbare Prompts, Vorlagen, Produktideen und klare Strukturen, um digitale Produkte schneller umzusetzen. Enthalten: • Bis zu 10 PDFs pro Monat• Bis zu 20 …
+**Vendor's marketplace description:** <p><strong>Affiliate-Provision:</strong> 50 % Provision auf alle Addons, Order Bumps und Upsells.<br /><br /></p>
+<p><strong>Business Builder Factory – Basic</strong></p>
+<p>Deine Kunden erstellen mit wenigen Klicks professionelle Checklisten, E-Books, Workbooks und Swipe Files als PDF.</p>
+<p>Sie erhalten sofort nutzbare Prompts, Vorlagen, Produktideen und klare Strukturen, um digitale Produkte schneller umzusetzen.</p>
+<p><strong>Enthalten:</strong></p>
+<p>• Bis zu 10 PDFs pro Monat<br />• Bis zu 20 Seiten pro PDF<br />• Builder für E-Books, Checklisten, Workbooks und Swipe Files<br />• Monatlich neue Produktideen<br />• Funnel Builder für Upsells und Order Bumps<br />• Sofort einsetzbare Vorlagen und Prompts<br />• Direkter digitaler Zugang nach dem Kauf</p>
 
 ## 2. Links
 
@@ -62,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Business Builder Factory? — Typ: Member area and video courses, Anbieter: Verdienst-Kompass, gelistet seit 2026-07-13
-- Wie viel kostet es? — 18.82608 USD
+- Wie viel kostet es? — 18.784080000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

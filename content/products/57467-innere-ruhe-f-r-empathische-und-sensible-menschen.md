@@ -4,34 +4,34 @@ digistore24_product_id: 697334
 title: "Innere Ruhe für empathische und sensible Menschen"
 vendor: "gesundergeist"
 product_type: "Member area and video courses"
-price: 28.16
+price: 28.1
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 6.72
+earnings_per_sale: 6.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-07-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://hochsensibel-und-gluecklich.grweb.site?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57467/adminstore/"
 sales_page: "https://hochsensibel-und-gluecklich.grweb.site"
 language: "de"
 ---
 # Innere Ruhe für empathische und sensible Menschen
 
 > Product ID `57467` · Digistore24 productId `697334` · [HTML profile page](../../produkte/innere-ruhe-f-r-empathische-und-sensible-menschen-57467.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.16 (Single payment) |
+| Price | $28.10 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $6.72 |
+| Earnings/sale* | $6.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gesundergeist |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erhalte 5 Euro Provision pro Verkauf. Der Videokurs zum Bestseller-Buch. (Das Hörbuch ist ebenfalls ein Affiliate-Produkt - suche nach "Hochsensibel und glücklich") Einige Affiliates verdienen damit richtig gut mit diesem Videokurs. Sei du der nächste. Zielgruppe: Stressabbau, Selbstannahme, Hochsensibilität, ADHS.
+**Vendor's marketplace description:** <p><strong><span style="background-color:#ff99cc;">Erhalte 5 Euro Provision pro Verkauf. Der Videokurs zum Bestseller-Buch. </span></strong><span style="background-color:#ff99cc;">(Das Hörbuch ist ebenfalls ein Affiliate-Produkt - suche nach "Hochsensibel und glücklich")</span></p>
+<p>Einige Affiliates verdienen damit richtig gut mit diesem Videokurs. Sei du der nächste.</p>
+<p><strong><span style="background-color:#ff99cc;">Zielgruppe:</span></strong> Stressabbau, Selbstannahme, <strong>Hochsensibilität</strong>, ADHS.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://hochsensibel-und-gluecklich.grweb.site?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57467/adminstore/
 - Sales page: https://hochsensibel-und-gluecklich.grweb.site
 - Canonical redirect: https://www.digistore24.com/redir/697334/adminstore
 
@@ -84,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innere Ruhe für empathische und sensible Menschen? — Typ: Member area and video courses, Anbieter: gesundergeist, gelistet seit 2026-07-09
-- Wie viel kostet es? — 28.160678 USD
+- Wie viel kostet es? — 28.097853 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

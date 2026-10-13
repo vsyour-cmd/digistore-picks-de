@@ -4,16 +4,16 @@ digistore24_product_id: 468129
 title: "Bücher über Boote"
 vendor: "Yachtinside"
 product_type: "Book (printed)"
-price: 55.6
+price: 55.48
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 10.63
+earnings_per_sale: 10.61
 cart_conversion_pct: 11
 cancel_rate_pct: 0.68
 categories: ["Education","Hobby & Craft","Travel & Culture"]
 listed_since: "2022-11-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://yachtinside.de/eundprint/?aff=adminstore#aff=adminstore"
 sales_page: "https://yachtinside.de/eundprint/"
@@ -22,16 +22,16 @@ language: "de"
 # Bücher über Boote
 
 > Product ID `46156` · Digistore24 productId `468129` · [HTML profile page](../../produkte/b-cher-ber-boote-46156.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $55.60 (Single payment) |
+| Price | $55.48 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $10.63 |
+| Earnings/sale* | $10.61 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.68% |
 | Vendor | Yachtinside |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bücher über Bootstechnik und Bootselektrik Die Fachbücher von Michael Herrmann sind alle auf dem neuesten Stand der Technik. Besonders "Technik unter Deck", "Elektrik auf Yachten" und "Blitzschutz auf Yachten" werden nicht nur von Eignern kleiner Wasserfahrzeuge gern gelesen, sondern auch von Fachleuten als Nachschlagewerk und Informationsquelle benutzt. "Marinisierung" ist ein Muss für alle, die …
+**Vendor's marketplace description:** <h3>Bücher über Bootstechnik und Bootselektrik</h3>
+<p>Die Fachbücher von Michael Herrmann sind alle auf dem neuesten Stand der Technik. Besonders "Technik unter Deck", "Elektrik auf Yachten" und "Blitzschutz auf Yachten" werden nicht nur von Eignern kleiner Wasserfahrzeuge gern gelesen, sondern auch von Fachleuten als Nachschlagewerk und Informationsquelle benutzt. "Marinisierung" ist ein Muss für alle, die einen Motor an Bord haben.</p>
+<p> </p>
 
 ## 2. Links
 
@@ -79,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bücher über Boote? — Typ: Book (printed), Anbieter: Yachtinside, gelistet seit 2022-11-04
-- Wie viel kostet es? — 55.604172 USD
+- Wie viel kostet es? — 55.480122 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

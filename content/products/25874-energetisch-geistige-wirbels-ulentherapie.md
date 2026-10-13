@@ -4,16 +4,16 @@ digistore24_product_id: 295916
 title: "Energetisch Geistige Wirbelsäulentherapie"
 vendor: "reichl"
 product_type: "Downloads"
-price: 201.71
+price: 201.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 100.85
+earnings_per_sale: 100.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-11-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.energy-healing.bayern/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.energy-healing.bayern/"
@@ -22,16 +22,16 @@ language: "de"
 # Energetisch Geistige Wirbelsäulentherapie
 
 > Product ID `25874` · Digistore24 productId `295916` · [HTML profile page](../../produkte/energetisch-geistige-wirbels-ulentherapie-25874.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $201.71 (Single payment, Installment) |
+| Price | $201.26 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $100.85 |
+| Earnings/sale* | $100.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | reichl |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lerne bequem von zu Hause aus die geistige Heilmethode: "Energetisch Geistige Wirbelsäulen Therapie nach der Informationsmedizin!" Als Physiotherapeut und Heiler, mit über 40-jähriger Erfahrung, verrate ich im Video Seminar, wie 80 % aller Betroffenen ihre Rückenschmerzen ganzheitlich loswerden können. In diesem Online-Seminar bekommen die Teilnehmer das Wissen und die Fähigkeit bei sich selbst od…
+**Vendor's marketplace description:** <div>
+<div>
+<p style="text-align:center;">Lerne bequem von zu Hause aus die geistige Heilmethode:</p>
+<h2 style="text-align:center;">"Energetisch Geistige Wirbelsäulen Therapie nach  der Informationsmedizin!"</h2>
+</div>
+</div>
+<div>
+<p>Als Physiotherapeut und Heiler, mit über 40-jähriger Erfahrung, verrate ich im Video Seminar, wie 80 % aller Betroffenen ihre Rückenschmerzen ganzheitlich loswerden können.</p>
+In diesem Online-Seminar bekommen die Teilnehmer das Wissen und die Fähigkeit bei sich selbst oder bei Patienten die "Energetisch Geistige Heilung der Wirbelsäule nach der Informationsmedizin" anzuwenden. </div>
+<div> </div>
+<div><strong>Der Unterschiede zu anderen spirituellen Kursen </strong>ist, dass ich als Therapeut die Basis die russische Informationsmedizin verwende, bei der ein gut strukturiertes Vorgehen mit Formelsätzen die Basis ist, die jeder nachmachen kann. Weiterhin behandle ich in einem Modul Kopfschmerzen auf ganzheitlichen Wegen und beachte im Kurs die Gesetze der Ganzheitlichkeit auf mehren Ebenen.</div>
+<div> </div>
+<div>Wenn Sie schon immer wissen wollten, wie die Anwendung der <strong>Energetischen Geistigen Wirbelsäulentherapie nach den russischen Heilweisen gegen Rückenschmerzen </strong>funktioniert und diese wunderbare Heilmethode selber lernen wollen, dann sind Sie hier auf dieser Seite herzlich willkommen.</div>
+<div> </div>
+<div>Dieses online Seminar hat über 50 Videos, verpackt in 8 Modulen mit einer Gesamtzeit von mehr als 6 Stunden!</div>
+<div>
+<p>Das online Seminar ist speziell geeignet für ganzheitliche Therapeuten, Gesundheitscoaches und -berater, Heilpraktiker, spirituelle Menschen und alle Interessierte, die ihren Horizont erweitern wollen. </p>
+Alle weiteren nötigen Informationen können auf der Verkaufs- und auf der Affiliate-Support-Seite aufgerufen werden.</div>
 
 ## 2. Links
 
@@ -67,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Energetisch Geistige Wirbelsäulentherapie? — Typ: Downloads, Anbieter: reichl, gelistet seit 2019-11-20
-- Wie viel kostet es? — 201.708 USD
+- Wie viel kostet es? — 201.258 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

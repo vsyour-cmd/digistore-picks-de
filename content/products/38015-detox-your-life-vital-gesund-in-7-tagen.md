@@ -4,34 +4,34 @@ digistore24_product_id: 407027
 title: "DETOX YOUR LIFE ↗ VITAL & GESUND IN 7 TAGEN"
 vendor: "HarshaGramminger"
 product_type: "Member area and video courses"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 37.29
+earnings_per_sale: 37.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://harsha-gramminger.coachy.net/lp/detox-your-life-vital-gesund-in-7-tagen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/38015/adminstore/"
 sales_page: "https://harsha-gramminger.coachy.net/lp/detox-your-life-vital-gesund-in-7-tagen/"
 language: "de"
 ---
 # DETOX YOUR LIFE ↗ VITAL & GESUND IN 7 TAGEN
 
 > Product ID `38015` · Digistore24 productId `407027` · [HTML profile page](../../produkte/detox-your-life-vital-gesund-in-7-tagen-38015.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $37.29 |
+| Earnings/sale* | $37.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HarshaGramminger |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit diesem Detox-Programm wieder vital und gesund werden. Eine ausführliche Tag-für-Tag-Anleitung.~Von Ayurveda-Expertin Dr. Harsha Gramminger. "Ich bin seit über 25 Jahren Ärztin und habe unzählige Methoden studiert, wie Menschen wieder gesund und fit werden können. Daraus habe ich diese Kur „Detox your Life – vital und gesund in 7 Tagen“ entwickelt."~ Profitiere von der Expertise und der Profess…
+**Vendor's marketplace description:** <p><strong>Mit diesem Detox-Programm wieder vital und gesund werden. Eine ausführliche Tag-für-Tag-Anleitung.</strong><br />~<br />Von Ayurveda-Expertin Dr. Harsha Gramminger.</p>
+<div>
+<p><em>"Ich bin seit über 25 Jahren Ärztin und habe unzählige Methoden studiert, wie Menschen wieder gesund und fit werden können. Daraus habe ich diese Kur „Detox your Life – vital und gesund in 7 Tagen“ entwickelt."<br /></em>~ <br />Profitiere von der Expertise und der Professionalität von Dr. Harsha Gramminger. DER Ayurveda- und Gesundheits-Expertin im deutschsprachigen Raum. <strong>Erhalte satte 40% auf dieses Produkt!</strong> <br />~ <br />Bei Fragen steht Dr. Harsha Gramminger den Käufern jederzeit zur Verfügung - entsprechend ist die Storno-Quote verschwindend gering.<br />~ <br />Link zur Landingpage: <br /><strong><a href="https://www.harshagramminger.de/kurse/detox/" target="_blank" rel="noreferrer noopener">https://www.harshagramminger.de/kurse/detox/</a></strong><br />~<strong> <br /></strong>Weitere Werbemittel, wie z.B.: Banner, Facebook- oder Instagram-Posts erhältst du bei meiner Assistentin Claudia unter: chossi[at]me.com<br />~ <strong><br />Mit diesem Detox-Programm wieder vital und gesund werden. Eine ausführliche Tag-für-Tag-Anleitung.</strong></p>
+</div>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://harsha-gramminger.coachy.net/lp/detox-your-life-vital-gesund-in-7-tagen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38015/adminstore/
 - Sales page: https://harsha-gramminger.coachy.net/lp/detox-your-life-vital-gesund-in-7-tagen/
 - Canonical redirect: https://www.digistore24.com/redir/407027/adminstore
 
@@ -81,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DETOX YOUR LIFE ↗ VITAL & GESUND IN 7 TAGEN? — Typ: Member area and video courses, Anbieter: HarshaGramminger, gelistet seit 2021-09-13
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

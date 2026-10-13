@@ -4,34 +4,34 @@ digistore24_product_id: 185197
 title: "Hunde aus dem Süden"
 vendor: "khaphom5"
 product_type: "Webinar"
-price: 18.83
+price: 18.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.41
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2017-12-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://rheinische-hundeschule.de/hunde-aus-dem-sueden/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/21295/adminstore/"
 sales_page: "https://rheinische-hundeschule.de/hunde-aus-dem-sueden/"
 language: "de"
 ---
 # Hunde aus dem Süden
 
 > Product ID `21295` · Digistore24 productId `185197` · [HTML profile page](../../produkte/hunde-aus-dem-s-den-21295.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $18.83 (Single payment) |
+| Price | $18.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.41 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | khaphom5 |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hunde aus dem Süden Immer seltener adoptieren wir einen Welpen von einem deutschen Züchter. Immer öfter nehmen wir einen Hund aus dem Tierheim oder aus einer Notvermittlung. Genauso oft kommen diese Hunde aus Südeuropa. Das bedeutet auch, dass alle diese Hunde eine Vorgeschichte haben und die kann unterschiedlicher kaum sein. Um dafür zu sensibilisieren und ein besseres Verständnis oder auch Erlei…
+**Vendor's marketplace description:** <h1>Hunde aus dem Süden</h1>
+<p>Immer seltener adoptieren wir einen Welpen von einem deutschen Züchter.</p>
+<h3>Immer öfter nehmen wir einen Hund aus dem Tierheim oder aus einer Notvermittlung.</h3>
+<p>Genauso oft kommen diese Hunde aus Südeuropa.</p>
+<h3>Das bedeutet auch, dass alle diese Hunde eine Vorgeschichte haben und die kann unterschiedlicher kaum sein.</h3>
+<p><strong><em>Um dafür zu sensibilisieren und ein besseres Verständnis oder auch Erleichterung oder Geduld bei dem Zusammenleben zu kreieren, habe ich dieses Webinar für Euch gemacht.</em></strong></p>
+<p>Ich wünsch Euch viel Spaß damit!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://rheinische-hundeschule.de/hunde-aus-dem-sueden/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/21295/adminstore/
 - Sales page: https://rheinische-hundeschule.de/hunde-aus-dem-sueden/
 - Canonical redirect: https://www.digistore24.com/redir/185197/adminstore
 
@@ -74,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hunde aus dem Süden? — Typ: Webinar, Anbieter: khaphom5, gelistet seit 2017-12-05
-- Wie viel kostet es? — 18.82608 USD
+- Wie viel kostet es? — 18.784080000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

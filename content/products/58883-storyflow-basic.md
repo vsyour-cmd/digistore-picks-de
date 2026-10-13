@@ -4,34 +4,34 @@ digistore24_product_id: 720863
 title: "StoryFlow - Basic"
 vendor: "Verdienst-Kompass"
 product_type: "Software"
-price: 18.83
+price: 107.34
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.53
+earnings_per_sale: 42.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://story-flow-ai.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58883/adminstore/"
 sales_page: "https://story-flow-ai.de"
 language: "de"
 ---
 # StoryFlow - Basic
 
 > Product ID `58883` · Digistore24 productId `720863` · [HTML profile page](../../produkte/storyflow-basic-58883.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $18.83 (Single payment, Installment) |
+| Price | $107.34 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.53 |
+| Earnings/sale* | $42.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Verdienst-Kompass |
@@ -41,11 +41,33 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate-Provision: 40 % auf das Hauptprodukt sowie auf alle Add-ons, Order Bumps und Upsells. StoryFlow – Basic Mit StoryFlow erstellen deine Kunden in wenigen Klicks professionelle Story-Sequenzen, KI-Carousels, Social-Media-Beiträge und optimierte Profiltexte. Die KI unterstützt bei Ideen, Texten und visuellen Inhalten und macht es deutlich einfacher, regelmäßig professionelle Inhalte für Inst…
+**Vendor's marketplace description:** <p><strong>Affiliate-Provision: 40 % auf das Hauptprodukt sowie auf alle Add-ons, Order Bumps und Upsells.</strong></p>
+<p> </p>
+<h2>StoryFlow – Basic</h2>
+<p> </p>
+<p>Mit StoryFlow erstellen deine Kunden in wenigen Klicks professionelle Story-Sequenzen, KI-Carousels, Social-Media-Beiträge und optimierte Profiltexte.</p>
+<p> </p>
+<p>Die KI unterstützt bei Ideen, Texten und visuellen Inhalten und macht es deutlich einfacher, regelmäßig professionelle Inhalte für Instagram, TikTok, Facebook und Pinterest zu erstellen.</p>
+<p> </p>
+<p>Enthalten:</p>
+<p> </p>
+<p>• 60 Storys pro Nutzungsmonat</p>
+<p>• 50 KI-Carousels pro Monat</p>
+<p>• 50 KI-Beiträge pro Monat</p>
+<p>• 20 KI-Motive pro Monat</p>
+<p>• 5 Bio- &amp; Profil-Optimierungen pro Monat</p>
+<p>• Story Rescue zur Optimierung bestehender Storys</p>
+<p>• Brand Voice für einen einheitlichen Schreibstil</p>
+<p>• Campaign Flow für strukturierte Kampagnen</p>
+<p>• Integrierte Stockbild-Suche</p>
+<p>• KI-gestützte Ideen, Texte und Designs</p>
+<p> </p>
+<p>Ideal für:</p>
+<p>Creator, Affiliates, Coaches, Selbstständige, Online-Marketer und alle, die schneller professionelle Social-Media-Inhalte erstellen möchten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://story-flow-ai.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58883/adminstore/
 - Sales page: https://story-flow-ai.de
 - Canonical redirect: https://www.digistore24.com/redir/720863/adminstore
 
@@ -83,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist StoryFlow - Basic? — Typ: Software, Anbieter: Verdienst-Kompass, gelistet seit 2026-09-02
-- Wie viel kostet es? — 18.82608 USD
+- Wie viel kostet es? — 107.33760000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-05-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://app.soul-in-menta.de/soulinmenta/soulpass?aff=adminstore#aff=adminstore"
 sales_page: "https://app.soul-in-menta.de/soulinmenta/soulpass"
@@ -22,7 +22,7 @@ language: "de"
 # soulPass
 
 > Product ID `54556` · Digistore24 productId `614409` · [HTML profile page](../../produkte/soulpass-54556.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Willkommen bei soulINmenta Dein Raum für Selbstfindung, Heilung & innere BalanceDu spürst, dass mehr in dir steckt – mehr Tiefe, mehr Klarheit, mehr Echtheit?Diese App ist dein liebevoller Begleiter zurück zu dir selbst.Ein Raum, der dich stärkt. Eine Reise, die dich erinnert. Meine Vision – dein Weg Diese App ist der Anfang eines größeren Traums:Ein Heil- & Ausbildungszentrum für Frauen, die sich…
+**Vendor's marketplace description:** <h3>Willkommen bei soulINmenta</h3>
+<div><strong>Dein Raum für Selbstfindung, Heilung &amp; innere Balance</strong><br />Du spürst, dass mehr in dir steckt – mehr Tiefe, mehr Klarheit, mehr Echtheit?<br />Diese App ist dein liebevoller Begleiter zurück zu dir selbst.<br />Ein Raum, der dich stärkt. Eine Reise, die dich erinnert.<br /><br /></div>
+<h3>Meine Vision – dein Weg</h3>
+<div>Diese App ist der Anfang eines größeren Traums:<br />Ein Heil- &amp; Ausbildungszentrum für Frauen, die sich erinnern wollen – an ihr Licht, ihre Wahrheit, ihre innere Kraft.<br /><br /></div>
+<div>Ob online oder offline – ich begleite dich auf deinem Weg mit:<br />• Human Design Readings<br />• Kundalini Reiki<br />• Geistiger Wirbelsäulenaufrichtung<br />• energetischer Prozessbegleitung</div>
+<div> </div>
+<div>
+<h3>Was dich in der App erwartet</h3>
+<div><strong>Frei zugänglich – auch ohne soulPass:</strong><br />• soulBehandlungen &amp; soulKreise – für Körper, Herz &amp; Seele<br />• soulReports &amp; soulReadings – dein Human Design als Kompass<br />• soulMentoring – dein persönlicher Weg in die Tiefe<br /><br /></div>
+<div><strong>Mit soulPass – dein vertiefter Zugang:</strong><br />• Community mit Herz<br />• soulTools – wähle deinen Startimpuls<br />• soulKurse &amp; Events<br />• soulMeditationen &amp; tägliche Impulse<br /><br /></div>
+<div><strong>Den soulPass erhältst du kostenfrei – und mit ihm alle geschützten Funktionen.</strong></div>
+<div> </div>
+<h3>Starte jetzt – in deinem Tempo, auf deinem Weg</h3>
+<div><strong>Sichere dir jetzt kostenfrei deinen soulPass</strong><br />und öffne dir den Zugang zu deinem inneren Kompass.<br />Die Veränderung beginnt IN dir.<br /><br /></div>
+<div><strong>Mit liebevollem Gruß</strong><br />Andrea</div>
+</div>
 
 ## 2. Links
 

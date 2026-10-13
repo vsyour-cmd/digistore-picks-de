@@ -4,34 +4,34 @@ digistore24_product_id: 600517
 title: "eBook: ChatGPT für Affiliate"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 15.65
+price: 15.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.83
+earnings_per_sale: 7.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-03-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://michael-kotzur.de/chatgpt-fuer-affiliates/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51747/adminstore/"
 sales_page: "https://michael-kotzur.de/chatgpt-fuer-affiliates/"
 language: "de"
 ---
 # eBook: ChatGPT für Affiliate
 
 > Product ID `51747` · Digistore24 productId `600517` · [HTML profile page](../../produkte/ebook-chatgpt-f-r-affiliate-51747.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.65 (Single payment) |
+| Price | $15.62 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.83 |
+| Earnings/sale* | $7.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für das eBook: ChatGPT für Affiliate Verdiene über 500 € pro Sale mit unserem optimierten Funnel! Warum solltest du unser Produkt bewerben?50 % Provision auf das Hauptprodukt sowie auf Add-ons, Up- und Down-SalesHohe Verdienstmöglichkeiten – über 500 € pro Sale möglichHochkonvertierender Funnel, der ständig optimiert & erweitert wirdAttraktive Zielgruppe: Perfekt für alle, die onli…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für das eBook: ChatGPT für Affiliate</strong></p>
+<p><strong>Verdiene über 500 € pro Sale mit unserem optimierten Funnel!</strong></p>
+<p><strong>Warum solltest du unser Produkt bewerben?</strong><br /><strong>50 % Provision</strong> auf das Hauptprodukt sowie auf Add-ons, Up- und Down-Sales<br /><strong>Hohe Verdienstmöglichkeiten</strong> – über <strong>500 € pro Sale möglich</strong><br /><strong>Hochkonvertierender Funnel</strong>, der ständig <strong>optimiert &amp; erweitert</strong> wird<br /><strong>Attraktive Zielgruppe</strong>: Perfekt für alle, die online Geld verdienen wollen<br /><strong>Professionelles Werbematerial</strong> für einfache &amp; effektive Promotion</p>
+<p><strong>Jetzt bewerben und passiv verdienen!</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://michael-kotzur.de/chatgpt-fuer-affiliates/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51747/adminstore/
 - Sales page: https://michael-kotzur.de/chatgpt-fuer-affiliates/
 - Vendor affiliate support: https://michaelpartner.com/
 - Canonical redirect: https://www.digistore24.com/redir/600517/adminstore
@@ -81,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook: ChatGPT für Affiliate? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2025-03-07
-- Wie viel kostet es? — 15.654782 USD
+- Wie viel kostet es? — 15.619857000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

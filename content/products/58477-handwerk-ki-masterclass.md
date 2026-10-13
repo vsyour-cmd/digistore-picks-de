@@ -4,34 +4,34 @@ digistore24_product_id: 722679
 title: "Handwerk-KI Masterclass"
 vendor: "lietmann49565f245"
 product_type: "Member area and video courses"
-price: 234.47
+price: 233.95
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 23.44
+earnings_per_sale: 23.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-08-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://handwerk-ki.coachy.net/lp/k-i-im-buroalltag-2?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/58477/adminstore/"
 sales_page: "https://handwerk-ki.coachy.net/lp/k-i-im-buroalltag-2"
 language: "de"
 ---
 # Handwerk-KI Masterclass
 
 > Product ID `58477` · Digistore24 productId `722679` · [HTML profile page](../../produkte/handwerk-ki-masterclass-58477.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $234.47 (Subscription) |
+| Price | $233.95 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $23.44 |
+| Earnings/sale* | $23.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lietmann49565f245 |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Handwerk-KI Masterclass – Affiliate-Partnerschaft Zielgruppe: Handwerksbetriebe (Dachdecker, Elektriker, Maler, SHK und alle anderen Gewerke), die ihre Büroarbeit mit KI automatisieren wollen. Über 1 Million Handwerksbetriebe allein in Deutschland. Das Produkt: 7-Module-Masterclass zum Lesen und Nachbauen. Fertige KI-Prompts für Mail-Kommunikation, Angebotserstellung und Belegsortierung. Entwickel…
+**Vendor's marketplace description:** <p>Handwerk-KI Masterclass – Affiliate-Partnerschaft</p>
+<p>Zielgruppe: Handwerksbetriebe (Dachdecker, Elektriker, Maler, SHK und alle anderen Gewerke), die ihre Büroarbeit mit KI automatisieren wollen. Über 1 Million Handwerksbetriebe allein in Deutschland.</p>
+<p>Das Produkt: 7-Module-Masterclass zum Lesen und Nachbauen. Fertige KI-Prompts für Mail-Kommunikation, Angebotserstellung und Belegsortierung. Entwickelt von einem Dachdeckermeister, der das System selbst täglich nutzt.</p>
+<p>Warum es konvertiert:<br />- Klares Vorher/Nachher: 3-4 Stunden Angebotsarbeit → 3 Minuten<br />- Echte Praxiserfahrung, kein Theorie-Kurs<br />- Starker Preisanker: IT-Agentur ab 7.000 € vs. Masterclass 249 €<br />- Professionelle Landingpage mit Video und FAQ<br />- Niedrige Einstiegshürde, hoher wahrgenommener Wert</p>
+<p>Deine Provision:<br />- 25% auf die Einmalzahlung (249 €) = ca. 62 € pro Verkauf<br />- 20% auf das monatliche Abo (49 €/Monat) = ca. 10 €/Monat wiederkehrend<br />- Du verdienst nicht nur einmal, sondern jeden Monat weiter</p>
+<p>Werbematerial: Fertige Anzeigentexte, Produktbilder und Social-Media-Posts werden bereitgestellt.</p>
+<p>Perfekt für Affiliates mit Reichweite in: Handwerk, Selbständigkeit, Digitalisierung, KI/Automatisierung, Kleinunternehmen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://handwerk-ki.coachy.net/lp/k-i-im-buroalltag-2?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/58477/adminstore/
 - Sales page: https://handwerk-ki.coachy.net/lp/k-i-im-buroalltag-2
 - Canonical redirect: https://www.digistore24.com/redir/722679/adminstore
 
@@ -82,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Handwerk-KI Masterclass? — Typ: Member area and video courses, Anbieter: lietmann49565f245, gelistet seit 2026-08-20
-- Wie viel kostet es? — 234.47434400000003 USD
+- Wie viel kostet es? — 233.95124400000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

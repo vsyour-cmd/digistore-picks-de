@@ -4,16 +4,16 @@ digistore24_product_id: 327990
 title: "PlayersHUB Academy 6 Monats Paket"
 vendor: "playershub"
 product_type: "Member area and video courses"
-price: 118.75
+price: 118.49
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 14.37
+earnings_per_sale: 14.33
 cart_conversion_pct: 17
 cancel_rate_pct: 1.74
 categories: ["Computer & Internet","Fun & Games"]
 listed_since: "2020-05-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://lol.playershubacademy.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://lol.playershubacademy.de/"
@@ -22,16 +22,16 @@ language: "de"
 # PlayersHUB Academy 6 Monats Paket
 
 > Product ID `42986` · Digistore24 productId `327990` · [HTML profile page](../../produkte/playershub-academy-6-monats-paket-42986.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $118.75 (Subscription) |
+| Price | $118.49 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $14.37 |
+| Earnings/sale* | $14.33 |
 | Cart conversion* | 17% |
 | Cancel rate* | 1.74% |
 | Vendor | playershub |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** PlayersHUB Academy Verkauf von Mitgliedschaften und Abo´s 25 % wiederkehrende Provision
+**Vendor's marketplace description:** <p>PlayersHUB Academy </p>
+<ul>
+<li>Verkauf von Mitgliedschaften und Abo´s</li>
+<li>25 % wiederkehrende Provision</li>
+</ul>
 
 ## 2. Links
 
@@ -88,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PlayersHUB Academy 6 Monats Paket? — Typ: Member area and video courses, Anbieter: playershub, gelistet seit 2020-05-22
-- Wie viel kostet es? — 118.749982 USD
+- Wie viel kostet es? — 118.48505700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 109797
 title: "Der Gesundheitscode"
 vendor: "RaGarve"
 product_type: "Downloads"
-price: 289.76
+price: 289.12
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 60.09
+earnings_per_sale: 59.95
 cart_conversion_pct: 21
 cancel_rate_pct: 7.28
 categories: ["Health & Fitness"]
 listed_since: "2016-12-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://raikgarve.de/ganzheitliche-gesundheit/das-geheimnis-wahrer-selbstheilung-und-verjuengung/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/14271/adminstore/"
 sales_page: "https://raikgarve.de/ganzheitliche-gesundheit/das-geheimnis-wahrer-selbstheilung-und-verjuengung/"
 language: "de"
 ---
 # Der Gesundheitscode
 
 > Product ID `14271` · Digistore24 productId `109797` · [HTML profile page](../../produkte/der-gesundheitscode-14271.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $289.76 (Single payment) |
+| Price | $289.12 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $60.09 |
+| Earnings/sale* | $59.95 |
 | Cart conversion* | 21% |
 | Cancel rate* | 7.28% |
 | Vendor | RaGarve |
@@ -41,11 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Produkteigenschaften: 18-teiliger Kompakt-Video-Kurs (aufgeteilt in 6 umfassende Module) zur Befreiung deines natürlichen Leistungspotentials und gezielten Aktivierung deines „inneren Arztes“ insgesamt 12 Stunden hochwertige Video-Inhalte in Seminarform Einführungsmodul: Gesundheit - das unbekannte Wesen Gesundheitssäule Nr. 1: Richtiges Mindset Gesundheitssäule Nr. 2: Richtige Ernährung Gesundh…
+**Vendor's marketplace description:** <h2>Produkteigenschaften:</h2>
+<ul>
+<li><strong><span style="background-color:#ffff00;">18-teiliger Kompakt-Video-Kurs</span></strong> (aufgeteilt in 6 umfassende Module) zur Befreiung deines natürlichen Leistungspotentials und gezielten Aktivierung deines „inneren Arztes“</li>
+<li>insgesamt <strong>12 Stunden hochwertige Video-Inhalte in Seminarform</strong></li>
+<li><strong>Einführungsmodul: Gesundheit - das unbekannte Wesen</strong></li>
+<li><strong>Gesundheitssäule Nr. 1:</strong> Richtiges Mindset</li>
+<li><strong>Gesundheitssäule Nr. 2:</strong> Richtige Ernährung</li>
+<li><strong>Gesundheitssäule Nr. 3:</strong> Richtige Entgiftung</li>
+<li><strong>Gesundheitssäule Nr. 4:</strong> Richtiges Training, Abhärtung, Wasserheilung und Entspannung</li>
+<li><strong>Gesundheitssäule Nr. 5:</strong> Richtige Lebensweise und die Macht gesunder Gewohnheiten</li>
+<li>neuestes Insider-Wissen der Gesundheitsforschung zusammengefasst in einem praxiserprobten Programm mit klarer Schritt-für-Schritt-Anleitung</li>
+<li><strong>Bonus 1:</strong> 3-teiliger Video-Kurs "Raus aus der Energiefalle“</li>
+<li><strong>Bonus 2:</strong> 20-teiliger Video-Kurs "Geschichte der Medizin als Schlüssel zu wahrer Gesundheit"</li>
+</ul>
+<h2>Vorteile für dich als Anwender des Gesundheits-Codes:</h2>
+<ul>
+<li>Erhöhung deiner allgemeinen Belastbarkeit (körperlich + psychisch)</li>
+<li>Verbesserung deiner Verdauung (d.h. weniger Sodbrennen, Blähungen, Unverträglichkeiten)</li>
+<li>mehr geistige Klarheit, Erhöhung deiner Konzentrationsfähigkeit</li>
+<li>Zellverjüngung mit Verlangsamung des biologischen Alterungsprozesses</li>
+<li>tieferer und erholsamer Nachtschlaf im heutigen Zeitalter grenzenloser Hektik</li>
+<li>systematische und gezielte Aktivierung deines „inneren Arztes“</li>
+</ul>
+<p><strong>FAZIT:</strong> Der Kurs vermittelt in einem klar strukturierten Aufbau neues Erkenntnisse der Gesundheitsforschung, die jedem selbstverantwortlichen Menschen diverse Methoden, Techniken und Strategien zur Verbesserung der eigenen Lebensqualität mit an die Hand geben. Dadurch werden erst die Voraussetzungen geschafft für ein langes und gesundes Leben.</p>
+<p><strong> </strong></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://raikgarve.de/ganzheitliche-gesundheit/das-geheimnis-wahrer-selbstheilung-und-verjuengung/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/14271/adminstore/
 - Sales page: https://raikgarve.de/ganzheitliche-gesundheit/das-geheimnis-wahrer-selbstheilung-und-verjuengung/
 - Vendor affiliate support: https://raikgarve.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/109797/adminstore
@@ -86,7 +111,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Gesundheitscode? — Typ: Downloads, Anbieter: RaGarve, gelistet seit 2016-12-19
-- Wie viel kostet es? — 289.764748 USD
+- Wie viel kostet es? — 289.118298 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

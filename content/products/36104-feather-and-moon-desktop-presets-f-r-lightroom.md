@@ -4,16 +4,16 @@ digistore24_product_id: 295301
 title: "Feather and Moon Desktop Presets für Lightroom"
 vendor: "farbklangphotography"
 product_type: "Software"
-price: 51.79
+price: 51.68
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 10.35
+earnings_per_sale: 10.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2019-11-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.farbklang-fotografie.de/fuer-fotografen/shop/presets/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.farbklang-fotografie.de/fuer-fotografen/shop/presets/"
@@ -22,16 +22,16 @@ language: "de"
 # Feather and Moon Desktop Presets für Lightroom
 
 > Product ID `36104` · Digistore24 productId `295301` · [HTML profile page](../../produkte/feather-and-moon-desktop-presets-f-r-lightroom-36104.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $51.79 (Single payment) |
+| Price | $51.68 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $10.35 |
+| Earnings/sale* | $10.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | farbklangphotography |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Künstlerische und zeitlose Farben für Fotografen Du bist auf der Suche nach Lightroom Presets, die einfach zu handhaben sind, natürliche Hauttöne zaubern und dennoch künstlerisch wirken? Dann bist du hier genau richtig. Mit unseren Presets möchten wir eine Bildbearbeitung mit nur wenigen Klicks ermöglichen. Wir bearbeiten unsere Fotos aktuell selbst mit genau diesen Presets. Angewendet wurden sie …
+**Vendor's marketplace description:** <h3>Künstlerische und zeitlose Farben für Fotografen</h3>
+<p>Du bist auf der Suche nach Lightroom Presets, die <strong>einfach zu handhaben</strong> sind, <strong>natürliche Hauttöne</strong> zaubern und dennoch <strong>künstlerisch</strong> wirken? Dann bist du hier genau richtig.</p>
+<p>Mit unseren Presets möchten wir eine <strong>Bildbearbeitung mit nur wenigen Klicks</strong> ermöglichen. Wir bearbeiten unsere Fotos aktuell selbst mit genau diesen Presets. Angewendet wurden sie bisher auf Canon-, Nikon- und Sony-Kameras.</p>
+<p>Das Preset-Pack beinhaltet insgesamt acht Vorgaben, davon sechs Farb-Presets und zwei Schwarz-Weiß-Presets. Zusätzlich liegt eine Installationsanleitung (PDF) bei.</p>
+<p>Die Presets bieten dir die perfekte Grundlage für einen künstlerischen und dennoch zeitlosen Bearbeitungslook mit erdigen Farbtönen.</p>
+<p><strong>Lieferumfang</strong></p>
+<p>- 8 Presets (6x Farbe und 2x SW)</p>
+<p>- Installationsanleitung</p>
 
 ## 2. Links
 
@@ -75,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Feather and Moon Desktop Presets für Lightroom? — Typ: Software, Anbieter: farbklangphotography, gelistet seit 2019-11-15
-- Wie viel kostet es? — 51.794132 USD
+- Wie viel kostet es? — 51.678582000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 13613
 title: "Akkordeon spielen lernen für Anfänger"
 vendor: "doormaker"
 product_type: "Member area and video courses"
-price: 553.71
+price: 552.48
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 276.86
+earnings_per_sale: 276.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2013-07-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
-research_quality: "none"
-promo_link: "https://www.onlinemusikschule.info/akkordeon-spielen-lernen?aff=adminstore#aff=adminstore"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/38127/adminstore/"
 sales_page: "https://www.onlinemusikschule.info/akkordeon-spielen-lernen"
 language: "de"
 ---
 # Akkordeon spielen lernen für Anfänger
 
 > Product ID `38127` · Digistore24 productId `13613` · [HTML profile page](../../produkte/akkordeon-spielen-lernen-f-r-anf-nger-38127.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $553.71 (Single payment, Installment) |
+| Price | $552.48 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $276.86 |
+| Earnings/sale* | $276.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | doormaker |
@@ -41,18 +41,56 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bis zu 50 % Provision mit dem Pionier der Online-Musikkurse: Akkordeon für Anfänger (52 Wochen) Vertraue auf das Original! Seit 2008 ist Die Onlinemusikschule am Markt und von Tag 1 an erfolgreich auf Digistore24 vertreten. Mit der Erfahrung aus tausenden zufriedenen Teilnehmern bieten wir dir ein Produkt, das wirklich konvertiert. Bewirb jetzt unsere bewährte 52-wöchige Akkordeon-Ausbildung für A…
+**Vendor's marketplace description:** <p><strong>Bis zu 50 % Provision mit dem Pionier der Online-Musikkurse: Akkordeon für Anfänger (52 Wochen)</strong></p>
+<p> Vertraue auf das Original! Seit 2008 ist <em>Die Onlinemusikschule</em> am Markt und von Tag 1 an erfolgreich auf Digistore24 vertreten. Mit der Erfahrung aus tausenden zufriedenen Teilnehmern bieten wir dir ein Produkt, das wirklich konvertiert.</p>
+<p>Bewirb jetzt unsere bewährte 52-wöchige Akkordeon-Ausbildung für Anfänger und profitiere von lukrativen Auszahlungen, starken Conversion-Rates und erfreulich niedrigen Stornoquoten.</p>
+<p><strong>WICHTIGER HINWEIS: Bitte NICHT den Standard-Promolink rechts nutzen!</strong> </p>
+<p>Warum? Weil dir sonst bares Geld entgehen könnte! Wir arbeiten mit hochoptimierten Sales-Funnels und Verkaufssystemen, die über den Standard-Link von Digistore24 nicht sauber getrackt werden können.</p>
+<p><a><strong>[UNBEDINGT HIER KLICKEN UND ANMELDEN]</strong></a></p>
+<p><strong><a>https://onlinemusikschule.info/partnerprogramm</a></strong></p>
+<p>Melde dich stattdessen direkt über unseren Link an, um auf <a><em>onlinemusikschule.info</em></a> Zugang zum umfangreichsten und größten Affiliate-Partnerprogramm für Musikinstrumente zu erhalten. Nur so sicherst du dir 100 % deiner verdienten Provisionen!</p>
+<p><strong>SEI DABEI: Der große Affiliate-Wettbewerb!</strong> Zusätzlich zu deinen 50 % Provision winken dir mega Preise und Überraschungen. Unser großer Onlinemusikschule Affiliate-Wettbewerb läuft jedes Jahr vom 01.10. bis zum 30.09. des Folgejahres und ist bereits voll im Gange. Steig ein und hol dir die Gewinne!</p>
+<p>Alle detaillierten Informationen zu unseren einzelnen Angeboten, Werbematerialien und Funnels findest du direkt nach deiner Registrierung in unserem Partnerbereich.</p>
+<p>Ich freue mich auf eine erfolgreiche Partnerschaft! Bis dann, dein Helmut Eder</p>
+<p><strong>Hier geht's zur Partner-Anmeldung:</strong> <a>https://onlinemusikschule.info/partnerprogramm</a></p>
+<hr />
+<p><em>Transparenz-Hinweis zu den Digistore24-Statistiken:</em> <em>Bitte lass dich von der hier angezeigten Conversion-Rate und Stornoquote nicht irritieren; diese sind technisch bedingt verfälscht. Der Grund: 2013 gab es auf Digistore24 noch keine automatisierten Up- und Downsells. Zudem mussten Monatsabos manuell storniert werden, wenn Teilnehmer stattdessen die Einmalzahlung nutzten. Die echten, hochoptimierten Zahlen und alle Erklärungen dazu findest du transparent in unserem Partnerbereich!</em></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.onlinemusikschule.info/akkordeon-spielen-lernen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38127/adminstore/
 - Sales page: https://www.onlinemusikschule.info/akkordeon-spielen-lernen
 - Vendor affiliate support: https://onlinemusikschule.info/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/13613/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Headline (H1):**
+  > Richtig Akkordeon spielen lernen? Mit uns gelingt es in sehr kurzer Zeit. Bequem, online von zu Hause aus, aber mit Spass und pädagogisch richtig!
+  > DAS ORIGINAL
+  > FREIE ZEITEINTEILUNG
+- **Section headlines (H2):**
+  - DU bestimmst dein Lerntempo. DU bestimmst die Übungszeit. DU bestimmst deinen Fortschritt.
+  - Viele, ob 6 oder 99 Jahre, sind aktuell im online Akkordeonkurs mit dabei... Wann du?
+  - Kostenlos und unverbindlich...
+  - Warum die Onlinemusikschule?
+  - Dann zeigt es Martin auf witzige Weise, sodass - egal ob jung und alt wirklich Freude am Spielen ha
+  - Wir haben einige Teilnehmer gefragt, was sie denn so von uns halten. Das ist ein kleiner Teil daraus....
+  - 52 Wochen Kurs
+  - Du teilst dir deine Zeit ein
+  - Ein Chat und Blog-System
+  - 3 HD Kameras
+- **Price mentions on page:** €40,83, €647, €599
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/redir/199683/doormaker/
+  - https://www.digistore24.com/product/13613
+- **Opening copy (first paragraphs):**
+  > LAUTSPRECHER einschalten. Martin, dein virtueller Akkordeonlehrer mit seinem Akkordeon Orchester wartet...
+  > KEIN nerviger Lehrer Vor- und / zurückspulen und ansehen so oft du willst - auch in Zeitlupe
+  > Seit 2008 lernen mit der Onlinemusikschule.info schon tausende das Akkordeon. Wir haben die Erfahrung und du die Spass- und Erfolgsgarantie.
+  > Du teilst dir selbser deine Übungszeit ein. Die Kurslektionen kannst du vor- und zurückspulen und ansehen so oft du willst.
+- **Page word count:** 1853
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -67,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Akkordeon spielen lernen für Anfänger? — Typ: Member area and video courses, Anbieter: doormaker, gelistet seit 2013-07-05
-- Wie viel kostet es? — 553.710872 USD
+- Wie viel kostet es? — 552.475572 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

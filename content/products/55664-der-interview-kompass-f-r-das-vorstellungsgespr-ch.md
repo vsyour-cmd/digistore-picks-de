@@ -4,16 +4,16 @@ digistore24_product_id: 670242
 title: "Der Interview-Kompass für das Vorstellungsgespräch"
 vendor: "Diveco"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.19
+earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Marketing Services"]
 listed_since: "2026-02-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-der-interview-kompass-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/workbook-der-interview-kompass-landingpage/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Interview-Kompass für das Vorstellungsgespräch
 
 > Product ID `55664` · Digistore24 productId `670242` · [HTML profile page](../../produkte/der-interview-kompass-f-r-das-vorstellungsgespr-ch-55664.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.19 |
+| Earnings/sale* | $5.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -41,7 +41,49 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Sichere dir jetzt deinen Vorsprung!“ Bereite dich mit dem Wissen erfahrener HR-Profis vor. Schluss mit der Unsicherheit – starte deine Karriere-Optimierung für nur 9,90 €. Sofort-Download: Direkt nach dem Kauf als PDF verfügbar. KI-Ready: Inklusive Copy & Paste Prompts für deine Vorbereitung. Praxisnah: 64 Fragen, die dich wirklich weiterbringen. Jetzt bestellen und entspannt zum Traumjob! Verwan…
+**Vendor's marketplace description:** <p><strong>„Sichere dir jetzt deinen Vorsprung!“</strong> Bereite dich mit dem Wissen erfahrener HR-Profis vor. Schluss mit der Unsicherheit – starte deine Karriere-Optimierung für nur <strong>9,90 €</strong>.</p>
+<ul>
+<li>
+<p><strong>Sofort-Download:</strong> Direkt nach dem Kauf als PDF verfügbar.</p>
+</li>
+<li>
+<p><strong>KI-Ready:</strong> Inklusive Copy &amp; Paste Prompts für deine Vorbereitung.</p>
+</li>
+<li>
+<p><strong>Praxisnah:</strong> 64 Fragen, die dich wirklich weiterbringen.</p>
+</li>
+</ul>
+<p><strong>Jetzt bestellen und entspannt zum Traumjob!</strong></p>
+<p><strong>Verwandle Lampenfieber in Souveränität – mit der Power der KI.</strong></p>
+<p>Kennst du das beklemmende Gefühl vor einem Vorstellungsgespräch? Die Sorge, bei einer Fangfrage ins Stocken zu geraten oder sich unter Wert zu verkaufen, betrifft Bewerber jeder Altersgruppe. Unser Workbook ist dein strategischer Begleiter, um genau diese Hürden zu meistern.</p>
+<div> </div>
+<h3>Was dich im Workbook erwartet:</h3>
+<p>Wir haben die <strong>64 entscheidenden Fragen</strong> aus der HR-Praxis analysiert und für dich aufbereitet:</p>
+<p><strong>1️⃣ Gesprächseinstieg &amp; Motivation:</strong> Meistere den Pitch zu deiner Person und begründe deinen Wechselwunsch professionell (Fragen 1–14).</p>
+<p> </p>
+<p><strong>2️⃣ Selbsteinschätzung:</strong> Präsentiere deine Stärken und gehe reflektiert mit Schwächen um (Fragen 15–29).</p>
+<p><strong>3️⃣ Arbeitsstil &amp; Team:</strong> Zeige, wie du Herausforderungen löst und dich im Team organisierst (Fragen 30–40).</p>
+<p><strong>4️⃣ Charakter &amp; Werte:</strong> Überzeuge durch Integrität und eine starke Persönlichkeit (Fragen 41–52).</p>
+<p><strong>5️⃣ Spontanität &amp; Stress:</strong> Bleibe ruhig bei Schätzfragen und kreativen „Out-of-the-box“-Rätseln (Fragen 53–64).</p>
+<h3>Dein strategischer Vorteil: Der KI-Turbo</h3>
+<p>Jede Frage enthält einen <strong>maßgeschneiderten KI-Prompt</strong>. Kopiere diese einfach in ChatGPT oder Gemini, um:</p>
+<ul>
+<li>
+<p>Individuelle Antwortformulierungen basierend auf deinem Lebenslauf zu erhalten.</p>
+<div> </div>
+</li>
+<li>
+<p>Eigene Kündigungsgründe neutral und positiv zu verpacken.</p>
+<div> </div>
+</li>
+<li>
+<p>Einen 30-60-90-Tage-Plan für deine neue Stelle zu entwerfen.</p>
+<div> </div>
+</li>
+</ul>
+<p><strong>Der Aha-Moment:</strong> Du lernst nicht nur, <em>was</em> du sagen sollst, sondern verstehst die <strong>Motivation des Personalers</strong> hinter jeder Frage. Wenn du weißt, dass die Frage nach Fehlern eigentlich deine Fehlerkultur prüft, antwortest du sofort sicherer.</p>
+<p>E-Book - PDF-Dokument</p>
+<p>Auslieferung: digital per Download, E-Mail nach Kauf</p>
 
 ## 2. Links
 
@@ -83,7 +125,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Interview-Kompass für das Vorstellungsgespräch? — Typ: E-books, Anbieter: Diveco, gelistet seit 2026-02-20
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

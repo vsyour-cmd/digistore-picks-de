@@ -4,16 +4,16 @@ digistore24_product_id: 661107
 title: "E-Book zu TikTok  ChatGPT"
 vendor: "startsocial"
 product_type: "Online coaching"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.72
+earnings_per_sale: 12.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing"]
 listed_since: "2026-01-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/661107?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/661107"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book zu TikTok  ChatGPT
 
 > Product ID `55202` · Digistore24 productId `661107` · [HTML profile page](../../produkte/e-book-zu-tiktok-chatgpt-55202.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.72 |
+| Earnings/sale* | $12.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | startsocial |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Produkt ist ein ehrlicher Praxis-Leitfadenzum Thema Online Geld verdienen mit TikTok & ChatGPT. Kein Hype, keine Einkommensversprechen, keine Abkürzungen.Das E-Book richtet sich an Anfänger und Fortgeschritteneim deutschsprachigen Raum, die realistische Systemestatt leerer Versprechen suchen. Produktdetails:– Digitales E-Book (PDF)– Sofortiger Download nach Kauf– Einmalzahlung (27 €)– 50 % …
+**Vendor's marketplace description:** <p>Dieses Produkt ist ein ehrlicher Praxis-Leitfaden<br />zum Thema Online Geld verdienen mit TikTok &amp; ChatGPT.</p>
+<p>Kein Hype, keine Einkommensversprechen, keine Abkürzungen.<br />Das E-Book richtet sich an Anfänger und Fortgeschrittene<br />im deutschsprachigen Raum, die realistische Systeme<br />statt leerer Versprechen suchen.</p>
+<p>Produktdetails:<br />– Digitales E-Book (PDF)<br />– Sofortiger Download nach Kauf<br />– Einmalzahlung (27 €)<br />– 50 % Affiliate-Provision<br />– Abwicklung &amp; Auszahlung über Digistore24</p>
+<p>Geeignet für:<br />– Blogs<br />– YouTube<br />– E-Mail-Listen<br />– ruhige Social-Media-Kanäle</p>
+<p>Nicht geeignet für:<br />– „Schnell reich werden“-Marketing<br />– Einkommens- oder Erfolgsgarantien</p>
+<p>Dieses Produkt setzt auf Vertrauen, Klarheit<br />und langfristige Bewerbbarkeit.</p>
 
 ## 2. Links
 
@@ -72,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book zu TikTok  ChatGPT? — Typ: Online coaching, Anbieter: startsocial, gelistet seit 2026-01-13
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

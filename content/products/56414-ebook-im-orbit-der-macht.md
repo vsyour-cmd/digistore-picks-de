@@ -4,16 +4,16 @@ digistore24_product_id: 689382
 title: "Ebook - Im Orbit der Macht"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.8
+price: 6.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.41
+earnings_per_sale: 3.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Green Products & Environmental Protection"]
 listed_since: "2026-05-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689382?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689382"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Im Orbit der Macht
 
 > Product ID `56414` · Digistore24 productId `689382` · [HTML profile page](../../produkte/ebook-im-orbit-der-macht-56414.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.80 (Single payment) |
+| Price | $6.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.41 |
+| Earnings/sale* | $3.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochaktuelles Zukunftsthema mit enormer Reichweite: Dieses Buch macht die unsichtbare Macht der Satelliten greifbar und zeigt eindrucksvoll, wie sie Kommunikation, Wirtschaft, Sicherheit und Alltag steuern. Die Verbindung aus verständlicher Wissensvermittlung, technologischer Faszination und gesellschaftlicher Relevanz spricht sowohl Technikinteressierte als auch ein breites Publikum an. Beson…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Ein hochaktuelles Zukunftsthema mit enormer Reichweite:</p>
+<p>Dieses Buch macht die unsichtbare Macht der Satelliten greifbar und zeigt eindrucksvoll, wie sie Kommunikation, Wirtschaft, Sicherheit und Alltag steuern.</p>
+<p>Die Verbindung aus verständlicher Wissensvermittlung, technologischer Faszination und gesellschaftlicher Relevanz spricht sowohl Technikinteressierte als auch ein breites Publikum an.</p>
+<p>Besonders stark für Content in den Bereichen Zukunft, KI, Raumfahrt, Digitalisierung und globale Entwicklungen.</p>
+<p>Die Mischung aus Fakten, Praxisbeispielen und visionären Ausblicken sorgt für hohe Aufmerksamkeit und starke Klick- und Kaufimpulse.</p>
+<p>Ein ideales Produkt für Affiliates, die auf Trends, Innovation und Wissenscontent setzen.</p>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
+<div>
+<div> </div>
+</div>
+</div>
+</div>
+
+<div> </div>
 
 ## 2. Links
 
@@ -71,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Im Orbit der Macht? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-01
-- Wie viel kostet es? — 6.802042 USD
+- Wie viel kostet es? — 6.786867000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

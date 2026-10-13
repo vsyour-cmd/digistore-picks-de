@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Real Estate","Marketing Services"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://academy.e-ducation.cloud/course/sic-warum-sich-immobilien-nicht-verkaufen?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/sic-warum-sich-immobilien-nicht-verkaufen"
@@ -22,7 +22,7 @@ language: "de"
 # SIC - Warum sich Immobilien nicht verkaufen
 
 > Product ID `56772` · Digistore24 productId `692320` · [HTML profile page](../../produkte/sic-warum-sich-immobilien-nicht-verkaufen-56772.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,54 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verdiene attraktive Provisionen mit dem Funnel „Warum sich Immobilien nicht verkaufen“ Dieses Partnerprogramm richtet sich an Affiliates, die hochwertige Bildungsprodukte rund um Immobilien, Entscheidungsprozesse, Verkaufsstagnation und systemische Zusammenhänge bewerben möchten. Das kostenlose Einstiegsprodukt „Warum sich Immobilien nicht verkaufen“ dient als Türöffner in einen mehrstufigen Produ…
+**Vendor's marketplace description:** <h2>Verdiene attraktive Provisionen mit dem Funnel „Warum sich Immobilien nicht verkaufen“</h2>
+<p>Dieses Partnerprogramm richtet sich an Affiliates, die hochwertige Bildungsprodukte rund um Immobilien, Entscheidungsprozesse, Verkaufsstagnation und systemische Zusammenhänge bewerben möchten.</p>
+<p>Das kostenlose Einstiegsprodukt „Warum sich Immobilien nicht verkaufen“ dient als Türöffner in einen mehrstufigen Produktfunnel und spricht Immobilienbesitzer/innen, Makler/innen, Investoren/innen sowie Personen an, die stagnierende Immobilienprozesse besser verstehen möchten.</p>
+<h3>Deine Provisionen</h3>
+<ul>
+<li>70 % Provision auf Einstiegsprodukte</li>
+<li>50 % Provision auf Mittelpreis- und Hochpreisprodukte</li>
+<li>25 % Provision auf sehr hochpreisige Produkte</li>
+</ul>
+<p>Die Abrechnung, das Tracking und die Auszahlung erfolgen vollständig über Digistore24.</p>
+<h3>Das bewirbt dein Traffic</h3>
+<p>Das Freebie vermittelt grundlegende Einblicke in mögliche systemische Ursachen von Verkaufsstagnationen bei Immobilien.</p>
+<p>Themen sind unter anderem:</p>
+<ul>
+<li>typische Blockaden bei Immobilienverkäufen</li>
+<li>Entscheidungsdynamiken im Verkaufsprozess</li>
+<li>verdeckte Einflussfaktoren bei stagnierenden Objekten</li>
+<li>Zusammenhänge zwischen Eigentümer/in, Objekt und Verkaufsprozess</li>
+<li>erste Orientierung zu systemischen Betrachtungsweisen</li>
+</ul>
+<h3>Für welche Zielgruppen eignet sich die Bewerbung?</h3>
+<ul>
+<li>Immobilienbesitzer/innen</li>
+<li>Immobilienmakler/innen</li>
+<li>Investoren/innen</li>
+<li>Erbengemeinschaften</li>
+<li>Personen mit schwer verkäuflichen Immobilien</li>
+<li>Menschen mit Interesse an systemischen Zusammenhängen</li>
+</ul>
+<h3>Werbematerial</h3>
+<p>Als Affiliate erhältst du Zugriff auf:</p>
+<ul>
+<li>Social-Media-Grafiken</li>
+<li>Facebook-Bilder</li>
+<li>Instagram-Beiträge</li>
+<li>Banner</li>
+<li>E-Mail-Vorlagen</li>
+<li>Werbetexte</li>
+<li>CTA-Vorlagen</li>
+<li>Affiliate-Supportmaterial</li>
+</ul>
+<h3>Besonderheit des Funnels</h3>
+<p>Der Funnel arbeitet nicht mit klassischen Verkaufsversprechen, sondern mit Aufklärung, Einordnung und Bewusstmachung. Dadurch entsteht eine hohe Qualität der Leads und eine starke Kaufbereitschaft bei den Folgeprodukten.</p>
+<h3>Affiliate-Support</h3>
+<p>Bei Fragen zur Affiliate-Partnerschaft:</p>
+<p><a>affiliate@e-ducation.cloud</a></p>
+<h3>Hinweis</h3>
+<p>Die Produkte dienen ausschliesslich der Information und Wissensvermittlung. Es werden keine Erfolgsversprechen abgegeben. Die Zahlungsabwicklung erfolgt über Digistore24.</p>
 
 ## 2. Links
 

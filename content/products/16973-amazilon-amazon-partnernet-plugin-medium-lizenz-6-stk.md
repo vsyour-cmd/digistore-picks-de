@@ -4,34 +4,34 @@ digistore24_product_id: 90365
 title: "Amazilon - Amazon PartnerNet Plugin - Medium Lizenz (6 Stk.)"
 vendor: "hinmed"
 product_type: "Downloads"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 13.99
+earnings_per_sale: 13.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2016-08-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://amazilon.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/16973/adminstore/"
 sales_page: "https://amazilon.com/"
 language: "de"
 ---
 # Amazilon - Amazon PartnerNet Plugin - Medium Lizenz (6 Stk.)
 
 > Product ID `16973` · Digistore24 productId `90365` · [HTML profile page](../../produkte/amazilon-amazon-partnernet-plugin-medium-lizenz-6-stk-16973.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.22 (Subscription) |
+| Price | $93.01 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $13.99 |
+| Earnings/sale* | $13.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hinmed |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Amazilon WordPress Plugin richtet sich an Amazon Affiliates. Per WordPress Plugin kinderleicht Amazon Produkte über das Partnernet in die eigene Seite integrieren und verlinken. Produkte einfach über das Amazon Partnerprogramm bewerben Individuelle Amazon-Tracking IDs einsetzbar API Zugriff aktuelle Daten. Sehr hohe Flexibilität bei der Einbindung der gewünschten Daten. Cachingzeit wählbar Ind…
+**Vendor's marketplace description:** <p>Das Amazilon WordPress Plugin richtet sich an Amazon Affiliates. Per WordPress Plugin kinderleicht Amazon Produkte über das Partnernet in die eigene Seite integrieren und verlinken.</p>
+<ul><li>Produkte einfach über das Amazon Partnerprogramm bewerben</li>
+<li>Individuelle Amazon-Tracking IDs einsetzbar</li>
+<li>API Zugriff aktuelle Daten.</li>
+<li>Sehr hohe Flexibilität bei der Einbindung der gewünschten Daten.</li>
+<li>Cachingzeit wählbar</li>
+<li>Individuelle Fallback-Angaben</li>
+<li>E-Mail Alert für nicht verfügbare Produkte</li>
+<li>Google Analytics Event-Klick-Tracking</li>
+<li>u.m.</li>
+</ul><p>Verdiene jetzt Geld mit deinem Blog. Mehr auf <a>amazilon.com</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://amazilon.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/16973/adminstore/
 - Sales page: https://amazilon.com/
 - Vendor affiliate support: https://amazilon.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/90365/adminstore
@@ -93,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Amazilon - Amazon PartnerNet Plugin - Medium Lizenz (6 Stk.)? — Typ: Downloads, Anbieter: hinmed, gelistet seit 2016-08-06
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

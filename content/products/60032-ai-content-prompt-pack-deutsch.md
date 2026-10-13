@@ -4,16 +4,16 @@ digistore24_product_id: 738781
 title: "AI Content Prompt Pack (Deutsch)"
 vendor: "xarutacom"
 product_type: "E-books"
-price: 24.09
+price: 24.04
 currency: "USD"
-affiliate_commission_pct: 25
-earnings_per_sale: 6.03
+affiliate_commission_pct: 30
+earnings_per_sale: 7.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/ai-content-prompt-pack-de/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/ai-content-prompt-pack-de/"
@@ -22,16 +22,16 @@ language: "de"
 # AI Content Prompt Pack (Deutsch)
 
 > Product ID `60032` · Digistore24 productId `738781` · [HTML profile page](../../produkte/ai-content-prompt-pack-deutsch-60032.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $24.09 (Single payment) |
-| Affiliate commission | 25% |
-| Earnings/sale* | $6.03 |
+| Price | $24.04 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $7.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ✅ 100+ KI-Prompts für die schnellere Erstellung besserer Inhalte: Format: Canva Templates Inhalt:15x Instagram Hooks15x Bildunterschriften (Captions)15x Reels10x Karussell-Vorlagen10x Beitrag-Vorlagen10x Content-Ideen10x Visuelle Prompts & Bild-Prompts10x Persönliche Marke5x Marketing & Sales5x Viralität/Engagement
+**Vendor's marketplace description:** <p><br />✅ 100+ KI-Prompts für die schnellere Erstellung besserer Inhalte:</p>
+<p><strong>Format</strong>: Canva Templates</p>
+<p><br /><strong>Inhalt:</strong><br />15x Instagram Hooks<br />15x Bildunterschriften (Captions)<br />15x Reels<br />10x Karussell-Vorlagen<br />10x Beitrag-Vorlagen<br />10x Content-Ideen<br />10x Visuelle Prompts &amp; Bild-Prompts<br />10x Persönliche Marke<br />5x Marketing &amp; Sales<br />5x Viralität/Engagement</p>
 
 ## 2. Links
 
@@ -67,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Content Prompt Pack (Deutsch)? — Typ: E-books, Anbieter: xarutacom, gelistet seit 2026-09-29
-- Wie viel kostet es? — 24.0929 USD
+- Wie viel kostet es? — 24.039150000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

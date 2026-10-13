@@ -4,7 +4,7 @@ digistore24_product_id: 732995
 title: "Mehr bei mir sein – Dein Workbook für innere Mitte"
 vendor: "entdeckerei"
 product_type: "Downloads"
-price: 22.6
+price: 22.55
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.26
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/732995?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/732995"
@@ -22,14 +22,14 @@ language: "de"
 # Mehr bei mir sein – Dein Workbook für innere Mitte
 
 > Product ID `59312` · Digistore24 productId `732995` · [HTML profile page](../../produkte/mehr-bei-mir-sein-dein-workbook-f-r-innere-mitte-59312.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.60 (Single payment) |
+| Price | $22.55 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.26 |
 | Cart conversion* | — |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das praxisnahe Workbook für alle, die aus dem hektischen Alltag aussteigen und wieder ganz bei sich ankommen wollen! Dieses interaktive Workbook unterstützt deine Zielgruppe Schritt für Schritt dabei, den Fokus vom Außen zurück ins Innen zu lenken. Es bietet gezielte Übungen, gestaltete Seiten und Impulse, um eigene Bedürfnisse wahrzunehmen, sanft aber bestimmt Grenzen zu setzen und sich im Alltag…
+**Vendor's marketplace description:** <p><strong>Das praxisnahe Workbook für alle, die aus dem hektischen Alltag aussteigen und wieder ganz bei sich ankommen wollen!</strong></p>
+<p>Dieses interaktive Workbook unterstützt deine Zielgruppe Schritt für Schritt dabei, den Fokus vom Außen zurück ins Innen zu lenken. Es bietet gezielte Übungen, gestaltete Seiten und Impulse, um eigene Bedürfnisse wahrzunehmen, sanft aber bestimmt Grenzen zu setzen und sich im Alltag fest in der eigenen Mitte zu verankern.</p>
+<p><strong>Vorteile für Käufer:</strong></p>
+<ul>
+<li>
+<p>Sofortiger PDF-Download</p>
+</li>
+<li>
+<p>Praxisnahe Seiten, Achtsamkeitsmethoden &amp; Reflexionen</p>
+</li>
+<li>
+<p>Perfekt für alle, die nach konkreten Tools zur Stressbewältigung &amp; Selbstanbindung suchen</p>
+</li>
+</ul>
+<p>Ideal für Affiliates in den Nischen Coaching, Mentale Gesundheit, Selfcare, Achtsamkeit und Persönlichkeitsentwicklung!</p>
 
 ## 2. Links
 
@@ -73,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr bei mir sein – Dein Workbook für innere Mitte? — Typ: Downloads, Anbieter: entdeckerei, gelistet seit 2026-09-17
-- Wie viel kostet es? — 22.602502 USD
+- Wie viel kostet es? — 22.552077000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

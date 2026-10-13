@@ -4,34 +4,34 @@ digistore24_product_id: 326584
 title: "1% Money System I Automatisierte Cash Maschine"
 vendor: "moserda"
 product_type: "Member area and video courses"
-price: 35.96
+price: 35.88
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 98.64
+earnings_per_sale: 98.42
 cart_conversion_pct: 8
 cancel_rate_pct: 1.26
 categories: ["Social Media"]
 listed_since: "2020-05-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://einprozentclub.com/moneysystem/?aff=adminstore#aff=adminstore"
+promo_link: "https://franke-akademie.de/met-gluecksformel-instagram#aff=adminstore"
 sales_page: "https://einprozentclub.com/moneysystem/"
 language: "de"
 ---
 # 1% Money System I Automatisierte Cash Maschine
 
 > Product ID `38851` · Digistore24 productId `326584` · [HTML profile page](../../produkte/1-money-system-i-automatisierte-cash-maschine-38851.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.96 (Single payment, Installment) |
+| Price | $35.88 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $98.64 |
+| Earnings/sale* | $98.42 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.26% |
 | Vendor | moserda |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 1% Money System - 105€ pro Verkauf! Übernehme unser Webinar-VerkaufssystemKlick-für-Klick und erziele automatisiert biszu 300€ Provision pro Verkauf! Hinweis! Funnel beginnt immer mit dem 1% Club. Einzigartig:• 75% Provision vom 1% Club - 15€• 50% Provision auf Up/Downsale - 25€/18€• 50% Provision auf Follow Up - 105€/56€• Zusätzlich 20% vom Order BumpVerdiene als Affiliate bis zu 215€ pro Verkauf…
+**Vendor's marketplace description:** <h4><strong>1% Money System - <span style="background-color:#ffff00;">105€ pro Verkauf!</span></strong><strong><br /></strong></h4>
+<p><strong>Übernehme unser Webinar-Verkaufssystem<br />Klick-für-Klick und erziele automatisiert bis<br />zu 300€ Provision pro Verkauf!</strong></p>
+<p><strong>Hinweis<a href="https://einprozentclub.com/Affiliate-Support/" target="_blank" rel="noreferrer noopener">!</a> </strong>Funnel beginnt immer mit dem 1% Club.</p>
+<p><strong>Einzigartig:<br /></strong>• 75% Provision vom 1% Club - 15€<br />• 50% Provision auf Up/Downsale - 25€/18€<br />• 50% Provision auf Follow Up - 105€/56€<br />• Zusätzlich 20% vom Order Bump<strong><br /><br /></strong>Verdiene als Affiliate bis zu <span style="background-color:#ffff00;"><strong>215€ pro Verkauf!</strong><strong> </strong></span></p>
+<p><strong><span style="text-decoration:underline;">2. Level Provisionen:</span><br /></strong>Verdiene weitere 20% passiv für jeden Verkauf eines von dir beworbenen Affiliates! (exkl. für Mitglieder)</p>
+<p><strong>Affiliate Reward:<br /></strong>Erhalte als Top Affiliate zusätzliche monatliche Preise für deine Leistung.</p>
+<p><a href="https://einprozentclub.com/Affiliate-Support/" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; Hinweise zum Partnerprogramm (hier klicken) &lt;&lt;</strong></a></p>
+<p><strong><a href="https://einprozentclub.com/Affiliate-Reward/" target="_blank" rel="noreferrer noopener">&gt; Affiliate Reward Rangliste &lt;</a></strong></p>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://einprozentclub.com/moneysystem/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://franke-akademie.de/met-gluecksformel-instagram#aff=adminstore
 - Sales page: https://einprozentclub.com/moneysystem/
 - Vendor affiliate support: https://einprozentclub.com/Affiliate-Support/
 - Canonical redirect: https://www.digistore24.com/redir/326584/adminstore
@@ -67,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1% Money System I Automatisierte Cash Maschine? — Typ: Member area and video courses, Anbieter: moserda, gelistet seit 2020-05-14
-- Wie viel kostet es? — 35.96005400000001 USD
+- Wie viel kostet es? — 35.87982900000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

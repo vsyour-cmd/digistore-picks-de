@@ -4,34 +4,34 @@ digistore24_product_id: 398128
 title: "Der 120/80-Blutdruck-Guide mit Ralf Moll"
 vendor: "RalfMollFastensuppen"
 product_type: "Online coaching"
-price: 37.57
+price: 37.49
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 5.64
+earnings_per_sale: 5.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-07-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-blutdruckguide/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/38859/adminstore/"
 sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-blutdruckguide/"
 language: "de"
 ---
 # Der 120/80-Blutdruck-Guide mit Ralf Moll
 
 > Product ID `38859` · Digistore24 productId `398128` · [HTML profile page](../../produkte/der-120-80-blutdruck-guide-mit-ralf-moll-38859.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $37.57 (Single payment) |
+| Price | $37.49 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $5.64 |
+| Earnings/sale* | $5.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RalfMollFastensuppen |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Tue Gutes und empfehle deinen Kunden und Freunden unseren 120/80 Blutdruck-Guide weiter! Mit basischem 14-Tage Speiseplan und zahlreichen Videos zur Ernährung, Entspanung und Entsäuerung von Ralf Moll Deine Vorteile: -> Gute Provisionen von 15% für alle Produkte -> Garantiert etwas für deine Kunden dabei: Jeder muss mal fasten! -> Getestet und optimiert: Bereits über 1.000 verkaufte Online-Kurse -…
+**Vendor's marketplace description:** <h4><strong>Tue Gutes und empfehle deinen Kunden und Freunden unseren 120/80 Blutdruck-Guide weiter!</strong></h4>
+<p><strong>Mit basischem 14-Tage Speiseplan und zahlreichen Videos zur Ernährung, Entspanung und Entsäuerung von Ralf Moll</strong></p>
+<p>Deine Vorteile:</p>
+<p><strong>-&gt; Gute Provisionen von 15% für alle Produkte</strong></p>
+<p><strong>-&gt; Garantiert etwas für deine Kunden dabei: Jeder muss mal fasten!</strong></p>
+<p><strong>-&gt; Getestet und optimiert: Bereits über 1.000 verkaufte Online-Kurse</strong></p>
+<p><strong>-&gt; Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren optimierten Verkaufsfunneln und Riesennetzwerk</strong></p>
+<p><strong>-&gt; Schneller Support durch unseren Affiliate-Manager</strong></p>
+<p> </p>
+<p>Melde dich jetzt als Affiliate an und verdiene mit uns mit!</p>
+<p>Beste Fastengrüße<br />Ralf Moll</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-blutdruckguide/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38859/adminstore/
 - Sales page: https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-blutdruckguide/
 - Canonical redirect: https://www.digistore24.com/redir/398128/adminstore
 
@@ -88,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 120/80-Blutdruck-Guide mit Ralf Moll? — Typ: Online coaching, Anbieter: RalfMollFastensuppen, gelistet seit 2021-07-14
-- Wie viel kostet es? — 37.573718 USD
+- Wie viel kostet es? — 37.489893 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 538322
 title: "CAD-Video Selection"
 vendor: "CADDeutschland"
 product_type: "Member area and video courses"
-price: 1325.11
+price: 1322.15
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 265.02
+earnings_per_sale: 264.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/538322?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/538322"
@@ -22,16 +22,16 @@ language: "de"
 # CAD-Video Selection
 
 > Product ID `57340` · Digistore24 productId `538322` · [HTML profile page](../../produkte/cad-video-selection-57340.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1325.11 (Single payment) |
+| Price | $1322.15 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $265.02 |
+| Earnings/sale* | $264.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CADDeutschland |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für Einsteiger und Profis Unser Video-Portal richtet sich an alle Anwender, die keine oder wenig Erfahrung mit BricsCAD haben, oder die Ihre Kenntnisse auffrischen möchten. Mit dem Video-Portal erarbeiten Sie sich nicht nur eine solide CAD-Basis, sondern finden auch viele Tipps und Tricks um den CAD-Alltag noch effizienter zu gestalten. Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiede…
+**Vendor's marketplace description:** <h2>Für Einsteiger und Profis</h2>
+<p> </p>
+<p>Unser Video-Portal richtet sich an alle Anwender, die keine oder wenig Erfahrung mit BricsCAD haben, oder die Ihre Kenntnisse auffrischen möchten. Mit dem Video-Portal erarbeiten Sie sich nicht nur eine solide CAD-Basis, sondern finden auch viele Tipps und Tricks um den CAD-Alltag noch effizienter zu gestalten. Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen.</p>
+<p>Lernen Sie innerhalb kürzester Zeit die wichtigsten BricsCAD 2D und 3D, BIM, Mechanical und 2D+3D Parametrik Funktionen kennen und nutzen. <br /><br />Mit dem Kauf des Paketes CAD-Video Selection erhalten Sie vollen Zugriff auf die Kurse BricsCAD 2D und 3D, BIM, Mechanical und 2D+3D Parametrik unter CAD-Video.de für 1 Jahr und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen.</p>
+<p>Machen Sie diese Video-Plattform zu Ihrem „BricsCAD-Personal-Trainer“, der Ihnen 24 Stunden täglich und 7 Tage die Woche zur Seite steht.</p>
 
 ## 2. Links
 
@@ -80,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CAD-Video Selection? — Typ: Member area and video courses, Anbieter: CADDeutschland, gelistet seit 2026-07-01
-- Wie viel kostet es? — 1325.1095 USD
+- Wie viel kostet es? — 1322.15325 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

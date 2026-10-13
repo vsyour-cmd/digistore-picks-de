@@ -4,7 +4,7 @@ digistore24_product_id: 671945
 title: "Selbstudium Hautanalyse und Bestimmung der Hauttypen"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Downloads"
-price: 28.25
+price: 28.19
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.82
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-02-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/671945?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55747/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/671945"
 language: "de"
 ---
 # Selbstudium Hautanalyse und Bestimmung der Hauttypen
 
 > Product ID `55747` · Digistore24 productId `671945` · [HTML profile page](../../produkte/selbstudium-hautanalyse-und-bestimmung-der-hauttypen-55747.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.25 (Single payment) |
+| Price | $28.19 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate werden und verdienen‼️‼️‼️ Der ultimative Kurs für ambitionierte Kosmetikerinnen, Beauty-Einsteigerinnen und Studioinhaberinnen, die sich im Kosmetikbereich professionell weiterentwickeln und zertifiziertes Fachwissen aufbauen möchten.
+**Vendor's marketplace description:** <p>Affiliate werden und verdienen‼️‼️‼️</p>
+<p>Der ultimative Kurs für ambitionierte Kosmetikerinnen, Beauty-Einsteigerinnen und Studioinhaberinnen, die sich im Kosmetikbereich professionell weiterentwickeln und zertifiziertes Fachwissen aufbauen möchten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/671945?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55747/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/671945
 - Canonical redirect: https://www.digistore24.com/redir/671945/adminstore
 
@@ -71,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstudium Hautanalyse und Bestimmung der Hauttypen? — Typ: Downloads, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-26
-- Wie viel kostet es? — 28.250326 USD
+- Wie viel kostet es? — 28.187301000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

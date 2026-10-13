@@ -4,34 +4,34 @@ digistore24_product_id: 563103
 title: "Rape Seminar"
 vendor: "MDretreat"
 product_type: "Downloads"
-price: 187.4
+price: 186.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.7
+earnings_per_sale: 93.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2024-07-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://dominichenry.systeme.io/offene-haende-a2413c09?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/49111/adminstore/"
 sales_page: "https://dominichenry.systeme.io/offene-haende-a2413c09"
 language: "de"
 ---
 # Rape Seminar
 
 > Product ID `49111` · Digistore24 productId `563103` · [HTML profile page](../../produkte/rape-seminar-49111.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $187.40 (Single payment) |
+| Price | $186.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.70 |
+| Earnings/sale* | $93.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MDretreat |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Geschichte und Tradition: Wir werden die historische und kulturelle Bedeutung von Rape erkunden, von ihren Ursprüngen in den alten Traditionen der indigenen Völker des Amazonasbeckens bis hin zu ihrer heutigen Verwendung als spirituelles Werkzeug. Applikation und Intention: Du wirst lernen, wie Rape traditionell angewendet wird, sowie die tiefe spirituelle Intention hinter ihrer Verwendung für Rei…
+**Vendor's marketplace description:** <p><strong>Geschichte und Tradition:</strong> Wir werden die historische und kulturelle Bedeutung von Rape erkunden, von ihren Ursprüngen in den alten Traditionen der indigenen Völker des Amazonasbeckens bis hin zu ihrer heutigen Verwendung als spirituelles Werkzeug.</p>
+<p> </p>
+<p><strong>Applikation und Intention: </strong>Du wirst lernen, wie Rape traditionell angewendet wird, sowie die tiefe spirituelle Intention hinter ihrer Verwendung für Reinigung, Klärung und spirituelles Wachstum verstehen.</p>
+<p> </p>
+<p><strong>Verschiedene Sorten: </strong>Du wirst die Vielfalt der Rape-Sorten kennenlernen und verstehen, wie jede Sorte ihre eigenen einzigartigen Eigenschaften und Wirkungen hat.</p>
+<p> </p>
+<p><strong>Pustechniken: </strong>Wir werden die wichtigsten Pustechniken praktisch üben, um dir zu zeigen, wie du Rapé sicher und effektiv anwenden kannst, um das bestmögliche Ergebnis zu erzielen.</p>
+<p> </p>
+<p><strong>Risiken:</strong> Ein sehr wichtiger Punkt um jegliches Risiko zu vermindern wenn man mit dem Spirit von Rapé arbeitet.</p>
+<p> </p>
+<p>Geführte Praxis: Abschließend werden wir eine geführte Praxis durchführen, um dir dabei zu helfen, deine eigene Erfahrung mit Rapé zu vertiefen und die transformative Kraft dieser heiligen Pflanzenmedizin zu erfahren.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://dominichenry.systeme.io/offene-haende-a2413c09?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/49111/adminstore/
 - Sales page: https://dominichenry.systeme.io/offene-haende-a2413c09
 - Canonical redirect: https://www.digistore24.com/redir/563103/adminstore
 
@@ -78,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rape Seminar? — Typ: Downloads, Anbieter: MDretreat, gelistet seit 2024-07-28
-- Wie viel kostet es? — 187.39793799999998 USD
+- Wie viel kostet es? — 186.979863 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 385485
 title: "Affiliate Trainingslager 2.0 Chris Boenig: Einfach verdienen"
 vendor: "Chris-B"
 product_type: "Member area and video courses"
-price: 6.59
+price: 6.57
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 27.51
+earnings_per_sale: 27.45
 cart_conversion_pct: 5
 cancel_rate_pct: 0.97
 categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
 listed_since: "2021-04-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://chrisboenig.com/training?aff=adminstore#aff=adminstore"
 sales_page: "https://chrisboenig.com/training"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Trainingslager 2.0 Chris Boenig: Einfach verdienen
 
 > Product ID `36460` · Digistore24 productId `385485` · [HTML profile page](../../produkte/affiliate-trainingslager-2-0-chris-boenig-einfach-verdienen-36460.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $6.59 (Single payment) |
+| Price | $6.57 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $27.51 |
+| Earnings/sale* | $27.45 |
 | Cart conversion* | 5% |
 | Cancel rate* | 0.97% |
 | Vendor | Chris-B |
@@ -41,7 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Produktinfos Online-Kurs: Die Anleitung die mir von 0€ half bis zu 226€ Provision am Tag zu verdienen. Vorteile für dich als Affiliate ✔ Hilft jedem beim Online Geld verdienen & Affiliate Marketing (100% passend) ✔ Kostenloser Testzugang für dich auf Nachfrage = noch besser weiterempfehlen (100% ehrlich) ✔ 80-100 % Provision auf Upsells+Lifetime: max. 110€ + Wettbewerb mit Preisen ✔ Große Auswahl …
+**Vendor's marketplace description:** <h2><span style="color:#00ccff;">Produktinfos</span></h2>
+<p>Online-Kurs: Die Anleitung die mir von 0€ half bis zu 226€ Provision am Tag zu verdienen.</p>
+<h2><span style="color:#00ccff;">Vorteile für dich als Affiliate</span></h2>
+<p>✔ Hilft jedem beim Online Geld verdienen &amp; Affiliate Marketing <strong>(100% passend) </strong></p>
+<p>✔ Kostenloser Testzugang für dich auf Nachfrage = noch besser weiterempfehlen <strong>(100% ehrlich)</strong></p>
+<p>✔ <strong>80-100 % Provision auf Upsells+<a href="https://help.digistore24.com/de/articles/1176-lifetime-affiliate-regelung-aktivieren" target="_blank" rel="noreferrer noopener">Lifetime</a>: </strong>max. 110€ + Wettbewerb mit Preisen</p>
+<p>✔ <span style="text-decoration:underline;"><strong><a href="https://www.digistore24-app.com/account/partnerarea/193971/de" target="_blank" rel="noreferrer noopener">Große Auswahl optimierter Werbemittel</a></strong>:</span> klickstarke Bild- &amp; Textvorlagen die mir selbst Verkäufe brachten.</p>
+<h2><span style="color:#00ccff;">Verdienstaussicht als Affiliate </span></h2>
+<table style="border-color:#00CCFF;width:300px;" border="2">
+<tbody>
+<tr>
+<td><strong>Deine Verkäufe</strong></td>
+<td><strong>Deine Einnahmen</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>bis zu 110€</td>
+</tr>
+<tr>
+<td>100</td>
+<td>bis zu 11000€</td>
+</tr>
+</tbody>
+</table>
+<div class="button" style="padding-top:10px;"><span style="background-color:#00ccff;color:#ffffff;"><strong><a style="background-color:#00ccff;color:#ffffff;" href="https://www.digistore24-app.com/account/partnerarea/193971/de" target="_blank" rel="noreferrer noopener">Alle Infos zum Affiliate Programm ▶</a></strong></span></div>
 
 ## 2. Links
 
@@ -67,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Trainingslager 2.0 Chris Boenig: Einfach verdienen? — Typ: Member area and video courses, Anbieter: Chris-B, gelistet seit 2021-04-19
-- Wie viel kostet es? — 6.5891280000000005 USD
+- Wie viel kostet es? — 6.574428 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

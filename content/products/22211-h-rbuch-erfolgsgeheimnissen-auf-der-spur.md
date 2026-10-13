@@ -4,34 +4,34 @@ digistore24_product_id: 195957
 title: "Hörbuch \"Erfolgsgeheimnissen auf der Spur\""
 vendor: "Wirtschaftverstehen"
 product_type: "Downloads"
-price: 9.37
+price: 9.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.68
+earnings_per_sale: 4.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2018-01-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.wirtschaftleichtverstehen.de/produkte/hoerbuch-erfolg?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/22211/adminstore/"
 sales_page: "https://www.wirtschaftleichtverstehen.de/produkte/hoerbuch-erfolg"
 language: "de"
 ---
 # Hörbuch "Erfolgsgeheimnissen auf der Spur"
 
 > Product ID `22211` · Digistore24 productId `195957` · [HTML profile page](../../produkte/h-rbuch-erfolgsgeheimnissen-auf-der-spur-22211.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.37 (Single payment) |
+| Price | $9.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.68 |
+| Earnings/sale* | $4.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Wirtschaftverstehen |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Durch Videokurs Upsells (Preis: 92 € und 197 €) höhere Provisionsmöglichkeiten! Über 340 Minuten vollgepackt mit Lebensweisheiten und Umsetzungsstrategien Inspirierende Beiträge von Gerald Hörhan, Dirk Kreuter, Thomas Knedel, Matthias Aumann, Sascha Huber, Stefanie Schädel, Waldemar Merkel, Daniel Dörrer, Alexander Kovin, Markus Habermehl, Thorsten Wittmann und Norman Argubi. Landingpage mit Hörpr…
+**Vendor's marketplace description:** <h2 style="text-align:center;"><strong><span style="color:#ff0000;">Durch Videokurs Upsells </span><br /><span style="color:#ff0000;">(Preis: 92 € und 197 €) </span><br /><span style="color:#ff0000;">höhere Provisionsmöglichkeiten!<br /></span> </strong></h2>
+<p> </p>
+<ul><li>
+<h4><span style="color:#000080;"><strong><span style="color:#ff0000;">Über 340 Minuten</span> vollgepackt mit Lebensweisheiten und Umsetzungsstrategien <br /></strong></span></h4>
+</li>
+<li>
+<h4><span style="color:#000080;"><strong>Inspirierende Beiträge von <span style="color:#ff0000;">Gerald Hörhan, Dirk Kreuter, Thomas Knedel</span>, Matthias Aumann, Sascha Huber, Stefanie Schädel, Waldemar Merkel, Daniel Dörrer, Alexander Kovin, Markus Habermehl, Thorsten Wittmann und Norman Argubi.</strong></span></h4>
+</li>
+<li>
+<h4><span style="color:#000080;">Landingpage mit Hörproben, Inhaltsverzeichnis und Videos.</span></h4>
+</li>
+<li>
+<h4><span style="color:#000080;">Eine einzigartige Kombination aus motivierenden Interviews und fachlichen Inhalten zu den Themen der Motivation, finanzielle Bildung und Wege aus dem Hamsterrad der Unzufriedenheiten/Abhängigkeiten</span></h4>
+</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.wirtschaftleichtverstehen.de/produkte/hoerbuch-erfolg?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/22211/adminstore/
 - Sales page: https://www.wirtschaftleichtverstehen.de/produkte/hoerbuch-erfolg
 - Canonical redirect: https://www.digistore24.com/redir/195957/adminstore
 
@@ -74,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hörbuch "Erfolgsgeheimnissen auf der Spur"? — Typ: Downloads, Anbieter: Wirtschaftverstehen, gelistet seit 2018-01-24
-- Wie viel kostet es? — 9.368216 USD
+- Wie viel kostet es? — 9.347316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

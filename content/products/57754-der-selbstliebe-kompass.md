@@ -4,16 +4,16 @@ digistore24_product_id: 713293
 title: "Der Selbstliebe-Kompass"
 vendor: "GoodLifeHarmony"
 product_type: "Downloads"
-price: 17.9
+price: 17.86
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.95
+earnings_per_sale: 8.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/713293?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/713293"
@@ -22,16 +22,16 @@ language: "de"
 # Der Selbstliebe-Kompass
 
 > Product ID `57754` · Digistore24 productId `713293` · [HTML profile page](../../produkte/der-selbstliebe-kompass-57754.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.90 (Single payment) |
+| Price | $17.86 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.95 |
+| Earnings/sale* | $8.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GoodLifeHarmony |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Selbstliebe-Kompass ist ein digitales PDF-Workbook von Good Life Harmony für Frauen und Mütter, die sich nach mehr Nervensystem-Ruhe, Selbstliebe und Verbindung zu sich selbst sehnen. Auf ca. 25 Seiten verbindet es Test, Quiz, ehrliche Übungen und wahre Worte zu einem warmen, sofort umsetzbaren Begleiter für den Alltag. Das Thema Selbstliebe, Nervensystem und inneres Kind trifft aktuell einen …
+**Vendor's marketplace description:** <p>Der Selbstliebe-Kompass ist ein digitales PDF-Workbook von Good Life Harmony für Frauen und Mütter, die sich nach mehr Nervensystem-Ruhe, Selbstliebe und Verbindung zu sich selbst sehnen. Auf ca. 25 Seiten verbindet es Test, Quiz, ehrliche Übungen und wahre Worte zu einem warmen, sofort umsetzbaren Begleiter für den Alltag.</p>
+<p>Das Thema Selbstliebe, Nervensystem und inneres Kind trifft aktuell einen Nerv – besonders bei Frauen, Müttern und allen, die sich im Alltag erschöpft vom Funktionieren fühlen. Der niedrige Preispunkt von 19 € senkt die Kaufhürde deutlich und eignet sich hervorragend für Newsletter, Social-Media-Posts oder Blogartikel.</p>
+<p>Als Partner erhältst du 50 % Provision auf jeden Verkauf (9,50 € pro Sale). Es handelt sich um ein reines Digitalprodukt: sofortiger Download, keine Versandthemen, keine Retouren.</p>
+<p>Werbematerial (Textvorschläge, Cover-Bild) stelle ich auf Anfrage gerne zur Verfügung.</p>
 
 ## 2. Links
 
@@ -74,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Selbstliebe-Kompass? — Typ: Downloads, Anbieter: GoodLifeHarmony, gelistet seit 2026-07-26
-- Wie viel kostet es? — 17.895982 USD
+- Wie viel kostet es? — 17.856057000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -7,22 +7,22 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 8.18
+earnings_per_sale: 8.16
 cart_conversion_pct: 46
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://page.funnelcockpit.com/zFrFLmFNGHvH2G64a?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/45067/adminstore/"
 sales_page: "https://page.funnelcockpit.com/zFrFLmFNGHvH2G64a"
 language: "de"
 ---
 # Traffic Secrets
 
 > Product ID `45067` · Digistore24 productId `512445` · [HTML profile page](../../produkte/traffic-secrets-45067.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $8.18 |
+| Earnings/sale* | $8.16 |
 | Cart conversion* | 46% |
 | Cancel rate* | 0% |
 | Vendor | kpsecrets |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Bestseller E-Book: Traffic Secrets inklusive einem kostenlosen Kurs Schritt für Schritt Aneitung für mehr Traffic Paid Traffic Strategien Kostenfreier Traffic Strategien Kostenfreier Kurs: Super Affiliate als Bonus Schenke Deiner Liste das E-Book und kassiere beim kompletten Upsell Prozess satte 55%
+**Vendor's marketplace description:** <p><strong>Das Bestseller E-Book: Traffic Secrets inklusive einem kostenlosen Kurs</strong></p>
+<p> </p>
+<p>Schritt für Schritt Aneitung für mehr Traffic</p>
+<p>Paid Traffic Strategien</p>
+<p>Kostenfreier Traffic Strategien</p>
+<p>Kostenfreier Kurs: Super Affiliate als Bonus</p>
+<p> </p>
+<p>Schenke Deiner Liste das E-Book und kassiere beim kompletten Upsell Prozess satte 55%</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://page.funnelcockpit.com/zFrFLmFNGHvH2G64a?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/45067/adminstore/
 - Sales page: https://page.funnelcockpit.com/zFrFLmFNGHvH2G64a
 - Canonical redirect: https://www.digistore24.com/redir/512445/adminstore
 

@@ -4,7 +4,7 @@ digistore24_product_id: 671242
 title: "Ich habe dich geliebt und mich verloren"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Downloads"
-price: 15.06
+price: 15.03
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.5
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-02-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/671242?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55721/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/671242"
 language: "de"
 ---
 # Ich habe dich geliebt und mich verloren
 
 > Product ID `55721` · Digistore24 productId `671242` · [HTML profile page](../../produkte/ich-habe-dich-geliebt-und-mich-verloren-55721.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.06 (Single payment) |
+| Price | $15.03 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.50 |
 | Cart conversion* | — |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate werden und verdienen‼️‼️‼️ Der ultimative Kurs für ambitionierte Kosmetikerinnen, Beauty-Einsteigerinnen und Studioinhaberinnen, die sich im Kosmetikbereich professionell weiterentwickeln und zertifiziertes Fachwissen aufbauen möchten.
+**Vendor's marketplace description:** <p>Affiliate werden und verdienen‼️‼️‼️</p>
+<p>Der ultimative Kurs für ambitionierte Kosmetikerinnen, Beauty-Einsteigerinnen und Studioinhaberinnen, die sich im Kosmetikbereich professionell weiterentwickeln und zertifiziertes Fachwissen aufbauen möchten. 
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/671242?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55721/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/671242
 - Canonical redirect: https://www.digistore24.com/redir/671242/adminstore
 
@@ -71,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ich habe dich geliebt und mich verloren? — Typ: Downloads, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-24
-- Wie viel kostet es? — 15.060864 USD
+- Wie viel kostet es? — 15.027264 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

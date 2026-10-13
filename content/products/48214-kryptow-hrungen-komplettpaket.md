@@ -4,16 +4,16 @@ digistore24_product_id: 467915
 title: "Kryptowährungen Komplettpaket"
 vendor: "LebensfrohLLC"
 product_type: "Member area and video courses"
-price: 556.94
+price: 555.7
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 167.08
+earnings_per_sale: 166.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2022-11-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://christophneuwirth.com/lp/die-grosse-kryptowaehrungen-masterclass-das-komplettpaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://christophneuwirth.com/lp/die-grosse-kryptowaehrungen-masterclass-das-komplettpaket/"
@@ -22,16 +22,16 @@ language: "de"
 # Kryptowährungen Komplettpaket
 
 > Product ID `48214` · Digistore24 productId `467915` · [HTML profile page](../../produkte/kryptow-hrungen-komplettpaket-48214.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $556.94 (Single payment) |
+| Price | $555.70 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $167.08 |
+| Earnings/sale* | $166.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LebensfrohLLC |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 20% Provison v. €297 netto Produkt + Add OnsHochwertiger, vielverkaufter Kurs nun auch auf Digistore zu finden! Über 7700 glückliche Teilnehmerinnen und Teilnehmer bei einer zufriedenen Bewertung von über 4,6 von 5 Sternen.Um was geht es im Kurs?In diesem kompletten Kryptowährungen-Kurs lernst du die Grundlagen von Kryptowährungen von A-Z kennen. Dieser Kurs ist ein Komplettpaket, der dir Kryptogr…
+**Vendor's marketplace description:** <p><strong>20% Provison v. €297 netto Produkt + Add Ons<br /><br /><br /></strong>Hochwertiger, vielverkaufter Kurs nun auch auf Digistore zu finden! Über 7700 glückliche Teilnehmerinnen und Teilnehmer bei einer zufriedenen Bewertung von über 4,6 von 5 Sternen.<br /><br />Um was geht es im Kurs?<br /><br />In diesem kompletten Kryptowährungen-Kurs lernst du die<strong> Grundlagen von Kryptowährungen von A-Z</strong> kennen. Dieser Kurs ist ein Komplettpaket, der dir  <strong>Kryptographie</strong>, die Bestandteile und Hintergründe der <strong>Blockchain</strong> näher bringt. Es werden <strong>Bitcoin</strong>, <strong>Ethereum</strong> und andere <strong>Altcoins</strong> vorgestellt. Du wirst lernen wie du dein FIAT Geld in Kryptos umwechselst, wie du deine Coins <strong>sicher</strong> verwahrst - sei es nun <strong>Paperwallet</strong>, <strong>Software</strong>- oder <strong>Hardware</strong> <strong>Wallet</strong>. Das Beste am Kurs ist aber sicherlich, dass du endlich lernen wirst wie man sich ein <strong>optimales Portfolio</strong> aufbaut und dabei <strong>Risiko minimiert und Rendite maximiert</strong>. Durch die <strong>Fundamentalanaylse</strong> in Kombination mit der <strong>technischen Analyse</strong> und den Tools, die ich dir an die Hand gebe, steht einer glorreichen Karriere als erfolgreicher Investor nichts mehr im Wege!<br /><br /></p>
+<p><strong>Konditionen für Partner:</strong></p>
+<ul>
+<li>20% Provision für Verkauf vom Intialprodukt + weitere bei Add-Ons</li>
+<li>Jederzeit deutscher Support für Affiliates</li>
+</ul>
 
 ## 2. Links
 
@@ -93,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kryptowährungen Komplettpaket? — Typ: Member area and video courses, Anbieter: LebensfrohLLC, gelistet seit 2022-11-03
-- Wie viel kostet es? — 556.9382 USD
+- Wie viel kostet es? — 555.6957000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

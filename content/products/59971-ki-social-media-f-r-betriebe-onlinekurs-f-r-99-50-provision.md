@@ -4,34 +4,34 @@ digistore24_product_id: 738051
 title: "KI-Social-Media für Betriebe – Onlinekurs für 99 €, 50 % Provision"
 vendor: "influexai"
 product_type: "Downloads"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.62
+earnings_per_sale: 46.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/738051?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59971/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/738051"
 language: "de"
 ---
 # KI-Social-Media für Betriebe – Onlinekurs für 99 €, 50 % Provision
 
 > Product ID `59971` · Digistore24 productId `738051` · [HTML profile page](../../produkte/ki-social-media-f-r-betriebe-onlinekurs-f-r-99-50-provision-59971.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.62 |
+| Earnings/sale* | $46.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | influexai |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** KI-Social-Media für Betriebe: 30 Lektionen in 7 Modulen zeigen Betrieben, wie sie Social Media mit KI selbst umsetzen – zum Durchklicken im Browser. Mit 7 Erklärvideos, 24 Prompts, 5 KI-Rollenkarten, Vorlagen und Excel-Planer. Zielgruppe: Handwerksbetriebe, Praxen, lokale Dienstleister und kleine Unternehmen, die Social Media selbst oder mit ihrem Team umsetzen wollen. Dein Vorteil als Partner: 50…
+**Vendor's marketplace description:** <p><strong>KI-Social-Media für Betriebe</strong>: 30 Lektionen in 7 Modulen zeigen Betrieben, wie sie Social Media mit KI selbst umsetzen – zum Durchklicken im Browser. Mit 7 Erklärvideos, 24 Prompts, 5 KI-Rollenkarten, Vorlagen und Excel-Planer.</p>
+<p><strong>Zielgruppe:</strong> Handwerksbetriebe, Praxen, lokale Dienstleister und kleine Unternehmen, die Social Media selbst oder mit ihrem Team umsetzen wollen.</p>
+<p><strong>Dein Vorteil als Partner:</strong> 50 % Provision bei 99 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/738051?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59971/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/738051
 - Canonical redirect: https://www.digistore24.com/redir/738051/adminstore
 
@@ -78,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Social-Media für Betriebe – Onlinekurs für 99 €, 50 % Provision? — Typ: Downloads, Anbieter: influexai, gelistet seit 2026-09-27
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

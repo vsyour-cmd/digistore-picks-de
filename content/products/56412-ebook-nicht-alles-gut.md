@@ -4,16 +4,16 @@ digistore24_product_id: 689379
 title: "Ebook - Nicht alles gut"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 9.41
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.71
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-05-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689379?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689379"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Nicht alles gut
 
 > Product ID `56412` · Digistore24 productId `689379` · [HTML profile page](../../produkte/ebook-nicht-alles-gut-56412.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.41 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein emotional ansprechendes Thema mit starkem Alltagsbezug: Dieses Buch greift ein zentrales Bedürfnis nach mehr Lebensqualität, Balance und innerer Ruhe auf und macht komplexe Zusammenhänge leicht verständlich. Es spricht eine breite Zielgruppe an, die nach Orientierung, Inspiration und praktischen Impulsen sucht. Die Kombination aus verständlicher Wissensvermittlung und direkt umsetzbarem Nutzen…
+**Vendor's marketplace description:** <p>Ein emotional ansprechendes Thema mit starkem Alltagsbezug:</p>
+<p>Dieses Buch greift ein zentrales Bedürfnis nach mehr Lebensqualität, Balance und innerer Ruhe auf und macht komplexe Zusammenhänge leicht verständlich.</p>
+<p>Es spricht eine breite Zielgruppe an, die nach Orientierung, Inspiration und praktischen Impulsen sucht. Die Kombination aus verständlicher Wissensvermittlung und direkt umsetzbarem Nutzen sorgt für hohe Leserbindung und starke Kaufimpulse.</p>
+<p>Besonders geeignet für Affiliates im Bereich Persönlichkeitsentwicklung, Gesundheit und Lifestyle.</p>
+<p>Ein vielseitig vermarktbares Produkt mit stabilem Interesse und überzeugendem Conversion-Potenzial.</p>
 
 ## 2. Links
 
@@ -71,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Nicht alles gut? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-01
-- Wie viel kostet es? — 9.41304 USD
+- Wie viel kostet es? — 9.392040000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

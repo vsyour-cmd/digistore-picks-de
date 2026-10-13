@@ -4,16 +4,16 @@ digistore24_product_id: 695517
 title: "Zurück zu dir Bundle"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 136.04
+price: 135.74
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 40.81
+earnings_per_sale: 40.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/deine-beduerfnisse/?aff=adminstore#aff=adminstore"
 sales_page: "https://beziehungscoach-online.de/deine-beduerfnisse/"
@@ -22,16 +22,16 @@ language: "de"
 # Zurück zu dir Bundle
 
 > Product ID `58422` · Digistore24 productId `695517` · [HTML profile page](../../produkte/zur-ck-zu-dir-bundle-58422.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $136.04 (Single payment) |
+| Price | $135.74 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $40.81 |
+| Earnings/sale* | $40.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das „Zurück zu dir“-Bundle richtet sich an Menschen, die in Beziehungen immer wieder ihre eigenen Grenzen, Gefühle und Bedürfnisse aus dem Blick verlieren, sich stark anpassen oder Schwierigkeiten haben, für sich selbst einzustehen. Das Bundle enthält sieben E-Books zu den Themen Gefühle, Bedürfnisse und persönliche Grenzen. Die Leser lernen, ihre eigenen Gefühle und Bedürfnisse besser zu verstehe…
+**Vendor's marketplace description:** <p>Das „Zurück zu dir“-Bundle richtet sich an Menschen, die in Beziehungen immer wieder ihre eigenen Grenzen, Gefühle und Bedürfnisse aus dem Blick verlieren, sich stark anpassen oder Schwierigkeiten haben, für sich selbst einzustehen.</p>
+<p>Das Bundle enthält sieben E-Books zu den Themen Gefühle, Bedürfnisse und persönliche Grenzen. Die Leser lernen, ihre eigenen Gefühle und Bedürfnisse besser zu verstehen, Grenzen frühzeitig wahrzunehmen und klarer zu kommunizieren. Sie beschäftigen sich außerdem mit Anpassung und Selbstverlust, Rückzug und inneren Mauern sowie dem Umgang mit Grenzüberschreitungen.</p>
+<p>Das Bundle eignet sich besonders für eine Zielgruppe, die sich intensiv mit Beziehungsmustern, persönlicher Entwicklung und einem gesünderen Umgang mit den eigenen Grenzen beschäftigt.</p>
 
 ## 2. Links
 
@@ -91,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zurück zu dir Bundle? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 136.04084 USD
+- Wie viel kostet es? — 135.73734000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 615173
 title: "Tim Daugs: MEGA Paket (Produkt-Bündel) als Download"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 375.73
+price: 374.89
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 93.93
+earnings_per_sale: 93.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-05-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.timdaugs.com/angebot-mega-paket/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.timdaugs.com/angebot-mega-paket/"
@@ -22,16 +22,16 @@ language: "de"
 # Tim Daugs: MEGA Paket (Produkt-Bündel) als Download
 
 > Product ID `47006` · Digistore24 productId `615173` · [HTML profile page](../../produkte/tim-daugs-mega-paket-produkt-b-ndel-als-download-47006.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $375.73 (Single payment, Installment) |
+| Price | $374.89 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $93.93 |
+| Earnings/sale* | $93.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -41,7 +41,100 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Paket enthält alle Mental-Produkte von Tim: Neurostreams™ ALLES Vokabeltrainer 2037 Silent Subliminals ULTRA Paket 2 Jahre Produktsupport inklusive. DETAILS ZUM "SUPERLEARNING" VOKABELTRAINER 2037: Mein Vokabeltrainer ist ein Superlearning-Werkzeug, mit dem man in kurzer Zeit sehr viele Lerninhalte (vor allem Fremdspachen) auswendig lernen kann. Konkurrenzlos auf dem deutschen Markt. [Info-…
+**Vendor's marketplace description:** <p><strong>Dieses Paket enthält alle Mental-Produkte von Tim:</strong></p>
+<ul>
+<li>Neurostreams™ ALLES</li>
+<li>Vokabeltrainer 2037</li>
+<li>Silent Subliminals ULTRA Paket</li>
+</ul>
+<p>2 Jahre Produktsupport inklusive.</p>
+<p> </p>
+<h4>DETAILS ZUM<strong> "SUPERLEARNING" VOKABELTRAINER 2037:</strong></h4>
+<p>Mein Vokabeltrainer ist ein Superlearning-Werkzeug, mit dem man in kurzer Zeit sehr viele Lerninhalte (vor allem Fremdspachen) auswendig lernen kann.</p>
+<p><em>Konkurrenzlos</em><em> auf dem deutschen Markt.</em></p>
+<p>[<a href="https://www-vokabeln-lernen-wie-2037.de" target="_blank" rel="noreferrer noopener">Info-Link: XXL Vokabeltrainer</a><a>]</a></p>
+<p> </p>
+<h4>DETAILS ZU <strong>NEUROSTREAMS™ ALLES</strong></h4>
+<p>Die vollständige Sammlung "ALLES" enthält ausnahmslos alle Neurostreams™. </p>
+<p>Die Sammlung ist sehr umfangreich und reicht für ein ganzes Leben...</p>
+<p>Neurostreams™ stimulieren deine Gehwirnwellen - je nach Bedarf!</p>
+<p><em>Ein sagenhaftes Sammlerstück für Neuro-Fans! </em></p>
+<p> </p>
+<p>ALLES enthält alle Neurostreams™ KLASSIKER:</p>
+<p>(insgesamt 70 Streams)</p>
+<ul>
+<li><strong>DNA Talk in 432 Hertz</strong> erzeugt starke Meditations-Erlebnisse</li>
+<li><strong>Co-Creation Galaxie</strong> eignet sich für erfolgreiche Autosuggestion</li>
+<li><strong>Wellness Walk</strong> sorgt für Befreiung von Stress und Anspannung</li>
+<li><strong>Die Zukunft schauen</strong> hilft beim Visualisieren von Zielen</li>
+<li><strong>Delta Frischzellenkur</strong> für zügige körperliche Regeneration</li>
+<li><strong>Gaia Club Radio</strong> läuft haarscharf an der Schlaf/Wach-Grenze</li>
+<li><strong>Flow trifft Genie</strong> optimiert Rhythmen und sorgt für emotionale Stabilität</li>
+</ul>
+<p> </p>
+<p>ALLES enthält alle Neurostreams™ SPECIALS:</p>
+<p>(insgesamt 158 Streams)</p>
+<ul>
+<li><strong>Megabrain Suite</strong> fördert deine kognitiven Fähigkeiten: Konzentration, Erinnerungsvermögen, Intelligenz, Fokus</li>
+<li><strong>ZenBox in 432 Hertz</strong> lässt dich richtig meditieren – so schnell und tief wie die Profis</li>
+<li>Die <strong>Antriebswellen</strong> putschen dich auf. Für mehr Motivation, Begeisterung, Energie, Wachsein</li>
+<li><strong>Schlafgold</strong> ist vor allem dann sinnvoll, wenn du akute Schlafprobleme hast</li>
+<li><strong>Panorama</strong> ist eine handverlesene, übersichtliche Mischung für frische Einsteiger</li>
+<li><strong>Quickies</strong> sind Kurz-Versionen vieler Neurostreams™ für Menschen die es eilig haben (aber Neurostreams™ in ihrem Alltag unterbringen wollen)</li>
+</ul>
+<p> </p>
+<p>ALLES enthält das ganze Neurostreams™ LABOR:</p>
+<p>(insgesamt 123 Streams)</p>
+<ul>
+<li><strong>Bei der Sache</strong> – ADHS-Behandlung</li>
+<li><strong>Das innere Kind</strong> (THETA) – Selbstheilungen</li>
+<li><strong>Den Löwen reiten</strong> – Gegen Angst &amp; innere Unruhe</li>
+<li><strong>Happiness</strong> – Bei Depressionen</li>
+<li><strong>Heiterkeit vor der Schlacht</strong> – Lampenfieber senken</li>
+<li><strong>Mini Alpha Breaks</strong> – Kurzes Reset-Knopf drücken</li>
+<li><strong>Morphium Jacuzzi</strong> – Sounds gegen Fibromyalgie</li>
+<li><strong>Planet Relax</strong> – Tiefen-Entspannung jederzeit</li>
+<li><strong>Power Kur</strong> – Immunsystem stärken</li>
+<li><strong>Schleusenöffner</strong> – Blutdruck senken (ohne Medikamente)</li>
+<li><strong>Treffpunkt Garten Eden</strong> – gegen Ruhelosigkeit</li>
+<li><strong>Wolkig bis heiter</strong> – Suchtlindernde Beruhigungsbeats</li>
+</ul>
+<p> </p>
+<p>BONUS: Neurostreams in 432 Hz !!</p>
+<p>(insgesamt 31 brandneue und einzigartige Streams, alle mit neuen Sounds, und alle in 432 Hertz und maximal bester MP3-Qualität):</p>
+<ul>
+<li><strong>Specials in 432 Hz</strong> (je eine 432-Version von DNA Talk, Zen Quasar, Silberfaden, Kyoto Dimension sowie Gamma Hammer, Sturm und Drang, Pure Lebendigkeit, Frühaufsteherbelohnung, und auch IQ 7000, HyperBrainPower, KognitionMunition, Brainstorms)</li>
+<li><strong>Klassiker in 432 Hz</strong> (je eine 432-Version von DNA Talk, Flow trifft Genie, Co-Creation Galaxie, DELTA Frischzellenkur, Die Zukunft schauen, Gaia Club Radio, Wellness Walk)</li>
+<li><strong>Labor in 432 Hz</strong> (je eine 432-Version von Bei der Sache, Das innere Kind [THETA], Den Löwen reiten, Happiness, Heiterkeit vor der Schlacht, Mini Alpha Breaks, Morphium Jaccuzzi, Planet Relax, Power Kur, Blutdruck-Schleusenöffner, Treffpunkt Garten Eden)</li>
+</ul>
+<p> </p>
+<p>[<a href="https://www.neurostreams.de/portfolio/alles-dvd/" target="_blank" rel="noreferrer noopener">Info-Link zu "Alles"]</a></p>
+<p>Der Download enthält insgesamt 382 Neurostreams™ im mp3-Format. Achtung: Sehr große Datenmenge!</p>
+<p>Alle Neurostreams™ lassen sich auf die unterschiedlichsten Endgeräte kopieren und dort unbegrenzt oft abgespielen: Auf Tablets, Smartphones, Mp3-Player, Laptops, Computer etc. </p>
+<p> </p>
+<h4>DETAILS ZUM <strong>SILENT SUBLIMINALS ULTRA PAKET</strong></h4>
+<p>Sofort-Download (ca. 140 MB).</p>
+<p>Das ULTRA-Paket besteht aus einer Software, mit der man gesprochene Affirmationen, Afformationen oder Suggestionen auf eine Weise unhörbar machen kann, dass sie vom Unterbewusstsein trotzdem aufgenommen und verarbeitet werden.</p>
+<p>Damit kann man nun in aller RUHE stundenlang, tagelang oder wochenlang seine Affirmationen und Afformationen aufsaugen, ohne dass man dadurch gestört wird. </p>
+<p>Die Software läuft auf Windows- und auf Mac-Computern und Laptops.</p>
+<p><strong>Inhalte:</strong></p>
+<ul>
+<li>Silent Subliminals Effekt (Software)</li>
+<li>Silent Subliminals-Benutzerhandbuch Win/Mac</li>
+<li>Kostenlose Updates und Kundensupport für 2 Jahre</li>
+<li>PDF: Ihre Marschroute (inkl. "Wie fange ich an?")</li>
+<li>E-Book „Leitfaden für Affirmationen.“</li>
+<li>E-Book „Die Afformations-Taktik."</li>
+<li>E-Book „Die ULTRA-Methode der Selbstprogrammierung"</li>
+<li>E-Book „Die zehn hinterlistigen Fallen.“</li>
+<li>7 fertige Suggestionen zum Üben (mp3)</li>
+<li>Neurostream „Die Zukunft schauen“ (mp3, 30 min)</li>
+<li>Neurostream „Co-Creation Galaxie“ (mp3, 30 min) </li>
+</ul>
+<p><em>Vorsicht: Ein hochwirksames Hexenmeister-Werkzeug!</em></p>
+<p><a href="https://silent-subliminals.de" target="_blank" rel="noreferrer noopener">[Info-Link: Silent-Subliminals</a>] </p>
+<p> </p>
+<p>Dateigröße insgesamt: 11 Gigabyte.</p>
 
 ## 2. Links
 
@@ -99,7 +192,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tim Daugs: MEGA Paket (Produkt-Bündel) als Download? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2025-05-27
-- Wie viel kostet es? — 375.72597400000006 USD
+- Wie viel kostet es? — 374.88774900000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

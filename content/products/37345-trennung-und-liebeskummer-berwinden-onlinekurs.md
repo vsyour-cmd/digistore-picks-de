@@ -4,34 +4,34 @@ digistore24_product_id: 395658
 title: "Trennung und Liebeskummer überwinden (Onlinekurs)"
 vendor: "wielandstolzenburg"
 product_type: "Member area and video courses"
-price: 271.21
+price: 270.6
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 108.49
+earnings_per_sale: 108.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2021-06-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://kurse.wielandstolzenburg.de/lp/trennung-verarbeiten?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37345/adminstore/"
 sales_page: "https://kurse.wielandstolzenburg.de/lp/trennung-verarbeiten"
 language: "de"
 ---
 # Trennung und Liebeskummer überwinden (Onlinekurs)
 
 > Product ID `37345` · Digistore24 productId `395658` · [HTML profile page](../../produkte/trennung-und-liebeskummer-berwinden-onlinekurs-37345.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $271.21 (Single payment, Installment) |
+| Price | $270.60 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $108.49 |
+| Earnings/sale* | $108.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wielandstolzenburg |
@@ -41,11 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle meinen hochwertigen Onlinekurs (99€-279€) und nutze diese Vorteile: Hohe Provision: Erhalte 40 % Provision Hohe Bekanntheit: Onlinekurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) Laufende Optimierung der Verkaufs-Funnel + geringe Stornoquote Hochconvertierende Werbemittel: Banner, E-Mail-Textvorlagen werden laufend optimiert ... (mehr auf meiner Affiliate-Supportseit…
+**Vendor's marketplace description:** <p><strong>Empfehle meinen hochwertigen Onlinekurs (99€-279€) und nutze diese</strong><strong> Vorteile:<br /></strong></p>
+<p> </p>
+<ul>
+<li><strong>Hohe Provision</strong>: Erhalte 40 % Provision</li>
+<li><strong>Hohe Bekanntheit</strong>: Onlinekurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) </li>
+<li><strong>Laufende Optimierung</strong> der Verkaufs-Funnel + geringe Stornoquote</li>
+<li><strong>Hochconvertierende Werbemittel</strong>: Banner, E-Mail-Textvorlagen werden laufend optimiert ... (mehr auf meiner Affiliate-Supportseite --&gt;)</li>
+</ul>
+<p> </p>
+<p> </p>
+<p>Der optimierte Weg zum Sale mit dem <strong>Multi-Device-Tracking</strong></p>
+<ul>
+<li><strong>Perfekter Sales-Weg</strong>: Leite deine User auf meinen kostenlosen Onlinetest ("<em>Wie lange dauert mein Trennungsschmerz?</em>" oder <em>"Kommt mein Ex zurück?")</em> oder das Webinar ("<em>Wie du deine Trennung &amp; Liebeskummer schneller überwindest</em>"). Sie werden danach perfekt zum Onlinekurs geführt.</li>
+<li><strong>Keine Sales verlieren</strong>: Durch das Multi-Device-Tracking werden dir auch spätere Sales zugeordnet, auch wenn der User von einem anderen Gerät kauft!</li>
+<li><strong>Content statt Sales</strong>: Indem die User nicht auf eine Verkaufsseite geleitet werden, sondern kostenlosen Input über die Onlinetests und Webinare erhalten, schenkst du ihnen hochwertigen Content, bist kein "nerviger" Verkäufer, baust also Vertrauen auf und erhöhst damit die Salesquote signifikant!</li>
+</ul>
+<p> </p>
+<p>Melde dich jetzt als Affiliate an, schenke deinen Usern hochwertigen Content (Onlinetests &amp; Webinare) und generiere passives Einkommen.</p>
+<p> </p>
+<p>Auf eine gewinnbringende Zusammenarbeit!</p>
+<p> </p>
+<p><a href="https://www.wielandstolzenburg.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"> &gt; ALLE INFOS ZUM PARTNERPROGRAMM  </a></p>
+<p> </p>
+<p>Beste Grüße,<br />Wieland Stolzenburg</p>
+<p> </p>
+<p>PS: Brand-Bidding auf "Wieland Stolzenburg" und Varianten nicht erlaubt!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kurse.wielandstolzenburg.de/lp/trennung-verarbeiten?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37345/adminstore/
 - Sales page: https://kurse.wielandstolzenburg.de/lp/trennung-verarbeiten
 - Vendor affiliate support: https://www.wielandstolzenburg.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/395658/adminstore
@@ -106,7 +131,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Trennung und Liebeskummer überwinden (Onlinekurs)? — Typ: Member area and video courses, Anbieter: wielandstolzenburg, gelistet seit 2021-06-24
-- Wie viel kostet es? — 271.20761200000004 USD
+- Wie viel kostet es? — 270.60256200000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

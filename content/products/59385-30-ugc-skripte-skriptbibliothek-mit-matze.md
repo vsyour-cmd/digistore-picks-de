@@ -4,34 +4,34 @@ digistore24_product_id: 733902
 title: "30 UGC-Skripte – Skriptbibliothek mit Matze"
 vendor: "einfachmitmatze"
 product_type: "E-books"
-price: 20.93
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.47
+earnings_per_sale: 10.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://einfachmitmatze.de/ugc/skriptbibliothek/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59385/adminstore/"
 sales_page: "https://einfachmitmatze.de/ugc/skriptbibliothek/"
 language: "de"
 ---
 # 30 UGC-Skripte – Skriptbibliothek mit Matze
 
 > Product ID `59385` · Digistore24 productId `733902` · [HTML profile page](../../produkte/30-ugc-skripte-skriptbibliothek-mit-matze-59385.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.93 (Single payment) |
+| Price | $20.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.47 |
+| Earnings/sale* | $10.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Finde einen Ausgangspunkt für dein nächstes UGC-Konzept: 30 Skripte für zehn Branchen. Du erhältst die UGC-Skriptbibliothek als PDF-Download. Passe Beispiele an das tatsächliche Produkt, Briefing und deine eigene Ausdrucksweise an. Es werden keine fertigen Videos oder Markenaufträge geliefert. Optionaler Zusatz zum UGC-Praxispaket. Der Hauptkurs und seine Werkstatt sind nicht enthalten. Zum Öffnen…
+**Vendor's marketplace description:** <p>Finde einen Ausgangspunkt für dein nächstes UGC-Konzept: 30 Skripte für zehn Branchen.</p>
+<p>Du erhältst die UGC-Skriptbibliothek als PDF-Download. Passe Beispiele an das tatsächliche Produkt, Briefing und deine eigene Ausdrucksweise an. Es werden keine fertigen Videos oder Markenaufträge geliefert.</p>
+<p>Optionaler Zusatz zum UGC-Praxispaket. Der Hauptkurs und seine Werkstatt sind nicht enthalten. Zum Öffnen genügt ein PDF-Reader.</p>
+<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
+<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
+<p>Affiliate-Information: 50,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://einfachmitmatze.de/ugc/skriptbibliothek/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59385/adminstore/
 - Sales page: https://einfachmitmatze.de/ugc/skriptbibliothek/
 - Vendor affiliate support: https://einfachmitmatze.de/partner-733902/
 - Canonical redirect: https://www.digistore24.com/redir/733902/adminstore
@@ -74,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 UGC-Skripte – Skriptbibliothek mit Matze? — Typ: E-books, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 20.932808 USD
+- Wie viel kostet es? — 20.886108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

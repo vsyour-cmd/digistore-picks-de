@@ -4,16 +4,16 @@ digistore24_product_id: 638846
 title: "CLNDSK365 - Die Handwerkersoftware"
 vendor: "Cleandesk365"
 product_type: "Software"
-price: 444.88
+price: 443.89
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 133.46
+earnings_per_sale: 133.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Software"]
 listed_since: "2025-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/638846?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/638846"
@@ -22,16 +22,16 @@ language: "de"
 # CLNDSK365 - Die Handwerkersoftware
 
 > Product ID `55446` · Digistore24 productId `638846` · [HTML profile page](../../produkte/clndsk365-die-handwerkersoftware-55446.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $444.88 (Subscription) |
+| Price | $443.89 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $133.46 |
+| Earnings/sale* | $133.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleandesk365 |
@@ -41,7 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** CLEANDESK365 - Starter Cleandesk – Die Handwerkersoftware, die mit deinem Betrieb mitwächst Mehr Klarheit. Weniger Chaos. Volle Kontrolle.Cleandesk ist die digitale Schaltzentrale für deinen Handwerksbetrieb – entwickelt von Handwerkern für Handwerker. Egal ob du alleine arbeitest, ein kleines Team führst oder mehrere Standorte koordinierst: Unsere Software passt sich deinem Alltag an – nicht umge…
+**Vendor's marketplace description:** <h3>CLEANDESK365 - Starter</h3>
+<p><strong>Cleandesk – Die Handwerkersoftware, die mit deinem Betrieb mitwächst</strong></p>
+<p>Mehr Klarheit. Weniger Chaos. Volle Kontrolle.<br />Cleandesk ist die digitale Schaltzentrale für deinen Handwerksbetrieb – entwickelt von Handwerkern für Handwerker. Egal ob du alleine arbeitest, ein kleines Team führst oder mehrere Standorte koordinierst: Unsere Software passt sich deinem Alltag an – nicht umgekehrt.</p>
+<p>Einfach verständlich, transparent kalkulierbar und kompromisslos effizient.</p>
+<p> </p>
+<p><strong>Starter</strong> <strong>Für kleine Betriebe mit mehreren Mitarbeitenden</strong> <strong>Du hast ein eingespieltes Team, aber der digitale Überblick fehlt?</strong></p>
+<p>Mit dem Starter-Paket steuerst du alle Aufgaben, Zeiten und Projekte zentral – und stärkst die Zusammenarbeit.</p>
+<p><strong>Highlights:</strong></p>
+<ul>
+<li>Mitarbeiterverwaltung</li>
+<li>Zeiterfassung / Abwesenheitserfassung</li>
+<li>Chat</li>
+<li>Aufgaben</li>
+<li>Projekte</li>
+<li>Dienstplan</li>
+<li>Kalender / Termine</li>
+<li>SmartCloud für Bilder, Dokumente und Dateien</li>
+<li>Angebote, AB, Lieferscheine, Rechnungen</li>
+<li>Ressourcenverwaltung</li>
+<li>Aufmaß</li>
+<li>Arbeitszeitmodelle und eigene Pausenregelungen</li>
+<li>Eine Firma</li>
+<li>SmartCloud Speicher bis 500 GB inklusive Bis zu 10 aktive Benutzer      </li>
+</ul>
+<p><strong>Perfekt für wachsende Betriebe, die Struktur, Transparenz und echte Digitalisierung brauchen.</strong></p>
 
 ## 2. Links
 
@@ -89,7 +113,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CLNDSK365 - Die Handwerkersoftware? — Typ: Software, Anbieter: Cleandesk365, gelistet seit 2025-09-30
-- Wie viel kostet es? — 444.8782 USD
+- Wie viel kostet es? — 443.88570000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

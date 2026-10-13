@@ -4,34 +4,34 @@ digistore24_product_id: 676399
 title: "Viral mit KI"
 vendor: "DS-AffiliateSolution"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.51
+earnings_per_sale: 12.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-03-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://page.funnelcockpit.com/sRbB4DHmxuZs4bZxN?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55917/adminstore/"
 sales_page: "https://page.funnelcockpit.com/sRbB4DHmxuZs4bZxN"
 language: "de"
 ---
 # Viral mit KI
 
 > Product ID `55917` · Digistore24 productId `676399` · [HTML profile page](../../produkte/viral-mit-ki-55917.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.51 |
+| Earnings/sale* | $12.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS-AffiliateSolution |
@@ -41,11 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** VIRAL MIT KI „Viral mit KI“ ist ein praxisorientiertes E-Book, das zeigt, wie man mit Hilfe von KI Social-Media-Content erstellt und auf Plattformen wie Instagram, YouTube und TikTok Reichweite aufbaut. Der Guide richtet sich an Anfänger, Creator und Unternehmer, die ohne Kamera, ohne teures Equipment und ohne technische Vorkenntnisse virale Videos erstellen möchten. Im E-Book lernen Käufer unter …
+**Vendor's marketplace description:** <h2 style="text-align:center;">VIRAL MIT KI </h2>
+<p>„Viral mit KI“ ist ein praxisorientiertes E-Book, das zeigt, wie man mit Hilfe von KI Social-Media-Content erstellt und auf Plattformen wie Instagram, YouTube und TikTok Reichweite aufbaut.</p>
+<p>Der Guide richtet sich an Anfänger, Creator und Unternehmer, die ohne Kamera, ohne teures Equipment und ohne technische Vorkenntnisse virale Videos erstellen möchten.</p>
+<p>Im E-Book lernen Käufer unter anderem:</p>
+<ul>
+<li>
+<p>wie sie mit KI Social-Media-Videos erstellen</p>
+</li>
+<li>
+<p>welche Inhalte auf Reels, Shorts und TikTok viral gehen</p>
+</li>
+<li>
+<p>wie sie profitable Nischen finden</p>
+</li>
+<li>
+<p>und wie sie aus Reichweite Einnahmen generieren können</p>
+</li>
+</ul>
+<p>Zusätzlich enthält das Produkt Prompts, Tools und Strategien für den direkten Start.</p>
+<h4><span style="text-decoration:underline;color:#99cc00;"><strong>Affiliate-Hinweis:</strong></span><br />Der Funnel enthält mehrere Upsells – im gesamten Upsell-Prozess sind <strong>bis zu 210€ Provision pro Verkauf möglich.</strong></h4>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://page.funnelcockpit.com/sRbB4DHmxuZs4bZxN?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55917/adminstore/
 - Sales page: https://page.funnelcockpit.com/sRbB4DHmxuZs4bZxN
 - Vendor affiliate support: https://page.funnelcockpit.com/4vj52wFP75RPFHMvq
 - Canonical redirect: https://www.digistore24.com/redir/676399/adminstore
@@ -59,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Viral mit KI? — Typ: E-books, Anbieter: DS-AffiliateSolution, gelistet seit 2026-03-15
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

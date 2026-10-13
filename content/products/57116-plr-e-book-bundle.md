@@ -4,16 +4,16 @@ digistore24_product_id: 683631
 title: "PLR-E-Book-Bundle"
 vendor: "onlineratgeber24"
 product_type: "Member area and video courses"
-price: 333.94
+price: 333.19
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 54.91
+earnings_per_sale: 54.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Marketing Services"]
 listed_since: "2026-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.startimpulse.online/bundle-plr-business/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.startimpulse.online/bundle-plr-business/"
@@ -22,16 +22,16 @@ language: "de"
 # PLR-E-Book-Bundle
 
 > Product ID `57116` · Digistore24 productId `683631` · [HTML profile page](../../produkte/plr-e-book-bundle-57116.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $333.94 (Single payment) |
+| Price | $333.19 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $54.91 |
+| Earnings/sale* | $54.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | onlineratgeber24 |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Baue dein Online-Business rasch und profitabel auf - ohne technisches Vorwissen, ohne stundenlange Recherche und ohne das Rad neu erfinden zu müssen. Zu diesem E-Book-Bundle erhältst du zusätzlich eine PLR-Lizenz, um jedes E-Book auch als dein eigenes Produkt weiterverkaufen zu können. Dazu erhältst du ein fertiges Canva-Template, indem du das Produkt nach belieben anpassen kannst.
+**Vendor's marketplace description:** <p>Baue dein Online-Business rasch und profitabel auf - ohne technisches Vorwissen, ohne stundenlange Recherche und ohne das Rad neu erfinden zu müssen.</p>
+<p>Zu diesem E-Book-Bundle erhältst du zusätzlich eine <strong>PLR-Lizenz</strong>, um jedes E-Book auch als dein eigenes Produkt weiterverkaufen zu können.</p>
+<p>Dazu erhältst du ein fertiges Canva-Template, indem du das Produkt nach belieben anpassen kannst.</p>
 
 ## 2. Links
 
@@ -103,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PLR-E-Book-Bundle? — Typ: Member area and video courses, Anbieter: onlineratgeber24, gelistet seit 2026-06-23
-- Wie viel kostet es? — 333.9388 USD
+- Wie viel kostet es? — 333.1938 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

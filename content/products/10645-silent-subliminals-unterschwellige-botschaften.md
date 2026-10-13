@@ -4,34 +4,34 @@ digistore24_product_id: 72705
 title: "Silent Subliminals - Unterschwellige Botschaften"
 vendor: "Quanten-Resonanz"
 product_type: "Downloads"
-price: 27.19
+price: 27.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.54
+earnings_per_sale: 9.52
 cart_conversion_pct: 20
 cancel_rate_pct: 3.05
 categories: ["Personal Development"]
 listed_since: "2016-02-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://quantenresonanz.de/silent_subliminals_v1/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/10645/adminstore/"
 sales_page: "https://quantenresonanz.de/silent_subliminals_v1/"
 language: "de"
 ---
 # Silent Subliminals - Unterschwellige Botschaften
 
 > Product ID `10645` · Digistore24 productId `72705` · [HTML profile page](../../produkte/silent-subliminals-unterschwellige-botschaften-10645.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.19 (Single payment) |
+| Price | $27.13 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.54 |
+| Earnings/sale* | $9.52 |
 | Cart conversion* | 20% |
 | Cancel rate* | 3.05% |
 | Vendor | Quanten-Resonanz |
@@ -41,11 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Silent Subliminals Audio-Downloads bzw. CDs, zu folgenden Themen: So sind Sie ein Magnet für Reichtum, Wohlstand und Fülle Mit mehr Selbstliebe zu einer glücklichen Beziehung mirt dem Traumpartner Mit der Kraft des Unterbewusstseins erfolgreich und dauerhaft abnehmen Reichtum ist wie Armut ein geistiger Zustand. Programmieren Sie Ihr Unterbewusstsein auf Fülle und aktivieren Sie Ihr Wohlstandsbewu…
+**Vendor's marketplace description:** <p>Silent Subliminals Audio-Downloads bzw. CDs, zu folgenden Themen:</p>
+<ul style="list-style-type: square;">
+<li>So sind Sie ein Magnet f&uuml;r Reichtum, Wohlstand und F&uuml;lle</li>
+<li>Mit mehr Selbstliebe zu einer gl&uuml;cklichen Beziehung mirt dem Traumpartner</li>
+<li>Mit der Kraft des Unterbewusstseins erfolgreich und dauerhaft abnehmen</li>
+</ul>
+<p>&nbsp;</p>
+<p>Reichtum ist wie Armut ein geistiger Zustand. Programmieren Sie Ihr Unterbewusstsein auf F&uuml;lle und aktivieren Sie Ihr Wohlstandsbewusstsein &ndash; jetzt schnell und einfach durch Silent Subliminals. &nbsp;</p>
+<p>Silent Subliminals ist eine der effektivsten Techniken, um das Unterbewusstsein auf Gl&uuml;ck, Erfolg, Liebe und Gesundheit zu programmieren. &nbsp; Dabei werden die neuen Botschaften auf einer Frequenz abgespielt, die f&uuml;r das menschliche Ohr nicht mehr wahrnehmbar sind und daher direkt mit dem Unterbewusstsein kommunizieren k&ouml;nnen. Hier k&ouml;nnen die einschr&auml;nkenden Glaubenss&auml;tze direkt ver&auml;ndert werden. &nbsp;</p>
+<p>Die Quanten-Physikerin Dr. Susanna Wallis hat jahrelang mit dieser fantastischen Methode experimentiert und pr&auml;sentiert hier ein unglaublich effektives Verfahren, um die eigenen Blockaden und Widerst&auml;nde zu &uuml;berwinden. Dies ist unabdingbar, um sein Leben hin zu Liebe, Gl&uuml;ck, F&uuml;lle und Zufriedenheit zu ver&auml;ndern. &nbsp;</p>
+<p>Die CD bzw. der Download enth&auml;lt &uuml;ber 70 min stille Botschaften: &nbsp; &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reine Silent Subliminals ohne Hintergrundmusik bzw. &ndash;ger&auml;usche (5:30) &nbsp;</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wellenrauschen mit hinterlegten Silent Subliminals (59:04) &nbsp;</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bonustrack: unver&auml;nderte Original-Affirmationen, gesprochen von Dr. Susanna Wallis. Wenn Sie zus&auml;tzlich zu den Silent Subliminals die h&ouml;rbaren Botschaften mit Ihrem Bewusstsein aufnehmen, werden sozusagen alle Sinne angeregt und einem Leben in Gl&uuml;ck, Wohlstand, Zufriedenheit und Liebe steht nichts mehr im Wege. &nbsp;</p>
+<p>Die CD enth&auml;lt eine Sequenz, auf der nur die Silent Subliminals abgespielt werden. Dies eignet sich hervorragend daf&uuml;r, sie st&auml;ndig abzuspielen. Da sie ja nicht h&ouml;rbar sind, k&ouml;nnen Sie ja auch nicht st&ouml;ren. &nbsp;</p>
+<p>Au&szlig;erdem ist auf der CD ein fast einst&uuml;ndiges Wellenrauschen zu h&ouml;ren, dem die stillen Botschaften unterlegt sind. &nbsp;</p>
+<p>Als Bonustrack sind zus&auml;tzlich dazu die unver&auml;nderten Original-Affirmationen, gesprochen von Dr. Susanna Wallis enthalten. Wenn Sie zus&auml;tzlich zu den Silent Subliminals die h&ouml;rbaren Botschaften mit Ihrem Bewusstsein aufnehmen, werden sozusagen alle Sinne angeregt und einem Leben in Gl&uuml;ck, Wohlstand, Zufriedenheit und Liebe steht nichts mehr im Wege.</p>
+<p>Zus&auml;tzlich dazu umfasst jede CD bzw. jeder Download eine genaue <strong>Gebrauchsanweisung </strong>f&uuml;r die Silent Subliminals und die <strong>Affirmationen in schriftlicher Form.</strong></p>
+<h2><strong>Was sind Silent Subliminals?</strong></h2>
+<p>&nbsp; &bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Subliminale Botschaften sind unterschwellige Botschaften, die unbewusst aufgenommen werden: </strong> <strong>Subliminals</strong> k&ouml;nnen verwendet werden, um Fortschritte f&uuml;r das eigene Leben in den verschiedensten Bereichen wie Gesundheit, Karriere und Liebe zu erzielen. Die Idee ist, ein <strong>subliminale Botschaft</strong> direkt ins Unterbewusstsein zu senden und dort Ver&auml;nderungen in der Pers&ouml;nlichkeit hervorzurufen. &nbsp;</p>
+<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Silent Subliminals sind die stillen unterschwelligen Botschaften, die durch eine neuartige Technologie hergestellt werden: </strong> Dabei sind <strong>Silent Subliminals </strong>unterschwellige Botschaften, die auf einer Frequenz abgespielt werden, die f&uuml;r das menschliche Ohr nicht mehr wahrnehmbar sind und daher direkt mit dem Unterbewusstsein kommunizieren k&ouml;nnen. Hier k&ouml;nnen die einschr&auml;nkenden Glaubenss&auml;tze direkt ver&auml;ndert werden. &nbsp;</p>
+<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Silent Subliminals werden vom Unbewusstsein unvoreingenommen aufgenommen: </strong> Unbewusst aufgenommenen Botschaften oder Informationen werden ohne Pr&uuml;fung auf wahr oder unwahr gespeichert. Dadurch werden die Silent Subliminals &uuml;ber das Unterbewusstsein sofort und effektiv den Prozess der Realisierung von W&uuml;nschen und Zielen einleiten, ohne durch unsere Blockaden und Glaubenss&auml;tze beeinflusst zu werden.</p>
+<h2>Wie werden Silent Subliminals angewendet?</h2>
+<p>&middot;&nbsp;&nbsp;&nbsp; H&ouml;ren Sie die Silent Subliminals so oft wie m&ouml;glich, mindestens jedoch f&uuml;r 1 Stunde t&auml;glich &uuml;ber einen l&auml;ngeren Zeitraum, mindestens 3 Monate.</p>
+<p>&middot;&nbsp;&nbsp;&nbsp; H&ouml;ren Sie die Silent Subliminals bei m&ouml;glichst vielen verschiedenen T&auml;tigkeiten, beispielsweise beim Aufr&auml;umen, Erledigen der Korrespondenz, Fernsehen, Schlafen &ndash; dadurch werden verschiedene Bereich des Gehirns verwendet und verschiedene Verkn&uuml;pfungen entstehen.</p>
+<p>&middot;&nbsp;&nbsp;&nbsp; Sie k&ouml;nnen die Silent Subliminals zwar nicht bewusst wahrnehmen, jedoch sollten sie nicht lauter als auf Zimmerlautst&auml;rke angeh&ouml;rt werden, sonst k&ouml;nnen Kopfschmerzen und auch H&ouml;rsch&auml;den die Folge sein. Deshalb sollten Sie zun&auml;chst ein h&ouml;rbares Musikst&uuml;ck wie beispielsweise die Naturger&auml;usche auf dieser CD bzw. diesem Download einstellen und testen, ob diese in einer angenehmen Lautst&auml;rke abgespielt werden, ehe Sie die reinen Silent Subliminals ablaufen lassen.</p>
+<p>&middot;&nbsp;&nbsp;&nbsp; Wenn Sie die Silent Subliminals durch Anh&ouml;ren der auch auf dieser CD bzw. diesem Download enthaltenen h&ouml;rbaren Affirmationen und durch Ablesen der Affirmationen erg&auml;nzen, regen Sie die verschiedenen Gehirnbereiche an und die Silent Subliminals k&ouml;nnen optimal wirken.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://quantenresonanz.de/silent_subliminals_v1/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/10645/adminstore/
 - Sales page: https://quantenresonanz.de/silent_subliminals_v1/
 - Vendor affiliate support: http://quantenresonanz.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/72705/adminstore
@@ -72,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Silent Subliminals - Unterschwellige Botschaften? — Typ: Downloads, Anbieter: Quanten-Resonanz, gelistet seit 2016-02-22
-- Wie viel kostet es? — 27.185756 USD
+- Wie viel kostet es? — 27.125106000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 640932
 title: "Fortbildung (Dr. M. Wengenroth) \"Erschöpfung und Entzündung\""
 vendor: "MartinaWengenroth"
 product_type: "Member area and video courses"
-price: 388.68
+price: 387.81
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 1.12
@@ -12,24 +12,24 @@ cart_conversion_pct: 2
 cancel_rate_pct: 3.2
 categories: ["Health & Fitness"]
 listed_since: "2025-10-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://martinawengenroth.com/raus-aus-erschoepfung-und-entzuendung?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54481/adminstore/"
 sales_page: "https://martinawengenroth.com/raus-aus-erschoepfung-und-entzuendung"
 language: "de"
 ---
 # Fortbildung (Dr. M. Wengenroth) "Erschöpfung und Entzündung"
 
 > Product ID `54481` · Digistore24 productId `640932` · [HTML profile page](../../produkte/fortbildung-dr-m-wengenroth-ersch-pfung-und-entz-ndung-54481.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $388.68 (Single payment) |
+| Price | $387.81 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $1.12 |
 | Cart conversion* | 2% |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In 3 Monaten zu mehr Energie, weniger Schmerzen und einem gesunden Körper. Mit Ernährung, Naturkraft & einfachen Alltagsschritten ohne Chemie. Sofort umsetzbar: Alles ist praxisnah, ohne komplizierte oder teure Methoden. Viele Heilkräuter findest du kostenlos am Wegesrand oder kannst sie gezielt in Kapselform zu Dir nehmen. Ganzheitlich: Wir kombinieren Ernährung, Lifestyle und Naturkraft – so wie…
+**Vendor's marketplace description:** <p>In 3 Monaten zu mehr Energie, weniger Schmerzen und einem gesunden Körper. <strong>Mit Ernährung, Naturkraft</strong> &amp; einfachen Alltagsschritten <strong>ohne Chemie.</strong></p>
+<p> </p>
+<div>
+<ul>
+<li>Sofort umsetzbar: Alles ist praxisnah, ohne komplizierte oder teure Methoden. Viele Heilkräuter findest du kostenlos am Wegesrand oder kannst sie gezielt in Kapselform zu Dir nehmen.</li>
+<li>Ganzheitlich: Wir kombinieren Ernährung, Lifestyle und Naturkraft – so wie dein Körper als Ganzes funktioniert.</li>
+<li>Klarer Fahrplan: Du weißt immer, was der nächste Schritt ist – kein Rätselraten mehr.</li>
+<li>Erprobt: Das sind die Strategien, die ich seit Jahren erfolgreich in meiner Praxis anwende – an tausenden Patienten und an mir selbst.</li>
+<li>Fundiert: Du verstehst nicht nur das „Was“, sondern auch das „Warum“ – so kannst du selbstbestimmt entscheiden.</li>
+<li>Schriftlich: Die Kursinhalte bekommst Du in kompakter Form schriftlich zum Ausdrucken.</li>
+</ul>
+<p> </p>
+<p>✅ Bonus-Kapitel: "Smart Shopping: Wo Bio Sinn macht und wo du getrost sparen kannst"</p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://martinawengenroth.com/raus-aus-erschoepfung-und-entzuendung?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54481/adminstore/
 - Sales page: https://martinawengenroth.com/raus-aus-erschoepfung-und-entzuendung
 - Canonical redirect: https://www.digistore24.com/redir/640932/adminstore
 
@@ -67,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fortbildung (Dr. M. Wengenroth) "Erschöpfung und Entzündung"? — Typ: Member area and video courses, Anbieter: MartinaWengenroth, gelistet seit 2025-10-12
-- Wie viel kostet es? — 388.68011 USD
+- Wie viel kostet es? — 387.8129850000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

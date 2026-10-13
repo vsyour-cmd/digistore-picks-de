@@ -4,16 +4,16 @@ digistore24_product_id: 709579
 title: "GZ-AI. FLOW Board"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.02
+earnings_per_sale: 10.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Office Organization"]
 listed_since: "2026-07-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.gz-ai-stacks.de/Flow-Board/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gz-ai-stacks.de/Flow-Board/"
@@ -22,16 +22,16 @@ language: "de"
 # GZ-AI. FLOW Board
 
 > Product ID `57809` · Digistore24 productId `709579` · [HTML profile page](../../produkte/gz-ai-flow-board-57809.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.02 |
+| Earnings/sale* | $10.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gzaistacks2aae |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digitales Whiteboard für Notizen, Skizzen und Planung - komplett offline, keine Cloud nötig. Haftnotizen, PDF/Bild-Import per Drag&Drop, verschiedene Raster/Hintergründe (auch für Social-Media-Formate wie Story/Quadrat), Export als PNG, PDF oder sogar als Video/GIF-Animation. Hell/Dunkel-Modus, Mikrofonaufnahme, QR-Code-Generator eingebaut.
+**Vendor's marketplace description:** <p>Digitales Whiteboard für Notizen, Skizzen und Planung - komplett offline, keine Cloud nötig. Haftnotizen, PDF/Bild-Import per Drag&amp;Drop, verschiedene Raster/Hintergründe (auch für Social-Media-Formate wie Story/Quadrat), Export als PNG, PDF oder sogar als Video/GIF-Animation. Hell/Dunkel-Modus, Mikrofonaufnahme, QR-Code-Generator eingebaut.</p>
 
 ## 2. Links
 
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GZ-AI. FLOW Board? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-07-30
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

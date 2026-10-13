@@ -4,34 +4,34 @@ digistore24_product_id: 700947
 title: "Mein Wochenplaner - Gerichte planen, smarter einkaufen"
 vendor: "pakohli8ptrick"
 product_type: "Member area and video courses"
-price: 72.84
+price: 72.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.42
+earnings_per_sale: 36.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2026-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://wochenplaner.patrickkohli.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57113/adminstore/"
 sales_page: "https://wochenplaner.patrickkohli.com/"
 language: "de"
 ---
 # Mein Wochenplaner - Gerichte planen, smarter einkaufen
 
 > Product ID `57113` · Digistore24 productId `700947` · [HTML profile page](../../produkte/mein-wochenplaner-gerichte-planen-smarter-einkaufen-57113.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $72.84 (Single payment) |
+| Price | $72.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.42 |
+| Earnings/sale* | $36.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pakohli8ptrick |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Schluss mit der täglichen Frage: „Was essen wir heute?“ Mit dem digitalen Menüplaner planst Du die Mahlzeiten Deiner Familie in wenigen Minuten oder lässt die komplette Woche automatisch zusammenstellen. Weniger Stress, mehr Abwechslung und entspanntere Familienabende. Sofort online nutzbar auf PC, Tablet und Smartphone.
+**Vendor's marketplace description:** <p><strong>Schluss mit der täglichen Frage: „Was essen wir heute?“</strong> Mit dem digitalen Menüplaner planst Du die Mahlzeiten Deiner Familie in wenigen Minuten oder lässt die komplette Woche automatisch zusammenstellen. Weniger Stress, mehr Abwechslung und entspanntere Familienabende. Sofort online nutzbar auf PC, Tablet und Smartphone.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wochenplaner.patrickkohli.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57113/adminstore/
 - Sales page: https://wochenplaner.patrickkohli.com/
 - Canonical redirect: https://www.digistore24.com/redir/700947/adminstore
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein Wochenplaner - Gerichte planen, smarter einkaufen? — Typ: Member area and video courses, Anbieter: pakohli8ptrick, gelistet seit 2026-06-23
-- Wie viel kostet es? — 72.839 USD
+- Wie viel kostet es? — 72.6765 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

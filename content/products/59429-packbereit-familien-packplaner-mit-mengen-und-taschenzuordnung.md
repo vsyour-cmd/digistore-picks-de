@@ -4,7 +4,7 @@ digistore24_product_id: 735328
 title: "Packbereit: Familien-Packplaner mit Mengen und Taschenzuordnung"
 vendor: "kiagent007"
 product_type: "Software"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.82
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Travel & Culture"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/735328?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59429/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/735328"
 language: "de"
 ---
 # Packbereit: Familien-Packplaner mit Mengen und Taschenzuordnung
 
 > Product ID `59429` · Digistore24 productId `735328` · [HTML profile page](../../produkte/packbereit-familien-packplaner-mit-mengen-und-taschenzuordnung-59429.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Packbereit: konkrete Hilfe für den Alltag Bearbeitbare Packvorschläge je Person statt einer gemeinsamen endlosen Liste. Zielgruppe: Familien und gemeinsam Reisende, die Packlisten am Computer vorbereiten. Lieferumfang: 1–60 Reisetage, bis zu 12 Personen; anpassbare Mengen, Wäscheintervall, Verkehrsmittel sowie Strand- und Campingoption; Personen- und Taschenfilter; Druckansicht. Dazu manuell speic…
+**Vendor's marketplace description:** <h2>Packbereit: konkrete Hilfe für den Alltag</h2>
+<p>Bearbeitbare Packvorschläge je Person statt einer gemeinsamen endlosen Liste.</p>
+<p><strong>Zielgruppe:</strong> Familien und gemeinsam Reisende, die Packlisten am Computer vorbereiten.</p>
+<p><strong>Lieferumfang:</strong> 1–60 Reisetage, bis zu 12 Personen; anpassbare Mengen, Wäscheintervall, Verkehrsmittel sowie Strand- und Campingoption; Personen- und Taschenfilter; Druckansicht. Dazu manuell speicherbare JSON-Projektdateien, integrierte Anleitung und zwei fiktive Beispielprojekte.</p>
+<p>ZIP-Download mit lokaler HTML-App für Desktop-Browser. Kein KI-Zugang nötig. Keine native Handyapp, kein Konto, keine Cloud-Synchronisierung, keine automatische Speicherung. Vorschläge individuell prüfen.</p>
+<p><strong>Einmaliger Preis:</strong> 9,99 Euro brutto. <strong>Affiliate-Provision:</strong> 30 Prozent gemäß Digistore24-Abrechnung. 30 Tage Rückgabe, 12 Monate Downloadzugang.</p>
+<p><strong>Kostenlose Probe:</strong> https://projektpreis-studio.crimetwin.chatgpt.site/packbereit/probe/</p>
+<p>Produktinfos und nutzbare Werbetexte auf der Affiliate-Support-Seite. Gewöhnliche Probenlinks enthalten keine Affiliate-Zuordnung; persönliche Verkaufslinks mit Kampagnenkennung aus Digistore24 verwenden.</p>
+<p>Neue Produkte ohne belegte Conversion- oder Verkaufsdaten. Kaufwerbung erst nach tatsächlicher Produkt- und Marktplatzfreigabe. Keine garantierten Ergebnisse, erfundenen Bewertungen oder künstliche Verknappung verwenden.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/735328?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59429/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/735328
 - Vendor affiliate support: https://projektpreis-studio.crimetwin.chatgpt.site/partner/
 - Canonical redirect: https://www.digistore24.com/redir/735328/adminstore
@@ -72,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Packbereit: Familien-Packplaner mit Mengen und Taschenzuordnung? — Typ: Software, Anbieter: kiagent007, gelistet seit 2026-09-20
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

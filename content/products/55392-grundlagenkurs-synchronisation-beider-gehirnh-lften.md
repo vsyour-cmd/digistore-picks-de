@@ -4,16 +4,16 @@ digistore24_product_id: 517322
 title: "Grundlagenkurs Synchronisation beider Gehirnhälften"
 vendor: "danielamokros"
 product_type: "Member area and video courses"
-price: 169.5
+price: 169.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 84.75
+earnings_per_sale: 84.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2023-09-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/517322?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/517322"
@@ -22,16 +22,16 @@ language: "de"
 # Grundlagenkurs Synchronisation beider Gehirnhälften
 
 > Product ID `55392` · Digistore24 productId `517322` · [HTML profile page](../../produkte/grundlagenkurs-synchronisation-beider-gehirnh-lften-55392.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $169.50 (Single payment, Installment) |
+| Price | $169.12 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $84.75 |
+| Earnings/sale* | $84.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | danielamokros |
@@ -41,7 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Grundlagenkurs für Angstfrei und Lernen Die Grundlage, also das Fundament für ein erfolgreiches Lernen, ein angstfreies Leben und die adäquate Steuerung deiner Emotionen bekommst du in diesem Paket. Wenn du Schwierigkeiten beim Lernen, beim Merken und beim Konzentrieren hast oder dich Ängste einschränken, nutzt du vorzugsweise nur eine Gehirnhälfte, deshalb kannst du dein volles Potenzial nicht au…
+**Vendor's marketplace description:** <div><strong>Grundlagenkurs für Angstfrei und Lernen</strong></div>
+<div> </div>
+<div>Die Grundlage, also das Fundament für ein erfolgreiches Lernen, ein angstfreies Leben und die adäquate Steuerung deiner Emotionen bekommst du in diesem Paket.</div>
+<div> </div>
+<div>Wenn du Schwierigkeiten beim Lernen, beim Merken und beim Konzentrieren hast oder dich Ängste einschränken, nutzt du vorzugsweise nur eine Gehirnhälfte, deshalb kannst du dein volles Potenzial nicht ausschöpfen. Ich zeige dir mit dem 12 Wochenprogramm, wie du den Zugriff auf beide Gehirnhälften zurückerlangst, sodass diese optimal und dauerhaft zusammenarbeiten.</div>
+<div> </div>
+<div><strong>Kursinhalt:</strong></div>
+<ul>
+<li>Onlinekurs: Zugriff auf meine Lernvideos</li>
+<li>PDF (Trainingsplan + Anleitung)</li>
+</ul>
+<div> </div>
+<p><strong>Inhalt Online Kurs:</strong></p>
+<ul>
+<li>Vorstellungsvideo</li>
+<li>Lateralitätsbahnung Erklärung</li>
+<li>Lateralitätsbahnung Quiz</li>
+<li>Lateralitätsbahnung praktische Übungen</li>
+<li>PDF Lateralitätsbahnung </li>
+</ul>
 
 ## 2. Links
 
@@ -89,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grundlagenkurs Synchronisation beider Gehirnhälften? — Typ: Member area and video courses, Anbieter: danielamokros, gelistet seit 2023-09-20
-- Wie viel kostet es? — 169.501956 USD
+- Wie viel kostet es? — 169.123806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

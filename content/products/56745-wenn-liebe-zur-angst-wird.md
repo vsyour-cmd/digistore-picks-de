@@ -4,34 +4,34 @@ digistore24_product_id: 695752
 title: "Wenn Liebe zur Angst wird"
 vendor: "medienversand2014"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-05-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://noebauerfxj.wixsite.com/verlustangst?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56745/adminstore/"
 sales_page: "https://noebauerfxj.wixsite.com/verlustangst"
 language: "de"
 ---
 # Wenn Liebe zur Angst wird
 
 > Product ID `56745` · Digistore24 productId `695752` · [HTML profile page](../../produkte/wenn-liebe-zur-angst-wird-56745.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | medienversand2014 |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wenn Liebe zur Angst wird Verlustangst verstehen • Emotionale Abhängigkeit lösen • Innere Ruhe finden Leidest du unter Verlustangst, Overthinking oder emotionaler Unsicherheit? Verlierst du dich in Beziehungen oder hast ständig Angst, nicht genug zu sein? Dann ist dieser Ratgeber genau für dich. „Wenn Liebe zur Angst wird“ zeigt dir:✔ wie emotionale Abhängigkeit entsteht✔ warum Verlustangst Bezieh…
+**Vendor's marketplace description:** <h3>Wenn Liebe zur Angst wird</h3>
+<h4>Verlustangst verstehen • Emotionale Abhängigkeit lösen • Innere Ruhe finden</h4>
+<p>Leidest du unter Verlustangst, Overthinking oder emotionaler Unsicherheit? Verlierst du dich in Beziehungen oder hast ständig Angst, nicht genug zu sein?</p>
+<p>Dann ist dieser Ratgeber genau für dich.</p>
+<p>„Wenn Liebe zur Angst wird“ zeigt dir:<br />✔ wie emotionale Abhängigkeit entsteht<br />✔ warum Verlustangst Beziehungen belastet<br />✔ wie du deinen Selbstwert stärkst<br />✔ wie du mentale Ruhe findest<br />✔ und gesunde Beziehungen aufbaust</p>
+<p>Mit praxisnahen Übungen, Reflexionsfragen, Journaling-Seiten und konkreten Strategien für emotionale Heilung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://noebauerfxj.wixsite.com/verlustangst?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56745/adminstore/
 - Sales page: https://noebauerfxj.wixsite.com/verlustangst
 - Vendor affiliate support: https://job-profi.jimdofree.com/verlustangst-affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/695752/adminstore
@@ -67,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wenn Liebe zur Angst wird? — Typ: E-books, Anbieter: medienversand2014, gelistet seit 2026-05-29
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

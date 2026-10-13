@@ -4,16 +4,16 @@ digistore24_product_id: 640341
 title: "BRANDNEU - Affiliate-Kickstart - 21-Tage-Challenge"
 vendor: "YannickBre"
 product_type: "Member area and video courses"
-price: 26.55
+price: 26.49
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.63
+earnings_per_sale: 12.6
 cart_conversion_pct: 6
 cancel_rate_pct: 5.17
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-10-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.affiliate-akademie.com/affiliate-kickstart-21-tage-challenge/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affiliate-akademie.com/affiliate-kickstart-21-tage-challenge/"
@@ -22,16 +22,16 @@ language: "de"
 # BRANDNEU - Affiliate-Kickstart - 21-Tage-Challenge
 
 > Product ID `55530` · Digistore24 productId `640341` · [HTML profile page](../../produkte/brandneu-affiliate-kickstart-21-tage-challenge-55530.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $26.55 (Single payment) |
+| Price | $26.49 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.63 |
+| Earnings/sale* | $12.60 |
 | Cart conversion* | 6% |
 | Cancel rate* | 5.17% |
 | Vendor | YannickBre |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** [BRANDNEU 2026] Affiliate-Kickstart - 21-Tage-Challenge Die 21-Tage-Challenge zeigt den exakten Weg zur ersten Affiliate-Provision in 21 Tagen. Der Kurs besteht aus einem Theorie-Teil und der 21-Tage-Challenge als Praxis-Teil. Du bekommst 60 % Provision auf den Kurs und bis zu 60 % Provision auf alle Upsells. Im Durchlauf sind +259 € Provision (inkl. Abonnements) möglich.
+**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>[BRANDNEU 2026] Affiliate-Kickstart - 21-Tage-Challenge</strong></span></h2>
+<p>Die 21-Tage-Challenge zeigt den exakten Weg zur ersten Affiliate-Provision in 21 Tagen. Der Kurs besteht aus einem Theorie-Teil und der 21-Tage-Challenge als Praxis-Teil.</p>
+<p><strong>Du bekommst 60 % Provision auf den Kurs und bis zu 60 % Provision auf alle Upsells. </strong></p>
+<p><strong>Im Durchlauf sind +259 € Provision (inkl. Abonnements) möglich.</strong></p>
 
 ## 2. Links
 
@@ -59,7 +62,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BRANDNEU - Affiliate-Kickstart - 21-Tage-Challenge? — Typ: Member area and video courses, Anbieter: YannickBre, gelistet seit 2025-10-09
-- Wie viel kostet es? — 26.547014 USD
+- Wie viel kostet es? — 26.487789000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

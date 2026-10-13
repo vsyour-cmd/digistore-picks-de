@@ -4,16 +4,16 @@ digistore24_product_id: 305026
 title: "Das große Solfeggio-Frequenz Bundle"
 vendor: "Michalis"
 product_type: "Downloads"
-price: 17.15
+price: 17.11
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.73
+earnings_per_sale: 32.66
 cart_conversion_pct: 8
 cancel_rate_pct: 0.66
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2020-01-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.solfeggio-frequenzen.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.solfeggio-frequenzen.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Das große Solfeggio-Frequenz Bundle
 
 > Product ID `34336` · Digistore24 productId `305026` · [HTML profile page](../../produkte/das-gro-e-solfeggio-frequenz-bundle-34336.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.15 (Single payment) |
+| Price | $17.11 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.73 |
+| Earnings/sale* | $32.66 |
 | Cart conversion* | 8% |
 | Cancel rate* | 0.66% |
 | Vendor | Michalis |
@@ -41,7 +41,35 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** - Die Solfeggio - Frequenzen - Verkaufspreis: 17,- Euro / Provision für den Affiliate: 50% + Upsell: 7,99 Euro / Provision 50% Inhalt besteht aus: 6 MP3-Dateien und 2 eBooks. Der Inhalt im Detail: 1 x MP3-Datei: 396 Hz Wirkung: Befreiung von Schuld & Angst 1 x MP3-Datei: 417 Hz Wirkung: Entfernung negativer Energien 1 x MP3-Datei: 528 Hz Wirkung: Positive Transformation 1 x MP3-Datei: 639 Hz Wirku…
+**Vendor's marketplace description:** <p><strong>- Die Solfeggio - Frequenzen -</strong></p>
+<p><strong>Verkaufspreis: 17,- Euro / Provision für den Affiliate: 50%</strong></p>
+<p><strong>+</strong></p>
+<p><strong>Upsell: 7,99 Euro / Provision 50%</strong></p>
+<p> </p>
+<p><strong>Inhalt besteht aus: 6 MP3-Dateien und 2 eBooks.</strong></p>
+<p> </p>
+<p><strong>Der Inhalt im Detail:</strong></p>
+<p> </p>
+<p>1 x MP3-Datei: <strong>396</strong><strong> Hz</strong> Wirkung: Befreiung von Schuld &amp; Angst</p>
+<p>1 x MP3-Datei: <strong>417 Hz</strong> Wirkung: Entfernung negativer Energien</p>
+<p>1 x MP3-Datei: <strong>528</strong><strong> Hz</strong> Wirkung: Positive Transformation</p>
+<p>1 x MP3-Datei: <strong>639</strong><strong> Hz</strong> Wirkung: Harmonische Beziehung(en)</p>
+<p>1 x MP3-Datei: <strong>741 </strong><strong>Hz</strong> Wirkung: Erwachen der Intuition</p>
+<p>1 x MP3-Datei: <strong>852</strong><strong> Hz</strong> Wirkung: Rückkehr zur spirituellen Ordnung</p>
+<p> +</p>
+<p><strong>2 x eBooks: (PDF-Format)</strong></p>
+<p>Die Solfeggio Frequenzen - Die verschollenen und heilenden Frequenzen</p>
+<p><strong>Inhalt:</strong></p>
+<div>
+<p>In diesem eBook finden Sie die erweiterte Fassung der Texte auf dieser Webseite. Mehr Texte, mehr Inhalte und erweiterte Kapitel.</p>
+<p><strong>Erfahren Sie:</strong></p>
+<ul>
+<li>Wie sich die Frequenzen auf die einzelnen Chakren auswirken.</li>
+<li>Wie Sie am besten mit den einzelnen Solffegio-Frequenzen arbeiten.</li>
+<li>Wie eine unbekannte Technik Ihre negativen Glaubenssätze in positive umprogrammiert.</li>
+</ul>
+<p><strong>... und vieles mehr.</strong></p>
+</div>
 
 ## 2. Links
 
@@ -66,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das große Solfeggio-Frequenz Bundle? — Typ: Downloads, Anbieter: Michalis, gelistet seit 2020-01-23
-- Wie viel kostet es? — 17.14518 USD
+- Wie viel kostet es? — 17.106930000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

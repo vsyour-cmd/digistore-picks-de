@@ -4,16 +4,16 @@ digistore24_product_id: 741971
 title: "Wildbienen entdecken – Mitmach- und  Ausmalbuch"
 vendor: "ITServiceMB"
 product_type: "E-books"
-price: 13.09
+price: 13.06
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.54
+earnings_per_sale: 6.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Family & Children","Home & Garden"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://kurven-klasse.de/biene/?aff=adminstore#aff=adminstore"
 sales_page: "https://kurven-klasse.de/biene/"
@@ -22,16 +22,16 @@ language: "de"
 # Wildbienen entdecken – Mitmach- und  Ausmalbuch
 
 > Product ID `60194` · Digistore24 productId `741971` · [HTML profile page](../../produkte/wildbienen-entdecken-mitmach-und-ausmalbuch-60194.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.09 (Single payment) |
+| Price | $13.06 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.54 |
+| Earnings/sale* | $6.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ITServiceMB |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 84 Seiten voller Wildbienenwissen, Ausmalspaß und Naturentdeckungen! „Wildbienen – Mitmach- & Ausmalbuch“ ist ein digitales PDF-E-Book für Familien, naturinteressierte Kinder und Erwachsene. Das Buch verbindet verständlich erklärtes Wissen über Wildbienen mit Ausmalbildern, Forscher- und Mitmachseiten, Quizfragen und praktischen Tipps. Die Leser entdecken verschiedene Wildbienenarten, erfahren meh…
+**Vendor's marketplace description:** <p><strong>84 Seiten voller Wildbienenwissen, Ausmalspaß und Naturentdeckungen!</strong></p>
+<p>„Wildbienen – Mitmach- &amp; Ausmalbuch“ ist ein digitales PDF-E-Book für Familien, naturinteressierte Kinder und Erwachsene.</p>
+<p>Das Buch verbindet verständlich erklärtes Wissen über Wildbienen mit Ausmalbildern, Forscher- und Mitmachseiten, Quizfragen und praktischen Tipps.</p>
+<p>Die Leser entdecken verschiedene Wildbienenarten, erfahren mehr über Nahrung und Nistplätze und lernen, wie Garten oder Balkon wildbienenfreundlicher gestaltet werden können.</p>
+<p><strong>Das erwartet die Käufer:</strong><br />• 84 gestaltete Seiten<br />• Wildbienenwissen und Artenporträts<br />• Ausmalbilder und Forscherseiten<br />• Quiz und Beobachtungsaufgaben<br />• Tipps für Garten und Balkon<br />• Wildbienen-Aktionsplan<br />• Originalfotos vom Bienenfutterautomaten und der Blühwiese in Dülken<br />• Sofortiger digitaler PDF-Download</p>
+<p><strong>Verkaufspreis: 12,90 €</strong></p>
+<p><strong>Affiliate-Provision: 50 %</strong></p>
+<p>Das Thema eignet sich besonders für Affiliates aus den Bereichen Natur, Garten, Familie, Kinder, Umwelt, Nachhaltigkeit und Lernen.</p>
 
 ## 2. Links
 
@@ -76,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wildbienen entdecken – Mitmach- und  Ausmalbuch? — Typ: E-books, Anbieter: ITServiceMB, gelistet seit 2026-10-05
-- Wie viel kostet es? — 13.088608 USD
+- Wie viel kostet es? — 13.059408000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

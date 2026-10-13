@@ -4,16 +4,16 @@ digistore24_product_id: 531838
 title: "Menschliche Dynamik​ - Analyse"
 vendor: "talent-score"
 product_type: "Member area and video courses"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 23.31
+earnings_per_sale: 23.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Sport"]
 listed_since: "2023-12-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://talentscore.de/menschliche-dynamik/?aff=adminstore#aff=adminstore"
 sales_page: "https://talentscore.de/menschliche-dynamik/"
@@ -22,16 +22,16 @@ language: "de"
 # Menschliche Dynamik​ - Analyse
 
 > Product ID `47288` · Digistore24 productId `531838` · [HTML profile page](../../produkte/menschliche-dynamik-analyse-47288.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $23.31 |
+| Earnings/sale* | $23.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | talent-score |
@@ -41,7 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Neuheit im Fußball ⚽️ Die menschliche Dynamik beeinflusst maßgeblich die Performance eines Fußballspielers. Analyse verschiedener Aspekte der Persönlichkeit, Eigenschaften, Motive, Kompetenzen und vieles mehr. Dein Verdienst: - 25% Provision auf alle unsere Produkte, egal welches Produkt durch deine Empfehlung gekauft wird - plus weitere 10% Zweistufen-Provisionen auf die Verkäufe deiner Werbe…
+**Vendor's marketplace description:** <h4><span style="color:#ff9900;"><span style="color:#ff6600;">Die Neuheit im Fußball</span> ⚽️</span></h4>
+<p>Die menschliche Dynamik beeinflusst maßgeblich die Performance eines Fußballspielers. Analyse verschiedener Aspekte der Persönlichkeit, Eigenschaften, Motive, Kompetenzen und vieles mehr.</p>
+<p> </p>
+<h3>Dein Verdienst:</h3>
+<p><strong>- 25% Provision</strong> auf alle unsere Produkte, egal welches Produkt durch deine Empfehlung gekauft wird</p>
+<p><strong>- plus weitere 10%</strong> <strong>Zweistufen-Provisionen</strong> auf die Verkäufe deiner Werbe-Partner, die du als deine Affiliates gewinnst</p>
+<p>- <strong>Werbemittel</strong> und Text-Vorlagen findest du hier <span style="color:#3366ff;"><a style="color:#3366ff;" href="https://www.digistore24-app.com/account/partnerarea/1043952" target="_blank" rel="noreferrer noopener">&gt; Affiliate-Support-Seite</a></span></p>
+<p> </p>
+<h3>Details zum Produkt:</h3>
+<hr />
+<h4> </h4>
+<h4><strong><span style="color:#ff9900;">Menschliche Dynamik - 6 Test-Module</span></strong></h4>
+<p><strong>Mache deinen persönlichen Check.</strong></p>
+<p> </p>
+<p>- Welche Persönlichkeitsmerkmale gibt es überhaupt?</p>
+<p>- Welche Fähigkeiten und Eigenschaften finde ich an mir?</p>
+<p>- Wie ausgeprägt sind sie?</p>
+<p>- Welche meiner Talente möchte ich weiterentwickeln?</p>
+<p>- Wie beeinflussen meine Vorstellungen die Interaktionen mit anderen Menschen?</p>
+<p>- Wie kann ich meine Stärken nutzen, um meine Ziele zu erreichen?</p>
+<p> </p>
+<hr />
+<p><strong>Zielgruppe</strong>: Fußballspieler *innen</p>
+<hr />
+<p> </p>
+<p><span style="color:#339966;"><strong>&gt; Promote jetzt</strong> </span>und werde Teil unserer Erfolgsstory.</p>
 
 ## 2. Links
 
@@ -84,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Menschliche Dynamik​ - Analyse? — Typ: Member area and video courses, Anbieter: talent-score, gelistet seit 2023-12-28
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

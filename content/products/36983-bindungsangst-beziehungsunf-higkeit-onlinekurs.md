@@ -4,34 +4,34 @@ digistore24_product_id: 392911
 title: "Bindungsangst / Beziehungsunfähigkeit - Onlinekurs"
 vendor: "wielandstolzenburg"
 product_type: "Member area and video courses"
-price: 508.51
+price: 507.37
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 203.4
+earnings_per_sale: 202.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2021-06-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://kurse.wielandstolzenburg.de/lp/bindungsangst-ueberwinden?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/36983/adminstore/"
 sales_page: "https://kurse.wielandstolzenburg.de/lp/bindungsangst-ueberwinden"
 language: "de"
 ---
 # Bindungsangst / Beziehungsunfähigkeit - Onlinekurs
 
 > Product ID `36983` · Digistore24 productId `392911` · [HTML profile page](../../produkte/bindungsangst-beziehungsunf-higkeit-onlinekurs-36983.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $508.51 (Single payment, Installment) |
+| Price | $507.37 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $203.40 |
+| Earnings/sale* | $202.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wielandstolzenburg |
@@ -41,11 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle meinen Onlinekurs (249€-499€) und nutze diese Vorteile: Hohe Provision: Erhalte 40 % Provision Hohe Bekanntheit: Onlinekurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) Laufende Optimierung der Verkaufs-Funnel + geringe Stornoquote Hochconvertierende Werbemittel: Banner, E-Mail-Textvorlagen werden laufend optimiert ... (mehr auf meiner Affiliate-Supportseite -->) Der o…
+**Vendor's marketplace description:** <p><strong>Empfehle meinen Onlinekurs (249€-499€) und nutze diese</strong><strong> Vorteile:<br /></strong></p>
+<p> </p>
+<ul>
+<li><strong>Hohe Provision</strong>: Erhalte 40 % Provision</li>
+<li><strong>Hohe Bekanntheit</strong>: Onlinekurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) </li>
+<li><strong>Laufende Optimierung</strong> der Verkaufs-Funnel + geringe Stornoquote</li>
+<li><strong>Hochconvertierende Werbemittel</strong>: Banner, E-Mail-Textvorlagen werden laufend optimiert ... (mehr auf meiner Affiliate-Supportseite --&gt;)</li>
+</ul>
+<p> </p>
+<p>Der optimierte Weg zum Sale mit dem <strong>Multi-Device-Tracking:</strong></p>
+<p> </p>
+<ul>
+<li><strong>Perfekter Sales-Weg</strong>: Leite deine User auf meinen kostenlosen Onlinetest ("<em>Habe ich Bindungsangst?</em>") oder das Webinar ("<em>3 Geheimnisse bei Bindungsängste</em>n"). Sie werden danach perfekt zum Onlinekurs geführt.</li>
+<li><strong>Keine Sales verlieren</strong>: Durch das Multi-Device-Tracking werden dir auch spätere Sales zugeordnet, auch wenn der User von einem anderen Gerät kauft!</li>
+<li><strong>Content statt Sales</strong>: Indem die User nicht auf eine Verkaufsseite geleitet werden, sondern kostenlosen Input über die Onlinetests und Webinare erhalten, schenkst du ihnen hochwertigen Content, bist kein "nerviger" Verkäufer, baust also Vertrauen auf und erhöhst damit die Salesquote signifikant!</li>
+</ul>
+<p> </p>
+<p>Melde dich jetzt als Affiliate an, schenke deinen Usern hochwertigen Content (Onlinetests &amp; Webinare) und generiere passives Einkommen.</p>
+<p> </p>
+<p>Auf eine gewinnbringende Zusammenarbeit!</p>
+<p style="text-align:left;"> </p>
+<p style="text-align:left;"><a href="https://www.wielandstolzenburg.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"> &gt; ALLE INFOS ZUM PARTNERPROGRAMM </a></p>
+<p> </p>
+<p>Beste Grüße,<br />Wieland Stolzenburg</p>
+<p> </p>
+<p>PS: Brand-Bidding auf "Wieland Stolzenburg®" und Varianten ist nicht erlaubt!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kurse.wielandstolzenburg.de/lp/bindungsangst-ueberwinden?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36983/adminstore/
 - Sales page: https://kurse.wielandstolzenburg.de/lp/bindungsangst-ueberwinden
 - Vendor affiliate support: https://www.wielandstolzenburg.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/392911/adminstore
@@ -95,7 +120,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bindungsangst / Beziehungsunfähigkeit - Onlinekurs? — Typ: Member area and video courses, Anbieter: wielandstolzenburg, gelistet seit 2021-06-04
-- Wie viel kostet es? — 508.50586799999996 USD
+- Wie viel kostet es? — 507.371418 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

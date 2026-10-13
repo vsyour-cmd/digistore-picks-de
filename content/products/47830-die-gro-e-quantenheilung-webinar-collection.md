@@ -4,16 +4,16 @@ digistore24_product_id: 511963
 title: "Die große Quantenheilung Webinar Collection"
 vendor: "bjheede"
 product_type: "Member area and video courses"
-price: 621.51
+price: 620.12
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 186.46
+earnings_per_sale: 186.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-08-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://matrix-inform.com/seminare/themenseminare/die-grosse-matrix-inform-webinar-collection/?aff=adminstore#aff=adminstore"
 sales_page: "https://matrix-inform.com/seminare/themenseminare/die-grosse-matrix-inform-webinar-collection/"
@@ -22,16 +22,16 @@ language: "de"
 # Die große Quantenheilung Webinar Collection
 
 > Product ID `47830` · Digistore24 productId `511963` · [HTML profile page](../../produkte/die-gro-e-quantenheilung-webinar-collection-47830.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $621.51 (Single payment, Installment) |
+| Price | $620.12 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $186.46 |
+| Earnings/sale* | $186.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bjheede |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 27 Webinare rund um Quantenheilung im Einzelwert von über 1.500 € als Package für gerade einmal 597 € (Du sparst über 60%)
+**Vendor's marketplace description:** <p><strong>27 Webinare rund um Quantenheilung im Einzelwert von über 1.500 € als Package für gerade einmal 597 € (Du sparst über 60%)</strong></p>
 
 ## 2. Links
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die große Quantenheilung Webinar Collection? — Typ: Member area and video courses, Anbieter: bjheede, gelistet seit 2023-08-15
-- Wie viel kostet es? — 621.5071720000001 USD
+- Wie viel kostet es? — 620.120622 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

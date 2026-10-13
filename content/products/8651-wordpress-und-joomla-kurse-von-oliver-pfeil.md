@@ -4,16 +4,16 @@ digistore24_product_id: 47529
 title: "WordPress- und Joomla-Kurse von Oliver Pfeil"
 vendor: "opfeil"
 product_type: "E-books"
-price: 134.79
+price: 134.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.02
+earnings_per_sale: 15.99
 cart_conversion_pct: 10
 cancel_rate_pct: 4.28
 categories: ["Online Marketing & E-Business"]
 listed_since: "2015-04-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.oliverpfeil.de/produkte/wordpress-ebook?aff=adminstore#aff=adminstore"
 sales_page: "https://www.oliverpfeil.de/produkte/wordpress-ebook"
@@ -22,16 +22,16 @@ language: "de"
 # WordPress- und Joomla-Kurse von Oliver Pfeil
 
 > Product ID `8651` · Digistore24 productId `47529` · [HTML profile page](../../produkte/wordpress-und-joomla-kurse-von-oliver-pfeil-8651.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $134.79 (Single payment) |
+| Price | $134.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.02 |
+| Earnings/sale* | $15.99 |
 | Cart conversion* | 10% |
 | Cancel rate* | 4.28% |
 | Vendor | opfeil |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 50% Provision auf alle E-Books, Online-Kurse & Upsells Produkte WordPress Kurse Joomla Kurse Webdesign Akademie (ABO) E-Books Alle Anleitungen und Kurse sind für Einsteiger und fortgeschrittener Anwender geeignet. --> Hohe Conversion-Rate: Der komplette Verkaufsprozess wird kontinuierlich optimiert. Hier geht's zum Affiliate-Programm
+**Vendor's marketplace description:** <h1><span style="background-color:#ffcc00;">50% Provision auf alle E-Books, Online-Kurse &amp; Upsells</span></h1>
+<p><strong>Produkte</strong></p>
+<ul>
+<li>WordPress Kurse</li>
+<li>Joomla Kurse</li>
+<li>Webdesign Akademie (ABO)</li>
+<li>E-Books</li>
+</ul>
+<p>Alle Anleitungen und Kurse sind für Einsteiger und fortgeschrittener Anwender geeignet.</p>
+<p><strong>--&gt; Hohe Conversion-Rate:</strong> Der komplette Verkaufsprozess wird kontinuierlich optimiert.</p>
+<p><span style="color:#ff0000;"><a style="color:#ff0000;" href="https://www.oliverpfeil.de/affiliates" target="_blank" rel="noreferrer noopener">Hier geht's zum Affiliate-Programm</a></span></p>
 
 ## 2. Links
 
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WordPress- und Joomla-Kurse von Oliver Pfeil? — Typ: E-books, Anbieter: opfeil, gelistet seit 2015-04-20
-- Wie viel kostet es? — 134.78576800000002 USD
+- Wie viel kostet es? — 134.485068 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 732970
 title: "My Business Organizer - Excel-Vorlage für Selbständige"
 vendor: "mybusinessorganizer"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.73
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Software"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://checkout-ds24.com/product/732970.?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59981/adminstore/"
 sales_page: "http://checkout-ds24.com/product/732970."
 language: "de"
 ---
 # My Business Organizer - Excel-Vorlage für Selbständige
 
 > Product ID `59981` · Digistore24 productId `732970` · [HTML profile page](../../produkte/my-business-organizer-excel-vorlage-f-r-selbst-ndige-59981.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.73 |
 | Cart conversion* | — |
@@ -41,11 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** My Business Organizer ist eine Excel-Vorlage für Freelancer, Kreative und Selbstständige, die ihre Jobs, Rechnungen, Einnahmen, Ausgaben und offenen Zahlungen an einem Ort organisieren möchten. Das Produkt eignet sich besonders für Inhalte rund um Selbstständigkeit, Freelancer-Alltag, Business-Organisation, Excel-Vorlagen und den Überblick über offene Rechnungen. Statt einzelne Listen zu führen, k…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>My Business Organizer ist eine Excel-Vorlage für Freelancer, Kreative und Selbstständige, die ihre Jobs, Rechnungen, Einnahmen, Ausgaben und offenen Zahlungen an einem Ort organisieren möchten.</p>
+<p>Das Produkt eignet sich besonders für Inhalte rund um Selbstständigkeit, Freelancer-Alltag, Business-Organisation, Excel-Vorlagen und den Überblick über offene Rechnungen. Statt einzelne Listen zu führen, können Käufer ihre wichtigsten Geschäftsdaten in einer Vorlage zusammenhalten.</p>
+<p>Der Verkaufspreis beträgt 29 € als Einmalzahlung. Nach dem Kauf erhalten Kunden die Excel-Vorlage mit einer leeren Arbeitsversion, einer Demo-Version und einer Kurzanleitung als PDF. Eine Vorschau und weitere Produktinformationen findest du auf <a>mybusinessorganizer.de</a>.</p>
+<p>Als Affiliate kannst du das Produkt deiner passenden Zielgruppe über deinen Digistore24-Promolink empfehlen. Die für dich geltende Provision wird in den Produkteinstellungen und im Marktplatzeintrag angezeigt. Bitte verwende bei der Bewerbung nur Funktionen und Ergebnisse, die auf der Verkaufsseite tatsächlich beschrieben sind.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://checkout-ds24.com/product/732970.?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59981/adminstore/
 - Sales page: http://checkout-ds24.com/product/732970.
 - Canonical redirect: https://www.digistore24.com/redir/732970/adminstore
 
@@ -71,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist My Business Organizer - Excel-Vorlage für Selbständige? — Typ: Downloads, Anbieter: mybusinessorganizer, gelistet seit 2026-09-28
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

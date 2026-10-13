@@ -4,16 +4,16 @@ digistore24_product_id: 728339
 title: "Das geheime Spielbuch für Social Media Manager:innen – Teil2"
 vendor: "Medina88"
 product_type: "E-books"
-price: 208.41
+price: 207.94
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 62.52
+earnings_per_sale: 62.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/728339?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/728339"
@@ -22,16 +22,16 @@ language: "de"
 # Das geheime Spielbuch für Social Media Manager:innen – Teil2
 
 > Product ID `58888` · Digistore24 productId `728339` · [HTML profile page](../../produkte/das-geheime-spielbuch-f-r-social-media-manager-innen-teil2-58888.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $208.41 (Single payment) |
+| Price | $207.94 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $62.52 |
+| Earnings/sale* | $62.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Medina88 |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der weiterführende digitale Guide für Social Media Manager:innen, die ihr Business professionell skalieren, mehrere Kunden strukturiert betreuen und ihre Einnahmen strategisch weiterentwickeln möchten. „Das geheime Spielbuch für Social Media Manager:innen – Teil 2“ richtet sich an Social Media Manager:innen, die über die Grundlagen hinausgehen und aus ihrer Tätigkeit ein strukturiertes, skalierbar…
+**Vendor's marketplace description:** <p><strong>Der weiterführende digitale Guide für Social Media Manager:innen, die ihr Business professionell skalieren, mehrere Kunden strukturiert betreuen und ihre Einnahmen strategisch weiterentwickeln möchten.</strong></p>
+<p>„Das geheime Spielbuch für Social Media Manager:innen – Teil 2“ richtet sich an Social Media Manager:innen, die über die Grundlagen hinausgehen und aus ihrer Tätigkeit ein strukturiertes, skalierbares Business entwickeln möchten.</p>
+<p><strong>Zielgruppe:</strong><br />• aktive Social Media Manager:innen und Freelancer:innen<br />• Selbstständige, die mehrere Kunden professionell betreuen möchten<br />• Social Media Manager:innen, die ihre Preise und Profitabilität optimieren möchten<br />• Personen, die Prozesse aufbauen, Aufgaben delegieren oder ein Team entwickeln möchten<br />• Social Media Manager:innen, die ihr Business strategisch skalieren möchten</p>
+<p><strong>Themenschwerpunkte:</strong><br />• Geschäfts- und Agenturmodelle<br />• mehrere Kunden effizient betreuen<br />• Prozesse, Delegation und Teamaufbau<br />• strategischer Einsatz von Ads<br />• Reichweite und Sichtbarkeit<br />• Authority und Positionierung<br />• fortgeschrittene Preisgestaltung<br />• konkreter 90-Tage-Skalierungsplan</p>
+<p><strong>Warum das Produkt interessant für Affiliates ist:</strong><br />• klar definierte Zielgruppe im Bereich Social Media, Freelancing und Online-Business<br />• höherpreisiges digitales Produkt mit sofortiger Auslieferung<br />• konkreter Business- und Skalierungsnutzen<br />• geeignet für Content rund um Social Media Management, Selbstständigkeit, Pricing, Kundengewinnung, Prozesse und Business-Wachstum<br />• logische Weiterführung von Teil 1 und gleichzeitig als eigenständiger Guide nutzbar</p>
+<p><strong>Preis: 199 €</strong></p>
 
 ## 2. Links
 
@@ -87,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das geheime Spielbuch für Social Media Manager:innen – Teil2? — Typ: E-books, Anbieter: Medina88, gelistet seit 2026-09-03
-- Wie viel kostet es? — 208.409188 USD
+- Wie viel kostet es? — 207.944238 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

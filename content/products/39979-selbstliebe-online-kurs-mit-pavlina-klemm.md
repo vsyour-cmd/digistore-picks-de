@@ -4,16 +4,16 @@ digistore24_product_id: 424136
 title: "Selbstliebe - Online Kurs mit Pavlina Klemm"
 vendor: "ChannelingKongress"
 product_type: "Member area and video courses"
-price: 197.34
+price: 196.9
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 40.69
+earnings_per_sale: 40.6
 cart_conversion_pct: 9
 cancel_rate_pct: 1.6
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-01-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://selbstliebe-onlinekurs.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://selbstliebe-onlinekurs.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstliebe - Online Kurs mit Pavlina Klemm
 
 > Product ID `39979` · Digistore24 productId `424136` · [HTML profile page](../../produkte/selbstliebe-online-kurs-mit-pavlina-klemm-39979.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $197.34 (Single payment, Installment) |
+| Price | $196.90 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $40.69 |
+| Earnings/sale* | $40.60 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.6% |
 | Vendor | ChannelingKongress |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ✅ Deine Vorteile als Affiliate: • 20% Provision für den Verkauf des Online Kurses. Unsere Empfehlung: Bewerbe den Online Kurs mit dem sehr erfolgreichen KOSTENLOSEN Selbstliebe-Webinar mit Pavlina Klemm, zu dem sich bereits mehr als 25.000 Menschen angemeldet haben. Nach dem Webinar werden die Teilnehmer zum Online-Kurs geführt und eingeladen, mit dem Kurs den Weg zur Selbstliebe weiterzugehen! DE…
+**Vendor's marketplace description:** <h4><strong>✅ Deine Vorteile als Affiliate:</strong></h4>
+<p>• <strong>20% Provision</strong> für den Verkauf des Online Kurses.</p>
+<p><span style="background-color:#ffff00;"><strong>Unsere Empfehlung: </strong></span><br />Bewerbe den Online Kurs mit dem sehr erfolgreichen <strong>KOSTENLOSEN Selbstliebe-Webinar mit Pavlina Klemm</strong>, zu dem sich bereits mehr als 25.000 Menschen angemeldet haben. Nach dem Webinar werden die Teilnehmer zum Online-Kurs geführt und eingeladen, mit dem Kurs den Weg zur Selbstliebe weiterzugehen!</p>
+<p><strong>DEIN AFFILIATE-LINK für das GRATIS-Webinar: <em><span style="background-color:#00ff00;">(Empfohlen)</span></em></strong><br /><a href="https://www.digistore24.com/content/424136/38234/AFFILIATE/CAMPAIGNKEY" target="_blank" rel="noreferrer noopener">https://www.digistore24.com/content/424136/38234/AFFILIATE/CAMPAIGNKEY</a><br /><em>(Einfach "AFFILIATE" mit Deiner Digistore24-ID ersetzen)</em></p>
+<p><strong>Texte, Grafiken und weitere Infos findest Du unter folgender Seite:</strong><br /><a href="https://channeling-blog.com/akademie/partnerprogramm/#CAOK_01" target="_blank" rel="noreferrer noopener">https://channeling-blog.com/akademie/partnerprogramm/#CAOK_01</a></p>
+<p>Den Affiliate Link der direkt zur Verkaufsseite des Online Kurses führt findest Du ebenfalls auf der Partnerprogramm Seite oder Rechts über dem Affiliate Link Generator.</p>
+<p><strong>Werde jetzt zum Affiliate! Wir freuen uns auf die Zusammenarbeit.</strong></p>
+<p>Bei Fragen oder wenn Du weitere Grafiken und Material benötigst, kontaktiere uns gerne über <a href="mailto:support@channeling-akademie.de" target="_blank" rel="noreferrer noopener">support@channeling-akademie.de</a></p>
+<div>
+<div><strong>Mehr Infos findest Du auf der Verkauf- und Affiliate Seite!</strong></div>
+<div> </div>
+<div><strong>Alles Liebe!<br />Michael &amp; Jonas<br />und das Team der Channeling Akademie</strong></div>
+</div>
 
 ## 2. Links
 
@@ -88,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstliebe - Online Kurs mit Pavlina Klemm? — Typ: Member area and video courses, Anbieter: ChannelingKongress, gelistet seit 2022-01-11
-- Wie viel kostet es? — 197.33766 USD
+- Wie viel kostet es? — 196.89741 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

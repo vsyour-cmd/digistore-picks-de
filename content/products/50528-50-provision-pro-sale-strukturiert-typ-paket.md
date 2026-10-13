@@ -4,16 +4,16 @@ digistore24_product_id: 582141
 title: "50 % Provision pro Sale – „Strukturiert-Typ“-Paket!"
 vendor: "Angelika-Traumerfuellerin"
 product_type: "Downloads"
-price: 16.47
+price: 16.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.24
+earnings_per_sale: 8.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-11-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://seelengarten-phoenix.com/bundle-strukturiert?aff=adminstore#aff=adminstore"
 sales_page: "https://seelengarten-phoenix.com/bundle-strukturiert"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % Provision pro Sale – „Strukturiert-Typ“-Paket!
 
 > Product ID `50528` · Digistore24 productId `582141` · [HTML profile page](../../produkte/50-provision-pro-sale-strukturiert-typ-paket-50528.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.47 (Single payment) |
+| Price | $16.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.24 |
+| Earnings/sale* | $8.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Angelika-Traumerfuellerin |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hauptbeschreibung Verdiene 50 % Provision pro Sale als Affiliate!Dieses Paket ist perfekt für alle, die ihre Stärken als strukturierte Persönlichkeit gezielt nutzen möchten, um effizienter zu arbeiten, Blockaden zu überwinden und ihre Projekte mit Leichtigkeit zu erfüllen. Ideal für deinen Newsletter, Blog oder Social Media! Kurzbeschreibung Entdecke die verborgenen Talente des Strukturierter-Type…
+**Vendor's marketplace description:** <h3>Hauptbeschreibung</h3>
+<p><strong>Verdiene 50 % Provision pro Sale als Affiliate!</strong><br />Dieses Paket ist perfekt für alle, die ihre Stärken als strukturierte Persönlichkeit gezielt nutzen möchten, um effizienter zu arbeiten, Blockaden zu überwinden und ihre Projekte mit Leichtigkeit zu erfüllen. Ideal für deinen Newsletter, Blog oder Social Media!</p>
+<h3>Kurzbeschreibung</h3>
+<p>Entdecke die verborgenen Talente des Strukturierter-Typen! Mit detaillierter Analyse, binauralen Beats und einem praxisorientierten Workbook holst du das Beste aus deinem Arbeitsstil heraus – für mehr Fokus, Produktivität und Balance.</p>
+<h3><strong>Das erhält der Kunde:</strong></h3>
+<p><strong>Detaillierte Typenanalyse (PDF):</strong><br />Erhalte tiefgehende Einblicke in die Stärken und Entwicklungsmöglichkeiten des Strukturierter-Typen und lerne, wie du diese optimal nutzt.</p>
+<p><strong>Binaurale Beats (MP3):</strong><br />Effiziente Audio-Frequenzen, die speziell darauf abgestimmt sind, deine Organisation zu verbessern und Blockaden aufzulösen.</p>
+<p><strong>Praxisorientiertes Workbook (PDF):</strong><br />Ein Workbook, das dir hilft, deine Aufgaben gezielt zu planen, deinen Arbeitsstil zu optimieren und mit Struktur deine Projekte zu meistern.</p>
+<h3><strong>Was macht dieses Paket so wertvoll?</strong></h3>
+<ul>
+<li><strong>Gezielte Selbstentwicklung:</strong> Finde Berufe, die dich erfüllen, und Hobbies, die perfekt zu dir passen.</li>
+<li><strong>Verbesserte Beziehungen:</strong> Verstehe dich selbst und andere besser, um authentische Verbindungen aufzubauen.</li>
+<li><strong>Produktivität steigern:</strong> Lerne, deine Energie effektiv zu lenken, um deine Ziele mit Fokus und Klarheit zu erreichen.</li>
+<li><strong>Effizienz maximieren:</strong> Nutze deine Struktur als Schlüssel zu einem harmonischen und erfolgreichen Leben.</li>
+</ul>
 
 ## 2. Links
 
@@ -66,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision pro Sale – „Strukturiert-Typ“-Paket!? — Typ: Downloads, Anbieter: Angelika-Traumerfuellerin, gelistet seit 2024-11-21
-- Wie viel kostet es? — 16.47282 USD
+- Wie viel kostet es? — 16.43607 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

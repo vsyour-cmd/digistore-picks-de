@@ -4,34 +4,34 @@ digistore24_product_id: 736066
 title: "KLAR.JETZT – Das KI-Journal gegen Perfektionismus u. Grübeln"
 vendor: "klarjetzt"
 product_type: "Software"
-price: 84.75
+price: 84.56
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 25.43
+earnings_per_sale: 25.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://klar.jetzt?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59563/adminstore/"
 sales_page: "https://klar.jetzt"
 language: "de"
 ---
 # KLAR.JETZT – Das KI-Journal gegen Perfektionismus u. Grübeln
 
 > Product ID `59563` · Digistore24 productId `736066` · [HTML profile page](../../produkte/klar-jetzt-das-ki-journal-gegen-perfektionismus-u-gr-beln-59563.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $84.75 (Subscription) |
+| Price | $84.56 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $25.43 |
+| Earnings/sale* | $25.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | klarjetzt |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** JAHRESABO (auch als MONATSABO)KLAR.JETZT ist ein KI-gestütztes Journal für Menschen, die zu Perfektionismus und Grübeln neigen — für alle, die eigentlich reflektieren wollen, aber an der leeren Seite oder dem eigenen Anspruch scheitern. Statt einer leeren Seite stellt eine KI gezielte Rückfragen zum Tageseintrag — auf Wunsch als Text oder einfach eingesprochen. Nutzer wählen zwischen zwei Modi: Mo…
+**Vendor's marketplace description:** <p><strong>JAHRESABO (auch als MONATSABO)<br /><br />KLAR.JETZT</strong> ist ein KI-gestütztes Journal für Menschen, die zu Perfektionismus und Grübeln neigen — für alle, die eigentlich reflektieren wollen, aber an der leeren Seite oder dem eigenen Anspruch scheitern.</p>
+<p>Statt einer leeren Seite stellt eine KI gezielte Rückfragen zum Tageseintrag — auf Wunsch als Text oder einfach eingesprochen. Nutzer wählen zwischen zwei Modi: <strong>Motivation</strong> (lauter Push, wenn Energie gebraucht wird) oder <strong>Fuck it</strong> (Druck raus, wenn ein Tag einfach nicht rund lief). Kein Tag wird erzwungen — ein bewusstes Überspringen zählt als Selbstfürsorge und bricht keinen Streak.</p>
+<p><strong><br />Wiederkehrende Provision, nicht nur Einmal-Payout:</strong> Beim Jahresabo (90 €/Jahr) verdienst du 30 % = 22,69 € pro Kunde — und zwar jedes Jahr neu, solange der Kunde aktiv bleibt. Über die Lifetime-Affiliate-Zuordnung bleibt der Kunde dauerhaft dir zugeordnet, auch bei Verlängerungen. Baust du dir 1.000 aktive Kunden auf, sind das <strong>22.690 €/Jahr</strong> an planbarer, wiederkehrender Provision — ganz ohne jedes Jahr neu verkaufen zu müssen.<br /><br /><strong>Du partizipierst automatisch auch am Monatsabo:</strong> Entscheidet sich der Kunde für das Monatsabo (10 €/Monat) statt fürs Jahresabo, verdienst du weiterhin 30 % = 2,52 € netto pro Kunde, monatlich wiederkehrend, solange der Kunde aktiv bleibt.</p>
+<p><strong><br />Weitere Gründe, warum sich das Produkt gut bewirbt:</strong></p>
+<ul>
+<li>Sehr breite Zielgruppe: Perfektionismus, Prokrastination, Selbstzweifel betreffen extrem viele Menschen, nicht nur eine Nische</li>
+<li>Niedrige Einstiegshürde: läuft direkt im Browser als PWA, kein App-Store-Download nötig</li>
+<li>Klar differenziertes Konzept (zwei Grundtöne statt Einheitsbrei-Journaling-App), leicht in wenigen Sätzen zu erklären</li>
+<li>Fertiges Werbematerial vorhanden (Instagram-Grafiken, Story-Formate, Captions) auf Anfrage</li>
+</ul>
+<p><strong><br />Zielgruppe:</strong> Menschen mit Hang zu Perfektionismus, Overthinking, Selbstoptimierungs-Müdigkeit — häufig 25–45 Jahre, interessiert an Achtsamkeit, mentaler Gesundheit, Selbstreflexion, aber ohne Zeit/Nerv für klassisches Therapie-Tagebuch-Geschreibsel.</p>
+<p>Mehr unter <a href="https://klar.jetzt" target="_blank" rel="noreferrer noopener">klar.jetzt</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://klar.jetzt?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59563/adminstore/
 - Sales page: https://klar.jetzt
 - Canonical redirect: https://www.digistore24.com/redir/736066/adminstore
 
@@ -84,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KLAR.JETZT – Das KI-Journal gegen Perfektionismus u. Grübeln? — Typ: Software, Anbieter: klarjetzt, gelistet seit 2026-09-23
-- Wie viel kostet es? — 84.750978 USD
+- Wie viel kostet es? — 84.561903 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

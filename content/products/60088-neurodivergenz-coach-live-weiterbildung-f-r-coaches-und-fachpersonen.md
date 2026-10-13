@@ -4,16 +4,16 @@ digistore24_product_id: 716420
 title: "Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen"
 vendor: "Neurotraining_Akademie"
 product_type: "Online coaching"
-price: 2596.22
+price: 2590.43
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 259.62
+earnings_per_sale: 259.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Personal Development"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://neurotraining-akademie.de/neurodivergenz-coach?aff=adminstore#aff=adminstore"
 sales_page: "https://neurotraining-akademie.de/neurodivergenz-coach"
@@ -22,16 +22,16 @@ language: "de"
 # Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen
 
 > Product ID `60088` · Digistore24 productId `716420` · [HTML profile page](../../produkte/neurodivergenz-coach-live-weiterbildung-f-r-coaches-und-fachpersonen-60088.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $2596.22 (Single payment, Installment) |
+| Price | $2590.43 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $259.62 |
+| Earnings/sale* | $259.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Neurotraining_Akademie |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Live-Weiterbildung für Coaches, Berater:innen, Therapeut:innen und weitere Fachpersonen, die neurodivergente Menschen begleiten. 50 Unterrichtsstunden live online im virtuellen Klassenzimmer Montags 19:30–21:30 Uhr, dazu zwei Praxis-Samstage Start: 30.11.2026, maximal 20 Teilnehmende Leitung: Marina Winkler, M.Sc. Psychologin und Hochschuldozentin für Klinische Psychologie Abschluss ohne Abschluss…
+**Vendor's marketplace description:** <p><strong>Live-Weiterbildung für Coaches, Berater:innen, Therapeut:innen und weitere Fachpersonen</strong>, die neurodivergente Menschen begleiten.</p>
+<ul>
+<li>50 Unterrichtsstunden live online im virtuellen Klassenzimmer</li>
+<li>Montags 19:30–21:30 Uhr, dazu zwei Praxis-Samstage</li>
+<li>Start: 30.11.2026, maximal 20 Teilnehmende</li>
+<li>Leitung: Marina Winkler, M.Sc. Psychologin und Hochschuldozentin für Klinische Psychologie</li>
+<li>Abschluss ohne Abschlussprüfung</li>
+</ul>
+<p>Hinweis: Weiterbildung für Fachpersonen. Keine Therapie- oder Diagnostikausbildung, kein staatlich anerkannter Abschluss. Preise und Termine gelten wie auf der Programmseite.</p>
+<p>Provision für Affiliates: 10 %. Informationen und fertiges Bildmaterial für Partner:innen finden Sie auf der Partnerseite der Neurotraining Akademie.</p>
 
 ## 2. Links
 
@@ -84,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurodivergenz-Coach – Live-Weiterbildung für Coaches und Fachpersonen? — Typ: Online coaching, Anbieter: Neurotraining_Akademie, gelistet seit 2026-10-01
-- Wie viel kostet es? — 2596.217286 USD
+- Wie viel kostet es? — 2590.4252610000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

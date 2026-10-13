@@ -4,16 +4,16 @@ digistore24_product_id: 22699
 title: "QC Practitioner"
 vendor: "crack1966"
 product_type: "Member area and video courses"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.4
+earnings_per_sale: 27.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2014-03-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "http://quantenheilunglernen24.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://quantenheilunglernen24.de/"
@@ -22,16 +22,16 @@ language: "de"
 # QC Practitioner
 
 > Product ID `3467` · Digistore24 productId `22699` · [HTML profile page](../../produkte/qc-practitioner-3467.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.40 |
+| Earnings/sale* | $27.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | crack1966 |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Quantenheilung "Online-Kurs" Quantenheilung bedeutet - mit Hilfe des eigenen Bewusstseins emotionale, physische und seelische Belastungen zu lindern oder zum Verschwinden zu bringen. In diesem Kurs lernen die Teilnehmer eine faszinierend einfache und verblüffende Methode kennen, um Selbstheilungskräfte zu aktivieren. Bei sich selbst - und anderen. Diese Methode unterstützt die Anwender zudem in al…
+**Vendor's marketplace description:** <h1>Quantenheilung "Online-Kurs"</h1>
+<p>Quantenheilung bedeutet - mit Hilfe des eigenen Bewusstseins emotionale, physische und seelische Belastungen zu lindern oder zum Verschwinden zu bringen.</p>
+<p>In diesem Kurs lernen die Teilnehmer eine faszinierend einfache und verblüffende Methode kennen, um Selbstheilungskräfte zu aktivieren. Bei sich selbst - und anderen.</p>
+<p>Diese Methode unterstützt die Anwender zudem in allen anderen Lebensthemen, ob bei der Zielerreichung, oder ob dem Glück etwas auf die Sprünge geholfen werden soll.</p>
+<p>Besonders beliebt ist diese Methode bei vielen Heilpraktikern, Gesundheitscoaches und allen, die sich für dieses Thema interessieren.</p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -106,7 +113,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist QC Practitioner? — Typ: Member area and video courses, Anbieter: crack1966, gelistet seit 2014-03-16
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

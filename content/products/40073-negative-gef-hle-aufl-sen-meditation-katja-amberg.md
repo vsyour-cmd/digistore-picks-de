@@ -4,7 +4,7 @@ digistore24_product_id: 311670
 title: "NEGATIVE GEFÜHLE AUFLÖSEN | Meditation | Katja Amberg"
 vendor: "Mariposa75"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.73
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2020-03-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://katja-amberg-shop.de/negativegefuehleaufloesen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40073/adminstore/"
 sales_page: "http://katja-amberg-shop.de/negativegefuehleaufloesen"
 language: "de"
 ---
 # NEGATIVE GEFÜHLE AUFLÖSEN | Meditation | Katja Amberg
 
 > Product ID `40073` · Digistore24 productId `311670` · [HTML profile page](../../produkte/negative-gef-hle-aufl-sen-meditation-katja-amberg-40073.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.73 |
 | Cart conversion* | — |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Katja Amberg Negative Gefühle auflösen | MEDITATION | Online Meditation | ONLINE (incl. zusätzlicher Downloadmöglichkeit!) KATJA AMBERG | Meditation: Negative Gefühle auflösen 1. Vorwort 05:11 2. MEDITATION: Negative Gefühle auflösen 18:26 Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von www.katja-amberg-coaching.de über gesonderten login. Die login-Daten werden nach Kaufabschlu…
+**Vendor's marketplace description:** <h3><span style="color:#ff00ff;">Katja Amberg</span></h3>
+<h3><span style="color:#ff00ff;">Negative Gefühle auflösen | MEDITATION | Online</span></h3>
+<div>
+<p>Meditation | ONLINE (incl. zusätzlicher Downloadmöglichkeit!)</p>
+<p><strong>KATJA AMBERG | Meditation: Negative Gefühle auflösen</strong></p>
+<p>1. Vorwort  05:11</p>
+<p>2. MEDITATION: Negative Gefühle auflösen 18:26</p>
+<p><strong>Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von <a>www.katja-amberg-coaching.de</a> über gesonderten login. Die login-Daten werden nach Kaufabschluß per Mail übermittelt. </strong></p>
+<p>Mit dieser Anwendung ist es möglich, Ihre negativen Gefühle wie Trauer, Hilflosigkeit, Angst, Wut, Schuld, Scham u.s.w. aufzulösen und zu verändern. Sicher haben Sie selbst schon mehrmals versucht Ihre negativen Gefühle abzuschalten. Vielleicht mit Ablenken, Sport machen, Essen, Alkohol trinken, mit der Freundin/ mit dem Freund reden, Fernsehen oder Ähnlichem. Aber irgendwie hat es nicht richtig funktioniert. Es ging Ihnen dadurch vielleicht erst einmal besser, aber früher oder später kamen diese Gefühle mit voller Wucht zurück. Meist dann wenn Sie keine Gelegenheit oder Kraft mehr hatten sie wieder wegzudrücken. Diese Anwendung ist eine ganz neue Art Gefühle wirklich aufzulösen. Sie lernen mehr und mehr was es heißt, Ihre Gefühle BEWUSST zu fühlen, um sie dadurch aufzulösen und zu verändern. Ihre Gefühle wollen Ihnen nicht schaden und sie werden auch nicht schlimmer, wenn Sie diese Gefühle fühlen. Das Gegenteil geschieht. Denn erst dann können sich Ihre Gefühle verändern. Etwas kann nur verändert werden, wenn man es annimmt. Das gilt auch für Ihre Gefühle. Wenn Sie alle Ihre Gefühle so annehmen und da sein lassen wie sie sind, geht eine Tür in Ihnen auf, die Gefühle zeigen sich noch einmal und ziehen dann weiter. Diese Audio-Anwendung hilft Ihnen ganz gezielt dabei. Wenn in Ihnen all das wieder fließt, werden Sie das unmittelbar spüren und dann nach dieser Übung bemerken, dass sich Ihre negativen Gefühle drastisch verändert haben oder ganz verschwunden sind. Hinweis: Download-Produkte sind von Umtausch ausgeschlossen!</p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://katja-amberg-shop.de/negativegefuehleaufloesen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40073/adminstore/
 - Sales page: http://katja-amberg-shop.de/negativegefuehleaufloesen
 - Canonical redirect: https://www.digistore24.com/redir/311670/adminstore
 
@@ -74,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NEGATIVE GEFÜHLE AUFLÖSEN | Meditation | Katja Amberg? — Typ: Downloads, Anbieter: Mariposa75, gelistet seit 2020-03-07
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

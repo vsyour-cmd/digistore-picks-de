@@ -4,7 +4,7 @@ digistore24_product_id: 379627
 title: "Die 100 Fragen und Antworten für Gitarrenanfänger"
 vendor: "Re19Ma"
 product_type: "Downloads"
-price: 11.65
+price: 11.63
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.57
@@ -12,8 +12,8 @@ cart_conversion_pct: 18
 cancel_rate_pct: 1.55
 categories: ["Education"]
 listed_since: "2021-03-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.guitar-tv.de/Produkte-100-Fragen/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.guitar-tv.de/Produkte-100-Fragen/"
@@ -22,14 +22,14 @@ language: "de"
 # Die 100 Fragen und Antworten für Gitarrenanfänger
 
 > Product ID `38736` · Digistore24 productId `379627` · [HTML profile page](../../produkte/die-100-fragen-und-antworten-f-r-gitarrenanf-nger-38736.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.65 (Single payment) |
+| Price | $11.63 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.57 |
 | Cart conversion* | 18% |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 100 Videos vermitteln ein solides Grundwissen rund um die Gitarre Als langjähriger Moderator eines Gitarrenforums hat der Autor festgestellt, dass sich die Fragen von Anfängern doch immer wiederholen - sich also ein deutliches Bild ergibt, was genau für den Gitarristen zu Beginn wichtig ist. Aus diesem Grunde wurde die Idee umgesetzt, die 100 häufigsten Fragen zusammenzustellen und per Video zu be…
+**Vendor's marketplace description:** <h4>100 Videos vermitteln ein solides Grundwissen rund um die Gitarre</h4>
+<p>Als langjähriger Moderator eines <a href="https://www.guitar-tv.de/phpBB/" target="_blank" rel="noreferrer noopener">Gitarrenforums</a> hat der Autor festgestellt, dass sich die Fragen von Anfängern doch immer wiederholen - sich also ein deutliches Bild ergibt, was genau für den Gitarristen zu Beginn wichtig ist.</p>
+<p><strong>Aus diesem Grunde wurde die Idee umgesetzt, die 100 häufigsten Fragen zusammenzustellen und per Video zu beantworten. Diese 100 Videos kann der Gitarrenschüler nun mit einem Klick downloaden, darin stöbern und entsprechend anschauen. </strong></p>
+<p><strong>• Die Lehrvideos stehen sofort zur Verfügung</strong><strong><br /></strong></p>
+<p><strong>• 100 Lehrvideos!</strong><strong><br /></strong></p>
+<p><strong>• 50 % Provision</strong></p>
+<p><strong>• Schnelle Hilfe über email</strong></p>
 
 ## 2. Links
 
@@ -72,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 100 Fragen und Antworten für Gitarrenanfänger? — Typ: Downloads, Anbieter: Re19Ma, gelistet seit 2021-03-18
-- Wie viel kostet es? — 11.654240000000001 USD
+- Wie viel kostet es? — 11.628240000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

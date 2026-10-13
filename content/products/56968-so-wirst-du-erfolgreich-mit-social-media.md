@@ -4,16 +4,16 @@ digistore24_product_id: 701335
 title: "So wirst du erfolgreich mit Social Media"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 25.14
+price: 25.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.57
+earnings_per_sale: 12.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/so-wirst-du-erfolgreich-mit-social-media?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/so-wirst-du-erfolgreich-mit-social-media"
@@ -22,16 +22,16 @@ language: "de"
 # So wirst du erfolgreich mit Social Media
 
 > Product ID `56968` · Digistore24 productId `701335` · [HTML profile page](../../produkte/so-wirst-du-erfolgreich-mit-social-media-56968.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.14 (Single payment) |
+| Price | $25.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.57 |
+| Earnings/sale* | $12.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Reichweite auf den richtigen Plattformen aufbauen, eine Community binden und Einnahmen diversifizieren Erfolgreich als Creator zu werden ist kein Zufall – es ist ein Handwerk, das du auf jeder Plattform lernen kannst. Dieses E-Book zeigt dir, wie du herausfindest, auf welchen Kanälen deine Zielgruppe wirklich aktiv ist, wie du Inhalte erstellst, die Reichweite und Bindung gleichzeitig erzeugen, un…
+**Vendor's marketplace description:** <p><strong>Reichweite auf den richtigen Plattformen aufbauen, eine Community binden und Einnahmen diversifizieren</strong></p>
+<p>Erfolgreich als Creator zu werden ist kein Zufall – es ist ein Handwerk, das du auf jeder Plattform lernen kannst. Dieses E-Book zeigt dir, wie du herausfindest, auf welchen Kanälen deine Zielgruppe wirklich aktiv ist, wie du Inhalte erstellst, die Reichweite und Bindung gleichzeitig erzeugen, und wie du durch Content-Repurposing mehrere Plattformen parallel bespielst ohne doppelt so viel Arbeit zu haben. Du lernst, wie Algorithmus-Grundprinzipien auf YouTube, TikTok und Instagram zusammenspielen, wie du eine engagierte Community aufbaust, die kauft und teilt, und wie du dich für Markenkooperationen, Affiliate-Deals und eigene Produkte professionell aufstellst.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Plattformstrategie: wo du mit deinem Content-Typ die größte Hebelwirkung hast</li>
+<li>Algorithmus-Grundprinzipien: was Instagram, TikTok und YouTube gemeinsam belohnen</li>
+<li>Content-Repurposing: ein Inhalt, mehrere Plattformen – ohne doppelte Arbeit</li>
+<li>Aus Followern echte Fans und eine plattformübergreifend aktive Community machen</li>
+<li>Dein Marken-Kit: Mediadaten, die Kooperationen auf jeder Plattform gewinnen</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So wirst du erfolgreich mit Social Media? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 25.135058 USD
+- Wie viel kostet es? — 25.078983 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

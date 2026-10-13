@@ -4,7 +4,7 @@ digistore24_product_id: 421370
 title: "eBook - Rezeptideen für die Gesunde Schlemmerei"
 vendor: "bebrave"
 product_type: "E-books"
-price: 15.71
+price: 15.68
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.57
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-12-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/421370?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/421370"
@@ -22,14 +22,14 @@ language: "de"
 # eBook - Rezeptideen für die Gesunde Schlemmerei
 
 > Product ID `38608` · Digistore24 productId `421370` · [HTML profile page](../../produkte/ebook-rezeptideen-f-r-die-gesunde-schlemmerei-38608.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.71 (Single payment) |
+| Price | $15.68 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.57 |
 | Cart conversion* | — |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses eBook bietet 77 Rezeptideen für die gesunde Schlemmerei und somit Inspiration für all jene, die sich bewusst und gesund ernähren wollen, dennoch aber nicht auf Genuss verzichten wollen. Im eBook finden sich viele, sehr abwechslungsreiche Rezeptideen: Von Süß bis zu Pikant. Von Frühstück, über Snacks, Suppen, Hauptspeisen bis Desserts. Bunt, voller Geschmack und ganz aus natürlichen Zutaten.…
+**Vendor's marketplace description:** <p>Dieses eBook bietet 77 Rezeptideen für die gesunde Schlemmerei und somit Inspiration für all jene, die sich bewusst und gesund ernähren wollen, dennoch aber nicht auf Genuss verzichten wollen.</p>
+<p>Im eBook finden sich viele, sehr abwechslungsreiche Rezeptideen: </p>
+<p>Von Süß bis zu Pikant. Von Frühstück, über Snacks, Suppen, Hauptspeisen bis Desserts. Bunt, voller Geschmack und ganz aus natürlichen Zutaten.</p>
+<p>Bratapfel-Hirse-Porridge, mediteraner Gemüseauflauf, Nussbraten, Himbeer-Dip, Hummus, Karfiol Wings oder warmer Rotkrauf-Süßkatoffel-Salat werden Deinen Gaumen entzücken und dabei deine Gesundheit nicht belasten.</p>
+<p>Schlemm auch du gesund - es ist ganz einfach und soooo lecker!</p>
 
 ## 2. Links
 
@@ -71,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook - Rezeptideen für die Gesunde Schlemmerei? — Typ: E-books, Anbieter: bebrave, gelistet seit 2021-12-19
-- Wie viel kostet es? — 15.710812 USD
+- Wie viel kostet es? — 15.675762 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

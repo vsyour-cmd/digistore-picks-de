@@ -4,7 +4,7 @@ digistore24_product_id: 641056
 title: "„Der Weg durch den Kontaktabbruch“ – Das E-Book für Heilung,"
 vendor: "TheMoement"
 product_type: "E-books"
-price: 6.28
+price: 6.26
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 0.94
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-10-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/641056?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/641056"
@@ -22,14 +22,14 @@ language: "de"
 # „Der Weg durch den Kontaktabbruch“ – Das E-Book für Heilung,
 
 > Product ID `54408` · Digistore24 productId `641056` · [HTML profile page](../../produkte/der-weg-durch-den-kontaktabbruch-das-e-book-f-r-heilung-54408.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.28 (Single payment) |
+| Price | $6.26 (Single payment) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses E-Book ist für alle, die lernen müssen, loszulassen, was sie liebt, aber verletzt. Der Weg durch den Kontaktabbruch begleitet dich durch Schmerz, Schuldgefühle und Selbstzweifel – hin zu innerem Frieden, Klarheit und Würde.
+**Vendor's marketplace description:** <p>Dieses E-Book ist für alle, die lernen müssen, loszulassen, was sie liebt, aber verletzt.</p>
+<p><em>Der Weg durch den Kontaktabbruch</em> begleitet dich durch Schmerz, Schuldgefühle und Selbstzweifel – hin zu innerem Frieden, Klarheit und Würde.</p>
+<p> </p>
 
 ## 2. Links
 
@@ -71,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Der Weg durch den Kontaktabbruch“ – Das E-Book für Heilung,? — Typ: E-books, Anbieter: TheMoement, gelistet seit 2025-10-13
-- Wie viel kostet es? — 6.27536 USD
+- Wie viel kostet es? — 6.26136 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

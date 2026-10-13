@@ -4,34 +4,34 @@ digistore24_product_id: 712911
 title: "Beziehung retten in 30 Tagen – Der Schritt-für-Schritt-Plan"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/712911?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58113/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/712911"
 language: "de"
 ---
 # Beziehung retten in 30 Tagen – Der Schritt-für-Schritt-Plan
 
 > Product ID `58113` · Digistore24 productId `712911` · [HTML profile page](../../produkte/beziehung-retten-in-30-tagen-der-schritt-f-r-schritt-plan-58113.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein ehrlicher, praxisnaher Ratgeber für Paare, die sich auseinandergelebt haben, aber noch eine Chance sehen. Starke Zielgruppe: Beziehungscoaching, Selbsthilfe, Paartherapie-Interessierte. 29 Kapitel mit echten Übungen, wöchentlichem Fahrplan, Selbsttest und 50 Gesprächsfragen. Verkaufspreis 27€, 50% Provision pro Verkauf.
+**Vendor's marketplace description:** <p>Ein ehrlicher, praxisnaher Ratgeber für Paare, die sich auseinandergelebt haben, aber noch eine Chance sehen. Starke Zielgruppe: Beziehungscoaching, Selbsthilfe, Paartherapie-Interessierte.</p>
+<p> </p>
+<p>29 Kapitel mit echten Übungen, wöchentlichem Fahrplan, Selbsttest und 50 Gesprächsfragen. Verkaufspreis 27€, 50% Provision pro Verkauf.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/712911?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58113/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/712911
 - Canonical redirect: https://www.digistore24.com/redir/712911/adminstore
 
@@ -78,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Beziehung retten in 30 Tagen – Der Schritt-für-Schritt-Plan? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-04
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

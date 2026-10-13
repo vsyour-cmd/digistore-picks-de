@@ -4,34 +4,34 @@ digistore24_product_id: 717607
 title: "WERWOLF"
 vendor: "Novaris_web"
 product_type: "Audio book (download)"
-price: 5.19
+price: 5.18
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 0.52
+earnings_per_sale: 0.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://novaris.de.cool/werwolf.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58731/adminstore/"
 sales_page: "https://novaris.de.cool/werwolf.php"
 language: "de"
 ---
 # WERWOLF
 
 > Product ID `58731` · Digistore24 productId `717607` · [HTML profile page](../../produkte/werwolf-58731.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $5.19 (Single payment) |
+| Price | $5.18 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $0.52 |
+| Earnings/sale* | $0.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Novaris_web |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** WERWOLFHörbuch 4,95 €, 1 Std. 50 Minuten Die amerikanische Kleinstadt Tarker Mills im Bundesstaat Maine wird von einer unheimlichen und unerklärlichen Mordserie heimgesucht: Immer in Vollmondnächten werden grauenvoll zugerichtete Leichen aufgefunden, wobei der Mörder offensichtlich keine Unterschiede zwischen Jung und Alt, Männlich oder Weiblich macht. Lediglich der gelähmte, auf einen Rollstuhl a…
+**Vendor's marketplace description:** <p><strong>WERWOLF</strong><br />Hörbuch</p>
+<p>4,95 €, 1 Std. 50 Minuten</p>
+<p>Die amerikanische Kleinstadt Tarker Mills im Bundesstaat Maine wird von einer unheimlichen und unerklärlichen Mordserie heimgesucht: Immer in Vollmondnächten werden grauenvoll zugerichtete Leichen aufgefunden, wobei der Mörder offensichtlich keine Unterschiede zwischen Jung und Alt, Männlich oder Weiblich macht. Lediglich der gelähmte, auf einen Rollstuhl angewiesene Marty vermutet früh, dass ein Werwolf in Tarker Mills sein Unwesen treiben könnte.</p>
+<p>Die Bevölkerung der Stadt ist in Panik versetzt und beschließt nachts schwer bewaffnet den Mörder selbst zu finden. Daran beteiligt sich auch der Besitzer einer Bar, der neben seiner Schusswaffe auch seinen stadtbekannten Baseballschläger mit der Aufschrift Peacemaker („Friedensstifter“) dabei hat. Der Barbesitzer und zwei weitere Mitglieder der Bürgerwehr werden nachts getötet. Daraufhin sieht man den jungen Priester Reverend Lowe, der nachts Alpträume von Werwölfen hat. Nachdem die Stadt vor Angst wie gelähmt ist, fällt das jährlich stattfindende Feuerwerk aus. Marty fährt mit seinem getunten motorisierten Rollstuhl nachts auf eine Brücke, um selbst ein paar Feuerwerksraketen zu zünden. Der Werwolf greift Marty dabei an, dieser kann jedoch in letzter Sekunde eine Feuerwerksrakete auf ihn schießen. Diese brennt dem Werwolf das linke Auge aus. Marty kann fliehen und verbringt die restliche Nacht zitternd zu Hause.</p>
+<p>Am nächsten Tag bringt Martys Schwester dem Reverend leere Dosen und Altglas, das dieser in seiner Garage für wohltätige Zwecke sammelt. Der Reverend trägt über dem linken Auge einen Verband. In der Garage hat Jane den Eindruck, den Gestank eines Tieres wahrzunehmen. Außerdem entdeckt sie zwischen den Wertstoffen den zersplitterten Baseballschläger des ermordeten Barbesitzers. Sie starrt den Reverend entsetzt an und geht nach Hause. Die Angst in Janes Augen bleibt auch dem Reverend nicht verborgen. Marty und seine Schwester beginnen dem Reverend Drohbriefe zu schicken. Sie offenbaren ihre Aktionen gegenüber ihrem Onkel, der ihnen nicht glaubt und sie für verrückt hält...</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://novaris.de.cool/werwolf.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58731/adminstore/
 - Sales page: https://novaris.de.cool/werwolf.php
 - Canonical redirect: https://www.digistore24.com/redir/717607/adminstore
 
@@ -65,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WERWOLF? — Typ: Audio book (download), Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 5.188378 USD
+- Wie viel kostet es? — 5.1768030000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

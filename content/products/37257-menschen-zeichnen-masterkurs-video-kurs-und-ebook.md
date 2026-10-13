@@ -4,34 +4,34 @@ digistore24_product_id: 398268
 title: "Menschen Zeichnen Masterkurs: Video-Kurs und eBook"
 vendor: "DrawTut"
 product_type: "Member area and video courses"
-price: 141.21
+price: 140.89
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.48
+earnings_per_sale: 56.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2021-07-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://drawtut.com/de/kurse/menschen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37257/adminstore/"
 sales_page: "https://drawtut.com/de/kurse/menschen/"
 language: "de"
 ---
 # Menschen Zeichnen Masterkurs: Video-Kurs und eBook
 
 > Product ID `37257` · Digistore24 productId `398268` · [HTML profile page](../../produkte/menschen-zeichnen-masterkurs-video-kurs-und-ebook-37257.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.21 (Single payment, Installment) |
+| Price | $140.89 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.48 |
+| Earnings/sale* | $56.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrawTut |
@@ -41,11 +41,61 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit diesem Menschen zeichnen Masterkurs wirst du schnell lernen, den menschlichen Körper in den unterschiedlichsten Posen zu zeichnen. Umfangreicher Video-Kurs und eBook für Anfänger und Fortgeschrittene. Das beinhaltet der Masterkurs 21 Stunden Video-Tutorials mit 157 Zeichenübungen eBook mit 194 Seiten Wissen + Übungsblätter Mit diesem Kurs lernst du Körper in richtigen Proportionen zeichnen Unt…
+**Vendor's marketplace description:** <p>Mit diesem <strong>Menschen zeichnen Masterkurs</strong> wirst du schnell lernen, den <strong>menschlichen Körper in den unterschiedlichsten Posen zu zeichnen</strong>. Umfangreicher Video-Kurs und eBook für Anfänger und Fortgeschrittene.</p>
+<p><strong>Das beinhaltet der Masterkurs</strong></p>
+<ul>
+<li>21 Stunden Video-Tutorials mit 157 Zeichenübungen</li>
+<li>eBook mit 194 Seiten Wissen + Übungsblätter</li>
+</ul>
+<div>
+<div>
+<h3>Mit diesem Kurs lernst du</h3>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<ul>
+<li>Körper in richtigen Proportionen zeichnen</li>
+<li>Unterschiedliche Körperformen zeichnen</li>
+<li>Körper in unterschiedlichem Alter zeichnen</li>
+<li>Knochenstruktur &amp; Muskulatur zeichnen</li>
+<li>Einzelne Körperteile im Detail zeichnen</li>
+<li>Gesichter im Detail zeichnen</li>
+<li>Haare und Frisuren zeichnen</li>
+<li>Posen zeichnen &amp; Actionlinien</li>
+<li>Posen perspektivisch zeichnen</li>
+<li>Kleidung &amp; Faltenwurf zeichnen</li>
+</ul>
+<div>
+<div>
+<h3>Ein Masterkurs voller Tipps &amp; praxisorientierter Übungen</h3>
+</div>
+</div>
+<div>
+<div>
+<div>
+<p>Alle <strong>Video-Übungen sind durchweg kommentiert</strong> und <strong>beinhalten Schritt für Schritt Anleitungen mit vielen Tipps und Tricks</strong>. </p>
+<p>Der Aufbau des Kurses und der einzelnen Übungen soll dich dabei befähigen, sowohl Menschen in unterschiedlichen Posen nachzuzeichnen, als auch Menschen in unterschiedlichen Posen komplett Freihand zu zeichnen.</p>
+<p>Alle Vorlagen für die Übungen sind dabei sehr realitätsnah, so dass du alle Übungen auf Basis realistischer Proportionen und Posen absolvierst. </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://drawtut.com/de/kurse/menschen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37257/adminstore/
 - Sales page: https://drawtut.com/de/kurse/menschen/
 - Canonical redirect: https://www.digistore24.com/redir/398268/adminstore
 
@@ -92,7 +142,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Menschen Zeichnen Masterkurs: Video-Kurs und eBook? — Typ: Member area and video courses, Anbieter: DrawTut, gelistet seit 2021-07-15
-- Wie viel kostet es? — 141.206806 USD
+- Wie viel kostet es? — 140.891781 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

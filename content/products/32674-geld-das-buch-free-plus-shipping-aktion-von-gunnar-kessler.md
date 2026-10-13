@@ -4,7 +4,7 @@ digistore24_product_id: 324309
 title: "Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler"
 vendor: "GTK-littlefreilich"
 product_type: "Book (printed)"
-price: 2.4
+price: 2.39
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0.46
@@ -12,8 +12,8 @@ cart_conversion_pct: 39
 cancel_rate_pct: 4.72
 categories: ["Personal Development"]
 listed_since: "2020-05-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://gelddasbuch.de/buchgeschenk-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://gelddasbuch.de/buchgeschenk-7500/"
@@ -22,14 +22,14 @@ language: "de"
 # Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler
 
 > Product ID `32674` · Digistore24 productId `324309` · [HTML profile page](../../produkte/geld-das-buch-free-plus-shipping-aktion-von-gunnar-kessler-32674.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $2.40 (Single payment) |
+| Price | $2.39 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.46 |
 | Cart conversion* | 39% |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenke meinen Geld-Verdienen- Bestseller "GELD - Das Buch"!“ und erhalte eine 6€ Provision für jedes verschenkte Buch + 50% auf hoch konvertierende Upsells inkl. Abo!!! 312 Seiten extrem hochwertiger Content Hochwertig als echtes Buch produziert Das Experten-Buch mit 10 praxiserprobten Strategien Über 6.000 Bücher am ersten Tag verschenkt Sehr geringe Stornoquote Mehr als 32% der Besucher nehm…
+**Vendor's marketplace description:** <h3><span style="color:#ff0000;">Verschenke meinen Geld-Verdienen- Bestseller "GELD - Das Buch"!“ und erhalte eine 6€ Provision für jedes verschenkte Buch + 50% auf hoch konvertierende Upsells inkl. Abo!!!<br /></span></h3>
+<p> </p>
+<ul>
+<li>312 Seiten extrem hochwertiger Content</li>
+<li>Hochwertig als echtes Buch produziert</li>
+<li>Das Experten-Buch mit 10 praxiserprobten Strategien</li>
+<li>Über 6.000 Bücher am ersten Tag verschenkt</li>
+<li>Sehr geringe Stornoquote</li>
+</ul>
+<p><strong>Mehr als 32% der Besucher nehmen das Angebot an und bestellen sich das Buch.<br /><br />Du erhältst 6€ Provision für jedes verschenkte Buch! PLUS: Du bekommst 50% auf unsere Upsells und auch volle 50% auf das Abo von 197€ solange die Kunden dabei bleiben (wir haben hier eine extrem hohe Bleiberate)<br /><br /></strong>Melde dich jetzt als Affiliate an und starte mit dem Promoten von meinem neuen Buch.<br /><br />Auf der hier verlinkten Affiliate Page findest Du top convertierende Email und Social Media Post Vorlagen:<br /><br /><a href="https://partner.digitalmoneymaker.de/3ebuch/" target="_blank" rel="noreferrer noopener">https://partner.digitalmoneymaker.de/3ebuch/</a><br /><br /><br /></p>
 
 ## 2. Links
 
@@ -73,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld das Buch Free plus Shipping Aktion - von Gunnar Kessler? — Typ: Book (printed), Anbieter: GTK-littlefreilich, gelistet seit 2020-05-01
-- Wie viel kostet es? — 2.3980840000000003 USD
+- Wie viel kostet es? — 2.3927340000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

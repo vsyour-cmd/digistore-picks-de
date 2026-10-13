@@ -4,16 +4,16 @@ digistore24_product_id: 710395
 title: "Raus aus der Müdigkeit (E-Book)"
 vendor: "worldxpb"
 product_type: "E-books"
-price: 15.65
+price: 15.62
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 7.05
+earnings_per_sale: 7.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-07-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/710395?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/710395"
@@ -22,16 +22,16 @@ language: "de"
 # Raus aus der Müdigkeit (E-Book)
 
 > Product ID `57490` · Digistore24 productId `710395` · [HTML profile page](../../produkte/raus-aus-der-m-digkeit-e-book-57490.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.65 (Single payment) |
+| Price | $15.62 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $7.05 |
+| Earnings/sale* | $7.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bitte bindet euren Affiliate Link auf euren Plattformen ein, sodass euer Kunden auch über euren Link zur Verkaufsseite gelangt und Ihr eure Provision erhaltet! :) INFO zum Buch: Du funktionierst – aber du lebst nicht mit Energie. Morgens müde aufwachen. Tagsüber kämpfen. Abends erschöpft, aber der Kopf kommt nicht zur Ruhe. Kommt dir das bekannt vor? Die Wahrheit ist: Deine Müdigkeit hat selten et…
+**Vendor's marketplace description:** <h3><em>Bitte bindet euren Affiliate Link auf euren Plattformen ein, sodass euer Kunden auch über euren Link zur Verkaufsseite gelangt und Ihr eure Provision erhaltet! :)</em></h3>
+<h3>INFO zum Buch:</h3>
+<h3>Du funktionierst – aber du lebst nicht mit Energie.</h3>
+<p>Morgens müde aufwachen. Tagsüber kämpfen. Abends erschöpft, aber der Kopf kommt nicht zur Ruhe.</p>
+<p><strong>Kommt dir das bekannt vor?</strong></p>
+<p>Die Wahrheit ist: Deine Müdigkeit hat selten etwas mit fehlender Willenskraft zu tun – sondern mit den vielen kleinen Energie-Killern, die sich unbemerkt in unseren Alltag eingeschlichen haben.</p>
+<p><strong>„Raus aus der Müdigkeit“</strong> zeigt dir, warum du wirklich erschöpft bist – und wie du bereits in nur sieben Tagen den ersten spürbaren Unterschied erreichst.</p>
+<p>Ohne radikale Diäten.<br />Ohne stundenlangen Sport.<br />Ohne dein Leben komplett umzukrempeln.</p>
+<h3>In diesem Buch erfährst du:</h3>
+<p>• Die <strong>8 Säulen echter Energie</strong> – verständlich erklärt</p>
+<p>• Einen <strong>7-Tage-Reset-Plan</strong> zum sofortigen Umsetzen</p>
+<p>• Praxis-Impulse und Checklisten für den Alltag</p>
+<p>• Wissenschaftlich fundiert – aber ohne Fachchinesisch</p>
+<p>Für alle, die spüren:</p>
+<p><strong>So kann es nicht weitergehen.</strong></p>
+<p>Und endlich verstehen möchten, was ihrem Körper wirklich hilft.</p>
+<p><strong>Einfach. Praxisnah. Nachhaltig. (über 272 Seiten)</strong></p>
 
 ## 2. Links
 
@@ -73,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raus aus der Müdigkeit (E-Book)? — Typ: E-books, Anbieter: worldxpb, gelistet seit 2026-07-11
-- Wie viel kostet es? — 15.654782 USD
+- Wie viel kostet es? — 15.619857000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 358850
 title: "Videokurs: Wirtschaft verstehen"
 vendor: "Staatenlos"
 product_type: "Downloads"
-price: 61.63
+price: 61.5
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 31.43
+earnings_per_sale: 31.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-11-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://staatenlos.ch/firma-gruenden/wirtschaft-verstehen/?aff=adminstore#aff=adminstore"
 sales_page: "https://staatenlos.ch/firma-gruenden/wirtschaft-verstehen/"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs: Wirtschaft verstehen
 
 > Product ID `39450` · Digistore24 productId `358850` · [HTML profile page](../../produkte/videokurs-wirtschaft-verstehen-39450.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $61.63 (Single payment) |
+| Price | $61.50 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $31.43 |
+| Earnings/sale* | $31.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Staatenlos |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Videokurs Wirtschaft verstehen – nach dem Prinzip der österreichischen Schule Theorie und praktische Anwendbarkeit für Unternehmer und Investoren Mit diesem Kurs hast Du den perfekten Wegweiser für stürmische Zeiten – und kannst dich darauf freuen. 20 Videoeinheiten mit 9 Stunden Material vom Einsteiger zum Experten in der Österreichischen Schule werden Kurs zu jeder Zeit flexibel on- und offline …
+**Vendor's marketplace description:** <div>
+<div>
+<p>Videokurs Wirtschaft verstehen – nach dem Prinzip der österreichischen Schule </p>
+<p>Theorie und praktische Anwendbarkeit für Unternehmer und Investoren</p>
+<p>Mit diesem Kurs hast Du den perfekten Wegweiser für stürmische Zeiten – und kannst dich darauf freuen.</p>
+</div>
+</div>
+<div>
+<ul>
+<li>20 Videoeinheiten mit 9 Stunden Material</li>
+<li>vom Einsteiger zum Experten in der Österreichischen Schule werden</li>
+<li>Kurs zu jeder Zeit flexibel on- und offline anschauen</li>
+<li>mit zahlreicher kostenloser Lektüre zur Vertiefung</li>
+</ul>
+<p>Keine Video-Reihe in deutscher Sprache behandelt die Wirtschaft verstehen so klar strukturiert und mit solcher Kompetenz als unser Video-Kurs. Wir sind weder Ideologen noch Ängsteschürer, sondern versuchen die Welt zu verstehen, wie sie ist. Wirtschaft verstehen bietet ausgezeichnete Analyse-Werkzeuge dafür an, die dir als Unternehmer und Investor sehr dienlich sein können.</p>
+</div>
 
 ## 2. Links
 
@@ -96,7 +111,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs: Wirtschaft verstehen? — Typ: Downloads, Anbieter: Staatenlos, gelistet seit 2020-11-21
-- Wie viel kostet es? — 61.633 USD
+- Wie viel kostet es? — 61.49550000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

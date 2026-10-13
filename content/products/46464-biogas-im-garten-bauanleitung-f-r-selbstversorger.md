@@ -4,16 +4,16 @@ digistore24_product_id: 528498
 title: "Biogas im Garten - Bauanleitung für Selbstversorger"
 vendor: "gehtanders"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 5.21
+earnings_per_sale: 5.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection","Hobby & Craft","Home & Garden"]
 listed_since: "2023-12-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://geheimnisfreieenergie.de/biogas-dig/?aff=adminstore#aff=adminstore"
 sales_page: "https://geheimnisfreieenergie.de/biogas-dig/"
@@ -22,16 +22,16 @@ language: "de"
 # Biogas im Garten - Bauanleitung für Selbstversorger
 
 > Product ID `46464` · Digistore24 productId `528498` · [HTML profile page](../../produkte/biogas-im-garten-bauanleitung-f-r-selbstversorger-46464.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $5.21 |
+| Earnings/sale* | $5.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gehtanders |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit unserer einfachen und praktischen Anleitung können die Leserinnen und Leser ihre eigene Biogasanlage bauen und Gas zum Kochen und Heizen erzeugen. Sie benötigen lediglich Alltagsabfälle wie Küchenreste oder Gartenausschuss. Diese Materialien würden sonst auf einer Deponie landen, aber mit der eigenen Biogasanlage können sie sie zu wertvollem Biogas aufbereiten. Daher ist diese Bauanleitung für…
+**Vendor's marketplace description:** <p>Mit unserer einfachen und praktischen Anleitung können die Leserinnen und Leser ihre eigene Biogasanlage bauen und Gas zum Kochen und Heizen erzeugen. Sie benötigen lediglich Alltagsabfälle wie Küchenreste oder Gartenausschuss. Diese Materialien würden sonst auf einer Deponie landen, aber mit der eigenen Biogasanlage können sie sie zu wertvollem Biogas aufbereiten.</p>
+<p>Daher ist diese Bauanleitung für Selbstversorger der Hit. Ab sofort ist die DIN A4 Broschüre nicht mehr nur als Printware erhältlich, sondern hier bei Digistore24 als E-Book zum Downloaden. In unserem Onlineshop ist die Broschüre der Verkaufsschlager. Weben Sie als Affiliate jetzt im Netz der Netze und verdienen Sie mit uns. Das E-Book ist in Deutsch und Englisch erhältlich. </p>
+<p>Unsere <a href="https://passive-online-rente.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">einzigartigen Affiliate-Supportseiten</a> helfen Ihne  mit E-Mail Vorlagen, Texten und Bannern zu Ihrer sofortigen Verfügung.</p>
 
 ## 2. Links
 
@@ -77,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Biogas im Garten - Bauanleitung für Selbstversorger? — Typ: E-books, Anbieter: gehtanders, gelistet seit 2023-12-06
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

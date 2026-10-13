@@ -4,16 +4,16 @@ digistore24_product_id: 663971
 title: "Glückscoaching-Ausbildung: Glück ist planbar!"
 vendor: "Magierschule"
 product_type: "Member area and video courses"
-price: 1356.02
+price: 1352.99
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 542.4
+earnings_per_sale: 541.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-01-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://magierschule.de/glueckscoach?aff=adminstore#aff=adminstore"
 sales_page: "https://magierschule.de/glueckscoach"
@@ -22,16 +22,16 @@ language: "de"
 # Glückscoaching-Ausbildung: Glück ist planbar!
 
 > Product ID `55314` · Digistore24 productId `663971` · [HTML profile page](../../produkte/gl-ckscoaching-ausbildung-gl-ck-ist-planbar-55314.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1356.02 (Single payment, Installment) |
+| Price | $1352.99 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $542.40 |
+| Earnings/sale* | $541.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Magierschule |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Glückscoach-Jahresausbildung Empfehlen Sie einen hochwertigen, kostenlosen Online-Einstieg zum Thema Glück & Lebensfreude,der Teilnehmer schrittweise zu einer intensiven Glückscoach-Jahresausbildung führt. Die Bewerbung erfolgt nicht über direkten Verkauf, sondern über einen kostenlosen Video-Einstieg, z.B. das Ausfüllen eines kostenlose ausfüllen eines Lebensrads, 4 kostenlose Videolektionen etc.…
+**Vendor's marketplace description:** <h2>Glückscoach-Jahresausbildung</h2>
+<p>Empfehlen Sie einen <strong>hochwertigen, kostenlosen Online-Einstieg zum Thema Glück &amp; Lebensfreude</strong>,<br />der Teilnehmer schrittweise zu einer <strong>intensiven Glückscoach-Jahresausbildung</strong> führt.</p>
+<p>Die Bewerbung erfolgt <strong>nicht über direkten Verkauf</strong>, sondern über einen kostenlosen Video-Einstieg, z.B. das Ausfüllen eines kostenlose ausfüllen eines Lebensrads, 4 kostenlose Videolektionen etc. Zur Ausbildung führt dann ein 12 - Videokurs (Smile), für 40 € mit 40 % Provision zusäztlich.<br /><br /></p>
+<hr />
+<h3>Ihre Vorteile als Affiliate:</h3>
+<p>• <strong>Attraktische Provision:</strong> 40% pro Verkauf der Glückscoach-Jahresausbildung (&gt; 800 € Provision)<br />• <strong>Niedrige Einstiegshürde:</strong> kostenloser Mehrwert für Ihre Community<br />• <strong>Hohe Vertrauensbasis:</strong> zweistufiges Video-Training vor dem Kauf<br />• <strong>Langfristiges Tracking:</strong> automatische Zuordnung über Digistore<br />• <strong>Kein Support- oder Verkaufsaufwand</strong> für Sie<br /><br /></p>
+<hr />
+<h3>Zielgruppe:</h3>
+<p>Menschen mit Interesse an persönlicher Entwicklung, Glück, Lebensfreude, Bewusstseins-<br />und Coaching-Themen.</p>
+<hr />
+<h3>Wichtig für Affiliates:</h3>
+<p>Es wird <strong>ausschließlich der kostenlose Einstieg</strong> beworben. Alle weiteren Schritte und der Verkauf der Jahresausbildung erfolgen automatisiert.</p>
+<p> </p>
 
 ## 2. Links
 
@@ -75,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Glückscoaching-Ausbildung: Glück ist planbar!? — Typ: Member area and video courses, Anbieter: Magierschule, gelistet seit 2026-01-25
-- Wie viel kostet es? — 1356.015648 USD
+- Wie viel kostet es? — 1352.990448 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

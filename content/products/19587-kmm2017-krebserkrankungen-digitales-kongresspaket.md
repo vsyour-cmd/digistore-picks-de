@@ -4,34 +4,34 @@ digistore24_product_id: 164085
 title: "KMM2017 Krebserkrankungen - Digitales Kongresspaket"
 vendor: "AMMSpitz"
 product_type: "Member area and video courses"
-price: 122.38
+price: 122.11
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 55.07
+earnings_per_sale: 54.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-09-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-krebserkrankungen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/19587/adminstore/"
 sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-krebserkrankungen/"
 language: "de"
 ---
 # KMM2017 Krebserkrankungen - Digitales Kongresspaket
 
 > Product ID `19587` · Digistore24 productId `164085` · [HTML profile page](../../produkte/kmm2017-krebserkrankungen-digitales-kongresspaket-19587.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $122.38 (Single payment, Installment) |
+| Price | $122.11 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $55.07 |
+| Earnings/sale* | $54.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AMMSpitz |
@@ -41,11 +41,49 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kongress für menschliche Medizin - Krebserkrankungen Das Paket enthält die Aufzeichnung der Vorträge beider Kongresstage (25.03.2017 - 26.03.2017) als Video-Download in HD-Qualität (mp4) Die Vorträge Krebs als Systemerkrankung (Prof. Dr. med. Jörg Spitz, Schlangenbad) Wissenschaftliche Grundlagen der Medizin im 21. Jahrhundert (Dr. med. Ori Wolff, Berlin) More than a vitamin: Vitamin C as a treatm…
+**Vendor's marketplace description:** <h1>Kongress für menschliche Medizin - Krebserkrankungen</h1>
+<p>Das Paket enthält die Aufzeichnung der Vorträge <strong>beider Kongresstage</strong> (25.03.2017 - 26.03.2017) als <strong>Video-Download in HD-Qualität</strong> (mp4)</p>
+<h2>Die Vorträge</h2>
+<ol><li><strong>Krebs als Systemerkrankung</strong> (Prof. Dr. med. Jörg Spitz, Schlangenbad)</li>
+<li><strong>Wissenschaftliche Grundlagen der Medizin im 21. Jahrhundert</strong> (Dr. med. Ori Wolff, Berlin)</li>
+<li><strong>More than a vitamin: Vitamin C as a treatment for cancer  </strong>(Ph. D. Qi Chen, Kansas City/USA)</li>
+<li><strong>Aktuelle, adjuvante Verfahren in der Onkologie</strong> (PD Dr. med. Nils Thoennissen , Soest)</li>
+<li><strong>Der Krebserkrankung ganzheitlich begegnen – Individuelle Heilungswege bei schwerer Erkrankung</strong> (Dr. med. György Irmey, Heidelberg)</li>
+<li><strong>Die Bedeutung von Bewegung und Sport in der Onkologie</strong> (Petra Wirtz, Köln)</li>
+<li><strong>Ganzheitliche und patientenfreundliche Therapie von Prostatakrebs</strong> (Dr. med. Ernst Herbert Bliemeister, Ammersbek)</li>
+<li><strong>Möglichkeiten und Grenzen einer ketogenen Diät in der Onkologie</strong> (Prof. Dr. rer. hum. biol. Ulrike Kämmerer, Würzburg)</li>
+<li><strong>Die Rolle des Darmes (microbiome) bei der Krebsentstehung</strong> (Dr. med. Ralf Heinrich)</li>
+<li><strong>Mikronährstoffe in der onkologischen Intervention</strong> (Apotheker Uwe Gröber, Essen)</li>
+<li><strong>Die Bedeutung von Singen und Musik für Patienten in der Onkologie</strong> (Elke Wünnenberg, Bad Waldsee)</li>
+<li><strong>Integrative Therapie von Patienten mit Prostata- und Mammakarzinom</strong> (Prof. Dr.med. Dr. rer. nat. Bernd Pfeifer)</li>
+<li><strong>Tumor-Fatigue – Mehr als nur eine „Müdigkeit“</strong> (Dr. med. Alfred Wolf, Ulm)</li>
+<li><strong>Umwelteinflüsse und Krebserkrankungen</strong> (Dr. med. Kurt E. Müller, Kempten)</li>
+<li><strong>Problematik der Ernährung bei Krebspatienten</strong> (Dr. med. Hardy Walle, Kirkel)</li>
+<li><strong>Vitamin D und Krebs: Update 2017</strong> (Prof. Dr. med. Winfried März, Mannheim)</li>
+<li><strong>Magnesium in der Krebstherapie</strong> (PD Dr. med. Klaus Kisters, Herne)</li>
+<li><strong>Omega-3-Fettsäuren in der Onkologie – Kann man mit Fischen dem Krebs davonschwimmen?</strong> (Dr. med. Volker Schmiedel)</li>
+<li><strong>Synopsis und Perspektiven</strong> (Prof. Dr. med. Jörg Spitz, Schlangenbad)</li>
+</ol><h2>Bonusmaterial</h2>
+<ol><li><strong>Epigenetik: Schnittstelle zwischen Erbgut und Umwelt</strong> als Sonderdruck aus den "Aktuellen Gesundheitsnachrichten 27/ 2017" als <strong>PDF</strong></li>
+<li>Der Vortrag<strong> Epigenetik - Nicht die Gene steuern uns  - wir steuern unsere Gene </strong>(Prof. Dr. med. Jörg Spitz)<strong> als Video-Download in HD-Qualität (mp4)<br /></strong></li>
+</ol><p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digitalewelt.spitzen-praevention.com/kmm-krebserkrankungen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/19587/adminstore/
 - Sales page: https://digitalewelt.spitzen-praevention.com/kmm-krebserkrankungen/
 - Vendor affiliate support: https://digitalewelt.spitzen-praevention.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/164085/adminstore
@@ -83,7 +121,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KMM2017 Krebserkrankungen - Digitales Kongresspaket? — Typ: Member area and video courses, Anbieter: AMMSpitz, gelistet seit 2017-09-18
-- Wie viel kostet es? — 122.380726 USD
+- Wie viel kostet es? — 122.107701 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

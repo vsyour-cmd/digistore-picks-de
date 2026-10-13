@@ -4,34 +4,34 @@ digistore24_product_id: 531731
 title: "Rückführung - Der Weg zur Selbstheilung"
 vendor: "ElenaSeeKraft"
 product_type: "Book (printed)"
-price: 15.61
+price: 15.58
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.6
+earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Services"]
 listed_since: "2023-12-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://vrf-rueckfuehrung.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47563/adminstore/"
 sales_page: "https://vrf-rueckfuehrung.de/"
 language: "de"
 ---
 # Rückführung - Der Weg zur Selbstheilung
 
 > Product ID `47563` · Digistore24 productId `531731` · [HTML profile page](../../produkte/r-ckf-hrung-der-weg-zur-selbstheilung-47563.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $15.61 (Single payment) |
+| Price | $15.58 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.60 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ElenaSeeKraft |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Diese Buch führt die Leser in die Welt der Rückführung und Reinkarnation mit den Möglichkeiten der Heilung und Selbstheilung.Eine Welt, die ungahnte Möglichkeiten erschließt.Neben dem Buch wird es in Zukunft auch ein EBook, ein Hörbuch und weitere Dienstleistungen geben.Ich, Elena Theys, habe seit mehr als 20 Jahren Erfahrungen zu diesem Thema und möchte Menschen helfen und animieren, diesen Weg z…
+**Vendor's marketplace description:** <p>Diese Buch führt die Leser in die Welt der Rückführung und Reinkarnation mit den Möglichkeiten der Heilung und Selbstheilung.<br />Eine Welt, die ungahnte Möglichkeiten erschließt.<br /><br />Neben dem Buch wird es in Zukunft auch ein EBook, ein  Hörbuch und weitere Dienstleistungen geben.<br /><br />Ich, Elena Theys, habe seit mehr als 20 Jahren Erfahrungen zu diesem Thema und möchte Menschen helfen und animieren, diesen Weg zu gehen. Damit können sie selbst in vielen Situationen viele Erkenntnisse, Verbesserungen und sogar ungewöhnliche Selbstheilungen aktivieren.<br /><br />Bitte unterstützen Sie mich bei dieser Aufgabe, indem Sie diese Möglichkeit teilen und dabei auch etwas verdienen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://vrf-rueckfuehrung.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47563/adminstore/
 - Sales page: https://vrf-rueckfuehrung.de/
 - Canonical redirect: https://www.digistore24.com/redir/531731/adminstore
 
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rückführung - Der Weg zur Selbstheilung? — Typ: Book (printed), Anbieter: ElenaSeeKraft, gelistet seit 2023-12-28
-- Wie viel kostet es? — 15.609958 USD
+- Wie viel kostet es? — 15.575133000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

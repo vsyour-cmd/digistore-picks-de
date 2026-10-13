@@ -4,34 +4,34 @@ digistore24_product_id: 360643
 title: "KNX Wetterstation programmieren - 2h Videokurs Klickanleit."
 vendor: "smarthomeknx"
 product_type: "Downloads"
-price: 238.5
+price: 237.97
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 40.45
+earnings_per_sale: 40.36
 cart_conversion_pct: 13
 cancel_rate_pct: 4.84
 categories: ["Marketing Services"]
 listed_since: "2020-12-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://www.smartest-home.com/knx-wetterstation-programmieren-jalousie-sonnenschutz/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52163/adminstore/"
 sales_page: "http://www.smartest-home.com/knx-wetterstation-programmieren-jalousie-sonnenschutz/"
 language: "de"
 ---
 # KNX Wetterstation programmieren - 2h Videokurs Klickanleit.
 
 > Product ID `52163` · Digistore24 productId `360643` · [HTML profile page](../../produkte/knx-wetterstation-programmieren-2h-videokurs-klickanleit-52163.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $238.50 (Single payment) |
+| Price | $237.97 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $40.45 |
+| Earnings/sale* | $40.36 |
 | Cart conversion* | 13% |
 | Cancel rate* | 4.84% |
 | Vendor | smarthomeknx |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** KNX Wetterstation in 2h programmieren ist der Videokurs, der es dir ermöglicht, gezielt und mit geringstmöglichem Zeitaufwand die Jalousien/Rollläden eines beliebigen Wohnhauses/Bürogebäudes mit einer KNX Wetterstation zu automatisieren und zu programmieren. Bauherren, Elektriker und Systemintegratoren, die schnell eine Jalousiesteuerung eines Gebäudes mit einer KNX Wetterstation automatisieren wo…
+**Vendor's marketplace description:** <h3>KNX Wetterstation in 2h programmieren</h3>
+<div>
+<p>ist der Videokurs, der es dir ermöglicht, gezielt und mit geringstmöglichem Zeitaufwand die Jalousien/Rollläden eines beliebigen Wohnhauses/Bürogebäudes mit einer KNX Wetterstation zu automatisieren und zu programmieren.</p>
+<ul>
+<li><strong>Bauherren, Elektriker und Systemintegratoren</strong>, die schnell eine Jalousiesteuerung eines Gebäudes mit einer KNX Wetterstation automatisieren wollen</li>
+<li><strong>Elektriker</strong>, die <strong>viel Zeit und Geld sparen</strong> und die Jalousien/Rollläden auch bei größeren <strong>Gebäuden</strong> mit mehreren Fassaden automatisieren wollen</li>
+<li><strong>Bauherren</strong>, die am PC mit <strong>ETS Software</strong> alles selbst einrichten und programmieren</li>
+</ul>
+<h3> </h3>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.smartest-home.com/knx-wetterstation-programmieren-jalousie-sonnenschutz/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52163/adminstore/
 - Sales page: http://www.smartest-home.com/knx-wetterstation-programmieren-jalousie-sonnenschutz/
 - Vendor affiliate support: https://www.smartest-home.com/affiliateprogramm
 - Canonical redirect: https://www.digistore24.com/redir/360643/adminstore
@@ -87,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KNX Wetterstation programmieren - 2h Videokurs Klickanleit.? — Typ: Downloads, Anbieter: smarthomeknx, gelistet seit 2020-12-01
-- Wie viel kostet es? — 238.49729800000003 USD
+- Wie viel kostet es? — 237.96522300000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 727810
 title: "Passives Einkommen mit Dividenden – Einsteiger-Kurs"
 vendor: "FinanzKalkuel"
 product_type: "Member area and video courses"
-price: 140.31
+price: 140
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 84.19
+earnings_per_sale: 84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://finanzkalkuel.de/dividenden-kurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59293/adminstore/"
 sales_page: "https://finanzkalkuel.de/dividenden-kurs/"
 language: "de"
 ---
 # Passives Einkommen mit Dividenden – Einsteiger-Kurs
 
 > Product ID `59293` · Digistore24 productId `727810` · [HTML profile page](../../produkte/passives-einkommen-mit-dividenden-einsteiger-kurs-59293.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.31 (Single payment) |
+| Price | $140.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $84.19 |
+| Earnings/sale* | $84.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FinanzKalkuel |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Dividenden Kurs von Finanz Kalkül bringt Einsteigern bei, wie sie sich Schritt für Schritt ein eigenes Dividenden-Depot und damit ein zweites, passives Einkommen aufbauen. Für wen: finanzinteressierte Einsteiger, die mit Aktien und ETFs ein planbares Zusatzeinkommen wollen und ein klares vorgehen bei der Aktien/ETF bewertung/Auswahl suchen. Sehr praxisorientiert: Statt trockener Theorie zeigt …
+**Vendor's marketplace description:** <p>Der Dividenden Kurs von Finanz Kalkül bringt Einsteigern bei, wie sie sich Schritt für Schritt ein eigenes Dividenden-Depot und damit ein zweites, passives Einkommen aufbauen. </p>
+<p><strong>Für wen:</strong> finanzinteressierte Einsteiger, die mit Aktien und ETFs ein planbares Zusatzeinkommen wollen und ein klares vorgehen bei der Aktien/ETF bewertung/Auswahl suchen.</p>
+<p><strong>Sehr praxisorientiert:</strong> Statt trockener Theorie zeigt der Kurs Schritt für Schritt am echten Beispiel  Aktien suchen, mit echten Kennzahlen und Tools analysieren, bewerten und ein komplettes Depot bauen. Zum direkten Mitmachen.</p>
+<p><strong>Was drin ist:</strong> ein kompletter roter Faden in 7 Modulen – vom Fundament (Dividenden &amp; Kennzahlen verstehen) über die Analyse und Bewertung echter Aktien bis zum fertigen Depot und dem Verwalten inkl. Steuern. Bewusst nur die nötige Theorie, dafür jeder Schritt am realen Beispiel und zum Mitmachen. Am Ende steht ein eigenes, fertiges Dividenden Depot.</p>
+<p><strong>Warum es konvertiert:</strong></p>
+<ul>
+<li>Kein Theorie-Ballast: nur das nötige Wissen, konsequent auf das echte Depot ausgerichtet.</li>
+<li>Klarer roter Faden: Aktien &amp; ETFs finden → mit echten Kennzahlen analysieren → fair bewerten → Depot bauen → verwalten &amp; Steuern.</li>
+<li>Viel Praxis: reale Beispiele plus sofort nutzbares Material (Watchlists, Checklisten, 7-Kennzahlen-Spickzettel, Dividenden-Tracker).</li>
+</ul>
+<p> </p>
+<p>Werbematerial (Reels, Grafiken, Textbausteine) stelle ich auf Anfrage bereit. Ich freue mich auf die Zusammenarbeit!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://finanzkalkuel.de/dividenden-kurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59293/adminstore/
 - Sales page: https://finanzkalkuel.de/dividenden-kurs/
 - Canonical redirect: https://www.digistore24.com/redir/727810/adminstore
 
@@ -87,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Passives Einkommen mit Dividenden – Einsteiger-Kurs? — Typ: Member area and video courses, Anbieter: FinanzKalkuel, gelistet seit 2026-09-16
-- Wie viel kostet es? — 140.310326 USD
+- Wie viel kostet es? — 139.997301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

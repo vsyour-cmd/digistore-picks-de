@@ -4,16 +4,16 @@ digistore24_product_id: 289503
 title: "E-Book: Firmen Lexikon"
 vendor: "Staatenlos"
 product_type: "E-books"
-price: 49.31
+price: 49.2
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 25.15
+earnings_per_sale: 25.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2019-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://staatenlos.ch/firma-gruenden/firmen-lexikon/?aff=adminstore#aff=adminstore"
 sales_page: "https://staatenlos.ch/firma-gruenden/firmen-lexikon/"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book: Firmen Lexikon
 
 > Product ID `39448` · Digistore24 productId `289503` · [HTML profile page](../../produkte/e-book-firmen-lexikon-39448.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $49.31 (Single payment) |
+| Price | $49.20 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $25.15 |
+| Earnings/sale* | $25.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Staatenlos |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Firmengründungs-Lexikon bietet Dir einen ausführlichen Vergleich von 60 Staaten weltweit bezüglich: 60 Gründungsstaaten sortiert nach Kategorien 33 verglichene Indikatoren topaktuell unter Einbindung aller aktuell laufender Reformen wie BEPS inklusive aller relevanten DBA für DACH + USA Link-Sammlung für alle relevanten Texte rund um Firmengründung & Steueroptimierung Details zu den Methoden v…
+**Vendor's marketplace description:** <div>
+<div>
+<p>Das Firmengründungs-Lexikon bietet Dir einen ausführlichen Vergleich von 60 Staaten weltweit bezüglich:</p>
+</div>
+</div>
+<div>
+<ul>
+<li>60 Gründungsstaaten sortiert nach Kategorien</li>
+<li>33 verglichene Indikatoren</li>
+<li>topaktuell unter Einbindung aller aktuell laufender Reformen wie BEPS</li>
+<li>inklusive aller relevanten DBA für DACH + USA</li>
+<li>Link-Sammlung für alle relevanten Texte rund um Firmengründung &amp; Steueroptimierung</li>
+</ul>
+<p>Details zu den Methoden von Großkonzernen und reichen Familien sind rar gesät in der Welt der Steuervermeidung. Meist hört man nur von jenen, die erwischt und öffentlich verdammt werden. Wer hingegen Erfolg hat seine Steuern zu reduzieren, der soll - es könnte ja Nachahmer geben - möglichst nicht ins Rampenlicht gestellt werden.</p>
+<p>Mit diesem Buch wollen wir allen Laien die Möglichkeit geben genau das zu erfahren, was ihnen, die es viel dringender brauchen könnten, verschwiegen wird. Alle Tipps und Tricks zur Steuervermeidung und Strategien zum Vermögensschutz aus erster Hand von einem Steuerberater in Ruhestand, der vor lauter Willkür und Steuerverschwendung endlich auspacken musste.</p>
+</div>
 
 ## 2. Links
 
@@ -100,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book: Firmen Lexikon? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2019-10-04
-- Wie viel kostet es? — 49.306400000000004 USD
+- Wie viel kostet es? — 49.196400000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 684128
 title: "Starke Gedanken: Mentale Gesundheit für Männer in Krisenzeiten"
 vendor: "DomkeMedia"
 product_type: "E-books"
-price: 20.93
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 9.42
+earnings_per_sale: 9.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://domke24.com/starke-gedanken/?aff=adminstore#aff=adminstore"
 sales_page: "https://domke24.com/starke-gedanken/"
@@ -22,16 +22,16 @@ language: "de"
 # Starke Gedanken: Mentale Gesundheit für Männer in Krisenzeiten
 
 > Product ID `56307` · Digistore24 productId `684128` · [HTML profile page](../../produkte/starke-gedanken-mentale-gesundheit-f-r-m-nner-in-krisenzeiten-56307.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.93 (Single payment) |
+| Price | $20.89 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $9.42 |
+| Earnings/sale* | $9.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DomkeMedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 45% Provision | Digitales EBook | Sofort-Download Männer reden nicht über ihre Probleme – das ist ein weit verbreiteter Mythos, der echten Schaden anrichtet. Das EBook Starke Gedanken zeigt Männern in Krisenzeiten, wie sie ihre mentale Gesundheit stärken und wieder handlungsfähig werden. Was Affiliates bewerben: Praxisnahe Methoden für mentale Stärke in Krisensituationen Speziell für Männer entwic…
+**Vendor's marketplace description:** <p><strong>45% Provision | Digitales EBook | Sofort-Download</strong></p>
+<p>Männer reden nicht über ihre Probleme – das ist ein weit verbreiteter Mythos, der echten Schaden anrichtet. Das EBook <em>Starke Gedanken</em> zeigt Männern in Krisenzeiten, wie sie ihre mentale Gesundheit stärken und wieder handlungsfähig werden.</p>
+<p><strong>Was Affiliates bewerben:</strong></p>
+<ul>
+<li>Praxisnahe Methoden für mentale Stärke in Krisensituationen</li>
+<li>Speziell für Männer entwickelt – ohne Klischees, mit echter Wirkung</li>
+<li>Sofort umsetzbare Techniken aus Psychologie und Persönlichkeitsentwicklung</li>
+<li>45% Provision auf jeden Verkauf</li>
+</ul>
+<p><strong>Zielgruppe:</strong> Männer zwischen 25 und 55 Jahren in beruflichen, privaten oder persönlichen Krisen.</p>
+<p>Hochkonvertierende Verkaufsseite mit eingebettetem Promocode bereits vorhanden.</p>
 
 ## 2. Links
 
@@ -78,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Starke Gedanken: Mentale Gesundheit für Männer in Krisenzeiten? — Typ: E-books, Anbieter: DomkeMedia, gelistet seit 2026-04-12
-- Wie viel kostet es? — 20.932808 USD
+- Wie viel kostet es? — 20.886108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

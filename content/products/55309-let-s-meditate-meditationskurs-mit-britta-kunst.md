@@ -4,34 +4,34 @@ digistore24_product_id: 603639
 title: "Let's Meditate Meditationskurs mit Britta Kunst"
 vendor: "BrittaKunst"
 product_type: "Member area and video courses"
-price: 177.97
+price: 177.58
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 44.5
+earnings_per_sale: 44.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-03-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://britta-kunst.app.mentortools.com/lets-meditate?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55309/adminstore/"
 sales_page: "https://britta-kunst.app.mentortools.com/lets-meditate"
 language: "de"
 ---
 # Let's Meditate Meditationskurs mit Britta Kunst
 
 > Product ID `55309` · Digistore24 productId `603639` · [HTML profile page](../../produkte/let-s-meditate-meditationskurs-mit-britta-kunst-55309.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $177.97 (Single payment) |
+| Price | $177.58 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $44.50 |
+| Earnings/sale* | $44.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BrittaKunst |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Was du bekommst In "Let's Meditate" nehme ich dich mit auf eine transformierende dreiteilige Reise, die dich sanftaus deinem Suchen in deine Höhe, Tiefe und Weite führt - dorthin, wo Klarheit, Selbstheilung und Erkenntnis bereitsin dir vorhanden sind. Über mindestens 3 Wochen begleite ich dich mit gezielten, anhebenden Theorie- und Praxisvideos. Schritt für Schritt wirst du in das Medtieren eingef…
+**Vendor's marketplace description:** <div>
+<h2><strong>Was du bekommst</strong></h2>
+</div>
+<div>
+<h5>In "Let's Meditate" nehme ich dich mit auf eine transformierende dreiteilige Reise, die dich sanft<br />aus deinem Suchen in deine <strong>Höhe</strong>, <strong>Tiefe</strong> und <strong>Weite</strong> führt - dorthin, wo Klarheit, Selbstheilung und Erkenntnis <strong>bereits<br />in dir vorhanden sind</strong>.</h5>
+</div>
+<div>
+<h6>Über mindestens 3 Wochen begleite ich dich mit gezielten, anhebenden Theorie- und Praxisvideos. Schritt für Schritt wirst du in das Medtieren eingeführt und lernst, deine innere Welt bewusst zu erforschen. Zu Beginn wählst du ein persönliches Lebensthema, das dich aktuell beschäftigt.<br /><br />Jede Woche widmet sich einer bestimmten Meditationsform. Zusätzlich fokussieren wir uns in jeder Woche auf ein weiteres Thema, das deine Bewusstwerdung unterstützt, dein Meditationserlebnis intensiviert und dir als wertvolles Tool<br />für mehr Klarheit und innere Zufriedenheit<br />in deinem Leben dient.</h6>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://britta-kunst.app.mentortools.com/lets-meditate?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55309/adminstore/
 - Sales page: https://britta-kunst.app.mentortools.com/lets-meditate
 - Canonical redirect: https://www.digistore24.com/redir/603639/adminstore
 
@@ -85,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Let's Meditate Meditationskurs mit Britta Kunst? — Typ: Member area and video courses, Anbieter: BrittaKunst, gelistet seit 2025-03-25
-- Wie viel kostet es? — 177.973692 USD
+- Wie viel kostet es? — 177.57664200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

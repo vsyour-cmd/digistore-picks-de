@@ -4,16 +4,16 @@ digistore24_product_id: 733779
 title: "30 einfache Seifenrezepte zum Selbermachen"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 20.16
+price: 20.11
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 13.1
+earnings_per_sale: 13.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/733779?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/733779"
@@ -22,16 +22,16 @@ language: "de"
 # 30 einfache Seifenrezepte zum Selbermachen
 
 > Product ID `59280` · Digistore24 productId `733779` · [HTML profile page](../../produkte/30-einfache-seifenrezepte-zum-selbermachen-59280.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.16 (Single payment) |
+| Price | $20.11 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $13.10 |
+| Earnings/sale* | $13.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 30 einfache Seifenrezepte zum Selbermachen Entdecke die Kunst des Seifensiedens! Dieser umfassende E-Book-Ratgeber bietet eine sorgfältig kuratierte Sammlung aus 30 anfängerfreundlichen und erprobten Rezepten für die natürliche Seifenherstellung zu Hause. Perfekt für alle, die chemische Zusätze vermeiden und individuelle, pflegende Seifen selber machen möchten. Produktdetails für Affiliates (Digis…
+**Vendor's marketplace description:** <h2>30 einfache Seifenrezepte zum Selbermachen</h2>
+<p>Entdecke die Kunst des Seifensiedens! Dieser umfassende E-Book-Ratgeber bietet eine sorgfältig kuratierte Sammlung aus 30 anfängerfreundlichen und erprobten Rezepten für die natürliche Seifenherstellung zu Hause. Perfekt für alle, die chemische Zusätze vermeiden und individuelle, pflegende Seifen selber machen möchten.</p>
+<p> </p>
+<h3><strong>Produktdetails für Affiliates (Digistore24)</strong></h3>
+<p><strong> • Verkaufspreis:</strong> 17,99 €</p>
+<p><strong> • Provision:</strong> 65% (Attraktiver Verdienst pro Sale!)</p>
+<p><strong> • Zielgruppe:</strong> DIY-Enthusiasten, Naturkosmetik-Fans, Kreative und Anfänger.</p>
+<p> </p>
+<h3><strong>Warum bewerben?</strong></h3>
+<p><strong> • Hohe Nachfrage:</strong> Der Trend zu natürlicher Handwerkskunst und plastikfreier Körperpflege wächst stetig.</p>
+<p><strong> • Top-Conversion:</strong> Klares, praxisnahes Thema mit sofortigem Mehrwert für die Käufer.</p>
+<p> </p>
 
 ## 2. Links
 
@@ -81,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 30 einfache Seifenrezepte zum Selbermachen? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-16
-- Wie viel kostet es? — 20.159594 USD
+- Wie viel kostet es? — 20.114619 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

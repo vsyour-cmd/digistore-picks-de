@@ -4,34 +4,34 @@ digistore24_product_id: 667733
 title: "Stark für alle. Schwach für mich."
 vendor: "gbuiss"
 product_type: "E-books"
-price: 18.18
+price: 18.14
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 17.73
+earnings_per_sale: 17.69
 cart_conversion_pct: 10
 cancel_rate_pct: 2.05
 categories: ["Personal Development"]
 listed_since: "2026-02-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/667733?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55507/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/667733"
 language: "de"
 ---
 # Stark für alle. Schwach für mich.
 
 > Product ID `55507` · Digistore24 productId `667733` · [HTML profile page](../../produkte/stark-f-r-alle-schwach-f-r-mich-55507.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.18 (Single payment) |
+| Price | $18.14 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $17.73 |
+| Earnings/sale* | $17.69 |
 | Cart conversion* | 10% |
 | Cancel rate* | 2.05% |
 | Vendor | gbuiss |
@@ -41,11 +41,38 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Stark für alle. Schwach für mich. Glücklich nach außen. Innerlich kaputt. Ein ehrliches E-Book für Menschen, die nach außen funktionieren, aber sich innerlich oft leer, müde oder überfordert fühlen. Dieses Buch spricht aus, was viele denken und zeigt dir Schritt für Schritt, wie du wieder zu dir selbst findest. Das erwartet dich: Tiefgehende Einblicke in innere Erschöpfung & Selbstzweifel Praktisc…
+**Vendor's marketplace description:** <p><strong>Stark für alle. Schwach für mich.</strong></p>
+<p><em>Glücklich nach außen. Innerlich kaputt.</em></p>
+<p> </p>
+<p>Ein ehrliches E-Book für Menschen, die nach außen funktionieren, aber sich innerlich oft leer, müde oder überfordert fühlen. Dieses Buch spricht aus, was viele denken und zeigt dir Schritt für Schritt, wie du wieder zu dir selbst findest.</p>
+<p> </p>
+<p><strong>Das erwartet dich:</strong></p>
+<p> </p>
+<ul>
+<li>
+<p>Tiefgehende Einblicke in innere Erschöpfung &amp; Selbstzweifel</p>
+</li>
+<li>
+<p>Praktische Übungen für mehr Klarheit im Kopf</p>
+</li>
+<li>
+<p>Hilfe beim Grenzen setzen ohne Schuldgefühl</p>
+</li>
+<li>
+<p>Impulse für Selbstwert, innere Ruhe und emotionale Stärke</p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Für wen ist dieses Buch?</strong></p>
+<p>Für alle, die immer stark wirken müssen, sich selbst aber dabei verloren haben und endlich wieder lernen wollen, auf die eigene Stimme zu hören.</p>
+<p> </p>
+<p><strong>Kurz gesagt:</strong></p>
+<p>Kein trockenes Ratgeberbuch, sondern ein emotionaler Begleiter, der dich daran erinnert:</p>
+<p>Du musst nicht perfekt sein. Du darfst echt sein.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/667733?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55507/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/667733
 - Canonical redirect: https://www.digistore24.com/redir/667733/adminstore
 
@@ -90,7 +117,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Stark für alle. Schwach für mich.? — Typ: E-books, Anbieter: gbuiss, gelistet seit 2026-02-10
-- Wie viel kostet es? — 18.176132 USD
+- Wie viel kostet es? — 18.135582 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

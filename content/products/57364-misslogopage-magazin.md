@@ -4,16 +4,16 @@ digistore24_product_id: 625138
 title: "misslogopage Magazin"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 8.91
+price: 8.89
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 0.9
+earnings_per_sale: 0.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://lexosophie.mydigibiz24.com/misslogopage-magazin?aff=adminstore#aff=adminstore"
 sales_page: "https://lexosophie.mydigibiz24.com/misslogopage-magazin"
@@ -22,16 +22,16 @@ language: "de"
 # misslogopage Magazin
 
 > Product ID `57364` · Digistore24 productId `625138` · [HTML profile page](../../produkte/misslogopage-magazin-57364.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $8.91 (Single payment) |
+| Price | $8.89 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $0.90 |
+| Earnings/sale* | $0.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Informationen rund um den rhythmischen Spracherwerb. Alles, was eine Mama darüber wissen sollte.
+**Vendor's marketplace description:** <p>Informationen rund um den rhythmischen Spracherwerb. Alles, was eine Mama darüber wissen sollte.</p>
 
 ## 2. Links
 
@@ -76,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist misslogopage Magazin? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 8.90877 USD
+- Wie viel kostet es? — 8.888895000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

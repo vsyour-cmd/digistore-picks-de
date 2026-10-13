@@ -4,16 +4,16 @@ digistore24_product_id: 439453
 title: "eBook Harz: Gold des Waldes"
 vendor: "ypsilon"
 product_type: "E-books"
-price: 18.85
+price: 18.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.42
+earnings_per_sale: 9.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2022-04-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ousuca.com/buecher/harz-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://ousuca.com/buecher/harz-ebook/"
@@ -22,16 +22,16 @@ language: "de"
 # eBook Harz: Gold des Waldes
 
 > Product ID `39832` · Digistore24 productId `439453` · [HTML profile page](../../produkte/ebook-harz-gold-des-waldes-39832.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.85 (Single payment) |
+| Price | $18.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.42 |
+| Earnings/sale* | $9.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ypsilon |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen. Bewerbe das eBook Harz: Gold des Waldes (25 Verwendungen für Naturtharz des SRSC-Survival-Onlineprogramms. Vorteile für Nutzer: Naturliebhaber, Bushcrafter, Wildnispädagogen lernen Baumharz von all seinen faszinierenden Seiten kennen. 25 verschiedenen Anwendungsmöglichkeiten von Baumha…
+**Vendor's marketplace description:** <p>Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen.</p>
+<p>Bewerbe das eBook <strong><em>Harz: Gold des Waldes (25 Verwendungen für Naturtharz</em></strong><em> des SRSC-Survival-Onlineprogramms.</em></p>
+<p><strong>Vorteile für Nutzer:</strong></p>
+<p>Naturliebhaber, Bushcrafter, Wildnispädagogen lernen Baumharz von all seinen faszinierenden Seiten kennen. 25 verschiedenen Anwendungsmöglichkeiten von Baumharz überraschen auch erfahrene Wildnisfreunde.</p>
+<p><strong>Deine Vorteile als Affiliate:</strong></p>
+<ul>
+<li>50 % für jeden Verkauf</li>
+<li>ousuca® SRSC Branding und somit hoher Wiedererkennungswert</li>
+<li>Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich</li>
+</ul>
+<p>Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Einzelkurse oder SRSC eBooks und Anleitungen und baue dir ein passives Einkommen auf.</p>
 
 ## 2. Links
 
@@ -75,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook Harz: Gold des Waldes? — Typ: E-books, Anbieter: ypsilon, gelistet seit 2022-04-19
-- Wie viel kostet es? — 18.848492 USD
+- Wie viel kostet es? — 18.806442 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

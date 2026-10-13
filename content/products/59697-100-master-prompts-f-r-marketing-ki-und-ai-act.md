@@ -4,34 +4,34 @@ digistore24_product_id: 649003
 title: "100 Master-Prompts für Marketing-KI und AI Act"
 vendor: "MindshiftDigitalStudio"
 product_type: "E-books"
-price: 103.68
+price: 103.45
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.11
+earnings_per_sale: 31.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/649003?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59697/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/649003"
 language: "de"
 ---
 # 100 Master-Prompts für Marketing-KI und AI Act
 
 > Product ID `59697` · Digistore24 productId `649003` · [HTML profile page](../../produkte/100-master-prompts-f-r-marketing-ki-und-ai-act-59697.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $103.68 (Single payment) |
+| Price | $103.45 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.11 |
+| Earnings/sale* | $31.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -41,11 +41,35 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** AI Act- & Urheberrechts-Compliance – 100 Master-Prompts für Marketing-KI Dieses digitale Produkt enthält 100 sofort nutzbare Master-Prompts im PDF-Format für Unternehmen, Agenturen und professionelle Marketing-Teams, die generative KI im täglichen Arbeitsablauf einsetzen. Die Prompts unterstützen bei der strukturierten Erstellung und Prüfung von KI-generierten Marketing-Inhalten und verbinden prak…
+**Vendor's marketplace description:** <p><strong>AI Act- &amp; Urheberrechts-Compliance – 100 Master-Prompts für Marketing-KI</strong></p>
+<p>Dieses digitale Produkt enthält <strong>100 sofort nutzbare Master-Prompts im PDF-Format</strong> für Unternehmen, Agenturen und professionelle Marketing-Teams, die generative KI im täglichen Arbeitsablauf einsetzen.</p>
+<p>Die Prompts unterstützen bei der strukturierten Erstellung und Prüfung von KI-generierten Marketing-Inhalten und verbinden praktische KI-Nutzung mit wichtigen Themen rund um <strong>EU AI Act, Urheberrecht, Markenrechte, Transparenz und Dokumentation</strong>.</p>
+<p><strong>Geeignet für:</strong></p>
+<ul>
+<li>Marketing- und Werbeagenturen</li>
+<li>kleine und mittlere Unternehmen</li>
+<li>Content- und Social-Media-Teams</li>
+<li>Online-Shops und digitale Anbieter</li>
+<li>Consultants, Coaches und Freelancer</li>
+<li>Inhouse-Marketing- und Compliance-Teams</li>
+</ul>
+<p><strong>Themenschwerpunkte:</strong></p>
+<ul>
+<li>EU AI Act &amp; Transparenzpflichten</li>
+<li>Urheberrecht und Lizenzprüfung</li>
+<li>Marken- und Bildrechte</li>
+<li>Marketing-Claims und Faktenchecks</li>
+<li>Plagiats- und Quellenprüfung</li>
+<li>Dokumentation und Audit-Vorbereitung</li>
+<li>interne KI-Regeln und Checklisten</li>
+<li>SEO-, Content- und Kampagnen-Workflows</li>
+</ul>
+<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales PDF mit 100 Master-Prompts</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
+<p>Ein klar positioniertes B2B-Produkt für Unternehmen und Agenturen, die KI professionell im Marketing einsetzen und gleichzeitig typische Compliance-, Urheberrechts- und Dokumentationsrisiken besser strukturieren möchten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/649003?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59697/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/649003
 - Canonical redirect: https://www.digistore24.com/redir/649003/adminstore
 
@@ -92,7 +116,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100 Master-Prompts für Marketing-KI und AI Act? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
-- Wie viel kostet es? — 103.677912 USD
+- Wie viel kostet es? — 103.446612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 125465
 title: "E-Book \"Einfach bewusst auf dem Jakobsweg\""
 vendor: "einfachbewusst"
 product_type: "Remote service provided electronically"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.82
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2017-03-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://www.einfachbewusst.de/jakobsweg-e-book/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/15675/adminstore/"
 sales_page: "http://www.einfachbewusst.de/jakobsweg-e-book/"
 language: "de"
 ---
 # E-Book "Einfach bewusst auf dem Jakobsweg"
 
 > Product ID `15675` · Digistore24 productId `125465` · [HTML profile page](../../produkte/e-book-einfach-bewusst-auf-dem-jakobsweg-15675.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 2904 km | 108 Tage | 32-Liter-Rucksack | 4 Länder | 2 Beine | 1 Ziel Ich erzähle in diesem liebevoll gestalteten E-Book in 108 Tagesberichten und 500 Fotos von meiner Pilgertour von Nürnberg nach Santiago de Compostela und Finisterre. Zahlreiche Statistiken, die Route auf einer Karte, eine Packliste sowie weitere Überraschungen gibt es obendrauf. Das E-Book hat als PDF über 400 Seiten und wird auc…
+**Vendor's marketplace description:** <h2>2904  km | 108 Tage | 32-Liter-Rucksack | 4 Länder | 2 Beine | 1 Ziel</h2>
+<p>Ich erzähle in diesem liebevoll gestalteten E-Book in <strong>108 Tagesberichten und 500 Fotos</strong> von meiner Pilgertour von <strong>Nürnberg nach Santiago de Compostela</strong> und Finisterre.</p>
+<p>Zahlreiche <strong>Statistiken</strong>, <strong>die Route</strong> auf einer Karte, <strong>eine Packliste</strong> sowie weitere Überraschungen gibt es obendrauf.</p>
+<p>Das E-Book hat als <strong>PDF über 400 Seiten</strong> und wird auch in den Formaten <strong>EPUB, MOBI und AZW3</strong> für alle handelsüblichen E-Reader bereitgestellt.</p>
+<p><em>Bewerbe mein Produkt und bekomme <strong>30 % Provision</strong>.</em></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.einfachbewusst.de/jakobsweg-e-book/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/15675/adminstore/
 - Sales page: http://www.einfachbewusst.de/jakobsweg-e-book/
 - Canonical redirect: https://www.digistore24.com/redir/125465/adminstore
 
@@ -93,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book "Einfach bewusst auf dem Jakobsweg"? — Typ: Remote service provided electronically, Anbieter: einfachbewusst, gelistet seit 2017-03-14
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

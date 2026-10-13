@@ -4,34 +4,34 @@ digistore24_product_id: 667281
 title: "Leben im Wohnmobil E-Book"
 vendor: "travel-writer"
 product_type: "E-books"
-price: 10.42
+price: 10.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.21
+earnings_per_sale: 5.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Travel & Culture"]
 listed_since: "2026-02-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/667281?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55519/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/667281"
 language: "de"
 ---
 # Leben im Wohnmobil E-Book
 
 > Product ID `55519` · Digistore24 productId `667281` · [HTML profile page](../../produkte/leben-im-wohnmobil-e-book-55519.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.42 (Single payment) |
+| Price | $10.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.21 |
+| Earnings/sale* | $5.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | travel-writer |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Leben im Wohnmobil – eine ehrliche Entscheidungsgrundlage (E-Book) Dieses E-Book richtet sich an Menschen, die überlegen, dauerhaft oder längerfristig im Wohnmobil zu leben –und sich dafür eine realistische, ruhige Entscheidungsbasis wünschen. Chris & Carmen leben selbst seit mehreren Jahren im Wohnmobil, parallel zu einem regulären Hauptjob.Das Buch zeigt keine idealisierte Vanlife-Welt, sondern …
+**Vendor's marketplace description:** <p><strong>Leben im Wohnmobil – eine ehrliche Entscheidungsgrundlage (E-Book)</strong></p>
+<p>Dieses E-Book richtet sich an Menschen, die überlegen, dauerhaft oder längerfristig im Wohnmobil zu leben –<br />und sich dafür eine realistische, ruhige Entscheidungsbasis wünschen.</p>
+<p>Chris &amp; Carmen leben selbst seit mehreren Jahren im Wohnmobil, parallel zu einem regulären Hauptjob.<br />Das Buch zeigt keine idealisierte Vanlife-Welt, sondern beleuchtet den Alltag:<br />Organisation, Arbeit, Technik, Finanzen, Routinen und persönliche Grenzen.</p>
+<p>Das E-Book ist kein klassischer Ratgeber und enthält keine Versprechen,<br />sondern hilft dabei, Gedanken zu ordnen und eine bewusste Entscheidung zu treffen –<br />egal, ob das Ergebnis ein Ja, ein Nein oder ein „noch nicht“ ist.</p>
+<p><strong>Lieferumfang:</strong><br />– 1 digitales E-Book (PDF)<br />– sofortiger Download nach dem Kauf</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/667281?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55519/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/667281
 - Vendor affiliate support: https://travel-writer.life/wohnmobil-affiliate-programm-50-provision/
 - Canonical redirect: https://www.digistore24.com/redir/667281/adminstore
@@ -72,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Leben im Wohnmobil E-Book? — Typ: E-books, Anbieter: travel-writer, gelistet seit 2026-02-07
-- Wie viel kostet es? — 10.42158 USD
+- Wie viel kostet es? — 10.398330000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -7,22 +7,22 @@ product_type: "Member area and video courses"
 price: 0.19
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 8.39
+earnings_per_sale: 8.37
 cart_conversion_pct: 40
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-04-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.meinneuerlifestyle.vip/geheime-ki-strategien/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47783/adminstore/"
 sales_page: "https://www.meinneuerlifestyle.vip/geheime-ki-strategien/"
 language: "de"
 ---
 # KI Cash Secrets
 
 > Product ID `47783` · Digistore24 productId `547805` · [HTML profile page](../../produkte/ki-cash-secrets-47783.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Member area and video courses |
 | Price | $0.19 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $8.39 |
+| Earnings/sale* | $8.37 |
 | Cart conversion* | 40% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe den Kurs: KI CASH SECRETS Das bekommt Deine Community ✅ Geheime KI Strategien um Geld zu verdienen ✅ Mit den besten KI Tools zur automatisierung ✅ Als Bonus bekommt Deine Community den Zugang zu unserem Mitgliederbereich und dadurch den Zugriff auf kostenfreie Kurse (Canva, Etsy, KI usw...) Dich erwarten 50% Provision und im Upsell Bereich bis zu 117 Euro Provisionen
+**Vendor's marketplace description:** <div><span style="background-color:#ffff00;"><strong><em>Bewerbe den Kurs: KI CASH SECRETS</em></strong></span></div>
+<div> </div>
+<div><strong>Das bekommt Deine Community</strong></div>
+<div>
+<p><strong><em>✅  Geheime KI Strategien um Geld zu verdienen</em></strong></p>
+<p><strong><em>✅ </em> Mit den besten KI Tools zur automatisierung</strong></p>
+<p><strong><em>✅  </em>Als Bonus bekommt Deine Community den Zugang zu unserem Mitgliederbereich und dadurch den Zugriff auf kostenfreie Kurse (Canva, Etsy, KI usw...)</strong></p>
+<p> </p>
+<p><strong>Dich erwarten 50% Provision und im Upsell Bereich bis zu 117 Euro Provisionen</strong></p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/geheime-ki-strategien/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47783/adminstore/
 - Sales page: https://www.meinneuerlifestyle.vip/geheime-ki-strategien/
 - Canonical redirect: https://www.digistore24.com/redir/547805/adminstore
 
@@ -58,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Cash Secrets? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-04-11
-- Wie viel kostet es? — 0.19050200000000003 USD
+- Wie viel kostet es? — 0.19007700000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

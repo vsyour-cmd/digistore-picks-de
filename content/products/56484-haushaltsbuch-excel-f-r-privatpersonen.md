@@ -4,16 +4,16 @@ digistore24_product_id: 690735
 title: "Haushaltsbuch Excel für Privatpersonen"
 vendor: "BloomGeneration"
 product_type: "Downloads"
-price: 7.44
+price: 7.42
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.72
+earnings_per_sale: 3.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-05-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/690735?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/690735"
@@ -22,16 +22,16 @@ language: "de"
 # Haushaltsbuch Excel für Privatpersonen
 
 > Product ID `56484` · Digistore24 productId `690735` · [HTML profile page](../../produkte/haushaltsbuch-excel-f-r-privatpersonen-56484.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.44 (Single payment) |
+| Price | $7.42 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.72 |
+| Earnings/sale* | $3.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BloomGeneration |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digitales Haushaltsbuch für Privatpersonen und Familien in Deutschland. Excel-Vorlage für , funktioniert in Excel, LibreOffice und Google Sheets. Highlights: 12 Monatsblätter mit automatischer Auswertung Sparziel-Tracking mit Fortschrittsanzeige Fixkosten-Übersicht (einmal eintragen – nie wieder vergessen) Jahresbilanz wird automatisch berechnet Attraktive Provision · 180 Tage Cookie · Sofort-Down…
+**Vendor's marketplace description:** <p>Digitales Haushaltsbuch für Privatpersonen und Familien in Deutschland. Excel-Vorlage für , funktioniert in Excel, LibreOffice und Google Sheets.</p>
+<p><strong>Highlights:</strong></p>
+<ul>
+<li>12 Monatsblätter mit automatischer Auswertung</li>
+<li>Sparziel-Tracking mit Fortschrittsanzeige</li>
+<li>Fixkosten-Übersicht (einmal eintragen – nie wieder vergessen)</li>
+<li>Jahresbilanz wird automatisch berechnet</li>
+</ul>
+<p><strong>Attraktive Provision</strong> · 180 Tage Cookie · Sofort-Download · Niedrige Stornoquote</p>
+<p>Fertige Werbemittel und alle Infos: <a href="https://partner.bloomgeneration.de">partner.bloomgeneration.de</a></p>
 
 ## 2. Links
 
@@ -72,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Haushaltsbuch Excel für Privatpersonen? — Typ: Downloads, Anbieter: BloomGeneration, gelistet seit 2026-05-06
-- Wie viel kostet es? — 7.440784 USD
+- Wie viel kostet es? — 7.424184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

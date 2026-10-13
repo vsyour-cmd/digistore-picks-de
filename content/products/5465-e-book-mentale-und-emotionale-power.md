@@ -4,16 +4,16 @@ digistore24_product_id: 37771
 title: "E-Book \"Mentale und emotionale Power\""
 vendor: "juergenzwickel"
 product_type: "Downloads"
-price: 18.55
+price: 18.5
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 12.99
+earnings_per_sale: 12.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2014-12-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.691108.juergenzwickel.com/ebookvk?aff=adminstore#aff=adminstore"
 sales_page: "http://www.691108.juergenzwickel.com/ebookvk"
@@ -22,16 +22,16 @@ language: "de"
 # E-Book "Mentale und emotionale Power"
 
 > Product ID `5465` · Digistore24 productId `37771` · [HTML profile page](../../produkte/e-book-mentale-und-emotionale-power-5465.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.55 (Single payment) |
+| Price | $18.50 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $12.99 |
+| Earnings/sale* | $12.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | juergenzwickel |
@@ -41,7 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Inspirierendes E-Book "Mentale und emotionale Power für körperliches Wohlbefinden und körperliche Fitness" Vielen Menschen wollen an Gewicht verlieren oder körperlich fitter werden und schaffen es dennoch nicht. Warum? Ich habe es in vielen Versuchen und vielen Studien herausgefunden. Die meisten Menschen verstehen nicht, dass ihr Gewicht das Ergebnis ihres täglichen Handelns ist und nicht die Urs…
+**Vendor's marketplace description:** <p><strong>Inspirierendes E-Book "Mentale und emotionale Power für körperliches Wohlbefinden und körperliche Fitness"</strong></p>
+<p> </p>
+<p>Vielen Menschen wollen an Gewicht verlieren oder körperlich fitter werden und schaffen es dennoch nicht.</p>
+<p> </p>
+<p><strong>Warum?</strong></p>
+<p>Ich habe es in vielen Versuchen und vielen Studien herausgefunden. Die meisten Menschen verstehen nicht, dass ihr Gewicht das Ergebnis ihres täglichen Handelns ist und nicht die Ursache. Das Gewicht ist das Symptom, und nicht die Ursache.</p>
+<p> </p>
+<p><strong>Es geht nämlich vordergründig nicht um das Gewicht, sondern um Dich selbst. Das Gewicht ist die Spiegelung der inneren Entwicklung.</strong></p>
+<p> </p>
+<p>Deshalb ist es wichtig:</p>
+<p>Sich nicht um sein Gewicht, sondern um sich selbst zu kümmern. Nicht das Gewicht, sondern zu allererst das Denken, den mentalen und emotionalen Zustand zu verbessern. Wenn mentale Programmierungen geändert werden, kommt auch nach und nach ein körperliches Wohlbefinden und eine bessere körperliche Fitness zu Stande.</p>
+<p>Wer körperliche Fitness aufbauen, an Gewicht verlieren will und ein besseres körperliches Wohlbefinden haben will braucht das starke Fundament der wirksamen Selbstmotivation, der mentalen und emotionalen Power.</p>
+<p> </p>
+<p><strong>Deshalb lernen die Leser in diesem E-Book:</strong></p>
+<p><em>Ihren eigenen Weg laserscharf festzulegen und zu kennen.</em></p>
+<p><em>Wie sie den inneren Schweinehund zähmen und überwinden können.</em></p>
+<p><em>Wie sie eine starke Selbstdisziplin aufbauen und auch das tun was sie wirklich tun wollen.</em></p>
+<p><em>Wie sie eine richtige und auch erfolgreiche Motivation aufbauen.</em></p>
+<p><em>30 Gründe, warum sich ein besseres Körpergefühl und körperliche Fitness lohnen.</em></p>
+<p><em>Persönlich klar sein und klar werden sowie ein starkes persönliches Commitment aufzubauen.</em></p>
+<p> </p>
+<p>Bei meiner eigenen körperlichen "Optimierung" habe ich das für mich vor einigen Jahren alles berücksichtigt und habe es so geschafft, in einigen Monaten fast 20 Kilogramm zu verlieren und einige Zeit später sogar meinen ersten Marathon zu laufen.</p>
+<p> </p>
+<p>Denn wer immer körperlich fitter und ein körperlich besseres Wohlgefühl haben will der braucht als Grundlage dafür die drei wesentlichen Bausteine: <strong>Wirksame Motivation, mentale und emotionale Power.</strong></p>
 
 ## 2. Links
 
@@ -80,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Book "Mentale und emotionale Power"? — Typ: Downloads, Anbieter: juergenzwickel, gelistet seit 2014-12-01
-- Wie viel kostet es? — 18.545930000000002 USD
+- Wie viel kostet es? — 18.504555000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 88809
 title: "Das Thema mit der Leine"
 vendor: "khaphom5"
 product_type: "Webinar"
-price: 28.24
+price: 28.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.12
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2016-07-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://rheinische-hundeschule.de/Start/das-thema-mit-der-leine/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12589/adminstore/"
 sales_page: "https://rheinische-hundeschule.de/Start/das-thema-mit-der-leine/"
 language: "de"
 ---
 # Das Thema mit der Leine
 
 > Product ID `12589` · Digistore24 productId `88809` · [HTML profile page](../../produkte/das-thema-mit-der-leine-12589.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $28.24 (Single payment) |
+| Price | $28.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.12 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | khaphom5 |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Leine ist eine „never ending story“. Wir kommen in unserer Gesellschaft nicht drum herum, aber sie ist uns immer lästig und birgt in der Regel viele Probleme. – Der Hund zieht an der leine – Er beißt immer rein – Er bellt an der Leine andere Hunde an – Er ist an der Leine kaum zu halten In diesem Webinar habe ich Dir einen kompletten Workshop zusammengestellt. Es gibt einen ausführlichen Theor…
+**Vendor's marketplace description:** <h3>Die Leine ist eine „never ending story“.</h3>
+<p>Wir kommen in unserer Gesellschaft nicht drum herum, aber sie ist uns immer lästig und birgt in der Regel viele Probleme.<br /> – Der Hund zieht an der leine<br /> – Er beißt immer rein<br /> – Er bellt an der Leine andere Hunde an<br /> – Er ist an der Leine kaum zu halten</p>
+<h3>In diesem Webinar habe ich Dir einen kompletten Workshop zusammengestellt.</h3>
+<p>Es gibt einen ausführlichen Theorieteil und 6 Trainingsvideos mit unterschiedlichen Hunden, die auch alle einen unterschiedlichen Stand in der Beziehung mit Ihrem Menschen haben. So kannst Du sehen, wie die Entwicklung in der Mensch-Hund Beziehung sich auch in der Leinenführung wiederspiegelt.</p>
+<p>Es wird ausführlich die Ursache für das „an der Leine ziehen“ behandelt, ebenso das optimale Material besprochen, sowie Umgang und Technik mit der Leine gezeigt.</p>
+<p>Das Webinar ist für alle, die noch an der Leinenführung mit Ihrem Hund arbeiten wollen. In 2 Stunden und 16 Minuten erfährst Du viel über das Thema Leine, siehst Du Starter-Teams und Mensch-Hund Teams, die schon sehr gefestigt in ihrer Beziehung sind.</p>
+<p>Es hat mir sehr viel Spaß gemacht, diese Informationen und Trainingsvideos für Dich zusammenzustellen. Ich wünsche Dir viel Spaß beim Ansehen und Anhören.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://rheinische-hundeschule.de/Start/das-thema-mit-der-leine/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12589/adminstore/
 - Sales page: https://rheinische-hundeschule.de/Start/das-thema-mit-der-leine/
 - Canonical redirect: https://www.digistore24.com/redir/88809/adminstore
 
@@ -81,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Thema mit der Leine? — Typ: Webinar, Anbieter: khaphom5, gelistet seit 2016-07-23
-- Wie viel kostet es? — 28.23912 USD
+- Wie viel kostet es? — 28.17612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

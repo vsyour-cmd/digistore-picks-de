@@ -4,16 +4,16 @@ digistore24_product_id: 731126
 title: "1:1-Intensivbegleitung für mentale Gesundheit – von Coachin"
 vendor: "SonjaHolzweiler"
 product_type: "Online coaching"
-price: 2635.76
+price: 2629.88
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 527.15
+earnings_per_sale: 525.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/731126/adminstore"
 sales_page: "https://sonja-holzweiler.de/#preise"
@@ -22,16 +22,16 @@ language: "de"
 # 1:1-Intensivbegleitung für mentale Gesundheit – von Coachin
 
 > Product ID `59698` · Digistore24 productId `731126` · [HTML profile page](../../produkte/1-1-intensivbegleitung-f-r-mentale-gesundheit-von-coachin-59698.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $2635.76 (Single payment, Installment) |
+| Price | $2629.88 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $527.15 |
+| Earnings/sale* | $525.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SonjaHolzweiler |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Persönliche 1:1-Intensivbegleitung für Menschen, die sich erschöpft, verloren oder fremd im eigenen Leben fühlen – und den Weg zurück zu sich selbst gehen möchten. Coachin und Autorin Sonja Maria Holzweiler (wingwave®, EFT) begleitet über 3 Monate hinweg zu mehr innerer Ruhe, Klarheit und Kraft. Autorin des in drei Sprachen erschienenen Buchs „Als ich nicht mehr sprach, war alles gesagt". Zwei Var…
+**Vendor's marketplace description:** <p>Persönliche 1:1-Intensivbegleitung für Menschen, die sich erschöpft, verloren oder fremd im eigenen Leben fühlen – und den Weg zurück zu sich selbst gehen möchten. Coachin und Autorin Sonja Maria Holzweiler (wingwave®, EFT) begleitet über 3 Monate hinweg zu mehr innerer Ruhe, Klarheit und Kraft. Autorin des in drei Sprachen erschienenen Buchs „Als ich nicht mehr sprach, war alles gesagt".</p>
+<p>Zwei Varianten – je nach Tiefe der Begleitung:<br />- Intensivprogramm, 3 Monate (2.666 €)<br />- Intensivbegleitung, 6 Monate (4.999 €)</p>
+<p>Für Affiliates: ein hochwertiges, seriöses Premium-Angebot mit echtem Transformationsversprechen und warmer Marke – ideal für Kanäle rund um Persönlichkeitsentwicklung, Achtsamkeit, Spiritualität und mentale Gesundheit. 20 % Provision pro Verkauf.</p>
 
 ## 2. Links
 
@@ -91,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1:1-Intensivbegleitung für mentale Gesundheit – von Coachin? — Typ: Online coaching, Anbieter: SonjaHolzweiler, gelistet seit 2026-09-25
-- Wie viel kostet es? — 2635.76326 USD
+- Wie viel kostet es? — 2629.88301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

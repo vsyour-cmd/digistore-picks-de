@@ -4,34 +4,34 @@ digistore24_product_id: 708732
 title: "Vorsorgevollmacht und Patientenverfügung leicht gemacht"
 vendor: "ratgeberleichtgemacht"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 8.34
+earnings_per_sale: 8.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/708732?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60315/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/708732"
 language: "de"
 ---
 # Vorsorgevollmacht und Patientenverfügung leicht gemacht
 
 > Product ID `60315` · Digistore24 productId `708732` · [HTML profile page](../../produkte/vorsorgevollmacht-und-patientenverf-gung-leicht-gemacht-60315.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $8.34 |
+| Earnings/sale* | $8.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ratgeberleichtgemacht |
@@ -41,11 +41,35 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Ehepartner und Kinder dürfen nicht automatisch entscheiden. Der Ratgeber erklärt Vorsorgevollmacht und Patientenverfügung in einfacher Sprache und enthält die Formulare dazu. Die Zielgruppe Menschen ab 50, die vorsorgen wollen Paare und Familien, die…
+**Vendor's marketplace description:** <h4>Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen</h4>
+<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
+<p><strong>Das Produkt</strong></p>
+<p>Ehepartner und Kinder dürfen nicht automatisch entscheiden. Der Ratgeber erklärt Vorsorgevollmacht und Patientenverfügung in einfacher Sprache und enthält die <strong>Formulare</strong> dazu.</p>
+<p><strong>Die Zielgruppe</strong></p>
+<ul>
+<li>Menschen ab 50, die vorsorgen wollen</li>
+<li>Paare und Familien, die sich gegenseitig absichern möchten</li>
+<li>Angehörige, die für ihre Eltern vorsorgen</li>
+</ul>
+<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
+<ul>
+<li><strong>Klarer Kaufanlass:</strong> Ein Krankheitsfall in der Familie oder ein runder Geburtstag</li>
+<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
+<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
+<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
+<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Rente, Krankenkasse, KI für Senioren) werden automatisch für Sie freigeschaltet</li>
+</ul>
+<p><strong>Wichtige Werbehinweise</strong></p>
+<ul>
+<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
+<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
+<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
+<li><strong>Kein Spam</strong></li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/708732?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60315/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/708732
 - Canonical redirect: https://www.digistore24.com/redir/708732/adminstore
 
@@ -79,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vorsorgevollmacht und Patientenverfügung leicht gemacht? — Typ: E-books, Anbieter: ratgeberleichtgemacht, gelistet seit 2026-10-07
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

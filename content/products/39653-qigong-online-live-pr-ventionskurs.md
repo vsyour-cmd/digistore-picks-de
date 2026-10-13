@@ -4,34 +4,34 @@ digistore24_product_id: 391836
 title: "Qigong Online Live Präventionskurs"
 vendor: "DirkOrt"
 product_type: "Member area and video courses"
-price: 103.59
+price: 103.36
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.37
+earnings_per_sale: 35.29
 cart_conversion_pct: 6
 cancel_rate_pct: 4.65
 categories: ["Health & Fitness"]
 listed_since: "2021-05-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://onlineakademie.taichibewegt.de/lp/gesundheitsschuetzendes-qigong-online-kurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39653/adminstore/"
 sales_page: "https://onlineakademie.taichibewegt.de/lp/gesundheitsschuetzendes-qigong-online-kurs/"
 language: "de"
 ---
 # Qigong Online Live Präventionskurs
 
 > Product ID `39653` · Digistore24 productId `391836` · [HTML profile page](../../produkte/qigong-online-live-pr-ventionskurs-39653.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $103.59 (Single payment) |
+| Price | $103.36 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.37 |
+| Earnings/sale* | $35.29 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.65% |
 | Vendor | DirkOrt |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Jetzt endlich! Anerkannter Qigong Live Online Präventionskurs. In diesem Kurs werden gesunde Bewegungen vermittelt. Teilnehmende am Kurs lernen besser mit Stressbelastungen umzugehen und verbessern den allgemeinen Gesundheitszustand. Die Kursstunden werden professionell begleitet und durchgeführt. Gute Kameraqualität und Tonqualität bei der Übertragung. Die Krankenkassen erstatten bis zu 100% der …
+**Vendor's marketplace description:** <p><strong>Jetzt endlich! Anerkannter Qigong Live Online Präventionskurs.</strong> <br />In diesem Kurs werden gesunde Bewegungen vermittelt. Teilnehmende am Kurs lernen besser mit Stressbelastungen umzugehen und verbessern den allgemeinen Gesundheitszustand. <br />Die Kursstunden werden professionell begleitet und durchgeführt. Gute Kameraqualität und Tonqualität bei der Übertragung. <br />Die Krankenkassen erstatten bis zu 100% der Kosten für die Teilnehmenden.<br />Kurs wird in 10 Kurseinheiten à 60 Minuten vermittelt.</p>
+<p>An dem Qigong Kurs kann jede und jeder ohne Vorerfahrung teilnehmen.<br />Kursteilnehmende werden betreut und können jederzeit Fragen stellen.</p>
+<p>Durchgeführt wird der Kurs von Tai Chi bewegt. Tai Chi und Qigong Schule in Frankfurt am Main mit wachsendem Onlineangebot.</p>
+<div> Kosten 110 €. 30% Provision</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://onlineakademie.taichibewegt.de/lp/gesundheitsschuetzendes-qigong-online-kurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39653/adminstore/
 - Sales page: https://onlineakademie.taichibewegt.de/lp/gesundheitsschuetzendes-qigong-online-kurs/
 - Canonical redirect: https://www.digistore24.com/redir/391836/adminstore
 
@@ -89,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Qigong Online Live Präventionskurs? — Typ: Member area and video courses, Anbieter: DirkOrt, gelistet seit 2021-05-27
-- Wie viel kostet es? — 103.588264 USD
+- Wie viel kostet es? — 103.35716400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

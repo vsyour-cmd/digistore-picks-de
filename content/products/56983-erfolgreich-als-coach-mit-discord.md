@@ -4,34 +4,34 @@ digistore24_product_id: 701403
 title: "Erfolgreich als Coach mit Discord"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-discord?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56983/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-discord"
 language: "de"
 ---
 # Erfolgreich als Coach mit Discord
 
 > Product ID `56983` · Digistore24 productId `701403` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-discord-56983.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du auf Discord eine engagierte Kunden-Community aufbaust und Wissen profitabel verkaufst Als Coach lebt dein Business von Vertrauen und Gemeinschaft – und Discord bietet dafür die ideale Infrastruktur. Dieses E-Book zeigt dir, wie du einen Premium-Community-Server aufbaust, der dein Angebot täglich erlebbar macht: von exklusiven Coaching-Channels und strukturierten Lernbereichen über monatlich…
+**Vendor's marketplace description:** <p><strong>Wie du auf Discord eine engagierte Kunden-Community aufbaust und Wissen profitabel verkaufst</strong></p>
+<p>Als Coach lebt dein Business von Vertrauen und Gemeinschaft – und Discord bietet dafür die ideale Infrastruktur. Dieses E-Book zeigt dir, wie du einen Premium-Community-Server aufbaust, der dein Angebot täglich erlebbar macht: von exklusiven Coaching-Channels und strukturierten Lernbereichen über monatliche Stage-Calls bis hin zu Server-Abos als wiederkehrendem Umsatz. Du lernst, wie du dein Onboarding so gestaltest, dass neue Kunden sofort Mehrwert spüren, wie Bots Verwaltungsaufwand reduzieren und wie du externen Traffic aus Podcast, Social Media und E-Mail gezielt in deinen Server leitest. Nach diesem E-Book hast du kein zufälliges Community-Experiment, sondern ein durchdachtes System, das deinen Kalender mit qualifizierten Erstgesprächen füllt.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Premium-Community-Server aufbauen, der dein Angebot täglich erlebbar macht</li>
+<li>Coaching-Channels, Lernbereiche und Stage-Calls sinnvoll strukturieren</li>
+<li>Server-Abos einrichten und als wiederkehrende Einnahmequelle nutzen</li>
+<li>Onboarding, das neue Kunden sofort Mehrwert spüren lässt</li>
+<li>Bots zur Automatisierung einsetzen und Verwaltungsaufwand reduzieren</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-discord?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56983/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-discord
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701403/adminstore
@@ -99,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit Discord? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

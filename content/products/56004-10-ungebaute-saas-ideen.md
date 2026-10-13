@@ -4,16 +4,16 @@ digistore24_product_id: 674483
 title: "10 ungebaute SaaS-Ideen"
 vendor: "BeLitForYou"
 product_type: "Downloads"
-price: 63.09
+price: 62.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.54
+earnings_per_sale: 31.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-03-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.saas-vault.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.saas-vault.de"
@@ -22,16 +22,16 @@ language: "de"
 # 10 ungebaute SaaS-Ideen
 
 > Product ID `56004` · Digistore24 productId `674483` · [HTML profile page](../../produkte/10-ungebaute-saas-ideen-56004.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $63.09 (Single payment) |
+| Price | $62.95 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.54 |
+| Earnings/sale* | $31.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BeLitForYou |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verdiene 50 % Provision mit dem perfekten Produkt für Programmierer, Entwickler und Solopreneure! Auf saas-vault.de verkaufen wir ein exklusives Informationsprodukt: 10 vollständig ausgearbeitete SaaS-Ideen für den DACH-Markt. Keine wage Theorie, sondern echte Baupläne. Jedes der 10 Pakete enthält: Einen fertigen Businessplan (Word) Eine einsatzbereite Landing Page (HTML) Eine 24-Monats-Kostenkalk…
+**Vendor's marketplace description:** <p style="text-align:center;"><strong>Verdiene 50 % Provision mit dem perfekten Produkt für Programmierer, Entwickler und Solopreneure!</strong></p>
+<p>Auf saas-vault.de verkaufen wir ein exklusives Informationsprodukt: 10 vollständig ausgearbeitete SaaS-Ideen für den DACH-Markt. Keine wage Theorie, sondern echte Baupläne.</p>
+<p><strong>Jedes der 10 Pakete enthält:</strong></p>
+<ul>
+<li>
+<p>Einen fertigen Businessplan (Word)</p>
+</li>
+<li>
+<p>Eine einsatzbereite Landing Page (HTML)</p>
+</li>
+<li>
+<p>Eine 24-Monats-Kostenkalkulation (Excel)</p>
+</li>
+<li>
+<p>Tech-Stack &amp; Roadmap</p>
+</li>
+</ul>
+<p><strong>Dein Vorteil als Affiliate:</strong> Die Zielgruppe hat einen extrem hohen Schmerz (sie wollen bauen, haben aber keine profitable Idee). Unser Produkt überspringt diesen Schmerz. 0 € Funding nötig, sofort baubar. Das Produkt konvertiert hervorragend und bietet dir sehr lukrative Provisionen (Verkaufspreise: 47 € Standard / 67 € Resell).</p>
 
 ## 2. Links
 
@@ -84,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 ungebaute SaaS-Ideen? — Typ: Downloads, Anbieter: BeLitForYou, gelistet seit 2026-03-07
-- Wie viel kostet es? — 63.08978 USD
+- Wie viel kostet es? — 62.94903 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 725111
 title: "Der Fels im Sturm – Stoische Stärke für den modernen Alltag"
 vendor: "urkraftmindset"
 product_type: "Downloads"
-price: 28.16
+price: 28.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://urkraftmindset.ch/der-fels-im-sturm/?aff=adminstore#aff=adminstore"
 sales_page: "https://urkraftmindset.ch/der-fels-im-sturm/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Fels im Sturm – Stoische Stärke für den modernen Alltag
 
 > Product ID `59000` · Digistore24 productId `725111` · [HTML profile page](../../produkte/der-fels-im-sturm-stoische-st-rke-f-r-den-modernen-alltag-59000.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.16 (Single payment) |
+| Price | $28.10 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | urkraftmindset |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochwertiges digitales Stoizismus-Angebot für die wachsende Zielgruppe rund um Resilienz, mentale Stärke, Gelassenheit und persönliche Entwicklung. „Der Fels im Sturm“ begleitet Menschen über 30 Tage dabei, stoische Prinzipien praktisch in ihren Alltag zu übertragen – verständlich, modern und ohne philosophische Vorkenntnisse. Zwei Produktvarianten für unterschiedliche Bedürfnisse: • „Der Fels…
+**Vendor's marketplace description:** <p><strong>Ein hochwertiges digitales Stoizismus-Angebot für die wachsende Zielgruppe rund um Resilienz, mentale Stärke, Gelassenheit und persönliche Entwicklung.</strong></p>
+<p>„Der Fels im Sturm“ begleitet Menschen über 30 Tage dabei, stoische Prinzipien praktisch in ihren Alltag zu übertragen – verständlich, modern und ohne philosophische Vorkenntnisse.</p>
+<p><strong>Zwei Produktvarianten für unterschiedliche Bedürfnisse:</strong></p>
+<p>• <strong>„Der Fels im Sturm“</strong> als Basisversion für die strukturierte 30-Tage-Begleitung<br />• <strong>„Der Fels im Sturm – Die vollständige Praxisbegleitung“</strong> als umfangreichere Variante mit zusätzlichen Praxisinhalten</p>
+<p>Beide Varianten werden auf derselben professionellen Verkaufsseite angeboten und können von Affiliates beworben werden.</p>
+<p><strong>Das erwartet deine Zielgruppe:</strong></p>
+<p>• praxisnaher moderner Stoizismus statt trockener Theorie<br />• strukturierte 30-Tage-Begleitung<br />• konkrete Übungen und Reflexionsimpulse<br />• professionell gestaltete digitale Unterlagen<br />• sofortiger Zugriff nach dem Kauf</p>
+<p><strong>Deine Vorteile als Affiliate:</strong></p>
+<p>• <strong>50 % Affiliate-Provision</strong><br />• zwei Produktvarianten auf einer gemeinsamen Verkaufsseite<br />• klar definierte Zielgruppe im Bereich Persönlichkeitsentwicklung, Mindset und Stoizismus<br />• professionelle Verkaufsseite<br />• fertige Werbemittel und Textvorlagen<br />• geeignet für Blogs, Newsletter, YouTube, Instagram, TikTok und Pinterest<br />• weitere UrkraftMindset-Produkte ermöglichen zusätzliche Cross-Selling-Potenziale</p>
+<p>Besonders interessant für Affiliates mit Zielgruppen aus den Bereichen <strong>Persönlichkeitsentwicklung, Mindset, Resilienz, Selbstführung, Philosophie und Stoizismus</strong>.</p>
+<p><strong>Du erhältst von uns fertige Werbemittel, damit du direkt mit der Bewerbung starten kannst.</strong></p>
 
 ## 2. Links
 
@@ -105,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Fels im Sturm – Stoische Stärke für den modernen Alltag? — Typ: Downloads, Anbieter: urkraftmindset, gelistet seit 2026-09-07
-- Wie viel kostet es? — 28.160678 USD
+- Wie viel kostet es? — 28.097853 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 733066
 title: "52 Fragen zur Selbstreflexion – Digitales Workbook"
 vendor: "melanieschimmelpfenn5c4f"
 product_type: "Downloads"
-price: 34.84
+price: 18.69
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.94
+earnings_per_sale: 7.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/733066?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/733066"
@@ -22,16 +22,16 @@ language: "de"
 # 52 Fragen zur Selbstreflexion – Digitales Workbook
 
 > Product ID `59302` · Digistore24 productId `733066` · [HTML profile page](../../produkte/52-fragen-zur-selbstreflexion-digitales-workbook-59302.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $18.69 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.94 |
+| Earnings/sale* | $7.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | melanieschimmelpfenn5c4f |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 52 Fragen zur Selbstreflexion – Digitales Workbook Dieses digitale Workbook richtet sich an Menschen, die sich selbst bewusster mit ihrem Leben, ihren Wünschen und ihren persönlichen Möglichkeiten auseinandersetzen möchten. 52 sorgfältig entwickelte Fragen laden dazu ein, innezuhalten, ehrlich über sich selbst nachzudenken und neue Perspektiven auf das eigene Leben zu entdecken. Das Workbook eigne…
+**Vendor's marketplace description:** <p>52 Fragen zur Selbstreflexion – Digitales Workbook</p>
+<p>Dieses digitale Workbook richtet sich an Menschen, die sich selbst bewusster mit ihrem Leben, ihren Wünschen und ihren persönlichen Möglichkeiten auseinandersetzen möchten.</p>
+<p>52 sorgfältig entwickelte Fragen laden dazu ein, innezuhalten, ehrlich über sich selbst nachzudenken und neue Perspektiven auf das eigene Leben zu entdecken.</p>
+<p>Das Workbook eignet sich besonders für Menschen, die sich mit Themen wie Selbstreflexion, persönlicher Entwicklung, Veränderung, eigenen Wünschen und neuen Lebenswegen beschäftigen.</p>
+<p>Das Produkt: • 52 Selbstreflexionsfragen</p>
+<p> digitales Workbook als PDF</p>
+<p> für die persönliche Nutzung</p>
+<p>sofort digital nutzbar</p>
+<p>Geeignete Themen für die Bewerbung: Selbstreflexion, Persönlichkeitsentwicklung, persönliche Veränderung, Klarheit, Wünsche, Lebensziele, Neuanfang und bewusste Lebensgestaltung.</p>
+<p>Weitere Themen und Suchbegriffe:</p>
+<p>Selbstreflexion, persönliche Entwicklung, Persönlichkeitsentwicklung, Klarheit, Wünsche, Bedürfnisse, Lebensziele, Veränderung, Neuanfang, neue Lebenswege und bewusste Lebensgestaltung.</p>
+<p> </p>
+<p>Das Workbook richtet sich an Menschen, die sich intensiver mit sich selbst, ihrem Leben und ihren persönlichen Möglichkeiten auseinandersetzen möchten.</p>
+<p>Das Workbook kann unabhängig vom eigenen Standort und vollständig digital genutzt werden.</p>
 
 ## 2. Links
 
@@ -79,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 52 Fragen zur Selbstreflexion – Digitales Workbook? — Typ: Downloads, Anbieter: melanieschimmelpfenn5c4f, gelistet seit 2026-09-17
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 18.694632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

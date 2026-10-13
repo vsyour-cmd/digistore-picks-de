@@ -4,34 +4,34 @@ digistore24_product_id: 680424
 title: "Diamond Hands Kurs"
 vendor: "Loewin999"
 product_type: "Member area and video courses"
-price: 734.51
+price: 732.87
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 110.18
+earnings_per_sale: 109.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://marinathomsen.de/webinar?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58515/adminstore/"
 sales_page: "https://marinathomsen.de/webinar"
 language: "de"
 ---
 # Diamond Hands Kurs
 
 > Product ID `58515` · Digistore24 productId `680424` · [HTML profile page](../../produkte/diamond-hands-kurs-58515.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $734.51 (Single payment, Installment) |
+| Price | $732.87 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $110.18 |
+| Earnings/sale* | $109.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Loewin999 |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der etwas andere Finanzkurs für Frauen, die ihr Geld endlich selbst in die Hand nehmen.Dieser Kurs ist für Frauen, die Schritt für Schritt ihre finanzielle Unabhängigkeit aufbauen wollen, ihre Rentenlücke schließen oder sogar früher in die Rente starten möchten.8 Module & Extras (63 Lektionen)Zugang zum Mitgliederbereich Workbook zum KursBonus 1: Denke dich zum GeldmagnetenBonus 2: die besten Anal…
+**Vendor's marketplace description:** <p><strong>Der etwas andere Finanzkurs für Frauen, die ihr Geld endlich selbst in die Hand nehmen.<br /></strong><br />Dieser Kurs ist für Frauen, die Schritt für Schritt ihre finanzielle Unabhängigkeit aufbauen wollen, ihre Rentenlücke schließen oder sogar früher in die Rente starten möchten.<br /><br /><strong>8 Module &amp; Extras (63 Lektionen)</strong><br />Zugang zum Mitgliederbereich <br />Workbook zum Kurs<br />Bonus 1: Denke dich zum Geldmagneten<br />Bonus 2: die besten Analysten &amp; Info-Quellen<br />Bonus 3: meine 3 wichtigsten Moneytalks <br />Bonus 4: 2 Live-Zoomcalls mit Expertenteam</p>
+<p>Dein Preis: 697 €<br />(Gesamtwert inklusive Bonus-Kurse 3.482€)</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://marinathomsen.de/webinar?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58515/adminstore/
 - Sales page: https://marinathomsen.de/webinar
 - Canonical redirect: https://www.digistore24.com/redir/680424/adminstore
 
@@ -89,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Diamond Hands Kurs? — Typ: Member area and video courses, Anbieter: Loewin999, gelistet seit 2026-08-22
-- Wie viel kostet es? — 734.5084760000001 USD
+- Wie viel kostet es? — 732.8698260000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

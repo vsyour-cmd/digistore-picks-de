@@ -4,34 +4,34 @@ digistore24_product_id: 724926
 title: "Sentlume – Angebote nachfassen in Gmail und Outlook"
 vendor: "enginucar"
 product_type: "Software"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.84
+earnings_per_sale: 13.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Software"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://sentlume.pages.dev/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58727/adminstore/"
 sales_page: "https://sentlume.pages.dev/"
 language: "de"
 ---
 # Sentlume – Angebote nachfassen in Gmail und Outlook
 
 > Product ID `58727` · Digistore24 productId `724926` · [HTML profile page](../../produkte/sentlume-angebote-nachfassen-in-gmail-und-outlook-58727.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $46.15 (Subscription) |
+| Price | $46.04 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.84 |
+| Earnings/sale* | $13.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | enginucar |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sentlume ist eine Browser-Erweiterung (Chrome & Edge) für Gmail und Outlook im Web: Sie erinnert kleine Dienstleistungsbetriebe und Selbstständige daran, versendete Angebote rechtzeitig nachzufassen – ohne CRM, ohne automatischen Versand, alle Daten bleiben lokal im Browser. Zielgruppe: Webdesigner, Fotografen, Videografen, kleine Agenturen, Gebäudereiniger, Gartenbetriebe, Werbetechniker, mobile …
+**Vendor's marketplace description:** <p><strong>Sentlume</strong> ist eine Browser-Erweiterung (Chrome &amp; Edge) für Gmail und Outlook im Web: Sie erinnert kleine Dienstleistungsbetriebe und Selbstständige daran, versendete Angebote rechtzeitig nachzufassen – ohne CRM, ohne automatischen Versand, alle Daten bleiben lokal im Browser.</p>
+<p><strong>Zielgruppe:</strong> Webdesigner, Fotografen, Videografen, kleine Agenturen, Gebäudereiniger, Gartenbetriebe, Werbetechniker, mobile DJs – alle, die 10–30 individuelle Angebote pro Monat per E-Mail verschicken und dabei Nachfassen vergessen.</p>
+<p><strong>Konditionen:</strong> 30 % Provision pro Verkauf · Cookie-Laufzeit 180 Tage · Jahreslizenz 49 € (2 Geräte) · 14 Tage Geld-zurück-Garantie.</p>
+<p><strong>Warum es sich gut empfehlen lässt:</strong></p>
+<ul>
+<li>Klarer Schmerz, klare Lösung: „Kein Angebot mehr vergessen“ – direkt im gewohnten Postfach, keine neue Software zu lernen.</li>
+<li>Risikofrei für Ihre Leser: 14 Tage voller Umfang gratis, danach Jahreslizenz für 49 € (2 Geräte), 14 Tage Geld-zurück-Garantie.</li>
+<li>Datenschutz als Argument: keine Mail-Inhalte, kein Google-/Microsoft-Login, keine Cloud – gerade bei DACH-Kunden ein starkes Verkaufsargument.</li>
+<li>Sofort lieferbar: Installation aus dem Chrome Web Store oder dem Microsoft Edge Add-ons Store, Lizenzschlüssel kommt automatisch per E-Mail.</li>
+</ul>
+<p><strong>Passende Partner:</strong> Blogs, Newsletter, YouTube-Kanäle und Communities für Selbstständige, Handwerk, Kreativbranche, Webdesign, Fotografie, Gründer und kleine Unternehmen; Coaches und Berater für Akquise und Vertrieb.</p>
+<p><strong>Werbemittel:</strong> Banner in allen gängigen Formaten (Social, Story, Leaderboard, Rectangle, Skyscraper, Newsletter), Produktbilder, Screenshots, Logo und Textbausteine – einzeln oder als ZIP auf der Partnerseite: <a href="https://sentlume.pages.dev/partner">sentlume.pages.dev/partner</a></p>
+<p><strong>Spielregeln:</strong> keine Einkommens- oder Erfolgsversprechen („mehr Aufträge garantiert“), keine Aussagen über automatischen Versand oder KI (beides gibt es bewusst nicht), kein Spam, kein Brand-Bidding auf „Sentlume“ in Suchanzeigen. Was Sentlume tut und nicht tut, steht auf der Verkaufsseite – bitte daran halten.</p>
+<p><strong>Kontakt für Partner:</strong> <a href="mailto:engin.ucar@outlook.de?subject=Sentlume%20Partner">engin.ucar@outlook.de</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sentlume.pages.dev/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58727/adminstore/
 - Sales page: https://sentlume.pages.dev/
 - Vendor affiliate support: https://sentlume.pages.dev/partner
 - Canonical redirect: https://www.digistore24.com/redir/724926/adminstore
@@ -89,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sentlume – Angebote nachfassen in Gmail und Outlook? — Typ: Software, Anbieter: enginucar, gelistet seit 2026-08-27
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

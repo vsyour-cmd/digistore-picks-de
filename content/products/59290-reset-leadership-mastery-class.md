@@ -4,16 +4,16 @@ digistore24_product_id: 733557
 title: "reset Leadership Mastery Class"
 vendor: "sperber9a48"
 product_type: "Member area and video courses"
-price: 1318.35
+price: 1315.41
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 263.67
+earnings_per_sale: 263.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Leadership & Management"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/733557?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/733557"
@@ -22,16 +22,16 @@ language: "de"
 # reset Leadership Mastery Class
 
 > Product ID `59290` · Digistore24 productId `733557` · [HTML profile page](../../produkte/reset-leadership-mastery-class-59290.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1318.35 (Single payment, Installment) |
+| Price | $1315.41 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $263.67 |
+| Earnings/sale* | $263.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sperber9a48 |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Weitere Informationen zum Programm findest du hier. Es handelt sich um eine sehr hochkarätig aufgebaute Weiterbildung, einen Online-Kurs bei freier Zeiteinteilung, der sich als Best of meiner letzten 15 Jahre Leadership-Supervision versteht. Er beinhaltet über 11 Stunden Video-Content, ein Workbook mit über 260 Seiten und sehr viel zusätzliche Informationen in Form eines E-Books. Bei Fragen melde …
+**Vendor's marketplace description:** <p>Weitere Informationen zum Programm findest du hier. <br />Es handelt sich um eine sehr hochkarätig aufgebaute Weiterbildung, einen Online-Kurs bei freier Zeiteinteilung, der sich als Best of meiner letzten 15 Jahre Leadership-Supervision versteht. Er beinhaltet über 11 Stunden Video-Content, ein Workbook mit über 260 Seiten und sehr viel zusätzliche Informationen in Form eines E-Books. Bei Fragen melde dich gerne bei mir. Der Kurs unterliegt nicht dem Fernunterrichtsgesetz, da er keinerlei Lernüberprüfungen beinhaltet und dem Benutzer absolute Freiheit bei der Themenauswahl lässt. Die Videos müssen nicht in einer bestimmten Abfolge gesehen werden. Ich empfehle jedoch eine bestimmte Vorgehensweise. <br /><br /><a href="https://leadership-mastery.netlify.app/" target="_blank" rel="noreferrer noopener">https://leadership-mastery.netlify.app/</a></p>
 
 ## 2. Links
 
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist reset Leadership Mastery Class? — Typ: Member area and video courses, Anbieter: sperber9a48, gelistet seit 2026-09-16
-- Wie viel kostet es? — 1318.352282 USD
+- Wie viel kostet es? — 1315.4111070000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

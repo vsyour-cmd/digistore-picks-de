@@ -4,16 +4,16 @@ digistore24_product_id: 739379
 title: "Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker"
 vendor: "Leonard_Probst"
 product_type: "Member area and video courses"
-price: 279.68
+price: 279.06
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 167.81
+earnings_per_sale: 167.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development","Profession & Job"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://akademie.leonardprobst.com/top-performer-protocol?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.leonardprobst.com/top-performer-protocol"
@@ -22,16 +22,16 @@ language: "de"
 # Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker
 
 > Product ID `60198` · Digistore24 productId `739379` · [HTML profile page](../../produkte/mehr-umsatz-mehr-freiheit-als-verk-ufer-closer-networker-60198.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.68 (Single payment) |
+| Price | $279.06 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $167.81 |
+| Earnings/sale* | $167.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Leonard_Probst |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Online Kurs für selbstständige & angestellte Verkäufer, die wissen, dass mehr geht, aber es noch nicht schaffen ihre Ziele & Zielvorgaben konstant zu übertreffen. Inhalte: konkrete Sales-Techniken und -Methoden, wie Leonard selbst seine Ziele konstant übertreffen konnte (233% als Account Manager, 150% als Account Executive, Gewinner verschiedener europaweiter Akquise-Challenges, als Closer +50…
+**Vendor's marketplace description:** <p>Der Online Kurs für selbstständige &amp; angestellte <strong>Verkäufer</strong>, die wissen, dass mehr geht, aber es noch nicht schaffen ihre <strong>Ziele &amp; Zielvorgaben konstant zu übertreffen</strong>.</p>
+<p> </p>
+<p>Inhalte:</p>
+<ul>
+<li>konkrete Sales-Techniken und -Methoden, wie Leonard selbst seine Ziele konstant übertreffen konnte <em>(233% als Account Manager, 150% als Account Executive, Gewinner verschiedener europaweiter Akquise-Challenges, als Closer +500.000€ im Monat B2C geclosed)</em>.</li>
+<li>Mindset-Tipps, welche Werder Bremen 2022 zum Wiederaufstieg in die 1. Bundesliga geführt haben und die Bodo Schäfer begeistert umsetzt! </li>
+<li>Eine speziell für Verkäufer aufgenommene Hypnose, um sie dabei zu unterstützen ihr Zielbild im Unterbewusstsein zu verankern, Blockaden auf dem Weg zum Ziel aus dem Weg zu räumen und ein Gefühl von Leichtigkeit im Verkaufen zu etablieren. </li>
+</ul>
+<p> </p>
+<p>Dieser Kurs richtet sich. an Account Manager, SDRs, Closer, Setter, Freelancer im Vertrieb sowie Network Marketer - vorausgesetzt sie wollen nr. 1 in ihrer Organisation werden oder haben ähnlich große Träume. Setter &amp; Closer sind erfahrungsgemäß bereit alles zu geben, hauptsache ihr Traum kommt in Erfüllung und sie verdienen viel Provision. Bei Angestellten steht häufig die Work-Life-Balance im Vordergrund - hier geht es drum bei gleichem Input mit Leichtigkeit mehr Output zu erzielen.</p>
+<p> </p>
+<p><em>Menschen, die die Kursinhalte umgesetzt haben verdienen inzwischen z. B. 5-stellig als Closer oder sind seit +3 Jahren konstant bei +150% Jahreszielerreichung im angestellten Verhältnis.</em></p>
 
 ## 2. Links
 
@@ -89,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mehr Umsatz, mehr Freiheit als Verkäufer, Closer, Networker? — Typ: Member area and video courses, Anbieter: Leonard_Probst, gelistet seit 2026-10-05
-- Wie viel kostet es? — 279.679348 USD
+- Wie viel kostet es? — 279.055398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

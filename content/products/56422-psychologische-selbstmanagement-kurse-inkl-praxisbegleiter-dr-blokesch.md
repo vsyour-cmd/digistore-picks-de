@@ -4,16 +4,16 @@ digistore24_product_id: 684851
 title: "Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch"
 vendor: "DrBlokesch"
 product_type: "Member area and video courses"
-price: 187.4
+price: 186.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.7
+earnings_per_sale: 93.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://drblokesch.com/gruebeln-stoppen-kostenlose-einordnung/?aff=adminstore#aff=adminstore"
 sales_page: "https://drblokesch.com/gruebeln-stoppen-kostenlose-einordnung/"
@@ -22,16 +22,16 @@ language: "de"
 # Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch
 
 > Product ID `56422` · Digistore24 productId `684851` · [HTML profile page](../../produkte/psychologische-selbstmanagement-kurse-inkl-praxisbegleiter-dr-blokesch-56422.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.40 (Single payment) |
+| Price | $186.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.70 |
+| Earnings/sale* | $93.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrBlokesch |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Psychologische Selbstmanagement-Kurse nach dem Blokesch-Modell von Dr. Richard Blokesch für Menschen, die wiederkehrende Denk-, Stress- und Kontrollschleifen besser verstehen und im Alltag gezielt verändern möchten. Alle Einzelkurse enthalten den jeweils passenden Praxisbegleiter als PDF direkt im Mitgliederbereich. Die Praxisbegleiter werden nicht separat verkauft. Aktuelle Themen:• Grübeln stopp…
+**Vendor's marketplace description:** <p>Psychologische Selbstmanagement-Kurse nach dem Blokesch-Modell von Dr. Richard Blokesch für Menschen, die wiederkehrende Denk-, Stress- und Kontrollschleifen besser verstehen und im Alltag gezielt verändern möchten.</p>
+<p>Alle Einzelkurse enthalten den jeweils passenden Praxisbegleiter als PDF direkt im Mitgliederbereich. Die Praxisbegleiter werden nicht separat verkauft.</p>
+<p>Aktuelle Themen:<br />• Grübeln stoppen<br />• Nicht abschalten können<br />• Perfektionismus überwinden<br />• Mentale Überkontrolle reduzieren<br />• Entscheidungsstress lösen<br />• Umgang mit Unsicherheit</p>
+<p>Preise:<br />• Einzelkurs inklusive Praxisbegleiter: 199 €<br />• 2er-Paket inklusive Praxisbegleiter: 349 €<br />• 3er-Paket inklusive Praxisbegleiter: 449 €<br />• Komplettpaket mit allen 6 Kursen inklusive Praxisbegleiter: 799 €</p>
+<p>Affiliate-Provision:<br />50 % des Digistore24-Basic-Amounts. Der Basic Amount ist der Nettopreis nach Abzug der Umsatzsteuer und der Digistore24-Marge. Die Provision beträgt daher nicht 50 % des Bruttokaufpreises.</p>
+<p>So funktioniert die Bewerbung:<br />Beantragen Sie die Partnerschaft direkt über Digistore24. Neue Affiliates werden manuell geprüft. Nach der Freigabe verwenden Sie ausschließlich Ihren persönlichen Digistore24-Affiliate-Link.</p>
+<p>Werbematerial und empfohlene Zielseiten:<br />https://drblokesch.com/partnerprogramm/</p>
+<p>Bitte bei der Bewerbung kurz angeben:<br />• Traffic-Quelle und geplante Platzierung<br />• welches Produkt oder Paket beworben werden soll<br />• ob Newsletter, Website, Ads, Social Media oder Partnerliste genutzt werden</p>
+<p>Geeignete Werbeformen:<br />Seriöse Empfehlungen über Content, Newsletter, SEO, Social Media, Fachbeiträge oder redaktionelle Platzierungen.</p>
+<p>Nicht erlaubt ohne ausdrückliche Freigabe:<br />Gutschein-, Cashback-, Deal- und Coupon-Seiten, Brand-Bidding, irreführende Domains, Spam, Fake-Reviews, Heil- oder Diagnoseversprechen, Druckverkauf und unseriöse psychologische Versprechen.</p>
+<p>Die Kurse ersetzen keine Psychotherapie, medizinische Behandlung oder individuelle Beratung. Sie sind digitale Selbstmanagement-Trainings mit psychologischem Bildungs- und Übungscharakter.</p>
 
 ## 2. Links
 
@@ -81,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch? — Typ: Member area and video courses, Anbieter: DrBlokesch, gelistet seit 2026-04-15
-- Wie viel kostet es? — 187.39793799999998 USD
+- Wie viel kostet es? — 186.979863 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

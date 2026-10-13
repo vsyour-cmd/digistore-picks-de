@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2026-01-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://shop.growverse.de/funnels/ai-avatar/freebie?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.growverse.de/funnels/ai-avatar/freebie"
@@ -22,7 +22,7 @@ language: "de"
 # AI Avatar Studio Funnel
 
 > Product ID `55134` · Digistore24 productId `658818` · [HTML profile page](../../produkte/ai-avatar-studio-funnel-55134.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,34 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der AI Avatar Studio Funnel ist ein mehrstufiger High-Ticket-Funnel für Affiliates, die vom Boom rund um KI-Avatare, automatisierten Video-Content und Social-Media-Skalierung profitieren wollen. Das Thema ist visuell, erklärungsarm und extrem attraktiv für Creator und Unternehmer. Der Funnel startet mit einem kostenlosen Einstieg, der Interesse aufbaut und Nutzer strategisch auf die kostenpflichti…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Der <strong>AI Avatar Studio Funnel</strong> ist ein mehrstufiger High-Ticket-Funnel für Affiliates, die vom Boom rund um <strong>KI-Avatare, automatisierten Video-Content und Social-Media-Skalierung</strong> profitieren wollen. Das Thema ist visuell, erklärungsarm und extrem attraktiv für Creator und Unternehmer.</p>
+<p>Der Funnel startet mit einem kostenlosen Einstieg, der Interesse aufbaut und Nutzer strategisch auf die kostenpflichtigen Angebote vorbereitet. Dadurch entsteht eine niedrige Einstiegshürde und eine hohe Abschlusswahrscheinlichkeit in den folgenden Stufen.</p>
+<p>Der erste Umsatztreiber ist <strong>AI Avatar Studio</strong> für 37 € mit <strong>50 % Provision (18,50 €)</strong>. Das Produkt liefert einen vollständigen Schritt-für-Schritt-Prozess zur Erstellung eines eigenen KI-Avatars – inklusive Konzeption, Stimme, Aussehen, Content-Vorlagen und automatisierter Nutzung. Ergänzt durch Video-Training, E-Book, Audiofassung und Content-Kits.</p>
+<p>Darauf aufbauend folgen weitere Upsells mit jeweils <strong>50 % Provision</strong>:<br /><strong>AI Avatar Video Automation</strong> (37 € → 18,50 € Provision) ermöglicht automatisierte Videoausgabe und Skalierung ohne Mehraufwand.<br />Das <strong>AI Social Automation Bundle</strong> (97 € → 48,50 € Provision) deckt Reichweite, Distribution und Sichtbarkeit auf Social-Media-Kanälen ab.<br />Mit <strong>AI Avatar Studio Pro – Done-For-You</strong> (197 € → 98,50 € Provision) wird ein Premium-Angebot integriert, bei dem Experten die komplette Einrichtung übernehmen.</p>
+<p>Zusätzlich enthält der Funnel zwei Addons mit ebenfalls <strong>50 % Provision</strong>: ein E-Book (12,90 € → 6,45 € Provision) und ein Success Toolkit (17,90 € → 8,95 € Provision). Beide erhöhen den durchschnittlichen Warenkorb deutlich.</p>
+<p>Die Zielgruppe ist breit, aktiv und kaufbereit: Content-Creator, Unternehmer, Selbstständige und Einsteiger, die Videos produzieren, Reichweite aufbauen oder ihre Online-Präsenz automatisieren wollen – auch ohne Kamera, Mikrofon oder persönliche Auftritte.</p>
+<p>Ein realistisches Beispiel: 1.000 Besucher erzeugen durch die mehrstufige Upsell-Struktur <strong>über 1.700 € Provision</strong>. Der Großteil entsteht durch wiederholte Kaufentscheidungen innerhalb desselben Funnels.</p>
+<p>Für Affiliates bedeutet das: mehrere Upsell-Stufen, starkes visuelles Thema, <strong>50 % Provision auf alle Umsätze</strong>, vorhandene Marketing-Assets und ein komplett vorbereiteter Funnel ohne eigenen technischen oder operativen Aufwand.</p>
+<p>Sichere Zahlung. Klare Struktur. Hoher Warenkorb.<br />Du bringst Traffic – der Funnel maximiert den Umsatz.</p>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
+<div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
 
 ## 2. Links
 

@@ -4,34 +4,34 @@ digistore24_product_id: 427805
 title: "Mit kleinen Kursen große Kunden gewinnen!"
 vendor: "Jyotima"
 product_type: "Member area and video courses"
-price: 45.96
+price: 45.85
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 43.29
+earnings_per_sale: 43.19
 cart_conversion_pct: 4
 cancel_rate_pct: 1.35
 categories: ["Social Media"]
 listed_since: "2022-02-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.jyotimaflak.com/minikurs-masterclass/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39075/adminstore/"
 sales_page: "https://www.jyotimaflak.com/minikurs-masterclass/"
 language: "de"
 ---
 # Mit kleinen Kursen große Kunden gewinnen!
 
 > Product ID `39075` · Digistore24 productId `427805` · [HTML profile page](../../produkte/mit-kleinen-kursen-gro-e-kunden-gewinnen-39075.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $45.96 (Single payment, Installment) |
+| Price | $45.85 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $43.29 |
+| Earnings/sale* | $43.19 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.35% |
 | Vendor | Jyotima |
@@ -41,11 +41,49 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 30 % Verdienst an der Minikurs-Masterclass Online Kunden gewinnen mit Leichtigkeit! Die exakte Anleitung, um mit kleinen Kursen große Kunden zu gewinnen! Mit Jyotima Flak, Onlinebusiness-Mentorin Hier bist du richtig, wenn du: • online Kunden gewinnen möchtest als Selbstständige/r oder Unternehmer:in! • digitale Produkte erstellen möchtest, die man einfach auf deiner Webseite / über Social-Media k…
+**Vendor's marketplace description:** <h1><span style="color:#ff0000;"><strong>30 % Verdienst an der Minikurs-Masterclass</strong></span></h1>
+<h1><span style="color:#ff0000;"><strong>Online Kunden gewinnen mit Leichtigkeit!</strong></span></h1>
+<div> </div>
+<div> </div>
+<div><strong>Die exakte Anleitung, um mit kleinen Kursen große Kunden zu gewinnen! Mit Jyotima Flak, Onlinebusiness-Mentorin</strong></div>
+<div><strong><br /></strong>
+<div> </div>
+<div><strong>Hier bist du richtig, wenn du:</strong></div>
+<div> </div>
+<div>• online Kunden gewinnen möchtest als Selbstständige/r oder Unternehmer:in!</div>
+<div>• digitale Produkte erstellen möchtest, die man einfach auf deiner Webseite / über Social-Media kaufen kann und über die du treue Stammkunden gewinnst! (Kunden statt Leads!)</div>
+<div>• passives Einkommen generieren und dein Business skalieren möchtest! <br /><br /><strong>Also Geld verdienen – egal, was du gerade machst! </strong></div>
+<div><strong> </strong></div>
+<div> </div>
+<div><strong>In der Minikurs-Masterclass wirst du:</strong></div>
+<div> </div>
+<div>• den Hintergrund zu Minikursen erfahren, die Minikurs-Methode!</div>
+<div>• den Minikurs-Salesfunnel verstehen lernen und deinen zukünftig genauso aufbauen!</div>
+<div>• das Ziel deiner Minikurse definieren, nämlich Stammkunden und 1zu1 Kunden gewinnen!</div>
+<div>• Inhalte und Bausteine deiner Minikurse definieren!</div>
+<div>• die Art und Weise erfahren, wie du innerhalb kürzester Zeit deine Kurse automatisierst, wie du die Kurse einstellst und vieles mehr...!
+<p><strong>Die Masterclass besteht aus:<br /></strong><br />• mehreren hochkarätigen Strategie-Meetings und Video-Anleitungen!<br />• praktische Worksheets zum Sofort-Umsetzen!</p>
+<p><strong><br />Du kannst sofort starten:</strong></p>
+</div>
+<h2><strong>Nur 99,- €</strong></h2>
+<p>oder 3 x 36,- € zzgl. MwSt. </p>
+<div> </div>
+<div>Mit Jyotima Flak, Onlinebusiness-Mentorin und Salesfunnel-Queen:</div>
+<div> </div>
+<div><strong>"Mit der Minikurs-Methode habe ich meinen Umsatz 2021 verdoppelt!"</strong></div>
+<div> </div>
+<div> </div>
+<div>Die Masterclass ist einen Ergänzung zu dem Erfolgs-Ebook <strong>Die Minikurs-Methode</strong> und <strong>Dein Minikurs in 24h!</strong> Du bekommst hochkarätiges Strategie-Wissen an die Hand, wie du mit kleinen Kursen große Kunden gewinnst!</div>
+<div> </div>
+<div> </div>
+<div>Sei ein Leuchtturm, kein Teelicht!®</div>
+<div>Deine Jyotima</div>
+</div>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.jyotimaflak.com/minikurs-masterclass/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39075/adminstore/
 - Sales page: https://www.jyotimaflak.com/minikurs-masterclass/
 - Vendor affiliate support: https://jyotimaflak.com/partner-werden
 - Canonical redirect: https://www.digistore24.com/redir/427805/adminstore
@@ -83,7 +121,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mit kleinen Kursen große Kunden gewinnen!? — Typ: Member area and video courses, Anbieter: Jyotima, gelistet seit 2022-02-02
-- Wie viel kostet es? — 45.955806 USD
+- Wie viel kostet es? — 45.853281 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 458710
 title: "Digital Heart Business Kongress - VIP Paket und Bundle"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 113.94
+price: 113.69
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 11.4
+earnings_per_sale: 11.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-09-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.digitalheartbusiness.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41299/adminstore/"
 sales_page: "https://www.digitalheartbusiness.de/"
 language: "de"
 ---
 # Digital Heart Business Kongress - VIP Paket und Bundle
 
 > Product ID `41299` · Digistore24 productId `458710` · [HTML profile page](../../produkte/digital-heart-business-kongress-vip-paket-und-bundle-41299.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $113.94 (Single payment, Installment) |
+| Price | $113.69 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $11.40 |
+| Earnings/sale* | $11.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Jeder Mensch hat Träume, wie zum Beispiel:Ein schönes Auto, ein Haus im Süden, viel Zeit mit den Liebsten verbringen, Milli.onär sein, arbeiten bei freier Zeiteinteilung, schöne Luxusgüter und eine Weltreise machen. Wie kannst Du dieses Traumleben erreichen?Die Antwort auf diese spannende Frage findest Du beim Digital Heart Business Kongress ✨
+**Vendor's marketplace description:** <p>Jeder Mensch hat Träume, wie zum Beispiel:<br />Ein schönes Auto, ein Haus im Süden, viel Zeit mit den Liebsten verbringen, Milli.onär sein, arbeiten bei freier Zeiteinteilung, schöne Luxusgüter und eine Weltreise machen.</p>
+<p><strong>Wie kannst Du dieses Traumleben erreichen?<br /></strong>Die Antwort auf diese spannende Frage findest Du beim Digital Heart Business Kongress ✨</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digitalheartbusiness.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41299/adminstore/
 - Sales page: https://www.digitalheartbusiness.de/
 - Vendor affiliate support: https://dhba.funnelcockpit.com/partner
 - Canonical redirect: https://www.digistore24.com/redir/458710/adminstore
@@ -81,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Heart Business Kongress - VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2022-09-04
-- Wie viel kostet es? — 113.942608 USD
+- Wie viel kostet es? — 113.68840800000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

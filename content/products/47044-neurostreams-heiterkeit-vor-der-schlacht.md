@@ -4,16 +4,16 @@ digistore24_product_id: 250025
 title: "Neurostreams™ Heiterkeit vor der Schlacht"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 16.01
+price: 15.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.01
+earnings_per_sale: 7.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2018-11-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/portfolio/gegen-lampenfieber/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/portfolio/gegen-lampenfieber/"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ Heiterkeit vor der Schlacht
 
 > Product ID `47044` · Digistore24 productId `250025` · [HTML profile page](../../produkte/neurostreams-heiterkeit-vor-der-schlacht-47044.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.01 (Single payment) |
+| Price | $15.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.01 |
+| Earnings/sale* | $7.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 10 experimentelle Neurostreams™ gegen Lampenfieber. Sofort-Download. Jede dieser abwechslungsreichen 10 Selbstbehandlungen dauert 30 Minuten. Stereo-Kopfhörer empfohlen! Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob …
+**Vendor's marketplace description:** <p>10 experimentelle Neurostreams™ gegen Lampenfieber.</p>
+<p><strong>Sofort-Download.</strong></p>
+<p>Jede dieser abwechslungsreichen 10 Selbstbehandlungen dauert 30 Minuten.</p>
+<p>Stereo-Kopfhörer empfohlen!</p>
+<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
+<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
+<p><em>Dateigröße: ca. 300 MB</em></p>
+<p><strong>2 Jahre</strong> Produktsupport inklusive.</p>
 
 ## 2. Links
 
@@ -75,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Heiterkeit vor der Schlacht? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2018-11-27
-- Wie viel kostet es? — 16.013374 USD
+- Wie viel kostet es? — 15.977649 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

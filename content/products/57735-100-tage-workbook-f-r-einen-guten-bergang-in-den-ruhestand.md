@@ -4,34 +4,34 @@ digistore24_product_id: 695863
 title: "100-Tage-Workbook für einen guten Übergang in den Ruhestand"
 vendor: "ruhestandmitplan"
 product_type: "Downloads"
-price: 22.6
+price: 22.55
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.31
+earnings_per_sale: 11.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://ruhestand-mit-plan.com/100-tage-plan?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57735/adminstore/"
 sales_page: "https://ruhestand-mit-plan.com/100-tage-plan"
 language: "de"
 ---
 # 100-Tage-Workbook für einen guten Übergang in den Ruhestand
 
 > Product ID `57735` · Digistore24 productId `695863` · [HTML profile page](../../produkte/100-tage-workbook-f-r-einen-guten-bergang-in-den-ruhestand-57735.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.60 (Single payment) |
+| Price | $22.55 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.31 |
+| Earnings/sale* | $11.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ruhestandmitplan |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der „Ruhestand mit Plan – 100-Tage-Plan“ ist ein digitales PDF-Workbook für Menschen kurz vor dem Ruhestand, zu Beginn des Ruhestands oder in den ersten Monaten danach. Über 14 Wochen unterstützt das Workbook dabei, den neuen Alltag bewusst zu strukturieren, persönliche Prioritäten zu klären und eigene Vorhaben zu entwickeln. Reflexionsfragen, praktische Impulse und regelmäßige Wochen-Check-ins ge…
+**Vendor's marketplace description:** <p>Der „Ruhestand mit Plan – 100-Tage-Plan“ ist ein digitales PDF-Workbook für Menschen kurz vor dem Ruhestand, zu Beginn des Ruhestands oder in den ersten Monaten danach.</p>
+<p>Über 14 Wochen unterstützt das Workbook dabei, den neuen Alltag bewusst zu strukturieren, persönliche Prioritäten zu klären und eigene Vorhaben zu entwickeln. Reflexionsfragen, praktische Impulse und regelmäßige Wochen-Check-ins geben Orientierung, ohne fertige Lösungen vorzugeben.</p>
+<p><strong>Produktdaten:</strong></p>
+<p>• Verkaufspreis: 35 €<br />• digitales PDF-Workbook<br />• 103 Seiten<br />• am Computer oder Tablet ausfüllbar<br />• auch zum Ausdrucken geeignet<br />• optional: Ausfüllhilfe mit Beispielen für 9 €</p>
+<p><strong>Affiliate-Provision:</strong></p>
+<p>50 % auf den provisionsfähigen Betrag gemäß der Abrechnung von Digistore24.</p>
+<p>Das Produkt eignet sich besonders für Empfehlungen in Blogs, Newslettern, Communitys und sozialen Netzwerken zu den Themen Ruhestand, persönliche Entwicklung, Neuorientierung, Lebensgestaltung und Alltagsstruktur.</p>
+<p>Textvorlagen, Produktbilder und weitere Informationen für Affiliates stehen auf der Affiliate-Support-Seite bereit:</p>
+<p><a>https://ruhestand-mit-plan.com/affiliate/</a></p>
+<p>Das Workbook dient der Orientierung, Lebensgestaltung und Reflexion. Es ersetzt keine Rechts-, Steuer-, Finanz-, Renten-, Pensions- oder Gesundheitsberatung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ruhestand-mit-plan.com/100-tage-plan?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57735/adminstore/
 - Sales page: https://ruhestand-mit-plan.com/100-tage-plan
 - Vendor affiliate support: https://ruhestand-mit-plan.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/695863/adminstore
@@ -78,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100-Tage-Workbook für einen guten Übergang in den Ruhestand? — Typ: Downloads, Anbieter: ruhestandmitplan, gelistet seit 2026-07-24
-- Wie viel kostet es? — 22.602502 USD
+- Wie viel kostet es? — 22.552077000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 734083
 title: "Online-Business-Werkstatt – 7 Kurse und Zusatzpakete"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 469.9
+price: 468.85
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 234.96
+earnings_per_sale: 234.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/734083?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/734083"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Business-Werkstatt – 7 Kurse und Zusatzpakete
 
 > Product ID `59286` · Digistore24 productId `734083` · [HTML profile page](../../produkte/online-business-werkstatt-7-kurse-und-zusatzpakete-59286.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $469.90 (Single payment) |
+| Price | $468.85 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $234.96 |
+| Earnings/sale* | $234.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Matzes Online-Business-Werkstatt bündelt sieben schriftliche Praxiskurse mit allen sieben Zusatzpaketen für einmalig 499 €: Canva, Etsy, Pinterest, Social Media, E-Mail, UGC und KI-Kundenservice. Für Einsteiger, die ein digitales Produkt entwickeln oder Inhalte für Marken anbieten möchten. Zwei Lernwege, ein gemeinsamer Startplan und zwei vollständig ausgearbeitete fiktive Beispielprojekte verbind…
+**Vendor's marketplace description:** <p>Matzes Online-Business-Werkstatt bündelt sieben schriftliche Praxiskurse mit allen sieben Zusatzpaketen für einmalig 499 €: Canva, Etsy, Pinterest, Social Media, E-Mail, UGC und KI-Kundenservice.</p>
+<p>Für Einsteiger, die ein digitales Produkt entwickeln oder Inhalte für Marken anbieten möchten. Zwei Lernwege, ein gemeinsamer Startplan und zwei vollständig ausgearbeitete fiktive Beispielprojekte verbinden die Kurse. Enthalten sind Arbeitsbücher, Vorlagen und eine lokale HTML-Lernoberfläche mit Aufgaben, Notizen und Fortschritt.</p>
+<p>50 % Affiliate-Provision sind eingerichtet. Kein weiterer kostenpflichtiger Upsell. Bereitgestellte Werbemittel: 5 Hooks, 3 Social-Texte, 2 E-Mail-Vorlagen, 3 Anzeigentexte und 3 Grafiken für Pinterest, Feed und Story. Texte: https://www.digistore24-app.com/account/partnerarea/1833505/13532 – Grafiken: https://www.digistore24-app.com/account/partnerarea/1833505/13533</p>
+<p>ZIP-Download über Digistore24 nach bestätigter Zahlung: 90 Tage und 5 Downloads; gespeicherte Dateien bleiben nutzbar. Schriftliches Selbstlernen, keine Videolektionen, Livebetreuung oder Software-Abos. Keine Ergebnis- oder Einkommensversprechen.</p>
 
 ## 2. Links
 
@@ -80,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Business-Werkstatt – 7 Kurse und Zusatzpakete? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-16
-- Wie viel kostet es? — 469.901198 USD
+- Wie viel kostet es? — 468.85287300000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

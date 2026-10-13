@@ -4,16 +4,16 @@ digistore24_product_id: 620139
 title: "Entgiften und Ausleiten"
 vendor: "Impfausleitung"
 product_type: "E-books"
-price: 10.4
+price: 10.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.2
+earnings_per_sale: 5.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://natürlicheentgiftung.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://natürlicheentgiftung.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Entgiften und Ausleiten
 
 > Product ID `52946` · Digistore24 productId `620139` · [HTML profile page](../../produkte/entgiften-und-ausleiten-52946.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.40 (Single payment) |
+| Price | $10.38 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.20 |
+| Earnings/sale* | $5.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Impfausleitung |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ständig krank? Viel öfter als früher? Müde und abgeschlagen? Angst vor gesundheitlichen Schicksalsschlägen? Leidest du an etwas was als „Long Covid“ bezeichnet wird? Entdecke die Kraft der Entgiftung und Ausleitung für Deine Gesundheit! Unser Körper ist täglich einer Vielzahl an schädlichen Stoffen ausgesetzt – von Schwermetallen bis hin zu Rückständen aus Impfungen. Doch wie können wir unseren Kö…
+**Vendor's marketplace description:** <p><strong>Ständig krank? Viel öfter als früher?</strong></p>
+<p>Müde und abgeschlagen? Angst vor gesundheitlichen Schicksalsschlägen? Leidest du an etwas was als „Long Covid“ bezeichnet wird?</p>
+<p>Entdecke die Kraft der Entgiftung und Ausleitung für Deine Gesundheit!  </p>
+<p>Unser Körper ist täglich einer Vielzahl an schädlichen Stoffen ausgesetzt – von Schwermetallen bis hin zu Rückständen aus Impfungen.</p>
+<p>Doch wie können wir unseren Körper effektiv und sicher von diesen Belastungen befreien?  </p>
+<p>Komm mit auf eine fundierte Reise durch die Welt der Entgiftung mit wissenschaftlich basierten Ansätzen. Leite Schadstoffe, zum Beispiel aus Impfungen, gezielt aus Deinem Körper. Erfahre, wie du mit natürlichen Methoden und gezielten Maßnahmen deinen Körper dazu bringst, deine Super-Power wiederzuerwecken.</p>
+<p>Mit über 400 Seiten wissenschaftlich fundierter Informationen und einfach umsetzbarer Tipps bringt dir dieses Buch das Wissen und die Erfahrung aus über 30 Jahren in den Bereichen Gesundheit, Biochemie, Naturheilkunde und Nahrungsergänzung näher.  </p>
+<p>· Verabschiede dich von der Angst vor Blitzkrebs, Schlaganfall, Herzkrankheiten und „plötzlich und unerwartet“-Schicksalen</p>
+<p>· Gesteigerte Energie, großartige Libido, schöne Haut und vor allem: Lebensfreude!</p>
+<p>· Funktionierendes Immunsystem. Feiere das Leben, anstatt ständig krank zu sein</p>
+<p>· Erlebe, wie gut sich dein Körper wirklich anfühlen kann</p>
+<p>· Verlängere deine Lebenserwartung und erhöhe deine Lebensqualität  </p>
+<p>Dein Weg zu einem gesünderen und vitaleren Leben beginnt hier!</p>
 
 ## 2. Links
 
@@ -74,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Entgiften und Ausleiten? — Typ: E-books, Anbieter: Impfausleitung, gelistet seit 2025-06-23
-- Wie viel kostet es? — 10.399168 USD
+- Wie viel kostet es? — 10.375968 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

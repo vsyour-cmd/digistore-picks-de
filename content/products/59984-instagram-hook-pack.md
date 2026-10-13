@@ -4,16 +4,16 @@ digistore24_product_id: 737211
 title: "Instagram Hook Pack"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 21.66
+price: 21.61
 currency: "USD"
-affiliate_commission_pct: 25
-earnings_per_sale: 5.41
+affiliate_commission_pct: 30
+earnings_per_sale: 6.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/instagram-template-pack-de/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/instagram-template-pack-de/"
@@ -22,16 +22,16 @@ language: "de"
 # Instagram Hook Pack
 
 > Product ID `59984` · Digistore24 productId `737211` · [HTML profile page](../../produkte/instagram-hook-pack-59984.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $21.66 (Single payment) |
-| Affiliate commission | 25% |
-| Earnings/sale* | $5.41 |
+| Price | $21.61 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $6.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ✅ 120 Instagram Hooks for Reels, Posts & Stories for:➡️ viral & curiosity➡️ business & marketing➡️ reels➡️ personal brand➡️ AI & future➡️ engagement➡️ sales & conversion ✅ 10 Bonus Materials
+**Vendor's marketplace description:** <p><strong>✅</strong> 120 Instagram Hooks for Reels, Posts &amp; Stories for:<br />➡️ viral &amp; curiosity<br />➡️ business &amp; marketing<br />➡️ reels<br />➡️ personal brand<br />➡️ AI &amp; future<br />➡️ engagement<br />➡️ sales &amp; conversion</p>
+<p>✅ 10 Bonus Materials</p>
 
 ## 2. Links
 
@@ -67,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram Hook Pack? — Typ: Downloads, Anbieter: xarutacom, gelistet seit 2026-09-28
-- Wie viel kostet es? — 21.661198 USD
+- Wie viel kostet es? — 21.612873 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 710085
 title: "„Ich bin ich“ – Mutmach-Malbuch für Kinder mit Typ-1-Diabete"
 vendor: "Herzenswelt"
 product_type: "E-books"
-price: 15.61
+price: 15.58
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 10.93
+earnings_per_sale: 10.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Health & Fitness"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://gesundleben360.de/malbuch-fur-kinder-mit-typ-1-diabetes/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57509/adminstore/"
 sales_page: "https://gesundleben360.de/malbuch-fur-kinder-mit-typ-1-diabetes/"
 language: "de"
 ---
 # „Ich bin ich“ – Mutmach-Malbuch für Kinder mit Typ-1-Diabete
 
 > Product ID `57509` · Digistore24 productId `710085` · [HTML profile page](../../produkte/ich-bin-ich-mutmach-malbuch-f-r-kinder-mit-typ-1-diabete-57509.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.61 (Single payment) |
+| Price | $15.58 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $10.93 |
+| Earnings/sale* | $10.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Herzenswelt |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein liebevoll gestaltetes Nischenprodukt für Eltern, Familien und alle, die Kinder mit Typ-1-Diabetes begleiten. „Ich bin ich“ ist ein digitales Malbuch, das Kinder mit Typ-1-Diabetes ganz selbstverständlich als fröhliche, aktive und starke Alltagshelden zeigt. Auf 35 kindgerechten Seiten erleben die Kinder typische Situationen wie Kindergarten, Schule, Sport, Geburtstag, Arztbesuch, Ausflüge und …
+**Vendor's marketplace description:** <p><strong>Ein liebevoll gestaltetes Nischenprodukt für Eltern, Familien und alle, die Kinder mit Typ-1-Diabetes begleiten.</strong></p>
+<p>„Ich bin ich“ ist ein digitales Malbuch, das Kinder mit Typ-1-Diabetes ganz selbstverständlich als fröhliche, aktive und starke Alltagshelden zeigt. Auf <strong>35 kindgerechten Seiten</strong> erleben die Kinder typische Situationen wie Kindergarten, Schule, Sport, Geburtstag, Arztbesuch, Ausflüge und gemütliche Momente zu Hause. Sensor und Insulinpumpe werden dabei sichtbar und positiv in den Alltag integriert.</p>
+<p>Neben zahlreichen Ausmalbildern enthält das PDF liebevolle Mutmachbotschaften, eine Urkunde und eine persönliche „Das bin ich“-Seite. Das Produkt eignet sich ideal als Geschenk, kleine Aufmerksamkeit nach der Diagnose, Beschäftigung für zu Hause oder als unterstützendes Material für Familien, Diabetesambulanzen, Beratungsstellen und pädagogische Einrichtungen. Es handelt sich um ein kreatives Malbuch und ausdrücklich nicht um einen medizinischen Ratgeber.</p>
+<h3>Warum sich das Produkt gut bewerben lässt</h3>
+<ul>
+<li>klar definierte und emotional erreichbare Zielgruppe</li>
+<li>besonderes Nischenprodukt mit wenig direkter Konkurrenz</li>
+<li>sofortiger digitaler Download ohne Versand</li>
+<li>liebevolle, positive Darstellung statt Angst oder Mitleid</li>
+<li>geeignet für Blogs, Pinterest, Instagram, Familien- und Gesundheitsthemen</li>
+<li><strong>70 % Affiliate-Provision</strong></li>
+</ul>
+<h3>Zielgruppe</h3>
+<p>Eltern und Angehörige von Kindern mit Typ-1-Diabetes, Diabetesberaterinnen und Diabetesberater, Kinderarztpraxen, Diabetesambulanzen, Erzieherinnen, Lehrkräfte sowie Familien- und Gesundheitsblogs.</p>
+<p><strong>Jetzt Affiliate-Partnerschaft anfragen und ein besonderes digitales Kinderprodukt mit echtem emotionalem Mehrwert bewerben.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://gesundleben360.de/malbuch-fur-kinder-mit-typ-1-diabetes/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57509/adminstore/
 - Sales page: https://gesundleben360.de/malbuch-fur-kinder-mit-typ-1-diabetes/
 - Canonical redirect: https://www.digistore24.com/redir/710085/adminstore
 
@@ -77,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Ich bin ich“ – Mutmach-Malbuch für Kinder mit Typ-1-Diabete? — Typ: E-books, Anbieter: Herzenswelt, gelistet seit 2026-07-13
-- Wie viel kostet es? — 15.609958 USD
+- Wie viel kostet es? — 15.575133000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

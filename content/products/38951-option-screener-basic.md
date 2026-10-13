@@ -4,34 +4,34 @@ digistore24_product_id: 426567
 title: "Option Screener Basic"
 vendor: "mc_fireman"
 product_type: "Member area and video courses"
-price: 469.9
+price: 468.85
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 93.98
+earnings_per_sale: 93.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2022-01-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.tradesscanner.com//product_info.php?id=10&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/38951/adminstore/"
 sales_page: "https://www.tradesscanner.com//product_info.php?id=10"
 language: "de"
 ---
 # Option Screener Basic
 
 > Product ID `38951` · Digistore24 productId `426567` · [HTML profile page](../../produkte/option-screener-basic-38951.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $469.90 (Subscription) |
+| Price | $468.85 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $93.98 |
+| Earnings/sale* | $93.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mc_fireman |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Produkt erlaubt Ihnen Cash Secured Puts zu scannen. Sie erhalten aus über 1.000.000 Optionsketten, die täglich wechseln Handelssignale, die auch durch Sie angepasst werden können. Es können die Optionszeiträume, die Strike Preise und das Delta angepasst werden. Auch lange erprobte Handelssignale stehen zur Verfügung. Diverse Filter erlauben Ihnen extrem schnell Scanergebnisse zu erhalten. A…
+**Vendor's marketplace description:** <p><strong>Dieses Produkt erlaubt Ihnen Cash Secured Puts zu scannen. Sie erhalten aus über 1.000.000 Optionsketten, die täglich wechseln Handelssignale, die auch durch Sie angepasst werden können. Es können die Optionszeiträume, die Strike Preise und das Delta angepasst werden. Auch lange erprobte Handelssignale stehen zur Verfügung. Diverse Filter erlauben Ihnen extrem schnell Scanergebnisse zu erhalten. Alle Daten beziehen sich auf Tagesendpreise des vergangenen Handelstages und werden über Nacht aktualisiert</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tradesscanner.com//product_info.php?id=10&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38951/adminstore/
 - Sales page: https://www.tradesscanner.com//product_info.php?id=10
 - Canonical redirect: https://www.digistore24.com/redir/426567/adminstore
 
@@ -87,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Option Screener Basic? — Typ: Member area and video courses, Anbieter: mc_fireman, gelistet seit 2022-01-25
-- Wie viel kostet es? — 469.901198 USD
+- Wie viel kostet es? — 468.85287300000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

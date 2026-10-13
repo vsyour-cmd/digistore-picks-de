@@ -4,34 +4,34 @@ digistore24_product_id: 724898
 title: "Portugiesisch-Guide Deluxe"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.19
+earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Personal Development"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/724898?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58523/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/724898"
 language: "de"
 ---
 # Portugiesisch-Guide Deluxe
 
 > Product ID `58523` · Digistore24 productId `724898` · [HTML profile page](../../produkte/portugiesisch-guide-deluxe-58523.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.19 |
+| Earnings/sale* | $5.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Portugiesisch-Guide Deluxe – 50% Provision Ein Premium-Sprachführer, mit dem man schnell Portugiesisch lernt: fertige Sätze für Reise, Job und Alltag, gezielter Wortschatz und vereinfachte Aussprache, ganz ohne Umweg über trockene Grammatik. 46 vollständige Kapitel mit Übungsdialogen und 7-Tage-Plan – ein dichter Inhalt, der deinen Käufer:innen echten Mehrwert vermittelt und dir dadurch eine höher…
+**Vendor's marketplace description:** <p>Portugiesisch-Guide Deluxe – 50% Provision</p>
+<p> </p>
+<p>Ein Premium-Sprachführer, mit dem man schnell Portugiesisch lernt: fertige Sätze für Reise, Job und Alltag, gezielter Wortschatz und vereinfachte Aussprache, ganz ohne Umweg über trockene Grammatik.</p>
+<p> </p>
+<p>46 vollständige Kapitel mit Übungsdialogen und 7-Tage-Plan – ein dichter Inhalt, der deinen Käufer:innen echten Mehrwert vermittelt und dir dadurch eine höhere Conversion bringt.</p>
+<p> </p>
+<p>Ideale Zielgruppe: Reisende, Auswanderer, Berufstätige mit portugiesischsprachigen Kolleg:innen, und alle, die schnell vorankommen wollen, ohne klassisches Schulbuch.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724898?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58523/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/724898
 - Canonical redirect: https://www.digistore24.com/redir/724898/adminstore
 
@@ -71,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Portugiesisch-Guide Deluxe? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-22
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

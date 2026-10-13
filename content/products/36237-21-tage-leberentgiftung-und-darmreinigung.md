@@ -4,34 +4,34 @@ digistore24_product_id: 352602
 title: "21-Tage Leberentgiftung und Darmreinigung"
 vendor: "digicube"
 product_type: "Member area and video courses"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.49
+earnings_per_sale: 32.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-10-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://lanaprinzip.com/leberentgiftung-darmreinigung-webinar/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/36237/adminstore/"
 sales_page: "https://lanaprinzip.com/leberentgiftung-darmreinigung-webinar/"
 language: "de"
 ---
 # 21-Tage Leberentgiftung und Darmreinigung
 
 > Product ID `36237` · Digistore24 productId `352602` · [HTML profile page](../../produkte/21-tage-leberentgiftung-und-darmreinigung-36237.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.97 (Single payment) |
+| Price | $64.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.49 |
+| Earnings/sale* | $32.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digicube |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehlen Sie das HOCHWERTIGE Produkt für Gesundheit, Entschlacken und Entgiften mit überragendem Customer Feedback in unserem eigenen Gesundheitsforum und niedriger Stornoquote. Ihre Vorteile: Lebenslang 50 % Provision auf Ihre Verkäufe Hohe Kaufrate in unserem Sales-Funnel (inklusive KOSTENLOSEM Video zur Kur + Tipps) Große Auswahl optimierter Webemittel: klickstarke Banner, Vorlage für E-Mail-T…
+**Vendor's marketplace description:** <p>Empfehlen Sie das HOCHWERTIGE Produkt für Gesundheit, Entschlacken und Entgiften mit <strong>überragendem Customer Feedback</strong> in unserem <a href="https://lana.li/forum" target="_blank" rel="noreferrer noopener">eigenen Gesundheitsforum</a> und <strong>niedriger Stornoquote</strong>.</p>
+<p>Ihre Vorteile:</p>
+<ul>
+<li>Lebenslang 50 % Provision auf Ihre Verkäufe</li>
+<li>Hohe Kaufrate in unserem <a href="https://lana.li/entgiftung" target="_blank" rel="noreferrer noopener">Sales-Funnel</a> (inklusive <a href="http://lana.li/ldkur" target="_blank" rel="noreferrer noopener">KOSTENLOSEM Video zur Kur</a> + Tipps) </li>
+<li>Große Auswahl optimierter Webemittel: klickstarke Banner, Vorlage für E-Mail-Text, Bilder der Seminar-Leiterin für mehr Leads und Verkäufe.</li>
+</ul>
+<p>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: <a href="https://lana.li/affiliate">https://lana.li/affiliate</a>.</p>
+<p>Wir freuen uns auf eine erfolgreiche Partnerschaft!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lanaprinzip.com/leberentgiftung-darmreinigung-webinar/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36237/adminstore/
 - Sales page: https://lanaprinzip.com/leberentgiftung-darmreinigung-webinar/
 - Vendor affiliate support: https://lanaprinzip.com/einladung-als-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/352602/adminstore
@@ -101,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 21-Tage Leberentgiftung und Darmreinigung? — Typ: Member area and video courses, Anbieter: digicube, gelistet seit 2020-10-16
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

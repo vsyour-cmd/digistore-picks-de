@@ -4,34 +4,34 @@ digistore24_product_id: 674791
 title: "Die 1-Stunden-Fokus-Methode"
 vendor: "pgustke28d278"
 product_type: "Downloads"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.43
+earnings_per_sale: 17.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-03-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/674791?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55861/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/674791"
 language: "de"
 ---
 # Die 1-Stunden-Fokus-Methode
 
 > Product ID `55861` · Digistore24 productId `674791` · [HTML profile page](../../produkte/die-1-stunden-fokus-methode-55861.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.43 |
+| Earnings/sale* | $17.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pgustke28d278 |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Praxisorientiertes Produktivitäts-System gegen Ablenkung und Prokrastination. Die 1-Stunden-Fokus-Methode zeigt Schritt für Schritt, wie Menschen ihre Konzentration steigern, Deep Work aufbauen und ihre wichtigsten Aufgaben konsequent umsetzen. Große Zielgruppe: SelbstständigeStudentenUnternehmerWissensarbeiter ✔ professionelles Produktdesign✔ leicht verständliches Thema✔ attraktive 50 % Affiliate…
+**Vendor's marketplace description:** <p><strong>Praxisorientiertes Produktivitäts-System gegen Ablenkung und Prokrastination.</strong></p>
+<p> </p>
+<p>Die 1-Stunden-Fokus-Methode zeigt Schritt für Schritt, wie Menschen ihre Konzentration steigern, Deep Work aufbauen und ihre wichtigsten Aufgaben konsequent umsetzen.</p>
+<p> </p>
+<p><strong>Große Zielgruppe:</strong></p>
+<p>Selbstständige<br />Studenten<br />Unternehmer<br />Wissensarbeiter</p>
+<p> </p>
+<p>✔ professionelles Produktdesign<br />✔ leicht verständliches Thema<br />✔ attraktive <strong>50 % Affiliate-Provision</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/674791?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55861/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/674791
 - Canonical redirect: https://www.digistore24.com/redir/674791/adminstore
 
@@ -94,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 1-Stunden-Fokus-Methode? — Typ: Downloads, Anbieter: pgustke28d278, gelistet seit 2026-03-09
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

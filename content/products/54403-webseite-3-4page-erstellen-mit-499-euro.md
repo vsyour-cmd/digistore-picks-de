@@ -4,34 +4,34 @@ digistore24_product_id: 632019
 title: "Webseite 3-4Page erstellen mit 499 euro"
 vendor: "Skenteridis"
 product_type: "Remote service provided electronically"
-price: 559.18
+price: 557.93
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 139.79
+earnings_per_sale: 139.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2025-08-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://robotics-marketing.com/de-landing/webseite-3-4page-erstellen-guenstig-digistore1-landing/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54403/adminstore/"
 sales_page: "https://robotics-marketing.com/de-landing/webseite-3-4page-erstellen-guenstig-digistore1-landing/"
 language: "de"
 ---
 # Webseite 3-4Page erstellen mit 499 euro
 
 > Product ID `54403` · Digistore24 productId `632019` · [HTML profile page](../../produkte/webseite-3-4page-erstellen-mit-499-euro-54403.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $559.18 (Single payment) |
+| Price | $557.93 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $139.79 |
+| Earnings/sale* | $139.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skenteridis |
@@ -41,11 +41,40 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** WEBSEITE ERSTELLEN ” 3-4 Page “ Nur mit 499€ #1 Alles Wichtige in 3-4 Seiten Responsive Seite #2 Nach Ihre Bedürfnisse. Fotos,Texte,Videos #3 Dienstleistungen-Produkten in Kürze #4 Inkl. Links zu Ihre Social Media #5 Inkl. einfache Kontakt-formular & Map #6 Netto Preis fürs Webseite Erstellen #7 Domain Name & Hosting zusätzlich kosten #8 Nach bezahlen - folgen ZOOM Gespräche - Planung #9 Pflege : …
+**Vendor's marketplace description:** <div>
+<div>
+<h1><span style="color:#000080;">WEBSEITE ERSTELLEN</span></h1>
+</div>
+</div>
+<div>
+<div>
+<h1><span style="color:#000080;">” 3-4 Page “</span></h1>
+</div>
+</div>
+<div>
+<div>
+<p>Nur mit 499<em>€</em></p>
+<p> </p>
+<ul>
+<li>#1 Alles Wichtige in 3-4 Seiten  Responsive Seite</li>
+<li>#2 Nach Ihre Bedürfnisse. Fotos,Texte,Videos</li>
+<li>#3 Dienstleistungen-Produkten in Kürze</li>
+<li>  #4 Inkl. Links zu Ihre Social Media</li>
+<li>  #5 Inkl. einfache Kontakt-formular &amp; Map</li>
+<li>  #6 Netto Preis fürs Webseite Erstellen</li>
+<li>  #7 Domain Name &amp; Hosting zusätzlich kosten</li>
+<li>  #8 Nach bezahlen - folgen ZOOM Gespräche - Planung  </li>
+</ul>
+<ul>
+<li>#9 Pflege : Ja möglich zusätzlich kosten</li>
+<li>Schauen Sie hier beim Verkaufsseite unsere Video, was können wir für Euch tun sehr günstig</li>
+</ul>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://robotics-marketing.com/de-landing/webseite-3-4page-erstellen-guenstig-digistore1-landing/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54403/adminstore/
 - Sales page: https://robotics-marketing.com/de-landing/webseite-3-4page-erstellen-guenstig-digistore1-landing/
 - Vendor affiliate support: https://robotics-marketing.com/de-landing/affiliate-partner-webdesign-digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/632019/adminstore
@@ -96,7 +125,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Webseite 3-4Page erstellen mit 499 euro? — Typ: Remote service provided electronically, Anbieter: Skenteridis, gelistet seit 2025-08-26
-- Wie viel kostet es? — 559.1794 USD
+- Wie viel kostet es? — 557.9319 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

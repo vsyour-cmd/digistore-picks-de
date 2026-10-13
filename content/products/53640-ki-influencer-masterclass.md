@@ -4,7 +4,7 @@ digistore24_product_id: 628584
 title: "KI Influencer Masterclass"
 vendor: "MediaMende"
 product_type: "Member area and video courses"
-price: 5.83
+price: 5.81
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 1.03
@@ -12,8 +12,8 @@ cart_conversion_pct: 12
 cancel_rate_pct: 1.2
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2025-08-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.avatare.io?aff=adminstore#aff=adminstore"
 sales_page: "https://www.avatare.io"
@@ -22,14 +22,14 @@ language: "de"
 # KI Influencer Masterclass
 
 > Product ID `53640` · Digistore24 productId `628584` · [HTML profile page](../../produkte/ki-influencer-masterclass-53640.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $5.83 (Single payment) |
+| Price | $5.81 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $1.03 |
 | Cart conversion* | 12% |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb eines der neusten Möglichkeiten der KI Welt, bereits über 100 Kunden in 15 Tagen generiert. 60% Provision auf das Produkt und Orderbump (97€ und 12€) 50% auf den Downsell I (67 €)Sei mit dabei und sichere dir fertige Werbemittel für deine Landingpage, E-Mails oder Social Media Kanäle
+**Vendor's marketplace description:** <p>Bewirb eines der neusten Möglichkeiten der KI Welt, bereits über 100 Kunden in 15 Tagen generiert. <br /><br />60% Provision auf das Produkt und Orderbump (97€ und 12€) <br />50% auf den Downsell I (67 €)<br /><br />Sei mit dabei und sichere dir fertige Werbemittel für deine Landingpage, E-Mails oder Social Media Kanäle</p>
 
 ## 2. Links
 
@@ -59,7 +59,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Influencer Masterclass? — Typ: Member area and video courses, Anbieter: MediaMende, gelistet seit 2025-08-08
-- Wie viel kostet es? — 5.827120000000001 USD
+- Wie viel kostet es? — 5.814120000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

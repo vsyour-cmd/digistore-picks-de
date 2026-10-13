@@ -4,34 +4,34 @@ digistore24_product_id: 701415
 title: "Erfolgreich als Coach mit Clubhouse"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-clubhouse?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56995/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-clubhouse"
 language: "de"
 ---
 # Erfolgreich als Coach mit Clubhouse
 
 > Product ID `56995` · Digistore24 productId `701415` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-clubhouse-56995.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du Live-Audio-Rooms nutzt, um Vertrauen aufzubauen und planbar Kunden zu gewinnen Als Coach ist deine Stimme dein mächtigstes Werkzeug – und auf Clubhouse steht sie im Mittelpunkt. Dieses E-Book zeigt dir, wie du regelmäßige Live-Rooms als Bühne für deine Expertise nutzt, eine loyale Zuhörerschaft aufbaust und aus echten Gesprächen planbar Erstgespräche und Kunden gewinnst. Du lernst, wie du C…
+**Vendor's marketplace description:** <p><strong>Wie du Live-Audio-Rooms nutzt, um Vertrauen aufzubauen und planbar Kunden zu gewinnen</strong></p>
+<p>Als Coach ist deine Stimme dein mächtigstes Werkzeug – und auf Clubhouse steht sie im Mittelpunkt. Dieses E-Book zeigt dir, wie du regelmäßige Live-Rooms als Bühne für deine Expertise nutzt, eine loyale Zuhörerschaft aufbaust und aus echten Gesprächen planbar Erstgespräche und Kunden gewinnst. Du lernst, wie du Clubhouse-Talks strukturierst, die deinen Expertenstatus stärken, ohne dein gesamtes Wissen zu verschenken, wie du über Clubs eine Community aufbaust, die auf jede Session wartet, und wie du den Funnel von der Bühne über den direkten Austausch bis zum Abschluss aufbaust. Authentizität ist hier kein Schlagwort – sie ist der entscheidende Hebel, der auf Clubhouse über Erfolg oder Misserfolg entscheidet.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Room-Konzepte entwickeln, die deine Wunschkunden anziehen</li>
+<li>Expertise zeigen ohne alles zu verraten – die goldene Balance</li>
+<li>Wiederkehrende Talk-Formate für konstante Sichtbarkeit und Bindung</li>
+<li>Moderations-Techniken, die Vertrauen und Autorität ausstrahlen</li>
+<li>Von der Bühne zum Erstgespräch: der Clubhouse-Funnel für Coaches</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-clubhouse?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56995/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-clubhouse
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701415/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit Clubhouse? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

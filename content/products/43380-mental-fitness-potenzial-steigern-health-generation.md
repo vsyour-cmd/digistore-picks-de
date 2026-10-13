@@ -4,16 +4,16 @@ digistore24_product_id: 467235
 title: "Mental Fitness Potenzial steigern - health-generation"
 vendor: "Josef85"
 product_type: "Member area and video courses"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.68
+earnings_per_sale: 45.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-10-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://academy.health-generation.com/mental-fitness-mental-stark?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.health-generation.com/mental-fitness-mental-stark"
@@ -22,16 +22,16 @@ language: "de"
 # Mental Fitness Potenzial steigern - health-generation
 
 > Product ID `43380` · Digistore24 productId `467235` · [HTML profile page](../../produkte/mental-fitness-potenzial-steigern-health-generation-43380.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.68 |
+| Earnings/sale* | $45.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Josef85 |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle unsere Mindset Programme von health-generation und verdiene an allen weiteren Upsells/Cross-Sells! Deine Vorteile: --> Hohe Provisionen von 55% für alle Produkte im Bereich zwischen 7-200 Euro --> Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren hochoptimierten Segmentierungs-Verkaufsfunneln --> Schneller und professioneller Support durch unseren Affiliate-Manager Nach dem…
+**Vendor's marketplace description:** <h4><span style="color:#ff0000;"><strong>Empfehle unsere Mindset Programme von health-generation und verdiene an allen weiteren Upsells/Cross-Sells!</strong></span></h4>
+<div>
+<p><strong>Deine Vorteile:</strong></p>
+<p>--&gt; Hohe Provisionen von <strong>55%</strong> für alle Produkte im Bereich zwischen 7-200 Euro</p>
+<p>--&gt; Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren <strong>hochoptimierten Segmentierungs-Verkaufsfunneln </strong></p>
+<p>--&gt; Schneller und professioneller Support durch unseren Affiliate-Manager</p>
+<p> </p>
+<p>Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt.</p>
+<p>Du erhältst Provisionen für jeden weiteren Verkauf!</p>
+<p>Melde dich jetzt als Affiliate an und baue dir ein passives Einkommen auf.</p>
+<p>Auf eine erfolgreiche Aktion!</p>
+<p>health-generation ist <strong>Experte für Mental Coaching &amp; Hypnose</strong>. Mit allen Programmen kannst du jederzeit höchste menschliche Erfahrungen machen. Diese Erfahrungen können deine Selbstheilungskräfte aktivieren, inneres Glück &amp; Frieden freisetzen, deine Weltsicht transformieren, dich von Ängsten befreien oder dich zum erreichen deiner Ziele, Wünsche und Ideale befähigen.</p>
+<p>Beste Grüße,<br />Josef Kryenbuehl von health-geneation</p>
+</div>
 
 ## 2. Links
 
@@ -88,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mental Fitness Potenzial steigern - health-generation? — Typ: Member area and video courses, Anbieter: Josef85, gelistet seit 2022-10-31
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

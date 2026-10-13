@@ -4,34 +4,34 @@ digistore24_product_id: 701491
 title: "Das Steinzeitgehirn im Schlaraffenland"
 vendor: "That-Clicks"
 product_type: "E-books"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.23
+earnings_per_sale: 5.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Personal Development"]
 listed_since: "2026-06-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ebooks.that-clicks.de/buecher/das-steinzeitgehirn-im-schlaraffenland?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57131/adminstore/"
 sales_page: "https://ebooks.that-clicks.de/buecher/das-steinzeitgehirn-im-schlaraffenland"
 language: "de"
 ---
 # Das Steinzeitgehirn im Schlaraffenland
 
 > Product ID `57131` · Digistore24 productId `701491` · [HTML profile page](../../produkte/das-steinzeitgehirn-im-schlaraffenland-57131.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.23 |
+| Earnings/sale* | $5.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | That-Clicks |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Steinzeitgehirn im Schlaraffenland Warum wir essen, wie wir essen - und warum Genuss kein Fehler ist Du musst dein Essen nicht kontrollieren. Du musst es verstehen. Dieses Buch erklärt, warum wir essen, wie wir essen - jenseits von Kalorientabellen und guten Vorsätzen. Es zeigt, dass Heißhunger, Frustessen und das Scheitern von Diäten kein Zeichen von zu wenig Disziplin sind, sondern die logis…
+**Vendor's marketplace description:** <h1>Das Steinzeitgehirn im Schlaraffenland</h1>
+<h2>Warum wir essen, wie wir essen - und warum Genuss kein Fehler ist</h2>
+<p>Du musst dein Essen nicht kontrollieren. Du musst es verstehen.</p>
+<p>Dieses Buch erklärt, warum wir essen, wie wir essen - jenseits von Kalorientabellen und guten Vorsätzen. Es zeigt, dass Heißhunger, Frustessen und das Scheitern von Diäten kein Zeichen von zu wenig Disziplin sind, sondern die logische Reaktion eines uralten Gehirns auf eine moderne Welt voller Überfluss.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ebooks.that-clicks.de/buecher/das-steinzeitgehirn-im-schlaraffenland?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57131/adminstore/
 - Sales page: https://ebooks.that-clicks.de/buecher/das-steinzeitgehirn-im-schlaraffenland
 - Canonical redirect: https://www.digistore24.com/redir/701491/adminstore
 
@@ -72,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Steinzeitgehirn im Schlaraffenland? — Typ: E-books, Anbieter: That-Clicks, gelistet seit 2026-06-25
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

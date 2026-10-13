@@ -4,16 +4,16 @@ digistore24_product_id: 701944
 title: "Anziehung verstehen"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 19.79
+price: 19.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.89
+earnings_per_sale: 9.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/anziehung-verstehen?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/anziehung-verstehen"
@@ -22,16 +22,16 @@ language: "de"
 # Anziehung verstehen
 
 > Product ID `57186` · Digistore24 productId `701944` · [HTML profile page](../../produkte/anziehung-verstehen-57186.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.79 (Single payment) |
+| Price | $19.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.89 |
+| Earnings/sale* | $9.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „Anziehung verstehen“ Was Menschen wirklich verbindet – Was zieht Menschen wirklich zueinander? Die Psychologie der Anziehung – verständlich und anwendbar. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,45 € pro Verkauf (Verkaufspreis 18,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Anziehung verstehen“</strong></p>
+<p>Was Menschen wirklich verbindet – Was zieht Menschen wirklich zueinander? Die Psychologie der Anziehung – verständlich und anwendbar.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – ca. 9,45 € pro Verkauf (Verkaufspreis 18,90 €)</li>
+<li>Gefragtes Thema mit großer Zielgruppe</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Die Psychologie der Anziehung verstehen</li>
+<li>Echte Verbindung statt Tricks</li>
+<li>Gemeinsamkeiten &amp; Spannung in Balance</li>
+<li>Anziehung langfristig erhalten</li>
+</ul>
 
 ## 2. Links
 
@@ -85,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Anziehung verstehen? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 19.789796000000003 USD
+- Wie viel kostet es? — 19.745646 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

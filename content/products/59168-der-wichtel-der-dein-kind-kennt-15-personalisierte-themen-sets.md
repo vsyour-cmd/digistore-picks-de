@@ -4,16 +4,16 @@ digistore24_product_id: 723173
 title: "Der Wichtel, der dein Kind kennt – 15 personalisierte Themen-Sets"
 vendor: "Anha13"
 product_type: "E-books"
-price: 15.65
+price: 15.62
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 6.26
+earnings_per_sale: 6.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ahliving.de/ahliving-de-personalisierte-wichtelbriefe/?aff=adminstore#aff=adminstore"
 sales_page: "https://ahliving.de/ahliving-de-personalisierte-wichtelbriefe/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Wichtel, der dein Kind kennt – 15 personalisierte Themen-Sets
 
 > Product ID `59168` · Digistore24 productId `723173` · [HTML profile page](../../produkte/der-wichtel-der-dein-kind-kennt-15-personalisierte-themen-sets-59168.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.65 (Single payment) |
+| Price | $15.62 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $6.26 |
+| Earnings/sale* | $6.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Anha13 |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für wen: Eltern, die ihrem Kind Wichtelpost schenken wollen, die sich wirklich nach ihrem Kind anfühlt – mit seinem Namen und seinem Lieblingsthema, statt Einheitsbrief von der Stange. Was drin ist: 15 personalisierbare Wichtelbrief-Sets, ein Thema pro Set – von Pferden über Fußball, Experimente bis Gaming. Namen eintragen, zu Hause ausdrucken, fertig. Dazu Bastelvorlagen und Kärtchen zum Ausschne…
+**Vendor's marketplace description:** <p><strong>Für wen:</strong> Eltern, die ihrem Kind Wichtelpost schenken wollen, die sich wirklich nach ihrem Kind anfühlt – mit seinem Namen und seinem Lieblingsthema, statt Einheitsbrief von der Stange.</p>
+<p><strong>Was drin ist:</strong> 15 personalisierbare Wichtelbrief-Sets, ein Thema pro Set – von Pferden über Fußball, Experimente bis Gaming. Namen eintragen, zu Hause ausdrucken, fertig. Dazu Bastelvorlagen und Kärtchen zum Ausschneiden. Digital, sofort nach dem Kauf verfügbar und jedes Jahr wieder verwendbar.</p>
+<p><strong>Preis:</strong> 14,95 €  |  <strong>Provision:</strong> 40 %</p>
+<p><strong>Warum es sich verkauft:</strong> Personalisierung ist bei Wichtelpost das entscheidende Argument – ein Brief mit dem eigenen Namen und dem eigenen Lieblingsthema trifft Kinder anders als ein allgemeiner Text. Niedriger Preis, sofortige Auslieferung, kein Bastelaufwand.</p>
+<p><strong>Saison:</strong> Die Suche startet Anfang Oktober und gipfelt Anfang bis Mitte November. Bewerbung ab Oktober einplanen.</p>
+<p><strong>Passende Kanäle:</strong> Eltern- und Familienblogs, Accounts rund um Wichteltür, Advent, Weihnachten mit Kindern, Pinterest. Lässt sich gut gemeinsam mit dem 24-Tage-Wichtelplan derselben Anbieterin bewerben.</p>
 
 ## 2. Links
 
@@ -89,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Wichtel, der dein Kind kennt – 15 personalisierte Themen-Sets? — Typ: E-books, Anbieter: Anha13, gelistet seit 2026-09-13
-- Wie viel kostet es? — 15.654782 USD
+- Wie viel kostet es? — 15.619857000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

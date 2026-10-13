@@ -4,16 +4,16 @@ digistore24_product_id: 692792
 title: "50 % Provision: Prioritäten-Playbook für Führung"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 215.65
+price: 215.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 107.82
+earnings_per_sale: 107.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/692792?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/692792"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % Provision: Prioritäten-Playbook für Führung
 
 > Product ID `58790` · Digistore24 productId `692792` · [HTML profile page](../../produkte/50-provision-priorit-ten-playbook-f-r-f-hrung-58790.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $215.65 (Single payment) |
+| Price | $215.17 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $107.82 |
+| Earnings/sale* | $107.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Zu viele parallele Themen, widersprüchliche Prioritäten, kein klarer Fokus — eines der Probleme, das Teams am meisten Energie kostet, ohne dass es je richtig benannt wird. Das NAVOK Dimension Prioritäten-Playbook liefert PrioritätenPrinzipien, eine systematische Prioritätenlogik und PrioritätenRoutinen — entwickelt von einem erfahrenen Organisationsarchitekten und Interim Manager. Zielgruppe: Gesc…
+**Vendor's marketplace description:** <p>Zu viele parallele Themen, widersprüchliche Prioritäten, kein klarer Fokus — eines der <strong>Probleme, das Teams am meisten Energie kostet,</strong> ohne dass es je richtig benannt wird.</p>
+<p>Das <strong>NAVOK Dimension Prioritäten-Playbook</strong> liefert PrioritätenPrinzipien, eine systematische Prioritätenlogik und PrioritätenRoutinen — entwickelt von einem erfahrenen Organisationsarchitekten und Interim Manager.</p>
+<p><strong>Zielgruppe:</strong> Geschäftsführung im Mittelstand, HR- und Organisationsentwickler, Berater und Coaches im B2B-Umfeld.</p>
+<p><strong>Für Sie als Affiliate:</strong> Aktuell zeitlich befristet 50 % Provision <strong>PLUS</strong> 15 € Bonus pro Verkauf. Über die NAVOK-Lifetime-Regel erhalten Sie zusätzlich automatisch Provision, wenn derselbe Kunde später eines der anderen sechs NAVOK-Produkte kauft — ganz ohne erneuten Klick auf Ihren Link. Fertige Werbemittel und Texte finden Sie auf unserer Affiliate-Support-Seite.</p>
+<p>Digitaler Download, sofort verfügbar.</p>
 
 ## 2. Links
 
@@ -91,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision: Prioritäten-Playbook für Führung? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-08-31
-- Wie viel kostet es? — 215.648264 USD
+- Wie viel kostet es? — 215.167164 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

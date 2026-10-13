@@ -4,34 +4,34 @@ digistore24_product_id: 738058
 title: "Love-Scamming erkennen – Online-Dating ab 50"
 vendor: "ITServiceMB"
 product_type: "E-books"
-price: 13.51
+price: 13.48
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.76
+earnings_per_sale: 6.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.kurven-klasse.de/lovescam/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59967/adminstore/"
 sales_page: "https://www.kurven-klasse.de/lovescam/"
 language: "de"
 ---
 # Love-Scamming erkennen – Online-Dating ab 50
 
 > Product ID `59967` · Digistore24 productId `738058` · [HTML profile page](../../produkte/love-scamming-erkennen-online-dating-ab-50-59967.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.51 (Single payment) |
+| Price | $13.48 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.76 |
+| Earnings/sale* | $6.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ITServiceMB |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein praxisnahes E-Book für die wachsende Zielgruppe Online-Dating ab 50. „IST DAS WIRKLICH LIEBE?“ zeigt Frauen und Männern, wie sie Love-Scamming, Fake-Profile und typische Manipulationsstrategien frühzeitig erkennen können. Behandelt werden unter anderem Love Bombing, widersprüchliche Geschichten, ständig verschobene Treffen, Geldforderungen, Krypto- und Investmentgeschichten sowie KI-Bilder, De…
+**Vendor's marketplace description:** <p><strong>Ein praxisnahes E-Book für die wachsende Zielgruppe Online-Dating ab 50.</strong></p>
+<p>„IST DAS WIRKLICH LIEBE?“ zeigt Frauen und Männern, wie sie Love-Scamming, Fake-Profile und typische Manipulationsstrategien frühzeitig erkennen können.</p>
+<p>Behandelt werden unter anderem Love Bombing, widersprüchliche Geschichten, ständig verschobene Treffen, Geldforderungen, Krypto- und Investmentgeschichten sowie KI-Bilder, Deepfakes und gefälschte Stimmen.</p>
+<p>Ein besonderer Bestandteil ist der <strong>30-Punkte-Love-Scam-Check</strong>, mit dem neue Online-Kontakte systematisch eingeschätzt werden können.</p>
+<p><strong>Produkt:</strong> digitales PDF-E-Book<br /><strong>Umfang:</strong> 84 Seiten<br /><strong>Zielgruppe:</strong> Frauen und Männer ab 50 sowie Angehörige<br /><strong>Verkaufspreis:</strong> 12,90 € einmalig<br /><strong>Auslieferung:</strong> sofortiger digitaler Download</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.kurven-klasse.de/lovescam/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59967/adminstore/
 - Sales page: https://www.kurven-klasse.de/lovescam/
 - Vendor affiliate support: https://www.kurven-klasse.de/lovescam/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/738058/adminstore
@@ -80,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Love-Scamming erkennen – Online-Dating ab 50? — Typ: E-books, Anbieter: ITServiceMB, gelistet seit 2026-09-27
-- Wie viel kostet es? — 13.514436000000002 USD
+- Wie viel kostet es? — 13.484286 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

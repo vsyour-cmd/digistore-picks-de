@@ -4,16 +4,16 @@ digistore24_product_id: 384784
 title: "AZAV Online-Akademie - Prozesse in der AZAV"
 vendor: "UrsulaWienken"
 product_type: "Webinar"
-price: 149.72
+price: 149.39
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 44.91
+earnings_per_sale: 44.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Leadership & Management"]
 listed_since: "2021-04-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-konforme-prozesse-definieren?aff=adminstore#aff=adminstore"
 sales_page: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-konforme-prozesse-definieren"
@@ -22,16 +22,16 @@ language: "de"
 # AZAV Online-Akademie - Prozesse in der AZAV
 
 > Product ID `36522` · Digistore24 productId `384784` · [HTML profile page](../../produkte/azav-online-akademie-prozesse-in-der-azav-36522.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $149.72 (Single payment) |
+| Price | $149.39 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $44.91 |
+| Earnings/sale* | $44.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UrsulaWienken |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wer die AZAV beherrschen will, der muss ich mit dem Thema Prozessmanagement auseinandersetzen. Das Training leitet die Teilnehmer*innen praxisbezogen und gut nachvollziehbar durch die Welt der AZAV-Prozesse, liefert den notwendigen theoretischen Hintergrund, ohne zu akademisch zu werden und beinhaltet Übungen und viele praxisrelevante Arbeitshilfen und Beispiele.
+**Vendor's marketplace description:** <p>Wer die AZAV beherrschen will, der muss ich mit dem Thema Prozessmanagement auseinandersetzen.</p>
+<p>Das Training leitet die Teilnehmer*innen praxisbezogen und gut nachvollziehbar durch die Welt der AZAV-Prozesse, liefert den notwendigen theoretischen Hintergrund, ohne zu akademisch zu werden und beinhaltet Übungen und viele praxisrelevante Arbeitshilfen und Beispiele. </p>
+<p> </p>
 
 ## 2. Links
 
@@ -80,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AZAV Online-Akademie - Prozesse in der AZAV? — Typ: Webinar, Anbieter: UrsulaWienken, gelistet seit 2021-04-15
-- Wie viel kostet es? — 149.72336600000003 USD
+- Wie viel kostet es? — 149.38934100000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

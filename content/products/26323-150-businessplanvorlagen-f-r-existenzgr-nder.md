@@ -4,34 +4,34 @@ digistore24_product_id: 240041
 title: "150 Businessplanvorlagen für Existenzgründer"
 vendor: "Gruenderplan"
 product_type: "Downloads"
-price: 70
+price: 69.85
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.41
+earnings_per_sale: 11.38
 cart_conversion_pct: 15
 cancel_rate_pct: 4.49
 categories: ["Profession & Job"]
 listed_since: "2018-09-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://gruenderplan.de/index.php/businessplanvorlagen/dienstleistung/ambulante-pflege?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/26323/adminstore/"
 sales_page: "https://gruenderplan.de/index.php/businessplanvorlagen/dienstleistung/ambulante-pflege"
 language: "de"
 ---
 # 150 Businessplanvorlagen für Existenzgründer
 
 > Product ID `26323` · Digistore24 productId `240041` · [HTML profile page](../../produkte/150-businessplanvorlagen-f-r-existenzgr-nder-26323.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $70.00 (Single payment) |
+| Price | $69.85 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.41 |
+| Earnings/sale* | $11.38 |
 | Cart conversion* | 15% |
 | Cancel rate* | 4.49% |
 | Vendor | Gruenderplan |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Gruenderplan.de bietet 150 verschiedene Businessplanvorlagen für Existenzgründer an. Einzigartiges Marktpotential Riesige Auswahl: Businessplanvorlagen für ca. 150 Branchen 30 % Provision auf deine Verkäufe zusätzlich 10 % Zweistufen-Provisionen auf die Provisionen der von dir geworbenen Affiliates
+**Vendor's marketplace description:** <p> </p>
+<p style="text-align:center;"><span style="color:#ff0000;"><strong>Gruenderplan.de bietet </strong></span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"><strong>150 verschiedene Businessplanvorlagen </strong></span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"><strong>für Existenzgründer an. </strong></span></p>
+<p style="text-align:center;"> </p>
+<ul style="list-style-type:disc;">
+<li><strong>Einzigartiges Marktpotential</strong></li>
+<li><strong>Riesige Auswahl: Businessplanvorlagen für ca. 150 Branchen</strong></li>
+<li><strong>30 % Provision auf deine Verkäufe</strong></li>
+<li><strong>zusätzlich 10 % Zweistufen-Provisionen auf die Provisionen der von dir geworbenen Affiliates</strong></li>
+</ul>
+<p style="text-align:center;"><strong> </strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://gruenderplan.de/index.php/businessplanvorlagen/dienstleistung/ambulante-pflege?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/26323/adminstore/
 - Sales page: https://gruenderplan.de/index.php/businessplanvorlagen/dienstleistung/ambulante-pflege
 - Vendor affiliate support: https://gruenderplan.de/index.php/partner
 - Canonical redirect: https://www.digistore24.com/redir/240041/adminstore
@@ -79,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 150 Businessplanvorlagen für Existenzgründer? — Typ: Downloads, Anbieter: Gruenderplan, gelistet seit 2018-09-15
-- Wie viel kostet es? — 70.003882 USD
+- Wie viel kostet es? — 69.847707 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

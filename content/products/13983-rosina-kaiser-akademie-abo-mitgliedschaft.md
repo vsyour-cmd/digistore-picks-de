@@ -4,34 +4,34 @@ digistore24_product_id: 100605
 title: "Rosina-Kaiser-Akademie (ABO-Mitgliedschaft)"
 vendor: "rosinakaiser"
 product_type: "Member area and video courses"
-price: 545.6
+price: 544.38
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 47.2
+earnings_per_sale: 47.09
 cart_conversion_pct: 4
 cancel_rate_pct: 2.99
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2016-10-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.rosinakaiser.de/webinar?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/13983/adminstore/"
 sales_page: "https://www.rosinakaiser.de/webinar"
 language: "de"
 ---
 # Rosina-Kaiser-Akademie (ABO-Mitgliedschaft)
 
 > Product ID `13983` · Digistore24 productId `100605` · [HTML profile page](../../produkte/rosina-kaiser-akademie-abo-mitgliedschaft-13983.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $545.60 (Subscription) |
+| Price | $544.38 (Subscription) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $47.20 |
+| Earnings/sale* | $47.09 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.99% |
 | Vendor | rosinakaiser |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Rosina-Kaiser-Akademie ist eine exklusive Mitgliedschaft. Jedes Monat werden den KUnden neue Inhalte und Bonis zur Verfügung gestellt. Dadurch erreichen wir eine lange Bleibedauer aller Kunden in der Mitgliedschaft. Melde dich hier zu unserem Affiliate-Programm an Dieses ABO-Produkt wir über ein Webinar beworben. Hier die wichtigsten Fakten: Webinar-Anmeldung: ca. 51% aller Besucher auf der We…
+**Vendor's marketplace description:** <p> <strong>Die Rosina-Kaiser-Akademie ist eine exklusive Mitgliedschaft. Jedes Monat werden den KUnden neue Inhalte und Bonis zur Verfügung gestellt.</strong></p>
+<p>Dadurch erreichen wir eine lange Bleibedauer aller Kunden in der Mitgliedschaft.</p>
+<p><strong><span style="color:#ff0000;"><a style="color:#ff0000;" href="http://www.rosina-kaiser-produkte.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">Melde dich hier zu unserem Affiliate-Programm an</a></span></strong><a><br /><br /></a></p>
+<p>Dieses ABO-Produkt wir über ein Webinar beworben. Hier die wichtigsten Fakten:</p>
+<ul>
+<li>Webinar-Anmeldung: ca. 51% aller Besucher auf der Website</li>
+<li>Kauf-Rate der Webinarteilnehmer: 21%</li>
+<li>Kauf-Rate für das Upsell-Produkt: 39%</li>
+</ul>
+<p>Die Zahlen sprechen für sich!<br /><br /></p>
+<p>Anhand der Statistiken siehst Du selbst sehr deutlich, dass die Conversion-Rate sehr gut ist und Du dir durch das ABO-Modell langfristige Provisionen sichern kannst..<br /><br /></p>
+<p>Viele Grüße,<br />Rosina Kaiser</p>
+<p> </p>
+<p>Link: <strong><span style="color:#ff0000;"><a style="color:#ff0000;" href="http://www.rosina-kaiser-produkte.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">Hier gehts zum Affiliate-Programm</a></span></strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.rosinakaiser.de/webinar?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/13983/adminstore/
 - Sales page: https://www.rosinakaiser.de/webinar
 - Vendor affiliate support: https://www.rosinakaiser.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/100605/adminstore
@@ -81,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rosina-Kaiser-Akademie (ABO-Mitgliedschaft)? — Typ: Member area and video courses, Anbieter: rosinakaiser, gelistet seit 2016-10-19
-- Wie viel kostet es? — 545.597728 USD
+- Wie viel kostet es? — 544.380528 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

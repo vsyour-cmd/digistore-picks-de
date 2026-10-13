@@ -4,7 +4,7 @@ digistore24_product_id: 732563
 title: "Schatten und Licht – Dein 14-Tage-Journal"
 vendor: "entdeckerei"
 product_type: "Downloads"
-price: 12.24
+price: 12.21
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.22
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/732563?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59313/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/732563"
 language: "de"
 ---
 # Schatten und Licht – Dein 14-Tage-Journal
 
 > Product ID `59313` · Digistore24 productId `732563` · [HTML profile page](../../produkte/schatten-und-licht-dein-14-tage-journal-59313.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.24 (Single payment) |
+| Price | $12.21 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.22 |
 | Cart conversion* | — |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Schatten & Licht – Dein 14-Tage-Journal für gute und schwierige Tage (PDF) Für die Tage, an denen alles läuft – und besonders für die, an denen es mal schwerfällt. Leben ist nicht nur Sonnenschein. Dieses 14-Tage-Journal bietet einen ehrlichen, geschützten Raum, um sowohl die hellen Momente zu feiern als auch die Tage zu verarbeiten, an denen der Akku leer ist. Es hilft deiner Zielgruppe dabei, sc…
+**Vendor's marketplace description:** <p>Schatten &amp; Licht – Dein 14-Tage-Journal für gute und schwierige Tage (PDF)</p>
+<p><strong>Für die Tage, an denen alles läuft – und besonders für die, an denen es mal schwerfällt.</strong></p>
+<p>Leben ist nicht nur Sonnenschein. Dieses 14-Tage-Journal bietet einen ehrlichen, geschützten Raum, um sowohl die hellen Momente zu feiern als auch die Tage zu verarbeiten, an denen der Akku leer ist. Es hilft deiner Zielgruppe dabei, schlechte Tage ohne Druck anzunehmen, die eigenen Gefühle ehrlich zu sortieren und Schritt für Schritt wieder ins Gleichgewicht zu finden.</p>
+<p><strong>Vorteile für Käufer:</strong></p>
+<ul>
+<li>
+<p><strong>Ehrliche Reflexion:</strong> Platz für gute Tage und sanfte Unterstützung, wenn es mal nicht so läuft</p>
+</li>
+<li>
+<p><strong>Ohne Toxischen Positivismus:</strong> Kein erzwungenes „Gut-Drauf-Sein“, sondern ehrlicher Umgang mit dem eigenen Befinden</p>
+</li>
+<li>
+<p><strong>Sofortiger PDF-Download:</strong> 14 Tage strukturierter Begleiter für mehr innere Balance im Alltag</p>
+</li>
+</ul>
+<p>Ideal für Affiliates in den Bereichen Selfcare, Achtsamkeit, Mentale Gesundheit und Alltags-Empowerment!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/732563?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59313/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/732563
 - Canonical redirect: https://www.digistore24.com/redir/732563/adminstore
 
@@ -71,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schatten und Licht – Dein 14-Tage-Journal? — Typ: Downloads, Anbieter: entdeckerei, gelistet seit 2026-09-17
-- Wie viel kostet es? — 12.236952 USD
+- Wie viel kostet es? — 12.209652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

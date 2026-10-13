@@ -4,34 +4,34 @@ digistore24_product_id: 411939
 title: "Digitale Mitglieder-Plattform: Simpel-Abnehmen-Programm"
 vendor: "programmschlank"
 product_type: "Member area and video courses"
-price: 56.46
+price: 56.33
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 14.12
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2021-10-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://simpelabnehmen.de/einmaliges-angebot-2/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46569/adminstore/"
 sales_page: "https://simpelabnehmen.de/einmaliges-angebot-2/"
 language: "de"
 ---
 # Digitale Mitglieder-Plattform: Simpel-Abnehmen-Programm
 
 > Product ID `46569` · Digistore24 productId `411939` · [HTML profile page](../../produkte/digitale-mitglieder-plattform-simpel-abnehmen-programm-46569.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $56.46 (Subscription) |
+| Price | $56.33 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $14.12 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | programmschlank |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die digitale Mitglieder-Plattform für ein gesundes Abnehmen und aktiveres Leben enthält folgende Inhalte: alle 3 Wochen gibt es ein Ernährungsplan wertvolle Geheimtipps Bonusrezepte individuelle Betreuung gemeinsames Forum mit allen Mitgliedern, um Fragen zu klären und Erfahrungen bzw. Erfolge zu teilen Blogbeiträge mit Tipps und Tricks
+**Vendor's marketplace description:** <p>Die digitale Mitglieder-Plattform für ein gesundes Abnehmen und aktiveres Leben enthält folgende Inhalte:</p>
+<ul>
+<li>alle 3 Wochen gibt es ein Ernährungsplan</li>
+<li>wertvolle Geheimtipps</li>
+<li>Bonusrezepte</li>
+<li>individuelle Betreuung </li>
+<li>gemeinsames Forum mit allen Mitgliedern, um Fragen zu klären und Erfahrungen bzw. Erfolge zu teilen</li>
+<li>Blogbeiträge mit Tipps und Tricks</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://simpelabnehmen.de/einmaliges-angebot-2/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46569/adminstore/
 - Sales page: https://simpelabnehmen.de/einmaliges-angebot-2/
 - Canonical redirect: https://www.digistore24.com/redir/411939/adminstore
 
@@ -79,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Mitglieder-Plattform: Simpel-Abnehmen-Programm? — Typ: Member area and video courses, Anbieter: programmschlank, gelistet seit 2021-10-14
-- Wie viel kostet es? — 56.455828000000004 USD
+- Wie viel kostet es? — 56.32987800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

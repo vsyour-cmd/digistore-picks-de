@@ -4,16 +4,16 @@ digistore24_product_id: 717911
 title: "Das zweite Standbein – 5 echte Wege, mit KI nebenbei mehr Ge"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Marketing Services"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/717911?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/717911"
@@ -22,16 +22,16 @@ language: "de"
 # Das zweite Standbein – 5 echte Wege, mit KI nebenbei mehr Ge
 
 > Product ID `58116` · Digistore24 productId `717911` · [HTML profile page](../../produkte/das-zweite-standbein-5-echte-wege-mit-ki-nebenbei-mehr-ge-58116.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Fünf echte Wege, mit KI-Unterstützung nebenbei mehr Geld und Freiheit aufzubauen – mit echten Geschichten, echten Zahlen, ohne leere Versprechen. Ideal für Zielgruppen im Bereich Business, Nebenverdienst und Selbstständigkeit. 23 Kapitel, 30-Tage-Fahrplan, im ehrlichen Freund-Ton statt Berater-Sprech. 50% Provision pro Verkauf.
+**Vendor's marketplace description:** <p>Fünf echte Wege, mit KI-Unterstützung nebenbei mehr Geld und Freiheit aufzubauen – mit echten Geschichten, echten Zahlen, ohne leere Versprechen. Ideal für Zielgruppen im Bereich Business, Nebenverdienst und Selbstständigkeit.</p>
+<p> </p>
+<p>23 Kapitel, 30-Tage-Fahrplan, im ehrlichen Freund-Ton statt Berater-Sprech. 50% Provision pro Verkauf.</p>
 
 ## 2. Links
 
@@ -79,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das zweite Standbein – 5 echte Wege, mit KI nebenbei mehr Ge? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-04
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

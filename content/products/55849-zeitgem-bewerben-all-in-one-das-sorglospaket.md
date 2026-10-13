@@ -4,34 +4,34 @@ digistore24_product_id: 674178
 title: "Zeitgemäß bewerben - All-in-One - Das Sorglospaket"
 vendor: "Diveco"
 product_type: "E-books"
-price: 130.81
+price: 130.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 65.41
+earnings_per_sale: 65.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2026-03-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55849/adminstore/"
 sales_page: "https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/"
 language: "de"
 ---
 # Zeitgemäß bewerben - All-in-One - Das Sorglospaket
 
 > Product ID `55849` · Digistore24 productId `674178` · [HTML profile page](../../produkte/zeitgem-bewerben-all-in-one-das-sorglospaket-55849.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $130.81 (Single payment) |
+| Price | $130.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $65.41 |
+| Earnings/sale* | $65.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -41,11 +41,64 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dein Traumjob passt perfekt zu dir – aber deine Bewerbung kriegt nur Absagen? Aha-Moment: Wusstest du, dass Recruiter im Schnitt nur 6 Sekunden für den ersten Blick auf deinen Lebenslauf brauchen? Wenn du in dieser Zeit nicht überzeugst, bist du raus. Schluss mit Nächten voller „leeres Blatt“-Panik und dem Gefühl, unsichtbar zu sein. Die Probleme (Pains) Bewerben fühlt sich oft an wie ein Kampf ge…
+**Vendor's marketplace description:** <p>Dein Traumjob passt perfekt zu dir – aber deine Bewerbung kriegt nur Absagen?</p>
+<p><em>Aha-Moment:</em> Wusstest du, dass Recruiter im Schnitt nur 6 Sekunden für den ersten Blick auf deinen Lebenslauf brauchen? Wenn du in dieser Zeit nicht überzeugst, bist du raus. Schluss mit Nächten voller „leeres Blatt“-Panik und dem Gefühl, unsichtbar zu sein.</p>
+<h3><strong>Die Probleme (Pains)</strong></h3>
+<p>Bewerben fühlt sich oft an wie ein Kampf gegen Windmühlen:</p>
+<ul>
+<li>
+<p>Du weißt nicht, wie du deine Soft Skills authentisch rüberbringst.</p>
+</li>
+<li>
+<p>Das Anschreiben klingt wie von 2010 – floskelhaft und langweilig.</p>
+</li>
+<li>
+<p>Die Angst, im Vorstellungsgespräch sprachlos zu sein, lähmt dich.</p>
+</li>
+</ul>
+<h3><strong>Die Lösung &amp; Der Nutzen (All-in-One Sorglospacket)</strong></h3>
+<p>Es ist Zeit für die Abkürzung. Das <strong>„Zeitgemäß bewerben Workbook – All-in-One“</strong> ist dein kompletter Fahrplan zum Vertrag. Wir zeigen dir, wie du modern, kompetent und mit Plan statt Panik überzeugst.</p>
+<p><strong>Dein direkter Nutzen:</strong></p>
+<ul>
+<li>
+<p><strong>90% Zeitersparnis:</strong> Exklusive KI-Prompts schreiben authentische Anschreiben für dich. Du fütterst die KI, sie liefert den Text.</p>
+</li>
+<li>
+<p><strong>Auffallen ohne Aufwand:</strong> 3 sofort umsetzbare Lebenslauf-Lösungen, damit du aus der Masse herausstichst.</p>
+</li>
+<li>
+<p><strong>Souveränität im Schlaf:</strong> 64 konkrete Antwort-Vorschläge für fiese Fragen im Vorstellungsgespräch. Nie wieder sprachlos.</p>
+</li>
+</ul>
+<h3><strong>Der Inhalt (Gliederung &amp; Transparenz)</strong></h3>
+<p>Du bekommst ein System, kein eBook:</p>
+<ol>
+<li>
+<p><strong>Moderne Selbstanalyse:</strong> Finde deine echten Stärken.</p>
+</li>
+<li>
+<p><strong>Lebenslauf-Architekt:</strong> Perfekte Struktur für das Onlinebusiness.</p>
+</li>
+<li>
+<p><strong>KI-Schreibwerkstatt:</strong> Anschreiben, die Nutzen kommunizieren.</p>
+</li>
+<li>
+<p><strong>Interview-Masterclass:</strong> Moderne Vorbereitung, auch mit KI-Power.</p>
+</li>
+<li>
+<p><strong>Der Interview-Kompass:</strong> 64 Fragen, Antworten &amp; Strategien.</p>
+</li>
+<li>
+<p><strong>Follow-up System:</strong> Die perfekte Feedback-E-Mail nach dem Gespräch.</p>
+</li>
+</ol>
+<h3><strong>Der Bundle-Vorteil (Decoy Pricing)</strong></h3>
+<p>Statt dich durch mühsam gesammelte Einzelteile zu kämpfen (Gesamtwert ~~124,40 €~~), bekommst du das komplette Sorglospacket jetzt im Einführungspreis für nur <strong>69,00 €</strong>!</p>
+<p>Hör auf zu raten, fang an zu überzeugen. Hol dir das System, das dich zum Vertrag führt!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55849/adminstore/
 - Sales page: https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/
 - Vendor affiliate support: https://heinzbader.com/affiliate-support-seite-zeitgemaess-bewerben-all-in-one-das-sorglospaket/
 - Canonical redirect: https://www.digistore24.com/redir/674178/adminstore
@@ -96,7 +149,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zeitgemäß bewerben - All-in-One - Das Sorglospaket? — Typ: E-books, Anbieter: Diveco, gelistet seit 2026-03-06
-- Wie viel kostet es? — 130.807638 USD
+- Wie viel kostet es? — 130.515813 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

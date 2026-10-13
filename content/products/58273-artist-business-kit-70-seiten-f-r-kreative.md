@@ -4,34 +4,34 @@ digistore24_product_id: 719444
 title: "Artist Business Kit – 70 Seiten für Kreative"
 vendor: "madisson856cd5"
 product_type: "Downloads"
-price: 63.09
+price: 62.95
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 25.24
+earnings_per_sale: 25.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/719444?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58273/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/719444"
 language: "de"
 ---
 # Artist Business Kit – 70 Seiten für Kreative
 
 > Product ID `58273` · Digistore24 productId `719444` · [HTML profile page](../../produkte/artist-business-kit-70-seiten-f-r-kreative-58273.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $63.09 (Single payment) |
+| Price | $62.95 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $25.24 |
+| Earnings/sale* | $25.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | madisson856cd5 |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Artist Business Kit – Designer Edition Deluxe Das Artist Business Kit ist ein digitales Business- und Planungssystem für Künstler, Kreative, Freelancer, Selbstständige und kleine Unternehmen. Das Produkt enthält 70 professionell gestaltete PowerPoint-Seiten in 7 Themenbereichen: Portfolio, Kommunikation, Verkauf, Marketing, Social Media, Organisation und Bonus-Ressourcen. Warum sich die Bewerbung …
+**Vendor's marketplace description:** <p><strong>Artist Business Kit – Designer Edition Deluxe</strong></p>
+<p>Das Artist Business Kit ist ein digitales Business- und Planungssystem für Künstler, Kreative, Freelancer, Selbstständige und kleine Unternehmen.</p>
+<p>Das Produkt enthält 70 professionell gestaltete PowerPoint-Seiten in 7 Themenbereichen: Portfolio, Kommunikation, Verkauf, Marketing, Social Media, Organisation und Bonus-Ressourcen.</p>
+<p><strong>Warum sich die Bewerbung für Affiliates lohnt:</strong></p>
+<p>• klar definierte Zielgruppe aus Künstlern, Kreativen und Selbstständigen<br />• digitales Produkt mit sofortiger Auslieferung<br />• Verkaufspreis von 67,00 €<br />• professionelles Gold-Schwarz-Design<br />• konkreter Nutzen: Zeitersparnis, Business-Struktur und professionelle Präsentation<br />• zusätzliches Artist Portfolio als passende Erweiterung im Checkout verfügbar<br />• für Social Media, Blogs, YouTube, Newsletter und Creator-Content geeignet</p>
+<p>Das Produkt wird als digitaler Download über Digistore24 ausgeliefert. Käufer erhalten eine bearbeitbare PowerPoint-Datei sowie zusätzliche Materialien und Nutzungshinweise.</p>
+<p>Affiliates können das Produkt insbesondere bei Zielgruppen aus Kunst, Design, Content Creation, Freelancing, Selbstständigkeit und kreativem Business positionieren.</p>
+<p>Affiliate-Provision: 40 % pro vermitteltem Verkauf.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/719444?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58273/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/719444
 - Canonical redirect: https://www.digistore24.com/redir/719444/adminstore
 
@@ -81,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Artist Business Kit – 70 Seiten für Kreative? — Typ: Downloads, Anbieter: madisson856cd5, gelistet seit 2026-08-11
-- Wie viel kostet es? — 63.08978 USD
+- Wie viel kostet es? — 62.94903 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

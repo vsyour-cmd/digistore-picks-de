@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 10.77
+earnings_per_sale: 10.74
 cart_conversion_pct: 41
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-09-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/Dj3BzcNaT3dfHrr5R?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/Dj3BzcNaT3dfHrr5R"
@@ -22,7 +22,7 @@ language: "de"
 # Super Affiliate Plan
 
 > Product ID `45510` · Digistore24 productId `517855` · [HTML profile page](../../produkte/super-affiliate-plan-45510.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $10.77 |
+| Earnings/sale* | $10.74 |
 | Cart conversion* | 41% |
 | Cancel rate* | 0% |
 | Vendor | DS-AffiliateSolution |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe den Bestseller Super Affiliate Plan inklusive Kurs: Hier gibt es die besten Videokursen zu den Themen: ✅ Aufbau einer eigenen Affiliate Armee ✅ Ein Produkt richtig launchen ✅ Geld verdienen mit YouTube ✅ E-Mail Marketing Hackz ✅ Verschenke dieses E-Book inklusive Kurs an Deine Community Im Upsell warten über 100 Euro Netto Provision auf Dich!
+**Vendor's marketplace description:** <p><strong>Bewerbe den Bestseller Super Affiliate Plan inklusive Kurs:</strong></p>
+<p><strong>Hier gibt es die besten Videokursen zu den Themen:</strong></p>
+<p><strong>✅  Aufbau einer eigenen Affiliate Armee</strong></p>
+<p><strong>✅  Ein Produkt richtig launchen</strong></p>
+<p><strong>✅  Geld verdienen mit YouTube</strong></p>
+<p><strong>✅  E-Mail Marketing Hackz</strong></p>
+<p><strong>✅  Verschenke dieses E-Book inklusive Kurs an Deine Community</strong></p>
+<p><strong>Im Upsell warten über 100 Euro Netto Provision auf Dich! </strong></p>
 
 ## 2. Links
 

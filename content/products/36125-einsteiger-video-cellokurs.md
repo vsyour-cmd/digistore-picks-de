@@ -4,34 +4,34 @@ digistore24_product_id: 378778
 title: "Einsteiger Video Cellokurs"
 vendor: "Klassikwelt"
 product_type: "Member area and video courses"
-price: 55.56
+price: 55.44
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 19.44
+earnings_per_sale: 19.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-03-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://cellocoach.de/einsteiger-video-cellokurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/36125/adminstore/"
 sales_page: "https://cellocoach.de/einsteiger-video-cellokurs/"
 language: "de"
 ---
 # Einsteiger Video Cellokurs
 
 > Product ID `36125` · Digistore24 productId `378778` · [HTML profile page](../../produkte/einsteiger-video-cellokurs-36125.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $55.56 (Single payment) |
+| Price | $55.44 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $19.44 |
+| Earnings/sale* | $19.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Klassikwelt |
@@ -41,11 +41,33 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Weltpremiere: Der erste deutschsprachige Video Cellokurs für alle, die Cello lernen möchten. Der Kurs richtet sich an Kinder und Erwachsene gleichermaßen. Die Vorteile: Brandneuer und einer der ersten Video Cello Lernkurse im deutschsprachigen Raum Der Kurs beinhaltet 8 Lektionen bzw. Unterrichtseinheiten Erfrischende Videolänge von ca. 25 Minuten Uriel Stülpnagel ist Dein Cellocoach mit über 30 J…
+**Vendor's marketplace description:** <h3>Weltpremiere: Der erste deutschsprachige Video Cellokurs für alle, die Cello lernen möchten.</h3>
+<h3>Der Kurs richtet sich an <strong>Kinder</strong> und <strong>Erwachsene</strong> gleichermaßen.</h3>
+<div> </div>
+<p><strong>        Die Vorteile:</strong></p>
+<ul>
+<li>Brandneuer und einer<strong> der ersten Video Cello Lernkurse</strong> im deutschsprachigen Raum</li>
+<li>Der Kurs beinhaltet <strong>8 Lektionen</strong> bzw. Unterrichtseinheiten</li>
+<li><strong>Erfrischende Videolänge</strong> von ca. 25 Minuten</li>
+<li><strong>Uriel Stülpnagel</strong> ist Dein Cellocoach mit über 30 Jahren Unterrichtserfahrung</li>
+<li>Lerne <strong>jede Woche eine Lektion</strong></li>
+<li><strong>Leichte, verständliche</strong> Sprache und kleine Schritte</li>
+<li>In jeder Lektion finden Wiederholungen statt – <strong>wie im Live Unterricht</strong></li>
+<li>Einführung in die <strong>Musik</strong></li>
+<li>Handhabung des <strong>Cellos</strong></li>
+<li>Einführung in die <strong>Notenschrift</strong></li>
+<li>Erlernen der <strong>Cellohaltung</strong></li>
+<li>Erlernen der <strong>Bogenhaltung</strong></li>
+<li>Streichen lernen</li>
+<li><strong>Fingertraining</strong></li>
+<li>Erstes Spiel von <strong>Liedern</strong></li>
+<li><strong>Gratis Begleitmaterial</strong> zum download</li>
+<li>Persönliche Unterstützung via Zoom jederzeit möglich.</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://cellocoach.de/einsteiger-video-cellokurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36125/adminstore/
 - Sales page: https://cellocoach.de/einsteiger-video-cellokurs/
 - Canonical redirect: https://www.digistore24.com/redir/378778/adminstore
 
@@ -94,7 +116,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einsteiger Video Cellokurs? — Typ: Member area and video courses, Anbieter: Klassikwelt, gelistet seit 2021-03-12
-- Wie viel kostet es? — 55.559348 USD
+- Wie viel kostet es? — 55.435398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

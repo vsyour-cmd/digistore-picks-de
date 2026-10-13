@@ -4,16 +4,16 @@ digistore24_product_id: 356494
 title: "Essential Freediving Techniques"
 vendor: "SOjstersek"
 product_type: "E-books"
-price: 11.21
+price: 11.18
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.48
+earnings_per_sale: 4.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2020-11-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.freitauchen-lernen.com/essentielle-techniken/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.freitauchen-lernen.com/essentielle-techniken/"
@@ -22,16 +22,16 @@ language: "de"
 # Essential Freediving Techniques
 
 > Product ID `35280` · Digistore24 productId `356494` · [HTML profile page](../../produkte/essential-freediving-techniques-35280.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.21 (Single payment) |
+| Price | $11.18 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.48 |
+| Earnings/sale* | $4.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SOjstersek |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 7 essentielle Techniken beim Apnoetauchen Dieses eBook, dass über 70% meiner Kunden beim Kauf des Apnoetauchen eBooks als Initialkauf annehmen sind absolut begeistert, was sich in der niedrigen Stornorate wiederspiegelt. Profitiere also von der geringen Eintrittsschwelle in meinen Salesfunnel und baue dir mit regelmäßigen Provisionen ein passives Einkommen auf. In diesem eBook lernen meine Kunden …
+**Vendor's marketplace description:** <h1><span style="background-color:#3366ff;color:#ffffff;">7 essentielle Techniken beim Apnoetauchen</span></h1>
+<p>Dieses eBook, dass über 70% meiner Kunden beim Kauf des Apnoetauchen eBooks als Initialkauf annehmen sind absolut begeistert, was sich in der niedrigen Stornorate wiederspiegelt.</p>
+<p>Profitiere also von der geringen Eintrittsschwelle in meinen Salesfunnel und baue dir mit regelmäßigen Provisionen ein passives Einkommen auf.</p>
+<p>In diesem eBook lernen meine Kunden 7 wichtige Techniken zum Entspannen und wie Sie den unangenehmen Atemreiz beinahe vergessen, um noch länger unter Wasser verweilen zu können. Eine passende Ergänzung zum Apnoetauchen eBook!</p>
 
 ## 2. Links
 
@@ -77,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Essential Freediving Techniques? — Typ: E-books, Anbieter: SOjstersek, gelistet seit 2020-11-09
-- Wie viel kostet es? — 11.206 USD
+- Wie viel kostet es? — 11.181000000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 395155
 title: "TRACTATIS Planungstafel"
 vendor: "spotonline"
 product_type: "Member area and video courses"
-price: 14.13
+price: 14.1
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 2.82
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2021-06-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://www.tractatis.com/kaufen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37799/adminstore/"
 sales_page: "https://www.tractatis.com/kaufen"
 language: "de"
 ---
 # TRACTATIS Planungstafel
 
 > Product ID `37799` · Digistore24 productId `395155` · [HTML profile page](../../produkte/tractatis-planungstafel-37799.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $14.13 (Subscription) |
+| Price | $14.10 (Subscription) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $2.82 |
 | Cart conversion* | — |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Brandneues Partnerprogramm und komplett neue Verkaufsseiten Erhalte ein passives monatliches Einkommen! TRACTATIS ist ein Projektmanagement- Tool, dass als Webanwendung komplett im Browser läuft und somit orts- und geräteunabhängig ist. Zielgruppen sind im ersten Schritt Baufirmen und Handwerker. Profitiere als Affiliate, von einem monatlichen passiven Einkommen, durch die Abos der geworbenen Firm…
+**Vendor's marketplace description:** <p><span style="background-color:#ffff99;"><strong>Brandneues Partnerprogramm </strong><strong>und komplett neue Verkaufsseiten</strong></span></p>
+<p><span style="background-color:#ff0000;color:#ffffff;"><strong>Erhalte</strong><strong> ein passives monatliches Einkommen!</strong></span></p>
+<p>TRACTATIS ist ein Projektmanagement- Tool, dass als Webanwendung komplett im Browser läuft und somit orts- und geräteunabhängig ist. Zielgruppen sind im ersten Schritt Baufirmen und Handwerker.<br /> <br /> Profitiere als Affiliate, von einem monatlichen passiven Einkommen, durch die Abos der geworbenen Firmen bzw. Nutzer. Die Firmen halten Ihre Abos/ Lizenzen in der Regel über 6 Monate. Die Konversion auf allen Verkaufsseiten wird permanent optimiert.</p>
+<p>Die Preise für die Lizenzen sind abhängig von der Anzahl der Nutzer und beginnen bei 15,00 EUR bis 430,00 EUR pro Monat. Für den Affiliate werden 35% abzgl. Digistoregebühren ausgezahlt.</p>
+<p>Du erhältst als Affiliate eine persönliche Betreuung und bei entsprechenden Umsatz auch individuelle Werbemittel.</p>
+<p>Ich freue mich auf unsere Zusammenarbeit!</p>
+<p>Dein Torsten Kleinstück</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tractatis.com/kaufen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37799/adminstore/
 - Sales page: https://www.tractatis.com/kaufen
 - Vendor affiliate support: https://www.tractatis.com/partner
 - Canonical redirect: https://www.digistore24.com/redir/395155/adminstore
@@ -65,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TRACTATIS Planungstafel? — Typ: Member area and video courses, Anbieter: spotonline, gelistet seit 2021-06-22
-- Wie viel kostet es? — 14.130766 USD
+- Wie viel kostet es? — 14.099241000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

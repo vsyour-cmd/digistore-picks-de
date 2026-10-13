@@ -4,34 +4,34 @@ digistore24_product_id: 225984
 title: "Der 6 Wochen Saisonvorbereitungsplan Brandneu"
 vendor: "fussballtraining-renno"
 product_type: "Downloads"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 14.69
+earnings_per_sale: 14.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-06-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.produkte.fussballtraining-renno.de/6-wochen-power-trainingsprogramm/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/33433/adminstore/"
 sales_page: "https://www.produkte.fussballtraining-renno.de/6-wochen-power-trainingsprogramm/"
 language: "de"
 ---
 # Der 6 Wochen Saisonvorbereitungsplan Brandneu
 
 > Product ID `33433` · Digistore24 productId `225984` · [HTML profile page](../../produkte/der-6-wochen-saisonvorbereitungsplan-brandneu-33433.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $14.69 |
+| Earnings/sale* | $14.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fussballtraining-renno |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** NEU: Fussballtraining Bestseller Neuauflage 2020 - Sofort 40% Provision für dich bei hoher Verkaufsrate! Der 6 Wochen Saisonvorbereitungsplan ist ein kompletter 6 Wochen Fußball Vorbereitungsplan für Fußballtrainer worauf man im internen Mitgliederbereich lebenslang zugreifen kann. Es wurden wurden komplette Trainingseinheiten erstellt, die aufbauend immer für ein klares Trainingsziel ausgerichtet…
+**Vendor's marketplace description:** <h2><span style="background-color:#ffff00;"><strong>NEU: Fussballtraining Bestseller Neuauflage 2020 - Sofort 40% Provision für dich bei hoher Verkaufsrate!</strong></span></h2>
+<p><br /><br />Der 6 Wochen Saisonvorbereitungsplan ist ein kompletter 6 Wochen Fußball Vorbereitungsplan für Fußballtrainer worauf man im internen Mitgliederbereich lebenslang zugreifen kann.</p>
+<p>Es wurden wurden komplette Trainingseinheiten erstellt, die aufbauend immer für ein klares Trainingsziel ausgerichtet wurden, so dass am Ende der Vorbereitung dein Team komplett fit und taktisch bestens vorbereitet ist, um das Saisonziel zu erreichen.</p>
+<h2><br /><span style="background-color:#ffff00;"><strong>Platz 1 bei Digistore in der Rubrik Sport </strong><strong>unter Cart-Conversion - Aktuell 40% Cart-Conversion...!!!</strong></span><br /><br /></h2>
+<p><strong>Affiliate Provision:</strong></p>
+<p><strong>40% auf den 6 Wochen Saisonvorbereitungsplan<br />  <br /></strong></p>
+<p> <br />Wir haben momentan eine sehr hohe Verkaufsrate und eine sehr geringe Stornoquote, was für die Qualität des Produkts spricht.<br /><br /><br />Du hast eine große Liste oder möchtest eine Kooperation starten? Schreib uns eine E-Mail an rene@fussballtraining-renno.de<br /><br />Weitere Informationen findest du auf unserer Affiliate-Support-Seite: <a>http://www.produkte.fussballtraining-renno.de/partnerprogramm/</a></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.produkte.fussballtraining-renno.de/6-wochen-power-trainingsprogramm/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/33433/adminstore/
 - Sales page: https://www.produkte.fussballtraining-renno.de/6-wochen-power-trainingsprogramm/
 - Vendor affiliate support: http://www.produkte.fussballtraining-renno.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/225984/adminstore
@@ -91,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 6 Wochen Saisonvorbereitungsplan Brandneu? — Typ: Downloads, Anbieter: fussballtraining-renno, gelistet seit 2018-06-06
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

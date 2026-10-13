@@ -4,16 +4,16 @@ digistore24_product_id: 24325
 title: "Neurostreams™ Megabrain Suite"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 53.68
+price: 53.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.84
+earnings_per_sale: 26.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2014-04-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/produkte/specials/fokus-konzentration-intelligenz/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/produkte/specials/fokus-konzentration-intelligenz/"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ Megabrain Suite
 
 > Product ID `47016` · Digistore24 productId `24325` · [HTML profile page](../../produkte/neurostreams-megabrain-suite-47016.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $53.68 (Single payment) |
+| Price | $53.56 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.84 |
+| Earnings/sale* | $26.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 28 Neurostreams™ für die Steigerung und Festigung der mentalen Performance. 5 mal IQ 7000 5 mal Kognition Munition 5 mal HyperbrainPower 3 mal PureBeat-Sessions 10 mal Brainstorms Sofort-Download. Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smar…
+**Vendor's marketplace description:** <p>28 Neurostreams™ für die Steigerung und Festigung der mentalen Performance.</p>
+<ul>
+<li>5 mal IQ 7000</li>
+<li>5 mal Kognition Munition</li>
+<li>5 mal HyperbrainPower</li>
+<li>3 mal PureBeat-Sessions</li>
+<li>10 mal Brainstorms</li>
+</ul>
+<p><strong>Sofort-Download.</strong></p>
+<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
+<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
+<p>Dateigröße: ca. 1 GB</p>
+<p><strong>2 Jahre </strong>Produktsupport inklusive.</p>
 
 ## 2. Links
 
@@ -98,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Megabrain Suite? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2014-04-17
-- Wie viel kostet es? — 53.67674 USD
+- Wie viel kostet es? — 53.556990000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

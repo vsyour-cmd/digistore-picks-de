@@ -4,16 +4,16 @@ digistore24_product_id: 683577
 title: "Neustart Coaching"
 vendor: "optima_gesundheitsberatung"
 product_type: "Telephone coaching"
-price: 656.35
+price: 654.88
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 98.46
+earnings_per_sale: 98.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-04-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://optima-gesundheitsberatung.de/messenger-coaching/?aff=adminstore#aff=adminstore"
 sales_page: "https://optima-gesundheitsberatung.de/messenger-coaching/"
@@ -22,16 +22,16 @@ language: "de"
 # Neustart Coaching
 
 > Product ID `56242` · Digistore24 productId `683577` · [HTML profile page](../../produkte/neustart-coaching-56242.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $656.35 (Single payment) |
+| Price | $654.88 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $98.46 |
+| Earnings/sale* | $98.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | optima_gesundheitsberatung |
@@ -41,7 +41,40 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** NEUSTART – 6 Monate Messenger-Coaching für Gesundheit & Energie Ein persönliches Coaching im Gesundheitsbereich mit klarer Zielgruppe und ca. 88 € Provision pro Sale.Ideal für Affiliates, die echte Veränderung statt kurzfristiger Produkte bewerben möchten. Was wird verkauft?Ein 6-monatiges, individuelles Messenger-Coaching mit persönlicher Betreuung über WhatsApp oder Signal.Kunden werden Schritt …
+**Vendor's marketplace description:** <p><strong>NEUSTART – 6 Monate Messenger-Coaching für Gesundheit &amp; Energie</strong></p>
+<p>Ein persönliches Coaching im Gesundheitsbereich mit klarer Zielgruppe und ca. <strong>88 € Provision pro Sale</strong>.<br />Ideal für Affiliates, die echte Veränderung statt kurzfristiger Produkte bewerben möchten.</p>
+<hr />
+<p><strong>Was wird verkauft?</strong><br />Ein 6-monatiges, individuelles Messenger-Coaching mit persönlicher Betreuung über WhatsApp oder Signal.<br />Kunden werden Schritt für Schritt begleitet zu:</p>
+<ul>
+<li>mehr Energie</li>
+<li>besserem Schlaf</li>
+<li>gesunder Ernährung</li>
+<li>nachhaltiger Lebensweise</li>
+</ul>
+<p>Kein Kurs, keine Plattform – direkte Umsetzung im Alltag.</p>
+<hr />
+<p><strong>Zielgruppe</strong></p>
+<ul>
+<li>Menschen mit wenig Energie, Stress oder Heißhunger</li>
+<li>Personen, die bereits Diäten ausprobiert haben</li>
+<li>Kunden, die eine nachhaltige Lösung mit persönlicher Begleitung suchen</li>
+</ul>
+<hr />
+<p><strong>Warum konvertiert das Produkt?</strong></p>
+<ul>
+<li>Starker Bedarf (Energie, Gesundheit, Alltag)</li>
+<li>Persönliche Betreuung statt anonymem Kurs</li>
+<li>Messenger-Format = niedrige Einstiegshürde</li>
+<li>Klare 6-Monats-Transformation</li>
+<li>Begrenzte Plätze durch individuelle Betreuung</li>
+</ul>
+<hr />
+<p><strong>Preis &amp; Provision</strong></p>
+<ul>
+<li>697 € einmalig (6 Monate)</li>
+<li>15 % Provision = ca. 88 € pro Sale</li>
+</ul>
+<p> </p>
 
 ## 2. Links
 
@@ -96,7 +129,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neustart Coaching? — Typ: Telephone coaching, Anbieter: optima_gesundheitsberatung, gelistet seit 2026-04-09
-- Wie viel kostet es? — 656.346626 USD
+- Wie viel kostet es? — 654.8823510000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

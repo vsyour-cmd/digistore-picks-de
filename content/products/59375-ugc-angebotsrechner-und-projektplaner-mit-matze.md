@@ -4,34 +4,34 @@ digistore24_product_id: 734991
 title: "UGC-Angebotsrechner und Projektplaner – mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.66
+earnings_per_sale: 13.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/734991?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59375/adminstore/"
 sales_page: "https://www.digistore24.com/product/734991"
 language: "de"
 ---
 # UGC-Angebotsrechner und Projektplaner – mit Matze
 
 > Product ID `59375` · Digistore24 productId `734991` · [HTML profile page](../../produkte/ugc-angebotsrechner-und-projektplaner-mit-matze-59375.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.66 |
+| Earnings/sale* | $13.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Plane dein nächstes UGC-Angebot mit nachvollziehbaren Zahlen und einem klaren Leistungsumfang. Statt eines pauschalen Marktpreises nutzt du deine eigene Zeitplanung, deinen Stundensatz und deine Projektkosten. DAS IST ENTHALTEN• XLSX-Angebotsrechner mit sechs Zeitbausteinen, eigenem Stundensatz, Puffer, direkten Kosten und Zusatzbetrag• Projekttracker für 20 Aufträge mit Erlös nach direkten Kosten…
+**Vendor's marketplace description:** <p>Plane dein nächstes UGC-Angebot mit nachvollziehbaren Zahlen und einem klaren Leistungsumfang. Statt eines pauschalen Marktpreises nutzt du deine eigene Zeitplanung, deinen Stundensatz und deine Projektkosten.</p>
+<p>DAS IST ENTHALTEN<br />• XLSX-Angebotsrechner mit sechs Zeitbausteinen, eigenem Stundensatz, Puffer, direkten Kosten und Zusatzbetrag<br />• Projekttracker für 20 Aufträge mit Erlös nach direkten Kosten und Erlös je Iststunde<br />• Drei durchgerechnete, ausdrücklich fiktive Beispiele<br />• Sechs Arbeitsbuchseiten: Scope-Briefing, Angebots- und Änderungsnachrichten sowie Liefercheck; als PDF und bearbeitbares DOCX</p>
+<p>SO NUTZT DU DAS PAKET<br />ZIP entpacken, Arbeitsbuch lesen, eine eigene Kopie speichern und Platzhalter sowie Beispieldaten ersetzen. Du erhältst einen deutschsprachigen digitalen Download, keinen Videokurs und kein persönliches Coaching.</p>
+<p>VORAUSSETZUNGEN<br />PDF-Reader und ein kompatibles Office-Programm für DOCX und XLSX. Softwarelizenzen sind nicht enthalten.</p>
+<p>WICHTIG<br />Keine Marktpreisempfehlung, Steuerberechnung, Vertragsvorlage oder Gewinnrechnung. Nutzungsrechte und Konditionen musst du selbst passend zum Auftrag vereinbaren.</p>
+<p>NUTZUNG<br />Für deine eigene berufliche Arbeit. Keine Weiterveräußerung oder öffentliche Verteilung der unveränderten Vorlagendateien. Keine Garantie für Umsatz, Zeitersparnis oder bestimmte Kennzahlen.</p>
+<p>Für Affiliates: 50 % Provision. Zielgruppe: UGC-Creator, die Angebote kalkulieren und Projekte strukturieren möchten. Bitte keine Einkommens- oder Erfolgsgarantien verwenden. Kontakt: info@einfachhaltbar.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/734991?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59375/adminstore/
 - Sales page: https://www.digistore24.com/product/734991
 - Vendor affiliate support: https://einfachmitmatze.de/partner-734991/
 - Canonical redirect: https://www.digistore24.com/redir/734991/adminstore
@@ -72,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist UGC-Angebotsrechner und Projektplaner – mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

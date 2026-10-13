@@ -4,7 +4,7 @@ digistore24_product_id: 738837
 title: "99 Social-Media-Prompts für Claude"
 vendor: "AlcaAzar5f7"
 product_type: "Downloads"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.94
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://nine-to-never.systeme.io/bb724170?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60051/adminstore/"
 sales_page: "https://nine-to-never.systeme.io/bb724170"
 language: "de"
 ---
 # 99 Social-Media-Prompts für Claude
 
 > Product ID `60051` · Digistore24 productId `738837` · [HTML profile page](../../produkte/99-social-media-prompts-f-r-claude-60051.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Schreib mir einen Instagram-Post über Zeitmanagement.“ – und heraus kommt ein Text, der genauso bei tausend anderen Accounts stehen könnte. Das Problem ist nicht die KI. Ihr fehlt, wer du bist, für wen du schreibst und wie du klingst. „99 Social-Media-Prompts für Claude“ gibt dir genau diesen Kontext. Du füllst einmal deinen Marken-Baustein aus. Danach schneidet er jeden der 99 Prompts auf deine …
+**Vendor's marketplace description:** <p>„Schreib mir einen Instagram-Post über Zeitmanagement.“ – und heraus kommt ein Text, der genauso bei tausend anderen Accounts stehen könnte. Das Problem ist nicht die KI. Ihr fehlt, wer du bist, für wen du schreibst und wie du klingst.</p>
+<p>„99 Social-Media-Prompts für Claude“ gibt dir genau diesen Kontext. Du füllst einmal deinen <strong>Marken-Baustein</strong> aus. Danach schneidet er jeden der 99 Prompts auf deine Zielgruppe, deine Themen und deinen Tonfall zu.</p>
+<p><strong>9 Arbeitsbereiche mit je 11 Prompts, in der Reihenfolge, in der Content wirklich entsteht:</strong><br />✔ Strategie &amp; Positionierung: Zielgruppe, Positionierung, Bio, Wettbewerber<br />✔ Ideen &amp; Redaktionsplan: 30 Ideen, Wochen- und Monatsplan, Serienformate<br />✔ Hooks &amp; Einstiege: Varianten, Schärfen, Hook-Test, Betreffzeilen<br />✔ Reels &amp; Kurzvideos: Skripte, Kürzen, natürlicher machen, Drehplan<br />✔ Captions &amp; Posts: Storytelling, Angebots-Post ohne Druck, Werbekennzeichnung<br />✔ Karussells: Gliederung, Mythos vs. Realität, Design-Briefing<br />✔ Stories &amp; Community: Umfragen, Kommentar-Antworten, Umgang mit Kritik<br />✔ Recycling: Reel zu LinkedIn, Newsletter, Pinterest und Clips<br />✔ Analyse &amp; Optimierung: Monatsauswertung, Top- und Flop-Analyse, Prompts verbessern</p>
+<p><strong>Das bekommst du:</strong></p>
+<ul>
+<li>99 Prompts als PDF mit 23 Seiten</li>
+<li>Alle Prompts zusätzlich als <strong>Textdatei</strong>, damit du sie sauber kopieren kannst</li>
+<li>Den Marken-Baustein, mit Hinweis, wie du ihn dauerhaft in Claude-Projekten hinterlegst</li>
+<li>Eine Prüfliste vor jeder Veröffentlichung, inklusive Werbekennzeichnung</li>
+<li>Eingebaute Grenzen: keine erfundenen Zahlen, keine Erfolgsversprechen</li>
+</ul>
+<p><strong>Für wen:</strong> Content Creator, Selbstständige und alle, die regelmäßig Social-Media-Inhalte für sich oder ihr Business erstellen und dafür KI nutzen wollen.<br /><strong>Nicht für wen:</strong> Wer erwartet, dass KI-Texte ohne Überarbeitung perfekt sind, oder Tricks für schnelle Reichweite sucht.</p>
+<p><strong>Format:</strong> ZIP-Datei mit PDF und Textdatei (.txt), sofort zum Download. Die Prompts sind für Claude optimiert und funktionieren in der Regel auch mit anderen KI-Assistenten.</p>
+<p><em>Hinweis: KI-Ergebnisse musst du vor der Veröffentlichung prüfen. Reichweite, Follower oder Umsätze sind nicht garantiert. Claude ist eine Marke von Anthropic. Dieses Produkt ist unabhängig und steht in keiner Verbindung zu Anthropic.</em></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nine-to-never.systeme.io/bb724170?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60051/adminstore/
 - Sales page: https://nine-to-never.systeme.io/bb724170
 - Canonical redirect: https://www.digistore24.com/redir/738837/adminstore
 
@@ -67,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 99 Social-Media-Prompts für Claude? — Typ: Downloads, Anbieter: AlcaAzar5f7, gelistet seit 2026-09-30
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

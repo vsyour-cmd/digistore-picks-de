@@ -4,16 +4,16 @@ digistore24_product_id: 706469
 title: "CUPBIO PRO - Professionelle Link-in-Bio-Seite | Ein"
 vendor: "manuelcosta"
 product_type: "Software"
-price: 38.09
+price: 38
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 19.42
+earnings_per_sale: 19.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2026-07-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/706469?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/706469"
@@ -22,16 +22,16 @@ language: "de"
 # CUPBIO PRO - Professionelle Link-in-Bio-Seite | Ein
 
 > Product ID `57444` · Digistore24 productId `706469` · [HTML profile page](../../produkte/cupbio-pro-professionelle-link-in-bio-seite-ein-57444.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $38.09 (Single payment) |
+| Price | $38.00 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $19.42 |
+| Earnings/sale* | $19.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** CUPBIO PRO - Professionelle Link-in-Bio-Seite | Einmalzahlung
+**Vendor's marketplace description:** <p>CUPBIO PRO - Professionelle Link-in-Bio-Seite | Einmalzahlung</p>
 
 ## 2. Links
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CUPBIO PRO - Professionelle Link-in-Bio-Seite | Ein? — Typ: Software, Anbieter: manuelcosta, gelistet seit 2026-07-07
-- Wie viel kostet es? — 38.089194000000006 USD
+- Wie viel kostet es? — 38.004219000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

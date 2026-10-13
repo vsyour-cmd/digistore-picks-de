@@ -4,16 +4,16 @@ digistore24_product_id: 250395
 title: "Self Publishing Profi Masterkurs"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 576.95
+price: 575.66
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 230.78
+earnings_per_sale: 230.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2018-11-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://lp.incomebutler.com/self-publisher-profi-masterkurs-vk-lp/?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.incomebutler.com/self-publisher-profi-masterkurs-vk-lp/"
@@ -22,16 +22,16 @@ language: "de"
 # Self Publishing Profi Masterkurs
 
 > Product ID `28134` · Digistore24 productId `250395` · [HTML profile page](../../produkte/self-publishing-profi-masterkurs-28134.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $576.95 (Single payment, Installment) |
+| Price | $575.66 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $230.78 |
+| Earnings/sale* | $230.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | seotech |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vermarkte den Self Publishing Profi Masterkurs! Du bekommst dafür 40% Provision! Und für alle weiteren Upsells gibt es ebenfalls Provision! Für dieses Produkt bekommst du 90,05 € Provision. Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen im gesamten Funnel!! Das spricht für den Kurs: Schritt für Schritt vom Anfänger bis zum ersten…
+**Vendor's marketplace description:** <p>Vermarkte den Self Publishing Profi Masterkurs! Du bekommst dafür <strong>40% Provision</strong>!</p>
+<p>Und für alle weiteren Upsells gibt es ebenfalls Provision!</p>
+<p>Für dieses Produkt bekommst du 90,05 € Provision.</p>
+<p><strong>Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen im gesamten Funnel!!</strong></p>
+<p>Das spricht für den Kurs:</p>
+<ul><li>Schritt für Schritt vom Anfänger bis zum ersten eBook und Taschenbuch zum Profi</li>
+<li>Zeigt den Teilnehmern alle Schritte von der Nischenanalyse über Ghostwriter finden, Covererstellung und Marketing, Automatisierung und Skalierung!</li>
+<li>Profi Marketing Strategien</li>
+<li>ständig NEUE Inhalte</li>
+<li>Über<strong> 7,25 Stunden</strong> im Profikurs + 2 Std. Mindset Kurs! =&gt; <strong>9,25 Stunden Content</strong></li>
+<li>Theorie &amp; Praxis!</li>
+<li>Checklisten, Vorlagen, Templates, etc.! All-In-One Package!</li>
+<li>ständige Updates vom Kurs</li>
+<li>VIP Support</li>
+<li>Prüfungsmöglchkeit am Ende des Kurses mit Teilnahmebestätigung und Qualifikation</li>
+</ul><p>Profitiere somit auch du von dem Trend des Self Publishings und des einfachen Einstiegs!</p>
 
 ## 2. Links
 
@@ -76,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Self Publishing Profi Masterkurs? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2018-11-29
-- Wie viel kostet es? — 576.952116 USD
+- Wie viel kostet es? — 575.664966 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 447443
 title: "EMAIL GUIDE für Fotografen"
 vendor: "juliaundgil"
 product_type: "Member area and video courses"
-price: 110.94
+price: 110.69
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 16.81
+earnings_per_sale: 16.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-06-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://juliaandgil.education/email-guide-by-julia-x-gil/?aff=adminstore#aff=adminstore"
 sales_page: "https://juliaandgil.education/email-guide-by-julia-x-gil/"
@@ -22,16 +22,16 @@ language: "de"
 # EMAIL GUIDE für Fotografen
 
 > Product ID `43532` · Digistore24 productId `447443` · [HTML profile page](../../produkte/email-guide-f-r-fotografen-43532.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $110.94 (Single payment) |
+| Price | $110.69 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $16.81 |
+| Earnings/sale* | $16.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | juliaundgil |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du bekommst 29 E-Mail-Vorlagen, um deine Anfragen ganz einfach in Buchungen umzuwandeln. Sie werden dir dabei helfen, die Kommunikation mit deinen Kund*innen zu verbessern, Zeit zu sparen und deinen Umsatz zu erhöhen. Die Vorlagen unterstützen dich dabei schnell die richtigen Worte für verschiedene Szenarien zu finden. Das verschafft dir Zeit und Geld – und das ohne aggressiv verkaufen zu müssen. …
+**Vendor's marketplace description:** <p><strong>Du bekommst 29 E-Mail-Vorlagen, um deine Anfragen ganz einfach in Buchungen umzuwandeln. Sie werden dir dabei helfen, die Kommunikation mit deinen Kund*innen zu verbessern, Zeit zu sparen und deinen Umsatz zu erhöhen.</strong></p>
+<p>Die Vorlagen unterstützen dich dabei schnell die richtigen Worte für verschiedene Szenarien zu finden. Das verschafft dir Zeit und Geld – und das ohne aggressiv verkaufen zu müssen. Die Vorlagen werden dir dabei helfen, mehr Bewertungen und Testimonials zu bekommen. Außerdem erwartet dich ein Online-Kurs + Workbook mit insgesamt 8 Videos, sodass du einen kompakten Einblick in die Grundlagen der Kommunikation und in relevante Themen wie E-Mail, Organisation, Kundenkommunikation, Kontaktformular, Buchungen und mehr bekommst.</p>
+<p> </p>
+<p>• 29 Vorlagen als PDF</p>
+<p>• 8 Video im Mitgliederbereich</p>
+<p>• Workbook zum ausdrucken</p>
+<p>• Unbegrenzter Zugang</p>
+<p>• Kostenlose Updates</p>
+<p>• Zugriff über Desktop, Mobile oder eigene App</p>
 
 ## 2. Links
 
@@ -93,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EMAIL GUIDE für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2022-06-19
-- Wie viel kostet es? — 110.9394 USD
+- Wie viel kostet es? — 110.6919 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

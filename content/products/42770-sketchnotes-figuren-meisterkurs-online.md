@@ -4,16 +4,16 @@ digistore24_product_id: 489975
 title: "Sketchnotes Figuren Meisterkurs (Online)"
 vendor: "cartoonsbyroth"
 product_type: "Member area and video courses"
-price: 504.27
+price: 503.15
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 126.07
+earnings_per_sale: 125.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2023-03-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://cartoonsbyroth.com/online-zeichenkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://cartoonsbyroth.com/online-zeichenkurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Sketchnotes Figuren Meisterkurs (Online)
 
 > Product ID `42770` · Digistore24 productId `489975` · [HTML profile page](../../produkte/sketchnotes-figuren-meisterkurs-online-42770.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $504.27 (Single payment, Installment) |
+| Price | $503.15 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $126.07 |
+| Earnings/sale* | $125.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cartoonsbyroth |
@@ -41,7 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Produktinformation: 26wöchiger Onlinekurs & Mentoring Programm(Klassik, Premium und Premium Plus Paket) Die Teilnehmer erleben eine nachhaltige visuelle Transformation – indem sie ihren einzigartigen Zeichenstil für ihr Business entwickeln, ihre (Zeichen-)Blockaden endgültig loslassen, den kreativen Flow für sich entdecken – und ihre authentische Sichtbarkeit und wahre Persönlichkeit entfesseln. V…
+**Vendor's marketplace description:** <p><strong>Produktinformation:</strong></p>
+<p><strong>26wöchiger Onlinekurs &amp; Mentoring Programm</strong><br />(Klassik, Premium und Premium Plus Paket)</p>
+<p>Die Teilnehmer erleben eine nachhaltige visuelle Transformation – indem sie ihren <strong>einzigartigen Zeichenstil</strong> für ihr <strong>Business entwickeln</strong>, ihre<strong> (Zeichen-)Blockaden endgültig loslassen</strong>, den <strong>kreativen Flow</strong> für sich entdecken – und <strong>ihre authentische Sichtbarkeit </strong>und <strong>wahre Persönlichkeit entfesseln.</strong></p>
+<div> </div>
+<div><strong>Vorteil für Affiliates:</strong></div>
+<ul>
+<li>Qualitativ hochwertige Produkte</li>
+<li>Hohe Zufriedenheit &amp; Upselling-Quote</li>
+<li>25% Provision</li>
+<li>Enger Kontakt zum Vendor</li>
+<li>Infomaterial &amp; Bilder zum Downloaden</li>
+<li>Austausch &amp; Unterstützung per E-Mail<br /><br /></li>
+</ul>
+<p><strong>Zielgruppen:</strong></p>
+<ol>
+<li><strong>Menschen, die regelmäßig präsentieren</strong> (Flipchart/PowerPoint) und ihren eigenen, unverwechselbaren Stil entwickeln möchten</li>
+<li><strong>Typische Berufsgruppen:</strong> <br />Trainer, Coaches, Berater/Consultants, Speaker<br />Selbstständige, Unternehmer<br />Angestellte (z.B. HR, Marketing, Verkauf)</li>
+<li><strong>Typisches Käuferprofil:<br /></strong>Akademiker; Interesse an Lernen &amp; Weiterbildung; Altersgruppe 40+ stark vertreten (nach oben hin offen); weltoffene, neugierige, herzliche, begeisterungsfähige Personen, die ins Tun kommen und ihre Persönlichkeit entwickeln wollen</li>
+<li><strong>Ideale Multiplikatoren: <br /></strong>HR-Verantwortliche in Unternehmen, die hochwertige Kurse für ihre Mitarbeiter suchen</li>
+</ol>
+<p> </p>
 
 ## 2. Links
 
@@ -92,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sketchnotes Figuren Meisterkurs (Online)? — Typ: Member area and video courses, Anbieter: cartoonsbyroth, gelistet seit 2023-03-20
-- Wie viel kostet es? — 504.27000000000004 USD
+- Wie viel kostet es? — 503.14500000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

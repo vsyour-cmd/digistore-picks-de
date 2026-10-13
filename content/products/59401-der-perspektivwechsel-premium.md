@@ -4,34 +4,34 @@ digistore24_product_id: 732869
 title: "Der Perspektivwechsel - Premium"
 vendor: "AnandaBernstein"
 product_type: "Online coaching"
-price: 658.23
+price: 656.76
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 131.65
+earnings_per_sale: 131.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Marketing Services"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://lebenimsein-institut.at/forschung-training/perpektivwechsel.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59401/adminstore/"
 sales_page: "https://lebenimsein-institut.at/forschung-training/perpektivwechsel.html"
 language: "de"
 ---
 # Der Perspektivwechsel - Premium
 
 > Product ID `59401` · Digistore24 productId `732869` · [HTML profile page](../../produkte/der-perspektivwechsel-premium-59401.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $658.23 (Single payment) |
+| Price | $656.76 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $131.65 |
+| Earnings/sale* | $131.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AnandaBernstein |
@@ -41,11 +41,40 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 1:1 Premium Online Schluss mit endloser Mindset-Arbeit: Aktiviere deine Frequenz direkt über das Nervensystem. Der Perspektivwechsel – Wie du ohne kognitives Umformulieren von Glaubenssätzen und frei von „Weghaben-Wollen“ in deine wahrhafte Integration und Entfaltung kommst. Das Fundament: Vom Verstand ins reine Erleben Die Beta-Falle verlassen: Warum stundenlanges Analysieren und positives Euphem…
+**Vendor's marketplace description:** <p><strong>1:1 Premium Online</strong></p>
+<p><strong>Schluss mit endloser Mindset-Arbeit: Aktiviere deine Frequenz direkt über das Nervensystem.</strong></p>
+<p>Der Perspektivwechsel – Wie du ohne kognitives Umformulieren von Glaubenssätzen und frei von „Weghaben-Wollen“ in deine wahrhafte Integration und Entfaltung kommst.</p>
+<p><strong>Das Fundament: Vom Verstand ins reine Erleben</strong></p>
+<ul>
+<li>
+<p><strong>Die Beta-Falle verlassen:</strong> Warum stundenlanges Analysieren und positives Euphemisieren von Glaubenssätzen dein System oft nur im Überlebensmodus festhält.</p>
+</li>
+<li>
+<p><strong>Kein Widerstand mehr:</strong> Wir lösen nichts mehr krampfhaft auf. Gefühle werden integriert, statt sie weghaben zu wollen.</p>
+</li>
+<li>
+<p><strong>Frequenz-Freischaltung statt Mangel-Manifestation:</strong> Du musst dir nichts mehr herbeiwünschen. Du legst die Frequenz frei, die du im Leben erfahren willst – dein System räumt im Hintergrund auf.</p>
+</li>
+</ul>
+<p><strong>Die Methode im Kurs</strong></p>
+<ul>
+<li>
+<p><strong>Kinesiologischer Entpolungs- &amp; Punkttest:</strong> Lerne, wie du deinen Körper selbst abfragst und genau erkennst, wann dein Verstand wieder verkomplizieren will.</p>
+</li>
+<li>
+<p><strong>Neuronale Ohr-Aktivierung:</strong> Setze den Vagus-Impuls über deine individuell ausgetesteten Punkte an der inneren Ohrkante und am Ohrläppchen.</p>
+</li>
+<li>
+<p><strong>Der Innere Blick:</strong> Aktiviere eine spezifische Wahrnehmungsausrichtung, die dein Gehirn direkt in den Gamma-Bereich (ab 40 Hz) steuert – für volle Präsenz mit offenen Augen mitten im Alltag, ohne dich in lange Meditationen zurückziehen zu müssen.</p>
+</li>
+<li>
+<p><strong>Praxis-Toolkit für die Hosentasche:</strong> Kompakte PDF-Checklisten und Audio-Quick-Guides für sofortige Klarheit im Alltag.</p>
+</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lebenimsein-institut.at/forschung-training/perpektivwechsel.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59401/adminstore/
 - Sales page: https://lebenimsein-institut.at/forschung-training/perpektivwechsel.html
 - Canonical redirect: https://www.digistore24.com/redir/732869/adminstore
 
@@ -72,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Perspektivwechsel - Premium? — Typ: Online coaching, Anbieter: AnandaBernstein, gelistet seit 2026-09-19
-- Wie viel kostet es? — 658.229234 USD
+- Wie viel kostet es? — 656.760759 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

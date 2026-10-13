@@ -4,16 +4,16 @@ digistore24_product_id: 402184
 title: "[NEU] Verschenke mein persönlichstes Buch “Deine Unabhängigk"
 vendor: "digitalbeat"
 product_type: "Book (printed)"
-price: 6.35
+price: 6.34
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.5
+earnings_per_sale: 5.49
 cart_conversion_pct: 8
 cancel_rate_pct: 2.53
 categories: ["Personal Development"]
 listed_since: "2021-08-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/402184/adminstore"
 sales_page: "https://www.thomasklussmann.de/buch/unabhaengigkeitserklaerung/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
@@ -22,16 +22,16 @@ language: "de"
 # [NEU] Verschenke mein persönlichstes Buch “Deine Unabhängigk
 
 > Product ID `37608` · Digistore24 productId `402184` · [HTML profile page](../../produkte/neu-verschenke-mein-pers-nlichstes-buch-deine-unabh-ngigk-37608.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $6.35 (Single payment) |
+| Price | $6.34 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.50 |
+| Earnings/sale* | $5.49 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.53% |
 | Vendor | digitalbeat |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Über 200 Seiten extrem guter Content Hochwertig als Buch produziert 15 exklusive Kapitel mit essentiellen Strategien und Tipps für das Erreichen der eigenen Unabhängigkeit Mein persönlichstes Buch: Im ersten Teil des Buches beschreibe ich meinen eigenen Weg in ein selbstbestimmtes Leben Dein Schlachtplan: Im zweiten Teil des Buches gebe ich dem Leser Strategien an die Hand, die bei jedem Schritt S…
+**Vendor's marketplace description:** <ul>
+<li>Über 200 Seiten extrem guter Content</li>
+<li>Hochwertig als Buch produziert</li>
+<li>15 exklusive Kapitel mit essentiellen Strategien und Tipps für das Erreichen der eigenen Unabhängigkeit</li>
+<li>Mein persönlichstes Buch: Im ersten Teil des Buches beschreibe ich meinen eigenen Weg in ein selbstbestimmtes Leben</li>
+<li>Dein Schlachtplan: Im zweiten Teil des Buches gebe ich dem Leser Strategien an die Hand, die bei jedem Schritt Sicherheit und Orientierung geben, damit jeder aus seinem Leben ein Meisterwerk machen kann</li>
+<li>6 geniale Gastautoren teilen ihre wertvollsten Tipps zum Erreichen der eigenen Unabhängigkeit: Mit dabei sind Dr. Stefan Frädrich, Prof. Dr. Lothar Seiwert, Hermann Scherer, Valentina Dapunt, Prof. Dr. Oliver Pott und Philipp J. Müller</li>
+<li>Sehr geringe Stornoquote</li>
+</ul>
+<p><strong>Wir zahlen dir 5€ Provision für jede Bestellung!</strong></p>
+<p>Melde dich jetzt als Affiliate an und starte mit dem Promoten von meinem neuen Buch.</p>
+<p>Beste Grüße aus Köln <br />Dein Thomas Klußmann<br />- Gründer.de -</p>
 
 ## 2. Links
 
@@ -84,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist [NEU] Verschenke mein persönlichstes Buch “Deine Unabhängigk? — Typ: Book (printed), Anbieter: digitalbeat, gelistet seit 2021-08-11
-- Wie viel kostet es? — 6.353802 USD
+- Wie viel kostet es? — 6.339627 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

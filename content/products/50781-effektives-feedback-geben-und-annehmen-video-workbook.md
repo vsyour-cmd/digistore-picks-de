@@ -4,34 +4,34 @@ digistore24_product_id: 586705
 title: "Effektives Feedback geben und annehmen – Video + Workbook"
 vendor: "PFEOS-Kraemer"
 product_type: "Member area and video courses"
-price: 14.03
+price: 14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.21
+earnings_per_sale: 4.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Leadership & Management"]
 listed_since: "2024-12-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/586705?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50781/adminstore/"
 sales_page: "https://www.digistore24.com/product/586705"
 language: "de"
 ---
 # Effektives Feedback geben und annehmen – Video + Workbook
 
 > Product ID `50781` · Digistore24 productId `586705` · [HTML profile page](../../produkte/effektives-feedback-geben-und-annehmen-video-workbook-50781.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $14.03 (Single payment) |
+| Price | $14.00 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.21 |
+| Earnings/sale* | $4.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PFEOS-Kraemer |
@@ -41,11 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Effektives Feedback ist der Schlüssel zu einer besseren Zusammenarbeit und persönlichen Entwicklung. In diesem kompakten Paket erhältst Du: Ein 30-minütiges Video, das Dir die Grundlagen und Techniken vermittelt, um Feedback klar und lösungsorientiert zu geben. Ein Workbook, das Dich mit praktischen Übungen und Reflexionsfragen dabei unterstützt, das Gelernte direkt umzusetzen. Das lernst Du: Waru…
+**Vendor's marketplace description:** <p>Effektives Feedback ist der Schlüssel zu einer besseren Zusammenarbeit und persönlichen Entwicklung.</p>
+<p>In diesem kompakten Paket erhältst Du:</p>
+<ol>
+<li>Ein 30-minütiges Video, das Dir die Grundlagen und Techniken vermittelt, um Feedback klar und lösungsorientiert zu geben.</li>
+<li>Ein Workbook, das Dich mit praktischen Übungen und Reflexionsfragen dabei unterstützt, das Gelernte direkt umzusetzen.</li>
+</ol>
+<p>Das lernst Du:</p>
+<ul>
+<li>Warum Feedback wichtig ist und wie Du es effektiv einsetzt.</li>
+<li>Wie Du konstruktive Kritik klar und respektvoll formulierst.</li>
+<li>Tipps, wie Du Feedback offen annimmst und daraus wächst.</li>
+</ul>
+<p>Für wen geeignet:</p>
+<ul>
+<li>Führungskräfte und Teammitglieder, die ihre Kommunikation verbessern möchten.</li>
+<li>Alle, die eine offene Feedback-Kultur schaffen wollen.</li>
+</ul>
+<p>Preis: Nur 7,99 €</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/586705?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50781/adminstore/
 - Sales page: https://www.digistore24.com/product/586705
 - Canonical redirect: https://www.digistore24.com/redir/586705/adminstore
 
@@ -71,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Effektives Feedback geben und annehmen – Video + Workbook? — Typ: Member area and video courses, Anbieter: PFEOS-Kraemer, gelistet seit 2024-12-18
-- Wie viel kostet es? — 14.029912 USD
+- Wie viel kostet es? — 13.998612000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

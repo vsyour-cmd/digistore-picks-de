@@ -4,16 +4,16 @@ digistore24_product_id: 635744
 title: "Nebenbei Geld verdienen"
 vendor: "ekke-hard"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.19
+earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Trading Products"]
 listed_since: "2025-09-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/635744?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/635744"
@@ -22,16 +22,16 @@ language: "de"
 # Nebenbei Geld verdienen
 
 > Product ID `55038` · Digistore24 productId `635744` · [HTML profile page](../../produkte/nebenbei-geld-verdienen-55038.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.19 |
+| Earnings/sale* | $5.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ekke-hard |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Suchbegriff "Geld verdienen" ist einer der meisten in den Sozialen Medien. Ähnlich verhält es sich mit "Finanzielle Freiheit". Deshalb habe ich dieses Buch geschrieben, weil ebenfalls überall im Internet für das erfolgreiche Trading geworben wird. Im Gegensatz aber zu vielen allgemeinen Darstellungen zu diesen Themen in Büchern oder (überteuerten) Online-Kursen gebe ich in einer ausführlichen …
+**Vendor's marketplace description:** <p>Der Suchbegriff "Geld verdienen" ist einer der meisten in den Sozialen Medien. Ähnlich verhält es sich mit "Finanzielle Freiheit".</p>
+<p>Deshalb habe ich dieses Buch geschrieben, weil ebenfalls überall im Internet für das erfolgreiche Trading geworben wird.</p>
+<p>Im Gegensatz aber zu vielen allgemeinen Darstellungen zu diesen Themen in Büchern oder (überteuerten) Online-Kursen gebe ich in einer ausführlichen Beschreibung, jederzeit logisch nachvollziehbar, mit vielen Bildern, Tabellen, Hinweisen und Gewinn-Nachweisen einen jederzeit nachschlagbaren und stets aktuellen Leitfaden zum Geldverdienen.   </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nebenbei Geld verdienen? — Typ: E-books, Anbieter: ekke-hard, gelistet seit 2025-09-15
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

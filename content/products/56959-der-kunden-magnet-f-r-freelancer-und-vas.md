@@ -4,34 +4,34 @@ digistore24_product_id: 700739
 title: "Der Kunden Magnet für Freelancer und VAs"
 vendor: "freelancerkitools"
 product_type: "E-books"
-price: 9.42
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.72
+earnings_per_sale: 4.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://freelancer-ki-tools.de/kunden-magnet/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56959/adminstore/"
 sales_page: "https://freelancer-ki-tools.de/kunden-magnet/"
 language: "de"
 ---
 # Der Kunden Magnet für Freelancer und VAs
 
 > Product ID `56959` · Digistore24 productId `700739` · [HTML profile page](../../produkte/der-kunden-magnet-f-r-freelancer-und-vas-56959.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.42 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.72 |
+| Earnings/sale* | $4.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | freelancerkitools |
@@ -41,11 +41,72 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Der Kunden-Magnet“ ist ein kompaktes KI-Prompt-System für Freelancer, Virtuelle Assistenten und digitale Dienstleister, die ihre Kundengewinnung, Angebotsformulierung und Einwandbehandlung professioneller aufbauen möchten. Das Produkt enthält sofort einsetzbare Prompts für ChatGPT und Claude und hilft Nutzern dabei, drei zentrale Business-Probleme zu lösen: bessere Erstkontakt-Nachrichten ohne Sp…
+**Vendor's marketplace description:** <p>„Der Kunden-Magnet“ ist ein kompaktes KI-Prompt-System für Freelancer, Virtuelle Assistenten und digitale Dienstleister, die ihre Kundengewinnung, Angebotsformulierung und Einwandbehandlung professioneller aufbauen möchten.</p>
+<p>Das Produkt enthält sofort einsetzbare Prompts für ChatGPT und Claude und hilft Nutzern dabei, drei zentrale Business-Probleme zu lösen:</p>
+<ol>
+<li>
+<p>bessere Erstkontakt-Nachrichten ohne Spam-Gefühl</p>
+</li>
+<li>
+<p>überzeugendere Angebote, die Wert statt Stunden verkaufen</p>
+</li>
+<li>
+<p>souveräne Antworten auf Einwände wie „zu teuer“ oder „keine Zeit“</p>
+</li>
+</ol>
+<p>Damit eignet sich das Produkt besonders gut für Zielgruppen rund um Freelancer, Virtuelle Assistenten, Solo-Selbstständige, digitale Dienstleister, Coaches, Berater und Menschen, die KI praktisch für ihr Business nutzen möchten.</p>
+<p>Warum das Produkt für Affiliates interessant ist:</p>
+<ul>
+<li>
+<p>aktuelles Trendthema: KI, ChatGPT, Claude und Automatisierung</p>
+</li>
+<li>
+<p>klare Zielgruppe mit konkretem Problem</p>
+</li>
+<li>
+<p>niedrige Kaufhürde durch günstigen Einstiegspreis</p>
+</li>
+<li>
+<p>sofort nutzbares PDF-System statt langer Onlinekurs</p>
+</li>
+<li>
+<p>starke Werbewinkel: Kundengewinnung, Positionierung, Angebote, Preisverhandlung und KI-Prompts</p>
+</li>
+<li>
+<p>50 % Provision</p>
+</li>
+<li>
+<p>Affiliate-Support-Seite mit Link-Generator, E-Mail-Vorlagen und Social-Media-Texten</p>
+</li>
+</ul>
+<p>Starke Werbewinkel für die Bewerbung:</p>
+<ul>
+<li>
+<p>Schluss mit dem Bauchladen: klare Positionierung statt Austauschbarkeit</p>
+</li>
+<li>
+<p>bessere Erstkontakt-Nachrichten ohne typische Spam-Floskeln</p>
+</li>
+<li>
+<p>Angebote schreiben, die den Nutzen statt nur den Aufwand zeigen</p>
+</li>
+<li>
+<p>professioneller mit Einwänden wie „zu teuer“ umgehen</p>
+</li>
+<li>
+<p>KI praktisch nutzen, um schneller bessere Business-Texte zu erstellen</p>
+</li>
+</ul>
+<p>Affiliate-Support und Werbemittel findest du hier:</p>
+<p><a href="https://freelancer-ki-tools.de/partnerprogramm" target="_blank" rel="noreferrer noopener">https://freelancer-ki-tools.de/partnerprogramm</a></p>
+<p>Kontakt für Affiliates:</p>
+<p><a>kontakt@freelancer-ki-tools.de</a></p>
+<p>Wichtiger Hinweis zur Bewerbung:</p>
+<p>Bitte bewirb das Produkt seriös und ohne unrealistische Einkommensversprechen. Es handelt sich um ein praxisnahes KI-Arbeitswerkzeug für bessere Positionierung, klarere Angebote und professionellere Kundengewinnung – nicht um ein Erfolgsgarantie-System.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://freelancer-ki-tools.de/kunden-magnet/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56959/adminstore/
 - Sales page: https://freelancer-ki-tools.de/kunden-magnet/
 - Vendor affiliate support: https://freelancer-ki-tools.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/700739/adminstore
@@ -80,7 +141,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Kunden Magnet für Freelancer und VAs? — Typ: E-books, Anbieter: freelancerkitools, gelistet seit 2026-06-15
-- Wie viel kostet es? — 9.424246 USD
+- Wie viel kostet es? — 9.403221 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

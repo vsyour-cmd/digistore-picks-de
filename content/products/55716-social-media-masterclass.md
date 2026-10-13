@@ -4,16 +4,16 @@ digistore24_product_id: 670803
 title: "Social Media Masterclass"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Downloads"
-price: 56.5
+price: 56.37
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 5.65
+earnings_per_sale: 5.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2026-02-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/670803?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/670803"
@@ -22,16 +22,16 @@ language: "de"
 # Social Media Masterclass
 
 > Product ID `55716` · Digistore24 productId `670803` · [HTML profile page](../../produkte/social-media-masterclass-55716.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $56.50 (Single payment) |
+| Price | $56.37 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $5.65 |
+| Earnings/sale* | $5.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xxbeautyliciousbysun8aec |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate werden und verdienen‼️‼️‼️ Der ultimative Kurs für ambitionierte Kosmetikerinnen, Beauty-Einsteigerinnen und Studioinhaberinnen, die sich im Kosmetikbereich professionell weiterentwickeln und zertifiziertes Fachwissen aufbauen möchten.
+**Vendor's marketplace description:** <p>Affiliate werden und verdienen‼️‼️‼️</p>
+<p>Der ultimative Kurs für ambitionierte Kosmetikerinnen, Beauty-Einsteigerinnen und Studioinhaberinnen, die sich im Kosmetikbereich professionell weiterentwickeln und zertifiziertes Fachwissen aufbauen möchten.</p>
 
 ## 2. Links
 
@@ -71,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media Masterclass? — Typ: Downloads, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-23
-- Wie viel kostet es? — 56.500652 USD
+- Wie viel kostet es? — 56.37460200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

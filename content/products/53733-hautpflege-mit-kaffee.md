@@ -4,34 +4,34 @@ digistore24_product_id: 529405
 title: "Hautpflege mit Kaffee"
 vendor: "Katharinaruehrt"
 product_type: "Member area and video courses"
-price: 69.68
+price: 69.52
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 13.3
+earnings_per_sale: 13.27
 cart_conversion_pct: 8
 cancel_rate_pct: 1.54
 categories: ["Education","Green Products & Environmental Protection","Hobby & Craft"]
 listed_since: "2023-12-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.katharinaruehrt.com/hautpflege-mit-kaffee?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53733/adminstore/"
 sales_page: "https://www.katharinaruehrt.com/hautpflege-mit-kaffee"
 language: "de"
 ---
 # Hautpflege mit Kaffee
 
 > Product ID `53733` · Digistore24 productId `529405` · [HTML profile page](../../produkte/hautpflege-mit-kaffee-53733.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $69.68 (Single payment) |
+| Price | $69.52 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $13.30 |
+| Earnings/sale* | $13.27 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.54% |
 | Vendor | Katharinaruehrt |
@@ -41,11 +41,42 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dein Kaffeesatz ist viel zu schade, um ihn wegzuwerfen. Ich hab da eine Idee:Mach Naturkosmetik draus! Ich zeige dir, wie du die wunderbar durchblutungsfördernden und entzündungshemmenden Eigenschaften für deine tägliche Pflege nutzen kannst. Was? Wir rühren gemeinsam 4 Naturkosmetik-Rezepte mit Kaffeesatz:​ eine feste Seife / Duschbar belebende Augenlotion durchblutungsförderndes Cellulite-Öl Ges…
+**Vendor's marketplace description:** <p><strong>Dein Kaffeesatz ist viel zu schade, um ihn wegzuwerfen. Ich hab da eine Idee:</strong><br /><strong>Mach Naturkosmetik draus!</strong></p>
+<div>
+<p>Ich zeige dir, wie du die wunderbar durchblutungsfördernden und entzündungshemmenden Eigenschaften für deine tägliche Pflege nutzen kannst. </p>
+</div>
+<p><strong>Was?</strong></p>
+<p>Wir rühren gemeinsam 4 Naturkosmetik-Rezepte mit Kaffeesatz:​</p>
+<div>
+<ul>
+<li>
+<p>eine feste Seife / Duschbar</p>
+</li>
+<li>
+<p>belebende Augenlotion</p>
+</li>
+<li>
+<p>durchblutungsförderndes Cellulite-Öl</p>
+</li>
+<li>
+<p>Gesichtsmaske für mehr Glow</p>
+</li>
+</ul>
+<p>Mein Workshop ist so gestaltet, dass du direkt mitrühren kannst, auch wenn du keine Vorkenntnisse hast.</p>
+<p>Ich erkläre dir alles Schritt-für-Schritt, sodass du am Ende alle 4 Produkte in den Händen hältst.</p>
+<p>Außerdem erfährst du jede Menge Wissenswertes rund um alle Zutaten, die ich in den Rezepten verwende, sodass du weißt, was du dir da Gutes auf die Haut schmierst.</p>
+<p> </p>
+<p><strong>Wann?</strong></p>
+</div>
+<div>
+<p>Sofort, wenn du magst! Nach deiner Buchung schalte ich dir den Workshop direkt frei. Dann kannst du innerhalb der nächsten 6 Monate in deinem Tempo rühren und dir die Aufzeichnung immer wieder anschauen.​​​</p>
+<p> </p>
+<p><a>https://www.katharinaruehrt.com/hautpflege-mit-kaffee</a></p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.katharinaruehrt.com/hautpflege-mit-kaffee?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53733/adminstore/
 - Sales page: https://www.katharinaruehrt.com/hautpflege-mit-kaffee
 - Canonical redirect: https://www.digistore24.com/redir/529405/adminstore
 
@@ -76,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hautpflege mit Kaffee? — Typ: Member area and video courses, Anbieter: Katharinaruehrt, gelistet seit 2023-12-12
-- Wie viel kostet es? — 69.678908 USD
+- Wie viel kostet es? — 69.523458 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 72877
 title: "Live-Preise von TourismusTools"
 vendor: "patrickfederhen"
 product_type: "Downloads"
-price: 279.03
+price: 278.41
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 55.81
+earnings_per_sale: 55.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2016-02-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "http://tourismustools.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/10371/adminstore/"
 sales_page: "http://tourismustools.de/"
 language: "de"
 ---
 # Live-Preise von TourismusTools
 
 > Product ID `10371` · Digistore24 productId `72877` · [HTML profile page](../../produkte/live-preise-von-tourismustools-10371.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $279.03 (Subscription) |
+| Price | $278.41 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $55.81 |
+| Earnings/sale* | $55.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | patrickfederhen |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Live-Preisvergleich bietet den Gästen Ihrer Kunden einen schnellen Überblick über die unterschiedlichen Preise Ihrer Zimmer in verschiedenen Buchungskanälen. Unser Tool lässt sich in wenigen Minuten einrichten und kinderleicht in ihre Webseite integrieren. Danach geht alles ganz automatisch. Ratenparität ist in Deutschland kein Thema mehr, auch in vielen anderen europäischen Ländern sind die P…
+**Vendor's marketplace description:** <p> </p>
+<p>Der <strong>Live-Preisvergleich</strong> bietet den Gästen Ihrer Kunden einen schnellen Überblick über die unterschiedlichen Preise Ihrer Zimmer in verschiedenen Buchungskanälen. Unser Tool lässt sich<strong> in wenigen Minuten einrichten</strong> und kinderleicht in ihre Webseite integrieren. Danach geht alles ganz automatisch.</p>
+<p>Ratenparität ist in Deutschland kein Thema mehr, auch in vielen anderen europäischen Ländern sind die Preise für ein Hotelzimmer nun individuell je Buchungskanal gestaltbar.</p>
+<ul><li>Steigern Sie die Zahl Ihrer Buchungen.</li>
+<li>Erhöhen Sie Ihre Direktbuchungsrate.</li>
+<li>Passen Sie das Design an Ihre Webseite an.</li>
+</ul><p><strong>Sie erhalten 20% monatliche oder quartalsweise Provision.</strong></p>
+<p><strong>Im Upsell bieten wir nach dem Kauf direkt weitere, hochwertigere Produkte an, an denen Sie ebenfalls beteiligt werden!</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://tourismustools.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/10371/adminstore/
 - Sales page: http://tourismustools.de/
 - Vendor affiliate support: http://lp.tourismustools.de/tourismustools-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/72877/adminstore
@@ -67,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Live-Preise von TourismusTools? — Typ: Downloads, Anbieter: patrickfederhen, gelistet seit 2016-02-23
-- Wie viel kostet es? — 279.0294 USD
+- Wie viel kostet es? — 278.4069 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

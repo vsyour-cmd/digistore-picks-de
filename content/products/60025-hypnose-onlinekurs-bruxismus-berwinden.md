@@ -4,34 +4,34 @@ digistore24_product_id: 549134
 title: "Hypnose-Onlinekurs Bruxismus überwinden"
 vendor: "petanthony"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 11.54
+earnings_per_sale: 11.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://shop.petanthony.com/online-kurse_bruxismus-ueberwinden_DS/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60025/adminstore/"
 sales_page: "https://shop.petanthony.com/online-kurse_bruxismus-ueberwinden_DS/"
 language: "de"
 ---
 # Hypnose-Onlinekurs Bruxismus überwinden
 
 > Product ID `60025` · Digistore24 productId `549134` · [HTML profile page](../../produkte/hypnose-onlinekurs-bruxismus-berwinden-60025.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $11.54 |
+| Earnings/sale* | $11.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | petanthony |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit diesem Hypnose-Onlinekurs von Pet Anthony kannst Du das schädliche Zähneknirschen endlich hinter Dir lassen. Bei diesem Vorhaben hast Du den stärksten Unterstützer an Deiner Seite: Dein Unterbewusstsein hilft Dir tagsüber und in der Nacht während Du schläfst, Dein Kiefer zu entspannen und die Energie wieder fließen zu lassen. Mit dieser Hypnose wirst Du lernen, anders als bisher mit Stressausl…
+**Vendor's marketplace description:** <p>Mit diesem Hypnose-Onlinekurs von Pet Anthony kannst Du das schädliche Zähneknirschen endlich hinter Dir lassen. </p>
+<p>Bei diesem Vorhaben hast Du den stärksten Unterstützer an Deiner Seite: Dein Unterbewusstsein hilft Dir tagsüber und in der Nacht während Du schläfst, Dein Kiefer zu entspannen und die Energie wieder fließen zu lassen.  Mit dieser Hypnose wirst Du lernen, anders als bisher mit Stressauslösern umzugehen – ohne Verspannungen im Körper und Kiefer.</p>
+<p>Der Kurs enthält insgesamt 3 Videolektionen inklusive einer speziellen Hypnose sowie eine praktische Übungsanleitung.</p>
+<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shop.petanthony.com/online-kurse_bruxismus-ueberwinden_DS/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60025/adminstore/
 - Sales page: https://shop.petanthony.com/online-kurse_bruxismus-ueberwinden_DS/
 - Vendor affiliate support: https://www.petanthony.com/partner/
 - Canonical redirect: https://www.digistore24.com/redir/549134/adminstore
@@ -59,7 +62,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose-Onlinekurs Bruxismus überwinden? — Typ: Member area and video courses, Anbieter: petanthony, gelistet seit 2026-09-29
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

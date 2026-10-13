@@ -4,16 +4,16 @@ digistore24_product_id: 701354
 title: "Erfolgreich als Coach mit Facebook"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-facebook?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-facebook"
@@ -22,16 +22,16 @@ language: "de"
 # Erfolgreich als Coach mit Facebook
 
 > Product ID `56922` · Digistore24 productId `701354` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-facebook-56922.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Gruppen-Funnel, organische Reichweite und planbare Kunden ohne Werbebudget Als Coach ist Vertrauen deine wichtigste Währung – und Facebook-Gruppen sind der wirksamste Weg, genau dieses Vertrauen im großen Maßstab aufzubauen. Dieses E-Book zeigt dir, wie du eine eigene Gruppe als Herzstück deines Funnels aufbaust, deine Wunschkunden dort täglich mit Mehrwert bespielst und Interessenten sanft Richtu…
+**Vendor's marketplace description:** <p><strong>Gruppen-Funnel, organische Reichweite und planbare Kunden ohne Werbebudget</strong></p>
+<p>Als Coach ist Vertrauen deine wichtigste Währung – und Facebook-Gruppen sind der wirksamste Weg, genau dieses Vertrauen im großen Maßstab aufzubauen. Dieses E-Book zeigt dir, wie du eine eigene Gruppe als Herzstück deines Funnels aufbaust, deine Wunschkunden dort täglich mit Mehrwert bespielst und Interessenten sanft Richtung Erstgespräch führst. Du lernst, welche Diskussions-Posts und Live-Formate Vertrauen aufbauen, wie du Veranstaltungen und Events auf Facebook zur Kunden-Akquise nutzt und wie du über Messenger und DMs qualifizierte Gespräche einleitest, ohne aufdringlich zu wirken. Dazu: lokale Leadgenerierung für Coaches mit regionalem Einzugsgebiet. Ein komplettes System für planbare Anfragen – komplett ohne bezahlte Werbung.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Deine eigene Facebook-Gruppe als Community-Funnel aufbauen</li>
+<li>Diskussions-Posts und Lives, die Vertrauen aufbauen</li>
+<li>Der sanfte Weg vom Gruppenpost zum Erstgespräch</li>
+<li>Messenger &amp; DMs: qualifizierte Gespräche einleiten</li>
+<li>Veranstaltungen und Events als Akquise-Werkzeug</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -98,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit Facebook? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

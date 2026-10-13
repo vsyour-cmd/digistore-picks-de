@@ -4,34 +4,34 @@ digistore24_product_id: 680855
 title: "Premiumangebot Entspannung beginnt im Kopf"
 vendor: "HeidiPro"
 product_type: "Telephone coaching"
-price: 418.11
+price: 417.17
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 125.43
+earnings_per_sale: 125.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Marketing Services"]
 listed_since: "2026-03-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://hpheidi-hoeck.systeme.io/a9b7945e?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56115/adminstore/"
 sales_page: "https://hpheidi-hoeck.systeme.io/a9b7945e"
 language: "de"
 ---
 # Premiumangebot Entspannung beginnt im Kopf
 
 > Product ID `56115` · Digistore24 productId `680855` · [HTML profile page](../../produkte/premiumangebot-entspannung-beginnt-im-kopf-56115.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Telephone coaching |
-| Price | $418.11 (Single payment) |
+| Price | $417.17 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $125.43 |
+| Earnings/sale* | $125.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeidiPro |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Premiumangebot Entspannung beginnt im Kopf Kopf frei - Kraft tanken -in Balance Hier trifft fundiertes Wissen auf schnelle Umsetzung. Wahlweise -Traditionelle Entspannungsmethoden im Onlinekurs- inclusive 4 wöchtige professionelle Coachingbegleitung um den Stresslevel zu reduzieren. oder Individuelles Geburtschartreading um die Stressfaktoren zu identifizieren und 4 wöchige professionelle Coaching…
+**Vendor's marketplace description:** <h2>Premiumangebot Entspannung beginnt im Kopf</h2>
+<p>Kopf frei - Kraft tanken -in Balance</p>
+<p>Hier trifft fundiertes Wissen auf schnelle Umsetzung. Wahlweise -Traditionelle Entspannungsmethoden im Onlinekurs- inclusive 4 wöchtige professionelle Coachingbegleitung um den Stresslevel zu reduzieren.</p>
+<p>oder Individuelles Geburtschartreading um die Stressfaktoren zu identifizieren und 4 wöchige professionelle Coachingbegleitung um den Stresslevel zu reduzieren.</p>
+<p>oder 40 Minuten persönliches Telefoncoaching mit individueller Stressanalyse und 4 wöchige professionelle Coachingbegleitung um den Stresslevel zu reduzieren.</p>
+<p>Seit über 15 Jahren als Entspannungstherapeutin, Coach, Heilpraktikerin, Astrologin und Autorin tätig.</p>
+<p>Eigene etablierte Website mit zufriedenen Klientenstimmen: <a href="http://www.naturheilpraxis-hoeck.de">www.naturheilpraxis-hoeck.de</a></p>
+<p>Gerne gebe ich 30% Affiliate Provision auf erfolgreiche Verkäufe.</p>
+<p>Cookielaufzeit: Standard Digistore 24 Einstellung</p>
+<p>Suche gerne den Kontakt unter <a href="mailto:hpheidi.hoeck@gmail.com">hpheidi.hoeck@gmail.com</a> bezüglich weiteres Werbematerial, Texte, Bilder</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://hpheidi-hoeck.systeme.io/a9b7945e?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56115/adminstore/
 - Sales page: https://hpheidi-hoeck.systeme.io/a9b7945e
 - Vendor affiliate support: https://hpheidi-hoeck.systeme.io/4ff1318c
 - Canonical redirect: https://www.digistore24.com/redir/680855/adminstore
@@ -67,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premiumangebot Entspannung beginnt im Kopf? — Typ: Telephone coaching, Anbieter: HeidiPro, gelistet seit 2026-03-31
-- Wie viel kostet es? — 418.10706600000003 USD
+- Wie viel kostet es? — 417.17429100000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

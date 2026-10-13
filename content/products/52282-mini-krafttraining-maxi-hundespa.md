@@ -4,7 +4,7 @@ digistore24_product_id: 607734
 title: "Mini Krafttraining - Maxi Hundespaß"
 vendor: "Lauf-Stall"
 product_type: "Downloads"
-price: 16.94
+price: 16.91
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.69
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-04-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/607734?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/607734"
@@ -22,14 +22,14 @@ language: "de"
 # Mini Krafttraining - Maxi Hundespaß
 
 > Product ID `52282` · Digistore24 productId `607734` · [HTML profile page](../../produkte/mini-krafttraining-maxi-hundespa-52282.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.94 (Single payment) |
+| Price | $16.91 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.69 |
 | Cart conversion* | — |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 5 Minuten Power für Vierbeiner Einfache Übungen für starke Muskeln Viele Besitzer möchten Ihren Vierbeiner ergänzend zur Physiotherapie zu Hause unterstützen. Ich habe in diesem Guide ein paar einfache und effektive Übungen zusammengestellt, die man ohne teure Hilfsmittel und wenig Zeitaufwand daheim oder beim Spaziergang nachmachen kann. Dieses Produkt enthält: 1 Videoanleitung 1 mini Booklet mit…
+**Vendor's marketplace description:** <p>5 Minuten Power für Vierbeiner</p>
+<p>Einfache Übungen für starke Muskeln</p>
+<p>Viele Besitzer möchten Ihren Vierbeiner ergänzend zur Physiotherapie zu Hause unterstützen. Ich habe in diesem Guide ein paar einfache und effektive Übungen zusammengestellt, die man ohne teure Hilfsmittel und wenig Zeitaufwand daheim oder beim Spaziergang nachmachen kann.</p>
+<p>Dieses Produkt enthält:</p>
+<ul>
+<li>1 Videoanleitung</li>
+<li>1 mini Booklet  mit Bildern und ausführlicher Erklärung zum Ausdrucken</li>
+</ul>
 
 ## 2. Links
 
@@ -80,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mini Krafttraining - Maxi Hundespaß? — Typ: Downloads, Anbieter: Lauf-Stall, gelistet seit 2025-04-16
-- Wie viel kostet es? — 16.943472 USD
+- Wie viel kostet es? — 16.905672 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

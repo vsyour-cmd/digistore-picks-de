@@ -4,7 +4,7 @@ digistore24_product_id: 461394
 title: "WEDDING MAGAZINE für Fotografen"
 vendor: "juliaundgil"
 product_type: "Member area and video courses"
-price: 136.33
+price: 136.03
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,24 +12,24 @@ cart_conversion_pct: 21
 cancel_rate_pct: 2.28
 categories: ["Profession & Job"]
 listed_since: "2022-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://juliaandgil.education/wedding-guide/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/43531/adminstore/"
 sales_page: "https://juliaandgil.education/wedding-guide/"
 language: "de"
 ---
 # WEDDING MAGAZINE für Fotografen
 
 > Product ID `43531` · Digistore24 productId `461394` · [HTML profile page](../../produkte/wedding-magazine-f-r-fotografen-43531.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $136.33 (Single payment, Installment) |
+| Price | $136.03 (Single payment, Installment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 21% |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein Wedding Guide im Magazin Stil für dich und deine Brautpaare: 42-Seiten Canva-Design-Vorlage inklusive vorgefertigter Texte (individualisierbar) – purer Mehrwert und Inspiration für deine Kunden. Im Gegensatz zu deinen Kunden hast du schon viele Hochzeiten gesehen. Du kennst die Herausforderungen und weißt was wichtig ist, damit die Fotos so werden, wie du und deine Kunden sie sich vorstellen. …
+**Vendor's marketplace description:** <div>
+<h2>Ein Wedding Guide im Magazin Stil für dich und deine Brautpaare: 42-Seiten Canva-Design-Vorlage inklusive vorgefertigter Texte (individualisierbar) – purer Mehrwert und Inspiration für deine Kunden.</h2>
+</div>
+<div>
+<div>
+<p> </p>
+<div>
+<div>
+<div>Im Gegensatz zu deinen Kunden hast du schon viele Hochzeiten gesehen. Du kennst die Herausforderungen und weißt was wichtig ist, damit die Fotos so werden, wie du und deine Kunden sie sich vorstellen. Die Verantwortung liegt bei uns Fotograf*innen, unsere Paare aufzuklären. <strong>Mach es dir leicht, nutze unsere Texte und unser Design, du musst nur deine Fotos einfügen.</strong></div>
+<div> </div>
+</div>
+<div>
+<div><strong>Der Wedding Guide ist perfekt für dein Hochzeitsbusiness: 42 Seiten vollgepackt mit Informationen rund um die Fotos am Hochzeitstag.</strong> Das Beste ist, dass du den Guide ganz einfach in Canva bearbeiten kannst. Canva ist kostenlos und sehr einfach zu bedienen. Es sind keine Photoshop oder InDesign Fähigkeiten nötig, um Fotos auszutauschen und Texte anzupassen. <strong>Du kannst ihn bearbeiten, als PDF verschicken oder sogar drucken und deinen Paaren zur Verfügung stellen.</strong></div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://juliaandgil.education/wedding-guide/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/43531/adminstore/
 - Sales page: https://juliaandgil.education/wedding-guide/
 - Canonical redirect: https://www.digistore24.com/redir/461394/adminstore
 
@@ -80,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WEDDING MAGAZINE für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2022-09-21
-- Wie viel kostet es? — 136.332196 USD
+- Wie viel kostet es? — 136.02804600000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

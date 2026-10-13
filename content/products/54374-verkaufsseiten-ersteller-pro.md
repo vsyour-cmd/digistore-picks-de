@@ -4,16 +4,16 @@ digistore24_product_id: 640720
 title: "Verkaufsseiten-Ersteller Pro"
 vendor: "manuelcosta"
 product_type: "Software"
-price: 44.71
+price: 44.61
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 38.01
+earnings_per_sale: 37.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
 listed_since: "2025-10-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://verkaufsseiten-ersteller-page.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://verkaufsseiten-ersteller-page.netlify.app/"
@@ -22,16 +22,16 @@ language: "de"
 # Verkaufsseiten-Ersteller Pro
 
 > Product ID `54374` · Digistore24 productId `640720` · [HTML profile page](../../produkte/verkaufsseiten-ersteller-pro-54374.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $44.71 (Single payment) |
+| Price | $44.61 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $38.01 |
+| Earnings/sale* | $37.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verkaufsseiten-Ersteller Pro Erstellen Sie Landingpages, die tatsächlich verkaufen Vergessen Sie komplizierte, langsame Page-Builder und hohe wiederkehrende monatliche Gebühren. Erstellen Sie im Handumdrehen hochkonvertierende Sektionen, optimieren Sie Ihren Vertriebskanal und profitieren Sie von einer exzellenten Seitenladegeschwindigkeit für Ihre Werbekapagnen. Kostenlos ausprobieren
+**Vendor's marketplace description:** <p>Verkaufsseiten-Ersteller Pro</p>
+<p> </p>
+<p>Erstellen Sie Landingpages, die tatsächlich verkaufen</p>
+<p>Vergessen Sie komplizierte, langsame Page-Builder und hohe wiederkehrende monatliche Gebühren. Erstellen Sie im Handumdrehen hochkonvertierende Sektionen, optimieren Sie Ihren Vertriebskanal und profitieren Sie von einer exzellenten Seitenladegeschwindigkeit für Ihre Werbekapagnen.</p>
+<p> </p>
+<p> </p>
+<p>Kostenlos ausprobieren</p>
 
 ## 2. Links
 
@@ -67,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verkaufsseiten-Ersteller Pro? — Typ: Software, Anbieter: manuelcosta, gelistet seit 2025-10-11
-- Wie viel kostet es? — 44.71194 USD
+- Wie viel kostet es? — 44.612190000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

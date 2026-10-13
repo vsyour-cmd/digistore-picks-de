@@ -4,16 +4,16 @@ digistore24_product_id: 611742
 title: "Affiliate Kickstart – 7 GPTs für Content, Funnel und mehr"
 vendor: "ReneAktivNetz"
 product_type: "Member area and video courses"
-price: 55.56
+price: 55.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.78
+earnings_per_sale: 27.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2025-05-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/affiliate-kickstart/?aff=adminstore#aff=adminstore"
 sales_page: "https://kischmiede.funnelcockpit.com/affiliate-kickstart/"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Kickstart – 7 GPTs für Content, Funnel und mehr
 
 > Product ID `52640` · Digistore24 productId `611742` · [HTML profile page](../../produkte/affiliate-kickstart-7-gpts-f-r-content-funnel-und-mehr-52640.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $55.56 (Single payment) |
+| Price | $55.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.78 |
+| Earnings/sale* | $27.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ReneAktivNetz |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der smarte Start für Affiliates, Solopreneure & Content-Creator Das Affiliate Kickstart Paket enthält 7 spezialisierte GPTs, die sofort einsatzbereit sind: Content Carlo: SEO-Blogartikel & Social Posts Conversion Clara: Verkaufsstarke Headlines & CTAs Email Eddie: Komplette E-Mail-Serien in Minuten Social Sam: Reels, Hooks & Karussells Blog Bella: Strukturierte Blogartikel mit SEO-Fokus Affiliate …
+**Vendor's marketplace description:** <p><strong>Der smarte Start für Affiliates, Solopreneure &amp; Content-Creator</strong></p>
+<p>Das <strong>Affiliate Kickstart Paket</strong> enthält 7 spezialisierte GPTs, die sofort einsatzbereit sind:</p>
+<ul>
+<li><strong>Content Carlo</strong>: SEO-Blogartikel &amp; Social Posts</li>
+<li><strong>Conversion Clara</strong>: Verkaufsstarke Headlines &amp; CTAs</li>
+<li><strong>Email Eddie</strong>: Komplette E-Mail-Serien in Minuten</li>
+<li><strong>Social Sam</strong>: Reels, Hooks &amp; Karussells</li>
+<li><strong>Blog Bella</strong>: Strukturierte Blogartikel mit SEO-Fokus</li>
+<li><strong>Affiliate Alex</strong>: Affiliate-Strategien, Funnel, Fehleranalyse</li>
+<li><strong>Lead Lisa</strong>: Smarte Freebies &amp; Leadmagneten</li>
+</ul>
+<p><strong> Einmalzahlung – keine Abo-Falle. Sofort nutzbar – keine Technikkenntnisse nötig.</strong></p>
+<p><em>Top für Affiliate-Marketing, digitale Produkte, Funnelstarter &amp; Creator mit wenig Zeit!</em></p>
 
 ## 2. Links
 
@@ -67,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Kickstart – 7 GPTs für Content, Funnel und mehr? — Typ: Member area and video courses, Anbieter: ReneAktivNetz, gelistet seit 2025-05-09
-- Wie viel kostet es? — 55.559348 USD
+- Wie viel kostet es? — 55.435398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

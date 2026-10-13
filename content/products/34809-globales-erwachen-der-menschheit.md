@@ -4,34 +4,34 @@ digistore24_product_id: 358906
 title: "Globales Erwachen der Menschheit"
 vendor: "RaGarve"
 product_type: "Member area and video courses"
-price: 309.35
+price: 308.66
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 63.52
+earnings_per_sale: 63.37
 cart_conversion_pct: 13
 cancel_rate_pct: 6.29
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2020-11-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/34809/adminstore/"
 sales_page: "https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/"
 language: "de"
 ---
 # Globales Erwachen der Menschheit
 
 > Product ID `34809` · Digistore24 productId `358906` · [HTML profile page](../../produkte/globales-erwachen-der-menschheit-34809.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $309.35 (Single payment) |
+| Price | $308.66 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $63.52 |
+| Earnings/sale* | $63.37 |
 | Cart conversion* | 13% |
 | Cancel rate* | 6.29% |
 | Vendor | RaGarve |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Produkteigenschaften: • 32-teiliges umfassendes Online-Video-Seminar (17 Stunden in HD-Qualität)• Bonus-Packet: Bonus 1: Diverse PDF-Skripte, Flipchart-Folien + Schaubilder Bonus 2: Zugriff auf sämtliche zukünftige Erweiterungen • 30-Tage-Geld-zurück-Garantie! Vorteile für den Anwender des Online-Seminars: • Das Seminar ist ein vertiefendes Selbststudium für den beschleunigten individuellen Au…
+**Vendor's marketplace description:** <h2>Produkteigenschaften:</h2>
+<p>• <span style="background-color:#ffff00;"><strong>32-teiliges umfassendes Online-Video-Seminar</strong></span> (17 Stunden in HD-Qualität)<br />• <span style="background-color:#ffff00;"><strong>Bonus-Packet:</strong></span><br />     <strong>Bonus 1:</strong> Diverse PDF-Skripte, Flipchart-Folien + Schaubilder<br />     <strong>Bonus 2:</strong> Zugriff auf sämtliche zukünftige Erweiterungen <br />• <strong>30-Tage-Geld-zurück-Garantie!</strong></p>
+<p> </p>
+<h2>Vorteile für den Anwender des Online-Seminars:</h2>
+<p><br />• Das Seminar ist ein vertiefendes Selbststudium für den beschleunigten individuellen Aufwach- und Bewusstseins-Befreiungsprozess aus der massenmedialen Hypnose</p>
+<p>• Das Seminar beinhaltet ein bis zur Gegenwart umfassend dokumentiertes Gesamtbild zum aktuellen Aufwach- und Befreiungsprozess der Menschheit aus der<br />satanischen Knechtschaft</p>
+<p>• DAS Anti-Viren-Programm gegen die heutige Lügen-MATRIX (=Gedanken-Virus)</p>
+<p>• Das Seminar gibt dir Orientierung, Durchblick und Klarheit in der heutigen manipulativen Übergangszeit und dadurch auch einen enormen Motivationsschub für dein eigenes Leben und deine eigene Zukunft</p>
+<p>• Das Seminar zeigt dir das besondere Privileg der heutigen Zeit auf und befreit gleichzeitig deinen Verstand von den Ängsten der Lügen-MATRIX</p>
+<p>• Das Seminar erklärt Dir im Detail den derzeit ablaufenden weltweiten Sturz der dunklen satanischen NWO-Agenda</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/34809/adminstore/
 - Sales page: https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/
 - Canonical redirect: https://www.digistore24.com/redir/358906/adminstore
 
@@ -85,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Globales Erwachen der Menschheit? — Typ: Member area and video courses, Anbieter: RaGarve, gelistet seit 2020-11-22
-- Wie viel kostet es? — 309.352836 USD
+- Wie viel kostet es? — 308.662686 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

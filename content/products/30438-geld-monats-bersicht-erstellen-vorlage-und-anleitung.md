@@ -4,16 +4,16 @@ digistore24_product_id: 289005
 title: "GELD: Monatsübersicht erstellen | Vorlage und Anleitung"
 vendor: "NilsWarnecke"
 product_type: "Software"
-price: 53.68
+price: 53.56
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 14.71
+earnings_per_sale: 14.68
 cart_conversion_pct: 9
 cancel_rate_pct: 5.08
 categories: ["Education"]
 listed_since: "2019-10-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://cashcockpit.de/6-konten-modell-nach-t-harv-eker-in-excel-vorlage-sofort-umsetzen-mm/?aff=adminstore#aff=adminstore"
 sales_page: "https://cashcockpit.de/6-konten-modell-nach-t-harv-eker-in-excel-vorlage-sofort-umsetzen-mm/"
@@ -22,16 +22,16 @@ language: "de"
 # GELD: Monatsübersicht erstellen | Vorlage und Anleitung
 
 > Product ID `30438` · Digistore24 productId `289005` · [HTML profile page](../../produkte/geld-monats-bersicht-erstellen-vorlage-und-anleitung-30438.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $53.68 (Single payment, Installment) |
+| Price | $53.56 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $14.71 |
+| Earnings/sale* | $14.68 |
 | Cart conversion* | 9% |
 | Cancel rate* | 5.08% |
 | Vendor | NilsWarnecke |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Finanzen meistern - Mit deinem selbst erstellten Plan [Vorlage] Ihre Vorteile: 7,1 % Conversionrate 50 % Provision 14 bis 38 Euro (NETTO) pro Verkauf Zusätzliche Folge- und Zusatz-Provisionen im optimierten Backend-Funnel 24/7 Direkt-Support durch Nils Warnecke Inhalt: CashCockpit (Excel-Finanzplan) 12x HD Videoanleitung Support per WhatsApp & Email Gratis testen auf https://CashCockpit.de Melde d…
+**Vendor's marketplace description:** <h2 style="text-align:left;"><strong><span style="color:#00c224;">Finanzen meistern - Mit deinem selbst erstellten Plan [Vorlage]</span></strong></h2>
+<p style="text-align:left;"><strong>Ihre Vorteile:</strong></p>
+<ul>
+<li><strong>7,1 % Conversionrate</strong></li>
+<li><strong>50 % Provision</strong></li>
+<li><strong>14 bis 38 Euro (NETTO) pro Verkauf</strong></li>
+<li>Zusätzliche Folge- und Zusatz-Provisionen im optimierten Backend-Funnel</li>
+<li>24/7 Direkt-Support durch Nils Warnecke </li>
+</ul>
+<p> <strong><br />Inhalt:</strong> </p>
+<ul>
+<li>CashCockpit (Excel-Finanzplan)</li>
+<li>12x HD Videoanleitung</li>
+<li>Support per WhatsApp &amp; Email</li>
+</ul>
+<p><br />Gratis testen auf <span style="color:#ff9900;"><strong><a style="color:#ff9900;" href="https://CashCockpit.de">https://CashCockpit.de</a></strong></span></p>
+<p>Melde dich jetzt zum Partnerprogramm an und generiere sofort die ersten Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!</p>
 
 ## 2. Links
 
@@ -85,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GELD: Monatsübersicht erstellen | Vorlage und Anleitung? — Typ: Software, Anbieter: NilsWarnecke, gelistet seit 2019-10-02
-- Wie viel kostet es? — 53.67674 USD
+- Wie viel kostet es? — 53.556990000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

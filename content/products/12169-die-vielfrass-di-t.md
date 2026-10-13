@@ -4,34 +4,34 @@ digistore24_product_id: 87095
 title: "DIE VIELFRASS-DIÄT"
 vendor: "BIGbenn1"
 product_type: "Downloads"
-price: 25
+price: 24.94
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 9.05
+earnings_per_sale: 9.03
 cart_conversion_pct: 8
 cancel_rate_pct: 2.93
 categories: ["Health & Fitness"]
 listed_since: "2016-07-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://www.benn-verlag.de/digi-vd/index.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12169/adminstore/"
 sales_page: "http://www.benn-verlag.de/digi-vd/index.html"
 language: "de"
 ---
 # DIE VIELFRASS-DIÄT
 
 > Product ID `12169` · Digistore24 productId `87095` · [HTML profile page](../../produkte/die-vielfrass-di-t-12169.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.00 (Single payment) |
+| Price | $24.94 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $9.05 |
+| Earnings/sale* | $9.03 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.93% |
 | Vendor | BIGbenn1 |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DIE VIELFRASS-DIÄT Wie selbst Diät-Muffel erfolgreich abnehmen Jetzt kriegen auch Sie Ihr Fett weg! Erfolgreiches Abnehmen mit dauerhaftem Schlankbleiben folgt seinen eigenen Gesetzen. Anstatt sich an die herkömmlichen Diätkonzepte mit vielen Verzichten, Sport, Einkaufsvorgaben, Brrechnungen und Militärplan zu halten, beschreibt dieses Ebook eine unkonventionelle, aber hocheffektive Vorgehensweise…
+**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#800080;"><strong>DIE VIELFRASS-DIÄT</strong></span></p>
+<p style="text-align:center;">Wie selbst Diät-Muffel erfolgreich abnehmen</p>
+<p>Jetzt kriegen auch Sie Ihr Fett weg! Erfolgreiches Abnehmen mit dauerhaftem Schlankbleiben folgt seinen eigenen Gesetzen.</p>
+<p>Anstatt sich an die herkömmlichen Diätkonzepte mit vielen Verzichten, Sport, Einkaufsvorgaben, Brrechnungen und Militärplan zu halten, beschreibt dieses Ebook eine unkonventionelle, aber hocheffektive Vorgehensweise, die ohne grosse Anstrengungen umzusetzen und mit keiner vergleichbaren Diät vergleichbar ist.</p>
+<p>Eine einzigartige, sensationelle Erfolgsmethode, die anstatt auf Disziplin und Umstellung in Kochtopf und Kühlschrank auf eigene angenehme Auswahl der besten Fatburner-Tipps baut.</p>
+<p>Verzicht, Sport, Kalorienzählen und strenge Regeln fallen weg!!... und jede Diät ist die Beste - die Entscheidungsfindung! Wege aus dem widersprüchlichen Dschungel.</p>
+<p> </p>
+<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
+<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
+<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<strong>J<span style="color:#cc99ff;">eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</span></strong>“.</p>
+<p>2 einfache Schritte:</p>
+<ol>
+<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
+<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
+</ol>
+<p> </p>
+<p><em><strong> </strong></em></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.benn-verlag.de/digi-vd/index.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12169/adminstore/
 - Sales page: http://www.benn-verlag.de/digi-vd/index.html
 - Vendor affiliate support: http://www.benn-verlag.de/digi-vd/banner.html
 - Canonical redirect: https://www.digistore24.com/redir/87095/adminstore
@@ -68,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DIE VIELFRASS-DIÄT? — Typ: Downloads, Anbieter: BIGbenn1, gelistet seit 2016-07-08
-- Wie viel kostet es? — 25.000586 USD
+- Wie viel kostet es? — 24.944811 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

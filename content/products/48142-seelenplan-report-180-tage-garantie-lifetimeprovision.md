@@ -4,16 +4,16 @@ digistore24_product_id: 510260
 title: "Seelenplan Report: 180 Tage Garantie, Lifetimeprovision"
 vendor: "GeorgMartinka"
 product_type: "E-books"
-price: 32.78
+price: 32.7
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 4.72
+earnings_per_sale: 4.71
 cart_conversion_pct: 37
 cancel_rate_pct: 4.35
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2023-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://sandrahirsch.com/seelenplan?aff=adminstore#aff=adminstore"
 sales_page: "https://sandrahirsch.com/seelenplan"
@@ -22,16 +22,16 @@ language: "de"
 # Seelenplan Report: 180 Tage Garantie, Lifetimeprovision
 
 > Product ID `48142` · Digistore24 productId `510260` · [HTML profile page](../../produkte/seelenplan-report-180-tage-garantie-lifetimeprovision-48142.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $32.78 (Single payment) |
+| Price | $32.70 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $4.72 |
+| Earnings/sale* | $4.71 |
 | Cart conversion* | 37% |
 | Cancel rate* | 4.35% |
 | Vendor | GeorgMartinka |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Laufend auf kalten Traffic optimierter Sales-Prozess ermöglicht hohe Conversionraten In 5 Minuten kopiert und verschickt: Wir haben eine große Vielfalt an Conversion-geprüften Text- und Bild- Vorlagen (klicke auf dan "Affiliate-Support-Seite" Link) Ideal für Listen mit spirituellem Interesse: Klick-zu-Kauf-Conversionraten liegt hierbei im Schnitt deutlich über 10%, aber laut unseren Messungen auch…
+**Vendor's marketplace description:** <p><strong>Laufend auf kalten Traffic optimierter Sales-Prozess</strong> ermöglicht hohe Conversionraten </p>
+<p><strong>In 5 Minuten kopiert und verschickt:</strong></p>
+<p>Wir haben eine große Vielfalt an Conversion-geprüften Text- und Bild- Vorlagen (klicke auf dan "Affiliate-Support-Seite" Link)</p>
+<p>Ideal für Listen mit spirituellem Interesse: Klick-zu-Kauf-Conversionraten liegt hierbei im Schnitt deutlich über 10%, aber laut unseren Messungen auch interessant für nicht-spirituell orientierten Listen!</p>
+<p><strong>Das Besondere: Wer lieben und leben „Lifetime-Provision“</strong></p>
+<p>Dies bezeichnet ein Provisionsmodell, bei dem du nicht nur für den ersten Kauf eines von dir vermittelten Leads vergütet wirst, sondern für alle zukünftigen Käufe, die dieser Lead über unseren Backend-Funnel tätigt.</p>
+<p><strong>Das Besondere - im Besonderen: Du verdienst auch bei Fremdprodukten mit!</strong></p>
+<p>Nur bei ME: Wir beitten Lifetime-Provision für dich auf ME Produkte,<strong> als auch beworbene Fremdprodukte</strong> die wir im Backend-Funnel bewerben.</p>
+<p>Wir erstellen bei unseren Werbe-Emails mit ActiveCampaign dynamische Werbe-Links, die deine digistore24-ID inne haben. Zur Info, wie wir dies tun lese hier weiter "<a href="https://help.digistore24.com/de/articles/1187-geraeteuebergreifende-affiliate-attribution-daten-in-autoresponder-uebertragen" target="_blank" rel="noreferrer noopener">Geräteübergreifende Affiliate-Attribution</a>" </p>
+<p>In anderen Worten: Wenn du einmal erfolgreich einen Kunden für uns gewonnen hast, wirst du für die gesamte Dauer der Kundenbeziehung finanziell entlohnt – für jedes Folgeprodukt im Funnel, das dein Lead über unseren Newsletter erwirbt. Mehr zu unserem Kodex unter <a href="https://start.me.jetzt/partnerprogramm/lifetimeprovision/" target="_blank" rel="noreferrer noopener">https://start.me.jetzt/partnerprogramm/lifetimeprovision/</a></p>
+<p> </p>
 
 ## 2. Links
 
@@ -62,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Seelenplan Report: 180 Tage Garantie, Lifetimeprovision? — Typ: E-books, Anbieter: GeorgMartinka, gelistet seit 2023-08-04
-- Wie viel kostet es? — 32.77755 USD
+- Wie viel kostet es? — 32.704425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

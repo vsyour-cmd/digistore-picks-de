@@ -4,7 +4,7 @@ digistore24_product_id: 614660
 title: "eBook Spanische Kurzgeschichten für Anfänger"
 vendor: "digiheini"
 product_type: "Downloads"
-price: 7.44
+price: 7.42
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.49
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2025-05-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.dirk-wohlfeil.de/sp-9-spanische-kurzgeschichten-fuer-anfaenger/?aff=adminstore#aff=adminstore"
+promo_link: "http://gosikon.de/lp3_meine-gold-strategie#aff=adminstore"
 sales_page: "https://www.dirk-wohlfeil.de/sp-9-spanische-kurzgeschichten-fuer-anfaenger/"
 language: "de"
 ---
 # eBook Spanische Kurzgeschichten für Anfänger
 
 > Product ID `53013` · Digistore24 productId `614660` · [HTML profile page](../../produkte/ebook-spanische-kurzgeschichten-f-r-anf-nger-53013.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.44 (Single payment) |
+| Price | $7.42 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.49 |
 | Cart conversion* | — |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lerne strukturiert und nachhaltig Spanisch mit unserem eBook und insgesamt 9 spanischen Kurzgeschichten, die als MP3-Audio-Dateien in dem eBook enthalten sind. Die Kurzgeschichten bestehen aus einfachen spanischen Sätzen und sind daher ideal geeignet deine ersten Spanisch-Kenntnisse zu festigen und zu erweitern.
+**Vendor's marketplace description:** <p>Lerne strukturiert und nachhaltig Spanisch mit unserem eBook und insgesamt 9 spanischen Kurzgeschichten, die als MP3-Audio-Dateien in dem eBook enthalten sind. Die Kurzgeschichten bestehen aus einfachen spanischen Sätzen und sind daher ideal geeignet deine ersten Spanisch-Kenntnisse zu festigen und zu erweitern. </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.dirk-wohlfeil.de/sp-9-spanische-kurzgeschichten-fuer-anfaenger/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://gosikon.de/lp3_meine-gold-strategie#aff=adminstore
 - Sales page: https://www.dirk-wohlfeil.de/sp-9-spanische-kurzgeschichten-fuer-anfaenger/
 - Canonical redirect: https://www.digistore24.com/redir/614660/adminstore
 
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook Spanische Kurzgeschichten für Anfänger? — Typ: Downloads, Anbieter: digiheini, gelistet seit 2025-05-24
-- Wie viel kostet es? — 7.440784 USD
+- Wie viel kostet es? — 7.424184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

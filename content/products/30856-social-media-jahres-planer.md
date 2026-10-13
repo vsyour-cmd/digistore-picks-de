@@ -4,16 +4,16 @@ digistore24_product_id: 298305
 title: "Social Media Jahres Planer"
 vendor: "sattelitevendor"
 product_type: "Downloads"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.2
+earnings_per_sale: 37.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2019-12-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://torstenjaeger.com/socialmediajahresplaner?aff=adminstore#aff=adminstore"
 sales_page: "https://torstenjaeger.com/socialmediajahresplaner"
@@ -22,16 +22,16 @@ language: "de"
 # Social Media Jahres Planer
 
 > Product ID `30856` · Digistore24 productId `298305` · [HTML profile page](../../produkte/social-media-jahres-planer-30856.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.20 |
+| Earnings/sale* | $37.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 365 Tage innovative Ideen mit dem "Social Media Jahres Planer" Mit dem "Social Media Jahres Planer" bekommst du für 365 Tage überzeugende Social Media Posting Ideen an die Hand, feinsäuberlich zusammengestellt. … + … 102 kreative Fragen, die du deinen Kontakten stellen kannst, die für mehr Interaktion sorgen werden. Der Social Media Jahres Planer ist unterteilt in 12 Monate, der jeden Tag inspirie…
+**Vendor's marketplace description:** <h1 style="text-align:left;"><span style="background-color:#ff0000;color:#ffffff;">365 Tage innovative Ideen mit dem "Social Media Jahres Planer"</span></h1>
+<p>Mit dem "<strong>Social Media Jahres Planer</strong>" bekommst du für 365 Tage überzeugende Social Media Posting Ideen an die Hand, feinsäuberlich zusammengestellt.</p>
+<p>… <strong>+ </strong>…</p>
+<p><strong>102 kreative Fragen</strong>, die du deinen Kontakten stellen kannst, die für mehr Interaktion sorgen werden.</p>
+<p> </p>
+<p><strong>Der Social Media Jahres Planer ist unterteilt in 12 Monate</strong>, der jeden Tag <strong>inspirierende Ideen</strong> und anschauliche Beispiele für deine Postings liefert.</p>
+<p>Der <strong>Social Media Jahres Planer</strong> verschafft dir bis zu <strong>97%</strong> <strong>mehr Aufmerksamkeit</strong> in Facebook, Instagram, Pinterest, Twitter, LinkedIn und vielen anderen sozialen Netzwerken, stärkt dein Branding, generiert dir so mehr Traffic und erhöht deinen Umsatz. </p>
+<h3><span style="color:#ff0000;"><strong>Auf den Punkt:</strong></span></h3>
+<ul>
+<li>
+<p>Du bekommst <strong>50% Provision</strong> für jeden Verkauf</p>
+</li>
+<li>Die Seite wird ständig optimiert für starke Conersions</li>
+<li>
+<p>Die Abrechnung erfolgt über Digistore24</p>
+</li>
+</ul>
+<p>Alle Werbemittel findest du auf unserer Partnerprogrammseite - <a href="https://docs.google.com/document/d/1EvclKawCq2SKd55RUcyVfwLLjL-hawAdfupt-hpZ-1A/edit?usp=sharing" target="_blank" rel="noreferrer noopener"><strong>Hier klicken</strong></a></p>
+<p> </p>
 
 ## 2. Links
 
@@ -67,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media Jahres Planer? — Typ: Downloads, Anbieter: sattelitevendor, gelistet seit 2019-12-05
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

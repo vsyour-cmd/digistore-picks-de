@@ -4,16 +4,16 @@ digistore24_product_id: 692793
 title: "NAVOK® – Das Organisationssystem im Komplettpaket"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 215.65
+price: 215.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 107.82
+earnings_per_sale: 107.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-05-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/692793?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/692793"
@@ -22,16 +22,16 @@ language: "de"
 # NAVOK® – Das Organisationssystem im Komplettpaket
 
 > Product ID `56744` · Digistore24 productId `692793` · [HTML profile page](../../produkte/navok-das-organisationssystem-im-komplettpaket-56744.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $215.65 (Single payment) |
+| Price | $215.17 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $107.82 |
+| Earnings/sale* | $107.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** NAVOK® ist das Navigationssystem für Organisationsklarheit: Sechs Playbooks zu Struktur, Prozesse & Steuerung, Rollen & Verantwortung, Führung, Entscheidungen und Prioritäten – gebündelt im Komplettpaket "NAVOK – Das Organisationssystem" für 1.099 €. Zielgruppe: Geschäftsführung im Mittelstand (200–2.000 Mitarbeitende), HR- und Organisationsentwickler, Berater und Coaches im B2B-Umfeld, die ein vo…
+**Vendor's marketplace description:** <p><strong>NAVOK® ist das Navigationssystem für Organisationsklarheit:</strong></p>
+<p>Sechs Playbooks zu Struktur, Prozesse &amp; Steuerung, Rollen &amp; Verantwortung, Führung, Entscheidungen und Prioritäten – gebündelt im Komplettpaket "NAVOK – Das Organisationssystem" für 1.099 €.</p>
+<p><strong>Zielgruppe:</strong> Geschäftsführung im Mittelstand (200–2.000 Mitarbeitende), HR- und Organisationsentwickler, Berater und Coaches im B2B-Umfeld, die ein vollständiges, sofort einsetzbares System statt einzelner Bausteine suchen.</p>
+<p>Als Affiliate erhalten Sie <strong>50 % Provision</strong> auf jeden Verkauf. Über die NAVOK-Lifetime-Regel erhalten Sie zusätzlich automatisch Provision, wenn ein von Ihnen geworbener Kunde später eines der sechs Einzeldimension-Playbooks kauft – auch ohne erneuten Klick auf Ihren Link.</p>
+<p>Fertige Werbemittel, Social-Media-Texte und weitere Infos finden Sie auf unserer Affiliate-Support-Seite.</p>
 
 ## 2. Links
 
@@ -89,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist NAVOK® – Das Organisationssystem im Komplettpaket? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-05-29
-- Wie viel kostet es? — 215.648264 USD
+- Wie viel kostet es? — 215.167164 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

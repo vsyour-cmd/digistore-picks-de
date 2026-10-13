@@ -4,34 +4,34 @@ digistore24_product_id: 381027
 title: "AZAV Online-Akademie"
 vendor: "UrsulaWienken"
 product_type: "Webinar"
-price: 187.4
+price: 186.98
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 56.22
+earnings_per_sale: 56.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-03-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/36335/adminstore/"
 sales_page: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/"
 language: "de"
 ---
 # AZAV Online-Akademie
 
 > Product ID `36335` · Digistore24 productId `381027` · [HTML profile page](../../produkte/azav-online-akademie-36335.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $187.40 (Single payment) |
+| Price | $186.98 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $56.22 |
+| Earnings/sale* | $56.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UrsulaWienken |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Online Training AZAV unterstützt alle, die sich für eine Zulassung als AZAV-Träger interessieren oder die Zulassung sinnvoll aufrechterhalten wollen. Die Module sind praxisorientiert konzipiert - und können zumindest einen Teil der sonst notwendigen Beratung ersetzen. Schritt für Schritt werden die Teilnehmer*innen durch die Theorie, die Regeln und den Ablauf der AZAV geführt und das immer am …
+**Vendor's marketplace description:** <p>Das Online Training AZAV unterstützt alle, die sich für eine Zulassung als AZAV-Träger interessieren oder die Zulassung sinnvoll aufrechterhalten wollen.</p>
+<p>Die Module sind praxisorientiert konzipiert - und können zumindest einen Teil der sonst notwendigen Beratung ersetzen.</p>
+<p>Schritt für Schritt werden die Teilnehmer*innen durch die Theorie, die Regeln und den Ablauf der AZAV geführt und das immer am praktischen Beispiel.</p>
+<p>Das Training ersetzt keine Beratung, verringert aber die Anzahl der notwendigen Beratungstage :-).</p>
+<p><strong>Die ersten drei Lektionen sind kostenlos!</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36335/adminstore/
 - Sales page: https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/
 - Canonical redirect: https://www.digistore24.com/redir/381027/adminstore
 
@@ -88,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AZAV Online-Akademie? — Typ: Webinar, Anbieter: UrsulaWienken, gelistet seit 2021-03-25
-- Wie viel kostet es? — 187.39793799999998 USD
+- Wie viel kostet es? — 186.979863 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

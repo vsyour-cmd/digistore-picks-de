@@ -4,34 +4,34 @@ digistore24_product_id: 87093
 title: "IHR NEUER NAME"
 vendor: "BIGbenn1"
 product_type: "Downloads"
-price: 25
+price: 24.94
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 9.95
+earnings_per_sale: 9.93
 cart_conversion_pct: 8
 cancel_rate_pct: 2.93
 categories: ["Law & Justice"]
 listed_since: "2016-07-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://www.benn-verlag.de/digi-neuer-name/index.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12171/adminstore/"
 sales_page: "http://www.benn-verlag.de/digi-neuer-name/index.html"
 language: "de"
 ---
 # IHR NEUER NAME
 
 > Product ID `12171` · Digistore24 productId `87093` · [HTML profile page](../../produkte/ihr-neuer-name-12171.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.00 (Single payment) |
+| Price | $24.94 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $9.95 |
+| Earnings/sale* | $9.93 |
 | Cart conversion* | 8% |
 | Cancel rate* | 2.93% |
 | Vendor | BIGbenn1 |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** IHR NEUER NAME - legal und amtlich ...in Deutschland ...in Europa ...weltweit INHALTSANGABE Die 9 Möglichkeiten der Namensänderung in Deutschland Neuer Name durch Religionswechsel Neuer Name durch Wehrdienst Neuer Name durch neuen Pass Noch ein cleverer Trick, für eine neue Identität So leicht bekommen Ausländer einen neuen Namen in England Das Kit zur Namensänderung in den USA Neue Identität durc…
+**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#800080;"><strong>IHR NEUER NAME - legal und amtlich</strong></span></p>
+<p>...in Deutschland<br /> ...in Europa<br /> ...weltweit</p>
+<p>INHALTSANGABE<br /> Die 9 Möglichkeiten der Namensänderung in Deutschland<br /> Neuer Name durch Religionswechsel<br /> Neuer Name durch Wehrdienst<br /> Neuer Name durch neuen Pass<br /> Noch ein cleverer Trick, für eine neue Identität<br /> So leicht bekommen Ausländer einen neuen Namen in England<br /> Das Kit zur Namensänderung in den USA<br /> Neue Identität durch Tarnpass</p>
+<p> </p>
+<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
+<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
+<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<strong>J<span style="color:#cc99ff;">eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</span></strong>“.</p>
+<p>2 einfache Schritte:</p>
+<ol>
+<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html%20" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
+<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
+</ol>
+<p> </p>
+<p><em><strong> </strong></em></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.benn-verlag.de/digi-neuer-name/index.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12171/adminstore/
 - Sales page: http://www.benn-verlag.de/digi-neuer-name/index.html
 - Vendor affiliate support: http://www.benn-verlag.de/digi-neuer-name/banner.html
 - Canonical redirect: https://www.digistore24.com/redir/87093/adminstore
@@ -65,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist IHR NEUER NAME? — Typ: Downloads, Anbieter: BIGbenn1, gelistet seit 2016-07-08
-- Wie viel kostet es? — 25.000586 USD
+- Wie viel kostet es? — 24.944811 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

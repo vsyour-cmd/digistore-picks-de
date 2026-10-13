@@ -4,34 +4,34 @@ digistore24_product_id: 652461
 title: "EU AI Act – Datenlabeling und Trainingsdaten"
 vendor: "MindshiftDigitalStudio"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.19
+earnings_per_sale: 8.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/652461?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59711/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/652461"
 language: "de"
 ---
 # EU AI Act – Datenlabeling und Trainingsdaten
 
 > Product ID `59711` · Digistore24 productId `652461` · [HTML profile page](../../produkte/eu-ai-act-datenlabeling-und-trainingsdaten-59711.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.19 |
+| Earnings/sale* | $8.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -41,11 +41,38 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** EU KI-Datenlabeling und Trainingsdaten-Dokumentation 2026 – Unternehmer Edition Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, die Trainingsdaten für KI-Systeme verwenden, aufbereiten oder kennzeichnen und diese Prozesse nachvollziehbar dokumentieren möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, Datenlabeling, Trainingsdaten, Datenqual…
+**Vendor's marketplace description:** <p><strong>EU KI-Datenlabeling und Trainingsdaten-Dokumentation 2026 – Unternehmer Edition</strong></p>
+<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, die Trainingsdaten für KI-Systeme verwenden, aufbereiten oder kennzeichnen und diese Prozesse nachvollziehbar dokumentieren möchten.</p>
+<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, Datenlabeling, Trainingsdaten, Datenqualität, Bias und Nachweisdokumentation</strong>.</p>
+<p><strong>Geeignet für:</strong></p>
+<ul>
+<li>Selbstständige und KMU</li>
+<li>Unternehmen mit eigenen KI-Projekten</li>
+<li>IT- und Produktteams</li>
+<li>Daten- und KI-Verantwortliche</li>
+<li>Compliance- und Governance-Teams</li>
+<li>Agenturen und Beratungen</li>
+</ul>
+<p><strong>Enthalten sind unter anderem:</strong></p>
+<ul>
+<li>Trainingsdaten-Herkunftsbogen</li>
+<li>Datenlabeling-Protokoll</li>
+<li>Annotation-Guideline</li>
+<li>Datenqualitätsbewertung</li>
+<li>Bias-Prüfmatrix</li>
+<li>Datentransformations-Log</li>
+<li>Lizenz- und Consent-Nachweise</li>
+<li>Dokumentation externer Datenbearbeitung</li>
+<li>Risikoanalyse und Auditplan</li>
+<li>praktische Checklisten</li>
+</ul>
+<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
+<p>Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe und ersetzt keine individuelle Rechtsberatung.</p>
+<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/652461?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59711/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/652461
 - Canonical redirect: https://www.digistore24.com/redir/652461/adminstore
 
@@ -73,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EU AI Act – Datenlabeling und Trainingsdaten? — Typ: Downloads, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

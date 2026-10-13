@@ -4,34 +4,34 @@ digistore24_product_id: 735303
 title: "Projektpreis: Projekte kalkulieren, Puffer und Marge verstehen"
 vendor: "kiagent007"
 product_type: "Software"
-price: 18.74
+price: 18.69
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.63
+earnings_per_sale: 5.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Project Management"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/735303?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59425/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/735303"
 language: "de"
 ---
 # Projektpreis: Projekte kalkulieren, Puffer und Marge verstehen
 
 > Product ID `59425` · Digistore24 productId `735303` · [HTML profile page](../../produkte/projektpreis-projekte-kalkulieren-puffer-und-marge-verstehen-59425.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $18.74 (Single payment) |
+| Price | $18.69 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.63 |
+| Earnings/sale* | $5.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kiagent007 |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Projektangebote nachvollziehbar kalkulieren Projektpreis ist eine lokale Download-App für Selbstständige und kleine Agenturen, die Design-, Text- oder andere Dienstleistungsprojekte kalkulieren. Bis zu 30 Leistungspositionen mit Aufwand und internem Kostensatz erfassen. Zeitpuffer, Fremdkosten, Zielmarge und Rabatt bis zur Kostengrenze berechnen. Kundenbudget mit den kalkulierten Kosten vergleiche…
+**Vendor's marketplace description:** <h2>Projektangebote nachvollziehbar kalkulieren</h2>
+<p>Projektpreis ist eine lokale Download-App für Selbstständige und kleine Agenturen, die Design-, Text- oder andere Dienstleistungsprojekte kalkulieren.</p>
+<ul>
+<li>Bis zu 30 Leistungspositionen mit Aufwand und internem Kostensatz erfassen.</li>
+<li>Zeitpuffer, Fremdkosten, Zielmarge und Rabatt bis zur Kostengrenze berechnen.</li>
+<li>Kundenbudget mit den kalkulierten Kosten vergleichen.</li>
+<li>Projekte als Dateien exportieren und wieder öffnen.</li>
+<li>Leistungsumfang, Ausschlüsse und offene Punkte in einem kopierbaren Briefing festhalten.</li>
+</ul>
+<p>ZIP-Download mit HTML-App und Kurzanleitung. Nutzung am Computer im Browser, ohne KI-Zugang. Projekte werden manuell als Dateien gespeichert. Keine Cloud-Synchronisation, kein Rechnungsprogramm und kein automatischer Versand.</p>
+<h3>Für Vertriebspartner</h3>
+<p>30 % Affiliate-Provision gemäß Digistore24-Abrechnung. Geeignet für Inhalte rund um Selbstständigkeit, Freelancer-Angebote und Projektkalkulation. Ein sinnvoller Einstieg ist der Unterschied zwischen Kostenaufschlag und Zielmarge.</p>
+<p>Eine kostenlose interaktive Kostprobe findet ihr auf <a href="https://projektpreis-studio.crimetwin.chatgpt.site">der Projektpreis-Website</a>. Alle Beispielwerte sind fiktiv. Es werden keine bestimmten Einnahmen oder Einsparungen zugesichert.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/735303?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59425/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/735303
 - Vendor affiliate support: https://projektpreis-studio.crimetwin.chatgpt.site/partner/
 - Canonical redirect: https://www.digistore24.com/redir/735303/adminstore
@@ -72,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Projektpreis: Projekte kalkulieren, Puffer und Marge verstehen? — Typ: Software, Anbieter: kiagent007, gelistet seit 2026-09-20
-- Wie viel kostet es? — 18.736432 USD
+- Wie viel kostet es? — 18.694632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

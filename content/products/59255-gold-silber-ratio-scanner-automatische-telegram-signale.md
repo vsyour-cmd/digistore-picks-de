@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Software"]
 listed_since: "2026-09-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://gsr.siluna.li?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59255/adminstore/"
 sales_page: "https://gsr.siluna.li"
 language: "de"
 ---
 # Gold/Silber-Ratio Scanner - automatische Telegram-Signale
 
 > Product ID `59255` · Digistore24 productId `728830` · [HTML profile page](../../produkte/gold-silber-ratio-scanner-automatische-telegram-signale-59255.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Automatische Signale zur Gold/Silber-Ratio, dem Kursverhaeltnis von Gold zu Silber – direkt per Telegram und im persoenlichen Web-Dashboard. Kunden bekommen taeglich zum Tagesschluss, bei Ueber-/Unterschreiten fester Schwellen und bei starken Ausschlaegen eine kurze Nachricht. Dazu: Gold-/Silberpreis in USD, EUR und CHF, historische Einordnung der Ratio (20 Jahre und seit 1968) sowie ein Umschicht…
+**Vendor's marketplace description:** <p>Automatische Signale zur Gold/Silber-Ratio, dem Kursverhaeltnis von Gold zu Silber – direkt per Telegram und im persoenlichen Web-Dashboard.</p>
+<p>Kunden bekommen taeglich zum Tagesschluss, bei Ueber-/Unterschreiten fester Schwellen und bei starken Ausschlaegen eine kurze Nachricht. Dazu: Gold-/Silberpreis in USD, EUR und CHF, historische Einordnung der Ratio (20 Jahre und seit 1968) sowie ein Umschichtungs-Rechner.</p>
+<p>Zielgruppe: Edelmetall-Sparer und Ratio-Trader, die Gold und Silber gegeneinander umschichten und den richtigen Moment nicht verpassen wollen.</p>
+<p>Monatsabo CHF 14, monatlich kuendbar. Digitales Produkt, sofortiger Zugang nach Kauf.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://gsr.siluna.li?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59255/adminstore/
 - Sales page: https://gsr.siluna.li
 - Vendor affiliate support: https://academy.siluna.li/botschafter
 - Canonical redirect: https://www.digistore24.com/redir/728830/adminstore

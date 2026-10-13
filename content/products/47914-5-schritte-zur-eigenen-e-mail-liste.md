@@ -4,16 +4,16 @@ digistore24_product_id: 138897
 title: "5 Schritte zur eigenen E-Mail-Liste"
 vendor: "KundenFinder"
 product_type: "Online coaching"
-price: 16.01
+price: 15.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.01
+earnings_per_sale: 7.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2017-05-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://klick-jetzt-hier.net/441684/3116323/DS24?aff=adminstore#aff=adminstore"
 sales_page: "https://klick-jetzt-hier.net/441684/3116323/DS24"
@@ -22,16 +22,16 @@ language: "de"
 # 5 Schritte zur eigenen E-Mail-Liste
 
 > Product ID `47914` · Digistore24 productId `138897` · [HTML profile page](../../produkte/5-schritte-zur-eigenen-e-mail-liste-47914.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $16.01 (Single payment) |
+| Price | $15.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.01 |
+| Earnings/sale* | $7.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KundenFinder |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Infos für Affiliates Mit diesem Produkt erhält der Kunden einen Kurs in Form von täglichen E-Mails der die wichtigsten Punkte zum Aufbau eine eigenen E-Mail-Liste anspricht. Weiterhin erhält der Kunden in zuge des Kurses Tipps zur zum Aufbau von Landingpages, zum Autoresponder sowie Traffictipps. Als Bonus bekommt der Kunde das eBook 5 Schritte zur eigenen E-Mail-Liste zum kostenlosen Download. Al…
+**Vendor's marketplace description:** <p><strong>Infos für Affiliates</strong></p>
+<p>Mit diesem Produkt erhält der Kunden einen Kurs in Form von täglichen E-Mails der die wichtigsten Punkte zum Aufbau eine eigenen E-Mail-Liste anspricht.</p>
+<p>Weiterhin erhält der Kunden in zuge des Kurses Tipps zur zum Aufbau von Landingpages, zum Autoresponder sowie Traffictipps.</p>
+<p>Als Bonus bekommt der Kunde das eBook <strong>5 Schritte zur eigenen E-Mail-Liste</strong> zum kostenlosen Download.</p>
+<p>Als Affiliate erhältst Du 50% Provision vom Netto-Verkaufspreis abzüglich der Digistore24 Gebühren.</p>
+<p> </p>
 
 ## 2. Links
 
@@ -77,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 5 Schritte zur eigenen E-Mail-Liste? — Typ: Online coaching, Anbieter: KundenFinder, gelistet seit 2017-05-19
-- Wie viel kostet es? — 16.013374 USD
+- Wie viel kostet es? — 15.977649 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

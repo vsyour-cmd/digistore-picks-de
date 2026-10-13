@@ -4,34 +4,34 @@ digistore24_product_id: 165227
 title: "Inside Bali [Corona-Film-Hilfsprojekt]"
 vendor: "rheinrost"
 product_type: "Downloads"
-price: 14.13
+price: 14.1
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 4.94
+earnings_per_sale: 4.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film","Social Media","Travel & Culture"]
 listed_since: "2017-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.unaufschiebbar.de/bali-guides/inside-bali/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/32391/adminstore/"
 sales_page: "https://www.unaufschiebbar.de/bali-guides/inside-bali/"
 language: "de"
 ---
 # Inside Bali [Corona-Film-Hilfsprojekt]
 
 > Product ID `32391` · Digistore24 productId `165227` · [HTML profile page](../../produkte/inside-bali-corona-film-hilfsprojekt-32391.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.13 (Single payment) |
+| Price | $14.10 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $4.94 |
+| Earnings/sale* | $4.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Inside Bali" ist ein Hilfsprojekt, das im Rahmen der Corona-Krise entstanden ist. Der Film handelt von 7 deutschsprachigen Tour-Guides, die das Leben auf Bali abseits des Massentourismus zeigen. Sie geben dir einen direkten Einblick darin, wie die Balinesen wirklich leben und wie die Kultur auf Bali ihr Leben beeinflusst. Die Einnahmen gehen direkt an die 7 Guides und ihre Familien. Denn der eing…
+**Vendor's marketplace description:** <p>"Inside Bali" ist ein <strong>Hilfsprojekt,</strong> das im Rahmen der Corona-Krise entstanden ist. Der Film handelt von 7 deutschsprachigen Tour-Guides, die das <strong>Leben auf Bali abseits des Massentourismus</strong> zeigen. Sie geben dir einen direkten Einblick darin, wie die Balinesen wirklich leben und wie die Kultur auf Bali ihr Leben beeinflusst.</p>
+<p>Die Einnahmen gehen direkt an die 7 Guides und ihre Familien. Denn der eingebrochene Tourismus sorgt momentan dafür, dass die Einnahmen der jeweiligen Familien von heute auf morgen gegen 0 gehen. Eine Arbeitslosenversicherung, Fördergelder vom Staat oder Kurzarbeitergeld gibt es für sie nicht. Wir möchten hiermit daher helfen. Und dafür kriegst du auch eine Provision.</p>
+<p>Deine Vorteile:</p>
+<ul>
+<li><span style="background-color:#ffff00;"><strong>Exzellente Conversions</strong></span>: Profitiere von unseren hohen Conversions (Kaufraten) von bis zu 36%. Das bedeutet, dass im Schnitt mehr als jeder Dritte, den du auf das Bestellformular leitest, kauft!</li>
+<li><span style="background-color:#ffff00;"><strong>Hohe Provisionen</strong></span>: Wir bieten dir bis zu 35 Prozent Provision auf deine vermittelten Verkäufe.</li>
+<li><span style="background-color:#ffff00;"><strong>Wiederkehrende Provisionen für geworbene Affiliates</strong></span>: Erhalte 15 Prozent wiederkehrende Zweistufen-Provisionen auf die Provisionen deiner Affiliates, wenn du einen neuen Affiliate wirbst.</li>
+<li><span style="background-color:#ffff00;"><strong>Provisionen für Folgeprodukte &amp; Upsells</strong></span>: Profitiere automatisch von Provisionen auf den Kauf von Folgeprodukten und Upsells. D.h.: Du bewirbst ein Produkt und verdienst beim Kauf weiterer Produkte automatisch mit.</li>
+<li><span style="background-color:#ffff00;"><strong>Hochkonvertierende Werbemittel</strong></span>: Große Auswahl getesteter und durchoptimierter Werbemittel, die du sofort einsetzen kannst: Klickstarke und hochkonvertierende Banner, Vorlagen für E-Mail-Texte und mehr - für mehr Leads und Verkäufe.</li>
+<li><span style="background-color:#ffff00;"><strong>Geringe Stornoquote</strong></span>: Wir haben eine geringe Stornoquote.</li>
+</ul>
+<p>Besuche jetzt unsere offizielle Seite zum <a><strong>Affiiate Partnerprogramm</strong>,</a> um noch heute Affiliate zu werden.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.unaufschiebbar.de/bali-guides/inside-bali/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/32391/adminstore/
 - Sales page: https://www.unaufschiebbar.de/bali-guides/inside-bali/
 - Vendor affiliate support: https://www.unaufschiebbar.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/165227/adminstore
@@ -82,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Inside Bali [Corona-Film-Hilfsprojekt]? — Typ: Downloads, Anbieter: rheinrost, gelistet seit 2017-09-23
-- Wie viel kostet es? — 14.130766 USD
+- Wie viel kostet es? — 14.099241000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

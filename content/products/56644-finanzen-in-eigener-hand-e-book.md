@@ -4,16 +4,16 @@ digistore24_product_id: 694925
 title: "Finanzen in eigener Hand (E-Book)"
 vendor: "worldxpb"
 product_type: "E-books"
-price: 22.3
+price: 22.25
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 11.37
+earnings_per_sale: 11.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Finances"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/694925?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/694925"
@@ -22,16 +22,16 @@ language: "de"
 # Finanzen in eigener Hand (E-Book)
 
 > Product ID `56644` · Digistore24 productId `694925` · [HTML profile page](../../produkte/finanzen-in-eigener-hand-e-book-56644.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.30 (Single payment) |
+| Price | $22.25 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $11.37 |
+| Earnings/sale* | $11.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Landing Page wie folgt um eine Kurzübersicht zum Buch zu erhalten. https://worldfinancemovement.carrd.co/ Bindet euren Affiliate Link selbst ein, sodass der Kunde über deinen Affiliate-Link auf deiner Lading-Page, deinem Social-Media Account, Post etc. zur Verakufsseite von Digistore gelangt und du deine Provision pro Verkauf erhältst. In diesem Buch steckt viel Wissen aus 7 jähriger Erfahrung mit…
+**Vendor's marketplace description:** <p>Landing Page wie folgt um eine Kurzübersicht zum Buch zu erhalten. </p>
+<p><a>https://worldfinancemovement.carrd.co/ </a></p>
+<p>Bindet euren Affiliate Link selbst ein, sodass der Kunde über deinen Affiliate-Link auf deiner Lading-Page, deinem Social-Media Account, Post etc. zur Verakufsseite von Digistore gelangt und du deine Provision pro Verkauf erhältst.</p>
+<p>In diesem Buch steckt viel Wissen aus 7 jähriger Erfahrung mit praxisnahen Beispielen drin.</p>
+<p>Danke im Voraus, dass du mein Produkt bewirbst &amp; ich wünsche dir ganz viel Erfolg und viele Provisionseinnahmen! :)</p>
+<p>Falls Ihr irgendwelche Fragen/Unsicherheiten habt dürft Ihr mich gerne kontaktieren!</p>
+<p>worldfinancemovement@outlook.de</p>
 
 ## 2. Links
 
@@ -81,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanzen in eigener Hand (E-Book)? — Typ: E-books, Anbieter: worldxpb, gelistet seit 2026-05-22
-- Wie viel kostet es? — 22.29994 USD
+- Wie viel kostet es? — 22.25019 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

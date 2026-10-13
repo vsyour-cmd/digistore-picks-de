@@ -4,16 +4,16 @@ digistore24_product_id: 553895
 title: "Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)"
 vendor: "SabineQigong"
 product_type: "Member area and video courses"
-price: 554.7
+price: 553.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 277.35
+earnings_per_sale: 276.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-04-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/8-zyklen-qigong-und-xi-atmung-2?aff=adminstore#aff=adminstore"
 sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/8-zyklen-qigong-und-xi-atmung-2"
@@ -22,16 +22,16 @@ language: "de"
 # Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)
 
 > Product ID `56216` · Digistore24 productId `553895` · [HTML profile page](../../produkte/premium-videokurs-8-zyklen-qigong-spitzenprodukt-56216.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $554.70 (Single payment) |
+| Price | $553.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $277.35 |
+| Earnings/sale* | $276.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineQigong |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte 50% Provision pro Verkauf rechnen. Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel. Besuche über den Link unten auch gerne meine Affiliate Supportseite, denn dort findest du jede Menge sehr gute und attraktive Werbem…
+**Vendor's marketplace description:** <p>Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte </p>
+<h2><strong>50% Provision pro Verkauf</strong></h2>
+<p>rechnen.</p>
+<p><strong>Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel.</strong></p>
+<p>Besuche über den Link unten auch gerne meine Affiliate Supportseite, denn dort findest du jede Menge sehr gute und attraktive Werbemittel: Vorlage-Newsletter, Werbebanner in allen Größen,...</p>
+<p><strong>Das bewirbst du:</strong></p>
+<p>Dieser Qigong-Kurs ist hilfreich bei Beschwerden im Bewegungsablauf, wie z.B.</p>
+<ul>
+<li>Rücken- oder Gelenksschmerzen,</li>
+<li>Stress</li>
+<li>Schlafproblemen</li>
+<li>Atembeschwerden oder</li>
+<li>effektive Gesundheitsvorsorge u.v.m.</li>
+</ul>
+<p><strong>Zielgruppe:</strong></p>
+<p>Frauen und Männer <strong>45+</strong>, welche aktiv für ihr Wohlbefinden sorgen und wieder ihre wohlverdiente <strong>körperliche Gesundheit und emotionale Ausgeglichenheit mit Qigong zurückerobern</strong> wollen.</p>
 
 ## 2. Links
 
@@ -86,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Premium Videokurs: 8 Zyklen Qigong (Spitzenprodukt)? — Typ: Member area and video courses, Anbieter: SabineQigong, gelistet seit 2026-04-10
-- Wie viel kostet es? — 554.697 USD
+- Wie viel kostet es? — 553.4595 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

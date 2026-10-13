@@ -4,34 +4,34 @@ digistore24_product_id: 260302
 title: "Heilung der Zirbeldrüse"
 vendor: "Musik-Apotheke"
 product_type: "Downloads"
-price: 42.38
+price: 42.29
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.72
+earnings_per_sale: 12.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-02-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.compose-media.de/heilung-der-zirbeldruese/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/28143/adminstore/"
 sales_page: "https://www.compose-media.de/heilung-der-zirbeldruese/"
 language: "de"
 ---
 # Heilung der Zirbeldrüse
 
 > Product ID `28143` · Digistore24 productId `260302` · [HTML profile page](../../produkte/heilung-der-zirbeldr-se-28143.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $42.38 (Single payment) |
+| Price | $42.29 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.72 |
+| Earnings/sale* | $12.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Musik-Apotheke |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Heilung der Zirbeldrüse ⇒ 3 Titel in einem Paket (MP3) – insgesamt 1:39:12 Std. Laufzeit Die Titel: Reinigung und Aktivierung der Zirbeldrüse – 432 Hertz - 31:30 MinHeilung der Zirbeldrüse – 528 Hertz - 36:22 Min.Unsere Antenne zu höherem Gewahrsein – 528 Hertz - 31:20 Min. Verkaufspreis: 45,00 Euro Du verdienst 30 % Provision. Wir freuen uns auf Dich! Herzliche Grüße!
+**Vendor's marketplace description:** <h3>Heilung der Zirbeldrüse</h3>
+<div>⇒ 3 Titel in einem Paket (MP3) – insgesamt 1:39:12 Std. Laufzeit</div>
+<div> </div>
+<div>
+<p><strong>Die Titel:</strong></p>
+<p>Reinigung und Aktivierung der Zirbeldrüse – 432 Hertz<em> - 31:30 Min</em><br />Heilung der Zirbeldrüse – 528 Hertz<em> - 36:22 Min.</em><br />Unsere Antenne zu höherem Gewahrsein – 528 Hertz - <em>31:20 Min.</em></p>
+<p> </p>
+<p>Verkaufspreis: 45,00 Euro</p>
+</div>
+<p> </p>
+<p>Du verdienst 30 % Provision.</p>
+<p> </p>
+<p>Wir freuen uns auf Dich!</p>
+<p>Herzliche Grüße!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.compose-media.de/heilung-der-zirbeldruese/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/28143/adminstore/
 - Sales page: https://www.compose-media.de/heilung-der-zirbeldruese/
 - Vendor affiliate support: https://www.compose-media.de/heilung-der-zirbeldruese/
 - Canonical redirect: https://www.digistore24.com/redir/260302/adminstore
@@ -70,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilung der Zirbeldrüse? — Typ: Downloads, Anbieter: Musik-Apotheke, gelistet seit 2019-02-13
-- Wie viel kostet es? — 42.381092 USD
+- Wie viel kostet es? — 42.286542000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

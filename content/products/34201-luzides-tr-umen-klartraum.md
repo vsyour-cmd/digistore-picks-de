@@ -4,34 +4,34 @@ digistore24_product_id: 349290
 title: "Luzides Träumen – Klartraum"
 vendor: "Dreamworld"
 product_type: "Member area and video courses"
-price: 113
+price: 112.75
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 22.6
+earnings_per_sale: 22.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://dreamworld.coachy.net/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/34201/adminstore/"
 sales_page: "https://dreamworld.coachy.net/"
 language: "de"
 ---
 # Luzides Träumen – Klartraum
 
 > Product ID `34201` · Digistore24 productId `349290` · [HTML profile page](../../produkte/luzides-tr-umen-klartraum-34201.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $113.00 (Single payment) |
+| Price | $112.75 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $22.60 |
+| Earnings/sale* | $22.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Dreamworld |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Luzide Träume und Klarträume sind Träume, in denen wir, während wir träumen, erkennen, dass wir träumen, und wissen, dass wir im Traum uns entscheiden und frei handeln können. Wir erkennen also den Traum als Traum und können unsere Träume beeinflussen. Wir befinden uns wie in einem inneren Film – einem Tableau vivant. Der Träumer betritt seinen Traum, er ist Autor, Regisseur, Schauspieler, Requisi…
+**Vendor's marketplace description:** <p>Luzide Träume und Klarträume sind Träume, in denen wir, während wir träumen, erkennen, dass wir träumen, und wissen, dass wir im Traum uns entscheiden und frei handeln können. Wir erkennen also den Traum als Traum und können unsere Träume beeinflussen. Wir befinden uns wie in einem inneren Film – einem Tableau vivant. Der Träumer betritt seinen Traum, er ist Autor, Regisseur, Schauspieler, Requisite, Kulisse und Filmproduzent in einem. Man befindet sich in der eigenen Traumrealität, die eben nicht virtuell, sondern traumhaft ist. Im Klartraum ist alles möglich, der Fantasie sind keine Grenzen gesetzt. Diese große Freiheit ist kaum vorstellbar.</p>
+<p>Dem Klarträumer stehen viele Möglichkeiten offen:</p>
+<ul><li>Er kann den Traumzustand erkennen und beobachten</li>
+<li>Er kann den Traum verändern</li>
+<li>Er kann den Traum stoppen</li>
+<li>Er kann den Traum auch bewusst weiterlaufen lassen, sich vom Traum überraschen lassen und – wie im Wachzustand – entscheiden, was er als Nächstes tun möchte.</li>
+</ul><p>In diesem Kurs führe ich ein Gespräch mit einem Klartraum interessierten Sportler. Als Ziel hat er sich gesetzt, Bewegungsabläufe im Rahmen von Luziden Träumen zu trainieren und zu verbessern.</p>
+<p>Schritt für Schritt nähern wir uns dem Thema des Luziden Traumes, denn erzwingen kann man das bewusste Träumen nicht, ob luzid oder nicht. Man erspürt den Traum, beschäftigt und verbündet sich mit ihm, bis er sich ganz von selbst offenbart und bewusst erlebt werden kann, mit all der Freude, die er uns bereiten kann.</p>
+<p>Dr. Brigitte Holzinger</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://dreamworld.coachy.net/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/34201/adminstore/
 - Sales page: https://dreamworld.coachy.net/
 - Canonical redirect: https://www.digistore24.com/redir/349290/adminstore
 
@@ -82,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Luzides Träumen – Klartraum? — Typ: Member area and video courses, Anbieter: Dreamworld, gelistet seit 2020-09-23
-- Wie viel kostet es? — 113.001304 USD
+- Wie viel kostet es? — 112.74920400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 688002
 title: "Das Digital Reselling Ebook"
 vendor: "BastianBauer"
 product_type: "E-books"
-price: 25.65
+price: 25.59
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 10.09
+earnings_per_sale: 10.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-04-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/688002?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56375/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/688002"
 language: "de"
 ---
 # Das Digital Reselling Ebook
 
 > Product ID `56375` · Digistore24 productId `688002` · [HTML profile page](../../produkte/das-digital-reselling-ebook-56375.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.65 (Single payment, Installment) |
+| Price | $25.59 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $10.09 |
+| Earnings/sale* | $10.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BastianBauer |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Ebook zeigt dir Schritt für Schritt, wie du mit digitalen Produkten online Geld verdienst — ohne eigenes Produkt, ohne Lager, ohne Startkapital. Von der ersten Nische bis zum skalierten Business. Was du bekommst:→ 7 bewährte Reselling-Strategien (PLR, Templates, Software-Lizenzen, E-Books, Kurse & mehr)→ Vollständige Plattform-Guides für Etsy, Gumroad, Amazon KDP & Co.→ Profit-Formeln & Kal…
+**Vendor's marketplace description:** <p>Dieses Ebook zeigt dir Schritt für Schritt, wie du mit digitalen Produkten online Geld verdienst — ohne eigenes Produkt, ohne Lager, ohne Startkapital. Von der ersten Nische bis zum skalierten Business.</p>
+<p>Was du bekommst:<br />→ 7 bewährte Reselling-Strategien (PLR, Templates, Software-Lizenzen, E-Books, Kurse &amp; mehr)<br />→ Vollständige Plattform-Guides für Etsy, Gumroad, Amazon KDP &amp; Co.<br />→ Profit-Formeln &amp; Kalkulations-Vorlagen<br />→ Marketing-Strategien für Pinterest, TikTok &amp; E-Mail<br />→ Rechtliches &amp; Steuer-Basics für Deutschland, Österreich &amp; Schweiz<br />→ 90-Tage-Aktionsplan für die ersten €1.000<br />→ Bonus: 50 profitable Nischen + Checklisten</p>
+<p>Für wen ist es?<br />Perfekt für alle, die ein ortsunabhängiges Nebeneinkommen aufbauen wollen — auch ohne Vorkenntnisse und ohne Startkapital.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/688002?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56375/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/688002
 - Canonical redirect: https://www.digistore24.com/redir/688002/adminstore
 
@@ -71,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Digital Reselling Ebook? — Typ: E-books, Anbieter: BastianBauer, gelistet seit 2026-04-27
-- Wie viel kostet es? — 25.650534 USD
+- Wie viel kostet es? — 25.593309 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

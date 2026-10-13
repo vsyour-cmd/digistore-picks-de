@@ -4,16 +4,16 @@ digistore24_product_id: 702939
 title: "Angst ist die wahre Pandemie"
 vendor: "Seelendank"
 product_type: "Downloads"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.23
+earnings_per_sale: 5.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Politics & Economy","Personal Development"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://angstfrei.shop/produkt/bundle-angst-ist-die-wahre-pandemie/?aff=adminstore#aff=adminstore"
 sales_page: "https://angstfrei.shop/produkt/bundle-angst-ist-die-wahre-pandemie/"
@@ -22,16 +22,16 @@ language: "de"
 # Angst ist die wahre Pandemie
 
 > Product ID `57000` · Digistore24 productId `702939` · [HTML profile page](../../produkte/angst-ist-die-wahre-pandemie-57000.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.23 |
+| Earnings/sale* | $5.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Seelendank |
@@ -41,7 +41,92 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Angst ist die wahre Pandemie“ ist ein tiefgehendes Buch (E-Book + Hörbuch) über die Macht der Angst: wie sie Denken, Wahrnehmung, Medien, Beziehungen, Gesellschaft und Entscheidungen verändert – und warum innere Freiheit dort beginnt, wo Menschen Angst wieder bewusster erkennen. „Angst ist die wahre Pandemie“ ist ein digitales E-Book von Alexander Seelendank über eine der stärksten inneren und ge…
+**Vendor's marketplace description:** <p><strong>„Angst ist die wahre Pandemie“ ist ein tiefgehendes Buch </strong>(E-Book + Hörbuch)<strong> über die Macht der Angst: wie sie Denken, Wahrnehmung, Medien, Beziehungen, Gesellschaft und Entscheidungen verändert – und warum innere Freiheit dort beginnt, wo Menschen Angst wieder bewusster erkennen.</strong></p>
+<p><strong>„Angst ist die wahre Pandemie“</strong> ist ein digitales E-Book von <strong>Alexander Seelendank</strong> über eine der stärksten inneren und gesellschaftlichen Kräfte unserer Zeit: Angst.</p>
+<p>Das Buch zeigt, wie Angst nicht erst dort beginnt, wo Menschen offen in Panik geraten. Sie beginnt oft viel früher: in Gedanken, Bildern, Schlagzeilen, Erwartungen, Körpersignalen und innerer Alarmbereitschaft. Aus einer Nachricht wird eine Erwartung. Aus Unsicherheit wird Anspannung. Aus wiederholter Angst kann ein Grundrauschen entstehen, das Denken, Verhalten und Zusammenleben prägt.</p>
+<p>Dabei betrachtet das Buch Angst nicht nur als privates Gefühl, sondern auch als gesellschaftliche Dynamik. Es geht um die unsichtbare Ansteckung von Angst, um Medien, Aufmerksamkeit, Sicherheitssehnsucht, Kontrolle, Märkte, Politik, Beziehungen und die Frage, wie Menschen innerlich wieder freier und bewusster werden können.</p>
+<p>Das E-Book richtet sich an Menschen, die spüren, dass Angst heute nicht nur individuell, sondern auch kollektiv wirkt: durch Nachrichten, Krisen, Unsicherheit, Daueranspannung, soziale Dynamiken und den Wunsch nach schnellen Sicherheiten.</p>
+<p>Wichtig: Das Produkt arbeitet nicht mit Panikmache und nicht mit Heilversprechen. Es will Angst nicht dramatisieren, sondern verständlicher machen. Es lädt dazu ein, genauer hinzusehen: Wo warnt Angst sinnvoll? Wo verengt sie das Denken? Wo führt sie Menschen unbemerkt? Und wo beginnt innere Freiheit?</p>
+<hr />
+<p>Käufer erhalten ein digitales E-Book, Hörbuch oder Bundle:</p>
+<p><strong>„Angst ist die wahre Pandemie“</strong><br /><strong>Wie Angst unser Denken, unsere Gesellschaft und unser Leben verändert</strong><br />von <strong>Alexander Seelendank</strong></p>
+<p>Das Buch/Hörbuch umfasst unter anderem folgende Themen:</p>
+<ul>
+<li>Angst als Grundrauschen unserer Zeit</li>
+<li>warum niemand wirklich außerhalb von Angst steht</li>
+<li>die unsichtbare Ansteckung von Angst</li>
+<li>wie Angst das Denken verengt</li>
+<li>warum Menschen unter Angst weniger frei prüfen</li>
+<li>die Ökonomie der Angst</li>
+<li>Profiteure der Angst</li>
+<li>Gesellschaft unter Daueranspannung</li>
+<li>Sehnsucht nach Sicherheit</li>
+<li>Angst als „wahre Pandemie“</li>
+<li>was schützt</li>
+<li>warum Freiheit im Inneren beginnt</li>
+</ul>
+<hr />
+<h1>Zielgruppe für Affiliates</h1>
+<p>Das Produkt eignet sich besonders für Zielgruppen rund um:</p>
+<ul>
+<li>Angst, Sorgen und innere Unruhe</li>
+<li>gesellschaftliche Unsicherheit</li>
+<li>Nachrichtenmüdigkeit und Krisenerschöpfung</li>
+<li>Selbsthilfe und Reflexion</li>
+<li>Persönlichkeitsentwicklung</li>
+<li>Medienwirkung und Aufmerksamkeitsökonomie</li>
+<li>innere Freiheit und Selbstverantwortung</li>
+<li>Menschen, die tiefer verstehen möchten, wie Angst wirkt</li>
+<li>Leserinnen und Leser von gesellschaftlich orientierten Selbsthilfe- und Reflexionsbüchern</li>
+<li>Menschen, die sich von Daueranspannung, Nachrichten und kollektiver Unsicherheit belastet fühlen</li>
+</ul>
+<hr />
+<h1>Gute Verkaufsargumente</h1>
+<p><strong>Warum lässt sich dieses Produkt gut bewerben?</strong></p>
+<ul>
+<li>sehr starker, aufmerksamkeitsstarker Titel</li>
+<li>hochaktuelles Thema: Angst, Unsicherheit, Medien, Krisen, Gesellschaft</li>
+<li>klare Positionierung zwischen Selbsthilfe, Gesellschaftsbeobachtung und innerer Freiheit</li>
+<li>digitales Sofortprodukt</li>
+<li>geeignet für Newsletter, Blogartikel, Social Media und Empfehlungsseiten</li>
+<li>spricht Menschen an, die nicht nur „Tipps gegen Angst“ suchen, sondern die Mechanik von Angst verstehen wollen</li>
+<li>starke Anschlussfähigkeit an aktuelle gesellschaftliche Themen, ohne reißerisch sein zu müssen</li>
+<li>seriöse Ergänzung zu angstfrei.shop und zur Reihe „Die versteckten Ängste“</li>
+</ul>
+<hr />
+<h1>Empfohlener Affiliate-Werbetext</h1>
+<p><strong>Angst ist längst mehr als ein privates Gefühl.</strong></p>
+<p>Sie zeigt sich in Nachrichten, Gesprächen, Entscheidungen, Beziehungen und im gesellschaftlichen Klima. Sie verändert, worauf Menschen achten, wem sie glauben, wie sie urteilen und wonach sie sich sehnen.</p>
+<p>Das E-Book/Hörbuch <strong>„Angst ist die wahre Pandemie“</strong> von Alexander Seelendank geht genau dieser Dynamik nach.</p>
+<p>Es zeigt, wie Angst unser Denken verengt, wie sie sich sozial ausbreitet, warum sie in Medien und Märkten so wirksam ist – und warum innere Freiheit dort beginnt, wo Menschen ihre Angst wieder bewusster erkennen.</p>
+<p>Ein tiefgehendes digitales E-Book für Menschen, die Angst nicht nur loswerden, sondern besser verstehen möchten. Weitere Werbemittel: <br /><a href="https://angstfrei.shop/affiliate-angst-pandemie/" target="_blank" rel="noreferrer noopener">https://angstfrei.shop/affiliate-angst-pandemie/</a></p>
+<hr />
+<h1>Werbehinweise für Affiliates</h1>
+<p>Bitte bewirb das Produkt seriös und verantwortungsvoll.</p>
+<h2>Geeignete Formulierungen</h2>
+<ul>
+<li>„Angst besser verstehen“</li>
+<li>„wie Angst Denken und Gesellschaft verändert“</li>
+<li>„Reflexion über Angst, Medien und innere Freiheit“</li>
+<li>„für Menschen, die sich von Krisen und Nachrichten innerlich belastet fühlen“</li>
+<li>„Impulse für mehr Bewusstsein im Umgang mit Angst“</li>
+<li>„gesellschaftliche und persönliche Dynamiken von Angst erkennen“</li>
+<li>„E-Book/Hörbuch zur Selbstreflexion und Orientierung“</li>
+</ul>
+<h2>Bitte vermeiden</h2>
+<ul>
+<li>Heilversprechen</li>
+<li>Aussagen wie „Angst heilen“, „Panik endgültig loswerden“ oder „garantiert angstfrei“</li>
+<li>medizinische oder therapeutische Versprechen</li>
+<li>dramatisierende Krisenwerbung</li>
+<li>reißerische Pandemie-, Politik- oder Katastrophenangst</li>
+<li>verschwörungsideologische Zuspitzungen</li>
+<li>Druckformulierungen wie „Du musst jetzt aufwachen“ oder „Die Wahrheit, die niemand Dir sagt“</li>
+</ul>
+<hr />
+<h1>Rechtlicher / gesundheitlicher Hinweis für Affiliates</h1>
+<p>Dieses Produkt dient der persönlichen Reflexion, Orientierung und Selbsthilfe. Es ersetzt keine medizinische, psychotherapeutische, psychiatrische, juristische oder sonstige professionelle Beratung, Diagnose oder Behandlung. Genau dieser Hinweis ist auch im PDF enthalten.</p>
+<p>Bei akuter psychischer Belastung, starken Ängsten, Depressionen, Panik, Suizidgedanken oder anderen ernsthaften Beschwerden sollten Betroffene sich an qualifizierte Fachpersonen, den ärztlichen Notdienst oder eine lokale Krisenstelle wenden.</p>
 
 ## 2. Links
 
@@ -82,7 +167,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Angst ist die wahre Pandemie? — Typ: Downloads, Anbieter: Seelendank, gelistet seit 2026-06-16
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

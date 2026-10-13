@@ -4,34 +4,34 @@ digistore24_product_id: 300439
 title: "Jesus, christliche Mystik & Weihnachten (Satsang)"
 vendor: "ediowk"
 product_type: "Downloads"
-price: 12.24
+price: 12.21
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 3.06
+earnings_per_sale: 3.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-12-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://owk.eu/video-weihnachten?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/30807/adminstore/"
 sales_page: "https://owk.eu/video-weihnachten"
 language: "de"
 ---
 # Jesus, christliche Mystik & Weihnachten (Satsang)
 
 > Product ID `30807` · Digistore24 productId `300439` · [HTML profile page](../../produkte/jesus-christliche-mystik-weihnachten-satsang-30807.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.24 (Single payment) |
+| Price | $12.21 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $3.06 |
+| Earnings/sale* | $3.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ediowk |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Video-Aufzeichnung vom Satsang "Jesus, christliche Mystik und Weihnachten". Satsang & Darshan (Vortrag sowie Fragen & Antworten) Von OWK Edgar Hofer, Länge 1h 44m. Inklusive MP3-Audiodatei. Für Download sowie online abspielbar. (In der Tradition des Advaita = Nondualität in der indischen spirituellen Philosophie; Edgar Hofer aka OWK Devananda Naatha ist eingeweihter Yogi des indischen Nath-Ordens)
+**Vendor's marketplace description:** <p>Video-Aufzeichnung vom Satsang "Jesus, christliche Mystik und Weihnachten".</p>
+<p>Satsang &amp; Darshan (Vortrag sowie Fragen &amp; Antworten)</p>
+<p>Von OWK Edgar Hofer, Länge 1h 44m. Inklusive MP3-Audiodatei. Für Download sowie online abspielbar. </p>
+<p>(In der Tradition des Advaita = Nondualität in der indischen spirituellen Philosophie; Edgar Hofer aka OWK Devananda Naatha ist eingeweihter Yogi des indischen Nath-Ordens) </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://owk.eu/video-weihnachten?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/30807/adminstore/
 - Sales page: https://owk.eu/video-weihnachten
 - Canonical redirect: https://www.digistore24.com/redir/300439/adminstore
 
@@ -76,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Jesus, christliche Mystik & Weihnachten (Satsang)? — Typ: Downloads, Anbieter: ediowk, gelistet seit 2019-12-19
-- Wie viel kostet es? — 12.236952 USD
+- Wie viel kostet es? — 12.209652 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

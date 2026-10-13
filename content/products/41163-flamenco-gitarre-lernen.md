@@ -4,34 +4,34 @@ digistore24_product_id: 348010
 title: "Flamenco Gitarre lernen"
 vendor: "Guitarschool"
 product_type: "Member area and video courses"
-price: 84.9
+price: 84.71
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 23.9
+earnings_per_sale: 23.85
 cart_conversion_pct: 24
 cancel_rate_pct: 5.54
 categories: ["Education","Hobby & Craft"]
 listed_since: "2020-09-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.guitarschool.at/flamenco-gitarre-lernen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41163/adminstore/"
 sales_page: "https://www.guitarschool.at/flamenco-gitarre-lernen/"
 language: "de"
 ---
 # Flamenco Gitarre lernen
 
 > Product ID `41163` · Digistore24 productId `348010` · [HTML profile page](../../produkte/flamenco-gitarre-lernen-41163.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $84.90 (Single payment) |
+| Price | $84.71 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $23.90 |
+| Earnings/sale* | $23.85 |
 | Cart conversion* | 24% |
 | Cancel rate* | 5.54% |
 | Vendor | Guitarschool |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Attraktiver Kurs mit professioneller Landingpage. Gute Verdienstmöglichkeit durch Crossselling mehrerer Kurse auf www.guitarschool.at Wenn du Fragen hast, melde dich einfach bei mir. "Kurs Beschreibung Flamenco Gitarre ganz einfach online lernen! Du Spielst bereits Gitarre und kannst schon die ersten Akkorde?Du interessierst dich für die spanische Gitarre und willst Flamenco spielen lernen,denkst …
+**Vendor's marketplace description:** <p>Attraktiver Kurs mit<strong> professioneller Landingpage.</strong></p>
+<p><strong>Gute Verdienstmöglichkeit durch Crossselling mehrerer Kurse auf <a>www.guitarschool.at</a></strong></p>
+<p><strong>Wenn du Fragen hast, melde dich einfach bei mir.</strong></p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h2>"Kurs Beschreibung</h2>
+<p><strong>Flamenco Gitarre ganz einfach online lernen!</strong></p>
+<p>Du Spielst bereits Gitarre und kannst schon <strong>die ersten Akkorde</strong>?<br />Du interessierst dich für die <strong>spanische Gitarre</strong> und willst <strong>Flamenco</strong> spielen lernen,<br />denkst aber <strong>Flamenco Gitarre</strong> ist zu schwer?<br />Du spielst <strong>Klassische Gitarre</strong> und willst dir die <strong>Welt des Flamencos</strong> erschließen?<br />Du willst dich auf der Gitarre <strong>merklich verbessern</strong>?</p>
+<p><strong>Dann ist dieser Kurs genau der Richtige für DICH!"</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.guitarschool.at/flamenco-gitarre-lernen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41163/adminstore/
 - Sales page: https://www.guitarschool.at/flamenco-gitarre-lernen/
 - Canonical redirect: https://www.digistore24.com/redir/348010/adminstore
 
@@ -98,7 +114,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Flamenco Gitarre lernen? — Typ: Member area and video courses, Anbieter: Guitarschool, gelistet seit 2020-09-15
-- Wie viel kostet es? — 84.89665600000001 USD
+- Wie viel kostet es? — 84.70725600000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

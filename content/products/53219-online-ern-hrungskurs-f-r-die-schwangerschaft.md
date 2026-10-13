@@ -4,34 +4,34 @@ digistore24_product_id: 575283
 title: "Online Ernährungskurs für die Schwangerschaft"
 vendor: "gesunderwachsen"
 product_type: "Member area and video courses"
-price: 168.56
+price: 168.18
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 42.15
+earnings_per_sale: 42.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2024-10-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/575283?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53219/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/575283"
 language: "de"
 ---
 # Online Ernährungskurs für die Schwangerschaft
 
 > Product ID `53219` · Digistore24 productId `575283` · [HTML profile page](../../produkte/online-ern-hrungskurs-f-r-die-schwangerschaft-53219.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $168.56 (Single payment) |
+| Price | $168.18 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $42.15 |
+| Earnings/sale* | $42.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gesunderwachsen |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Online Ernährungskurs für die Schwangerschaft ✅ 32 Coaching-Videos - fundiert & praxisnah ✅ 18 Aufgaben - für deinen Transfer im Alltag ✅ Großer Rezepte-Bereich - leckere Inspirationen ✅ Aktive Community - Austausch mit Ernährungsmedizinerin & Gleichgesinnten ✅ 6 Monate Zugriff - lerne in deinem Tempo Der Kurs ist nach §20 SGB V zertifiziert – Deine gesetzliche Krankenkasse übernimmt bis zu 100 % …
+**Vendor's marketplace description:** <h3>Online Ernährungskurs für die Schwangerschaft</h3>
+<p>✅ <strong>32 Coaching-Videos</strong> - fundiert &amp; praxisnah</p>
+<p>✅ <strong>18 Aufgaben</strong> - für deinen Transfer im Alltag</p>
+<p>✅ <strong>Großer Rezepte-Bereich</strong> - leckere Inspirationen</p>
+<p>✅ <strong>Aktive Community</strong> - Austausch mit Ernährungsmedizinerin &amp; Gleichgesinnten</p>
+<p>✅ <strong>6 Monate Zugriff</strong> - lerne in deinem Tempo</p>
+<p>Der Kurs ist nach §20 SGB V zertifiziert – Deine gesetzliche Krankenkasse übernimmt bis zu 100 % der Kosten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/575283?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53219/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/575283
 - Vendor affiliate support: https://www.gesunderwachsen.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/575283/adminstore
@@ -83,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Ernährungskurs für die Schwangerschaft? — Typ: Member area and video courses, Anbieter: gesunderwachsen, gelistet seit 2024-10-15
-- Wie viel kostet es? — 168.560652 USD
+- Wie viel kostet es? — 168.184602 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 100331
 title: "Analysesoftware zur Altersvorsorge und Absicherung"
 vendor: "verkaufsbegleiter"
 product_type: "Downloads"
-price: 371.96
+price: 371.13
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 37.19
+earnings_per_sale: 37.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2016-10-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "http://www.igmw.com/shopVI/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.igmw.com/shopVI/"
@@ -22,16 +22,16 @@ language: "de"
 # Analysesoftware zur Altersvorsorge und Absicherung
 
 > Product ID `26298` · Digistore24 productId `100331` · [HTML profile page](../../produkte/analysesoftware-zur-altersvorsorge-und-absicherung-26298.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $371.96 (Subscription) |
+| Price | $371.13 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $37.19 |
+| Earnings/sale* | $37.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | verkaufsbegleiter |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** VorsorgeInventurAnalyse- und Beratungssoftware Praxisbewährte Analyse- und Beratungssoftware zur Altersvorsorge, Erwerbsminderung, Berufsunfähigkeit, Hinterbliebenenversorgung, Pflegeabsicherung inkl. Finanzrechner wie Darlehensrechner, Zinsrechner mit Dynamik, Entnahmerechner mit und ohne Kapitalverzehr u.v.a. Windows-Version für alle Windows Betriebssysteme (ausser Windows RT) Kündigungsfrist: 3…
+**Vendor's marketplace description:** <h4>VorsorgeInventur<br />Analyse- und Beratungssoftware</h4>
+<div>Praxisbewährte Analyse- und Beratungssoftware zur Altersvorsorge, Erwerbsminderung, Berufsunfähigkeit, Hinterbliebenenversorgung, Pflegeabsicherung inkl. Finanzrechner wie Darlehensrechner, Zinsrechner mit Dynamik, Entnahmerechner mit und ohne Kapitalverzehr u.v.a.<br /><br /></div>
+<div><strong>Windows-Version</strong></div>
+<div>für alle Windows Betriebssysteme (ausser Windows RT)
+<div><br />Kündigungsfrist: 3 Monate vor Ablauf der 12 monatigen Laufzeit. Gilt ab Leistungsdatum lt. erster Rechnungslegung;<br /> </div>
+<div>Update-/Release-Versionen im lfd. Jahr: - kostenfrei -</div>
+</div>
 
 ## 2. Links
 
@@ -72,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Analysesoftware zur Altersvorsorge und Absicherung? — Typ: Downloads, Anbieter: verkaufsbegleiter, gelistet seit 2016-10-18
-- Wie viel kostet es? — 371.960758 USD
+- Wie viel kostet es? — 371.130933 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

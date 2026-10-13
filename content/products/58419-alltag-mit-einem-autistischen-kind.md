@@ -4,34 +4,34 @@ digistore24_product_id: 722548
 title: "Alltag mit einem autistischen Kind"
 vendor: "PflegekommpassAutismusRecht"
 product_type: "E-books"
-price: 38.75
+price: 38.66
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 9.69
+earnings_per_sale: 9.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/722548?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58419/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/722548"
 language: "de"
 ---
 # Alltag mit einem autistischen Kind
 
 > Product ID `58419` · Digistore24 productId `722548` · [HTML profile page](../../produkte/alltag-mit-einem-autistischen-kind-58419.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.75 (Single payment) |
+| Price | $38.66 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $9.69 |
+| Earnings/sale* | $9.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PflegekommpassAutismusRecht |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ​Praktischer Leitfaden für Struktur, Verständnis und Leichtigkeit im Familienleben ​Einleitung: Willkommen auf dieser Reise ​Ein Kind im Autismus-Spektrum zu begleiten bedeutet, die Welt durch eine völlig neue Perspektive kennenzulernen. Es ist ein Weg voller tiefer Verbindungen, besonderer Wahrnehmungen – aber auch voller Herausforderungen in einer Umwelt, die größtenteils für neurotypische Mensc…
+**Vendor's marketplace description:** <p>​Praktischer Leitfaden für Struktur, Verständnis und Leichtigkeit im Familienleben</p>
+<p>​Einleitung: Willkommen auf dieser Reise</p>
+<p>​Ein Kind im Autismus-Spektrum zu begleiten bedeutet, die Welt durch eine völlig neue Perspektive kennenzulernen. Es ist ein Weg voller tiefer Verbindungen, besonderer Wahrnehmungen – aber auch voller Herausforderungen in einer Umwelt, die größtenteils für neurotypische Menschen gestaltet ist.</p>
+<p>​Dieses E-Book dient als konkreter, verständnisvoller und praxisnaher Begleiter. Es liefert dir erprobte Werkzeuge für den Alltag, hilft dir in Krisen ruhig zu bleiben und zeigt Wege auf, wie dein Familienleben von mehr Vorhersehbarkeit und Harmonie geprägt werden kann.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/722548?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58419/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/722548
 - Canonical redirect: https://www.digistore24.com/redir/722548/adminstore
 
@@ -70,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Alltag mit einem autistischen Kind? — Typ: E-books, Anbieter: PflegekommpassAutismusRecht, gelistet seit 2026-08-17
-- Wie viel kostet es? — 38.750348 USD
+- Wie viel kostet es? — 38.663898 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

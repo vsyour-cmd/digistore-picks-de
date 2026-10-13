@@ -4,34 +4,34 @@ digistore24_product_id: 609522
 title: "Der Kurs für die echte Herzensverbindung mit deinem Pferd"
 vendor: "Ophelis"
 product_type: "Member area and video courses"
-price: 140.31
+price: 140
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 42.09
+earnings_per_sale: 42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Animals & Pets"]
 listed_since: "2025-04-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/609522?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52279/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/609522"
 language: "de"
 ---
 # Der Kurs für die echte Herzensverbindung mit deinem Pferd
 
 > Product ID `52279` · Digistore24 productId `609522` · [HTML profile page](../../produkte/der-kurs-f-r-die-echte-herzensverbindung-mit-deinem-pferd-52279.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.31 (Single payment) |
+| Price | $140.00 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $42.09 |
+| Earnings/sale* | $42.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ophelis |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Langjährige Erfahrung, geniale neue Ansätze und viel Forschung. Die Autorinnen und Pferdeexpertinnen Myriam Zahrte und Nina Hartmann geben offen ihr Wissen weiter. Heart Connection – Im Dialog mit deinem Pferd Dein Weg zu einer echten Herzensverbindung Stell dir vor, du verstehst die wahren Bedürfnisse deines Pferdes – und ihr wachst gemeinsam über euch hinaus. Mit Heart Connection baust du eine t…
+**Vendor's marketplace description:** <p>Langjährige Erfahrung, geniale neue Ansätze und viel Forschung. Die Autorinnen und Pferdeexpertinnen Myriam Zahrte und Nina Hartmann geben offen ihr Wissen weiter.</p>
+<p> <strong>Heart Connection – Im Dialog mit deinem Pferd</strong> <strong>Dein Weg zu einer echten Herzensverbindung</strong> Stell dir vor, du verstehst die wahren Bedürfnisse deines Pferdes – und ihr wachst gemeinsam über euch hinaus. Mit <strong>Heart Connection</strong> baust du eine tiefere Beziehung auf, die auf Vertrauen, Achtsamkeit und echter Kommunikation basiert.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/609522?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52279/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/609522
 - Canonical redirect: https://www.digistore24.com/redir/609522/adminstore
 
@@ -79,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Kurs für die echte Herzensverbindung mit deinem Pferd? — Typ: Member area and video courses, Anbieter: Ophelis, gelistet seit 2025-04-26
-- Wie viel kostet es? — 140.310326 USD
+- Wie viel kostet es? — 139.997301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

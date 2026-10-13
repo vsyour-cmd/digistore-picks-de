@@ -4,16 +4,16 @@ digistore24_product_id: 711316
 title: "Pencil Lettering Kurs"
 vendor: "Timothy90"
 product_type: "Member area and video courses"
-price: 83.81
+price: 83.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.91
+earnings_per_sale: 41.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Travel & Culture"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://manylearn.com/kurse/pencil-lettering?aff=adminstore#aff=adminstore"
 sales_page: "https://manylearn.com/kurse/pencil-lettering"
@@ -22,16 +22,16 @@ language: "de"
 # Pencil Lettering Kurs
 
 > Product ID `60388` · Digistore24 productId `711316` · [HTML profile page](../../produkte/pencil-lettering-kurs-60388.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $83.81 (Single payment) |
+| Price | $83.62 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.91 |
+| Earnings/sale* | $41.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Timothy90 |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Pencil-Lettering-Kurs: Der Weg zu locker-leichten Handletterings mit dem Bleistift Im Pencil-Lettering-Kurs lernen die Teilnehmer das lockere Handlettering mit dem Bleistift. Kurzweilige Lektionen laden zum Kritzeln ein und lassen sich auch unterwegs oder auf dem Sofa machen. Mit einer Kombination aus Handlettering, Illustration und Verzierung entstehen kleine Kunstwerke, die Freude machen.
+**Vendor's marketplace description:** <p><strong>Der Pencil-Lettering-Kurs: Der Weg zu locker-leichten Handletterings mit dem Bleistift</strong></p>
+<hr />
+<p>Im Pencil-Lettering-Kurs lernen die Teilnehmer das lockere Handlettering mit dem Bleistift. Kurzweilige Lektionen laden zum Kritzeln ein und lassen sich auch unterwegs oder auf dem Sofa machen.</p>
+<p>Mit einer Kombination aus Handlettering, Illustration und Verzierung entstehen kleine Kunstwerke, die Freude machen.</p>
 
 ## 2. Links
 
@@ -89,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pencil Lettering Kurs? — Typ: Member area and video courses, Anbieter: Timothy90, gelistet seit 2026-10-07
-- Wie viel kostet es? — 83.80967400000002 USD
+- Wie viel kostet es? — 83.62269900000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

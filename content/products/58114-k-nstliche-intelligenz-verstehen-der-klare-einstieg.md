@@ -4,16 +4,16 @@ digistore24_product_id: 717798
 title: "Künstliche Intelligenz verstehen der klare Einstieg"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/717798?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/717798"
@@ -22,16 +22,16 @@ language: "de"
 # Künstliche Intelligenz verstehen der klare Einstieg
 
 > Product ID `58114` · Digistore24 productId `717798` · [HTML profile page](../../produkte/k-nstliche-intelligenz-verstehen-der-klare-einstieg-58114.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein klarer, verständlicher Einstieg in Künstliche Intelligenz – ohne Fachchinesisch. Ideal für Zielgruppen im Bereich Business, Weiterbildung und alle, die ChatGPT & Co. endlich wirklich verstehen wollen. 24 Kapitel, praxisnah statt technisch, für Einsteiger ab 40 geschrieben. 50% Provision pro Verkauf.
+**Vendor's marketplace description:** <p>Ein klarer, verständlicher Einstieg in Künstliche Intelligenz – ohne Fachchinesisch. Ideal für Zielgruppen im Bereich Business, Weiterbildung und alle, die ChatGPT &amp; Co. endlich wirklich verstehen wollen.</p>
+<p> </p>
+<p>24 Kapitel, praxisnah statt technisch, für Einsteiger ab 40 geschrieben. 50% Provision pro Verkauf.</p>
 
 ## 2. Links
 
@@ -79,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Künstliche Intelligenz verstehen der klare Einstieg? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-04
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

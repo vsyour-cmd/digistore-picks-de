@@ -4,34 +4,34 @@ digistore24_product_id: 692801
 title: "Digitale Speisekarte für Gastronomie Betriebe"
 vendor: "BizzRocker"
 product_type: "Software"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.62
+earnings_per_sale: 46.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy","Services"]
 listed_since: "2026-05-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digitale-speisekarte.info?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56537/adminstore/"
 sales_page: "https://www.digitale-speisekarte.info"
 language: "de"
 ---
 # Digitale Speisekarte für Gastronomie Betriebe
 
 > Product ID `56537` · Digistore24 productId `692801` · [HTML profile page](../../produkte/digitale-speisekarte-f-r-gastronomie-betriebe-56537.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.62 |
+| Earnings/sale* | $46.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BizzRocker |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verkaufe eine komplett eingerichtete digitale Speisekarte an Restaurant Betreiber. Für das Produkt kommt jeder Gastronom in Frage. Ihr könnt damit bei jedem Restaurant Besuch z.B. einen Flyer vom Produkt da lassen und damit extra was dazu verdienen. So funktionierts: Wenn der Kunde bei uns bestellt, melden wir uns beim Kunde um Details zur Speisekarte zur erfragen. Daraufhin erstellen wir eine ind…
+**Vendor's marketplace description:** <p>Verkaufe eine komplett eingerichtete digitale Speisekarte an Restaurant Betreiber.</p>
+<p>Für das Produkt kommt jeder Gastronom in Frage. Ihr könnt damit bei jedem Restaurant Besuch z.B. einen Flyer vom Produkt da lassen und damit extra was dazu verdienen.</p>
+<p>So funktionierts:</p>
+<p>Wenn der Kunde bei uns bestellt, melden wir uns beim Kunde um Details zur Speisekarte zur erfragen. Daraufhin erstellen wir eine individuelle digitale Speisekarte und teilen die Zugangsdaten für die Verwaltung der Digitalen Speisekarte mit.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digitale-speisekarte.info?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56537/adminstore/
 - Sales page: https://www.digitale-speisekarte.info
 - Canonical redirect: https://www.digistore24.com/redir/692801/adminstore
 
@@ -84,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Speisekarte für Gastronomie Betriebe? — Typ: Software, Anbieter: BizzRocker, gelistet seit 2026-05-14
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

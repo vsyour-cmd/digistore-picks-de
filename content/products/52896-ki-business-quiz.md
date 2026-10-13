@@ -4,16 +4,16 @@ digistore24_product_id: 611742
 title: "KI-Business-Quiz"
 vendor: "ReneAktivNetz"
 product_type: "Member area and video courses"
-price: 2.98
+price: 2.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.08
+earnings_per_sale: 8.06
 cart_conversion_pct: 18
 cancel_rate_pct: 5.21
 categories: ["Business & Investment","Email Marketing","Marketing Services"]
 listed_since: "2025-05-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/affiliate-kickstart/?aff=adminstore#aff=adminstore"
 sales_page: "https://kischmiede.funnelcockpit.com/affiliate-kickstart/"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Business-Quiz
 
 > Product ID `52896` · Digistore24 productId `611742` · [HTML profile page](../../produkte/ki-business-quiz-52896.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2.98 (Single payment) |
+| Price | $2.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.08 |
+| Earnings/sale* | $8.06 |
 | Cart conversion* | 18% |
 | Cancel rate* | 5.21% |
 | Vendor | ReneAktivNetz |
@@ -41,7 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** KI-Prioritäts-Check | Dein kostenloses Business-Quiz mit GPT-Prompt Du hast ein Online-Business, aber irgendwo hakt es? Dieses interaktive Quiz zeigt dir, woran es wirklich liegt. So funktioniert’s: 8 Fragen, 60 Sekunden: Blitzschnelle Business-Diagnose Individuelle Auswertung: Fokus, Sichtbarkeit oder Automatisierung Sofort-Prompt: Fertiger GPT-Prompt für ChatGPT, Copy & Paste ready DSGVO-konform…
+**Vendor's marketplace description:** <h2><strong>KI-Prioritäts-Check | Dein kostenloses Business-Quiz mit GPT-Prompt</strong></h2>
+<p><strong>Du hast ein Online-Business, aber irgendwo hakt es?</strong> Dieses interaktive Quiz zeigt dir, woran es wirklich liegt.</p>
+<p><strong>So funktioniert’s:</strong></p>
+<ul>
+<li><strong>8 Fragen, 60 Sekunden:</strong> Blitzschnelle Business-Diagnose</li>
+<li><strong>Individuelle Auswertung:</strong> Fokus, Sichtbarkeit oder Automatisierung</li>
+<li><strong>Sofort-Prompt:</strong> Fertiger GPT-Prompt für ChatGPT, Copy &amp; Paste ready</li>
+<li><strong>DSGVO-konform:</strong> Kein Login, kein Tracking, kein Abo</li>
+</ul>
+<p><strong>Ideal für:</strong> Selbstständige, Creator, Berater, Affiliates &amp; Online-Unternehmer</p>
+<div style="background-color:#f0f8f0;padding:15px;border-left:4px solid #4CAF50;margin:15px 0;">
+<p><strong>Dein Mehrwert:</strong> Erkenntnis + Umsetzung. Das Quiz zeigt dir, wo dein Engpass liegt und gibt dir direkt die passende KI-Lösung an die Hand.</p>
+</div>
+<h3><strong>Das bekommst du nach dem Klick:</strong></h3>
+<ol>
+<li>Link zur Quiz-Seite (keine Registrierung nötig)</li>
+<li>8 Fragen beantworten → Auswertung</li>
+<li>Dein personalisierter GPT-Prompt wird angezeigt</li>
+</ol>
+<p style="font-size:16px;color:#ff7c1a;"><strong>100 % kostenlos, sofort einsatzbereit – funktioniert mit jedem kostenlosen ChatGPT-Account!</strong></p>
+<p style="font-size:12px;color:#888;">Bereitgestellt von der KI-Schmiede | Digitale Auslieferung via Digistore24</p>
 
 ## 2. Links
 
@@ -59,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Business-Quiz? — Typ: Member area and video courses, Anbieter: ReneAktivNetz, gelistet seit 2025-05-09
-- Wie viel kostet es? — 2.9807960000000002 USD
+- Wie viel kostet es? — 2.9741460000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

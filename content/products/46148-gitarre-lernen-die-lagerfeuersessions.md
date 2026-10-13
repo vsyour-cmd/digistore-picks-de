@@ -4,16 +4,16 @@ digistore24_product_id: 451458
 title: "Gitarre lernen: Die Lagerfeuersessions"
 vendor: "berkle"
 product_type: "Member area and video courses"
-price: 153.26
+price: 152.92
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 21.43
+earnings_per_sale: 21.38
 cart_conversion_pct: 31
 cancel_rate_pct: 3.05
 categories: ["Dancing & Music","Education","Hobby & Craft"]
 listed_since: "2022-07-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.gitarrenbeginner.de/lagerfeuersessions/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gitarrenbeginner.de/lagerfeuersessions/"
@@ -22,16 +22,16 @@ language: "de"
 # Gitarre lernen: Die Lagerfeuersessions
 
 > Product ID `46148` · Digistore24 productId `451458` · [HTML profile page](../../produkte/gitarre-lernen-die-lagerfeuersessions-46148.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $153.26 (Single payment, Installment) |
+| Price | $152.92 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $21.43 |
+| Earnings/sale* | $21.38 |
 | Cart conversion* | 31% |
 | Cancel rate* | 3.05% |
 | Vendor | berkle |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Produkt: Lerne Gitarre mit den Lagerfeuersessions von gitarrenbeginner.de Gitarre lernen ohne Noten Keine Vorkenntnisse benötigt Hohe didaktische Kompetenz Geringer Lernaufwand schneller Erfolg Über uns 2010 gegründet ist gitarrenbeginner.de heute mit durchschnittlich 40.000 Besuchern pro Monat eines der führenden Portale zum Thema Gitarre lernen im deutschsprachigen Raum.
+**Vendor's marketplace description:** <p><strong>Das Produkt: Lerne Gitarre mit den Lagerfeuersessions von gitarrenbeginner.de</strong></p>
+<ul>
+<li>Gitarre lernen ohne Noten</li>
+<li>Keine Vorkenntnisse benötigt</li>
+<li>Hohe didaktische Kompetenz</li>
+<li>Geringer Lernaufwand schneller Erfolg</li>
+</ul>
+<p> </p>
+<p><strong>Über uns</strong></p>
+<p>2010 gegründet ist gitarrenbeginner.de heute mit durchschnittlich 40.000 Besuchern pro Monat eines der führenden Portale zum Thema Gitarre lernen im deutschsprachigen Raum. </p>
 
 ## 2. Links
 
@@ -88,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gitarre lernen: Die Lagerfeuersessions? — Typ: Member area and video courses, Anbieter: berkle, gelistet seit 2022-07-17
-- Wie viel kostet es? — 153.264462 USD
+- Wie viel kostet es? — 152.92253700000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

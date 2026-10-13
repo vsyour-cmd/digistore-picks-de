@@ -4,34 +4,34 @@ digistore24_product_id: 84939
 title: "Online Rückbildungsgymnastik"
 vendor: "marketingpro"
 product_type: "Downloads"
-price: 43.22
+price: 43.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.97
+earnings_per_sale: 17.93
 cart_conversion_pct: 8
 cancel_rate_pct: 1.22
 categories: ["Health & Fitness"]
 listed_since: "2016-06-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://mami-first.de/lpg/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12505/adminstore/"
 sales_page: "https://mami-first.de/lpg/"
 language: "de"
 ---
 # Online Rückbildungsgymnastik
 
 > Product ID `12505` · Digistore24 productId `84939` · [HTML profile page](../../produkte/online-r-ckbildungsgymnastik-12505.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $43.22 (Single payment) |
+| Price | $43.13 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.97 |
+| Earnings/sale* | $17.93 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.22% |
 | Vendor | marketingpro |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerben Sie den ersten und einzigen online Rückbildungskurs für Frauen nach der Entbindung. Sie haben dabei diese Vorteile: 50% Provision Geringe Stornorate Sie profitieren vom angebunden Email-Funnel sowie von Retargeting-Maßnahmen Lead-to-Sale Conversion von >15%! Sie bekommen professionelle und klickstarke Werbemittel gestellt. Erlaubt ist: Werbung in sozialen Medien, in Email-Listen, auf Webs…
+**Vendor's marketplace description:** <p><span style="background-color:#ff99cc;">Bewerben Sie den ersten und einzigen online Rückbildungskurs für Frauen nach der Entbindung.</span></p>
+<p><strong>Sie haben dabei diese Vorteile:</strong></p>
+<ul>
+<li>50% Provision</li>
+<li>Geringe Stornorate</li>
+<li>Sie profitieren vom angebunden Email-Funnel sowie von Retargeting-Maßnahmen</li>
+<li>Lead-to-Sale Conversion von &gt;15%!</li>
+<li>Sie bekommen professionelle und klickstarke Werbemittel gestellt.</li>
+</ul>
+<p>Erlaubt ist: Werbung in sozialen Medien, in Email-Listen, auf Webseiten/Blogs, Adwords und vieles mehr.</p>
+<p>Bei Fragen können Sie sich gerne an uns wenden: info@mami-first.de</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mami-first.de/lpg/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12505/adminstore/
 - Sales page: https://mami-first.de/lpg/
 - Vendor affiliate support: http://mami-first.de/werde-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/84939/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Rückbildungsgymnastik? — Typ: Downloads, Anbieter: marketingpro, gelistet seit 2016-06-19
-- Wie viel kostet es? — 43.221542 USD
+- Wie viel kostet es? — 43.125117 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

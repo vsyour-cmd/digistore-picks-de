@@ -4,16 +4,16 @@ digistore24_product_id: 477488
 title: "Verstehe dein inneres Kind - Minikurs vom Psychologen"
 vendor: "RamonSchlemmbach"
 product_type: "Member area and video courses"
-price: 27.41
+price: 27.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.02
+earnings_per_sale: 31.94
 cart_conversion_pct: 16
 cancel_rate_pct: 1.57
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2023-01-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/477488?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/477488"
@@ -22,16 +22,16 @@ language: "de"
 # Verstehe dein inneres Kind - Minikurs vom Psychologen
 
 > Product ID `48358` · Digistore24 productId `477488` · [HTML profile page](../../produkte/verstehe-dein-inneres-kind-minikurs-vom-psychologen-48358.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.41 (Single payment) |
+| Price | $27.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.02 |
+| Earnings/sale* | $31.94 |
 | Cart conversion* | 16% |
 | Cancel rate* | 1.57% |
 | Vendor | RamonSchlemmbach |
@@ -41,7 +41,35 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verstehe dein inneres Kind ist ein psychologischer Minikurs, der den Teilnehmern beibringt: welche Kindheitsprägungen es gibt wie diese in der Kindheit entstehen wie diese sich im Erwachsenalter ausdrücken und mithilfe von den inkludierten Fragebögen können die Teilnehmer für sich selbst feststellen, welche Kindheitsprägungen, sie selbst haben Die perfekte Grundlage für eine fundierte Persönlichke…
+**Vendor's marketplace description:** <p>Verstehe dein inneres Kind ist ein psychologischer Minikurs, der den Teilnehmern beibringt:</p>
+<ul>
+<li>welche Kindheitsprägungen es gibt</li>
+<li>wie diese in der Kindheit entstehen</li>
+<li>wie diese sich im Erwachsenalter ausdrücken</li>
+<li>und mithilfe von den inkludierten Fragebögen können die Teilnehmer für sich selbst feststellen, welche Kindheitsprägungen, sie selbst haben</li>
+</ul>
+<p>Die perfekte Grundlage für eine fundierte Persönlichkeitsentwicklung.</p>
+<p> </p>
+<p><strong>Dieses Produkt bekommt sehr viel positives Feedback und wurde bereits 1400+ Mal organisch verkauft.</strong></p>
+<p> </p>
+<p>Das tollste Verkaufsargument für den Kurs ist, dass die Teilnehmer - obwohl sie nur 1malig zahlen - jeden Monat einen Gruppen-Live-Call mit Ramón persönlich bekommen; gratis als Bonus oben drauf. In diesem Call können Sie ihm persönlich alle möglichen Fragen zum Thema Kindheitsaufarbeitung und Persönlichkeitsentwicklung stellen.</p>
+<p> </p>
+<p>Der Ersteller des Minikurses ist der klinische Psychologe (M.Sc.) Ramón Schlemmbach. <strong>Er ist einer der bekanntesten Experten für psychologische Kindheitsaufarbeitung im deutschsprachigen Raum</strong> mit einer Reichweite auf verschiedenen Social Media Plattformen.</p>
+<p>Youtube: 48.000+ Abonennten</p>
+<p>Instagram: 120.000+ Follower</p>
+<p>Facebook: 67.000+ Follower</p>
+<p>Tktok: 260.000+ Follower</p>
+<p> </p>
+<p>Damit steht Ihnen als Affiliate eine starke Marke mit hohem Wiedererkennungswert zur Vermarktung zur Verfügung.</p>
+<p> </p>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
 
 ## 2. Links
 
@@ -79,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Verstehe dein inneres Kind - Minikurs vom Psychologen? — Typ: Member area and video courses, Anbieter: RamonSchlemmbach, gelistet seit 2023-01-03
-- Wie viel kostet es? — 27.409876 USD
+- Wie viel kostet es? — 27.348726000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

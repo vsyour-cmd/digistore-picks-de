@@ -4,34 +4,34 @@ digistore24_product_id: 732901
 title: "Digitale Ordnung für Dateien und E-Mails"
 vendor: "woitaskruederb3c5"
 product_type: "Member area and video courses"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 5.6
+earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Office Organization"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://silke-woitas-krueder.coachy.net/lp/landingpage-digitale-ordnung?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60191/adminstore/"
 sales_page: "https://silke-woitas-krueder.coachy.net/lp/landingpage-digitale-ordnung"
 language: "de"
 ---
 # Digitale Ordnung für Dateien und E-Mails
 
 > Product ID `60191` · Digistore24 productId `732901` · [HTML profile page](../../produkte/digitale-ordnung-f-r-dateien-und-e-mails-60191.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $5.60 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | woitaskruederb3c5 |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digitale Ordnung – ein kompakter Selbstlernkurs für alle, die endlich Ordnung in ihre Dateien, Ordner, Downloads, E-Mails und Fotos bringen möchten. Der Kurs richtet sich besonders an Einsteiger und Menschen, die sich eine einfache, verständliche Schritt-für-Schritt-Anleitung wünschen – ohne komplizierte Technik. Das bietet der Kurs:• 8 übersichtliche Module• ca. 48 Minuten Videomaterial• 8 beglei…
+**Vendor's marketplace description:** <p><strong>Digitale Ordnung – ein kompakter Selbstlernkurs für alle, die endlich Ordnung in ihre Dateien, Ordner, Downloads, E-Mails und Fotos bringen möchten.</strong></p>
+<p>Der Kurs richtet sich besonders an Einsteiger und Menschen, die sich eine einfache, verständliche Schritt-für-Schritt-Anleitung wünschen – ohne komplizierte Technik.</p>
+<p><strong>Das bietet der Kurs:</strong><br />• 8 übersichtliche Module<br />• ca. 48 Minuten Videomaterial<br />• 8 begleitende PDFs mit Übungen und Arbeitsblättern<br />• sofortiger digitaler Zugang über den Coachy-Mitgliederbereich<br />• einmaliger Preis von 29 € – kein Abo</p>
+<p><strong>Deine Affiliate-Provision: 5 € pro Verkauf.</strong></p>
+<p>Eine passende Verkaufsseite steht zur Verfügung. Der Kurs eignet sich besonders für Zielgruppen rund um digitale Ordnung, Büroorganisation, Alltag, Computer für Einsteiger und produktiveres Arbeiten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://silke-woitas-krueder.coachy.net/lp/landingpage-digitale-ordnung?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60191/adminstore/
 - Sales page: https://silke-woitas-krueder.coachy.net/lp/landingpage-digitale-ordnung
 - Canonical redirect: https://www.digistore24.com/redir/732901/adminstore
 
@@ -66,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Ordnung für Dateien und E-Mails? — Typ: Member area and video courses, Anbieter: woitaskruederb3c5, gelistet seit 2026-10-05
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

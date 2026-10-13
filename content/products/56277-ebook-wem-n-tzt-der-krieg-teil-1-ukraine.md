@@ -4,34 +4,34 @@ digistore24_product_id: 683234
 title: "Ebook - Wem nützt der Krieg - Teil 1 Ukraine"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 12.56
+price: 12.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.29
+earnings_per_sale: 6.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-04-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/683234?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56277/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/683234"
 language: "de"
 ---
 # Ebook - Wem nützt der Krieg - Teil 1 Ukraine
 
 > Product ID `56277` · Digistore24 productId `683234` · [HTML profile page](../../produkte/ebook-wem-n-tzt-der-krieg-teil-1-ukraine-56277.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.56 (Single payment) |
+| Price | $12.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.29 |
+| Earnings/sale* | $6.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Buch greift ein hochaktuelles, kontroverses Thema mit enormer medialer Präsenz auf und spricht eine informationshungrige Zielgruppe an, die nach tiefergehenden Analysen jenseits offizieller Narrative sucht. Es bietet eine differenzierte, kritisch-analytische Betrachtung geopolitischer Machtstrukturen, wirtschaftlicher Interessen und strategischer Zusammenhänge rund um den Ukraine-Konflikt. …
+**Vendor's marketplace description:** <p>Dieses Buch greift ein hochaktuelles, kontroverses Thema mit enormer medialer Präsenz auf und spricht eine informationshungrige Zielgruppe an, die nach tiefergehenden Analysen jenseits offizieller Narrative sucht.</p>
+<p> </p>
+<p>Es bietet eine differenzierte, kritisch-analytische Betrachtung geopolitischer Machtstrukturen, wirtschaftlicher Interessen und strategischer Zusammenhänge rund um den Ukraine-Konflikt.</p>
+<p> </p>
+<p>Die klare Leitfrage „Wem nützt der Krieg?“ erzeugt starke Neugier, hohe Leserbindung und intensive Auseinandersetzung.</p>
+<p> </p>
+<p>Besonders verkaufsstark ist die Kombination aus politischer Brisanz, intellektuellem Anspruch und emotionaler Relevanz.</p>
+<p> </p>
+<p>Ein ideales Produkt für Affiliates in den Bereichen Politik, Wirtschaft und Zeitgeschehen mit hoher Aufmerksamkeit und starkem Conversion-Potenzial.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/683234?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56277/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/683234
 - Canonical redirect: https://www.digistore24.com/redir/683234/adminstore
 
@@ -71,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Wem nützt der Krieg - Teil 1 Ukraine? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-08
-- Wie viel kostet es? — 12.561926000000001 USD
+- Wie viel kostet es? — 12.533901000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 687223
 title: "Ukulele Einsteiger-Kurs"
 vendor: "Musikbegleiter"
 product_type: "Member area and video courses"
-price: 46.99
+price: 46.88
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.79
+earnings_per_sale: 18.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Education","Software"]
 listed_since: "2026-04-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.musikbegleiter.de/einsteiger-kurs-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://www.musikbegleiter.de/einsteiger-kurs-ds"
@@ -22,16 +22,16 @@ language: "de"
 # Ukulele Einsteiger-Kurs
 
 > Product ID `56376` · Digistore24 productId `687223` · [HTML profile page](../../produkte/ukulele-einsteiger-kurs-56376.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.99 (Single payment) |
+| Price | $46.88 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.79 |
+| Earnings/sale* | $18.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Musikbegleiter |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ukulele Einsteiger-Kurs — Das komplette Lernpaket Alles was du brauchst, um Ukulele zu lernen — in einem Paket. Webanwendung — läuft auf Mobil, Tablet & Desktop. Kein Download, kein Install. ✔ 80 Minuten Videomaterial · Schritt für Schritt erklärt ✔ 4 interaktive Lern-Tools · Songbook · Einsteiger-Guide · 5 Handbücher ✔ Unterlagen zu jedem Kapitel · Akkordblätter · Play-along Infos ✔ Akkorde · Ton…
+**Vendor's marketplace description:** <h2><strong>Ukulele Einsteiger-Kurs — Das komplette Lernpaket</strong></h2>
+<h3>Alles was du brauchst, um Ukulele zu lernen — in einem Paket.</h3>
+<h3>Webanwendung — läuft auf Mobil, Tablet &amp; Desktop. Kein Download, kein Install.</h3>
+<h3>✔ 80 Minuten Videomaterial · Schritt für Schritt erklärt</h3>
+<h3>✔ 4 interaktive Lern-Tools · Songbook · Einsteiger-Guide · 5 Handbücher</h3>
+<h3>✔ Unterlagen zu jedem Kapitel · Akkordblätter · Play-along Infos</h3>
+<h3>✔ Akkorde · Tonleitern · Rhythmus · Akkordfolgen — alles in einem</h3>
+<h3>✔ Einmalige Zahlung — kein Abo · 30 Tage Geld-zurück-Garantie</h3>
+<hr />
+<h3> </h3>
 
 ## 2. Links
 
@@ -66,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ukulele Einsteiger-Kurs? — Typ: Member area and video courses, Anbieter: Musikbegleiter, gelistet seit 2026-04-24
-- Wie viel kostet es? — 46.986758 USD
+- Wie viel kostet es? — 46.881933000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

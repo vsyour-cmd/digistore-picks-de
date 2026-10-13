@@ -4,34 +4,34 @@ digistore24_product_id: 616204
 title: "24 Menüs aus Madeira - eine kulinarische Reise"
 vendor: "madeira-bus"
 product_type: "E-books"
-price: 20.73
+price: 20.68
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 5.19
+earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Travel & Culture"]
 listed_since: "2025-06-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.madeira.cc/kochbuch?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52745/adminstore/"
 sales_page: "https://www.madeira.cc/kochbuch"
 language: "de"
 ---
 # 24 Menüs aus Madeira - eine kulinarische Reise
 
 > Product ID `52745` · Digistore24 productId `616204` · [HTML profile page](../../produkte/24-men-s-aus-madeira-eine-kulinarische-reise-52745.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.73 (Single payment) |
+| Price | $20.68 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $5.19 |
+| Earnings/sale* | $5.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | madeira-bus |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 24 Menüs aus Madeira“ – das liebevoll gestaltete Kochbuch für alle, die die Inselküche lieben! Zielgruppe: Madeira-Fans, Portugal-Reisende, Genießer:innen, Foodies, Auswanderer, Kochbuchsammler Produkt: 265 Seiten | 72 authentische Rezepte | 24 Orte mit Geschichten und Menüs Format: E-Book als PDF-Download (kein Versand – sofort verfügbar) Sprache: Deutsch & Englisch verfügbar Provision für Affili…
+**Vendor's marketplace description:** <p><strong>24 Menüs aus Madeira“ – das liebevoll gestaltete Kochbuch für alle, die die Inselküche lieben!</strong>   <br /><br /></p>
+<p><strong>Zielgruppe:</strong> <br />Madeira-Fans, Portugal-Reisende, Genießer:innen, Foodies, Auswanderer, Kochbuchsammler</p>
+<p><strong>Produkt:</strong> <br />265 Seiten | 72 authentische Rezepte | 24 Orte mit Geschichten und Menüs</p>
+<p><strong>Format:</strong> <br />E-Book als PDF-Download (kein Versand – sofort verfügbar)</p>
+<p><strong>Sprache:</strong> Deutsch &amp; Englisch verfügbar  </p>
+<p><strong>Provision für Affiliates: </strong><strong>25 % pro Verkauf!</strong></p>
+<p>Einfache Bewerbung über Newsletter, Blog, Pinterest, Facebook oder Instagram – das Thema trifft den Nerv vieler Zielgruppen!  </p>
+<p>✅ Hochwertige Salespage</p>
+<p>✅ Emotionale Ansprache + klare Vorteile für Leser:innen</p>
+<p>✅ Funktioniert für kulinarische, touristische &amp; portugiesischsprachige Communities <strong> </strong></p>
+<p><strong>Tipp:</strong> <br />Ideal für Affiliate-Einsteiger:innen, Food-Blogger:innen, Reiseportale oder Auswanderer-Communities!  </p>
+<p><strong> Jetzt bewerben und mit jedem Verkauf verdienen:<br /></strong> [Hier deinen Affiliate-Link einfügen]</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.madeira.cc/kochbuch?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52745/adminstore/
 - Sales page: https://www.madeira.cc/kochbuch
 - Canonical redirect: https://www.digistore24.com/redir/616204/adminstore
 
@@ -73,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 24 Menüs aus Madeira - eine kulinarische Reise? — Typ: E-books, Anbieter: madeira-bus, gelistet seit 2025-06-02
-- Wie viel kostet es? — 20.7311 USD
+- Wie viel kostet es? — 20.68485 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

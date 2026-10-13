@@ -4,34 +4,34 @@ digistore24_product_id: 732872
 title: "Wandern auf Gran Canaria für Anfänger"
 vendor: "Book2Book"
 product_type: "E-books"
-price: 14.56
+price: 14.52
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 8.73
+earnings_per_sale: 8.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Travel & Culture"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/732872?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59201/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/732872"
 language: "de"
 ---
 # Wandern auf Gran Canaria für Anfänger
 
 > Product ID `59201` · Digistore24 productId `732872` · [HTML profile page](../../produkte/wandern-auf-gran-canaria-f-r-anf-nger-59201.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.56 (Single payment) |
+| Price | $14.52 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $8.73 |
+| Earnings/sale* | $8.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Book2Book |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wandern auf Gran Canaria für Anfänger Entdecken Sie die schönsten Routen abseits des Massentourismus. Dieses E-Book liefert Ihren Kunden unkomplizierte Schritt-für-Schritt-Anleitungen, Touren-Geheimtipps und Ausrüstungs-Checklisten für den perfekten Wanderurlaub auf der Kanareninsel. Ideal für Einsteiger und Naturliebhaber. • Preis: 12,99 € (brutto) • Provision: 60 % für Affiliates • Zielgruppe: U…
+**Vendor's marketplace description:** <h2><strong>Wandern auf Gran Canaria für Anfänger</strong></h2>
+<p>Entdecken Sie die schönsten Routen abseits des Massentourismus. Dieses E-Book liefert Ihren Kunden unkomplizierte Schritt-für-Schritt-Anleitungen, Touren-Geheimtipps und Ausrüstungs-Checklisten für den perfekten Wanderurlaub auf der Kanareninsel. Ideal für Einsteiger und Naturliebhaber.</p>
+<p> <strong>• Preis:</strong> 12,99 € (brutto)</p>
+<p> <strong>• Provision:</strong> 60 % für Affiliates</p>
+<p> <strong>• Zielgruppe:</strong> Urlauber, Aktiv-Einsteiger und Reise-Interessierte (DACH-Markt)</p>
+<p>Perfekt für den sofortigen Start in E-Mail-Kampagnen und Social-Media-Promotions.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/732872?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59201/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/732872
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/09/wandern-auf-gran-canaria-fur-anfanger.html
 - Canonical redirect: https://www.digistore24.com/redir/732872/adminstore
@@ -79,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wandern auf Gran Canaria für Anfänger? — Typ: E-books, Anbieter: Book2Book, gelistet seit 2026-09-13
-- Wie viel kostet es? — 14.556594 USD
+- Wie viel kostet es? — 14.524119 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

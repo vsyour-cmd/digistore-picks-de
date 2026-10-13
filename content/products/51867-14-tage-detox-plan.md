@@ -4,34 +4,34 @@ digistore24_product_id: 601282
 title: "14 Tage Detox-Plan"
 vendor: "onlineratgeber24"
 product_type: "Member area and video courses"
-price: 262.22
+price: 261.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 131.11
+earnings_per_sale: 130.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-03-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.startimpulse.online/14-tage-detox-plan/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51867/adminstore/"
 sales_page: "https://www.startimpulse.online/14-tage-detox-plan/"
 language: "de"
 ---
 # 14 Tage Detox-Plan
 
 > Product ID `51867` · Digistore24 productId `601282` · [HTML profile page](../../produkte/14-tage-detox-plan-51867.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $262.22 (Single payment, Installment) |
+| Price | $261.64 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $131.11 |
+| Earnings/sale* | $130.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | onlineratgeber24 |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Was ist der 14 Tage Detox-Plan? Du erfährst hier exklusiv vom Experten für fasziale Balance im Körper und Schmerzcoach Claudio Trento, wie du körperlichen und emotionalen Ballast loswirst, in deine volle Energie kommst und endlich durchstarten kannst! Das bekommst du in deinem kompletten 14-Tage Detox-Plan! 7 Module beinhalten 34 Videos mit folgenden Inhalten: - Schritt-für-Schritt-System für ein …
+**Vendor's marketplace description:** <h3><strong>Was ist der 14 Tage Detox-Plan?</strong></h3>
+<p>Du erfährst hier exklusiv vom Experten für fasziale Balance im Körper und Schmerzcoach Claudio Trento, wie du <strong>körperlichen</strong> und e<strong>motionalen Ballast </strong>loswirst, in deine <strong>volle Energie</strong> kommst und endlich <strong>durchstarten <br />kannst</strong>!</p>
+<p> </p>
+<h3><strong>Das bekommst du in deinem kompletten 14-Tage Detox-Plan! </strong></h3>
+<p><strong>7 Module beinhalten 34 Videos mit folgenden Inhalten:</strong></p>
+<p>-<strong> </strong>Schritt-für-Schritt-System für ein ganzheitliches Detox-Erlebnis<br /><br />-<strong> </strong> Praktische Übungen, um mentale &amp; emotionale Altlasten loszulassen<br /><br />-<strong> </strong> Clevere Digital-Detox-Hacks für mehr Fokus &amp; weniger Ablenkung<br /><br />-<strong> </strong> Tiefgehende Reflexionsfragen, um Klarheit über deine wahren Bedürfnisse zu bekommen<br /><br />-<strong> </strong> Kleine tägliche Aufgaben, die sofort eine spürbare Veränderung bringen</p>
+<p> </p>
+<h3><strong>DEIN BONUS für noch mehr Transformation!</strong></h3>
+<p>-<strong> Anti-Stress </strong>- und <strong>Heißhunger-Meditation</strong> für einen klaren Kopf und inneren Frieden</p>
+<p>- <strong>Checklisten</strong>, <strong>Rezeptbuch</strong> – damit du direkt sofort loslegen kannst!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.startimpulse.online/14-tage-detox-plan/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51867/adminstore/
 - Sales page: https://www.startimpulse.online/14-tage-detox-plan/
 - Vendor affiliate support: https://www.startimpulse.online/partnerprogramm-14-tage-detox-plan/
 - Canonical redirect: https://www.digistore24.com/redir/601282/adminstore
@@ -84,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 14 Tage Detox-Plan? — Typ: Member area and video courses, Anbieter: onlineratgeber24, gelistet seit 2025-03-12
-- Wie viel kostet es? — 262.2204 USD
+- Wie viel kostet es? — 261.6354 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

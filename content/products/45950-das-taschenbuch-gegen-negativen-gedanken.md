@@ -4,16 +4,16 @@ digistore24_product_id: 523668
 title: "Das Taschenbuch gegen negativen Gedanken"
 vendor: "Deinechance"
 product_type: "Book (printed)"
-price: 11.19
+price: 11.17
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 7.83
+earnings_per_sale: 7.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development","Profession & Job"]
 listed_since: "2023-11-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://dejansekulic.ch/haut-ab-buch?aff=adminstore#aff=adminstore"
 sales_page: "https://dejansekulic.ch/haut-ab-buch"
@@ -22,16 +22,16 @@ language: "de"
 # Das Taschenbuch gegen negativen Gedanken
 
 > Product ID `45950` · Digistore24 productId `523668` · [HTML profile page](../../produkte/das-taschenbuch-gegen-negativen-gedanken-45950.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $11.19 (Single payment) |
+| Price | $11.17 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $7.83 |
+| Earnings/sale* | $7.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Deinechance |
@@ -41,7 +41,53 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Jeder Affiliate verdient 70% Provisionpro verkauftem Buch (Taschenbuch) ...und dann am gesamten Funnel!!! Darauf darfst du dich freuen: 7 effektive Methoden, um in Zukunft mit negativen Gedanken noch besser fertig zu werden Hilfreiche Lebensweisheiten Du wirst lernen und besser verstehen, was Denken genau ist und dadurch mehr Einfluss auf deinen Zustand nehmen können Du erhältst einige äußerst bew…
+**Vendor's marketplace description:** <p> </p>
+<ul>
+<li>
+<h4><span style="background-color:#ffff00;">Jeder Affiliate verdient 70% Provision</span><br /><span style="background-color:#ffff00;">pro verkauftem Buch (Taschenbuch) </span></h4>
+</li>
+<li><span style="background-color:#ffff00;">...und dann am gesamten Funnel!!!</span></li>
+</ul>
+<p> </p>
+<h3>Darauf darfst du dich freuen:<br /><br /></h3>
+<ul>
+<li>
+<h4>7 effektive Methoden, um in Zukunft mit negativen Gedanken noch besser fertig zu werden</h4>
+</li>
+<li>
+<h4>Hilfreiche Lebensweisheiten</h4>
+</li>
+<li>
+<h4>Du wirst lernen und besser verstehen, was Denken genau ist und dadurch mehr Einfluss auf deinen Zustand nehmen können</h4>
+</li>
+<li>
+<h4>Du erhältst einige äußerst bewährte Mental Übungen, um dein Gehirn in den Glücklichsein-Modus zu schalten sowie Wertvolle Denkanstöße<br /><br /></h4>
+</li>
+<li>
+<h4>Außerdem:<br /><br /></h4>
+</li>
+<li>
+<h4>Motivierende Zitate von großen Persönlichkeiten</h4>
+</li>
+<li>
+<h4>Du wirst lernen, dir neue Verhaltensmuster anzueignen</h4>
+</li>
+<li>
+<h4>Wertvolles Know-how aus dem Bereich der Persönlichkeitsentwicklung und Potenzialentfaltung</h4>
+</li>
+<li>
+<h4>Inspirierende Metaphern sowie hilfreiche Lebensweisheiten</h4>
+</li>
+<li>
+<h4>Einführung in wirkungsvolle Techniken des NLP</h4>
+</li>
+<li>
+<h4>Das Mindset erfolgreicher Menschen</h4>
+</li>
+<li>
+<h4>Und noch vieles mehr!</h4>
+</li>
+</ul>
 
 ## 2. Links
 
@@ -75,7 +121,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Taschenbuch gegen negativen Gedanken? — Typ: Book (printed), Anbieter: Deinechance, gelistet seit 2023-11-03
-- Wie viel kostet es? — 11.194794 USD
+- Wie viel kostet es? — 11.169819 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

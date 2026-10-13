@@ -4,16 +4,16 @@ digistore24_product_id: 684652
 title: "Seelenname — dein persönlicher 33-Seiten-Guide"
 vendor: "dotrockets"
 product_type: "Downloads"
-price: 82.87
+price: 82.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.44
+earnings_per_sale: 41.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://seelenname.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://seelenname.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Seelenname — dein persönlicher 33-Seiten-Guide
 
 > Product ID `58456` · Digistore24 productId `684652` · [HTML profile page](../../produkte/seelenname-dein-pers-nlicher-33-seiten-guide-58456.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $82.87 (Single payment) |
+| Price | $82.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.44 |
+| Earnings/sale* | $41.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dotrockets |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Seelenname ist ein persönlicher Guide von 33 Seiten. Aus Geburtsnamen und Geburtsdatum entsteht der eigene Seelenname, dazu ein grafisches Sigill, sechs numerologische Kennzahlen, Sonnen- und Mondzeichen, Erzengel, Krafttier, Fokus-Chakra, 21 Affirmationen und ein 21-Tage-Weg, den Namen im Alltag ankommen zu lassen. Gewoben aus pythagoräischer Numerologie, der Kabbala der 72 Engel, klassischer Ast…
+**Vendor's marketplace description:** <p><strong>Seelenname ist ein persönlicher Guide von 33 Seiten.</strong> <br /><br />Aus Geburtsnamen und Geburtsdatum entsteht der eigene Seelenname, dazu ein grafisches Sigill, sechs numerologische Kennzahlen, Sonnen- und Mondzeichen, Erzengel, Krafttier, Fokus-Chakra, 21 Affirmationen und ein 21-Tage-Weg, den Namen im Alltag ankommen zu lassen. Gewoben aus pythagoräischer Numerologie, der Kabbala der 72 Engel, klassischer Astrologie und schamanischer Krafttier-Tradition. Auslieferung sofort als PDF.</p>
+<p><strong>Für welche Listen das passt</strong><br />Numerologie, Astrologie, Human Design, Tarot, Energiearbeit, Selbsterkenntnis, spirituelle Persönlichkeitsentwicklung. Der Kern der Käuferschaft sind Frauen ab 35.</p>
+<p><strong>Warum es konvertiert</strong><br />Dein Link führt auf die Startseite. Von dort kann deine Leserin direkt kaufen oder erst das kostenlose Seelentyp-Quiz machen und in Ruhe entscheiden. Beide Wege zählen für dich, weil Digistore sich dich 180 Tage lang merkt. Die Stornoquote liegt bei 4,3 Prozent über die letzten 211 Verkäufe.</p>
+<p><strong>Deine Provision</strong><br />50 Prozent vom Nettopreis, das sind 36,96 € pro Verkauf. Läuft ein Kauf über eine Aktion zu einem günstigeren Preis, skaliert die Provision einfach mit.</p>
+<p><strong>Freigabe</strong><br />Wir schauen jede Anfrage von Hand an und schalten dich meist am selben Tag frei. Schreib uns dafür kurz deine Digistore-ID und den Link zu deinem Kanal, Blog oder Newsletter an hello@dotrockets.com. Unsere Werberegeln stehen offen auf <a href="https://seelenname.de/partner">seelenname.de/partner</a>.</p>
+<p><strong>Was du bekommst</strong><br />Banner in fünf Formaten, eine fertige Mail-Vorlage, Captions für Instagram, Telegram und Story sowie kurze Textbausteine. Alles auf <a href="https://seelenname.de/partner/werbemittel">seelenname.de/partner/werbemittel</a></p>
 
 ## 2. Links
 
@@ -92,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Seelenname — dein persönlicher 33-Seiten-Guide? — Typ: Downloads, Anbieter: dotrockets, gelistet seit 2026-08-19
-- Wie viel kostet es? — 82.86837000000001 USD
+- Wie viel kostet es? — 82.68349500000001 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

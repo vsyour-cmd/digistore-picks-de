@@ -4,16 +4,16 @@ digistore24_product_id: 488356
 title: "Microsoft Excel Grundlagen Intensivkurs"
 vendor: "Trainstitute"
 product_type: "Member area and video courses"
-price: 23.31
+price: 23.26
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.71
+earnings_per_sale: 33.63
 cart_conversion_pct: 12
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2023-03-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://video-schulungen.de/courses/excel-grundlagen/?aff=adminstore#aff=adminstore"
 sales_page: "https://video-schulungen.de/courses/excel-grundlagen/"
@@ -22,16 +22,16 @@ language: "de"
 # Microsoft Excel Grundlagen Intensivkurs
 
 > Product ID `44158` · Digistore24 productId `488356` · [HTML profile page](../../produkte/microsoft-excel-grundlagen-intensivkurs-44158.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $23.31 (Single payment, Installment) |
+| Price | $23.26 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.71 |
+| Earnings/sale* | $33.63 |
 | Cart conversion* | 12% |
 | Cancel rate* | 0% |
 | Vendor | Trainstitute |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Video-Kurs: Microsoft Excel Grundlagen Microsoft Excel ist als Büroanwendung fast ebenso verbreitet wie Microsoft Word. Ganz oft werden nur Bruchteile der Funktionen genutzt, diese aber reichen schon, um die Arbeit erheblich zu vereinfachen und deutlich schneller zu erledigen. Fehleranfälligkeiten können verringert werden, wiederkehrende Vorgänge können automatisiert und standardisiert werden. Der…
+**Vendor's marketplace description:** <h1>Video-Kurs: Microsoft Excel Grundlagen</h1>
+<p>Microsoft Excel ist als Büroanwendung fast ebenso verbreitet wie Microsoft Word. Ganz oft werden nur Bruchteile der Funktionen genutzt, diese aber reichen schon, um die Arbeit erheblich zu vereinfachen und deutlich schneller zu erledigen. Fehleranfälligkeiten können verringert werden, wiederkehrende Vorgänge können automatisiert und standardisiert werden.</p>
+<p>Der Lernkurs „MS Excel Grundlagen“ wendet sich an Anfänger, die gern einen systematischen und schrittweisen Einstieg in MS Excel haben möchten. Es werden insbesondere die für den Büroalltag relevanten Funktionen und Möglichkeiten hervorgehoben und detailliert beschrieben.</p>
+<h2><strong>Empfehle unsere Videoschulungen weiter und verdiene bei jedem deiner Verkäufe mit!</strong></h2>
+<h4>Wir bieten viele IT-Zertifizierung, System-Administration, Microsoft Office Tutorials Videoschulungen zu günstigen Preisen an.</h4>
+<p>Deine Vorteile als Affiliate Partner</p>
+<ul>
+<li><strong>Hohe Provision von bis zu 50%</strong></li>
+<li>Günstige Kurse die sich leicht verkaufen lassen</li>
+<li>Sehr zufriedene Kunden - durchschnittliche Bewertungsquote 4,7 Sterne</li>
+<li>Bekannte Dozenten durch den Heise Verlag und Udemy mit über 60.000 Verkäufen</li>
+<li>Werbemittel (Banner) verfügbar</li>
+<li>100-prozentiger Affiliate-Schutz: garantiert korrekte und pünktlich ausgezahlte Provisionen sowie Real-Time-Tracking durch Digistore24</li>
+<li>Affiliate Support direkt durch unsere Dozenten</li>
+</ul>
+<p>Werden jetzt Affiliate-Partner und überzeuge deine Zielgruppe von unseren großartigen Online-Kursen.</p>
+<p>Verdiene noch zusätzlich an Upsell und Cross-Sell-Kampagnen!</p>
+<p>Mit deiner Leidenschaft und unserem hochwertigen Angebot kannst du sicher sein, dass die Kunden die bestmögliche Erfahrung bieten und gleichzeitig Ihre Einnahmen steigern werden.</p>
 
 ## 2. Links
 
@@ -83,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Microsoft Excel Grundlagen Intensivkurs? — Typ: Member area and video courses, Anbieter: Trainstitute, gelistet seit 2023-03-09
-- Wie viel kostet es? — 23.308480000000003 USD
+- Wie viel kostet es? — 23.256480000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

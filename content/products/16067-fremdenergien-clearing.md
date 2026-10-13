@@ -4,34 +4,34 @@ digistore24_product_id: 113023
 title: "Fremdenergien Clearing"
 vendor: "Gehvoran"
 product_type: "Downloads"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.18
+earnings_per_sale: 10.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2017-01-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.alexmiller.de/fremdenergien-clearing/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/16067/adminstore/"
 sales_page: "https://www.alexmiller.de/fremdenergien-clearing/"
 language: "de"
 ---
 # Fremdenergien Clearing
 
 > Product ID `16067` · Digistore24 productId `113023` · [HTML profile page](../../produkte/fremdenergien-clearing-16067.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.18 |
+| Earnings/sale* | $10.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Gehvoran |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Fremdenergien Clearing Hilfe zur Blockadelösung und zum Schutz sowie bei Besetzungen jeglicher Art: * Fremdenergien durch dunkle Wesenheiten * Gelübde, Schwüre und Eide aus früheren Leben * erdgebundene Seelen, die sich anhaften * Energievampire Das Fremdenergien Clearing besteht aus: 1x Audio-Programm MP3 27 Minuten 1x E-Book PDF 82 Seiten Experten-Ratgeber „Was Sie über Fremdenergien wissen soll…
+**Vendor's marketplace description:** <p><big><big><strong><em>Fremdenergien Clearing<br /></em></strong></big></big></p>
+<p> </p>
+<p><big><big><strong>Hilfe zur Blockadelösung und zum Schutz sowie bei Besetzungen jeglicher Art:</strong></big></big></p>
+<p><strong>* Fremdenergien durch dunkle Wesenheiten<br /> * Gelübde, Schwüre und Eide aus früheren Leben<br /> * erdgebundene Seelen, die sich anhaften<br /> * Energievampire</strong></p>
+<p> </p>
+<p><strong><big><big><em>Das Fremdenergien Clearing besteht aus:</em></big></big></strong></p>
+<p><strong>1x Audio-Programm MP3 27 Minuten<br /></strong></p>
+<p><strong>1x E-Book PDF 82 Seiten Experten-Ratgeber „Was Sie über Fremdenergien wissen sollten“ <br /></strong></p>
+<p> </p>
+<p><strong>Bei Fragen bitte an: info@gehvoran.com</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.alexmiller.de/fremdenergien-clearing/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/16067/adminstore/
 - Sales page: https://www.alexmiller.de/fremdenergien-clearing/
 - Vendor affiliate support: http://www.gehvoran.com/online-shop-3/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/113023/adminstore
@@ -77,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fremdenergien Clearing? — Typ: Downloads, Anbieter: Gehvoran, gelistet seit 2017-01-11
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

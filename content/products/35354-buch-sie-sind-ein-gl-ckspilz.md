@@ -4,16 +4,16 @@ digistore24_product_id: 349940
 title: "Buch: Sie sind ein Glückspilz"
 vendor: "Lichtkraftquelle"
 product_type: "Book (printed)"
-price: 15.61
+price: 15.58
 currency: "USD"
 affiliate_commission_pct: 16
-earnings_per_sale: 2.5
+earnings_per_sale: 2.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-09-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.akademie-fsl.de/buch-glueckspilz-349940/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.akademie-fsl.de/buch-glueckspilz-349940/"
@@ -22,16 +22,16 @@ language: "de"
 # Buch: Sie sind ein Glückspilz
 
 > Product ID `35354` · Digistore24 productId `349940` · [HTML profile page](../../produkte/buch-sie-sind-ein-gl-ckspilz-35354.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $15.61 (Single payment) |
+| Price | $15.58 (Single payment) |
 | Affiliate commission | 16% |
-| Earnings/sale* | $2.50 |
+| Earnings/sale* | $2.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Lichtkraftquelle |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Ratgeber für eine grandios glückliche Lebenszeit! Autor: Chris Hohlstamm von Dehnen Vom ersten Tag des Lebens an sucht der Mensch nach Glück und setzt dabei alle Hebel in Bewegung, um glücklich zu werden. Doch die meisten Menschen stehen ihrem Glück mit ihrem Tun mehr im Weg, wie sie Glück überhaupt verursachen. Christopher Hohlstamm von Dehnen zu Wendhausen ist Lebenslehrer und ganzheitlicher…
+**Vendor's marketplace description:** <p>Der Ratgeber für eine grandios glückliche Lebenszeit!</p>
+<p>Autor: Chris Hohlstamm von Dehnen</p>
+<p>Vom ersten Tag des Lebens an sucht der Mensch nach Glück und setzt dabei alle Hebel in Bewegung, um glücklich zu werden. Doch die meisten Menschen stehen ihrem Glück mit ihrem Tun mehr im Weg, wie sie Glück überhaupt verursachen.</p>
+<p>Christopher Hohlstamm von Dehnen zu Wendhausen ist Lebenslehrer und ganzheitlicher Therapeut. Mit seiner Erfahrung, aus 30 Jahren Seminarpraxis und Erfolgsmanagement, zeigt er hier die einfachsten und besten Wege, um Glück im Leben nicht nur ganz zuverlässig zu verursachen, sondern auch, wie man seine Lebenszeit am besten gestaltet, damit Glück kein Glück und Zufall mehr ist, und wir am Ende sagen können: Es war eine grandios glückliche Lebenszeit!</p>
+<p>Buch (gedruckt)<br />168 Seiten<br />Abmessungen: 14,8 cm x 21 cm</p>
 
 ## 2. Links
 
@@ -58,7 +62,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch: Sie sind ein Glückspilz? — Typ: Book (printed), Anbieter: Lichtkraftquelle, gelistet seit 2020-09-28
-- Wie viel kostet es? — 15.609958 USD
+- Wie viel kostet es? — 15.575133000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 735787
 title: "50 Startideen für Digistore24 - optionales PDF-Ideenpaket"
 vendor: "einfachmitmatze"
 product_type: "E-books"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.19
+earnings_per_sale: 4.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/digistore24/50-startideen/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/digistore24/50-startideen/"
@@ -22,16 +22,16 @@ language: "de"
 # 50 Startideen für Digistore24 - optionales PDF-Ideenpaket
 
 > Product ID `59484` · Digistore24 productId `735787` · [HTML profile page](../../produkte/50-startideen-f-r-digistore24-optionales-pdf-ideenpaket-59484.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.19 |
+| Earnings/sale* | $4.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 50 Startideen für einen strukturierten Einstieg: 25 Affiliate-Ansätze und 25 Ideen für eigene digitale Produkte. Deutschsprachiges PDF mit 29 Seiten inklusive Cover, Zielgruppen, Angebotsansätzen, ersten Tests, Auswahlhilfe und 7-Tage-Testplan.9,99 EUR einmalig inklusive MwSt., kein Abo. 40% Affiliate-Provision. Separat kaufbar und freiwillige Ergänzung zum Hauptkurs. Hauptkurs, Videos, persönlich…
+**Vendor's marketplace description:** <p>50 Startideen für einen strukturierten Einstieg: 25 Affiliate-Ansätze und 25 Ideen für eigene digitale Produkte. Deutschsprachiges PDF mit 29 Seiten inklusive Cover, Zielgruppen, Angebotsansätzen, ersten Tests, Auswahlhilfe und 7-Tage-Testplan.<br />9,99 EUR einmalig inklusive MwSt., kein Abo. 40% Affiliate-Provision. Separat kaufbar und freiwillige Ergänzung zum Hauptkurs. Hauptkurs, Videos, persönliche Betreuung und Wiederverkaufsrechte sind nicht enthalten.<br />Für Einsteiger, die einen Ansatz auswählen und selbst prüfen möchten. Ideen sind Hypothesen, keine validierte Bestsellerliste. Keine garantierte Nachfrage, kein garantiertes Einkommen und keine belegten Conversion- oder EPC-Werte.<br />Bitte sachlich bewerben, Affiliate-Beziehung kennzeichnen und keine erfundenen Erfahrungen oder Erfolge behaupten.<br />Verkaufsseite: https://einfachmitmatze.de/digistore24/50-startideen/<br />Kontakt: info@einfachhaltbar.de<br />Unabhängiger Ratgeber von Einfach mit Matze, keine offizielle Digistore24-Schulung.</p>
 
 ## 2. Links
 
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 Startideen für Digistore24 - optionales PDF-Ideenpaket? — Typ: E-books, Anbieter: einfachmitmatze, gelistet seit 2026-09-21
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

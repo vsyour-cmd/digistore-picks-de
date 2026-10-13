@@ -4,16 +4,16 @@ digistore24_product_id: 525075
 title: "Naturkosmetik genial einfach"
 vendor: "Katharinaruehrt"
 product_type: "Member area and video courses"
-price: 80.66
+price: 80.48
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 34.3
+earnings_per_sale: 34.23
 cart_conversion_pct: 8
 cancel_rate_pct: 1.54
 categories: ["Education","Green Products & Environmental Protection","Hobby & Craft"]
 listed_since: "2023-11-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.katharinaruehrt.com/nkge-onlinekurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.katharinaruehrt.com/nkge-onlinekurs"
@@ -22,16 +22,16 @@ language: "de"
 # Naturkosmetik genial einfach
 
 > Product ID `53730` · Digistore24 productId `525075` · [HTML profile page](../../produkte/naturkosmetik-genial-einfach-53730.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $80.66 (Single payment, Installment) |
+| Price | $80.48 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $34.30 |
+| Earnings/sale* | $34.23 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.54% |
 | Vendor | Katharinaruehrt |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für alle die Lust haben, ihre Kosmetik selbst herzustellen – wirkungsvoll, nachhaltig und mit wenigen Zutaten. Nach diesem Kurs brauchst du keine teure Hautpflege mehr kaufen, denn wir bringen deine Haut mit der Kraft der Natur zum Strahlen! Der Onlinekurs: Naturkosmetik genial einfach beinhaltet: 18 genial einfache Rezepte von Kopf bis Fuß 18 Rezeptvideos zum Nachrühren Basiswissen zu Naturkosmet…
+**Vendor's marketplace description:** <div>Für alle die Lust haben, ihre Kosmetik selbst herzustellen – wirkungsvoll, nachhaltig und mit wenigen Zutaten.</div>
+<p>Nach diesem Kurs brauchst du keine teure Hautpflege mehr kaufen, denn wir bringen deine Haut mit der Kraft der Natur zum Strahlen!</p>
+<p><strong>Der Onlinekurs: Naturkosmetik genial einfach beinhaltet:</strong></p>
+<ul>
+<li>18 genial einfache Rezepte von Kopf bis Fuß</li>
+<li>18 Rezeptvideos zum Nachrühren</li>
+<li>Basiswissen zu Naturkosmetik &amp; Wissen für Angeber</li>
+<li>13 Pflanzenporträts</li>
+<li>Fix-Fertig-Warenkorb</li>
+<li>Etiketten zum Herunterladen</li>
+<li>und so viel mehr</li>
+</ul>
+<p><strong>Du möchtest genau wissen, was auf deine Haut kommt und dir Plastik im Badezimmer sparen? Dann ist der Onlinekurs genau das Richtige für dich!</strong></p>
+<p> </p>
+<p><strong><a>https://www.katharinaruehrt.com/nkge-onlinekurs</a></strong></p>
 
 ## 2. Links
 
@@ -99,7 +113,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Naturkosmetik genial einfach? — Typ: Member area and video courses, Anbieter: Katharinaruehrt, gelistet seit 2023-11-13
-- Wie viel kostet es? — 80.66078800000001 USD
+- Wie viel kostet es? — 80.480838 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

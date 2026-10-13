@@ -4,34 +4,34 @@ digistore24_product_id: 733257
 title: "Nie wieder \"Ich überleg's mir\""
 vendor: "ManfredKloos"
 product_type: "Downloads"
-price: 53.68
+price: 53.56
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 21.47
+earnings_per_sale: 21.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://manfredkloos.de/call-scripte-fuer-coaches?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59327/adminstore/"
 sales_page: "https://manfredkloos.de/call-scripte-fuer-coaches"
 language: "de"
 ---
 # Nie wieder "Ich überleg's mir"
 
 > Product ID `59327` · Digistore24 productId `733257` · [HTML profile page](../../produkte/nie-wieder-ich-berleg-s-mir-59327.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $53.68 (Single payment) |
+| Price | $53.56 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $21.47 |
+| Earnings/sale* | $21.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ManfredKloos |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dein Angebot überzeugt. Dein Call auch – fast. Gute Chemie, nettes Gespräch,echtes Interesse. Und trotzdem: „Ich überlegs mir noch.“ Das liegt selten am Angebot – meistens an der fehlenden Struktur im Gespräch. Dieses System gibt dir die 5-Phasen-Call-Struktur, mit der jedes Verkaufsgespräch eine klare Richtung bekommt. Dazu 7 erprobte Antworten auf die häufigsten Einwände ("zu teuer", „muss noch …
+**Vendor's marketplace description:** <p><strong>Dein Angebot überzeugt. Dein Call auch – fast.</strong></p>
+<p> </p>
+<p>Gute Chemie, nettes Gespräch,echtes Interesse. Und trotzdem: „Ich überlegs mir noch.“ Das liegt selten am Angebot – meistens an der fehlenden Struktur im Gespräch.</p>
+<p>Dieses System gibt dir die 5-Phasen-Call-Struktur, mit der jedes Verkaufsgespräch eine klare Richtung bekommt. Dazu 7 erprobte Antworten auf die häufigsten Einwände ("zu teuer", „muss noch überlegen“, „keine Zeit“) – griffbereit, statt im Moment zu improvisieren. Plus 4 Nachfass-Formulierungen für alle, die nicht sofort buchen.</p>
+<p><strong>Sofortiger Download, kein Abo. Dein nächster Call kann heute schon anders laufen.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://manfredkloos.de/call-scripte-fuer-coaches?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59327/adminstore/
 - Sales page: https://manfredkloos.de/call-scripte-fuer-coaches
 - Canonical redirect: https://www.digistore24.com/redir/733257/adminstore
 
@@ -86,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nie wieder "Ich überleg's mir"? — Typ: Downloads, Anbieter: ManfredKloos, gelistet seit 2026-09-17
-- Wie viel kostet es? — 53.67674 USD
+- Wie viel kostet es? — 53.556990000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

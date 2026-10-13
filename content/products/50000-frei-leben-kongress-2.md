@@ -4,16 +4,16 @@ digistore24_product_id: 568077
 title: "Frei Leben Kongress 2"
 vendor: "kongresshero"
 product_type: "Member area and video courses"
-price: 66.12
+price: 65.97
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 6.61
+earnings_per_sale: 6.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-09-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/568077?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/568077"
@@ -22,16 +22,16 @@ language: "de"
 # Frei Leben Kongress 2
 
 > Product ID `50000` · Digistore24 productId `568077` · [HTML profile page](../../produkte/frei-leben-kongress-2-50000.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $66.12 (Single payment, Installment) |
+| Price | $65.97 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $6.61 |
+| Earnings/sale* | $6.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kongresshero |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Kongresspaket zum Frei Leben Kongress 2.
+**Vendor's marketplace description:** <p>Das Kongresspaket zum Frei Leben Kongress 2.</p>
 
 ## 2. Links
 
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frei Leben Kongress 2? — Typ: Member area and video courses, Anbieter: kongresshero, gelistet seit 2024-09-01
-- Wie viel kostet es? — 66.11540000000001 USD
+- Wie viel kostet es? — 65.9679 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

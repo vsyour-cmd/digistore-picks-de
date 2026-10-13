@@ -4,16 +4,16 @@ digistore24_product_id: 422798
 title: "Onlyfans Premium Kurs"
 vendor: "MTernes"
 product_type: "Downloads"
-price: 141.24
+price: 140.93
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.5
+earnings_per_sale: 56.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2022-01-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://prestige101.de/onlyfans-kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://prestige101.de/onlyfans-kurs"
@@ -22,16 +22,16 @@ language: "de"
 # Onlyfans Premium Kurs
 
 > Product ID `38904` · Digistore24 productId `422798` · [HTML profile page](../../produkte/onlyfans-premium-kurs-38904.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $141.24 (Single payment) |
+| Price | $140.93 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.50 |
+| Earnings/sale* | $56.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MTernes |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Onlyfans Premium Social Media Kurs verfügt über umfangreiche Auswahl an verschiedenen, erprobten Techniken und Anleitungen für den Erfolg auf Onlyfans und ähnlichen Plattformen. Dadurch ist er ebenfalls für den Bewerbung von alternativen Angeboten wie Unlockd oder 4based geeigent. Der Onlyfans Premium Social Media Kurs ist eine effektive und durch die Praxis geprüfte Methode, um ein erfolgreic…
+**Vendor's marketplace description:** <p>Der Onlyfans Premium Social Media Kurs verfügt über umfangreiche Auswahl an verschiedenen, erprobten Techniken und Anleitungen für den Erfolg auf Onlyfans und ähnlichen Plattformen. Dadurch ist er ebenfalls für den Bewerbung von alternativen Angeboten wie Unlockd oder 4based geeigent. </p>
+<p> </p>
+<p><strong>Der Onlyfans Premium Social Media Kurs ist eine effektive und durch die Praxis geprüfte Methode, um ein erfolgreiches Business auf Onlyfans aufbauen zu können.</strong></p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -101,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlyfans Premium Kurs? — Typ: Downloads, Anbieter: MTernes, gelistet seit 2022-01-02
-- Wie viel kostet es? — 141.24042400000002 USD
+- Wie viel kostet es? — 140.92532400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

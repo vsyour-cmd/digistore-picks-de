@@ -4,16 +4,16 @@ digistore24_product_id: 608566
 title: "Heilfrequenzen"
 vendor: "Empfehlungsmeister"
 product_type: "E-books"
-price: 15.43
+price: 15.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.72
+earnings_per_sale: 7.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-04-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "http://heilfrequenzen.empfehlungsmeister.com?aff=adminstore#aff=adminstore"
 sales_page: "http://heilfrequenzen.empfehlungsmeister.com"
@@ -22,16 +22,16 @@ language: "de"
 # Heilfrequenzen
 
 > Product ID `52150` · Digistore24 productId `608566` · [HTML profile page](../../produkte/heilfrequenzen-52150.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.43 (Single payment) |
+| Price | $15.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.72 |
+| Earnings/sale* | $7.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Empfehlungsmeister |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle mein eBuch "Heilfrequenzen - Einfache Methoden für ein angenehmeres Leben" und erhalte 50% Provision auf alle Up- & Down-Sells. Auf der Partnerseite ist für dich alles vorbereitet. eMail Vorlagen, Social Media Texte, ... Heilfrequenzen - Einfache Methoden für ein angenehmeres Leben - 5 Vorteile: - die wichtigsten Infos als Basics und zur Aufklärung - welche Möglichkeiten gibt es - eine Fr…
+**Vendor's marketplace description:** <p><strong>Empfehle mein eBuch "Heilfrequenzen - Einfache Methoden für ein angenehmeres Leben" und erhalte 50% Provision auf alle Up- &amp; Down-Sells.</strong></p>
+<p> </p>
+<p><strong>Auf der Partnerseite ist für dich alles vorbereitet. eMail Vorlagen, Social Media Texte, ...</strong></p>
+<p> </p>
+<p><strong>Heilfrequenzen - Einfache Methoden für ein angenehmeres Leben - 5 Vorteile:</strong></p>
+<p>- <strong>die wichtigsten Infos </strong>als Basics und zur Aufklärung</p>
+<p>- welche Möglichkeiten gibt es</p>
+<p>- eine <strong>Frequenz-Liste</strong> mit Anwendungs-Tipps</p>
+<p>- Infos über Musik, Quanten-Physik, Edelsteine, Symbol-Kräfte, Gerätschaften und eine Merkabah- Meditations-Anleitung</p>
+<p>- auch für <strong>Anfänger geeignet</strong></p>
+<p> </p>
+<p>Im Funnel sind <strong>weitere Provision</strong> für dich möglich</p>
+<p><a href="https://partnerprogramm.empfehlungsmeister.com" target="_blank" rel="noreferrer noopener">Zu den Werbemitteln &lt;&lt; klick</a></p>
 
 ## 2. Links
 
@@ -73,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilfrequenzen? — Typ: E-books, Anbieter: Empfehlungsmeister, gelistet seit 2025-04-22
-- Wie viel kostet es? — 15.430662 USD
+- Wie viel kostet es? — 15.396237000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 393341
 title: "Hörgeschichten für Kinder: Schulzauber"
 vendor: "kindimglueck"
 product_type: "Audio book (download)"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.43
+earnings_per_sale: 10.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Personal Development"]
 listed_since: "2021-06-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://zauberohr.de/geschichte/schulzauber-hoerbuch-einschulung-kind/?aff=adminstore#aff=adminstore"
 sales_page: "https://zauberohr.de/geschichte/schulzauber-hoerbuch-einschulung-kind/"
@@ -22,16 +22,16 @@ language: "de"
 # Hörgeschichten für Kinder: Schulzauber
 
 > Product ID `46366` · Digistore24 productId `393341` · [HTML profile page](../../produkte/h-rgeschichten-f-r-kinder-schulzauber-46366.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.43 |
+| Earnings/sale* | $10.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kindimglueck |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Infos für Affiliates: ZauberOhr erstellt liebevolle Hörspiele für Kinder, die ihr Selbstbewusstsein stärken und so für entspanntere Eltern sorgen. Unsere Hörgeschichten basieren auf langjähriger Erfahrung als Therapeutinnen und setzen direkt am Unterbewusstsein des Kindes an, so dass es spielerisch zu mehr Lebensqualität kommt.Produktbeschreibung: In dieser magischen Geschichte taucht dein Kind al…
+**Vendor's marketplace description:** <h3>Infos für Affiliates:</h3>
+<p>ZauberOhr erstellt liebevolle Hörspiele für Kinder, die ihr Selbstbewusstsein stärken und so für entspanntere Eltern sorgen.</p>
+<p>Unsere Hörgeschichten basieren auf langjähriger Erfahrung als Therapeutinnen und setzen direkt am Unterbewusstsein des Kindes an, so dass es spielerisch zu mehr Lebensqualität kommt.<br /><br /><strong>Produktbeschreibung:</strong></p>
+<div>
+<div>
+<p>In dieser magischen Geschichte taucht dein Kind als Hauptfigur bereits heute in seine bevorstehende Schulzeit und die damit verbundene Vorfreude ab. Wir mobilisieren alle Ressourcen und geben stärkende und freudige Gefühle mit auf den Weg. Personalisierung empfohlen.</p>
+<p>Es gibt in dieser Geschichte eine interaktive Besonderheit für Eltern: Ihr könnt den Inhalt der Schultüte magisch werden lassen!</p>
+</div>
+</div>
+<p> </p>
 
 ## 2. Links
 
@@ -76,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hörgeschichten für Kinder: Schulzauber? — Typ: Audio book (download), Anbieter: kindimglueck, gelistet seit 2021-06-08
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

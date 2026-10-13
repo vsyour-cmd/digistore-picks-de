@@ -4,16 +4,16 @@ digistore24_product_id: 681476
 title: "Kartenlegen-Taromand-Orakel: Das 15-monatige Mentoring"
 vendor: "akashanicolementh"
 product_type: "Online coaching"
-price: 1873.95
+price: 1869.77
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 336.18
+earnings_per_sale: 335.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.akasha-portal.com/intensivkurs-kartenlegen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.akasha-portal.com/intensivkurs-kartenlegen/"
@@ -22,16 +22,16 @@ language: "de"
 # Kartenlegen-Taromand-Orakel: Das 15-monatige Mentoring
 
 > Product ID `56346` · Digistore24 productId `681476` · [HTML profile page](../../produkte/kartenlegen-taromand-orakel-das-15-monatige-mentoring-56346.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $1873.95 (Single payment) |
+| Price | $1869.77 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $336.18 |
+| Earnings/sale* | $335.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | akashanicolementh |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sie suchen ein hochwertiges High-Ticket-Produkt im spirituellen Bereich? Das Taromand-Orakel ist ein fundiertes, 15-monatiges Mentoring-Programm, das Teilnehmer intensiv begleitet und auf die professionelle Arbeit mit den Karten vorbereitet. Ihre Vorteile als Partner: Top-Provision: Sie erhalten eine attraktive Provision von 300 € pro Abschluss. Exklusives Konzept: von der bekannten Kartenlegerin …
+**Vendor's marketplace description:** <h3>Sie suchen ein hochwertiges High-Ticket-Produkt im spirituellen Bereich?</h3>
+<p>Das <strong>Taromand-Orakel</strong> ist ein fundiertes, <strong>15-monatiges Mentoring-Programm</strong>, das Teilnehmer intensiv begleitet und auf die professionelle Arbeit mit den Karten vorbereitet.</p>
+<p> </p>
+<h3><strong>Ihre Vorteile als Partner:</strong></h3>
+<p> </p>
+<h4><strong>Top-Provision:</strong></h4>
+<p>Sie erhalten eine attraktive Provision von <strong>300 € pro Abschluss</strong>.</p>
+<p> </p>
+<h4><strong>Exklusives Konzept:</strong></h4>
+<p>von der bekannten Kartenlegerin &amp; Autorin Akasha (Nicole Menth). Ein tiefgreifendes Mentoring, das Intuition und Beratungspraxis vereint.</p>
+<p> </p>
+<h4><strong>Nachhaltigkeit:</strong></h4>
+<p>Ein langfristig angelegtes Programm, das durch Qualität und eine persönliche Betreuung überzeugt.</p>
+<p> </p>
+<h4><strong>Teilnahmebestätigung:</strong></h4>
+<p>Alle Teilnehmer erhalten nach erfolgreichem Durchlaufen des Mentorings einen entsprechenden Nachweis über ihre Teilnahme.</p>
 
 ## 2. Links
 
@@ -94,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kartenlegen-Taromand-Orakel: Das 15-monatige Mentoring? — Typ: Online coaching, Anbieter: akashanicolementh, gelistet seit 2026-04-02
-- Wie viel kostet es? — 1873.945762 USD
+- Wie viel kostet es? — 1869.7650870000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

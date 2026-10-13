@@ -4,34 +4,34 @@ digistore24_product_id: 154051
 title: "Neurobäume"
 vendor: "motivation-art"
 product_type: "Member area and video courses"
-price: 277.8
+price: 277.18
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 31.01
+earnings_per_sale: 30.94
 cart_conversion_pct: 11
 cancel_rate_pct: 1.08
 categories: ["Personal Development"]
 listed_since: "2017-07-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "http://motivation-art.de/neurobaeume?aff=adminstore#aff=adminstore"
+promo_link: "http://outdoorgpsnavigation.info/mapsource-handbuch#aff=adminstore"
 sales_page: "http://motivation-art.de/neurobaeume"
 language: "de"
 ---
 # Neurobäume
 
 > Product ID `18129` · Digistore24 productId `154051` · [HTML profile page](../../produkte/neurob-ume-18129.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $277.80 (Single payment) |
+| Price | $277.18 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $31.01 |
+| Earnings/sale* | $30.94 |
 | Cart conversion* | 11% |
 | Cancel rate* | 1.08% |
 | Vendor | motivation-art |
@@ -41,11 +41,73 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bäume sind archetypische Symbole für den Menschen und sein Wachstum. Mit Hilfe der Neurographik können Sie Bäume zu jedem beliebigen Thema (z.B. Finanzen, Beziehungen, Gesundheit, Erfolg) entstehen und wachsen lassen. Eine eindrucksvolle Möglichkeit, eigene Wachstumsreflexe zu aktivieren und das gewünschte Ergebnis sowohl auf dem Papier als auch im eigenen Denken/Nervensystem anzulegen. In diesem …
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h4>Bäume sind archetypische Symbole für den Menschen und sein Wachstum. Mit Hilfe der Neurographik können Sie Bäume zu jedem beliebigen Thema (z.B. Finanzen, Beziehungen, Gesundheit, Erfolg) entstehen und wachsen lassen. Eine eindrucksvolle Möglichkeit, eigene Wachstumsreflexe zu aktivieren und das gewünschte Ergebnis sowohl auf dem Papier als auch im eigenen Denken/Nervensystem anzulegen. In diesem Kurs pflanzen Sie einen Baum, der Ihr Wachstum beflügelt, sofern Sie dazu bereit sind und Sie sich auf Ihre ureigenen Ressourcen konzentrieren.</h4>
+<p><strong>Der Kurs eignet sich für:</strong></p>
+<ul>
+<li>alle, die einen praktischen Einstieg in die Neurographik wünschen</li>
+<li>alle, die immer noch glauben, sie können nicht malen</li>
+<li>alle, die bereit sind, auf eine innere Entdeckungsreise zu gehen</li>
+<li>alle, die ein Thema gezielt und gleichzeitig spielerisch voranbringen wollen</li>
+<li>alle, die ihr Leben gerne in die eigene Hand nehmen wollen</li>
+</ul>
+<p><strong>Sie sind hier richtig, wenn Sie:</strong></p>
+<ul>
+<li>bereit sind, sich auf ein ästhetisches Abenteuer einzulassen</li>
+<li>bereit sind, ihren Kopf für eine gewisse Zeit auszuschalten</li>
+<li>bereit sind, sich mit Themen und Problemen auf eine andere Art zu beschäftigen, als Sie es gewohnt sind</li>
+<li>bereit sind, Ihre inneren Landkarten anzusehen und zu verändern</li>
+</ul>
+<p><strong>Kursziele</strong>:</p>
+<ul>
+<li>Zeichnen von mindestens drei Neurobäumen zu einem selbst gewählten Thema</li>
+<li>Sicheres selbstständiges Anwenden dieser Variante zu jedem beliebigen Thema in Zukunft</li>
+</ul>
+<p><strong>Inhalt:</strong></p>
+<ul>
+<li>Kurze Einführung in Prinzipien der Neurographik</li>
+<li>Ressourcen-Arbeit mit Hilfe der Neurographik</li>
+<li>Zeichnen eines Neurobaumes (live während des Webinars und danach)</li>
+<li>Live-Supervision der eingesendeten Arbeiten</li>
+<li>Neurobaum-Sprößlinge</li>
+</ul>
+<p><strong>Nebeneffekte:</strong></p>
+<ul>
+<li>Meditative Auszeit</li>
+<li>Aktivierung des eigenen kreativen Potenzials</li>
+<li>Viele neue Stifte und Farben in Ihrem Leben…</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://motivation-art.de/neurobaeume?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://outdoorgpsnavigation.info/mapsource-handbuch#aff=adminstore
 - Sales page: http://motivation-art.de/neurobaeume
 - Canonical redirect: https://www.digistore24.com/redir/154051/adminstore
 
@@ -79,7 +141,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurobäume? — Typ: Member area and video courses, Anbieter: motivation-art, gelistet seit 2017-07-28
-- Wie viel kostet es? — 277.79674 USD
+- Wie viel kostet es? — 277.17699000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

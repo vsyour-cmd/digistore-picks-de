@@ -4,34 +4,34 @@ digistore24_product_id: 678845
 title: "Grenzen setzen und Nein sagen lernen"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.82
+earnings_per_sale: 7.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58433/adminstore/"
 sales_page: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/"
 language: "de"
 ---
 # Grenzen setzen und Nein sagen lernen
 
 > Product ID `58433` · Digistore24 productId `678845` · [HTML profile page](../../produkte/grenzen-setzen-und-nein-sagen-lernen-58433.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.82 |
+| Earnings/sale* | $7.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das E-Book „Grenzen setzen & Nein sagen lernen“ richtet sich an Menschen, die ihre eigenen Grenzen bereits besser wahrnehmen können, aber Schwierigkeiten haben, sie klar auszusprechen und auch dann bei ihnen zu bleiben, wenn das Gegenüber darauf reagiert. Das E-Book zeigt Schritt für Schritt, wie eine klare und beziehungsfreundliche Grenze aufgebaut und kommuniziert werden kann. Es geht um die kon…
+**Vendor's marketplace description:** <p>Das E-Book „Grenzen setzen &amp; Nein sagen lernen“ richtet sich an Menschen, die ihre eigenen Grenzen bereits besser wahrnehmen können, aber Schwierigkeiten haben, sie klar auszusprechen und auch dann bei ihnen zu bleiben, wenn das Gegenüber darauf reagiert.</p>
+<p>Das E-Book zeigt Schritt für Schritt, wie eine klare und beziehungsfreundliche Grenze aufgebaut und kommuniziert werden kann. Es geht um die konkrete Sprache beim Grenzen setzen, den Unterschied zwischen Bitte, Forderung und Grenze sowie um Timing und Selbstregulation. Auch typische Situationen aus dem Alltag und der Umgang mit Schuldumkehr, Rechtfertigungsdruck, Rückzug oder Angriff werden behandelt. Ein weiterer Schwerpunkt liegt darauf, gesetzte Grenzen tatsächlich zu halten und schwierige Situationen zu reparieren, wenn eine Grenze zu hart oder verletzend formuliert wurde.<br />Das E-Book eignet sich zur Bewerbung bei einer Zielgruppe, die lernen möchte, ihre Grenzen klarer zu kommunizieren, Nein zu sagen und auch bei unangenehmen Reaktionen des Gegenübers bei der eigenen Grenze zu bleiben.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58433/adminstore/
 - Sales page: https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/
 - Canonical redirect: https://www.digistore24.com/redir/678845/adminstore
 
@@ -79,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grenzen setzen und Nein sagen lernen? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

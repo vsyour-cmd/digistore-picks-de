@@ -4,34 +4,34 @@ digistore24_product_id: 24675
 title: "Neurostreams™ Antriebswellen"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.72
+earnings_per_sale: 12.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2014-04-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://www.neurostreams.de/portfolio/antriebswellen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47013/adminstore/"
 sales_page: "http://www.neurostreams.de/portfolio/antriebswellen"
 language: "de"
 ---
 # Neurostreams™ Antriebswellen
 
 > Product ID `47013` · Digistore24 productId `24675` · [HTML profile page](../../produkte/neurostreams-antriebswellen-47013.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.72 |
+| Earnings/sale* | $12.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 40 wachmachende Neurostreams 10 mal "Sturm und Drang" - gegen Antriebslosigkeit (je 15 min) 10 mal "Pure Lebendigkeit" - putscht dich auf (je 15 min) 10 mal "Frühaufsteherbelohnung" - macht dich wach (je 15 min) Bonus: 10 mal "Gamma Hammer" - erzeugt gute Laune (je 30 min) Sofort-Download. Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört we…
+**Vendor's marketplace description:** <p>40 wachmachende Neurostreams</p>
+<ul>
+<li>10 mal "Sturm und Drang" - gegen Antriebslosigkeit (je 15 min)</li>
+<li>10 mal "Pure Lebendigkeit" - putscht dich auf (je 15 min)</li>
+<li>10 mal "Frühaufsteherbelohnung" - macht dich wach (je 15 min)</li>
+</ul>
+<p>Bonus: 10 mal "Gamma Hammer" - erzeugt gute Laune (je 30 min)</p>
+<p><strong>Sofort-Download.</strong></p>
+<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
+<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
+<p>Dateigröße: 800 MB</p>
+<p><strong>2 Jahre Produktsupport inklusive.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.neurostreams.de/portfolio/antriebswellen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47013/adminstore/
 - Sales page: http://www.neurostreams.de/portfolio/antriebswellen
 - Vendor affiliate support: https://www.timdaugs.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/24675/adminstore
@@ -81,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Antriebswellen? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2014-04-25
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

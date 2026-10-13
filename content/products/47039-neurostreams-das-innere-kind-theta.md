@@ -4,34 +4,34 @@ digistore24_product_id: 250030
 title: "Neurostreams™ Das innere Kind [THETA]"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 16.01
+price: 15.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.01
+earnings_per_sale: 7.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-11-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.neurostreams.de/portfolio/das-innere-kind/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47039/adminstore/"
 sales_page: "https://www.neurostreams.de/portfolio/das-innere-kind/"
 language: "de"
 ---
 # Neurostreams™ Das innere Kind [THETA]
 
 > Product ID `47039` · Digistore24 productId `250030` · [HTML profile page](../../produkte/neurostreams-das-innere-kind-theta-47039.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.01 (Single payment) |
+| Price | $15.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.01 |
+| Earnings/sale* | $7.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 10 experimentelle Neurostreams™ für die Hilfe bei seelischer Selbst-Heilung. Sofort-Download. Jede dieser abwechslungsreichen 10 Selbstbehandlungen dauert 30 Minuten. Stereo-Kopfhörer empfohlen. Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartp…
+**Vendor's marketplace description:** <p>10 experimentelle Neurostreams™ für die Hilfe bei seelischer Selbst-Heilung.</p>
+<p><strong>Sofort-Download.</strong></p>
+<p>Jede dieser abwechslungsreichen 10 Selbstbehandlungen dauert 30 Minuten.</p>
+<p>Stereo-Kopfhörer empfohlen.</p>
+<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
+<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
+<p><em>Dateigröße: ca. 400 MB</em></p>
+<p><strong>2 Jahre</strong> Produktsupport inklusive.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.neurostreams.de/portfolio/das-innere-kind/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47039/adminstore/
 - Sales page: https://www.neurostreams.de/portfolio/das-innere-kind/
 - Vendor affiliate support: https://www.timdaugs.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/250030/adminstore
@@ -76,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Das innere Kind [THETA]? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2018-11-27
-- Wie viel kostet es? — 16.013374 USD
+- Wie viel kostet es? — 15.977649 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

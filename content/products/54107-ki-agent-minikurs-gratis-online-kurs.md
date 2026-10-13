@@ -4,7 +4,7 @@ digistore24_product_id: 636605
 title: "KI Agent Minikurs (Gratis Online Kurs)"
 vendor: "webpirat"
 product_type: "Member area and video courses"
-price: 5.18
+price: 5.17
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.09
@@ -12,24 +12,24 @@ cart_conversion_pct: 17
 cancel_rate_pct: 3.08
 categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
 listed_since: "2025-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://kiagent.webpirat.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54107/adminstore/"
 sales_page: "https://kiagent.webpirat.de/"
 language: "de"
 ---
 # KI Agent Minikurs (Gratis Online Kurs)
 
 > Product ID `54107` · Digistore24 productId `636605` · [HTML profile page](../../produkte/ki-agent-minikurs-gratis-online-kurs-54107.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $5.18 (Single payment) |
+| Price | $5.17 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.09 |
 | Cart conversion* | 17% |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verdiene 50 % Provision auf alle Add-ons und Order-Bumps! Das Produkt trifft den Zeitgeist: KI-Agenten im Affiliate Marketing – aktuell eines der heißesten Themen überhaupt. Produkt & Launch-Details Hauptprodukt: Mini-Videokurs (5 Lektionen, 20 Minuten) Launch-Phase: ca. 10 Tage für 0 € (Bis 30.09.2025), danach wird der Preis auf 27€ → starke Conversion durch Verknappung Upsells & Order-Bumps: Hoc…
+**Vendor's marketplace description:** <p>Verdiene 50 % Provision auf alle Add-ons und Order-Bumps! Das Produkt trifft den Zeitgeist: KI-Agenten im Affiliate Marketing – aktuell eines der heißesten Themen überhaupt.</p>
+<p><strong>Produkt &amp; Launch-Details</strong></p>
+<p>Hauptprodukt: Mini-Videokurs (5 Lektionen, 20 Minuten)</p>
+<p>Launch-Phase: ca. 10 Tage für 0 € (Bis 30.09.2025), danach wird der Preis auf 27€ → starke Conversion durch Verknappung</p>
+<p>Upsells &amp; Order-Bumps: Hochwertige Add-ons wie „53 KI-Agenten Use Cases“ – 50 % Provision für dich</p>
+<p><strong>Deine Vorteile</strong></p>
+<p>Trend-Thema mit extrem hoher Nachfrage</p>
+<p>Kostenloses Hauptprodukt zieht massenhaft Leads an</p>
+<p>Attraktive Upsells sorgen für direkte Provisionen ab dem ersten Tag</p>
+<p>Preissteigerung nach Launch bringt zusätzlich langfristige Verkäufe</p>
+<p><strong>Fragen?</strong></p>
+<p>Schreib uns gern: info@webpirat.de</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kiagent.webpirat.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54107/adminstore/
 - Sales page: https://kiagent.webpirat.de/
 - Vendor affiliate support: https://www.webpirat.de/werde-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/636605/adminstore
@@ -62,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Agent Minikurs (Gratis Online Kurs)? — Typ: Member area and video courses, Anbieter: webpirat, gelistet seit 2025-09-19
-- Wie viel kostet es? — 5.1771720000000006 USD
+- Wie viel kostet es? — 5.165622000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

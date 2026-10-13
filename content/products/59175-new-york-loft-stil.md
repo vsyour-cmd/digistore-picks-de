@@ -4,34 +4,34 @@ digistore24_product_id: 726402
 title: "New York Loft-Stil"
 vendor: "ramonakrenn923f"
 product_type: "Downloads"
-price: 47.08
+price: 46.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.54
+earnings_per_sale: 23.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/726402?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59175/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/726402"
 language: "de"
 ---
 # New York Loft-Stil
 
 > Product ID `59175` · Digistore24 productId `726402` · [HTML profile page](../../produkte/new-york-loft-stil-59175.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $47.08 (Single payment) |
+| Price | $46.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.54 |
+| Earnings/sale* | $23.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ramonakrenn923f |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb „New York Loft-Stil“ und inspiriere deine Zielgruppe zu einem urbanen Zuhause mit echtem Großstadtflair! Das digitale Produkt zeigt, wie sich markante Materialien, dunkle Farben, offene Raumkonzepte und stilvolle Industrial-Elemente harmonisch kombinieren lassen. Ideal für alle, die den charakteristischen New Yorker Loft-Look Schritt für Schritt in den eigenen vier Wänden umsetzen möchten.
+**Vendor's marketplace description:** <p>Bewirb „New York Loft-Stil“ und inspiriere deine Zielgruppe zu einem urbanen Zuhause mit echtem Großstadtflair! Das digitale Produkt zeigt, wie sich markante Materialien, dunkle Farben, offene Raumkonzepte und stilvolle Industrial-Elemente harmonisch kombinieren lassen. Ideal für alle, die den charakteristischen New Yorker Loft-Look Schritt für Schritt in den eigenen vier Wänden umsetzen möchten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726402?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59175/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/726402
 - Canonical redirect: https://www.digistore24.com/redir/726402/adminstore
 
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist New York Loft-Stil? — Typ: Downloads, Anbieter: ramonakrenn923f, gelistet seit 2026-09-13
-- Wie viel kostet es? — 47.076406 USD
+- Wie viel kostet es? — 46.971381 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

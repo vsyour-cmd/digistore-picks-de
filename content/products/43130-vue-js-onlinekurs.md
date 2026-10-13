@@ -4,16 +4,16 @@ digistore24_product_id: 445691
 title: "Vue JS Onlinekurs"
 vendor: "andreaspabst"
 product_type: "Member area and video courses"
-price: 164.73
+price: 164.36
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 49.42
+earnings_per_sale: 49.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2022-06-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/445691?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/445691"
@@ -22,16 +22,16 @@ language: "de"
 # Vue JS Onlinekurs
 
 > Product ID `43130` · Digistore24 productId `445691` · [HTML profile page](../../produkte/vue-js-onlinekurs-43130.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $164.73 (Single payment, Installment) |
+| Price | $164.36 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $49.42 |
+| Earnings/sale* | $49.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andreaspabst |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vue JS ist derzeit *das beliebteste* Frontend Framework auf dem Markt. Gemeinsam erlernen wir Vue JS, den grundlegenden Aufbau, die Funktionsweise und gehen dann tiefer in die Materie. Erstellen Sie künftig Top-Anwendungen und Apps für das Web. Deine Vorteile - Vue JS 3 (Options API und Composition API)- Bewährtes Seminarkonzept (vuejs-seminar.de) - Theorie und Praxis In diesem umfangreichen Vue J…
+**Vendor's marketplace description:** <p>Vue JS ist derzeit *das beliebteste* Frontend Framework auf dem Markt. Gemeinsam erlernen wir Vue JS, den grundlegenden Aufbau, die Funktionsweise und gehen dann tiefer in die Materie. Erstellen Sie künftig Top-Anwendungen und Apps für das Web.</p>
+<p><strong>Deine Vorteile</strong></p>
+<p>- Vue JS 3 (Options API und Composition API)<br />- Bewährtes Seminarkonzept (<a href="https://www.vuejs-seminar.de" target="_blank" rel="noreferrer noopener">vuejs-seminar.de</a>) <br />- Theorie und Praxis</p>
+<p>In diesem <strong>umfangreichen Vue JS Online Kurs</strong> erhältst Du Kapitel für Kapitel didaktisch aufbereitete Lerninhalte und praktische Übungsbeispiele.</p>
+<p>Lerne von wo Du willst und starte noch heute! Lerne Vue JS Online!</p>
+<p>Wir beginnen mit den Grundlagen und erörtern, wie gewissen Dinge funktionieren. Dann garnieren wir das Modul mit Beispielen und Livecoding und runden es mit Best Practice Beispielen ab.</p>
 
 ## 2. Links
 
@@ -92,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vue JS Onlinekurs? — Typ: Member area and video courses, Anbieter: andreaspabst, gelistet seit 2022-06-06
-- Wie viel kostet es? — 164.72820000000002 USD
+- Wie viel kostet es? — 164.3607 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

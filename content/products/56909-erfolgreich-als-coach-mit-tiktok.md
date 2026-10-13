@@ -4,34 +4,34 @@ digistore24_product_id: 701342
 title: "Erfolgreich als Coach mit TikTok"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-tiktok?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/56909/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-tiktok"
 language: "de"
 ---
 # Erfolgreich als Coach mit TikTok
 
 > Product ID `56909` · Digistore24 productId `701342` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-tiktok-56909.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du mit kurzen Videos Vertrauen aufbaust, Leads gewinnst und Kunden buchst TikTok hat den kürzesten Weg vom Erstkontakt zur Buchung, den es im Social Media gibt – vorausgesetzt, du weißt, wie du deinen Funnel baust. Dieses E-Book zeigt dir, wie du als Coach in 30 bis 60 Sekunden Mehrwert lieferst, ohne dein gesamtes Wissen zu verschenken, und wie du jeden Zuschauer sanft Richtung Bio-Link und E…
+**Vendor's marketplace description:** <p><strong>Wie du mit kurzen Videos Vertrauen aufbaust, Leads gewinnst und Kunden buchst</strong></p>
+<p>TikTok hat den kürzesten Weg vom Erstkontakt zur Buchung, den es im Social Media gibt – vorausgesetzt, du weißt, wie du deinen Funnel baust. Dieses E-Book zeigt dir, wie du als Coach in 30 bis 60 Sekunden Mehrwert lieferst, ohne dein gesamtes Wissen zu verschenken, und wie du jeden Zuschauer sanft Richtung Bio-Link und Erstgespräch führst. Du lernst, wie du Serienformate aufbaust, die Menschen immer wiederkommen lassen, wie du Lead-Magnete in deiner Bio platzierst und wie du TikTok-Inhalte systematisch wiederverwendest. Statt für Viral-Zufall zu hoffen, baust du ein stabiles Awareness-System, das täglich neue Menschen in deinen Funnel bringt.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>TikTok-Funnel aufbauen: von der For-You-Page zum Erstgespräch</li>
+<li>Mehrwert geben ohne alles zu verschenken – das richtige Teilen-Verhältnis</li>
+<li>Serienformate, die dein Publikum Woche für Woche zurückbringt</li>
+<li>Bio-Link &amp; Lead-Magnet: so konvertierst du Zuschauer zu Leads</li>
+<li>Hooks für Coaches: Expertise in 1–2 Sekunden sichtbar machen</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-tiktok?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/56909/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-tiktok
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701342/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit TikTok? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

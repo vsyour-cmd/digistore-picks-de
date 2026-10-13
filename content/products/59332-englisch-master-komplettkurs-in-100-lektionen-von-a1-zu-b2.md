@@ -4,16 +4,16 @@ digistore24_product_id: 734523
 title: "Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2"
 vendor: "nowdigitalproducts"
 product_type: "Downloads"
-price: 18.74
+price: 18.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.37
+earnings_per_sale: 9.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/734523?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/734523"
@@ -22,16 +22,16 @@ language: "de"
 # Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2
 
 > Product ID `59332` · Digistore24 productId `734523` · [HTML profile page](../../produkte/englisch-master-komplettkurs-in-100-lektionen-von-a1-zu-b2-59332.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.74 (Single payment) |
+| Price | $18.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.37 |
+| Earnings/sale* | $9.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nowdigitalproducts |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Meistere die englische Sprache mit System, Struktur und pädagogischer Perfektion! Dieser professionelle Englisch Master-Komplettkurs führt dich Schritt für Schritt von den Grundlagen (Niveau A1) bis zu verhandlungssicherem Englisch (Niveau B2). Entwickelt nach modernsten didaktischen Standards, verbindet der Kurs fundierte Sprachwissenschaft mit praxisnaher Didaktik – ideal für Beruf, Reise und Al…
+**Vendor's marketplace description:** <p><strong>Meistere die englische Sprache mit System, Struktur und pädagogischer Perfektion!</strong></p>
+<p>Dieser professionelle <strong>Englisch Master-Komplettkurs</strong> führt dich Schritt für Schritt von den Grundlagen (Niveau A1) bis zu verhandlungssicherem Englisch (Niveau B2). Entwickelt nach modernsten didaktischen Standards, verbindet der Kurs fundierte Sprachwissenschaft mit praxisnaher Didaktik – ideal für Beruf, Reise und Alltag.</p>
+<p><strong>Deine Highlights im Überblick:</strong></p>
+<ul>
+<li>
+<p><strong>100 Durchdachte Lektionen:</strong> Aufgeteilt in 4 aufeinander aufbauende Module für einen nahtlosen Lernerfolg.</p>
+</li>
+<li>
+<p><strong>Umfassendes Master-PDF Begleitbuch:</strong> Alle 100 Lektionen kompakt aufbereitet inklusive 20-Fragen-Abschluss-Quiz und detailliertem Lösungsschlüssel mit Erklärungen.</p>
+</li>
+<li>
+<p><strong>Interaktives Studio-Quiz (App):</strong> Teste dein Wissen direkt im Browser, erhalte sofortige Auswertungen und verfolge deine Lernfortschritte live.</p>
+</li>
+</ul>
+<p><strong>Starte jetzt und bringe dein Englisch auf echtes Master-Niveau!</strong></p>
 
 ## 2. Links
 
@@ -71,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Englisch Master-Komplettkurs: In 100 Lektionen von A1 zu B2? — Typ: Downloads, Anbieter: nowdigitalproducts, gelistet seit 2026-09-17
-- Wie viel kostet es? — 18.736432 USD
+- Wie viel kostet es? — 18.694632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

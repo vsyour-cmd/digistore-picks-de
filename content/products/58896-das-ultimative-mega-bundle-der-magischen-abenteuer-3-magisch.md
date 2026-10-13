@@ -4,16 +4,16 @@ digistore24_product_id: 728676
 title: "Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch"
 vendor: "a968403496d45"
 product_type: "Downloads"
-price: 22.4
+price: 22.35
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 15.68
+earnings_per_sale: 15.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/728676?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/728676"
@@ -22,16 +22,16 @@ language: "de"
 # Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch
 
 > Product ID `58896` · Digistore24 productId `728676` · [HTML profile page](../../produkte/das-ultimative-mega-bundle-der-magischen-abenteuer-3-magisch-58896.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.40 (Single payment) |
+| Price | $22.35 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $15.68 |
+| Earnings/sale* | $15.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | a968403496d45 |
@@ -41,7 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das ultimative magische Abenteuer-Mega-Bundle – 3 Geschichten- & 3 Malbücher ✨ Eine riesige Sammlung voller magischer Abenteuer, Kreativität und Spaß! Bieten Sie Kindern im Alter von 5–9 Jahren stundenlangen, bildschirmfreien Unterhaltungsspaß mit diesem ultimativen 6-Bücher-Mega-Bundle. Es kombiniert herzerwärmende Tierabenteuer mit kreativen Malvorlagen auf insgesamt 258 Seiten voller purer Freu…
+**Vendor's marketplace description:** <div>
+<h1><strong>Das ultimative magische Abenteuer-Mega-Bundle – 3 Geschichten- &amp; 3 Malbücher</strong></h1>
+<div><strong>✨ Eine riesige Sammlung voller magischer Abenteuer, Kreativität und Spaß!</strong></div>
+<br />
+<div>Bieten Sie Kindern im Alter von 5–9 Jahren stundenlangen, bildschirmfreien Unterhaltungsspaß mit diesem ultimativen 6-Bücher-Mega-Bundle. Es kombiniert herzerwärmende Tierabenteuer mit kreativen Malvorlagen auf insgesamt 258 Seiten voller purer Freude.</div>
+<br />
+<div><strong>◻ Produkttyp:</strong> 100 % digitaler Download (Sofortige Lieferung – kein physischer Versand erforderlich)</div>
+<br />
+<div><strong>◻ Was ist enthalten (258 Seiten insgesamt):</strong></div>
+<br />
+<ol>
+<li>
+<div><strong>Toby der mutige kleine Löwe</strong> (43-seitiges Geschichtenbuch + 35-seitiges Malbuch)</div>
+</li>
+<li>
+<div><strong>Das Geheimnis des magischen Baumes</strong> (53-seitiges Geschichtenbuch + 40-seitiges Malbuch)</div>
+</li>
+<li>
+<div><strong>Die Reise der drei Freunde zum goldenen Beerenbaum</strong> (47-seitiges Geschichtenbuch + 40-seitiges Malbuch)</div>
+</li>
+</ol>
+<div> </div>
+</div>
 
 ## 2. Links
 
@@ -80,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das ultimative Mega-Bundle der magischen Abenteuer 3 magisch? — Typ: Downloads, Anbieter: a968403496d45, gelistet seit 2026-09-03
-- Wie viel kostet es? — 22.400793999999998 USD
+- Wie viel kostet es? — 22.350819 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

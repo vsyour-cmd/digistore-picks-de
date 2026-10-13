@@ -4,34 +4,34 @@ digistore24_product_id: 685840
 title: "High Frequency Kongress 6 - VIP Paket und Bundle"
 vendor: "kongresshero"
 product_type: "Member area and video courses"
-price: 131.11
+price: 130.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 65.56
+earnings_per_sale: 65.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-06-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/685840?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57049/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/685840"
 language: "de"
 ---
 # High Frequency Kongress 6 - VIP Paket und Bundle
 
 > Product ID `57049` · Digistore24 productId `685840` · [HTML profile page](../../produkte/high-frequency-kongress-6-vip-paket-und-bundle-57049.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $131.11 (Single payment, Installment) |
+| Price | $130.82 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $65.56 |
+| Earnings/sale* | $65.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kongresshero |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Viele Menschen haben in den letzten Monaten erlebt, wie Ihre Frequenz massiv nach unten ging.Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut. Wie können wir diese Entwicklung stoppen und umdrehen? Die Antwort auf diese spannende Frage findest du beim High Frequency Kongress 6! ✨
+**Vendor's marketplace description:** <p>Viele Menschen haben in den letzten Monaten erlebt, wie Ihre Frequenz massiv nach unten ging.<br />Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut.</p>
+<p><strong>Wie können wir diese Entwicklung stoppen und umdrehen?</strong></p>
+<p>Die Antwort auf diese spannende Frage findest du beim <strong>High Frequency Kongress 6! ✨</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/685840?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57049/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/685840
 - Vendor affiliate support: https://www.highfrequency6.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/685840/adminstore
@@ -86,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist High Frequency Kongress 6 - VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: kongresshero, gelistet seit 2026-06-18
-- Wie viel kostet es? — 131.1102 USD
+- Wie viel kostet es? — 130.8177 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

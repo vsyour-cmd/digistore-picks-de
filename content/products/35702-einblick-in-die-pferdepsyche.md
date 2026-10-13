@@ -4,16 +4,16 @@ digistore24_product_id: 362085
 title: "Einblick in die Pferdepsyche"
 vendor: "ChristianeGoebel"
 product_type: "Downloads"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.72
+earnings_per_sale: 12.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-12-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://christiane-goebel.de/Unterricht-und-Kurse/Einblick-in-die-Pferdepsyche/?aff=adminstore#aff=adminstore"
 sales_page: "https://christiane-goebel.de/Unterricht-und-Kurse/Einblick-in-die-Pferdepsyche/"
@@ -22,16 +22,16 @@ language: "de"
 # Einblick in die Pferdepsyche
 
 > Product ID `35702` · Digistore24 productId `362085` · [HTML profile page](../../produkte/einblick-in-die-pferdepsyche-35702.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.72 |
+| Earnings/sale* | $12.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ChristianeGoebel |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** + über 3 Stunden Seminar aufgezeichnet + verschiedene Pferdepersönlichkeiten + verschiedene Menschenpersönlichkeiten + eine Alternative für das Liveseminar Ausführliche Infos hier(klicken)
+**Vendor's marketplace description:** <p>+ über 3 Stunden Seminar aufgezeichnet </p>
+<p>+ verschiedene Pferdepersönlichkeiten</p>
+<p>+ verschiedene Menschenpersönlichkeiten</p>
+<p>+ eine Alternative für das Liveseminar</p>
+<p> </p>
+<p>Ausführliche Infos <a href="https://www.christiane-goebel.de/Horsemanshipkurse/Einblick-in-die-Pferdepsyche/" target="_blank" rel="noreferrer noopener">hier(klicken)</a> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -69,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einblick in die Pferdepsyche? — Typ: Downloads, Anbieter: ChristianeGoebel, gelistet seit 2020-12-09
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

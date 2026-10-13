@@ -4,34 +4,34 @@ digistore24_product_id: 432689
 title: "Ernährungsplan mit den leckersten Rezepte für die Keto Diät"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 31.41
+price: 31.34
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 25.12
+earnings_per_sale: 25.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2022-03-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.meinneuerlifestyle.vip/buch-neu-affiliates-2-2/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39343/adminstore/"
 sales_page: "https://www.meinneuerlifestyle.vip/buch-neu-affiliates-2-2/"
 language: "de"
 ---
 # Ernährungsplan mit den leckersten Rezepte für die Keto Diät
 
 > Product ID `39343` · Digistore24 productId `432689` · [HTML profile page](../../produkte/ern-hrungsplan-mit-den-leckersten-rezepte-f-r-die-keto-di-t-39343.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.41 (Single payment) |
+| Price | $31.34 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $25.12 |
+| Earnings/sale* | $25.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verkaufe unseren Bestseller in der Abnhem Branche! Ernährunsplan für die Ketogene Diät! Du bekommst hier: ✅ Die leckersten Rezepte zum abnehmen ✅ Einkaufsliste für alle Rezepte ✅ Tipps und Tricks für die Ketogene Diät ✅ und noch vieles mehr ✅ 5BS? ist natürlich erlaubt Du bekommst 80 % Provision (ca. 2,80 Euro Netto) auf das E-Book !!!
+**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Verkaufe unseren Bestseller in der Abnhem Branche!</strong></span></p>
+<p><span style="background-color:#ffff00;"><strong>Ernährunsplan für die Ketogene Diät!</strong></span></p>
+<p> </p>
+<p><strong>Du bekommst hier:</strong></p>
+<ul>
+<li><strong>✅ Die leckersten Rezepte zum abnehmen</strong></li>
+<li><strong>✅ Einkaufsliste für alle Rezepte</strong></li>
+<li><strong>✅ Tipps und Tricks für die Ketogene Diät</strong></li>
+<li><strong>✅ und noch vieles mehr</strong><strong> </strong></li>
+<li><strong>✅  5BS? ist natürlich erlaubt</strong></li>
+</ul>
+<p> </p>
+<p><span style="background-color:#ffff00;"><strong>Du bekommst 80 % Provision (ca. 2,80 Euro Netto) auf das E-Book !!!</strong></span></p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/buch-neu-affiliates-2-2/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39343/adminstore/
 - Sales page: https://www.meinneuerlifestyle.vip/buch-neu-affiliates-2-2/
 - Canonical redirect: https://www.digistore24.com/redir/432689/adminstore
 
@@ -66,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ernährungsplan mit den leckersten Rezepte für die Keto Diät? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-03-04
-- Wie viel kostet es? — 31.410418000000004 USD
+- Wie viel kostet es? — 31.340343000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

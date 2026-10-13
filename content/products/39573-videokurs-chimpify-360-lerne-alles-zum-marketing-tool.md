@@ -4,34 +4,34 @@ digistore24_product_id: 399782
 title: "Videokurs Chimpify 360° – Lerne alles zum Marketing-Tool"
 vendor: "janschulzesiebert"
 product_type: "Member area and video courses"
-price: 279.03
+price: 278.41
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 27.9
+earnings_per_sale: 27.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2021-07-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.inboundly.de/kurs-chimpify-360/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39573/adminstore/"
 sales_page: "https://www.inboundly.de/kurs-chimpify-360/"
 language: "de"
 ---
 # Videokurs Chimpify 360° – Lerne alles zum Marketing-Tool
 
 > Product ID `39573` · Digistore24 productId `399782` · [HTML profile page](../../produkte/videokurs-chimpify-360-lerne-alles-zum-marketing-tool-39573.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.03 (Single payment) |
+| Price | $278.41 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $27.90 |
+| Earnings/sale* | $27.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | janschulzesiebert |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lerne, wie du eigenmächtig deine Website in Chimpify erstellen und professionell nutzen kannst. Chimpify ist ein starkes Markting-Tool, mit welchem du deine Website so aufbaust, dass du nachhaltig Neukunden gewinnen kannst. Die Funktionen sind dabei umfassend und teilweise sehr im Detail. Mit dem Videokurs Chimpify 360° befähigen wir die Nutzer von Chimpify, besser mit dem Tool zu arbeiten. Zielgr…
+**Vendor's marketplace description:** <h2>Lerne, wie du eigenmächtig deine Website in Chimpify erstellen und professionell nutzen kannst. </h2>
+<p>Chimpify ist ein starkes Markting-Tool, mit welchem du deine Website so aufbaust, dass du nachhaltig Neukunden gewinnen kannst.</p>
+<p>Die Funktionen sind dabei umfassend und teilweise sehr im Detail. </p>
+<p>Mit dem Videokurs Chimpify 360° befähigen wir die Nutzer von Chimpify, besser mit dem Tool zu arbeiten. </p>
+<div>
+<h2>Zielgruppe: </h2>
+<ul>
+<li>Nutzer der Software <a href="https://www.chimpify.de" target="_blank" rel="noreferrer noopener">Chimpify</a></li>
+<li>Selbstständige, die ihre Website selbst betreuen wollen </li>
+<li>User, die keine Lust mehr auf Wordpress haben, weil es zu technisch und kompliziert ist </li>
+</ul>
+<h2>Wer sind wir?</h2>
+<p>Der Onlinekurs wurde von Jan Siebert von Inboundly erstellt. <a href="https://www.inboundly.de" target="_blank" rel="noreferrer noopener">Inboundly</a> ist die #1 Chimpify Agentur und unterstützt User darin, das beste aus der Software herauszuholen, um ein erfolgreiches Online Business aufzubauen. </p>
+<p>Werde Teil und arbeite mit uns als Affiliate zusammen! </p>
+<p> </p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.inboundly.de/kurs-chimpify-360/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39573/adminstore/
 - Sales page: https://www.inboundly.de/kurs-chimpify-360/
 - Vendor affiliate support: https://www.inboundly.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/399782/adminstore
@@ -108,7 +123,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs Chimpify 360° – Lerne alles zum Marketing-Tool? — Typ: Member area and video courses, Anbieter: janschulzesiebert, gelistet seit 2021-07-27
-- Wie viel kostet es? — 279.0294 USD
+- Wie viel kostet es? — 278.4069 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

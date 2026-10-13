@@ -4,34 +4,34 @@ digistore24_product_id: 97361
 title: "Happy Money Girl Bootcamp"
 vendor: "NadjaHorlacher"
 product_type: "Member area and video courses"
-price: 104.53
+price: 104.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 52.26
+earnings_per_sale: 52.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2016-09-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://nadjahorlacher.com/bootcamp/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41911/adminstore/"
 sales_page: "https://nadjahorlacher.com/bootcamp/"
 language: "de"
 ---
 # Happy Money Girl Bootcamp
 
 > Product ID `41911` · Digistore24 productId `97361` · [HTML profile page](../../produkte/happy-money-girl-bootcamp-41911.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $104.53 (Single payment) |
+| Price | $104.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $52.26 |
+| Earnings/sale* | $52.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NadjaHorlacher |
@@ -41,11 +41,38 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Happy Money Girl Bootcamp ⚡MELDE DICH HEUTE FÜR DAS GELD-BOOTCAMP AN!⚡️ Deine Money Bootcamp-Anmeldung beinhaltet: - Ein exklusiver Mitgliederbereich mit wertvollen Kursen, die dir die Geheimnisse zum Thema Geld verraten. - alles, was du brauchst, um einfach und schnell mehr zu erreichen - eine genaue Schritt für Schritt Anleitung in deine finanzielle Sicherheit. - ständig ergänzt mit neuen Inhalt…
+**Vendor's marketplace description:** <p>Happy Money Girl Bootcamp </p>
+<p><br />⚡MELDE DICH HEUTE FÜR DAS GELD-BOOTCAMP AN!⚡️</p>
+<p><br />Deine Money Bootcamp-Anmeldung beinhaltet:</p>
+<p>- Ein exklusiver Mitgliederbereich mit wertvollen Kursen, die dir die Geheimnisse zum Thema Geld verraten.</p>
+<p>- alles, was du brauchst, um einfach und schnell mehr zu erreichen</p>
+<p>- eine genaue Schritt für Schritt Anleitung in deine finanzielle Sicherheit. </p>
+<p>- ständig ergänzt mit neuen Inhalten</p>
+<p>- Du erreichst so ganz einfach alles, was du erreichen möchtest</p>
+<p><strong>--&gt; Mehr Geld, mehr Lebensqualität, mehr Zeit für dich und deine Lieben, einfach mehr vom Leben. </strong></p>
+<p> </p>
+<p>Happy Money Bootcamp - Inhalt</p>
+<p>Happy Money Girl "Starter"</p>
+<p>Happy Money Girl "Runner"</p>
+<p>Happy Money Girl "Invest"</p>
+<p>Happy Money Girl "Business"</p>
+<p>Happs Money Girl "Mindset"</p>
+<p> </p>
+<p>Sowie diverse weitere Bonuskurse.</p>
+<p><strong>Und als Haupbonus "Nadja's Jahresplan" im Wert von 79,90 €</strong>"</p>
+<p> </p>
+<p>14 Tage Geld-Zurück-Garantie</p>
+<p> </p>
+<p> </p>
+<p><strong>Feedback</strong></p>
+<p>Was sagt eine Kundin bei Youtube über meinen Memberbereich:</p>
+<p>***Ich bin in Nadja's Money Bootcamp und bin absolut begeistert. Sehr übersichtlich und informativ. Ich bereue keinen Cent und kann es jedem nur empfehlen. ❤️***</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nadjahorlacher.com/bootcamp/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41911/adminstore/
 - Sales page: https://nadjahorlacher.com/bootcamp/
 - Vendor affiliate support: https://www.facebook.com/groups/digitalmarketingmitnadjahorlacher
 - Canonical redirect: https://www.digistore24.com/redir/97361/adminstore
@@ -67,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Happy Money Girl Bootcamp? — Typ: Member area and video courses, Anbieter: NadjaHorlacher, gelistet seit 2016-09-28
-- Wie viel kostet es? — 104.52956800000001 USD
+- Wie viel kostet es? — 104.29636800000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

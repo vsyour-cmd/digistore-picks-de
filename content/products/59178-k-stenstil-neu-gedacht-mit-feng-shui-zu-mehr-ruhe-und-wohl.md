@@ -4,16 +4,16 @@ digistore24_product_id: 721962
 title: "Küstenstil neu gedacht - Mit Feng Shui zu mehr Ruhe und Wohl"
 vendor: "ramonakrenn923f"
 product_type: "Downloads"
-price: 23.53
+price: 23.48
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.77
+earnings_per_sale: 11.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/721962?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/721962"
@@ -22,16 +22,16 @@ language: "de"
 # Küstenstil neu gedacht - Mit Feng Shui zu mehr Ruhe und Wohl
 
 > Product ID `59178` · Digistore24 productId `721962` · [HTML profile page](../../produkte/k-stenstil-neu-gedacht-mit-feng-shui-zu-mehr-ruhe-und-wohl-59178.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.53 (Single payment) |
+| Price | $23.48 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.77 |
+| Earnings/sale* | $11.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ramonakrenn923f |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb „Küstenstil neu gedacht – Mit Feng Shui zu mehr Ruhe und Wohlbefinden“ und inspiriere deine Zielgruppe zu einem harmonischen Zuhause mit entspannter Küstenatmosphäre. Das digitale Produkt verbindet sanfte Farben, natürliche Materialien und moderne Wohnideen mit bewährten Feng-Shui-Grundlagen. Ideal für alle, die ihre Räume stilvoll gestalten und gleichzeitig mehr Ruhe, Leichtigkeit und Wohl…
+**Vendor's marketplace description:** <p>Bewirb „Küstenstil neu gedacht – Mit Feng Shui zu mehr Ruhe und Wohlbefinden“ und inspiriere deine Zielgruppe zu einem harmonischen Zuhause mit entspannter Küstenatmosphäre. Das digitale Produkt verbindet sanfte Farben, natürliche Materialien und moderne Wohnideen mit bewährten Feng-Shui-Grundlagen. Ideal für alle, die ihre Räume stilvoll gestalten und gleichzeitig mehr Ruhe, Leichtigkeit und Wohlbefinden in ihren Alltag bringen möchten.</p>
 
 ## 2. Links
 
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Küstenstil neu gedacht - Mit Feng Shui zu mehr Ruhe und Wohl? — Typ: Downloads, Anbieter: ramonakrenn923f, gelistet seit 2026-09-13
-- Wie viel kostet es? — 23.532600000000002 USD
+- Wie viel kostet es? — 23.4801 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

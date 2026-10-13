@@ -4,16 +4,16 @@ digistore24_product_id: 701406
 title: "Mein erster Skool-Account"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 19.9
+price: 19.86
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.95
+earnings_per_sale: 9.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/mein-erster-skool-account?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/mein-erster-skool-account"
@@ -22,16 +22,16 @@ language: "de"
 # Mein erster Skool-Account
 
 > Product ID `56986` · Digistore24 productId `701406` · [HTML profile page](../../produkte/mein-erster-skool-account-56986.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.90 (Single payment) |
+| Price | $19.86 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.95 |
+| Earnings/sale* | $9.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Von der leeren Gruppe zur aktiven Community mit Kursen, Gamification und echten Mitgliedern Du willst auf Skool starten, weißt aber nicht, wo anfangen? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der Einrichtung deiner Gruppe über das Classroom-Setup bis zum Onboarding deiner ersten Mitglieder. Du lernst, wie das Gamification-System mit Leaderboard und Levels deine Community akt…
+**Vendor's marketplace description:** <p><strong>Von der leeren Gruppe zur aktiven Community mit Kursen, Gamification und echten Mitgliedern</strong></p>
+<p>Du willst auf Skool starten, weißt aber nicht, wo anfangen? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der Einrichtung deiner Gruppe über das Classroom-Setup bis zum Onboarding deiner ersten Mitglieder. Du lernst, wie das Gamification-System mit Leaderboard und Levels deine Community aktiv hält, wie du Kurse strukturierst, die wirklich durchgezogen werden, und warum Skool für Einsteiger eine der einfachsten Plattformen ist, um Wissen professionell anzubieten. Kein technisches Vorwissen nötig: nur ein klarer, umsetzbarer Fahrplan, den du Schritt für Schritt umsetzen kannst. Nach der Lektüre steht dein erster Account – und du weißt, wie du ihn von innen und außen befüllst.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Skool-Account einrichten: Gruppe, Branding und erste Einstellungen</li>
+<li>Classroom aufbauen: Kurse anlegen, Module strukturieren, Inhalte hochladen</li>
+<li>Gamification verstehen: Leaderboard, Levels und Punkte als Aktivierungs-Hebel</li>
+<li>Onboarding-Flow für neue Mitglieder einrichten, der Aktivität erzeugt</li>
+<li>Community von außen befüllen: erste Mitglieder gewinnen ohne Ads</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein erster Skool-Account? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 19.901856000000002 USD
+- Wie viel kostet es? — 19.857456000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

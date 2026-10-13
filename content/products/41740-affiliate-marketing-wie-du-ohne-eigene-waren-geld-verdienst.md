@@ -7,13 +7,13 @@ product_type: "Downloads"
 price: 0
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 4.24
+earnings_per_sale: 4.23
 cart_conversion_pct: 33
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-11-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/tZMJZTGvdSoKcJwCT?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/tZMJZTGvdSoKcJwCT"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Marketing! Wie du ohne eigene Waren Geld verdienst
 
 > Product ID `41740` · Digistore24 productId `468511` · [HTML profile page](../../produkte/affiliate-marketing-wie-du-ohne-eigene-waren-geld-verdienst-41740.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Downloads |
 | Price | $0.00 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $4.24 |
+| Earnings/sale* | $4.23 |
 | Cart conversion* | 33% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate Marketing: ohne eigene Ware, weltweit Geld verdienen! Hier gibt es alles über: ✅ Vorraussetzungen, um Geld zu verdienen ✅ Geld verdienen mit Werbeanzeigen ✅ So meldest Du dich für das Amazon Partnerprogramm an ✅ Deine Verdienstchancen: Affiliate Business - ein guter Weg zum guten Nebeneinkommen? + den Kurs: Affiliate Cash Machine (Wert 97 hier für 0 Euro!) Im Upsell warten über 150 Euro …
+**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Affiliate Marketing: ohne eigene Ware, weltweit Geld verdienen!</strong></span></p>
+<p><strong> Hier gibt es alles über:</strong></p>
+<p><strong>✅  Vorraussetzungen, um Geld zu verdienen </strong></p>
+<p><strong>✅  Geld verdienen mit Werbeanzeigen</strong></p>
+<p><strong>✅  So meldest Du dich für das Amazon Partnerprogramm an</strong></p>
+<p><strong>✅  Deine Verdienstchancen: Affiliate Business - ein guter Weg zum guten Nebeneinkommen?</strong></p>
+<p><span style="background-color:#ffff00;"><strong>+ den Kurs: Affiliate Cash Machine (Wert 97 hier für 0 Euro!)</strong></span></p>
+<p><span style="background-color:#ffff00;"><strong>Im Upsell warten über 150 Euro Netto Provision auf Dich und ein Abo für wiederkehrente Provisionen! Hohe Conversion, da es eine Testwoche gibt (an der Du auch verdienst)!</strong></span></p>
 
 ## 2. Links
 

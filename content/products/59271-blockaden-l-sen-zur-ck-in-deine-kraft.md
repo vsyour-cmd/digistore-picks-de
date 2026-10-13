@@ -4,34 +4,34 @@ digistore24_product_id: 723885
 title: "Blockaden lösen - zurück in Deine Kraft"
 vendor: "StefanieLange"
 product_type: "E-books"
-price: 29.33
+price: 29.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.67
+earnings_per_sale: 14.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://chakra-stark.de/blockaden-loesen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59271/adminstore/"
 sales_page: "https://chakra-stark.de/blockaden-loesen/"
 language: "de"
 ---
 # Blockaden lösen - zurück in Deine Kraft
 
 > Product ID `59271` · Digistore24 productId `723885` · [HTML profile page](../../produkte/blockaden-l-sen-zur-ck-in-deine-kraft-59271.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $29.33 (Single payment) |
+| Price | $29.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.67 |
+| Earnings/sale* | $14.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StefanieLange |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Zurück in Deine Kraft – Blockaden lösen“ ist ein digitales Workbook mit 49 Seiten und 5 energetischen Übungen. Die Leser lernen darin, ihre eigene Energie bewusster wahrzunehmen und zu stärken. Außerdem erhalten sie verschiedene Möglichkeiten, mit inneren Blockaden, Glaubenssätzen, alten Mustern und energetischen Strukturen zu arbeiten. Die Übungen sind so aufgebaut, dass sie selbstständig und je…
+**Vendor's marketplace description:** <p><strong>„Zurück in Deine Kraft – Blockaden lösen“ ist ein digitales Workbook mit 49 Seiten und 5 energetischen Übungen.</strong></p>
+<p>Die Leser lernen darin, ihre eigene Energie bewusster wahrzunehmen und zu stärken. Außerdem erhalten sie verschiedene Möglichkeiten, mit inneren Blockaden, Glaubenssätzen, alten Mustern und energetischen Strukturen zu arbeiten.</p>
+<p>Die Übungen sind so aufgebaut, dass sie selbstständig und je nach Thema immer wieder angewendet werden können.</p>
+<p><strong>Enthalten sind 5 Übungen:</strong></p>
+<ul>
+<li>Energie stärken</li>
+<li>Energie wahrnehmen</li>
+<li>Der Schritt in Deine Kraft</li>
+<li>Blockaden gezielt lösen mit dem inneren Bild</li>
+<li>Die Reise durch Deine Zeitlinie</li>
+</ul>
+<p>Das Workbook richtet sich an Menschen, die sich für Energiearbeit, Aura, Chakren und persönliche Entwicklung interessieren und selbst aktiv mit ihrer Energie arbeiten möchten.</p>
+<p><strong>Verkaufspreis: 28 €</strong><br /><strong>Affiliate-Provision: 50 %</strong></p>
+<p>Für Affiliates stehen fertige Werbetexte, Hooks, Cover, Banner und Pinterest-Pins zur Verfügung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://chakra-stark.de/blockaden-loesen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59271/adminstore/
 - Sales page: https://chakra-stark.de/blockaden-loesen/
 - Vendor affiliate support: https://chakra-stark.de/affiliate-blockaden-loesen/
 - Canonical redirect: https://www.digistore24.com/redir/723885/adminstore
@@ -83,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Blockaden lösen - zurück in Deine Kraft? — Typ: E-books, Anbieter: StefanieLange, gelistet seit 2026-09-16
-- Wie viel kostet es? — 29.326102000000002 USD
+- Wie viel kostet es? — 29.260677000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

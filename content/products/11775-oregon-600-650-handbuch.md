@@ -4,34 +4,34 @@ digistore24_product_id: 67115
 title: "Oregon 600 + 650 Handbuch"
 vendor: "MBMweb"
 product_type: "E-books"
-price: 20.93
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.47
+earnings_per_sale: 10.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2015-12-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://gps-anleitung.de/gps-oregon-600-650-handbuch/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/11775/adminstore/"
 sales_page: "http://gps-anleitung.de/gps-oregon-600-650-handbuch/"
 language: "de"
 ---
 # Oregon 600 + 650 Handbuch
 
 > Product ID `11775` · Digistore24 productId `67115` · [HTML profile page](../../produkte/oregon-600-650-handbuch-11775.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.93 (Single payment) |
+| Price | $20.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.47 |
+| Earnings/sale* | $10.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MBMweb |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Gut laufendes eBook mit weiteren Upsells, die den Umsatz erhöhen. Thema: Garmin GPS Empfänger Oregon 600, 650 Anleitung, Benutzung, Navigation. Zielgruppe: Wanderer, Radfahrer und Outdoor-Leute, die einen Oregon 6x besitzen.
+**Vendor's marketplace description:** <p>Gut laufendes eBook mit weiteren Upsells, die den Umsatz erh&ouml;hen.</p>
+<p>Thema: Garmin GPS Empf&auml;nger Oregon 600, 650 Anleitung, Benutzung, Navigation.</p>
+<p>Zielgruppe: Wanderer, Radfahrer und Outdoor-Leute, die einen Oregon 6x besitzen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://gps-anleitung.de/gps-oregon-600-650-handbuch/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/11775/adminstore/
 - Sales page: http://gps-anleitung.de/gps-oregon-600-650-handbuch/
 - Vendor affiliate support: http://affiliates.michael-bloemeke.de/
 - Canonical redirect: https://www.digistore24.com/redir/67115/adminstore
@@ -94,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Oregon 600 + 650 Handbuch? — Typ: E-books, Anbieter: MBMweb, gelistet seit 2015-12-23
-- Wie viel kostet es? — 20.932808 USD
+- Wie viel kostet es? — 20.886108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

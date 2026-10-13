@@ -4,34 +4,34 @@ digistore24_product_id: 58827
 title: "Körperfeldcoaching Clips - Körperintelligenz nutzen"
 vendor: "doitAkademie"
 product_type: "Member area and video courses"
-price: 214.61
+price: 214.13
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 427.6
+earnings_per_sale: 426.64
 cart_conversion_pct: 4
 cancel_rate_pct: 10.43
 categories: ["Health & Fitness"]
 listed_since: "2015-09-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://bodysense.de/koerperfeldcoaching-clips/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/25913/adminstore/"
 sales_page: "https://bodysense.de/koerperfeldcoaching-clips/"
 language: "de"
 ---
 # Körperfeldcoaching Clips - Körperintelligenz nutzen
 
 > Product ID `25913` · Digistore24 productId `58827` · [HTML profile page](../../produkte/k-rperfeldcoaching-clips-k-rperintelligenz-nutzen-25913.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $214.61 (Single payment, Subscription) |
+| Price | $214.13 (Single payment, Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $427.60 |
+| Earnings/sale* | $426.64 |
 | Cart conversion* | 4% |
 | Cancel rate* | 10.43% |
 | Vendor | doitAkademie |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Körperfeldcoaching Clips verbessern deinen Energiefluß und stärken deine Selbst-Regulationsfähigkeit! Empfehlen Sie unser einzigartiges Produkt für Gesundheit, Heilung, Therapie und Selbstfindung. Ihre Vorteile: Abomodell: 20 % wiederkehrende Provisionen auf Ihre Verkäufe Schnelle und persönliche Unterstützung auf Deutsch durch unser Team Weltweit einzigartiges Produkt ganz auf erforschter wissens…
+**Vendor's marketplace description:** <div>
+<p><strong>Körperfeldcoaching Clips verbessern deinen Energiefluß und stärken deine Selbst-Regulationsfähigkeit!</strong></p>
+<p>Empfehlen Sie unser einzigartiges Produkt für Gesundheit, Heilung, Therapie und Selbstfindung.</p>
+<p>Ihre Vorteile:</p>
+<ul>
+<li>Abomodell: 2<strong>0 %</strong> wiederkehrende Provisionen auf Ihre Verkäufe</li>
+<li>Schnelle und persönliche Unterstützung auf Deutsch durch unser Team</li>
+<li>Weltweit einzigartiges Produkt ganz auf erforschter wissenschaftlicher Grundlage</li>
+<li>Auf unsere Affiliate Support Seite erhalten Sie eine Kurzeinführung, Bilder und E-Mail Texte</li>
+</ul>
+<p><span style="color:#ff0000;"><strong>Hinweis:</strong></span> Nach dem Klick auf <strong>"Jetzt promoten" </strong>erhältst du eine E-Mail von uns. Absender: doitAkademie<strong><br /></strong></p>
+<p><span style="color:#ff0000;"><strong>Bitte bestätige deine E-Mail Adresse</strong></span> mit Klick auf den Link in der E-Mail mit dem Betreff: "Ein Klick fehlt noch..." um weitere Unterstützung und Informationen per E-Mail von uns zu erhalten.</p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://bodysense.de/koerperfeldcoaching-clips/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/25913/adminstore/
 - Sales page: https://bodysense.de/koerperfeldcoaching-clips/
 - Canonical redirect: https://www.digistore24.com/redir/58827/adminstore
 
@@ -97,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Körperfeldcoaching Clips - Körperintelligenz nutzen? — Typ: Member area and video courses, Anbieter: doitAkademie, gelistet seit 2015-09-14
-- Wie viel kostet es? — 214.606106 USD
+- Wie viel kostet es? — 214.127331 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

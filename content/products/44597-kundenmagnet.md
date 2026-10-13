@@ -4,34 +4,34 @@ digistore24_product_id: 500301
 title: "Kundenmagnet"
 vendor: "BusinessEmpowerment"
 product_type: "Member area and video courses"
-price: 119.59
+price: 119.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 59.8
+earnings_per_sale: 59.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-05-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://business-empowerment.eu/kurs-kundenmagnet/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/44597/adminstore/"
 sales_page: "https://business-empowerment.eu/kurs-kundenmagnet/"
 language: "de"
 ---
 # Kundenmagnet
 
 > Product ID `44597` · Digistore24 productId `500301` · [HTML profile page](../../produkte/kundenmagnet-44597.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $119.59 (Single payment) |
+| Price | $119.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $59.80 |
+| Earnings/sale* | $59.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BusinessEmpowerment |
@@ -41,11 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In diesem Kurs lernst du, in deinem Marketing Resonanz zu deinen Traumkunden zu erzeugen anstatt auf Social Media um Aufmerksamkeit zu kämpfen. Dieser Kurs ist für dich, wenn du eine oder mehrere dieser Aussagen innerlich bejahst: Du bist Trainer, Beraterin, Coach, Dienstleisterin oder Therapeut. Du verkaufst eine erklärungsbedürftige Leistung. Du passt in keine der gängigen Standardschubladen. Du…
+**Vendor's marketplace description:** <p><span style="color:#00ccff;">In diesem Kurs lernst du, in deinem Marketing Resonanz zu deinen Traumkunden zu erzeugen anstatt auf Social Media um Aufmerksamkeit zu kämpfen. </span></p>
+<p>Dieser Kurs ist für dich, wenn du eine oder mehrere dieser Aussagen innerlich bejahst:</p>
+<ul>
+<li>Du bist Trainer, Beraterin, Coach, Dienstleisterin oder Therapeut.</li>
+<li>Du verkaufst eine erklärungsbedürftige Leistung.</li>
+<li>Du passt in keine der gängigen Standardschubladen.</li>
+<li>Du machst immer wieder die Erfahrung, dass Kunden den Wert dessen, was du ihnen bietest, gar nicht verstehen.</li>
+<li>Du möchtest mit deiner Arbeit Menschen unterstützen ohne dabei zum Selbstdarsteller oder zum Marktschreier zu werden.</li>
+<li>Du möchtest dich nicht in unzähligen Marketingmaßnahmen auspowern, sondern entspannt die richtigen Kunden gewinnen</li>
+</ul>
+<p>Ich zeige dir:</p>
+<ul>
+<li>wie du ein starkes Resonanzfeld für deine Traumkunden erzeugst,</li>
+<li>wie du aus Mittelmaß und Vergleichbarkeit aussteigst und exzellente Angebote entwickelst, die gesehen, verstanden und gerne gekauft werden,</li>
+<li>wie du in deinem ganzen Denken und Handeln wirksamer wirst</li>
+<li>und auf diese Weise eintrittst in eine mühelose Erfolgsspirale.</li>
+</ul>
+<p>Inhalte:<br />Modul 1: ANZIEHUNGSKRAFT: Dein stabiles Fundament.<br />Du entwickelst Anziehungskraft, indem du die Anstrengung loslässt und dich in deine Selbstwirksamkeit entspannst.<br />Modul 2: ZIELINTELLIGENZ: Weniger tun und mehr bewirken.<br />Du fokussierst deine Energie, anstatt sie zu verzetteln. Das hat Kraft, erzeugt Resonanz und bringt Resultate.<br />Modul 3: WERTSCHÖPFUNG: Geld fließt dahin, wo es sicher ist.<br />Du lässt Mittelmaß und Vergleichbarkeit hinter dir und entwickelst exzellente Angebote, die gerne gekauft werden.<br />Modul 4: RESONANZRAUM: Energie ist der Schlüssel.<br />Du hältst einen Resonanzraum, der deine Traumkunden in dein Feld zieht.<br />Modul 5: ERFOLGSSPIRALE: Wachstum im Innen bringt Wachstum im Außen.<br />Du beginnst, deine (Business-)Realität aktiv zu gestalten.<br />Modul 6: LICHTGESCHWINDIGKEIT: Strategie und Intuition gehören zusammen.<br />Du öffnest die Türe zu deinem vollen Potenzial und bringst es in Einklang mit deinem Business.<br />Zu jedem Thema bekommst du einfache und effektive Tools an die Hand, die du sofort auf deine Unternehmung anwenden kannst.</p>
+<p>Im Paket enthalten sind:<br />5 WORKSHEETS, in denen du das Wesentliche nachlesen und die jeweilige Aufgabe bearbeiten kannst. <br />4 WORKSHOPVIDEOS und 2 BEGLEITVIDEOS mit einer Gesamtlänge von ca. 4 Stunden mit Inspirationen, Praxisbeispielen und Übungen.<br />In den meisten Kursen geht’s darum, was du tun musst, um erfolgreich zu sein.<br />In diesem Kurs geht’s darum, wie du in deinem ganzen Denken und Handeln wirksamer wirst.<br />Und deshalb letztlich auch darum, was du loslassen solltest, damit du erfolgreicher bist. Du wirst also nicht noch mehr tun, sondern weniger, und dafür das Richtige.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://business-empowerment.eu/kurs-kundenmagnet/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/44597/adminstore/
 - Sales page: https://business-empowerment.eu/kurs-kundenmagnet/
 - Canonical redirect: https://www.digistore24.com/redir/500301/adminstore
 
@@ -92,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kundenmagnet? — Typ: Member area and video courses, Anbieter: BusinessEmpowerment, gelistet seit 2023-05-24
-- Wie viel kostet es? — 119.590432 USD
+- Wie viel kostet es? — 119.323632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

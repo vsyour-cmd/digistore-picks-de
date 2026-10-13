@@ -4,34 +4,34 @@ digistore24_product_id: 506679
 title: "Die homöopathische Hausapotheke für Tiere"
 vendor: "PetraSchwarz"
 product_type: "Member area and video courses"
-price: 174.21
+price: 173.82
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 34.84
+earnings_per_sale: 34.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Health & Fitness"]
 listed_since: "2023-07-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://akademie.tierheilpraxis-ps.de/homoeopathischehausapotheke26?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/45409/adminstore/"
 sales_page: "https://akademie.tierheilpraxis-ps.de/homoeopathischehausapotheke26"
 language: "de"
 ---
 # Die homöopathische Hausapotheke für Tiere
 
 > Product ID `45409` · Digistore24 productId `506679` · [HTML profile page](../../produkte/die-hom-opathische-hausapotheke-f-r-tiere-45409.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $174.21 (Single payment, Installment) |
+| Price | $173.82 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $34.84 |
+| Earnings/sale* | $34.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PetraSchwarz |
@@ -41,11 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In dieser 4-teiligen Webinarreihe geht es um die Behandlung von akuten Problemen beim Tier mit dem passenden homöopathischen Mittel. Du lernst wie die Homöopathie entstanden ist und sich entwickelt hat. Du wirst die Basics einer homöopathischen Mittelauswahl und Dosierung lernen und auch was man diesbezüglich unbedingt beachten oder vermeiden sollte. Du kannst nach diesem Webinar verschiedene gäng…
+**Vendor's marketplace description:** <p>In dieser<strong> 4-teiligen Webinarreihe </strong>geht es um die <strong>Behandlung von akuten Problemen beim Tier</strong> mit dem passenden homöopathischen Mittel. </p>
+<p>Du lernst wie die Homöopathie entstanden ist und sich entwickelt hat. Du wirst die Basics einer homöopathischen Mittelauswahl und Dosierung lernen und auch was man diesbezüglich unbedingt beachten oder vermeiden sollte.</p>
+<p>Du kannst nach diesem Webinar verschiedene gängige Potenzen unterscheiden und weißt warum Du eine bestimmte aussuchst.</p>
+<p>Natürlich besprechen wir auch wo man die Mittel am besten kauft und wie man seine Apotheke zusammenstellt und am besten aufbewahrt.</p>
+<p>Und natürlich geht es um die <strong>gängigsten Mittel die akuten Beschwerden nützlich sind.</strong> Es sind ca.<strong> 18 Mittel</strong> die wir im Detail besprechen und noch einige weitere die weniger ausführlich besprochen werden.  </p>
+<p>In der Webinar-Reihe geht es um</p>
+<ul>
+<li>Wunden und Verletzungen</li>
+<li>Lahmheiten</li>
+<li>Probleme im Bewegungsapparat</li>
+<li>Augenprobleme</li>
+<li>Verbrennungen</li>
+<li>Insektenstiche</li>
+<li>Verbrennungen</li>
+<li>Magen/Darm Probleme</li>
+<li>Blasenprobleme</li>
+<li>und einiges andere</li>
+</ul>
+<p>Zusätzlich gibt es ettliche<strong> echte Fälle aus meiner Praxis</strong>, für die wir gemeinsam das passende Mittel erarbeiten und so das gelernte praktisch umsetzen. </p>
+<p>Natürlich bekommst Du auch ein <strong>sehr umfangreiches Skript</strong> !<br /><br />Nach Ende der Reihe findest Du dann auch noch einen Quiz im Kurs, mit dem du das gelernte selbst überprüfen kannst! Da es ja auch ein wenig spannend sein soll, können bei jeder Frage unterschiedlich viele Antworten richtig sein. Wieviele genau und ob es evtl. sogar alle sind, darfst Du selbst herausfinden ;-) </p>
+<p>Viel Spass dabei! </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://akademie.tierheilpraxis-ps.de/homoeopathischehausapotheke26?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/45409/adminstore/
 - Sales page: https://akademie.tierheilpraxis-ps.de/homoeopathischehausapotheke26
 - Canonical redirect: https://www.digistore24.com/redir/506679/adminstore
 
@@ -76,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die homöopathische Hausapotheke für Tiere? — Typ: Member area and video courses, Anbieter: PetraSchwarz, gelistet seit 2023-07-09
-- Wie viel kostet es? — 174.20847600000002 USD
+- Wie viel kostet es? — 173.81982600000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

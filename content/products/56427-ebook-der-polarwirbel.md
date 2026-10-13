@@ -4,34 +4,34 @@ digistore24_product_id: 689551
 title: "Ebook - Der Polarwirbel"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.8
+price: 6.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.41
+earnings_per_sale: 3.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Green Products & Environmental Protection"]
 listed_since: "2026-05-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/689551?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56427/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/689551"
 language: "de"
 ---
 # Ebook - Der Polarwirbel
 
 > Product ID `56427` · Digistore24 productId `689551` · [HTML profile page](../../produkte/ebook-der-polarwirbel-56427.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.80 (Single payment) |
+| Price | $6.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.41 |
+| Earnings/sale* | $3.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochrelevantes Thema mit stark wachsendem Interesse: Extremwetter, Klimawandel und globale Zusammenhänge ziehen enorme Aufmerksamkeit auf sich und sorgen für konstant hohe Nachfrage. Dieses Buch verbindet wissenschaftliche Tiefe mit verständlicher Aufbereitung und trifft damit sowohl wissbegierige Einsteiger als auch interessierte Leser mit Anspruch. Die Kombination aus aktuellen Fallstudien, …
+**Vendor's marketplace description:** <p>Ein hochrelevantes Thema mit stark wachsendem Interesse:</p>
+<p>Extremwetter, Klimawandel und globale Zusammenhänge ziehen enorme Aufmerksamkeit auf sich und sorgen für konstant hohe Nachfrage.</p>
+<p>Dieses Buch verbindet wissenschaftliche Tiefe mit verständlicher Aufbereitung und trifft damit sowohl wissbegierige Einsteiger als auch interessierte Leser mit Anspruch.</p>
+<p>Die Kombination aus aktuellen Fallstudien, realen Auswirkungen und Zukunftsprognosen schafft starke emotionale Trigger und macht den Inhalt besonders teilbar.</p>
+<p>deal für Content ruInd um Klima, Umwelt, Wissenschaft und aktuelle Ereignisse mit hohem Informations- und Diskussionspotenzial.</p>
+<p>Ein Thema mit Dauerpräsenz und hervorragenden Conversion-Chancen im breiten Markt.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689551?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56427/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/689551
 - Canonical redirect: https://www.digistore24.com/redir/689551/adminstore
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Der Polarwirbel? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-02
-- Wie viel kostet es? — 6.802042 USD
+- Wie viel kostet es? — 6.786867000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

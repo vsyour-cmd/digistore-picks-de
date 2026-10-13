@@ -4,34 +4,34 @@ digistore24_product_id: 671247
 title: "Sabines Qigong-Abo mit kostenloser Probewoche als Freebie"
 vendor: "SabineQigong"
 product_type: "Member area and video courses"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.68
+earnings_per_sale: 45.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-06-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57037/adminstore/"
 sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo"
 language: "de"
 ---
 # Sabines Qigong-Abo mit kostenloser Probewoche als Freebie
 
 > Product ID `57037` · Digistore24 productId `671247` · [HTML profile page](../../produkte/sabines-qigong-abo-mit-kostenloser-probewoche-als-freebie-57037.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.34 (Subscription) |
+| Price | $91.14 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.68 |
+| Earnings/sale* | $45.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineQigong |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hallo lieber Affiliate, wenn du dieses Qigong-Abo bewirbst, dann kannst du auf satte 50% Provision pro Verkauf rechnen. Zu jeder Zeit bin ich für dich per Email info@qigongvitalityakademie.de aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel. Brauchst nur Bescheid geben. Besuche über den Link unten auch gerne meine Affiliate Supportseite, …
+**Vendor's marketplace description:** <p>Hallo lieber Affiliate, wenn du dieses Qigong-Abo bewirbst, dann kannst du auf satte </p>
+<p><strong>50% Provision pro Verkauf</strong></p>
+<p>rechnen.</p>
+<p>Zu jeder Zeit bin ich für dich per Email <a href="mailto:info@qigongvitalityakademie.de">info@qigongvitalityakademie.de</a> aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel.</p>
+<p>Brauchst nur Bescheid geben.</p>
+<p>Besuche über den Link unten auch gerne meine <strong>Affiliate Supportseite</strong>, denn dort findest du jede Menge sehr gute und attraktive Werbemittel: Vorlage-Newsletter, Werbebanner in allen Größen,...</p>
+<p><strong>Das bewirbst du:</strong></p>
+<p>Sabines Qigong-Silber Abo, hilfreich bei:</p>
+<ul>
+<li>Rücken- oder Gelenksschmerzen,</li>
+<li>Stress</li>
+<li>Schlafproblemen</li>
+<li>Atembeschwerden oder</li>
+<li>effektive Gesundheitsvorsorge u.v.m.</li>
+</ul>
+<p><strong>Zielgruppe:</strong></p>
+<p>Frauen und Männer <strong>45+</strong>, welche aktiv für ihr Wohlbefinden sorgen und wieder ihre wohlverdiente <strong>körperliche Gesundheit und emotionale Ausgeglichenheit mit Qigong zurückerobern</strong> wollen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57037/adminstore/
 - Sales page: https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo
 - Vendor affiliate support: https://sabine-tukovits-fischer.app.mentortools.com/fur-affiliates-2-2-2
 - Canonical redirect: https://www.digistore24.com/redir/671247/adminstore
@@ -88,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sabines Qigong-Abo mit kostenloser Probewoche als Freebie? — Typ: Member area and video courses, Anbieter: SabineQigong, gelistet seit 2026-06-17
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 714591
 title: "KiFlowPilot WhatsappBot"
 vendor: "SylviaBallheimer"
 product_type: "Software"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 36.53
+earnings_per_sale: 36.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-08-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/714591?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/714591"
@@ -22,16 +22,16 @@ language: "de"
 # KiFlowPilot WhatsappBot
 
 > Product ID `58440` · Digistore24 productId `714591` · [HTML profile page](../../produkte/kiflowpilot-whatsappbot-58440.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $36.53 |
+| Earnings/sale* | $36.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SylviaBallheimer |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** KIFlowPilot ist eine selbst gehostete PHP-Software für Affiliates, Coaches, Berater, Dienstleister und kleine Unternehmen, die Kampagnen, Leads, Affiliate-Links, Terminlinks, Statusinhalte und KI-gestützte Antwortvorschläge zentral verwalten möchten. Mit KIFlowPilot kannst du: • Kampagnen erstellen und verwalten• öffentliche Kampagnenseiten und eine Timeline bereitstellen• Produkt-, Affiliate- und…
+**Vendor's marketplace description:** <p><strong>KIFlowPilot</strong> ist eine selbst gehostete PHP-Software für Affiliates, Coaches, Berater, Dienstleister und kleine Unternehmen, die Kampagnen, Leads, Affiliate-Links, Terminlinks, Statusinhalte und KI-gestützte Antwortvorschläge zentral verwalten möchten.</p>
+<p>Mit <strong>KIFlowPilot</strong> kannst du:</p>
+<p>• Kampagnen erstellen und verwalten<br />• öffentliche Kampagnenseiten und eine Timeline bereitstellen<br />• Produkt-, Affiliate- und Terminlinks einbinden<br />• vorbereitete WhatsApp-Startnachrichten nutzen<br />• Klicks auf Kampagnen-, WhatsApp-, Affiliate- und Kalenderlinks auswerten<br />• Leads und Einwilligungen verwalten<br />• Widerrufe und relevante Vorgänge dokumentieren<br />• Bild- und Textstatusmeldungen vorbereiten und planen<br />• PDF-, DOCX-, TXT- und Markdown-Inhalte als Wissensbasis verwenden<br />• mit einer eigenen OpenAI API KI-gestützte Antwortvorschläge erzeugen<br />• Audit-Logs, Backup- und Wiederherstellungsfunktionen nutzen<br />• System-, Installations- und Release-Prüfungen durchführen</p>
+<p><strong>KIFlowPilot</strong> wird auf deinem eigenen Webhosting installiert. Deine Daten verbleiben in deiner eigenen Datenbank und unter deiner eigenen technischen Kontrolle.</p>
+<p><strong>Wichtig:</strong> Die Standardversion versendet keine WhatsApp-Nachrichten automatisch. Sie erstellt WhatsApp-Startlinks mit vorbereiteten Nachrichten. Der Nutzer öffnet WhatsApp selbst, prüft die Nachricht und versendet sie selbst.</p>
+<p>KI-Ausgaben sind unverbindliche Antwortvorschläge und müssen vor der Verwendung geprüft werden. <strong>KIFlowPilot</strong> ersetzt keine medizinische, rechtliche, steuerliche oder finanzielle Fachberatung.</p>
+<h2>Lieferumfang</h2>
+<p>• KIFlowPilot Version 1.4.9 als Downloadpaket<br />• Einzelplatz-Lizenz für eine produktive Domain<br />• Installationsanleitung<br />• Updateanleitung<br />• Backup- und Restore-Dokumentation<br />• Datenschutz-Betreiber-Checkliste<br />• Release-Testprotokoll<br />• SHA-256-Prüfsummendatei</p>
+<h2>Zahlungsmodell</h2>
+<p>• einmaliger Kaufpreis<br />• kein KIFlowPilot-Abonnement<br />• keine monatliche KIFlowPilot-Grundgebühr</p>
+<p>Nicht enthalten sind Webhosting, Domain, SSL-Einrichtung, OpenAI-Kosten, WhatsApp-Cloud-API-Kosten, SMTP-, Kalender- oder andere Drittanbieterkosten.</p>
+<p>Die Installation, technische Einrichtung, Serverkonfiguration, Datensicherung, rechtliche Prüfung und der laufende Betrieb erfolgen eigenverantwortlich durch den Käufer.</p>
+<h2>Systemvoraussetzungen</h2>
+<p>• PHP 8.3 oder neuer<br />• MySQL oder MariaDB<br />• HTTPS<br />• geeigneter Apache- oder Nginx-Webserver<br />• erforderliche PHP-Erweiterungen<br />• eigene Datenbank<br />• Schreibrechte für die vorgesehenen Systemordner</p>
+<p><strong>KIFlowPilot</strong> stellt technische Funktionen für Einwilligungen, Widerrufe, Exporte, Löschungen und Protokollierung bereit. Die Software garantiert jedoch keine automatische DSGVO-Konformität. Der Betreiber bleibt für Rechtsgrundlagen, Datenschutzinformationen, Löschfristen, Auftragsverarbeiter und die sichere Konfiguration verantwortlich.</p>
 
 ## 2. Links
 
@@ -85,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KiFlowPilot WhatsappBot? — Typ: Software, Anbieter: SylviaBallheimer, gelistet seit 2026-08-18
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

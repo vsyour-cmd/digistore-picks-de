@@ -4,34 +4,34 @@ digistore24_product_id: 711783
 title: "Employer Branding – Außen sichtbar. Innen wirksam."
 vendor: "HRruns"
 product_type: "Member area and video courses"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 19.12
+earnings_per_sale: 19.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Leadership & Management"]
 listed_since: "2026-07-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://andreasguenzel.coachy.net/lp/employer-branding/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57547/adminstore/"
 sales_page: "https://andreasguenzel.coachy.net/lp/employer-branding/"
 language: "de"
 ---
 # Employer Branding – Außen sichtbar. Innen wirksam.
 
 > Product ID `57547` · Digistore24 productId `711783` · [HTML profile page](../../produkte/employer-branding-au-en-sichtbar-innen-wirksam-57547.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $19.12 |
+| Earnings/sale* | $19.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HRruns |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Employer Branding – Außen sichtbar. Innen wirksam.“ ist ein kompakter Online-Impuls für Personalleiter, HR-Manager und HR-Verantwortliche, die ihre Arbeitgebermarke glaubwürdig entwickeln und im Unternehmensalltag wirksam verankern möchten. Die Teilnehmenden erfahren, warum Employer Branding weit über Karriereseiten, Social Media und Recruiting-Kampagnen hinausgeht. Im Mittelpunkt stehen die tats…
+**Vendor's marketplace description:** <p><strong>„Employer Branding – Außen sichtbar. Innen wirksam.“ ist ein kompakter Online-Impuls für Personalleiter, HR-Manager und HR-Verantwortliche, die ihre Arbeitgebermarke glaubwürdig entwickeln und im Unternehmensalltag wirksam verankern möchten.</strong></p>
+<p>Die Teilnehmenden erfahren, warum Employer Branding weit über Karriereseiten, Social Media und Recruiting-Kampagnen hinausgeht. Im Mittelpunkt stehen die tatsächliche Arbeitsrealität, Führung, Unternehmenskultur, HR-Prozesse und die Frage, wie eine glaubwürdige Arbeitgeberpositionierung entsteht.</p>
+<p>Der Online-Impuls verbindet strategische Grundlagen mit konkreten Praxisbeispielen und Erfahrungen aus über 17 Jahren HR-Verantwortung im Mittelstand.</p>
+<p><strong>Das erwartet die Teilnehmenden:</strong></p>
+<p>✅ Rund 60 Minuten kompakter Online-Impuls – flexibel abrufbar<br />✅ 24 Monate Zugriff auf alle Inhalte<br />✅ Handout mit den wichtigsten Kernaussagen zum Download<br />✅ Teilnahmebescheinigung nach erfolgreichem Wissens-Quiz<br />✅ Grundlagen und strategische Bedeutung von Employer Branding<br />✅ Arbeitgeberpositionierung, EVP und glaubwürdige Differenzierung<br />✅ Klare Abgrenzung zwischen Employer Branding und Personalmarketing<br />✅ Praxisnahe Impulse zu Candidate Experience, Onboarding und Mitarbeiterbindung<br />✅ Einordnung der Bedeutung von Führung, Kultur und Employee Journey<br />✅ Kennzahlen und Ansätze zur Messbarkeit von Employer Branding</p>
+<p>Der Online-Impuls eignet sich besonders für eine Zielgruppe aus HR, Personalmanagement, Recruiting, Employer Branding, Führung und Mittelstand.</p>
+<p><strong>Für Affiliates interessant:</strong> eine klar definierte berufliche Zielgruppe, ein aktuelles und praxisnahes HR-Thema sowie ein leicht verständliches Nutzenversprechen: Employer Branding nicht nur nach außen kommunizieren, sondern glaubwürdig von innen heraus entwickeln.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://andreasguenzel.coachy.net/lp/employer-branding/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57547/adminstore/
 - Sales page: https://andreasguenzel.coachy.net/lp/employer-branding/
 - Canonical redirect: https://www.digistore24.com/redir/711783/adminstore
 
@@ -95,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Employer Branding – Außen sichtbar. Innen wirksam.? — Typ: Member area and video courses, Anbieter: HRruns, gelistet seit 2026-07-15
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 352496
 title: "1x1 Floristik - Mit Basiswissen zum Profi"
 vendor: "Elobana"
 product_type: "Member area and video courses"
-price: 127.52
+price: 127.24
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 18.16
+earnings_per_sale: 18.12
 cart_conversion_pct: 13
 cancel_rate_pct: 0.67
 categories: ["Education"]
 listed_since: "2020-10-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://elobana.de/onlinekurs-1x1-floristik-mit-basiswissen-zum-profi/?aff=adminstore#aff=adminstore"
 sales_page: "https://elobana.de/onlinekurs-1x1-floristik-mit-basiswissen-zum-profi/"
@@ -22,16 +22,16 @@ language: "de"
 # 1x1 Floristik - Mit Basiswissen zum Profi
 
 > Product ID `34968` · Digistore24 productId `352496` · [HTML profile page](../../produkte/1x1-floristik-mit-basiswissen-zum-profi-34968.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $127.52 (Single payment) |
+| Price | $127.24 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $18.16 |
+| Earnings/sale* | $18.12 |
 | Cart conversion* | 13% |
 | Cancel rate* | 0.67% |
 | Vendor | Elobana |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein Floristik-Online-Kurs der die aller wichtigsten Grundlagen detaliert und einfach erklärt. Geeignet für: - Azubis der Floristik - Alle die selbst kreativ werden möchten - Alle die gerne etwas neues erlernen möchten - Alle die es sich Zuhause mit ihren eigenen Kreationen gemütlich machen möchten.
+**Vendor's marketplace description:** <p>Ein Floristik-Online-Kurs der die aller wichtigsten Grundlagen detaliert und einfach erklärt.</p>
+<p>Geeignet für:</p>
+<p>- Azubis der Floristik</p>
+<p>- Alle die selbst kreativ werden möchten</p>
+<p>- Alle die gerne etwas neues erlernen möchten</p>
+<p>- Alle die es sich Zuhause mit ihren eigenen Kreationen gemütlich machen möchten.</p>
 
 ## 2. Links
 
@@ -93,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1x1 Floristik - Mit Basiswissen zum Profi? — Typ: Member area and video courses, Anbieter: Elobana, gelistet seit 2020-10-15
-- Wie viel kostet es? — 127.52428 USD
+- Wie viel kostet es? — 127.23978000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

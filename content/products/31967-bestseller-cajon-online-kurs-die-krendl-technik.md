@@ -4,34 +4,34 @@ digistore24_product_id: 278845
 title: "Bestseller: CAJON ONLINE-KURS - Die Krendl Technik"
 vendor: "martin0852"
 product_type: "Member area and video courses"
-price: 136.07
+price: 135.77
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 74.3
+earnings_per_sale: 74.13
 cart_conversion_pct: 6
 cancel_rate_pct: 1.82
 categories: ["Dancing & Music"]
 listed_since: "2019-07-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/278845?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/31967/adminstore/"
 sales_page: "https://www.digistore24.com/product/278845"
 language: "de"
 ---
 # Bestseller: CAJON ONLINE-KURS - Die Krendl Technik
 
 > Product ID `31967` · Digistore24 productId `278845` · [HTML profile page](../../produkte/bestseller-cajon-online-kurs-die-krendl-technik-31967.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $136.07 (Single payment) |
+| Price | $135.77 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $74.30 |
+| Earnings/sale* | $74.13 |
 | Cart conversion* | 6% |
 | Cancel rate* | 1.82% |
 | Vendor | martin0852 |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Star-Trainer Martin Krendl bietet in seinem neuen Cajon-Onlinekurs über 160 Videos zum Erlernen des Musikinstruments: ... in wenigen Stunden ein wirklich cooles Instrument KÖNNEN möchtest ... dein Rhythmusgefühl verbessern und endlich deine Einsätze finden möchtest ... einfach spontan am Lagerfeuer mit deinen Freunden Musik machen möchtest Du bekommst 50% Provision auf den Kurs: Das macht über 75€…
+**Vendor's marketplace description:** <p>Star-Trainer Martin Krendl bietet in seinem neuen Cajon-Onlinekurs über 160 Videos zum Erlernen des Musikinstruments: </p>
+<p><strong>... in wenigen Stunden ein wirklich cooles Instrument KÖNNEN möchtest </strong></p>
+<p><strong>... dein Rhythmusgefühl verbessern und endlich deine Einsätze finden möchtest</strong></p>
+<p><strong>... einfach spontan am Lagerfeuer mit deinen Freunden Musik machen möchtest</strong></p>
+<hr /><h4>Du bekommst 50% Provision auf den Kurs: Das macht über 75€ pro Verkauf!</h4>
+<p>Wenn du Musiker hast, die ihr Rhytmusgefühl verbessern wollen, dann bewirb dieses Produkt und profitiere von der wachsenden Reichweite des Star-Trainers Martin Krendl.</p>
+<p>Er arbeitet mit einer professionellen Werbeagentur zusammen!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/278845?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/31967/adminstore/
 - Sales page: https://www.digistore24.com/product/278845
 - Canonical redirect: https://www.digistore24.com/redir/278845/adminstore
 
@@ -91,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bestseller: CAJON ONLINE-KURS - Die Krendl Technik? — Typ: Member area and video courses, Anbieter: martin0852, gelistet seit 2019-07-10
-- Wie viel kostet es? — 136.07445800000002 USD
+- Wie viel kostet es? — 135.77088300000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

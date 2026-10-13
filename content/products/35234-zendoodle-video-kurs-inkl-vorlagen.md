@@ -4,16 +4,16 @@ digistore24_product_id: 362835
 title: "Zendoodle Video-Kurs inkl. Vorlagen"
 vendor: "DrawTut"
 product_type: "Member area and video courses"
-price: 16.01
+price: 15.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.01
+earnings_per_sale: 7.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-12-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://drawtut.com/de/kurse/zendoodles/?aff=adminstore#aff=adminstore"
 sales_page: "https://drawtut.com/de/kurse/zendoodles/"
@@ -22,16 +22,16 @@ language: "de"
 # Zendoodle Video-Kurs inkl. Vorlagen
 
 > Product ID `35234` · Digistore24 productId `362835` · [HTML profile page](../../produkte/zendoodle-video-kurs-inkl-vorlagen-35234.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $16.01 (Single payment) |
+| Price | $15.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.01 |
+| Earnings/sale* | $7.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrawTut |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein Video-Kurs inkl. Volagen für jeden, der schnell und einfach Zendoodles erlernen will. Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen Vorlagen, Übungsblättern und dazugehöriger Video-Tutorials kann mit diesem Kurs wirklich jeder schnell das Zeichnen von Zendoodles erlernen. Dieser Kurs beinhaltet Zugang zum Video-Kurs mit 8 Übungen (90 Minuten) Vorlagen mit 3 Seiten mit Must…
+**Vendor's marketplace description:** <p>Ein <strong>Video-Kurs inkl. Volagen für jeden, der schnell und einfach Zendoodles erlernen will</strong>. Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen <strong>Vorlagen, Übungsblättern</strong> und dazugehöriger <strong>Video-Tutorials</strong> kann mit diesem Kurs wirklich jeder schnell das Zeichnen von Zendoodles erlernen. </p>
+<p>Dieser Kurs beinhaltet</p>
+<ul>
+<li>Zugang zum Video-Kurs mit 8 Übungen (90 Minuten)</li>
+<li>Vorlagen mit 3 Seiten mit Muster-Beispielen und 3 Vorlagen für Zeichnungen</li>
+</ul>
 
 ## 2. Links
 
@@ -72,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zendoodle Video-Kurs inkl. Vorlagen? — Typ: Member area and video courses, Anbieter: DrawTut, gelistet seit 2020-12-14
-- Wie viel kostet es? — 16.013374 USD
+- Wie viel kostet es? — 15.977649 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

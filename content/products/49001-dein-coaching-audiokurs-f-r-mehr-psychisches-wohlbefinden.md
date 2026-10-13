@@ -4,34 +4,34 @@ digistore24_product_id: 549971
 title: "Dein Coaching-Audiokurs für mehr psychisches Wohlbefinden!"
 vendor: "FriederikeReuver"
 product_type: "Downloads"
-price: 55.56
+price: 55.44
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 11.12
+earnings_per_sale: 11.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2024-04-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/549971?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/49001/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/549971"
 language: "de"
 ---
 # Dein Coaching-Audiokurs für mehr psychisches Wohlbefinden!
 
 > Product ID `49001` · Digistore24 productId `549971` · [HTML profile page](../../produkte/dein-coaching-audiokurs-f-r-mehr-psychisches-wohlbefinden-49001.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $55.56 (Single payment) |
+| Price | $55.44 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $11.12 |
+| Earnings/sale* | $11.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FriederikeReuver |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hey - ich bin Rike, Psychologin (M.Sc.) und Coach und ich habe einen richtig coolen Audiokurs für mehr psychisches Wohlbefinden entwickelt! Er enthält 17 Audio-Übungen (8-12 Minuten), ein digitales Workbook und richtig viel Psychologie- und Coachingwissen! Das vermittelt der Kurs: Achtsamkeit, Selbstmitgefühl, Werte, Umgang mit Gefühlen & Gedanken Ich würde mich mega freuen, wenn du meinen Kurs be…
+**Vendor's marketplace description:** <p>Hey - ich bin Rike, Psychologin (M.Sc.) und Coach und ich habe einen<strong> richtig coolen Audiokurs</strong> für mehr psychisches Wohlbefinden entwickelt! </p>
+<p> </p>
+<p>Er enthält 17 Audio-Übungen (8-12 Minuten), ein digitales Workbook und richtig viel Psychologie- und Coachingwissen!</p>
+<p> </p>
+<p>Das vermittelt der Kurs: Achtsamkeit, Selbstmitgefühl, Werte, Umgang mit Gefühlen &amp; Gedanken </p>
+<p> </p>
+<p>Ich würde mich mega freuen, wenn du meinen Kurs bewirbst! Ganz liebe Grüße, deine Rike </p>
+<p> </p>
+<p><strong>PS: Hier noch ein paar Kundenstimmen zum Kurs:</strong> </p>
+<p><strong>       </strong></p>
+<p>„Wow!!! Richtig tolle Übung! Ich hatte einen richtigen aha-Moment. Man muss die Übungen öfter hören, bis sich das festigt.“ </p>
+<p> </p>
+<p>"Schon die Einführung steckt voller weiser Worte und ich habe auch sie mehrfach wiederholt, obwohl es ja im Kern um die Erklärung von ACT und den Inhalt des Kurses geht. Mir hat es geholfen, sich immer wieder bewusst zu machen, dass wir immer mindestens zwei Alternativen haben, mit Herausforderungen oder unschönen Erlebnissen umzugehen. Der Fokus auf das, was wir beeinflussen können, ist sehr "empowernd""</p>
+<p> </p>
+<p>„Die Achtsamkeitsübung und "Hände als Gedanken" habe ich häufig gemacht; vor allem die Achtsamkeitsübung hilft mir enorm, abends nach einem anstrengenden oder stressigen Tag abzuschalten.“</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/549971?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/49001/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/549971
 - Canonical redirect: https://www.digistore24.com/redir/549971/adminstore
 
@@ -71,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Coaching-Audiokurs für mehr psychisches Wohlbefinden!? — Typ: Downloads, Anbieter: FriederikeReuver, gelistet seit 2024-04-26
-- Wie viel kostet es? — 55.559348 USD
+- Wie viel kostet es? — 55.435398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

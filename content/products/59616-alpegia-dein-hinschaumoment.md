@@ -4,7 +4,7 @@ digistore24_product_id: 736327
 title: "Alpegia - Dein Hinschaumoment"
 vendor: "sunnysoul179362a"
 product_type: "Downloads"
-price: 16.01
+price: 15.98
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.6
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/736327?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/736327"
@@ -22,14 +22,14 @@ language: "de"
 # Alpegia - Dein Hinschaumoment
 
 > Product ID `59616` · Digistore24 productId `736327` · [HTML profile page](../../produkte/alpegia-dein-hinschaumoment-59616.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.01 (Single payment) |
+| Price | $15.98 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.60 |
 | Cart conversion* | — |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Alpegia - Dein Hinschaumoment ist ein digitales Workbook für Menschen, die innehalten, ehrlich hinschauen und mehr Klarheit über ihre aktuelle Lebenssituation gewinnen möchten. Das Workbook begleitet dich Schritt für Schritt durch Selbstreflektion, Bestandsaufnahme, Loslassen, Wünsche, Ängste und Entscheidungen, bis hin zu einem konkreten nächsten Schritt und deinem persönlichen Kompass für den we…
+**Vendor's marketplace description:** <p>Alpegia - Dein Hinschaumoment ist ein digitales Workbook für Menschen, die innehalten, ehrlich hinschauen und mehr Klarheit über ihre aktuelle Lebenssituation gewinnen möchten. </p>
+<p>Das Workbook begleitet dich Schritt für Schritt durch Selbstreflektion, Bestandsaufnahme, Loslassen, Wünsche, Ängste und Entscheidungen, bis hin zu einem konkreten nächsten Schritt und deinem persönlichen Kompass für den weiteren Weg. </p>
+<p>Das Produkt:</p>
+<p>- 42 Seiten inkl. Titelblatt und Bonus</p>
+<p>- digitales PDF Workbook</p>
+<p>- direkt digital mit interaktiven Ausfüllfeldern nutzbar      oder alternativ auch ausdruckbar und handschriftlich      ausfüllbar</p>
+<p>Verkaufspreis: 17,- €</p>
 
 ## 2. Links
 
@@ -71,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Alpegia - Dein Hinschaumoment? — Typ: Downloads, Anbieter: sunnysoul179362a, gelistet seit 2026-09-23
-- Wie viel kostet es? — 16.013374 USD
+- Wie viel kostet es? — 15.977649 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 198891
 title: "Heilige Geometrie - Materialkurs"
 vendor: "AndreasBeutel"
 product_type: "Downloads"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.46
+earnings_per_sale: 18.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2018-02-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://andreas-beutel.tv/heilige-geometrie-materialkurs?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/22445/adminstore/"
 sales_page: "https://andreas-beutel.tv/heilige-geometrie-materialkurs"
 language: "de"
 ---
 # Heilige Geometrie - Materialkurs
 
 > Product ID `22445` · Digistore24 productId `198891` · [HTML profile page](../../produkte/heilige-geometrie-materialkurs-22445.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.46 |
+| Earnings/sale* | $18.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasBeutel |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Von Andreas Beutel Entdecke die Heilige Geometrie mit den richtigen Werkzeugen! Entdecke die Freude an der Geometrie der Natur für Dich! Was Du in diesem Materialkurs bekommst: 1h15 Video in HD Qualität in 6 Kapiteln 1 Bonuskapitel Handhabung des Zirkels (17 min) Mit 4 Kameras aufgenommen für beste Sichtbarkeit Wiederholt abrufbar Das beste praktische Wissen zur Geometrie
+**Vendor's marketplace description:** <div style="text-align:left;">
+<div align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Von Andreas Beutel</span></strong></div>
+<div align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">Entdecke die Heilige Geometrie mit den richtigen Werkzeugen!</span></strong></div>
+</div>
+<p align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Entdecke die Freude an der Geometrie der Natur für Dich! </span></strong></p>
+<h4 class="MsoNormal" style="margin-bottom:0.0001pt;">Was Du in diesem Materialkurs bekommst:</h4>
+<ul style="list-style-type:disc;">
+<li>1h15 Video in HD Qualität in 6 Kapiteln</li>
+<li>1 Bonuskapitel Handhabung des Zirkels (17 min)</li>
+<li>Mit 4 Kameras aufgenommen für beste Sichtbarkeit</li>
+<li>Wiederholt abrufbar</li>
+<li>Das beste praktische Wissen zur Geometrie</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://andreas-beutel.tv/heilige-geometrie-materialkurs?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/22445/adminstore/
 - Sales page: https://andreas-beutel.tv/heilige-geometrie-materialkurs
 - Vendor affiliate support: https://andreas-beutel.tv/affiliate-info/
 - Canonical redirect: https://www.digistore24.com/redir/198891/adminstore
@@ -84,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilige Geometrie - Materialkurs? — Typ: Downloads, Anbieter: AndreasBeutel, gelistet seit 2018-02-05
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

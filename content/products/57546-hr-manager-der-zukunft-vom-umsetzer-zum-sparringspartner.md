@@ -4,16 +4,16 @@ digistore24_product_id: 711579
 title: "HR-Manager der Zukunft – Vom Umsetzer zum Sparringspartner"
 vendor: "HRruns"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 27.69
+earnings_per_sale: 27.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Leadership & Management"]
 listed_since: "2026-07-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://andreasguenzel.coachy.net/lp/hr-manager-der-zukunft?aff=adminstore#aff=adminstore"
 sales_page: "https://andreasguenzel.coachy.net/lp/hr-manager-der-zukunft"
@@ -22,16 +22,16 @@ language: "de"
 # HR-Manager der Zukunft – Vom Umsetzer zum Sparringspartner
 
 > Product ID `57546` · Digistore24 productId `711579` · [HTML profile page](../../produkte/hr-manager-der-zukunft-vom-umsetzer-zum-sparringspartner-57546.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $27.69 |
+| Earnings/sale* | $27.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HRruns |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „HR-Manager der Zukunft“ ist ein kompakter und praxisnaher Online-Impuls für Personalleiter, HR-Manager und erfahrene HR-Fachkräfte, die ihre Rolle strategisch weiterentwickeln und ihren Wertbeitrag im Unternehmen stärken möchten. In rund 60 Minuten erfahren die Teilnehmenden, welche fünf Kompetenzen HR in Zukunft besonders braucht, um sich vom reinen Umsetzer zum Sparringspartner für Geschäftsfüh…
+**Vendor's marketplace description:** <p><strong>„HR-Manager der Zukunft“ ist ein kompakter und praxisnaher Online-Impuls für Personalleiter, HR-Manager und erfahrene HR-Fachkräfte, die ihre Rolle strategisch weiterentwickeln und ihren Wertbeitrag im Unternehmen stärken möchten.</strong></p>
+<p>In rund 60 Minuten erfahren die Teilnehmenden, welche fünf Kompetenzen HR in Zukunft besonders braucht, um sich vom reinen Umsetzer zum Sparringspartner für Geschäftsführung und Führungskräfte weiterzuentwickeln. Der Online-Impuls verbindet aktuelle Zukunftsanforderungen an HR mit konkreten Beispielen und Erfahrungen aus über 17 Jahren HR-Verantwortung im Mittelstand.</p>
+<p><strong>Das erhalten die Käufer:</strong></p>
+<p>✅ Rund 60 Minuten kompakter Online-Impuls – flexibel abrufbar<br />✅ 24 Monate Zugriff auf alle Inhalte<br />✅ Handout mit Kernaussagen, Kennzahlen und ersten Schritten zum Download<br />✅ Teilnahmebescheinigung nach erfolgreichem Wissens-Quiz<br />✅ Praxisnahe Beispiele aus über 17 Jahren HR-Verantwortung im Mittelstand<br />✅ Sofort einsetzbare Werkzeuge wie die Auftragsklärung in 5 Schritten und einfache HR-Kennzahlen<br />✅ Klare Einordnung, wie sich die Rolle von HR in den kommenden Jahren verändert</p>
+<p><strong>Warum ist das Produkt für Affiliates interessant?</strong></p>
+<p>Das Thema richtet sich an eine klar definierte berufliche Zielgruppe aus HR, Personalmanagement, Führung und Mittelstand. Der kompakte Umfang, der unmittelbare Praxisbezug und die klare Positionierung machen den Online-Impuls leicht verständlich und gut kommunizierbar.</p>
+<p>Besonders geeignet ist das Produkt für Affiliates mit einer Zielgruppe aus HR, Personalentwicklung, Führung, Karriere, New Work oder Mittelstand.</p>
 
 ## 2. Links
 
@@ -102,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist HR-Manager der Zukunft – Vom Umsetzer zum Sparringspartner? — Typ: Member area and video courses, Anbieter: HRruns, gelistet seit 2026-07-15
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 531072
 title: "Der umfassende Guide für ganzheitliche Gesundheit"
 vendor: "linus2023"
 product_type: "E-books"
-price: 13.56
+price: 13.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.78
+earnings_per_sale: 6.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Personal Development"]
 listed_since: "2023-12-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/531072?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46627/adminstore/"
 sales_page: "https://www.digistore24.com/product/531072"
 language: "de"
 ---
 # Der umfassende Guide für ganzheitliche Gesundheit
 
 > Product ID `46627` · Digistore24 productId `531072` · [HTML profile page](../../produkte/der-umfassende-guide-f-r-ganzheitliche-gesundheit-46627.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.56 (Single payment) |
+| Price | $13.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.78 |
+| Earnings/sale* | $6.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | linus2023 |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Entdecken Sie in "Lebenskraft und Wohlbefinden: Der umfassende Guide für ganzheitliche Gesundheit" die Geheimnisse eines gesunden Lebens. Dieses E-Book bietet fundiertes Wissen und praktische Tipps zu wichtigen Gesundheitsaspekten – von Ernährung und Fitness bis hin zu mentaler Stärke und Umweltgesundheit. Erfahren Sie, wie Sie Ihre Gesundheit durch bewusste Ernährung und körperliche Aktivität ver…
+**Vendor's marketplace description:** <p style="text-align:center;"><strong><u>Entdecken Sie in "Lebenskraft und Wohlbefinden: Der umfassende Guide für ganzheitliche Gesundheit" die Geheimnisse eines gesunden Lebens.</u></strong></p>
+<p style="text-align:center;">Dieses E-Book bietet fundiertes Wissen und praktische Tipps zu wichtigen <strong><u>Gesundheitsaspekten – von Ernährung und Fitness</u></strong> bis hin zu <u>mentaler Stärke und Umweltgesundheit</u>. Erfahren Sie, wie Sie Ihre <strong>Gesundheit durch bewusste Ernährung</strong> und <u>körperliche Aktivität verbessern</u>, <strong>Stress effektiv bewältigen</strong> und Ihr <strong><u>Immunsystem stärken</u></strong> können.</p>
+<p style="text-align:center;">Mit Kapiteln über <strong><u>Schlaf, Alterspflege, psychische Gesundheit am Arbeitsplatz</u></strong> und vieles mehr, ist dieses Buch ein unverzichtbarer Ratgeber für jeden, der ein gesünderes, ausgeglicheneres Leben anstrebt.</p>
+<p style="text-align:center;">Egal ob Sie Wege zur <u>Stressbewältigung</u> suchen, sich für <strong>Alternativmedizin</strong> interessieren oder sich über die <strong><u>neuesten Gesundheitstrends</u></strong> informieren möchten – dieses Buch hat alles, was Sie brauchen.  </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/531072?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46627/adminstore/
 - Sales page: https://www.digistore24.com/product/531072
 - Canonical redirect: https://www.digistore24.com/redir/531072/adminstore
 
@@ -71,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der umfassende Guide für ganzheitliche Gesundheit? — Typ: E-books, Anbieter: linus2023, gelistet seit 2023-12-22
-- Wie viel kostet es? — 13.55926 USD
+- Wie viel kostet es? — 13.529010000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

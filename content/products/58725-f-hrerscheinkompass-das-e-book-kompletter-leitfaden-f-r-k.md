@@ -4,34 +4,34 @@ digistore24_product_id: 720560
 title: "FührerscheinKompass - Das E-Book: Kompletter Leitfaden für K"
 vendor: "thorstenbahrb86a"
 product_type: "E-books"
-price: 31.31
+price: 31.24
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.39
+earnings_per_sale: 9.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://fuehrerschein-kompass.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58725/adminstore/"
 sales_page: "https://fuehrerschein-kompass.de/"
 language: "de"
 ---
 # FührerscheinKompass - Das E-Book: Kompletter Leitfaden für K
 
 > Product ID `58725` · Digistore24 productId `720560` · [HTML profile page](../../produkte/f-hrerscheinkompass-das-e-book-kompletter-leitfaden-f-r-k-58725.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.31 (Single payment) |
+| Price | $31.24 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.39 |
+| Earnings/sale* | $9.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | thorstenbahrb86a |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der komplette Leitfaden zum Führerschein Klasse B / BF17 als PDF - 5-Phasen-Methode, Kostenwissen, Bedienelemente-Checkliste, Fristen und Behördengänge, Umgang mit Prüfungsangst. Plus Bonus: der Fahrschul-Spickzettel. Sofort nach dem Kauf zum Download.
+**Vendor's marketplace description:** <p>Der komplette Leitfaden zum Führerschein Klasse B / BF17 als PDF - 5-Phasen-Methode, Kostenwissen, Bedienelemente-Checkliste, Fristen und Behördengänge, Umgang mit Prüfungsangst. Plus Bonus: der Fahrschul-Spickzettel. Sofort nach dem Kauf zum Download.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fuehrerschein-kompass.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58725/adminstore/
 - Sales page: https://fuehrerschein-kompass.de/
 - Canonical redirect: https://www.digistore24.com/redir/720560/adminstore
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FührerscheinKompass - Das E-Book: Kompletter Leitfaden für K? — Typ: E-books, Anbieter: thorstenbahrb86a, gelistet seit 2026-08-27
-- Wie viel kostet es? — 31.309564 USD
+- Wie viel kostet es? — 31.239714000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

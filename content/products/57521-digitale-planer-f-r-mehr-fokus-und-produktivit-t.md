@@ -4,34 +4,34 @@ digistore24_product_id: 711127
 title: "Digitale Planer für mehr Fokus und Produktivität"
 vendor: "nick4nders"
 product_type: "Downloads"
-price: 11.3
+price: 11.27
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.78
+earnings_per_sale: 6.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/711127?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57521/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/711127"
 language: "de"
 ---
 # Digitale Planer für mehr Fokus und Produktivität
 
 > Product ID `57521` · Digistore24 productId `711127` · [HTML profile page](../../produkte/digitale-planer-f-r-mehr-fokus-und-produktivit-t-57521.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.30 (Single payment) |
+| Price | $11.27 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.78 |
+| Earnings/sale* | $6.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nick4nders |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Teil von Never Average und unterstütze Menschen dabei, mehr Struktur, Fokus und nachhaltige Gewohnheiten in ihren Alltag zu bringen. Ich entwickle hochwertige digitale Produkte rund um Produktivität, Gewohnheiten und persönliche Entwicklung – darunter Tagesplaner, Reflexionsvorlagen sowie die Never Average App, die Nutzer mit täglichen Check-ins und individuellen Reframings dabei unterstützt…
+**Vendor's marketplace description:** <p><strong>Werde Teil von Never Average und unterstütze Menschen dabei, mehr Struktur, Fokus und nachhaltige Gewohnheiten in ihren Alltag zu bringen.</strong></p>
+<p>Ich entwickle hochwertige digitale Produkte rund um Produktivität, Gewohnheiten und persönliche Entwicklung – darunter Tagesplaner, Reflexionsvorlagen sowie die <strong>Never Average App</strong>, die Nutzer mit täglichen Check-ins und individuellen Reframings dabei unterstützt, langfristig dranzubleiben.</p>
+<p>Neben dem Verkauf über DigiStore24 betreibe ich außerdem einen eigenen Onlineshop. <strong>Affiliate-Rabattcodes</strong> für den Direktverkauf sind ebenfalls möglich und können individuell für unsere Zusammenarbeit eingerichtet werden.</p>
+<p><strong>Ich suche keine kurzfristigen Werbepartner, sondern langfristige Business-Partner</strong>, die meine Vision teilen und gemeinsam mit mir eine starke Marke im Bereich Persönlichkeitsentwicklung aufbauen möchten.</p>
+<p>Wenn du glaubst, dass Never Average zu deiner Community passt oder du Ideen für eine Zusammenarbeit hast, freue ich mich auf deine Nachricht.</p>
+<p><strong>Instagram:</strong> @nick4nders</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/711127?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57521/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/711127
 - Canonical redirect: https://www.digistore24.com/redir/711127/adminstore
 
@@ -75,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Planer für mehr Fokus und Produktivität? — Typ: Downloads, Anbieter: nick4nders, gelistet seit 2026-07-14
-- Wie viel kostet es? — 11.295648 USD
+- Wie viel kostet es? — 11.270448000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

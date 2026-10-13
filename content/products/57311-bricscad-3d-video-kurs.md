@@ -4,34 +4,34 @@ digistore24_product_id: 536946
 title: "BricsCAD 3D Video-Kurs"
 vendor: "CADDeutschland"
 product_type: "Member area and video courses"
-price: 335.06
+price: 334.31
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 67.01
+earnings_per_sale: 66.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-06-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://cad-video.de/bricscad-3d-channel?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57311/adminstore/"
 sales_page: "https://cad-video.de/bricscad-3d-channel"
 language: "de"
 ---
 # BricsCAD 3D Video-Kurs
 
 > Product ID `57311` · Digistore24 productId `536946` · [HTML profile page](../../produkte/bricscad-3d-video-kurs-57311.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $335.06 (Single payment) |
+| Price | $334.31 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $67.01 |
+| Earnings/sale* | $66.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CADDeutschland |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für Einsteiger und Profis Unser Video-Portal richtet sich an alle Anwender, die keine oder wenig Erfahrung mit BricsCAD haben, oder die Ihre Kenntnisse auffrischen möchten. Mit dem Video-Portal erarbeiten Sie sich nicht nur eine solide CAD-Basis, sondern finden auch viele Tipps und Tricks um den CAD-Alltag noch effizienter zu gestalten. Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiede…
+**Vendor's marketplace description:** <h2>Für Einsteiger und Profis</h2>
+<p> </p>
+<p>Unser Video-Portal richtet sich an alle Anwender, die keine oder wenig Erfahrung mit BricsCAD haben, oder die Ihre Kenntnisse auffrischen möchten. Mit dem Video-Portal erarbeiten Sie sich nicht nur eine solide CAD-Basis, sondern finden auch viele Tipps und Tricks um den CAD-Alltag noch effizienter zu gestalten. Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen.</p>
+<p><strong>Fünf Module</strong> führen durch die 3D-Welt von BricsCAD®: Grundlagen der 3D-Navigation, Zeichnen mit Extrusion, Rotation und Manipulator, Ändern mit Booleschen Operationen und Flächenbearbeitung, Schnitte für die Zeichnungsableitung sowie Verformungen wie Ausformungen und Verdrehen.<br /><br /><strong>Ziel: </strong>Sie erstellen, bearbeiten und dokumentieren 3D-Modelle professionell – von der einfachen Grundform bis zum komplexen Bauteil mit Schnitten.<br /><br />Mit dem Paket 3D-Channel des BricsCAD Premium Video-Portals schalten Sie alle Videos des 3D-Channels für 1 Jahr frei und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen.</p>
+<p>Machen Sie diese Video-Plattform zu Ihrem „BricsCAD-Personal-Trainer“, der Ihnen 24 Stunden täglich und 7 Tage die Woche zur Seite steht.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://cad-video.de/bricscad-3d-channel?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57311/adminstore/
 - Sales page: https://cad-video.de/bricscad-3d-channel
 - Vendor affiliate support: https://cad-video.de/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/536946/adminstore
@@ -86,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BricsCAD 3D Video-Kurs? — Typ: Member area and video courses, Anbieter: CADDeutschland, gelistet seit 2026-06-30
-- Wie viel kostet es? — 335.05940000000004 USD
+- Wie viel kostet es? — 334.31190000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 735891
 title: "Das komplette Notion Business System für Selbständige"
 vendor: "Medina88"
 product_type: "E-books"
-price: 417.87
+price: 416.94
 currency: "USD"
-affiliate_commission_pct: 40
-earnings_per_sale: 167.15
+affiliate_commission_pct: 30
+earnings_per_sale: 125.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Finances"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/735891?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59825/adminstore/"
 sales_page: "https://www.digistore24.com/product/735891"
 language: "de"
 ---
 # Das komplette Notion Business System für Selbständige
 
 > Product ID `59825` · Digistore24 productId `735891` · [HTML profile page](../../produkte/das-komplette-notion-business-system-f-r-selbst-ndige-59825.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $417.87 (Single payment) |
-| Affiliate commission | 40% |
-| Earnings/sale* | $167.15 |
+| Price | $416.94 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $125.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Medina88 |
@@ -41,11 +41,44 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Organisiere Content, Kunden, Finanzen und Aufgaben an einem zentralen Ort Verbringst du täglich Zeit damit, zwischen Notizen, Tabellen, Kalendern, E-Mails und verschiedenen Tools zu wechseln? Das Notion Business System hilft Creator:innen, Freelancer:innen und digitalen Selbstständigen dabei, ihr gesamtes Business in einer übersichtlichen Struktur zu organisieren. Statt Chaos, verlorenen Informati…
+**Vendor's marketplace description:** <p>Organisiere Content, Kunden, Finanzen und Aufgaben an einem zentralen Ort</p>
+<p>Verbringst du täglich Zeit damit, zwischen Notizen, Tabellen, Kalendern, E-Mails und verschiedenen Tools zu wechseln?</p>
+<p>Das Notion Business System hilft Creator:innen, Freelancer:innen und digitalen Selbstständigen dabei, ihr gesamtes Business in einer übersichtlichen Struktur zu organisieren.</p>
+<p>Statt Chaos, verlorenen Informationen und ständiger Suche arbeitest du mit einem klaren System für Planung, Umsetzung und Wachstum.</p>
+<p>Das erwartet dich:</p>
+<p>✅ Home-Dashboard für den täglichen Überblick</p>
+<p>✅ Content-System inklusive Redaktionsplanung</p>
+<p>✅ CRM für Kundenverwaltung und Follow-ups</p>
+<p>✅ Business-Finanzen und Einnahmenübersicht</p>
+<p>✅ SOPs und Prozesse für wiederkehrende Aufgaben</p>
+<p>✅ Second Brain für Ideen, Wissen und Notizen</p>
+<p>✅ Workbook zur Umsetzung</p>
+<p>✅ Duplizierbare Notion-Vorlagen</p>
+<p>✅ 7-Tage-Umsetzungsplan</p>
+<p>Für wen geeignet?</p>
+<p>Content Creator</p>
+<p>Social Media Manager:innen</p>
+<p>Freelancer:innen</p>
+<p>Virtuelle Assistent:innen</p>
+<p>Coaches</p>
+<p>Berater:innen</p>
+<p>Digitale Selbstständige</p>
+<p>Typische Probleme, die dieses System löst</p>
+<p>Content-Ideen gehen verloren</p>
+<p>Kundenanfragen werden unübersichtlich</p>
+<p>Aufgaben werden vergessen</p>
+<p>Zu viele Tools gleichzeitig</p>
+<p>Keine zentrale Business-Struktur</p>
+<p>Fehlender Überblick über Projekte und Finanzen</p>
+<p>Dein Ergebnis</p>
+<p>Mit dem Notion Business System baust du dir eine zentrale Schaltzentrale für dein Business auf.</p>
+<p>Du planst effizienter, findest Informationen schneller wieder, behältst Kunden und Projekte im Blick und sparst wertvolle Zeit im Alltag.</p>
+<p>Bonus</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/735891?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59825/adminstore/
 - Sales page: https://www.digistore24.com/product/735891
 - Canonical redirect: https://www.digistore24.com/redir/735891/adminstore
 
@@ -79,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das komplette Notion Business System für Selbständige? — Typ: E-books, Anbieter: Medina88, gelistet seit 2026-09-27
-- Wie viel kostet es? — 417.87174 USD
+- Wie viel kostet es? — 416.93949000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 294832
 title: "SHAPE YOUR DIAMOND"
 vendor: "InaHaskic"
 product_type: "Member area and video courses"
-price: 960.51
+price: 958.37
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 288.15
+earnings_per_sale: 287.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-11-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://diamondangel.de/shape-your-diamond/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/29257/adminstore/"
 sales_page: "https://diamondangel.de/shape-your-diamond/"
 language: "de"
 ---
 # SHAPE YOUR DIAMOND
 
 > Product ID `29257` · Digistore24 productId `294832` · [HTML profile page](../../produkte/shape-your-diamond-29257.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $960.51 (Single payment, Installment) |
+| Price | $958.37 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $288.15 |
+| Earnings/sale* | $287.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | InaHaskic |
@@ -41,11 +41,34 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DEIN SPIRITUELLER ONLINE-INTENSIV-WORKSHOP DIY-Videokurs mit spirituellen Tools & Techniken zur Selbsthilfe für ein glückliches und erfülltes Leben INHALTE: 6 Module + 3 Bonusmodule gefüllt mit Wissen für Dein spirituelles Mindset 27 Coaching-Videos mit geführten Prozessen, die Du für Dich & andere anwenden kannst Workbook mit schriftlichen Prozess-Anleitungen 8 gechannelte Meditationen IN UNSEREM…
+**Vendor's marketplace description:** <div>DEIN SPIRITUELLER ONLINE-INTENSIV-WORKSHOP</div>
+<div> </div>
+<p><strong>DIY-Videokurs mit spirituellen </strong><strong>Tools &amp; Techniken zur Selbsthilfe </strong><strong>für ein glückliches und erfülltes Leben</strong></p>
+<p> </p>
+<p>INHALTE:</p>
+<p>6 Module + 3 Bonusmodule gefüllt mit Wissen für Dein spirituelles Mindset</p>
+<p><strong>27 Coaching-Videos mit geführten Prozessen, die Du für Dich &amp; </strong><strong>andere anwenden kannst</strong></p>
+<p>Workbook mit schriftlichen Prozess-Anleitungen</p>
+<p>8 gechannelte Meditationen</p>
+<p> </p>
+<div><span style="color:#ffcc00;"><strong>IN UNSEREM ONLINE-INTENSIV-WORKSHOP LERNST DU...</strong></span></div>
+<div>  </div>
+<p>...wie Du die <strong>universellen Gesetze</strong> für ein erfülltes und <strong>glückliches Leben</strong> nutzt.</p>
+<p> </p>
+<p>...wie Du Dich mit dem <strong>Bewusstseinsfeld</strong> verbindest und <strong>Mental Reading</strong> richtig nutzt.</p>
+<p> </p>
+<p>...wie Dir die Engel bei Deinen <strong>Herausforderungen</strong> am besten <strong>helfen</strong>.</p>
+<p> </p>
+<p>...wie Du Dein <strong>emotionales Gefühlschaos </strong>in den Griff bekommst und Deine <strong>Ängste</strong> überwindest.</p>
+<p> </p>
+<p>...wie Du <strong>Frieden</strong> mit Deiner Vergangenheit <strong>schließt</strong>, um in Deine volle Kraft zu kommen.</p>
+<p> </p>
+<p>...wie Du die Ursachen von <strong>körperlichen Beschwerden</strong> erkennst und <strong>auflösen</strong> kannst.</p>
+<h3> </h3>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://diamondangel.de/shape-your-diamond/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/29257/adminstore/
 - Sales page: https://diamondangel.de/shape-your-diamond/
 - Canonical redirect: https://www.digistore24.com/redir/294832/adminstore
 
@@ -93,7 +116,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SHAPE YOUR DIAMOND? — Typ: Member area and video courses, Anbieter: InaHaskic, gelistet seit 2019-11-13
-- Wie viel kostet es? — 960.511084 USD
+- Wie viel kostet es? — 958.368234 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 522678
 title: "Sofort-Energie-Videotraining"
 vendor: "Erfolg-Intuitiv"
 product_type: "Member area and video courses"
-price: 32.56
+price: 32.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 17
 cancel_rate_pct: 6.47
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-10-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://erfolg-intuitiv.de/energie-sofort-2-0-videotraining-01/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/45925/adminstore/"
 sales_page: "https://erfolg-intuitiv.de/energie-sofort-2-0-videotraining-01/"
 language: "de"
 ---
 # Sofort-Energie-Videotraining
 
 > Product ID `45925` · Digistore24 productId `522678` · [HTML profile page](../../produkte/sofort-energie-videotraining-45925.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.56 (Single payment) |
+| Price | $32.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | 17% |
 | Cancel rate* | 6.47% |
 | Vendor | Erfolg-Intuitiv |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Die 12 stärksten Hacks für maximale Energie" Schritt für Schritt einfach erklärt im "Sofort-Energie-Videotraining" (1:10 Std) + Bonus-Video: "Realität gezielt erschaffen" (45 Min) Kostenfreies Initialprodukt: Energie-Checkliste 2.0 mit den 12 stärksten Hacks für maximale Energie! Bitte folgenden Link benutzen (empfohlen): https://www.digistore24.com/content/522678/45875/AFFILIATE/CAMPAIGNKEY 1. U…
+**Vendor's marketplace description:** <h2>"Die 12 stärksten Hacks für maximale Energie"</h2>
+<p><strong>Schritt für Schritt einfach erklärt im "Sofort-Energie-Videotraining" (1:10 Std)</strong></p>
+<p><strong>+ Bonus-Video: "Realität gezielt erschaffen" (45 Min)</strong></p>
+<p><strong>Kostenfreies Initialprodukt:</strong></p>
+<p><strong>Energie-Checkliste <span style="color:#ff0000;">2.0</span></strong> mit den 12 stärksten Hacks für maximale Energie!</p>
+<p><span style="background-color:#ffff00;"><strong>Bitte folgenden Link benutzen (empfohlen):</strong></span></p>
+<p><strong>https://www.digistore24.com/content/522678/45875/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
+<p><strong>1. Upsell</strong> auf Tripwire (7 €): Sofort-Energie-Videotraining</p>
+<p><strong>2. Upsell</strong> auf Core-Product (47 €): Anziehungskraft-Dreieck</p>
+<p><strong>3. Upsell</strong> auf Profit-Optimizer (97 €): Anziehungskraft-Masterplan</p>
+<p>Sämtliche Upsells werden mit <strong>50% Provision</strong> vergütet (Abzüglich MwSt. + Digistore24-Gebühren)</p>
+<p>Die <strong>Energie-Checkliste 2.0</strong> und das <strong>Sofort-Energie-Videotraining</strong> sind für <strong>viele Zielgruppen</strong> interessant, weil <strong>JEDER</strong>  von einem hohen Energie-Level profitiert!</p>
+<p><strong>Gestestete Mailvorlagen und Bilder</strong> stehen auf der <strong>"Affiliate-Support-Seite"</strong> zur Verfügung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://erfolg-intuitiv.de/energie-sofort-2-0-videotraining-01/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/45925/adminstore/
 - Sales page: https://erfolg-intuitiv.de/energie-sofort-2-0-videotraining-01/
 - Vendor affiliate support: https://erfolg-intuitiv.de/partnerprogramm-ecv/
 - Canonical redirect: https://www.digistore24.com/redir/522678/adminstore
@@ -82,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sofort-Energie-Videotraining? — Typ: Member area and video courses, Anbieter: Erfolg-Intuitiv, gelistet seit 2023-10-26
-- Wie viel kostet es? — 32.564636 USD
+- Wie viel kostet es? — 32.491986000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

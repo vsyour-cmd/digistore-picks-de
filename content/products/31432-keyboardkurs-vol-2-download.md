@@ -4,16 +4,16 @@ digistore24_product_id: 95933
 title: "Keyboardkurs Vol. 2 / Download"
 vendor: "PeterNeuhof"
 product_type: "Downloads"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.62
+earnings_per_sale: 46.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2016-09-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.p-neuhof.de/keyboardkurs-vol-2-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.p-neuhof.de/keyboardkurs-vol-2-landingpage/"
@@ -22,16 +22,16 @@ language: "de"
 # Keyboardkurs Vol. 2 / Download
 
 > Product ID `31432` · Digistore24 productId `95933` · [HTML profile page](../../produkte/keyboardkurs-vol-2-download-31432.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.22 (Single payment, Installment) |
+| Price | $93.01 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.62 |
+| Earnings/sale* | $46.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PeterNeuhof |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Endlich richtig gut Keyboard spielen können ! In diesem Kurs lernst Du 8 neue Lieder mit 7 neuen Akkorden und Rhythmus spielen. Du lernst die Halbtöne (schwarze Tasten) kennen, sowie verschiedene Phrasierungs- und Artikulations- Arten und vieles mehr. Dieser Kurs baut sich auf den Keyboardkurs Vol. 1 auf und ist für leicht Fortgeschrittene geeignet. Das Konzept wurde von einem erfahrenen Musiklehr…
+**Vendor's marketplace description:** <h2>Endlich richtig gut Keyboard spielen können !</h2>
+<div>In diesem Kurs lernst Du 8 neue Lieder mit 7 neuen Akkorden und Rhythmus spielen. Du lernst die Halbtöne (schwarze Tasten) kennen, sowie verschiedene Phrasierungs- und Artikulations- Arten und vieles mehr.</div>
+<div> </div>
+<div>Dieser Kurs baut sich auf den Keyboardkurs Vol. 1 auf und ist für leicht Fortgeschrittene geeignet.</div>
+<div> </div>
+<div>Das Konzept wurde von einem erfahrenen Musiklehrer entwickelt und ist für Kinder, Jugendliche und Erwachsene!</div>
+<div> </div>
+<div>Dieser Kurs enthält 10 Video-Lektionen und ein Lernheft (Noten) im PDF-Format.</div>
 
 ## 2. Links
 
@@ -80,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Keyboardkurs Vol. 2 / Download? — Typ: Downloads, Anbieter: PeterNeuhof, gelistet seit 2016-09-18
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

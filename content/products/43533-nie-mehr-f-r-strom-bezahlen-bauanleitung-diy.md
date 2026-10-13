@@ -4,7 +4,7 @@ digistore24_product_id: 492908
 title: "Nie mehr für Strom bezahlen! - Bauanleitung DIY"
 vendor: "gehtanders"
 product_type: "E-books"
-price: 12.19
+price: 12.16
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.33
@@ -12,24 +12,24 @@ cart_conversion_pct: 28
 cancel_rate_pct: 10.03
 categories: ["Green Products & Environmental Protection","Hobby & Craft"]
 listed_since: "2023-04-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://geheimnisfreieenergie.de/magnetpolgenerator/?aff=adminstore#aff=adminstore"
+promo_link: "http://www.fitundattraktiv.de/2minuten-traumkoerper-megaangebot#aff=adminstore"
 sales_page: "https://geheimnisfreieenergie.de/magnetpolgenerator/"
 language: "de"
 ---
 # Nie mehr für Strom bezahlen! - Bauanleitung DIY
 
 > Product ID `43533` · Digistore24 productId `492908` · [HTML profile page](../../produkte/nie-mehr-f-r-strom-bezahlen-bauanleitung-diy-43533.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.19 (Single payment) |
+| Price | $12.16 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.33 |
 | Cart conversion* | 28% |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du dein Haus kostenlos Tag UND NACHT mit 230V elektrischem Strom versorgst. Eine sehr umfangreiche Affiliate-Unterstützung auf der Partnerseite mit dem DigiStore24 Promolink Generator. Muster-E-Mails für E-Mail Marketing, Social-Media und Banner Werbung, alles ist da! Dieses eBook hat es in sich, denn ab sofort bekommen die Leserinnen und Leser das unterdrückte Geheimnis, welches vor 100 Jahre…
+**Vendor's marketplace description:** <p><strong>Wie du dein Haus kostenlos Tag <span style="text-decoration:underline;">UND NACHT</span> mit 230V elektrischem Strom versorgst.</strong></p>
+<p>Eine sehr umfangreiche Affiliate-Unterstützung auf der <a href="https://geheimnisfreieenergie.de/magnetpolgenerator-partner/%C2%A0" target="_blank" rel="noreferrer noopener">Partnerseite</a> mit dem <strong>DigiStore24 Promolink Generator. </strong>Muster-E-Mails für E-Mail Marketing, Social-Media und Banner Werbung, alles ist da!</p>
+<p>Dieses eBook hat es in sich, denn ab sofort bekommen die Leserinnen und Leser das unterdrückte <strong>Geheimnis</strong>, welches vor 100 Jahren durch die Presse ging und danach den Kampf mit der Ölindustrie verloren hat! Jetzt verlassen die Pläne unser Archiv. Zusammen mit dem eBook kommt ein <strong>Bonus</strong>. Es ist ein <strong>Passwort</strong> zu einer speziellen Internetseite, wo die gesamte Dokumentation inkl. Video in Deutsch zu finden ist.</p>
+<p>Wir freuen uns auf gute Zusammenarbeit.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://geheimnisfreieenergie.de/magnetpolgenerator/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://www.fitundattraktiv.de/2minuten-traumkoerper-megaangebot#aff=adminstore
 - Sales page: https://geheimnisfreieenergie.de/magnetpolgenerator/
 - Vendor affiliate support: https://geheimnisfreieenergie.de/magnetpolgenerator-partner/
 - Canonical redirect: https://www.digistore24.com/redir/492908/adminstore
@@ -78,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nie mehr für Strom bezahlen! - Bauanleitung DIY? — Typ: E-books, Anbieter: gehtanders, gelistet seit 2023-04-06
-- Wie viel kostet es? — 12.192128000000002 USD
+- Wie viel kostet es? — 12.164928000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

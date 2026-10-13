@@ -4,34 +4,34 @@ digistore24_product_id: 525619
 title: "Ki-Akademie"
 vendor: "botscaler"
 product_type: "Member area and video courses"
-price: 187.4
+price: 186.98
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 28.1
+earnings_per_sale: 28.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2023-11-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.botscaler.de/bac-lp?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46803/adminstore/"
 sales_page: "https://www.botscaler.de/bac-lp"
 language: "de"
 ---
 # Ki-Akademie
 
 > Product ID `46803` · Digistore24 productId `525619` · [HTML profile page](../../produkte/ki-akademie-46803.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.40 (Subscription) |
+| Price | $186.98 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $28.10 |
+| Earnings/sale* | $28.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | botscaler |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit ChatGPT vom Anfänger zum Profi. Steige ein in die Zukunft der Künstlichen Intelligenz und reite die Welle der KI, anstatt unterzugehen. Dieser Kurs + Community ist nicht nur dein Wegweiser in der dynamischen Welt von ChatGPT, sondern auch dein Kompass in der KI-Landschaft!
+**Vendor's marketplace description:** <p>Mit ChatGPT vom Anfänger zum Profi. Steige ein in die Zukunft der Künstlichen Intelligenz und reite die Welle der KI, anstatt unterzugehen. Dieser Kurs + Community ist nicht nur dein Wegweiser in der dynamischen Welt von ChatGPT, sondern auch dein Kompass in der KI-Landschaft!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.botscaler.de/bac-lp?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46803/adminstore/
 - Sales page: https://www.botscaler.de/bac-lp
 - Canonical redirect: https://www.digistore24.com/redir/525619/adminstore
 
@@ -66,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ki-Akademie? — Typ: Member area and video courses, Anbieter: botscaler, gelistet seit 2023-11-16
-- Wie viel kostet es? — 187.39793799999998 USD
+- Wie viel kostet es? — 186.979863 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

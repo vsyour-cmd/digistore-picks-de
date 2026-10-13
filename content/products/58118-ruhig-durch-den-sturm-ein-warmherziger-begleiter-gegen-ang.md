@@ -4,16 +4,16 @@ digistore24_product_id: 717920
 title: "Ruhig durch den Sturm – Ein warmherziger Begleiter gegen Ang"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Leadership & Management"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/717920?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/717920"
@@ -22,16 +22,16 @@ language: "de"
 # Ruhig durch den Sturm – Ein warmherziger Begleiter gegen Ang
 
 > Product ID `58118` · Digistore24 productId `717920` · [HTML profile page](../../produkte/ruhig-durch-den-sturm-ein-warmherziger-begleiter-gegen-ang-58118.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein warmherziger, ehrlicher Ratgeber gegen Angst und Panikattacken, mit echten Übungen für den Moment, in dem es am schlimmsten ist. Ideal für Zielgruppen im Bereich mentale Gesundheit, Achtsamkeit und Selbsthilfe. Verständlich, einfühlsam, ohne Fachchinesisch. 50% Provision pro Verkauf.
+**Vendor's marketplace description:** <p>Ein warmherziger, ehrlicher Ratgeber gegen Angst und Panikattacken, mit echten Übungen für den Moment, in dem es am schlimmsten ist. Ideal für Zielgruppen im Bereich mentale Gesundheit, Achtsamkeit und Selbsthilfe.</p>
+<p> </p>
+<p>Verständlich, einfühlsam, ohne Fachchinesisch. 50% Provision pro Verkauf.</p>
 
 ## 2. Links
 
@@ -79,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ruhig durch den Sturm – Ein warmherziger Begleiter gegen Ang? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-08-04
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

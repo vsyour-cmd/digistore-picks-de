@@ -4,34 +4,34 @@ digistore24_product_id: 720197
 title: "99 Keto-Rezepte"
 vendor: "KevinShop"
 product_type: "E-books"
-price: 15.65
+price: 15.62
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 3.91
+earnings_per_sale: 3.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2026-08-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://gesundleben.info/99-keto-rezepte/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58237/adminstore/"
 sales_page: "https://gesundleben.info/99-keto-rezepte/"
 language: "de"
 ---
 # 99 Keto-Rezepte
 
 > Product ID `58237` · Digistore24 productId `720197` · [HTML profile page](../../produkte/99-keto-rezepte-58237.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.65 (Single payment) |
+| Price | $15.62 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $3.91 |
+| Earnings/sale* | $3.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KevinShop |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digitales Kochbuch als PDF mit 99 Keto-Rezepten, für den Alltag an Menschen gerichtet, die einfache, alltagstaugliche Keto- und Low-Carb-Rezepte suchen.
+**Vendor's marketplace description:** <p>Digitales Kochbuch als PDF mit 99 Keto-Rezepten, für den Alltag</p>
+<p>an Menschen gerichtet, die einfache, alltagstaugliche Keto- und Low-Carb-Rezepte suchen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://gesundleben.info/99-keto-rezepte/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58237/adminstore/
 - Sales page: https://gesundleben.info/99-keto-rezepte/
 - Vendor affiliate support: https://gesundleben.info/99-keto-rezepte-affiliate-bereich/
 - Canonical redirect: https://www.digistore24.com/redir/720197/adminstore
@@ -90,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 99 Keto-Rezepte? — Typ: E-books, Anbieter: KevinShop, gelistet seit 2026-08-09
-- Wie viel kostet es? — 15.654782 USD
+- Wie viel kostet es? — 15.619857000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

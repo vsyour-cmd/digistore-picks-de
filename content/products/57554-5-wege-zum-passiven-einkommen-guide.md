@@ -4,34 +4,34 @@ digistore24_product_id: 710318
 title: "+5 Wege zum passiven Einkommen Guide"
 vendor: "soudmohsin68cc4f"
 product_type: "E-books"
-price: 37.19
+price: 37.11
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 13.02
+earnings_per_sale: 12.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/710318?aff=adminstore"
-sales_page: "https://www.checkout-ds24.com/product/710318"
+promo_link: "https://cosmic-gnome-c8a98c.netlify.app?aff=adminstore#aff=adminstore"
+sales_page: "https://cosmic-gnome-c8a98c.netlify.app"
 language: "de"
 ---
 # +5 Wege zum passiven Einkommen Guide
 
 > Product ID `57554` · Digistore24 productId `710318` · [HTML profile page](../../produkte/5-wege-zum-passiven-einkommen-guide-57554.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $37.19 (Single payment) |
+| Price | $37.11 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $13.02 |
+| Earnings/sale* | $12.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | soudmohsin68cc4f |
@@ -41,18 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 5 Wege zum passiven Einkommen – der Guide für Einsteiger. Entdecke 5 konkrete Möglichkeiten, digitale Einkommensquellen aufzubauen – verständlich erklärt und Schritt für Schritt. ✅ Print-on-Demand✅ Digitale Produkte & E-Books✅ Affiliate Marketing✅ Marktplatz-SEO✅ Expertenwissen digital nutzen
+**Vendor's marketplace description:** <p>5 Wege zum passiven Einkommen – der Guide für Einsteiger.</p>
+<p>Entdecke 5 konkrete Möglichkeiten, digitale Einkommensquellen aufzubauen – verständlich erklärt und Schritt für Schritt.</p>
+<p>✅ Print-on-Demand<br />✅ Digitale Produkte &amp; E-Books<br />✅ Affiliate Marketing<br />✅ Marktplatz-SEO<br />✅ Expertenwissen digital nutzen</p>
+<p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/710318?aff=adminstore
-- Sales page: https://www.checkout-ds24.com/product/710318
+- **Promo link (affiliate):** https://cosmic-gnome-c8a98c.netlify.app?aff=adminstore#aff=adminstore
+- Sales page: https://cosmic-gnome-c8a98c.netlify.app
 - Canonical redirect: https://www.digistore24.com/redir/710318/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
 - **Page title:** 5 Wege zum passiven Einkommen Guide - Digistore24
 - **OG title:** 5 Wege zum passiven Einkommen Guide
+- **Final URL after redirects:** https://www.checkout-ds24.com/product/710318
 - **Section headlines (H3):**
   - 5 Wege zum passiven Einkommen Guide
   - 5 Wege zum passiven Einkommen Guide
@@ -70,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist +5 Wege zum passiven Einkommen Guide? — Typ: E-books, Anbieter: soudmohsin68cc4f, gelistet seit 2026-07-16
-- Wie viel kostet es? — 37.192714 USD
+- Wie viel kostet es? — 37.109739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

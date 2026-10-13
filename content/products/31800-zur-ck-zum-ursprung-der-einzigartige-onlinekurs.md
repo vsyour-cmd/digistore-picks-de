@@ -4,16 +4,16 @@ digistore24_product_id: 472467
 title: "„Zurück zum Ursprung“ - Der einzigartige Onlinekurs"
 vendor: "phoenix999"
 product_type: "Member area and video courses"
-price: 241.55
+price: 241.01
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 31.79
+earnings_per_sale: 31.72
 cart_conversion_pct: 23
 cancel_rate_pct: 3.56
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-11-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://andreas-goldemann.mykajabi.com/zurueck-zum-ursprung-e?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-goldemann.mykajabi.com/zurueck-zum-ursprung-e"
@@ -22,16 +22,16 @@ language: "de"
 # „Zurück zum Ursprung“ - Der einzigartige Onlinekurs
 
 > Product ID `31800` · Digistore24 productId `472467` · [HTML profile page](../../produkte/zur-ck-zum-ursprung-der-einzigartige-onlinekurs-31800.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $241.55 (Single payment, Installment) |
+| Price | $241.01 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $31.79 |
+| Earnings/sale* | $31.72 |
 | Cart conversion* | 23% |
 | Cancel rate* | 3.56% |
 | Vendor | phoenix999 |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfiehl das einzigartige Produkt, um negative gespeicherte Emotionen aus Deinem Körper und Energiesystem zu lösen. Mehr als 8.000 zufriedene Kursteilnehmer über die letzten 6 Jahren haben die besondere und einzigartige Arbeitsweise von Andreas Goldemann genossen. Seine intuitive Arbeit mit Stimme, Gesang und Bewegung führt dazu, dass Blockaden aufgelöst werden und mehr Harmonie im Leben einkehrt.…
+**Vendor's marketplace description:** <p>Empfiehl das einzigartige Produkt, um negative gespeicherte Emotionen aus Deinem Körper und Energiesystem zu lösen.</p>
+<p><strong>Mehr als 8.000 zufriedene Kursteilnehmer</strong> über die letzten 6 Jahren haben die besondere und einzigartige Arbeitsweise von Andreas Goldemann genossen. Seine intuitive Arbeit mit Stimme, Gesang und Bewegung führt dazu, dass Blockaden aufgelöst werden und mehr Harmonie im Leben einkehrt.</p>
+<p>Bringe Deine Kontakte dazu, diese wunderschöne Erfahrung zu erleben - und verdiene mit „Zurück zum Ursprung“ auch noch gutes Geld!</p>
+<p>Was erwartet Dich? </p>
+<ul>
+<li><strong>33 % Provision</strong>: Bei dem derzeitigen Verkaufspreis von 497 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer <strong>130,25 € (Netto) für Dich</strong>, pro erfolgreicher Vermittlung!</li>
+<li><strong>20 % Lifetime-Provision</strong> für Folgeprodukte, die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft.</li>
+<li><strong>Optimierter Funnel </strong> mit Freebie, Verknappung und toller Conversion.</li>
+<li>Zufriedene Kunden: Unsere Statistiken zeigen <strong>40 % verbessertes Wohlbefinden</strong> nach diesem Kurs.</li>
+</ul>
+<p>Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen.</p>
+<p><strong>Werde jetzt unser Partner</strong> und empfiehl Deinen Kontakten unser Vorzeigeprodukt „Zurück zum Ursprung“.</p>
 
 ## 2. Links
 
@@ -102,7 +113,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Zurück zum Ursprung“ - Der einzigartige Onlinekurs? — Typ: Member area and video courses, Anbieter: phoenix999, gelistet seit 2022-11-29
-- Wie viel kostet es? — 241.54533000000004 USD
+- Wie viel kostet es? — 241.00645500000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

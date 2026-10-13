@@ -4,16 +4,16 @@ digistore24_product_id: 10373
 title: "Lead-Motor jährlich - 540€"
 vendor: "LeadMotor"
 product_type: "Downloads"
-price: 605.12
+price: 603.77
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 211.79
+earnings_per_sale: 211.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2012-12-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://lead-motor.com/online-schulung/?aff=adminstore#aff=adminstore"
 sales_page: "https://lead-motor.com/online-schulung/"
@@ -22,16 +22,16 @@ language: "de"
 # Lead-Motor jährlich - 540€
 
 > Product ID `1389` · Digistore24 productId `10373` · [HTML profile page](../../produkte/lead-motor-j-hrlich-540-1389.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $605.12 (Subscription) |
+| Price | $603.77 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $211.79 |
+| Earnings/sale* | $211.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | LeadMotor |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Lead-Motor beinhaltet eine professionelle E-Mail-Marketing-Software, mit vorgefertigten Landingpages & Freebie-E-Books zum Listenaufbau sowie fertigen Newsletter-Designs. In der angeschlossenen Lern-Werkstatt erhalten Kunden außerdem ein umfassendes Coaching zur Bedienung der Software und allen wichtigen Themen zur Online-Leadgenerierung. Wir zahlen außerdem 5% Second-Level-Provision auf die U…
+**Vendor's marketplace description:** <p>Der Lead-Motor beinhaltet eine professionelle E-Mail-Marketing-Software, mit vorgefertigten Landingpages &amp; Freebie-E-Books zum Listenaufbau sowie fertigen Newsletter-Designs. In der angeschlossenen Lern-Werkstatt erhalten Kunden au&szlig;erdem ein umfassendes Coaching zur Bedienung der Software und allen wichtigen Themen zur Online-Leadgenerierung.</p>
+<p>&nbsp;</p>
+<p><strong>Wir zahlen au&szlig;erdem 5% Second-Level-Provision auf die Ums&auml;tze von Affiliates, die Sie uns bringen! Nutzen Sie zum Einladen weiterer Affiliates einfach diesen Link&nbsp;<a href="../../../signup/10373,10441,10387,10440,11077,13075,10398,10442,10372,11528/AFFILIATE">https://www.digistore24.com/signup/10373,10441,10387,10440,11077,13075,10398,10442,10372,11528/AFFILIATE</a>&nbsp;(tauschen Sie "AFFILIATE" am Ende mit Ihrer korrekten DigiStore-ID).</strong></p>
 
 ## 2. Links
 
@@ -83,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lead-Motor jährlich - 540€? — Typ: Downloads, Anbieter: LeadMotor, gelistet seit 2012-12-11
-- Wie viel kostet es? — 605.124 USD
+- Wie viel kostet es? — 603.774 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

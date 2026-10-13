@@ -4,34 +4,34 @@ digistore24_product_id: 305284
 title: "Silent Subliminals ULTRA Paket"
 vendor: "newdimension"
 product_type: "Software"
-price: 112.89
+price: 112.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.17
+earnings_per_sale: 32.1
 cart_conversion_pct: 5
 cancel_rate_pct: 4.19
 categories: ["Personal Development"]
 listed_since: "2020-01-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://silent-subliminals.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46819/adminstore/"
 sales_page: "https://silent-subliminals.de"
 language: "de"
 ---
 # Silent Subliminals ULTRA Paket
 
 > Product ID `46819` · Digistore24 productId `305284` · [HTML profile page](../../produkte/silent-subliminals-ultra-paket-46819.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $112.89 (Single payment) |
+| Price | $112.64 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.17 |
+| Earnings/sale* | $32.10 |
 | Cart conversion* | 5% |
 | Cancel rate* | 4.19% |
 | Vendor | newdimension |
@@ -41,11 +41,35 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hexenmeister-Werkzeug! Dieses digitale Paket enthält eine Software, mit der Sie unhörbare Botschaften fürs Unterbewusstsein herstellen: Ob gesprochene Affirmationen, Afformationen oder Suggestionen - sie werden auf eine Weise unhörbar gemacht, dass sie vom Unterbewusstsein trotzdem aufgenommen und verarbeitet werden. Damit können Sie sich nun in aller RUHE stundenlang, tagelang oder wochenlang auf…
+**Vendor's marketplace description:** <p><strong>Hexenmeister-Werkzeug!</strong></p>
+<p>Dieses digitale Paket enthält eine Software, mit der Sie unhörbare Botschaften fürs Unterbewusstsein herstellen:</p>
+<p>Ob gesprochene Affirmationen, Afformationen oder Suggestionen - sie werden auf eine Weise unhörbar gemacht, dass sie vom Unterbewusstsein trotzdem aufgenommen und verarbeitet werden.</p>
+<p>Damit können Sie sich nun in aller RUHE stundenlang, tagelang oder wochenlang auf die erfolgreiche Erreichung Ihrer Ziele programmieren. </p>
+<p> </p>
+<p><strong>Der Anbieter verkauft dieses Produkt kontinuierlich bereits seit dem Jahr 2008... Ein Long-Seller!</strong></p>
+<p>Die Software läuft auf Windows- und auf Mac-Computern und Laptops - NICHT jedoch auf mobilen Geräten wie Smartphones und Ipads.</p>
+<p>Die mit dem Programm erstellten unhörbaren Botschaften ("Silent Subiliminals") hingegen lassen sich mit jedem Gerät abspielen, das Musik abspielen kann (also auch Smartphones und iPads).</p>
+<p> </p>
+<p><strong>Inhalte:</strong> </p>
+<ul>
+<li>Silent Subliminals Effekt (Software)</li>
+<li>Silent Subliminals Benutzerhandbuch Windows/Mac</li>
+<li>inkl. Updates und Produktsupport für 2 Jahre</li>
+<li>Marschroute (inkl. "Wie fange ich an?")</li>
+<li>E-Book „Leitfaden für Affirmationen.“</li>
+<li>E-Book „Die Aff(o)rmations-Taktik."</li>
+<li>E-Book „Die ULTRA-Methode der Selbstprogrammierung"</li>
+<li>E-Book „Die zehn hinterlistigen Fallen.“</li>
+<li>7 fertige Suggestionen zum Üben (mp3)</li>
+<li>Sofort-Zugang zum kompletten E-Mail-Kurs</li>
+</ul>
+<p><strong>BONUS:</strong> 2 Neurostreams™ - <em>Die Zukunft schauen</em> &amp; <em>Co-Creation Galaxie</em> (mp3)</p>
+<p>Sofort-Download (ca. 170 MB).</p>
+<p>30 Tage Geld-zurück-Garantie.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://silent-subliminals.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46819/adminstore/
 - Sales page: https://silent-subliminals.de
 - Vendor affiliate support: https://www.timdaugs.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/305284/adminstore
@@ -93,7 +117,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Silent Subliminals ULTRA Paket? — Typ: Software, Anbieter: newdimension, gelistet seit 2020-01-26
-- Wie viel kostet es? — 112.889244 USD
+- Wie viel kostet es? — 112.637394 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

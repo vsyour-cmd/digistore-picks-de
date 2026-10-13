@@ -4,34 +4,34 @@ digistore24_product_id: 589577
 title: "Vom Träumer zum Könner"
 vendor: "IMCoachingTraining"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Leadership & Management"]
 listed_since: "2025-01-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/589577?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54889/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/589577"
 language: "de"
 ---
 # Vom Träumer zum Könner
 
 > Product ID `54889` · Digistore24 productId `589577` · [HTML profile page](../../produkte/vom-tr-umer-zum-k-nner-54889.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IMCoachingTraining |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bullet Proof Anleitung um Ziele zu erreichen!
+**Vendor's marketplace description:** <p>Bullet Proof Anleitung um Ziele zu erreichen! </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/589577?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54889/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/589577
 - Canonical redirect: https://www.digistore24.com/redir/589577/adminstore
 
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom Träumer zum Könner? — Typ: E-books, Anbieter: IMCoachingTraining, gelistet seit 2025-01-09
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

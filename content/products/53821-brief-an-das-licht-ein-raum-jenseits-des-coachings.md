@@ -4,34 +4,34 @@ digistore24_product_id: 633202
 title: "Brief an das Licht - ein Raum jenseits des Coachings"
 vendor: "digicube"
 product_type: "Online coaching"
-price: 41.43
+price: 41.34
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.43
+earnings_per_sale: 12.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://lanaprinzip.com/brief-an-das-licht/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53821/adminstore/"
 sales_page: "https://lanaprinzip.com/brief-an-das-licht/"
 language: "de"
 ---
 # Brief an das Licht - ein Raum jenseits des Coachings
 
 > Product ID `53821` · Digistore24 productId `633202` · [HTML profile page](../../produkte/brief-an-das-licht-ein-raum-jenseits-des-coachings-53821.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $41.43 (Single payment) |
+| Price | $41.34 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.43 |
+| Earnings/sale* | $12.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digicube |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Eine schriftliche Form des Rufgesprächs – für stille Seelen Manche Fragen tragen ein Flüstern in sich.Kein lauter Ruf. Kein erklärtes Ziel.Nur ein inneres Drängen, das sagt: „Ich muss es fragen. Und ich hoffe, dass jemand antwortet.“ Der Brief an das Licht ist eine Einladung an genau dieses Flüstern.Du schreibst uns – eine Frage, ein Thema, ein innerer Knoten.Nicht für eine Beratung. Nicht für ein…
+**Vendor's marketplace description:** <p>Eine schriftliche Form des Rufgesprächs – für stille Seelen</p>
+<p>Manche Fragen tragen ein Flüstern in sich.<br />Kein lauter Ruf. Kein erklärtes Ziel.<br />Nur ein inneres Drängen, das sagt:</p>
+<p>„Ich muss es fragen. Und ich hoffe, dass jemand antwortet.“</p>
+<p><strong>Der Brief an das Licht</strong> ist eine Einladung an genau dieses Flüstern.<br />Du schreibst uns – eine Frage, ein Thema, ein innerer Knoten.<br />Nicht für eine Beratung. Nicht für einen Ratschlag.<br />Sondern als Ruf aus deinem Innersten.</p>
+<p>Bei Fragen bitte Kontakt zu Matthias aufnehmen.</p>
+<p>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: <a>http://lana.li/affiliate</a>.</p>
+<p>Wir freuen uns auf eine erfolgreiche Partnerschaft!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lanaprinzip.com/brief-an-das-licht/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53821/adminstore/
 - Sales page: https://lanaprinzip.com/brief-an-das-licht/
 - Vendor affiliate support: https://lanaprinzip.com/einladung-als-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/633202/adminstore
@@ -81,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Brief an das Licht - ein Raum jenseits des Coachings? — Typ: Online coaching, Anbieter: digicube, gelistet seit 2025-09-02
-- Wie viel kostet es? — 41.428582 USD
+- Wie viel kostet es? — 41.336157 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 701348
 title: "Neukundengewinnung über LinkedIn"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.43
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-linkedin?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-linkedin"
@@ -22,16 +22,16 @@ language: "de"
 # Neukundengewinnung über LinkedIn
 
 > Product ID `56912` · Digistore24 productId `701348` · [HTML profile page](../../produkte/neukundengewinnung-ber-linkedin-56912.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.43 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** B2B-Leadgen, Social Selling und planbare Neukunden ohne Kaltakquise Für Unternehmen und Selbstständige im B2B-Bereich ist LinkedIn die leistungsstärkste Akquise-Plattform überhaupt – wenn man sie systematisch nutzt. Dieses E-Book zeigt dir, wie du einen B2B-Leadgen-Funnel aufbaust, der aus Beiträgen, Kommentaren und gezielten DMs planbar Erstgespräche und Aufträge generiert. Du lernst, wie du Ents…
+**Vendor's marketplace description:** <p><strong>B2B-Leadgen, Social Selling und planbare Neukunden ohne Kaltakquise</strong></p>
+<p>Für Unternehmen und Selbstständige im B2B-Bereich ist LinkedIn die leistungsstärkste Akquise-Plattform überhaupt – wenn man sie systematisch nutzt. Dieses E-Book zeigt dir, wie du einen B2B-Leadgen-Funnel aufbaust, der aus Beiträgen, Kommentaren und gezielten DMs planbar Erstgespräche und Aufträge generiert. Du lernst, wie du Entscheider identifizierst und ansprichst, wie du über Content Vertrauen aufbaust, bevor der erste Kontakt stattfindet, und wie du Social Selling konsequent in deinen Vertriebsalltag integrierst. Inklusive: CRM-freundliche Kontaktlisten, DM-Skripte, die nicht nach Massenversand klingen, und ein klarer Fahrplan für messbare Ergebnisse – Woche für Woche.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Dein B2B-Funnel auf LinkedIn: von Sichtbarkeit zu Erstgespräch</li>
+<li>Zielkunden mit LinkedIn-Suche und Sales Navigator identifizieren</li>
+<li>Content-Strategie, die Entscheider anzieht und Vertrauen aufbaut</li>
+<li>Social Selling Index (SSI) verbessern und Reichweite gezielt steigern</li>
+<li>DM-Sequenzen, die persönlich wirken und nicht nach Spam aussehen</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -98,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neukundengewinnung über LinkedIn? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 689587
 title: "Ebook - Die Heilkraft des Klangs"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.8
+price: 6.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.41
+earnings_per_sale: 3.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2026-05-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689587?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689587"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook - Die Heilkraft des Klangs
 
 > Product ID `56434` · Digistore24 productId `689587` · [HTML profile page](../../produkte/ebook-die-heilkraft-des-klangs-56434.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.80 (Single payment) |
+| Price | $6.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.41 |
+| Earnings/sale* | $3.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein stark wachsender Markt rund um ganzheitliche Gesundheit, Achtsamkeit und alternative Heilmethoden trifft hier auf fundiert aufbereitete Inhalte aus Wissenschaft, Therapie und Praxis. Das Buch adressiert gezielt Menschen mit Stress, Schlafproblemen oder dem Wunsch nach mentaler Balance und bietet einen leicht zugänglichen Einstieg in die Wirkung von Klang auf Körper und Geist. Die Verbindung au…
+**Vendor's marketplace description:** <p>Ein stark wachsender Markt rund um ganzheitliche Gesundheit, Achtsamkeit und alternative Heilmethoden trifft hier auf fundiert aufbereitete Inhalte aus Wissenschaft, Therapie und Praxis.</p>
+<p>Das Buch adressiert gezielt Menschen mit Stress, Schlafproblemen oder dem Wunsch nach mentaler Balance und bietet einen leicht zugänglichen Einstieg in die Wirkung von Klang auf Körper und Geist.</p>
+<p>Die Verbindung aus wissenschaftlicher Erklärung, emotionalem Nutzen und spirituellen Aspekten schafft breite Zielgruppenansprache und hohe Relevanz im Selfcare- und Gesundheitsbereich.</p>
+<p>Besonders verkaufsstark ist die klare Positionierung als natürliche, nicht-invasive Lösung mit unmittelbarem Alltagsbezug.</p>
+<p>Ein vielseitig vermarktbares Thema mit starkem Trendcharakter und hohem Interesse in den Bereichen Mindset, Gesundheit und persönliche Entwicklung.</p>
 
 ## 2. Links
 
@@ -71,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Die Heilkraft des Klangs? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-02
-- Wie viel kostet es? — 6.802042 USD
+- Wie viel kostet es? — 6.786867000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

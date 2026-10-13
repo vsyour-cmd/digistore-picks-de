@@ -4,16 +4,16 @@ digistore24_product_id: 727262
 title: "Das ultimative Karriere Master-Kit für die Famulatur"
 vendor: "VeloxForge"
 product_type: "E-books"
-price: 82.73
+price: 82.55
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.37
+earnings_per_sale: 41.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://auranit.de/famulatur/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/famulatur/"
@@ -22,16 +22,16 @@ language: "de"
 # Das ultimative Karriere Master-Kit für die Famulatur
 
 > Product ID `59066` · Digistore24 productId `727262` · [HTML profile page](../../produkte/das-ultimative-karriere-master-kit-f-r-die-famulatur-59066.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $82.73 (Single payment) |
+| Price | $82.55 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.37 |
+| Earnings/sale* | $41.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Famulatur-Handbuch – Dein Leitfaden für Bewerbungen, Lehrkrankenhäuser und optimalen Klinikstart Das Famulatur-Handbuch begleitet Medizinstudierende strukturiert von der strategischen Fachbereichswahl bis zum ersten Tag auf Station – mit einer vollständigen Bewerbungsvorlage und Tipps für den Stationsalltag. Sofort als PDF verfügbar. Das ist enthalten: Empfehlungen zur Fachbereichswahl nach Studie…
+**Vendor's marketplace description:** <hr />
+<p><strong>Famulatur-Handbuch – Dein Leitfaden für Bewerbungen, Lehrkrankenhäuser und optimalen Klinikstart</strong></p>
+<p>Das Famulatur-Handbuch begleitet Medizinstudierende strukturiert von der strategischen Fachbereichswahl bis zum ersten Tag auf Station – mit einer vollständigen Bewerbungsvorlage und Tipps für den Stationsalltag. Sofort als PDF verfügbar.</p>
+<p>Das ist enthalten:</p>
+<ul>
+<li>Empfehlungen zur Fachbereichswahl nach Studienphase (von Innere Medizin bis Wahltertial)</li>
+<li>Entscheidungshilfe: Universitätsklinikum vs. akademisches Lehrkrankenhaus</li>
+<li>Organisatorische Checkliste (Äquivalenzbescheinigung, Impfstatus, Gesundheitszeugnis)</li>
+<li>Do's &amp; Don'ts im klinischen Alltag und auf Station</li>
+<li>Tipps zur strategischen Nutzung der Famulatur als Vorbereitung auf PJ und Berufseinstieg</li>
+<li>Vollständiges Muster-Anschreiben und Muster-Lebenslauf (sofort befüllbar)</li>
+</ul>
+<p>Sofortiger Download – kein Abo, keine versteckten Kosten.</p>
 
 ## 2. Links
 
@@ -80,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das ultimative Karriere Master-Kit für die Famulatur? — Typ: E-books, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 82.733898 USD
+- Wie viel kostet es? — 82.549323 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 409756
 title: "Beziehungsfalle Narzissmus - Liebe, Familie, Freunde, Job"
 vendor: "Loverie"
 product_type: "E-books"
-price: 20.93
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 12.56
+earnings_per_sale: 12.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.loverie.de/narzisst-jetzt-beziehung-mit-narzissmus-aufraeumen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.loverie.de/narzisst-jetzt-beziehung-mit-narzissmus-aufraeumen/"
@@ -22,16 +22,16 @@ language: "de"
 # Beziehungsfalle Narzissmus - Liebe, Familie, Freunde, Job
 
 > Product ID `37966` · Digistore24 productId `409756` · [HTML profile page](../../produkte/beziehungsfalle-narzissmus-liebe-familie-freunde-job-37966.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.93 (Single payment, Installment) |
+| Price | $20.89 (Single payment, Installment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $12.56 |
+| Earnings/sale* | $12.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Loverie |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Beziehungsfalle Narzissmus Liebesbeziehung - Familie - Freundschaft - Job Was bedeutet Narzissmus und wie kannst du damit umgehen? Tipps und Erklärungen auf 45 Seiten.
+**Vendor's marketplace description:** <p>Beziehungsfalle</p>
+<h1><strong>Narzissmus</strong></h1>
+<p> </p>
+<p>Liebesbeziehung - Familie - Freundschaft - Job</p>
+<p> </p>
+<p>Was bedeutet Narzissmus und wie kannst du damit umgehen? Tipps und Erklärungen auf 45 Seiten.</p>
 
 ## 2. Links
 
@@ -82,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Beziehungsfalle Narzissmus - Liebe, Familie, Freunde, Job? — Typ: E-books, Anbieter: Loverie, gelistet seit 2021-09-29
-- Wie viel kostet es? — 20.932808 USD
+- Wie viel kostet es? — 20.886108 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

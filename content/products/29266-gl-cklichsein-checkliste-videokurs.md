@@ -4,16 +4,16 @@ digistore24_product_id: 249553
 title: "Glücklichsein-Checkliste + Videokurs"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 44.26
+price: 44.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.13
+earnings_per_sale: 22.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2018-11-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/gluecklichsein-Checkliste/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/gluecklichsein-Checkliste/"
@@ -22,16 +22,16 @@ language: "de"
 # Glücklichsein-Checkliste + Videokurs
 
 > Product ID `29266` · Digistore24 productId `249553` · [HTML profile page](../../produkte/gl-cklichsein-checkliste-videokurs-29266.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $44.26 (Single payment) |
+| Price | $44.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.13 |
+| Earnings/sale* | $22.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg-Intuitiv |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Glücklichsein-Checkliste ist ein Initial-Produkt... Das bedeutet, dass der Interessent als erstes die kostenlose "Glücklichsein-Checkliste" bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Checkliste den passenden "Videokurs" für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-Angebote auf "Glück…
+**Vendor's marketplace description:** <h4><strong>Die Glücklichsein-Checkliste ist ein Initial-Produkt...</strong></h4>
+<p>Das bedeutet, dass der Interessent als erstes die kostenlose <strong>"Glücklichsein-Checkliste"</strong> bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Checkliste den passenden <strong>"Videokurs"</strong> für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-Angebote auf <strong>"Glücklichsein-Sofortmaßnahmen"</strong> (47,- Euro) und auf den <strong>"Glücksnavigator"</strong> (97,- Euro).</p>
+<p><strong>&gt;&gt; Jeweils 50% Provision.</strong></p>
+<p><span style="color:#ff0000;"><strong>Diesen Promolink verwenden:</strong></span></p>
+<p><strong><a href="https://www.digistore24.com/content/249553/23177/AFFILIATE/CAMPAIGNKEY" target="_blank" rel="noreferrer noopener"><span style="background-color:#ffff00;">https://www.digistore24.com/content/249553/23177/AFFILIATE/CAMPAIGNKEY</span></a></strong></p>
 
 ## 2. Links
 
@@ -81,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Glücklichsein-Checkliste + Videokurs? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2018-11-23
-- Wie viel kostet es? — 44.2637 USD
+- Wie viel kostet es? — 44.164950000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

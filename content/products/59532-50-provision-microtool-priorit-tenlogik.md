@@ -4,16 +4,16 @@ digistore24_product_id: 692792
 title: "50% Provision: MicroTool PrioritätenLogik"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 215.65
+price: 215.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 107.82
+earnings_per_sale: 107.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/692792?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/692792"
@@ -22,16 +22,16 @@ language: "de"
 # 50% Provision: MicroTool PrioritätenLogik
 
 > Product ID `59532` · Digistore24 productId `692792` · [HTML profile page](../../produkte/50-provision-microtool-priorit-tenlogik-59532.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $215.65 (Single payment) |
+| Price | $215.17 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $107.82 |
+| Earnings/sale* | $107.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Entstehen Prioritäten bei Ihnen durch Logik – oder durch Lautstärke und Historie? DieNAVOK PrioritätenLogik macht das in einer Vorlage sichtbar: Priorität, Zielbeitrag,Kriterien, Ressourcen & Kapazität, Abhängigkeiten und Stabilisierung. Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt. Zielgruppe: Führungskräfte und Teams, die sc…
+**Vendor's marketplace description:** <p>Entstehen Prioritäten bei Ihnen durch Logik – oder durch Lautstärke und Historie? Die<br />NAVOK PrioritätenLogik macht das in einer Vorlage sichtbar: Priorität, Zielbeitrag,<br />Kriterien, Ressourcen &amp; Kapazität, Abhängigkeiten und Stabilisierung.</p>
+<p>Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt.</p>
+<p><strong>Zielgruppe:</strong> Führungskräfte und Teams, die schnell Klarheit über eine konkrete<br />Priorisierungsfrage brauchen, ohne gleich das komplette System einzuführen.</p>
+<p><strong>Für Sie als Affiliate:</strong> 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für<br />Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind.</p>
+<p>Digitaler Download, sofort verfügbar, ca. 2 Seiten.</p>
 
 ## 2. Links
 
@@ -91,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: MicroTool PrioritätenLogik? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-09-22
-- Wie viel kostet es? — 215.648264 USD
+- Wie viel kostet es? — 215.167164 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 701343
 title: "So wirst du Influencer auf TikTok"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 25.14
+price: 25.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.57
+earnings_per_sale: 12.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-tiktok?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56915/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-tiktok"
 language: "de"
 ---
 # So wirst du Influencer auf TikTok
 
 > Product ID `56915` · Digistore24 productId `701343` · [HTML profile page](../../produkte/so-wirst-du-influencer-auf-tiktok-56915.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.14 (Single payment) |
+| Price | $25.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.57 |
+| Earnings/sale* | $12.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Virale Formate, loyale Community und Markendeals auf der größten Entertainment-Plattform TikTok ist die einzige Plattform, auf der du heute mit 500 Followern morgen eine Million Menschen erreichen kannst – wenn du weißt, welche Formate der Algorithmus pusht. Dieses E-Book zeigt dir, wie du virale Konzepte entwickelst, eine loyale Community aufbaust und dich für den TikTok Creator-Marketplace so po…
+**Vendor's marketplace description:** <p><strong>Virale Formate, loyale Community und Markendeals auf der größten Entertainment-Plattform</strong></p>
+<p>TikTok ist die einzige Plattform, auf der du heute mit 500 Followern morgen eine Million Menschen erreichen kannst – wenn du weißt, welche Formate der Algorithmus pusht. Dieses E-Book zeigt dir, wie du virale Konzepte entwickelst, eine loyale Community aufbaust und dich für den TikTok Creator-Marketplace so positionierst, dass Marken von allein auf dich zukommen. Du lernst, welche Formate – Duette, Stitches, Trends-Reinterpretation – konstant große Reichweite erzeugen, wie du Kommentare und Direktnachrichten in echte Fan-Bindung verwandelst und wie du Markendeals professionell verhandelst. Inklusive allem, was du für deine ersten und nächsten bezahlten Kooperationen brauchst.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Virale Formate entwerfen: Duette, Stitches und Trend-Reinterpretation</li>
+<li>Die For-You-Page systematisch bespielen – so bleibt du im Algorithmus</li>
+<li>Aus Followern echte Fans machen: Community-Aufbau auf TikTok</li>
+<li>TikTok Creator-Marketplace: so wirst du für Marken sichtbar</li>
+<li>Markendeals anfragen, verhandeln und fair bepreisen</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-tiktok?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56915/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/so-wirst-du-influencer-auf-tiktok
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701343/adminstore
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So wirst du Influencer auf TikTok? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 25.135058 USD
+- Wie viel kostet es? — 25.078983 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

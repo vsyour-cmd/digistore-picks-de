@@ -4,7 +4,7 @@ digistore24_product_id: 681328
 title: "Budget Planer Excel | Haushaltsbuch Vorlage | Finanzplaner"
 vendor: "mschwarz166c33"
 product_type: "Downloads"
-price: 4.7
+price: 4.68
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 1.88
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Marketing Services"]
 listed_since: "2026-04-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/681328?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/681328"
@@ -22,14 +22,14 @@ language: "de"
 # Budget Planer Excel | Haushaltsbuch Vorlage | Finanzplaner
 
 > Product ID `56148` · Digistore24 productId `681328` · [HTML profile page](../../produkte/budget-planer-excel-haushaltsbuch-vorlage-finanzplaner-56148.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.70 (Single payment) |
+| Price | $4.68 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $1.88 |
 | Cart conversion* | — |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Endlich den Überblick über dein Geld behalten – ohne komplizierte Tools Du willst wissen, wohin dein Geld jeden Monat verschwindet?Dieser einfache Budget Planer hilft dir dabei, deine Einnahmen und Ausgaben klar zu strukturieren – ganz ohne Vorkenntnisse. Ideal für Anfänger und alle, die ihre Finanzen schnell in den Griff bekommen möchten.
+**Vendor's marketplace description:** <h2>Endlich den Überblick über dein Geld behalten – ohne komplizierte Tools</h2>
+<p>Du willst wissen, wohin dein Geld jeden Monat verschwindet?<br />Dieser einfache Budget Planer hilft dir dabei, deine Einnahmen und Ausgaben klar zu strukturieren – ganz ohne Vorkenntnisse.</p>
+<p>Ideal für Anfänger und alle, die ihre Finanzen schnell in den Griff bekommen möchten.</p>
 
 ## 2. Links
 
@@ -71,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Budget Planer Excel | Haushaltsbuch Vorlage | Finanzplaner? — Typ: Downloads, Anbieter: mschwarz166c33, gelistet seit 2026-04-01
-- Wie viel kostet es? — 4.695314000000001 USD
+- Wie viel kostet es? — 4.684839000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

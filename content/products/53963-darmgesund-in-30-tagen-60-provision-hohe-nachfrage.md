@@ -4,34 +4,34 @@ digistore24_product_id: 634974
 title: "Darmgesund in 30 Tagen – 60 % Provision - hohe Nachfrage"
 vendor: "Hei-Mel"
 product_type: "E-books"
-price: 10.42
+price: 10.4
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.25
+earnings_per_sale: 6.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2025-09-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://marilia.de/ratgeber/ebook-darmgesund-in-30-tagen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53963/adminstore/"
 sales_page: "https://marilia.de/ratgeber/ebook-darmgesund-in-30-tagen/"
 language: "de"
 ---
 # Darmgesund in 30 Tagen – 60 % Provision - hohe Nachfrage
 
 > Product ID `53963` · Digistore24 productId `634974` · [HTML profile page](../../produkte/darmgesund-in-30-tagen-60-provision-hohe-nachfrage-53963.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.42 (Single payment) |
+| Price | $10.40 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.25 |
+| Earnings/sale* | $6.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hei-Mel |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verdiene 60 % Provision mit unserem E-Book „Darmgesund in 30 Tagen“. Das Programm zeigt Schritt für Schritt, wie man die Darmflora natürlich stärkt, Beschwerden lindert und das Wohlbefinden steigert. Gesundheitsthema mit wachsender Nachfrage – starke Conversion dank optimierter Verkaufsseite. Banner, Social-Media-Texte und Produkt-Mockups stehen Affiliates als Werbemittel bereit.
+**Vendor's marketplace description:** <p>Verdiene 60 % Provision mit unserem E-Book „Darmgesund in 30 Tagen“.</p>
+<p>Das Programm zeigt Schritt für Schritt, wie man die Darmflora natürlich stärkt, Beschwerden lindert und das Wohlbefinden steigert.</p>
+<p>Gesundheitsthema mit wachsender Nachfrage – starke Conversion dank optimierter Verkaufsseite.</p>
+<p>Banner, Social-Media-Texte und Produkt-Mockups stehen Affiliates als Werbemittel bereit.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://marilia.de/ratgeber/ebook-darmgesund-in-30-tagen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53963/adminstore/
 - Sales page: https://marilia.de/ratgeber/ebook-darmgesund-in-30-tagen/
 - Vendor affiliate support: https://marilia.de/darmgesund-in-30-tagen/
 - Canonical redirect: https://www.digistore24.com/redir/634974/adminstore
@@ -76,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Darmgesund in 30 Tagen – 60 % Provision - hohe Nachfrage? — Typ: E-books, Anbieter: Hei-Mel, gelistet seit 2025-09-10
-- Wie viel kostet es? — 10.42158 USD
+- Wie viel kostet es? — 10.398330000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

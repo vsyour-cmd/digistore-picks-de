@@ -4,16 +4,16 @@ digistore24_product_id: 682401
 title: "Buchführung für Kaufleute für Büromanagement"
 vendor: "wileleg"
 product_type: "Member area and video courses"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.62
+earnings_per_sale: 46.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2026-04-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://buchfuehrung-ganz-einfach.de/onlinekurs-buchfuhrung-fur-bueromanagement-ganz-einfach-af?aff=adminstore#aff=adminstore"
 sales_page: "https://buchfuehrung-ganz-einfach.de/onlinekurs-buchfuhrung-fur-bueromanagement-ganz-einfach-af"
@@ -22,16 +22,16 @@ language: "de"
 # Buchführung für Kaufleute für Büromanagement
 
 > Product ID `56174` · Digistore24 productId `682401` · [HTML profile page](../../produkte/buchf-hrung-f-r-kaufleute-f-r-b-romanagement-56174.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.62 |
+| Earnings/sale* | $46.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wileleg |
@@ -41,7 +41,53 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Buchführung muss nicht trocken sein – das beweist Tischler Martin „Buchführung für Kaufleute für Büromanagement gaaanz einfach!“ ist kein gewöhnlicher Buchführungskurs. Hier wird nicht mit Paragrafen oder langweiliger Theorie gearbeitet. Stattdessen führt Tischler Martin, der Held einer animierten Zeichentrickgeschichte, durch den Stoff, auf eine Art, die Spaß macht, zum Lachen bringt und gleichze…
+**Vendor's marketplace description:** <p><strong>Buchführung muss nicht trocken sein – das beweist Tischler Martin</strong></p>
+<p> </p>
+<p>„Buchführung für Kaufleute für Büromanagement gaaanz einfach!“ ist <strong>kein gewöhnlicher Buchführungskurs. </strong>Hier wird nicht mit Paragrafen oder langweiliger Theorie gearbeitet.</p>
+<p>Stattdessen führt <strong>Tischler Martin</strong>, der Held einer <strong>animierten Zeichentrickgeschichte</strong>, durch den Stoff, auf eine Art, die <strong>Spaß macht</strong>, zum Lachen bringt und gleichzeitig <strong>richtig viel Wissen vermittelt</strong>.</p>
+<p><strong>Teilnehmer begleiten Tischler Martin durch seinen Arbeitsalltag. Er lernt Buchführung genau dann, wenn im Betrieb echte Probleme auftreten.</strong></p>
+<p>Ein Kunde schickt Ware zurück – wie wird das gebucht? Es kommt eine neue Rechnung rein – wie muss sie erfasst werden?</p>
+<p><strong>Alles wird in einer fortlaufenden Geschichte erklärt, die man einfach mitverfolgen kann.</strong> Kein Theoriewust, sondern <strong>Buchführung so, wie sie im echten Leben in einem kleinen Betrieb passiert – praxisnah, nachvollziehbar und mit Humor.</strong></p>
+<p>So wird ein gefürchtetes Thema zu einem echten Aha-Erlebnis.</p>
+<p> </p>
+<p><strong>Das steckt im Kurs:</strong></p>
+<ul>
+<li>Animierte Videos mit einer durchgehenden Geschichte</li>
+<li>Digitales Arbeitsheft mit Aufgaben</li>
+<li>Zusätzliches Übungsheft mit praxisnahen Fällen</li>
+<li>Lösungsschemata, Schritt-für-Schritt-Anleitungen und Übersichten</li>
+<li>Kein Vorwissen erforderlich</li>
+<li>Ideal zur Vorbereitung auf IHK-Prüfungen</li>
+</ul>
+<p> </p>
+<p><strong>Für wen ist der Kurs ideal:</strong></p>
+<ul>
+<li>Auszubildende und Umschüler im Beruf Kaufmann/Kauffrau für Büromanagement</li>
+<li>Berufsschulen, Bildungsträger und Prüfungsvorbereitungskurse</li>
+</ul>
+<p> </p>
+<p><strong>Was den Kurs besonders macht:</strong></p>
+<p>Statt starrer Theorie gibt’s eine <strong>unterhaltsame Story mit Humor, Alltagssprache und vielen Aha-Momenten</strong>.</p>
+<p>Die Rückmeldungen sind eindeutig: Teilnehmende fühlen sich endlich sicher im Thema und haben dabei sogar gelacht.</p>
+<p><strong>Lernen, das hängen bleibt und richtig Spaß macht.</strong></p>
+<p> </p>
+<p><strong>Hinweis zur Affiliate-Partnerschaft:</strong></p>
+<p>Die Affiliate-Partnerschaft wird <strong>nicht automatisch freigegeben</strong>. Bitte stelle deine Anfrage über den Button auf dieser Seite.</p>
+<p>Ich melde mich dann <strong>persönlich bei dir</strong>, und wir besprechen gemeinsam, wie du den Kurs am besten bewirbst.</p>
+<p>Ich unterstütze dich aktiv – mit Erfahrung, Material und ehrlichem Interesse an deinem Erfolg.</p>
+<p> </p>
+<p><strong>Warum du diesen Kurs bewerben solltest:</strong></p>
+<ul>
+<li>Große, kaufkräftige Zielgruppe mit echtem Bedarf</li>
+<li>Humorvoller und einzigartiger Ansatz mit Tischler Martin</li>
+<li>50 % Provision pro Verkauf</li>
+<li>Rückgabequote unter 1 %</li>
+<li>Durchschnittlich 4,8 Sterne auf anderen Plattformen</li>
+<li>Persönliche Betreuung statt Massenfreigabe</li>
+</ul>
+<p> </p>
+<p><strong>Ich arbeite lieber mit wenigen, engagierten Partnern – dafür mit echter Unterstützung und einer Win-Win-Zusammenarbeit.</strong></p>
+<p> </p>
 
 ## 2. Links
 
@@ -66,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buchführung für Kaufleute für Büromanagement? — Typ: Member area and video courses, Anbieter: wileleg, gelistet seit 2026-04-06
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

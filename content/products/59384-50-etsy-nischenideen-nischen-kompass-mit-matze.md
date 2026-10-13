@@ -4,16 +4,16 @@ digistore24_product_id: 732926
 title: "50 Etsy-Nischenideen – Nischen-Kompass mit Matze"
 vendor: "einfachmitmatze"
 product_type: "E-books"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.19
+earnings_per_sale: 4.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://einfachmitmatze.de/etsy/nischen-kompass/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/etsy/nischen-kompass/"
@@ -22,16 +22,16 @@ language: "de"
 # 50 Etsy-Nischenideen – Nischen-Kompass mit Matze
 
 > Product ID `59384` · Digistore24 productId `732926` · [HTML profile page](../../produkte/50-etsy-nischenideen-nischen-kompass-mit-matze-59384.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.19 |
+| Earnings/sale* | $4.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Nutze 50 Etsy-Nischenideen als Ausgangspunkt für deine eigene Produktentwicklung und Recherche. Du erhältst die Sammlung als PDF-Download. Prüfe Zielgruppe, Nachfrage und Umsetzbarkeit selbst, bevor du ein Produkt entwickelst. Die Ideen sind keine fertigen Shop-Produkte und keine Absatzprognose. Optionaler Zusatz zum Etsy-Praxispaket. Der Hauptkurs ist nicht enthalten und bleibt ohne diesen Zusatz…
+**Vendor's marketplace description:** <p>Nutze 50 Etsy-Nischenideen als Ausgangspunkt für deine eigene Produktentwicklung und Recherche.</p>
+<p>Du erhältst die Sammlung als PDF-Download. Prüfe Zielgruppe, Nachfrage und Umsetzbarkeit selbst, bevor du ein Produkt entwickelst. Die Ideen sind keine fertigen Shop-Produkte und keine Absatzprognose.</p>
+<p>Optionaler Zusatz zum Etsy-Praxispaket. Der Hauptkurs ist nicht enthalten und bleibt ohne diesen Zusatz vollständig. Zum Öffnen genügt ein PDF-Reader.</p>
+<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
+<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
+<p>Affiliate-Information: 40 % Provision. Eigenständiges Zusatzpaket ohne Hauptkurs. Keine Umsatzgarantie. Kontakt: info@einfachhaltbar.de.</p>
 
 ## 2. Links
 
@@ -74,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 Etsy-Nischenideen – Nischen-Kompass mit Matze? — Typ: E-books, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 732663
 title: "Reinigungs-KI-Büro – 30 % Provision auf 39 € Starter-Paket"
 vendor: "handwerkerkibuero2026"
 product_type: "Downloads"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.02
+earnings_per_sale: 10.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://amtsbuechler-digital.de/reinigungs-ki-buero-v1-0.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60175/adminstore/"
 sales_page: "https://amtsbuechler-digital.de/reinigungs-ki-buero-v1-0.html"
 language: "de"
 ---
 # Reinigungs-KI-Büro – 30 % Provision auf 39 € Starter-Paket
 
 > Product ID `60175` · Digistore24 productId `732663` · [HTML profile page](../../produkte/reinigungs-ki-b-ro-30-provision-auf-39-starter-paket-60175.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.02 |
+| Earnings/sale* | $10.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | handwerkerkibuero2026 |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Reinigungs-KI-Büro V1.0 Starter-Paket ist ein digitales Starter-Paket für kleine Reinigungsunternehmen, die Anfragen, Objektinformationen, Angebote, Nachfassaktionen und Aufträge übersichtlicher organisieren möchten. Verkaufspreis: 39 € einmalig Affiliate-Provision: 30 % Kein monatlicher Produktpreis. Enthalten sind unter anderem: -Reinigungs-Cockpit -Objektaufnahme -Angebotsvorbereitung -KI-P…
+**Vendor's marketplace description:** <p>Das Reinigungs-KI-Büro V1.0 Starter-Paket ist ein digitales Starter-Paket für kleine Reinigungsunternehmen, die Anfragen, Objektinformationen, Angebote, Nachfassaktionen und Aufträge übersichtlicher organisieren möchten.</p>
+<p>Verkaufspreis: 39 € einmalig</p>
+<p>Affiliate-Provision: 30 %</p>
+<p>Kein monatlicher Produktpreis.</p>
+<p>Enthalten sind unter anderem:</p>
+<p>-Reinigungs-Cockpit</p>
+<p>-Objektaufnahme</p>
+<p>-Angebotsvorbereitung</p>
+<p>-KI-Prompts</p>
+<p>-Nachichtenvorlagen</p>
+<p>-Musterauftrag</p>
+<p>-10-Minuten-Start</p>
+<p>-Onboarding-Video</p>
+<p>-KI- und Nutzungshinweise</p>
+<p>Zielgruppe: kleine, inhabergeführte Reinigungsunternehmen, die ihre Büroorganisation bisher mit einzelnen Datein, Nachichten, Notizen oder einfachen Abläufen erledigen.</p>
+<p>Geeignet für Affiliates mit Zielgruppen rund um Gebäudereinigung, Selbstständigkeit, Digitalisierung, KI, Büroorganisation und Zeitersparnis.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://amtsbuechler-digital.de/reinigungs-ki-buero-v1-0.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60175/adminstore/
 - Sales page: https://amtsbuechler-digital.de/reinigungs-ki-buero-v1-0.html
 - Canonical redirect: https://www.digistore24.com/redir/732663/adminstore
 
@@ -76,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reinigungs-KI-Büro – 30 % Provision auf 39 € Starter-Paket? — Typ: Downloads, Anbieter: handwerkerkibuero2026, gelistet seit 2026-10-04
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

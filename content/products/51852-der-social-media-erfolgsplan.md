@@ -4,16 +4,16 @@ digistore24_product_id: 300338
 title: "Der Social Media Erfolgsplan"
 vendor: "onlineratgeber24"
 product_type: "Member area and video courses"
-price: 447.12
+price: 446.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 223.56
+earnings_per_sale: 223.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2019-12-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.startimpulse.online/social-media-erfolgsplan?aff=adminstore#aff=adminstore"
 sales_page: "https://www.startimpulse.online/social-media-erfolgsplan"
@@ -22,16 +22,16 @@ language: "de"
 # Der Social Media Erfolgsplan
 
 > Product ID `51852` · Digistore24 productId `300338` · [HTML profile page](../../produkte/der-social-media-erfolgsplan-51852.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $447.12 (Single payment) |
+| Price | $446.12 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $223.56 |
+| Earnings/sale* | $223.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | onlineratgeber24 |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Social Media Erfolgsplan zeigt dir Schritt für Schritt, wie du dein Online-Marketing in eine Verkaufsmaschine verwandelst, ohne ständig online zu sein! Hier zeigt Social-Media-Experte Tommy Seewald, wie er in seinem eigenen Unternehmen, zweistellige Millionen-Umsätze pro Jahr generiert! Konkret lernst du dabei Social-Media-Marketing-Strategien kennen, die in der Praxis nachweislich funktionier…
+**Vendor's marketplace description:** <p>Der Social Media Erfolgsplan zeigt dir Schritt für Schritt, wie du dein Online-Marketing in eine<strong> </strong>Verkaufsmaschine verwandelst, ohne ständig online zu sein!</p>
+<p><strong>Hier zeigt </strong><strong>Social-Media-Experte </strong><strong>Tommy Seewald, wie er in seinem eigenen Unternehmen, zweistellige Millionen-Umsätze pro Jahr generiert! </strong></p>
+<p>Konkret lernst du dabei Social-Media-Marketing-Strategien kennen, die in der Praxis nachweislich funktionieren und die du 1 zu 1 für dein Business umsetzen kannst.</p>
+<p>Dabei zeigt er sehr detailliert und ausführlich, wie Social Media grundsätzlich funktioniert und wie man - egal in welchem Unternehmensbereich auch immer - seine persönliche Online-Marketing-Strategie entwickelt.</p>
+<p> </p>
+<p><strong>Das erwartet dich in 10 Modulen und 54 Videos:</strong></p>
+<p><strong>Modul 1: Die Theorie </strong></p>
+<p>Verstehe, was wirklich funktioniert und welche Mythen du sofort vergessen musst!</p>
+<p><strong>Modul 2: Das Geheimnis hinter Viralität</strong> </p>
+<p>Warum Posts durch die Decke gehen und wie du es umsetzt!</p>
+<p><strong>Modul 3: Attraction Marketing</strong> </p>
+<p>Wie du potenzieller Kunden anziehst,</p>
+<p><strong>Modul 4: Der perfekte Content-Plan</strong> </p>
+<p>Wie du nie wieder ratlos nach Inhalten suchst! die für dein Business interessant sind!</p>
+<p><strong>Modul 5: Verkaufen über Social Media</strong></p>
+<p>Wie du Follower in Kunden verwandelst!</p>
+<p><strong>Modul 6-10: Praxisbeispiele &amp; Technik</strong></p>
+<p>Beispiele, wie du das in der Praxis umsetzt!</p>
 
 ## 2. Links
 
@@ -92,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Social Media Erfolgsplan? — Typ: Member area and video courses, Anbieter: onlineratgeber24, gelistet seit 2019-12-18
-- Wie viel kostet es? — 447.11940000000004 USD
+- Wie viel kostet es? — 446.12190000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

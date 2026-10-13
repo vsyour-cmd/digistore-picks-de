@@ -4,34 +4,34 @@ digistore24_product_id: 462309
 title: "Deeskalation und Selbstverteidigung - Texte, Audios, Videos"
 vendor: "VolkerHeckt"
 product_type: "Member area and video courses"
-price: 28.21
+price: 28.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.11
+earnings_per_sale: 14.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Survival"]
 listed_since: "2022-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/462309?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47501/adminstore/"
 sales_page: "https://www.digistore24.com/product/462309"
 language: "de"
 ---
 # Deeskalation und Selbstverteidigung - Texte, Audios, Videos
 
 > Product ID `47501` · Digistore24 productId `462309` · [HTML profile page](../../produkte/deeskalation-und-selbstverteidigung-texte-audios-videos-47501.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.21 (Subscription) |
+| Price | $28.14 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.11 |
+| Earnings/sale* | $14.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VolkerHeckt |
@@ -41,11 +41,37 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Premium-Zugang Mitgliederbereich: Texte Premium-Modul:Zugang zum Mitgliederbereich von Deeskalation & Selfdefense.Texte, Audios und Videos zum Thema Umgang mit Gewalt. ----------------------------------------------------------------- Die Vorteile für zukünftige Abo-Kunden: Zugriff auf den Mitgliederbereich von Deeskalation & Selfdefefense Anmelden über PC, Pad oder Handy Ortsungebunden lernen Alle…
+**Vendor's marketplace description:** <h3>Premium-Zugang Mitgliederbereich: Texte</h3>
+<div>
+<p><strong>Premium-Modul:<br /></strong>Zugang zum Mitgliederbereich von Deeskalation &amp; Selfdefense.<br /><strong>Texte</strong>, <strong>Audios</strong> und <strong>Videos</strong> zum Thema Umgang mit Gewalt.</p>
+<p>-----------------------------------------------------------------</p>
+<p><strong>Die Vorteile für</strong> <strong>zukünftige Abo-Kunden:</strong></p>
+<ul>
+<li>Zugriff auf den <strong>Mitgliederbereich</strong> von Deeskalation &amp; Selfdefefense</li>
+<li>Anmelden über <strong>PC, Pad</strong> oder <strong>Handy</strong></li>
+<li><strong>Ortsungebunden</strong> lernen</li>
+<li><strong>Alle 14 Tage</strong> neue Texte</li>
+<li>Zugriff auf bereits veröffentlichte Texte</li>
+<li><strong>Grundlagen</strong> über den <strong>Umgang mit Gewalt</strong></li>
+<li><strong>Grundlagen</strong> über <strong>Deeskalation</strong></li>
+<li><strong>Grundlagen</strong> über <strong>Selfdefense</strong></li>
+<li>Fachwissen einfach <strong>Schritt-für-Schritt</strong> erklärt</li>
+<li>Gut geeignet für <strong>introvertierte</strong> Menschen und solche, die nicht gerne in einer Gruppe trainieren wollen</li>
+</ul>
+<p>-----------------------------------------------------------------</p>
+<p><strong>Die Vorteile für Dich als Affiliate:</strong></p>
+<ul>
+<li>50 % auf das Abo</li>
+<li>Wiederkehrende Einnahmequelle</li>
+<li>Alle 14 Tage neue Inhalte. Deswegen längere Nutzungsdauer</li>
+</ul>
+<p>-----------------------------------------------------------------</p>
+<p>Hier gehts zu meiner Homepage: <a>www.volkerheckt.de</a></p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/462309?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47501/adminstore/
 - Sales page: https://www.digistore24.com/product/462309
 - Canonical redirect: https://www.digistore24.com/redir/462309/adminstore
 
@@ -79,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Deeskalation und Selbstverteidigung - Texte, Audios, Videos? — Typ: Member area and video courses, Anbieter: VolkerHeckt, gelistet seit 2022-09-27
-- Wie viel kostet es? — 28.205502000000003 USD
+- Wie viel kostet es? — 28.142577000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

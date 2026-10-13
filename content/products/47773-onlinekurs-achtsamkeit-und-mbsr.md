@@ -4,34 +4,34 @@ digistore24_product_id: 411279
 title: "Onlinekurs \"Achtsamkeit und MBSR\""
 vendor: "growstudio"
 product_type: "Member area and video courses"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.4
+earnings_per_sale: 27.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2021-10-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.ganzheitliche-heilung.de/onlinekurs-achtsamkeit-mbsr/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47773/adminstore/"
 sales_page: "https://www.ganzheitliche-heilung.de/onlinekurs-achtsamkeit-mbsr/"
 language: "de"
 ---
 # Onlinekurs "Achtsamkeit und MBSR"
 
 > Product ID `47773` · Digistore24 productId `411279` · [HTML profile page](../../produkte/onlinekurs-achtsamkeit-und-mbsr-47773.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.40 |
+| Earnings/sale* | $27.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | growstudio |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lerne in unserem 8-Wochen Kurs, wie du Achtsamkeit in dein Leben integrieren und Stress reduzieren kannst. Der Kurs basiert auf dem Konzept der Mindfulness-based Stress Reduction (MBSR) und dient als sanfte Einführung. Außerdem sind 15 praktische Übungen und Meditationen enthalten, welche zum ganzheitlichen Erspüren der eigenen Körperempfindungen und tiefer Entspannung beitragen. Der Kurs befähigt…
+**Vendor's marketplace description:** <p>Lerne in unserem 8-Wochen Kurs, wie du Achtsamkeit in dein Leben integrieren und Stress reduzieren kannst. Der Kurs basiert auf dem Konzept der Mindfulness-based Stress Reduction (MBSR) und dient als sanfte Einführung. </p>
+<p>Außerdem sind 15 praktische Übungen und Meditationen enthalten, welche zum ganzheitlichen Erspüren der eigenen Körperempfindungen und tiefer Entspannung beitragen. Der Kurs befähigt die Teilnehmer, Achtsamkeit und MBSR aktiv in ihr Leben einzubinden und die vielfältigen Heilwirkungen zu verstehen und zu genießen.</p>
+<p><strong>Im Kurs inklusive:</strong><br />✓ Umfangreiche Unterlagen als PDF-Datei mit 60 Seiten<br />✓ Dauerhafter Zugriff auf alle Inhalte<br />✓ 15 Übungen und Meditationen<br />✓ Audiolektionen zu den Meditationen<br />✓ Arbeitsblätter zum Ausdrucken</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.ganzheitliche-heilung.de/onlinekurs-achtsamkeit-mbsr/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47773/adminstore/
 - Sales page: https://www.ganzheitliche-heilung.de/onlinekurs-achtsamkeit-mbsr/
 - Vendor affiliate support: https://www.ganzheitliche-heilung.de/affiliate-supportseite/
 - Canonical redirect: https://www.digistore24.com/redir/411279/adminstore
@@ -82,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurs "Achtsamkeit und MBSR"? — Typ: Member area and video courses, Anbieter: growstudio, gelistet seit 2021-10-11
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

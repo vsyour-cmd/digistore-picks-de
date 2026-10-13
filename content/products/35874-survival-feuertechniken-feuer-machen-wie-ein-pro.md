@@ -4,16 +4,16 @@ digistore24_product_id: 375502
 title: "Survival Feuertechniken / Feuer machen wie ein Pro"
 vendor: "ypsilon"
 product_type: "E-books"
-price: 23.04
+price: 22.99
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.52
+earnings_per_sale: 11.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2021-02-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ousuca.com/buecher/feuer-buch/?aff=adminstore#aff=adminstore"
 sales_page: "https://ousuca.com/buecher/feuer-buch/"
@@ -22,16 +22,16 @@ language: "de"
 # Survival Feuertechniken / Feuer machen wie ein Pro
 
 > Product ID `35874` · Digistore24 productId `375502` · [HTML profile page](../../produkte/survival-feuertechniken-feuer-machen-wie-ein-pro-35874.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $23.04 (Single payment) |
+| Price | $22.99 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.52 |
+| Earnings/sale* | $11.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ypsilon |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen. Bewerbe das eBook Survival Feuertechniken / Feuer machen wie ein Pro zum SRSC Survivalkurs. Vorteile für Nutzer: 204 Seiten 192 erklärende Bilder Survivalwissen zum Mitnehmen Deine Vorteile als Affiliate: 50 % für jeden Verkauf ousuca® SRSC eBook Branding und somit hoher Wiedererkennun…
+**Vendor's marketplace description:** <p>Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen.</p>
+<p>Bewerbe das eBook <strong><em>Survival Feuertechniken / Feuer machen wie ein Pro</em></strong> zum SRSC Survivalkurs.</p>
+<p><strong>Vorteile für Nutzer:</strong></p>
+<ul>
+<li>204 Seiten </li>
+<li>192 erklärende Bilder</li>
+<li>Survivalwissen zum Mitnehmen</li>
+</ul>
+<p><strong>Deine Vorteile als Affiliate:</strong></p>
+<ul>
+<li>50 % für jeden Verkauf</li>
+<li>ousuca® SRSC eBook Branding und somit hoher Wiedererkennungswert</li>
+<li>Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich</li>
+</ul>
+<p>Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Survival eBooks und baue dir ein passives Einkommen auf.</p>
 
 ## 2. Links
 
@@ -78,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Survival Feuertechniken / Feuer machen wie ein Pro? — Typ: E-books, Anbieter: ypsilon, gelistet seit 2021-02-23
-- Wie viel kostet es? — 23.039536 USD
+- Wie viel kostet es? — 22.988136 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

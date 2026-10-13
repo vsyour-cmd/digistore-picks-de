@@ -4,34 +4,34 @@ digistore24_product_id: 325957
 title: "Rückbildungskurs Online"
 vendor: "ltcplus"
 product_type: "Member area and video courses"
-price: 28.03
+price: 27.96
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 13.16
+earnings_per_sale: 13.13
 cart_conversion_pct: 31
 cancel_rate_pct: 0.98
 categories: ["Health & Fitness"]
 listed_since: "2020-05-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://myhebamme24.de/rueckbildungskurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/33271/adminstore/"
 sales_page: "https://myhebamme24.de/rueckbildungskurs/"
 language: "de"
 ---
 # Rückbildungskurs Online
 
 > Product ID `33271` · Digistore24 productId `325957` · [HTML profile page](../../produkte/r-ckbildungskurs-online-33271.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.03 (Single payment) |
+| Price | $27.96 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $13.16 |
+| Earnings/sale* | $13.13 |
 | Cart conversion* | 31% |
 | Cancel rate* | 0.98% |
 | Vendor | ltcplus |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bestseller Rückbildungskurs Online mit Lifetime-Provision Unsere Vorteile:✅ 180 Tage Cookie-Lifetime ✅ Geringe Stornoquote ✅ Auf Wunsch individuelle Werbebanner etc. ✅ Wird bereits von vielen Krankenkasse erstattet Bei Fragen können Sie sich gerne an uns wenden: info@myhebamme24.de
+**Vendor's marketplace description:** <h3><span style="background-color:#ffff00;"><strong>Bestseller Rückbildungskurs Online mit Lifetime-Provision</strong></span></h3>
+<p><strong>Unsere Vorteile:</strong><br /><br /><strong>✅  180 Tage Cookie-Lifetime</strong><br /><br /> ✅  Geringe Stornoquote<br /><br /> ✅  Auf Wunsch individuelle Werbebanner etc.<br /><br /> ✅  Wird bereits von vielen Krankenkasse erstattet</p>
+<p>Bei Fragen können Sie sich gerne an uns wenden: info@myhebamme24.de</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://myhebamme24.de/rueckbildungskurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/33271/adminstore/
 - Sales page: https://myhebamme24.de/rueckbildungskurs/
 - Vendor affiliate support: https://myhebamme24.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/325957/adminstore
@@ -89,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rückbildungskurs Online? — Typ: Member area and video courses, Anbieter: ltcplus, gelistet seit 2020-05-11
-- Wie viel kostet es? — 28.026206000000002 USD
+- Wie viel kostet es? — 27.963681000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 733894
 title: "UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 121.47
+price: 121.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 60.74
+earnings_per_sale: 60.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/ugc/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/ugc/"
@@ -22,16 +22,16 @@ language: "de"
 # UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot
 
 > Product ID `59266` · Digistore24 productId `733894` · [HTML profile page](../../produkte/ugc-creator-werden-lernen-vom-ersten-clip-zum-eigenen-angebot-59266.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.47 (Single payment) |
+| Price | $121.20 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $60.74 |
+| Earnings/sale* | $60.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du möchtest Menschen erreichen, die gern kreativ arbeiten und sich nebenbei eine neue Fähigkeit aufbauen möchten? Das UGC-Praxispaket von Einfach mit Matze begleitet Einsteiger vom ersten durchdachten Beispielvideo bis zum nachvollziehbaren eigenen Angebot. Das lernen KäuferBriefings verstehen, sinnvolle Rückfragen stellen, Produktaussagen prüfen, starke Einstiege schreiben, Skripte und Shotlists …
+**Vendor's marketplace description:** <p>Du möchtest Menschen erreichen, die gern kreativ arbeiten und sich nebenbei eine neue Fähigkeit aufbauen möchten? Das UGC-Praxispaket von Einfach mit Matze begleitet Einsteiger vom ersten durchdachten Beispielvideo bis zum nachvollziehbaren eigenen Angebot.</p>
+<p>Das lernen Käufer<br />Briefings verstehen, sinnvolle Rückfragen stellen, Produktaussagen prüfen, starke Einstiege schreiben, Skripte und Shotlists entwickeln, Aufnahmen planen, Arbeitsproben aufbauen, Preise kalkulieren und Ergebnisse sauber übergeben. Ein durchgehender Lunchbox-Musterauftrag zeigt die Arbeitsschritte an einem konkreten Übungsbeispiel.</p>
+<p>Das ist enthalten<br />• Schriftlicher Praxisguide mit 41 Seiten und 40 Lerneinheiten<br />• Arbeitsbuch mit 16 Arbeitsblättern und 65 ausfüllbaren Textfeldern<br />• 16 Seiten Musterauftrag und Vorlagen<br />• 13-seitiger Praxischeck mit zehn Selbstprüfaufgaben<br />• Offline-HTML-Werkstatt zum lokalen Arbeiten im Browser, ohne Aufpreis</p>
+<p>Für wen das Paket passt<br />Für deutschsprachige UGC-Einsteiger und kreative Menschen, die Produktvideos systematisch planen und ihre Leistung strukturiert anbieten lernen möchten. Käufer arbeiten im eigenen Tempo und setzen die Übungen selbst um.</p>
+<p>Preis und Partnerkonditionen<br />Einmalig 129,00 € inklusive Umsatzsteuer. 50 % Affiliate-Provision gemäß der tatsächlichen Digistore24-Konfiguration; die konkrete Auszahlung hängt von der Abrechnungsbasis und den Digistore24-Abzügen ab.</p>
+<p>Optional ergänzbar: Die UGC-Skriptbibliothek mit 30 drehfertigen Skripten für zehn Branchen kostet zusätzlich einmalig 19,99 € inklusive Umsatzsteuer. Sie ist freiwillig und nicht vorausgewählt. Hauptpaket und Ergänzung zusammen: 148,99 €. Das Hauptpaket ist ohne diesen Zusatz vollständig nutzbar.</p>
+<p>Fair bewerben<br />Bitte stelle das Angebot als schriftliches Selbstlernpaket zum Herunterladen dar. Es enthält keinen Videokurs, kein Coaching, keine Live-Termine und keine Vermittlung von Kundenaufträgen. Aufträge oder Einkommen werden nicht garantiert. Musteraufträge sind Übungen und dürfen nicht als echte Kundenerfolge dargestellt werden. Provisionsvergütete Empfehlungen müssen klar als Werbung erkennbar sein.</p>
 
 ## 2. Links
 
@@ -98,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-16
-- Wie viel kostet es? — 121.47304000000001 USD
+- Wie viel kostet es? — 121.20204000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

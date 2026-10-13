@@ -7,13 +7,13 @@ product_type: "Software"
 price: 2.23
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 0.9
+earnings_per_sale: 0.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Leadership & Management"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.paragamix.com/nis2-management-schulung.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.paragamix.com/nis2-management-schulung.html"
@@ -22,7 +22,7 @@ language: "de"
 # Cyberrisiken für Geschäftsleitungen – Awareness-Mission
 
 > Product ID `60060` · Digistore24 productId `735356` · [HTML profile page](../../produkte/cyberrisiken-f-r-gesch-ftsleitungen-awareness-mission-60060.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Software |
 | Price | $2.23 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $0.90 |
+| Earnings/sale* | $0.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | paragamix |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Interaktive, browserbasierte Cyber-Awareness-Mission für Geschäftsführungen und Vorstände. Das NIS2 Management Decision Lab trainiert Entscheidungen zu kritischen Diensten, Eindämmung, Meldung, Notbetrieb, Wiederanlauf, Lieferantenzugriff und Restrisiko anhand eines realistischen Ransomware-Szenarios. Unternehmen erhalten eine strukturierte Management-Beschlussakte, ein gewichtetes Ergebnis und ei…
+**Vendor's marketplace description:** <p>Interaktive, browserbasierte Cyber-Awareness-Mission für Geschäftsführungen und Vorstände. Das NIS2 Management Decision Lab trainiert Entscheidungen zu kritischen Diensten, Eindämmung, Meldung, Notbetrieb, Wiederanlauf, Lieferantenzugriff und Restrisiko anhand eines realistischen Ransomware-Szenarios. Unternehmen erhalten eine strukturierte Management-Beschlussakte, ein gewichtetes Ergebnis und einen Teilnahme-Nachweis. Start per Mission-Code, ohne persönliche Teilnehmerkonten und ohne Abo. 40 % Affiliate-Provision – beim 100er-Paket entspricht das nominal bis zu 79,60 € Provision pro Verkauf.</p>
 
 ## 2. Links
 
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cyberrisiken für Geschäftsleitungen – Awareness-Mission? — Typ: Software, Anbieter: paragamix, gelistet seit 2026-09-30
-- Wie viel kostet es? — 2.229994 USD
+- Wie viel kostet es? — 2.225019 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

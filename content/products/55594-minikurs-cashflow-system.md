@@ -4,16 +4,16 @@ digistore24_product_id: 643804
 title: "Minikurs Cashflow System"
 vendor: "Business_Kickstart"
 product_type: "E-books"
-price: 38.75
+price: 38.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.38
+earnings_per_sale: 19.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-10-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.businesskickstart.de/instagram-30-tage-challenge?aff=adminstore#aff=adminstore"
 sales_page: "https://www.businesskickstart.de/instagram-30-tage-challenge"
@@ -22,16 +22,16 @@ language: "de"
 # Minikurs Cashflow System
 
 > Product ID `55594` · Digistore24 productId `643804` · [HTML profile page](../../produkte/minikurs-cashflow-system-55594.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.75 (Single payment) |
+| Price | $38.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.38 |
+| Earnings/sale* | $19.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Business_Kickstart |
@@ -41,7 +41,34 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Praxis-Minikurs für Anfänger:innen, Coaches & Dienstleister: Erstelle deinen Minikurs und baue ein Cashflow-System (Salespage → Checkout → Auslieferung → E-Mail-Follow-up). Schritt für Schritt in Systeme.io erklärt – inkl. Orderbump/Upsell-Logik und 6 Boni. Highlights (Bulletpoints) Minikurs-Idee + Struktur (klar & umsetzbar) Funnel-Setup in Systeme.io (Salespage + Automationen) Digistore24 Checko…
+**Vendor's marketplace description:** <p>Praxis-Minikurs für Anfänger:innen, Coaches &amp; Dienstleister: Erstelle deinen Minikurs und baue ein Cashflow-System (Salespage → Checkout → Auslieferung → E-Mail-Follow-up). Schritt für Schritt in Systeme.io erklärt – inkl. Orderbump/Upsell-Logik und 6 Boni.</p>
+<h3>Highlights (Bulletpoints)</h3>
+<ul>
+<li>
+<p>Minikurs-Idee + Struktur (klar &amp; umsetzbar)</p>
+</li>
+<li>
+<p>Funnel-Setup in Systeme.io (Salespage + Automationen)</p>
+</li>
+<li>
+<p>Digistore24 Checkout integriert</p>
+</li>
+<li>
+<p>E-Mail-Auslieferung + Follow-up</p>
+</li>
+<li>
+<p>Order Bump + Upsell/Downsell</p>
+</li>
+<li>
+<p>6 Boni (Workbook, Prompts, Mockups)</p>
+</li>
+</ul>
+<h3>Zielgruppe</h3>
+<p>Anfänger:innen im Online-Business, Coaches, Berater:innen, Dienstleister, Creator mit kleiner Reichweite.</p>
+<h3>Preis-Hinweis</h3>
+<p><strong>37 € inkl Mwst.</strong></p>
+<h3>Provision (falls Feld vorhanden / sonst im Text)</h3>
+<p><strong>50% Provision</strong> • Order Bumps &amp; Upsells aktiv (höherer Warenkorbwert möglich)</p>
 
 ## 2. Links
 
@@ -87,7 +114,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Minikurs Cashflow System? — Typ: E-books, Anbieter: Business_Kickstart, gelistet seit 2025-10-24
-- Wie viel kostet es? — 38.750348 USD
+- Wie viel kostet es? — 38.663898 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

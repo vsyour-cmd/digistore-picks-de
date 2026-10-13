@@ -4,16 +4,16 @@ digistore24_product_id: 347596
 title: "Birkenbihl Sprachkurs Englisch Einsteiger"
 vendor: "birkenbihltv"
 product_type: "Member area and video courses"
-price: 190
+price: 189.57
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 40.39
+earnings_per_sale: 40.3
 cart_conversion_pct: 9
 cancel_rate_pct: 0.22
 categories: ["Education","Personal Development"]
 listed_since: "2020-09-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.klarsicht-verlag.de/news/original-birkenbihl-sprachkurs-englisch-fuer-einsteiger/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.klarsicht-verlag.de/news/original-birkenbihl-sprachkurs-englisch-fuer-einsteiger/"
@@ -22,16 +22,16 @@ language: "de"
 # Birkenbihl Sprachkurs Englisch Einsteiger
 
 > Product ID `45274` · Digistore24 productId `347596` · [HTML profile page](../../produkte/birkenbihl-sprachkurs-englisch-einsteiger-45274.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $190.00 (Subscription) |
+| Price | $189.57 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $40.39 |
+| Earnings/sale* | $40.30 |
 | Cart conversion* | 9% |
 | Cancel rate* | 0.22% |
 | Vendor | birkenbihltv |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sprachkurs für Englisch Anfänger mit wenig Zeit Wie du mit nur 10 Minuten pro Tag im Handumdrehen fließend Englisch sprichst Ohne stumpfes Vokabelpauken oder trockene Grammatik!
+**Vendor's marketplace description:** <h3>Sprachkurs für Englisch Anfänger mit wenig Zeit</h3>
+<h1><strong>Wie du mit nur 10 Minuten pro Tag im Handumdrehen fließend Englisch sprichst</strong></h1>
+<p>Ohne stumpfes Vokabelpauken oder trockene Grammatik!</p>
 
 ## 2. Links
 
@@ -102,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Birkenbihl Sprachkurs Englisch Einsteiger? — Typ: Member area and video courses, Anbieter: birkenbihltv, gelistet seit 2020-09-11
-- Wie viel kostet es? — 189.99773000000002 USD
+- Wie viel kostet es? — 189.57385500000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

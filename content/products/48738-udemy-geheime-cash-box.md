@@ -4,16 +4,16 @@ digistore24_product_id: 562537
 title: "UDEMY - Geheime Cash Box"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 16.38
+earnings_per_sale: 16.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-07-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/udemy-cash-box/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/udemy-cash-box/"
@@ -22,16 +22,16 @@ language: "de"
 # UDEMY - Geheime Cash Box
 
 > Product ID `48738` · Digistore24 productId `562537` · [HTML profile page](../../produkte/udemy-geheime-cash-box-48738.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $16.38 |
+| Earnings/sale* | $16.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Skaliere Dein Online Business mit UDEMY ✅ Hier gibt es alles von A bis Z über Udemy. ✅ Schritt für Schritt wird gezeigt, wie man eine Geldmaschine mit Udemy aufbaut Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 221 Euro
+**Vendor's marketplace description:** <div><span style="background-color:#ffff00;"><em><strong>Skaliere Dein Online Business mit UDEMY</strong></em></span></div>
+<div> </div>
+<div><em><strong>✅</strong> Hier gibt es alles von A bis Z über Udemy.</em></div>
+<div> </div>
+<div><em>✅ Schritt für Schritt wird gezeigt, wie man eine Geldmaschine mit Udemy aufbaut</em></div>
+<div><br /><span style="background-color:#ffff00;"><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></span></div>
+<div> </div>
+<div><em><strong>Du kannst durch Upsells und AddOn bis zu 221 Euro</strong></em></div>
 
 ## 2. Links
 
@@ -66,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist UDEMY - Geheime Cash Box? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-07-24
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

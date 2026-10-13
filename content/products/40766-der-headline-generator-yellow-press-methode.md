@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 0.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.23
+earnings_per_sale: 6.22
 cart_conversion_pct: 51
 cancel_rate_pct: 4.26
 categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2022-07-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://carsten-feuerbach-3.mstrpages.com/headline-generator?aff=adminstore#aff=adminstore"
 sales_page: "https://carsten-feuerbach-3.mstrpages.com/headline-generator"
@@ -22,7 +22,7 @@ language: "de"
 # Der Headline Generator (Yellow-Press-Methode)
 
 > Product ID `40766` · Digistore24 productId `453185` · [HTML profile page](../../produkte/der-headline-generator-yellow-press-methode-40766.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.50 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.23 |
+| Earnings/sale* | $6.22 |
 | Cart conversion* | 51% |
 | Cancel rate* | 4.26% |
 | Vendor | carstenfeuerbach |
@@ -41,7 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe noch heute das exklusive kostenlose E-Book:"Der Headline Generator" - Die "Yellow-Press-Methode" (klick) DIE MACHT EINER PACKENDEN HEADLINE697 Headlines für mehr Traffic, Leads und Profite in 33 Stunden.... selbst in brutal umkämpften Märkten Deine Vorteile (hier klicken): Du verdienst 50 % Provision bei allen Up- und Downsells! Die Verkaufs- und Upsellseiten werden stetig auf Conversion o…
+**Vendor's marketplace description:** <p><strong>Bewerbe noch heute das exklusive kostenlose E-Book:</strong><br /><strong><a href="https://go.carstenfeuerbach.de/headline-generator" target="_blank" rel="noreferrer noopener">"Der Headline Generator" - Die "Yellow-Press-Methode" (klick)</a></strong></p>
+<p>DIE MACHT EINER PACKENDEN HEADLINE<br />697 Headlines für mehr Traffic, Leads und Profite in 33 Stunden.<br />... selbst in brutal umkämpften Märkten</p>
+<p><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">Deine Vorteile (hier klicken):</a></strong></p>
+<ul>
+<li>Du verdienst 50 % Provision bei allen Up- und Downsells!</li>
+<li>Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert.</li>
+<li>Ideales Produkt für "jeden", der mit seinem online Business / Affiliate Marketing starten will oder Herausforderungen damit hat und wirkungsvolle &amp; hilfreiche Tools sucht.</li>
+<li>Du hast mit <a>diesem E-Book ein Geschenk</a> für deine Community und wirst am kompletten E-Mail und Sales-Funnel beteiligt!</li>
+<li>Der Headline Generator funktioniert in jeder Nische.</li>
+<li>1 : 1 anwendbar für Dein Business</li>
+<li>wie du sofort mehr Neukunden gewinnst, direkt mehr Sichtbarkeit für Dich und Deine Produkte</li>
+<li>ideal geeignet für YouTuber, Blogger, Webseiten, Landingpages, E-Mail Marketer &amp; Social Media Kanäle</li>
+<li>Nachdem diese Headlines jeder nutzen kann, ist die Conversion sehr hoch.</li>
+<li>58 Seiten - kompakt zusammengefasst</li>
+<li>BONUS: 3 x Cross- &amp; Upsells (ultimative Swipefile-Kollektionen, Listbuilding &amp; Funnel Magnet)</li>
+<li>Hohe Conversionen, da es für den Kunden kostenlos ist.</li>
+</ul>
+<p>Über € 106,50 Provision beim Funneldurchlauf für Dich möglich!</p>
+<p><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">Deine Provision dafür ist 50 %! (klick)</a></strong><br /><strong><a href="https://go.carstenfeuerbach.de/headline-generator" target="_blank" rel="noreferrer noopener">Verkaufsseite anschauen &gt;&gt;</a></strong></p>
+<p>Deinen Promo-Link holst du dir automatisch über den "Promolink kopieren"-Button oben auf dieser Seite.</p>
+<p>Fragen, Infos, Newsletter-Vorlagen?<br /><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">Affiliate Support Seite &gt;&gt;</a></strong></p>
+<p>Verdiene weitere fette Provisionen mit dem Partnerprogramm von Carsten Feuerbach:<br /><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">Weitere Produkte bewerben (Zum Partnerprogramm hier klicken)</a></strong></p>
 
 ## 2. Links
 
@@ -74,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Headline Generator (Yellow-Press-Methode)? — Typ: E-books, Anbieter: carstenfeuerbach, gelistet seit 2022-07-28
-- Wie viel kostet es? — 0.50427 USD
+- Wie viel kostet es? — 0.5031450000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

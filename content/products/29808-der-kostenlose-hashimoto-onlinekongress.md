@@ -4,16 +4,16 @@ digistore24_product_id: 239771
 title: "DER KOSTENLOSE ​HASHIMOTO ONLINEKONGRESS"
 vendor: "autoimmunportal"
 product_type: "Member area and video courses"
-price: 60.6
+price: 60.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.48
+earnings_per_sale: 23.42
 cart_conversion_pct: 25
 cancel_rate_pct: 3.29
 categories: ["Profession & Job"]
 listed_since: "2018-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://akademie.medumio.de/hashimotokongress/premium-zugang/?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.medumio.de/hashimotokongress/premium-zugang/"
@@ -22,16 +22,16 @@ language: "de"
 # DER KOSTENLOSE ​HASHIMOTO ONLINEKONGRESS
 
 > Product ID `29808` · Digistore24 productId `239771` · [HTML profile page](../../produkte/der-kostenlose-hashimoto-onlinekongress-29808.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $60.60 (Single payment, Installment) |
+| Price | $60.47 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.48 |
+| Earnings/sale* | $23.42 |
 | Cart conversion* | 25% |
 | Cancel rate* | 3.29% |
 | Vendor | autoimmunportal |
@@ -41,7 +41,38 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DU BIST NEUGIERIG, WAS DICH ERWARTET, WENN DU DICH KOSTENLOS ZUM HASHIMOTOKONGRESS ANMELDEST? ​Entdecke das allerneueste Wissen über die Entstehung, Ursachen und Zusammenhänge von Hashimoto. Mit diesem Wissen wirst du ein besseres Verständnis für dich und deinen Körper haben. ​Du wirst lernen wie dein tägliches Verhalten Hashimoto bedingt und wie du negative Verhaltensweisenverändern kannst und de…
+**Vendor's marketplace description:** <div>
+<h2><strong>DU BIST NEUGIERIG, WAS DICH ERWARTET, WENN DU DICH KOSTENLOS ZUM HASHIMOTOKONGRESS ANMELDEST?</strong></h2>
+</div>
+<div><hr /></div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<ul><li>
+<div> </div>
+​Entdecke das allerneueste Wissen über die <strong>Entstehung</strong>, <strong>Ursachen</strong> und <strong>Zusammenhänge</strong> von <strong>Hashimoto</strong>. Mit diesem Wissen wirst du ein besseres Verständnis für dich und deinen Körper haben.</li>
+<li>
+<div> </div>
+​Du wirst lernen wie dein <strong>tägliches</strong> <strong>Verhalten</strong> <strong>Hashimoto</strong> bedingt und wie du <strong>negative</strong> <strong>Verhaltensweisen</strong>verändern kannst und deine Lebensqualität dadurch verbesserst.</li>
+<li>
+<div> </div>
+​Lerne verschiedene <strong>Ernährungsprotokolle</strong> kennen, die <strong>zahlreichen Betroffenen</strong> <strong>geholfen</strong> haben und verstehe die <strong>Wirkprinzipien</strong>.</li>
+<li>
+<div> </div>
+​Spätestens nachdem der<strong> Medizin-Nobelpreis</strong> für eine Studie über den <strong>Tag-Nacht-Rhythmus</strong> verliehen wurde, weiß die Welt, dass eine gestörte <strong>innerere Uhr</strong> massiv den <strong>Hormonhaushalt</strong> beeinflusst und somit eine <strong>Ursache</strong> für <strong>Hashimoto</strong> ist. Wir erklären welche <strong>Faktoren</strong> dich <strong>beeinflussen</strong> und wie du wieder ins Gleichgewicht kommst.</li>
+<li>
+<div> </div>
+Entdecke die <strong>vielversprechendsten</strong> <strong>Behandlungsmethoden</strong> aus der <strong>Wissenschaft</strong>, wie z.B. <strong>funktionelle Medizin</strong>, <strong>mitochondriale</strong> <strong>Medizin</strong> oder <strong>TCM</strong>.</li>
+<li>
+<div> </div>
+Du wirst verstehen was mit deinem Körper in Zeiten der <strong>Hormonumstellung</strong> passiert. Stichworte: <strong>Wechseljahre</strong>, <strong>Schwangerschaft</strong>, <strong>Stillzeit</strong>.</li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -100,7 +131,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DER KOSTENLOSE ​HASHIMOTO ONLINEKONGRESS? — Typ: Member area and video courses, Anbieter: autoimmunportal, gelistet seit 2018-09-13
-- Wie viel kostet es? — 60.602048 USD
+- Wie viel kostet es? — 60.466848000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

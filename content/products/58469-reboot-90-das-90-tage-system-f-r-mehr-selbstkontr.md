@@ -4,34 +4,34 @@ digistore24_product_id: 722055
 title: "REBOOT 90 – Das 90-Tage-System für mehr Selbstkontr"
 vendor: "manuelcosta"
 product_type: "Software"
-price: 17.88
+price: 17.84
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 10.74
+earnings_per_sale: 10.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Education","Health & Fitness"]
 listed_since: "2026-08-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/722055?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58469/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/722055"
 language: "de"
 ---
 # REBOOT 90 – Das 90-Tage-System für mehr Selbstkontr
 
 > Product ID `58469` · Digistore24 productId `722055` · [HTML profile page](../../produkte/reboot-90-das-90-tage-system-f-r-mehr-selbstkontr-58469.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $17.88 (Single payment) |
+| Price | $17.84 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $10.74 |
+| Earnings/sale* | $10.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** REBOOT 90 – Das 90-Tage-System für mehr Selbstkontrolle
+**Vendor's marketplace description:** <p>REBOOT 90 – Das 90-Tage-System für mehr Selbstkontrolle</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/722055?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58469/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/722055
 - Canonical redirect: https://www.digistore24.com/redir/722055/adminstore
 
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist REBOOT 90 – Das 90-Tage-System für mehr Selbstkontr? — Typ: Software, Anbieter: manuelcosta, gelistet seit 2026-08-19
-- Wie viel kostet es? — 17.884776000000002 USD
+- Wie viel kostet es? — 17.844876000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

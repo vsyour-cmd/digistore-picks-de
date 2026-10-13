@@ -4,16 +4,16 @@ digistore24_product_id: 693344
 title: "Social Cashflow für Instagram, Facebook Tiktok"
 vendor: "rs-onlineagentur"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.14
+earnings_per_sale: 14.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://rita-scheer.de/social-cashflow?aff=adminstore#aff=adminstore"
 sales_page: "https://rita-scheer.de/social-cashflow"
@@ -22,16 +22,16 @@ language: "de"
 # Social Cashflow für Instagram, Facebook Tiktok
 
 > Product ID `58244` · Digistore24 productId `693344` · [HTML profile page](../../produkte/social-cashflow-f-r-instagram-facebook-tiktok-58244.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.14 |
+| Earnings/sale* | $14.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Social Cashflow ist ein praxisnahes E-Book für Anfänger, die auf Instagram, Facebook und TikTok regelmäßiger sichtbar werden möchten, ohne jeden Tag wieder planlos nach neuen Content-Ideen zu suchen. Das E-Book zeigt Schritt für Schritt, wie aus einzelnen Posts ein verständliches Social-Media-System entsteht. Die Leser lernen unter anderem: Zielgruppe und Botschaft klar festzulegen passende Conten…
+**Vendor's marketplace description:** <p><strong>Social Cashflow</strong> ist ein praxisnahes E-Book für Anfänger, die auf <strong>Instagram, Facebook und TikTok</strong> regelmäßiger sichtbar werden möchten, ohne jeden Tag wieder planlos nach neuen Content-Ideen zu suchen.</p>
+<p>Das E-Book zeigt Schritt für Schritt, wie aus einzelnen Posts ein verständliches Social-Media-System entsteht.</p>
+<p>Die Leser lernen unter anderem:</p>
+<ul>
+<li>Zielgruppe und Botschaft klar festzulegen</li>
+<li>passende Content-Säulen aufzubauen</li>
+<li>Hooks zu entwickeln, die Aufmerksamkeit erzeugen</li>
+<li>Inhalte für Instagram, Facebook und TikTok sinnvoll anzupassen</li>
+<li>CTAs natürlich mit dem eigenen Angebot zu verbinden</li>
+<li>KI für Ideen, Planung und Content-Erstellung einzusetzen</li>
+<li>bestehende Inhalte mehrfach zu verwenden</li>
+<li>Ergebnisse auszuwerten und den eigenen Content zu verbessern</li>
+</ul>
+<p>Zusätzlich enthält <strong>Social Cashflow</strong> praktische KI-Prompts, <strong>50 Hooks, 30 Content-Ideen und einen 30-Tage-Umsetzungsplan</strong>.</p>
+<p><strong>Zielgruppe:</strong> Online-Business-Einsteiger, Selbstständige, Affiliates und digitale Produktersteller, die Social Media strukturierter für Sichtbarkeit und Verkauf nutzen möchten.</p>
+<p>Fertige Werbetexte, Hooks und Werbemittel stehen Affiliates auf der Affiliate-Support-Seite zur Verfügung:</p>
 
 ## 2. Links
 
@@ -89,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Cashflow für Instagram, Facebook Tiktok? — Typ: E-books, Anbieter: rs-onlineagentur, gelistet seit 2026-08-09
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

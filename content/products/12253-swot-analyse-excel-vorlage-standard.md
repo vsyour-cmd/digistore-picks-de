@@ -4,34 +4,34 @@ digistore24_product_id: 72157
 title: "SWOT-Analyse Excel-Vorlage Standard"
 vendor: "meckseo"
 product_type: "Downloads"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 3.77
+earnings_per_sale: 3.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2016-02-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://swot-analyse.net/swot-analyse-excel-vorlage-download/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12253/adminstore/"
 sales_page: "http://swot-analyse.net/swot-analyse-excel-vorlage-download/"
 language: "de"
 ---
 # SWOT-Analyse Excel-Vorlage Standard
 
 > Product ID `12253` · Digistore24 productId `72157` · [HTML profile page](../../produkte/swot-analyse-excel-vorlage-standard-12253.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $3.77 |
+| Earnings/sale* | $3.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | meckseo |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit dieser Excel-Vorlage ist die SWOT-Analyse ein Kinderspiel. Einfach die erforderlichen Daten ausfüllen und schon können Sie das Ergebnis sehen. Alle Formulare sind zum ausdrucken. Auch das Speichern als PDF ist möglich. Erweitern Sie das Angebot auf Ihrer Webseite um diese Vorlage, bieten Ihren Nutzern damit ein hilfreiches Tool an und verdienen 30% Provision. Passend dazu können Sie auch das B…
+**Vendor's marketplace description:** <p>Mit dieser Excel-Vorlage ist die SWOT-Analyse ein Kinderspiel. Einfach die erforderlichen Daten ausfüllen und schon können Sie das Ergebnis sehen. Alle Formulare sind zum ausdrucken. Auch das Speichern als PDF ist möglich.</p>
+<p>Erweitern Sie das Angebot auf Ihrer Webseite um diese Vorlage, bieten Ihren Nutzern damit ein hilfreiches Tool an und verdienen 30% Provision.</p>
+<p>Passend dazu können Sie auch das Blattschutz-Passwort für diese Vorlage mit anbieten. Hier bekommt der Nutzer den vollen Zugriff auf das Programm und kann es beliebig anpassen. Die Provision für den erfolgreichen Verkauf des Blattschutz-Passwortes beträgt 20%.</p>
+<p><a href="http://swot-analyse.net/affiliate-partner-werden/" target="_blank" rel="noreferrer noopener"><strong>Affiliate Partner werden</strong></a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://swot-analyse.net/swot-analyse-excel-vorlage-download/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12253/adminstore/
 - Sales page: http://swot-analyse.net/swot-analyse-excel-vorlage-download/
 - Vendor affiliate support: http://swot-analyse.net/affiliate-partner-werden/
 - Canonical redirect: https://www.digistore24.com/redir/72157/adminstore
@@ -84,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist SWOT-Analyse Excel-Vorlage Standard? — Typ: Downloads, Anbieter: meckseo, gelistet seit 2016-02-16
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

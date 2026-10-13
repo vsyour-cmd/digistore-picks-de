@@ -4,16 +4,16 @@ digistore24_product_id: 463928
 title: "Auswandern nach Kroatien"
 vendor: "medienversand2014"
 product_type: "E-books"
-price: 18.75
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.38
+earnings_per_sale: 9.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2022-10-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://noebauerfxj.wixsite.com/kroatien1?aff=adminstore#aff=adminstore"
 sales_page: "https://noebauerfxj.wixsite.com/kroatien1"
@@ -22,16 +22,16 @@ language: "de"
 # Auswandern nach Kroatien
 
 > Product ID `46414` · Digistore24 productId `463928` · [HTML profile page](../../produkte/auswandern-nach-kroatien-46414.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.75 (Single payment) |
+| Price | $18.71 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.38 |
+| Earnings/sale* | $9.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | medienversand2014 |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 10. Überarbeitete Ausgabe Bist Du auf der Suche nach einer hilfreichen Lektüre, in der Dir alles wichtige zum Auswandern nach Kroatien erklärt wird und Dich dabei an die Hand nimmt?Mein großes Anliegen zur Veröffentlichung dieses Ratgebers lag darin, dass ich selbst Ende September 2018 nach Kroatien ausgewandert bin. Bitte unbedingt beachten:Hier handelt es sich um ein digitales Produkt und kein p…
+**Vendor's marketplace description:** <p><span style="color:#ff0000;">10. Überarbeitete Ausgabe</span></p>
+<p>Bist Du auf der Suche nach einer hilfreichen Lektüre, in der Dir alles wichtige zum Auswandern nach Kroatien erklärt wird und Dich dabei an die Hand nimmt?<br /><br />Mein großes Anliegen zur Veröffentlichung dieses Ratgebers lag darin, dass ich selbst Ende September 2018 nach Kroatien ausgewandert bin.</p>
+<p> </p>
+<p><span style="color:#ff0000;"><strong>Bitte unbedingt beachten:</strong></span><br /><span style="color:#ff0000;">Hier handelt es sich um ein digitales Produkt und kein pysisches Buch.</span></p>
 
 ## 2. Links
 
@@ -59,7 +62,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auswandern nach Kroatien? — Typ: E-books, Anbieter: medienversand2014, gelistet seit 2022-10-10
-- Wie viel kostet es? — 18.747638000000002 USD
+- Wie viel kostet es? — 18.705813000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

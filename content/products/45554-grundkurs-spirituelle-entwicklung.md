@@ -4,16 +4,16 @@ digistore24_product_id: 511224
 title: "Grundkurs spirituelle Entwicklung"
 vendor: "andyschwab"
 product_type: "Member area and video courses"
-price: 414.62
+price: 413.7
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 41.46
+earnings_per_sale: 41.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-08-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://grundkurs.andyschwab.com/landing-page/?aff=adminstore#aff=adminstore"
 sales_page: "https://grundkurs.andyschwab.com/landing-page/"
@@ -22,16 +22,16 @@ language: "de"
 # Grundkurs spirituelle Entwicklung
 
 > Product ID `45554` · Digistore24 productId `511224` · [HTML profile page](../../produkte/grundkurs-spirituelle-entwicklung-45554.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $414.62 (Single payment, Installment) |
+| Price | $413.70 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $41.46 |
+| Earnings/sale* | $41.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andyschwab |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Noch nie wurde so ein tiefer und weitreichender spiritueller Grundkurs online angeboten. ca 30 Module mit vielen Lektionen führen den Kursteilnehmer in eine bodenständige und firlefanzfreie Spiritualität die auf vom Autor selber gemachten Erfahrungen basieren. Total Praxisbezogen, nicht abgehoben und genial umsetzbar. Andy Schwab ist wohl einer der bekanntesten und erfolgreichsten spirituellen Leh…
+**Vendor's marketplace description:** <p>Noch nie wurde so ein tiefer und weitreichender spiritueller Grundkurs online angeboten.</p>
+<p> </p>
+<p>ca 30 Module mit vielen Lektionen führen den Kursteilnehmer in eine bodenständige und firlefanzfreie Spiritualität die auf vom Autor selber gemachten Erfahrungen basieren. Total Praxisbezogen, nicht abgehoben und genial umsetzbar.</p>
+<p> </p>
+<p>Andy Schwab ist wohl einer der bekanntesten und erfolgreichsten spirituellen Lehrern und Medium überhaupt. In seinen Vorträgen, Kursen und Ausbildungen hat er schon viele tausend Menschen unterrichtet, inspiriert und auf ihrem Weg begleitet.</p>
+<p>Seine Bestseller „die liebe der geistigen Welt“ und „die Hilfe der geistigen Welt“ haben zahllose Menschen berührt, Heilung und Zuversicht gebracht.</p>
+<p>Schon als Kind hat er klare Zeichen, Hinweise und Wegweiser erhalten für seinen eigenen spirituellen weg. Seit Anfang 20 geht er diesen Weg konsequent, spielerisch und mit viel Humor.</p>
+<p>Denn das Leben ist zu kurz und zu wichtig, um es zu ernst zu nehmen und in den eigenen Grenzen der Vorstellungen verwelken zu lassen. Sich selbst zu erkennen und bedingungslos dem Weg des eigenen Erblühens zu folgen ist die Lebensaufgabe aller Menschen.</p>
+<p>Die eigenen psychologischen Prozesse - die sich als Emotionen und Gedanken zeigen, sind Hinweisschilder und sollten nicht mit eigenen Wesen, dem Selbst verwechselt werden.Unser wahres und richtiges Wesen ist voller Zuversicht, Freude und unendlichem inneren Frieden.</p>
+<p>Vielen Menschen wird diese Wahrheit erst durch einen Schicksalsschlag oder eine visionäre Erfahrung bewusst.Andy hat selbst einige Nahtodeserlebnisse gehabt und viele tiefe Visionen als junger Mann und diese als Information und Motivation genommen seinen Weg der spirituellen Entwicklung weiter und weiterzugehen.</p>
+<p>Als Medium hat er schon mehrere tausend Einzelsitzungen gegeben und an seinen Kursen mit Schülern weit über 25000 „Geistwesen“ - Verstorbene in der geistigen Welt wahrgenommen.Der Tod ist ein Übergang in eine andere Dimension und alle Verstorbenen mit denen Andy darüber ausführlicher gesprochen hat, waren komplett überrascht, wie lichtvoll, hell, freundlich und ohne jegliche Belastung das Leben quasi übergangslos weiter geht.</p>
+<p>Andy Schwab teilt sein Bewusstsein, Wissen und Erfahrungen humorvoll, kompetent, liebevoll und klar mit allen interessierten Menschen und Wesen.</p>
 
 ## 2. Links
 
@@ -90,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grundkurs spirituelle Entwicklung? — Typ: Member area and video courses, Anbieter: andyschwab, gelistet seit 2023-08-09
-- Wie viel kostet es? — 414.622 USD
+- Wie viel kostet es? — 413.69700000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

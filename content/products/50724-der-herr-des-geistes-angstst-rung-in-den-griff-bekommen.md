@@ -4,16 +4,16 @@ digistore24_product_id: 722701
 title: "Der Herr des Geistes - Angststörung in den Griff bekommen"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 302.28
+price: 301.61
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 94.77
+earnings_per_sale: 94.56
 cart_conversion_pct: 5
 cancel_rate_pct: 5.63
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2024-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/722701?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/722701"
@@ -22,16 +22,16 @@ language: "de"
 # Der Herr des Geistes - Angststörung in den Griff bekommen
 
 > Product ID `50724` · Digistore24 productId `722701` · [HTML profile page](../../produkte/der-herr-des-geistes-angstst-rung-in-den-griff-bekommen-50724.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $302.28 (Single payment, Installment) |
+| Price | $301.61 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $94.77 |
+| Earnings/sale* | $94.56 |
 | Cart conversion* | 5% |
 | Cancel rate* | 5.63% |
 | Vendor | AndreasLang |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Unsere Plattform Affiliateking.net – nutze sie, um zusätzlich zu den Provisionen saftige Zusatzeinnahmen zu kassieren. Hier direkt zur Partnerseite + Werbemittel - klick Außerdem gibt es eine Rangliste mit Awards und weiteren Vorteilen. Hier die aktuelle Rangliste - klick Eventuell stehst du schon drauf, ohne dass du es weißt – prüfe es also schnell ;-)
+**Vendor's marketplace description:** <h3><strong>Unsere Plattform <a href="https://affiliateking.net/" target="_blank" rel="noreferrer noopener">Affiliateking.net</a> – nutze sie, um zusätzlich zu den Provisionen saftige Zusatzeinnahmen zu kassieren.<br /></strong></h3>
+<hr />
+<h4><br /><a href="https://affiliateking.net/" target="_blank" rel="noreferrer noopener"><strong>Hier direkt zur Partnerseite + Werbemittel - klick</strong></a></h4>
+<h4>Außerdem gibt es eine Rangliste mit Awards und weiteren Vorteilen.</h4>
+<h4><a href="https://affiliateking.net/wettbewerb" target="_blank" rel="noreferrer noopener"><strong>Hier die aktuelle Rangliste - klick</strong></a></h4>
+<h4>Eventuell stehst du schon drauf, ohne dass du es weißt – prüfe es also schnell ;-)</h4>
 
 ## 2. Links
 
@@ -89,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Herr des Geistes - Angststörung in den Griff bekommen? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2024-09-25
-- Wie viel kostet es? — 302.28185 USD
+- Wie viel kostet es? — 301.607475 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

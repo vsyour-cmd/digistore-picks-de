@@ -4,34 +4,34 @@ digistore24_product_id: 415216
 title: "Devodix Poster"
 vendor: "Robinfocke"
 product_type: "Software"
-price: 164.73
+price: 164.36
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 49.42
+earnings_per_sale: 49.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2021-11-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://devodix.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.lerntipp.com/geheimnisse-der-anziehungskraft#aff=adminstore"
 sales_page: "https://devodix.com"
 language: "de"
 ---
 # Devodix Poster
 
 > Product ID `24425` · Digistore24 productId `415216` · [HTML profile page](../../produkte/devodix-poster-24425.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $164.73 (Single payment) |
+| Price | $164.36 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $49.42 |
+| Earnings/sale* | $49.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Robinfocke |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der beste & sicherste Autoposter für Facebook - Geeignet für Apple,Windows,Linux - Chrome erweiterung - keine Api nutzung - Startklar unter 5 Minuten - Direkt in deinem Browser nutzen - Ohne extralogin für Facebook - Kampagnen speichern - Kein Limit - bis zu 5 unterschiedliche Texte - Zufalls Postzeit
+**Vendor's marketplace description:** <h2>Der beste &amp; sicherste Autoposter für <span style="color:#ff0000;"><strong>Facebook</strong></span></h2>
+<p> </p>
+<p><strong>- Geeignet für Apple,Windows,Linux</strong></p>
+<p><strong>- Chrome erweiterung</strong></p>
+<p><strong>- keine Api nutzung</strong></p>
+<p><strong>- Startklar unter 5 Minuten</strong></p>
+<p><strong>- Direkt in deinem Browser nutzen</strong></p>
+<p><strong>- Ohne extralogin für Facebook</strong></p>
+<p><strong>- Kampagnen speichern</strong></p>
+<p><strong>- Kein Limit</strong></p>
+<p><strong>- bis zu 5 unterschiedliche Texte</strong></p>
+<p><strong>- Zufalls Postzeit</strong></p>
+<h2 style="text-align:center;"> </h2>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://devodix.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.lerntipp.com/geheimnisse-der-anziehungskraft#aff=adminstore
 - Sales page: https://devodix.com
 - Vendor affiliate support: https://devodix.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/415216/adminstore
@@ -92,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Devodix Poster? — Typ: Software, Anbieter: Robinfocke, gelistet seit 2021-11-08
-- Wie viel kostet es? — 164.72820000000002 USD
+- Wie viel kostet es? — 164.3607 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

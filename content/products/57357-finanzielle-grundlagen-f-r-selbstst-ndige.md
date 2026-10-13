@@ -4,34 +4,34 @@ digistore24_product_id: 707219
 title: "Finanzielle Grundlagen für Selbstständige"
 vendor: "buergelconsulting"
 product_type: "E-books"
-price: 39.75
+price: 39.66
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.92
+earnings_per_sale: 11.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/707219?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57357/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/707219"
 language: "de"
 ---
 # Finanzielle Grundlagen für Selbstständige
 
 > Product ID `57357` · Digistore24 productId `707219` · [HTML profile page](../../produkte/finanzielle-grundlagen-f-r-selbstst-ndige-57357.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $39.75 (Single payment) |
+| Price | $39.66 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.92 |
+| Earnings/sale* | $11.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | buergelconsulting |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du verdienst gut – aber weißt nicht, wo dein Geld bleibt? Du bist selbstständig, arbeitest hart und verdienst anständig. Aber am Ende des Monats bleibt wenig übrig. Steuernachzahlungen überraschen dich. Rücklagen fehlen. Und an Vermögensaufbau ist noch gar nicht zu denken. Das ist kein Zufall – niemand bringt dir als Selbstständiger bei, wie du mit Geld umgehst. Dieses E-Book ändert das. Was du in…
+**Vendor's marketplace description:** <p>Du verdienst gut – aber weißt nicht, wo dein Geld bleibt?</p>
+<p>Du bist selbstständig, arbeitest hart und verdienst anständig. Aber am Ende des Monats bleibt wenig übrig. Steuernachzahlungen überraschen dich. Rücklagen fehlen. Und an Vermögensaufbau ist noch gar nicht zu denken.</p>
+<p>Das ist kein Zufall – niemand bringt dir als Selbstständiger bei, wie du mit Geld umgehst.</p>
+<p>Dieses E-Book ändert das.</p>
+<hr />
+<p><strong>Was du in diesem E-Book lernst:</strong></p>
+<p>✅ Das 4-Konten-Modell – so strukturierst du deine Finanzen ein für alle Mal<br />✅ Steuern richtig planen – nie wieder böse Überraschungen vom Finanzamt<br />✅ Notgroschen aufbauen – dein finanzieller Schutzschild als Selbstständiger<br />✅ Vermögensaufbau mit ETFs – dein Geld arbeitet für dich<br />✅ Altersvorsorge als Selbstständiger – was du wirklich brauchst<br />✅ Die 7 häufigsten Fehler – und wie du sie von Anfang an vermeidest<br />✅ Dein persönlicher 90-Tage-Finanzplan – konkret und umsetzbar</p>
+<hr />
+<p><strong>Für wen ist dieses E-Book?</strong></p>
+<p>→ Selbstständige und Freiberufler die endlich Struktur in ihre Finanzen bringen wollen<br />→ Unternehmer die mehr vom verdienten Geld behalten wollen<br />→ Freelancer und Influencer die sich zum ersten Mal ernsthaft mit Vermögensaufbau beschäftigen<br />→ Alle die aufgehört haben zu hoffen dass es irgendwie von alleine besser wird</p>
+<hr />
+<p><strong>Was dieses E-Book besonders macht:</strong></p>
+<p>Kein theoretisches Fachwissen. Keine komplizierten Fachbegriffe. Sondern das Wissen, das Marco Bürgel täglich in seiner Beratung mit Selbstständigen, Unternehmern und Freelancern anwendet – verständlich, direkt und sofort umsetzbar.</p>
+<hr />
+<p><strong>Über den Autor:</strong></p>
+<p>Marco Bürgel ist unabhängiger Finanz- und Vermögensberater mit Sitz in Deutschland. Er berät Selbstständige, Unternehmer und Influencer dabei, ihre Finanzen zu strukturieren und langfristig Vermögen aufzubauen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/707219?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57357/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/707219
 - Canonical redirect: https://www.digistore24.com/redir/707219/adminstore
 
@@ -71,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finanzielle Grundlagen für Selbstständige? — Typ: E-books, Anbieter: buergelconsulting, gelistet seit 2026-07-02
-- Wie viel kostet es? — 39.747682 USD
+- Wie viel kostet es? — 39.659007 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

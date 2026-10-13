@@ -4,16 +4,16 @@ digistore24_product_id: 722816
 title: "Narzissmus und toxische Beziehungen – E-Book, Hörbuch und Bundle"
 vendor: "Solusandson"
 product_type: "E-books"
-price: 20.93
+price: 20.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.47
+earnings_per_sale: 10.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Education","Personal Development"]
 listed_since: "2026-08-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://toxischefakten.de/buch/?aff=adminstore#aff=adminstore"
 sales_page: "https://toxischefakten.de/buch/"
@@ -22,16 +22,16 @@ language: "de"
 # Narzissmus und toxische Beziehungen – E-Book, Hörbuch und Bundle
 
 > Product ID `58494` · Digistore24 productId `722816` · [HTML profile page](../../produkte/narzissmus-und-toxische-beziehungen-e-book-h-rbuch-und-bundle-58494.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.93 (Single payment) |
+| Price | $20.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.47 |
+| Earnings/sale* | $10.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Solusandson |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Toxische-Fakten-Buch bietet verständliche Orientierung zu Narzissmus, narzisstischen Beziehungsmustern, toxischen Beziehungen und emotionaler Manipulation. Behandelt werden unter anderem Gaslighting, Love Bombing, Silent Treatment, Trauma Bonding, Future Faking und Hoovering. Die Inhalte sind ruhig, verständlich und alltagsnah aufbereitet. Das Angebot umfasst:• E-Book als PDF mit 136 gestaltet…
+**Vendor's marketplace description:** <p>Das Toxische-Fakten-Buch bietet verständliche Orientierung zu Narzissmus, narzisstischen Beziehungsmustern, toxischen Beziehungen und emotionaler Manipulation.</p>
+<p>Behandelt werden unter anderem Gaslighting, Love Bombing, Silent Treatment, Trauma Bonding, Future Faking und Hoovering. Die Inhalte sind ruhig, verständlich und alltagsnah aufbereitet.</p>
+<p>Das Angebot umfasst:<br />• E-Book als PDF mit 136 gestalteten Seiten<br />• 16 Themenkapitel<br />• Workbook zur Einordnung der eigenen Situation<br />• 10 kompakte Checklisten<br />• 4 ausführlich eingeordnete Fallbeispiele<br />• Hörbuch als MP3 mit etwa 2 Stunden 30 Minuten Laufzeit<br />• E-Book und Hörbuch auch gemeinsam als Bundle</p>
+<p>Geeignet für Creator aus den Bereichen Beziehungen, Psychologie, persönliche Entwicklung, Selbstfürsorge und Aufklärung. Eine kompakte Leseprobe, Produktbilder, Story- und Feed-Motive sowie fertige Werbetexte stehen zur Verfügung.</p>
+<p>Die Verkaufsseite führt E-Book, Hörbuch und Bundle transparent auf. Die digitale Auslieferung erfolgt unmittelbar nach dem Kauf. Das Produkt dient der Aufklärung und Bildung und ersetzt keine Therapie, Diagnose oder individuelle Beratung.</p>
 
 ## 2. Links
 
@@ -77,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Narzissmus und toxische Beziehungen – E-Book, Hörbuch und Bundle? — Typ: E-books, Anbieter: Solusandson, gelistet seit 2026-08-21
-- Wie viel kostet es? — 20.932808 USD
+- Wie viel kostet es? — 20.886108 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

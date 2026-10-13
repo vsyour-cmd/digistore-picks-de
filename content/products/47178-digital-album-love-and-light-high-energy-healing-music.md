@@ -4,16 +4,16 @@ digistore24_product_id: 538504
 title: "Digital Album \"Love and Light\" - high energy healing music"
 vendor: "HighEnergyTransformation"
 product_type: "Downloads"
-price: 17.84
+price: 17.8
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.14
+earnings_per_sale: 7.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-02-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.christopheckhardt.com/love-and-light?aff=[affiliate]&aff=adminstore#aff=adminstore"
 sales_page: "https://www.christopheckhardt.com/love-and-light?aff=[affiliate]"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Album "Love and Light" - high energy healing music
 
 > Product ID `47178` · Digistore24 productId `538504` · [HTML profile page](../../produkte/digital-album-love-and-light-high-energy-healing-music-47178.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.84 (Single payment) |
+| Price | $17.80 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.14 |
+| Earnings/sale* | $7.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HighEnergyTransformation |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lausche der tief berührenden, heilenden Musik, die direkt zu deinem Herzen und deiner Seele spricht. Die Frequenzen schenken dir Licht, Liebe, Frieden und Harmonie. Hör einfach hinein, du wirst erstaunt sein, was diese himmlischen Schwingungen bewirken können. Du bekommst insgesamt 7 Audio-Tracks in höchster MP3 Qualität (320 kBit/s) zum Herunterladen. Dauer: 75 Minuten inklusive Bonustrack © 2024…
+**Vendor's marketplace description:** <p>Lausche der tief berührenden, heilenden Musik, die direkt zu deinem Herzen und deiner Seele spricht. Die Frequenzen schenken dir Licht, Liebe, Frieden und Harmonie. Hör einfach hinein, du wirst erstaunt sein, was diese himmlischen Schwingungen bewirken können.</p>
+<p>Du bekommst insgesamt 7 Audio-Tracks in höchster MP3 Qualität (320 kBit/s) zum Herunterladen.</p>
+<p>Dauer: 75 Minuten inklusive Bonustrack</p>
+<p>© 2024 Christoph Eckhardt. Alle Rechte vorbehalten. Die Nutzung dieser Meditationsmusik ist ausschließlich für persönliche und private Zwecke erlaubt. Jegliche Vervielfältigung, Verbreitung, öffentliche Aufführung oder andere Nutzung, die über den persönlichen Gebrauch hinausgeht, ist ohne vorherige schriftliche Zustimmung des Urhebers nicht gestattet.</p>
 
 ## 2. Links
 
@@ -69,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Album "Love and Light" - high energy healing music? — Typ: Downloads, Anbieter: HighEnergyTransformation, gelistet seit 2024-02-10
-- Wie viel kostet es? — 17.839952 USD
+- Wie viel kostet es? — 17.800152 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

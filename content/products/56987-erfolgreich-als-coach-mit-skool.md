@@ -4,34 +4,34 @@ digistore24_product_id: 701407
 title: "Erfolgreich als Coach mit Skool"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-skool?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56987/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-skool"
 language: "de"
 ---
 # Erfolgreich als Coach mit Skool
 
 > Product ID `56987` · Digistore24 productId `701407` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-skool-56987.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du auf Skool eine kostenpflichtige Membership aufbaust, Kurse verkaufst und Kunden langfristig bindest Als Coach brauchst du mehr als ein gutes Angebot – du brauchst eine Infrastruktur, die Vertrauen aufbaut, Kunden bindet und planbar Einnahmen erzeugt. Skool bietet dir genau das: Community, Kurse und Gamification in einer Plattform. Dieses E-Book zeigt dir, wie du eine kostenpflichtige Member…
+**Vendor's marketplace description:** <p><strong>Wie du auf Skool eine kostenpflichtige Membership aufbaust, Kurse verkaufst und Kunden langfristig bindest</strong></p>
+<p>Als Coach brauchst du mehr als ein gutes Angebot – du brauchst eine Infrastruktur, die Vertrauen aufbaut, Kunden bindet und planbar Einnahmen erzeugt. Skool bietet dir genau das: Community, Kurse und Gamification in einer Plattform. Dieses E-Book zeigt dir, wie du eine kostenpflichtige Membership aufbaust, die Mitglieder Monat für Monat erneuern, wie du deinen Classroom so strukturierst, dass Kurse wirklich durchgezogen werden, und wie Gamification mit Leaderboard und Levels Engagement und Loyalität erzeugt. Du lernst außerdem, wie du deine Community von außen befüllst – mit Content, Funnels und einer klaren Positionierung. Das Ergebnis: ein skalierbares Coaching-Business, das nicht von einzelnen 1:1-Stunden abhängt.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Kostenpflichtige Membership einrichten und Preisgestaltung strategisch wählen</li>
+<li>Classroom-Struktur, die Kunden durch dein Programm führt statt zu überfordern</li>
+<li>Gamification als Bindungs-Hebel: Levels und Leaderboard für deine Kurs-Teilnehmer</li>
+<li>Onboarding-Flow, der neue Mitglieder sofort aktiviert und Stornos reduziert</li>
+<li>Community-Aktivität steuern: Diskussionen, Challenges und wöchentliche Rituale</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-skool?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56987/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-skool
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701407/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit Skool? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

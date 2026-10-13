@@ -4,16 +4,16 @@ digistore24_product_id: 701400
 title: "So baust du Reichweite auf Mastodon"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 25.14
+price: 25.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.57
+earnings_per_sale: 12.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/so-baust-du-reichweite-auf-mastodon?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/so-baust-du-reichweite-auf-mastodon"
@@ -22,16 +22,16 @@ language: "de"
 # So baust du Reichweite auf Mastodon
 
 > Product ID `56980` · Digistore24 productId `701400` · [HTML profile page](../../produkte/so-baust-du-reichweite-auf-mastodon-56980.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.14 (Single payment) |
+| Price | $25.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.57 |
+| Earnings/sale* | $12.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Community aufbauen, Boosts gewinnen und im Fediverse zur gefragten Stimme werden Auf Mastodon gibt es keinen Algorithmus, der deinen Content pusht oder ausbremst – deine Reichweite entsteht ausschließlich durch Relevanz, Haltung und gegenseitige Unterstützung. Das ist anspruchsvoller als auf anderen Plattformen, aber auch nachhaltiger: Wer hier wächst, hat eine Community, die wirklich zuhört. Dies…
+**Vendor's marketplace description:** <p><strong>Community aufbauen, Boosts gewinnen und im Fediverse zur gefragten Stimme werden</strong></p>
+<p>Auf Mastodon gibt es keinen Algorithmus, der deinen Content pusht oder ausbremst – deine Reichweite entsteht ausschließlich durch Relevanz, Haltung und gegenseitige Unterstützung. Das ist anspruchsvoller als auf anderen Plattformen, aber auch nachhaltiger: Wer hier wächst, hat eine Community, die wirklich zuhört. Dieses E-Book zeigt dir, wie du mit konsequenter Hashtag-Arbeit gefunden wirst, warum Boosts die wichtigste Währung im Fediverse sind und wie du durch Alt-Texte und Inhaltswarnungen zur respektierten Stimme wirst. Du lernst, wie Threads Tiefe schaffen, wie Nischen-Instanzen Multiplikatoren sind und wie du aus einer kleinen, engagierten Community echte Wirkung erzeugst.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Hashtag-Strategie: wie du im chronologischen Feed langfristig sichtbar bleibst</li>
+<li>Boosts gezielt gewinnen: was anderen Wert genug ist zum Weiterteilen</li>
+<li>Threads als Tiefformat: Reichweite durch Mehrwert in Serien</li>
+<li>Nischen-Instanzen als Multiplikatoren für deine Inhalte nutzen</li>
+<li>Alt-Texte und Inhaltswarnungen: Kultur, die dir Respekt einbringt</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So baust du Reichweite auf Mastodon? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 25.135058 USD
+- Wie viel kostet es? — 25.078983 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

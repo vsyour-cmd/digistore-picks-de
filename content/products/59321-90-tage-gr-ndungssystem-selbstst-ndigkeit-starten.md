@@ -4,34 +4,34 @@ digistore24_product_id: 734403
 title: "90-Tage-Gründungssystem – Selbstständigkeit starten"
 vendor: "Medina88"
 product_type: "Downloads"
-price: 469.9
+price: 468.85
 currency: "USD"
-affiliate_commission_pct: 40
-earnings_per_sale: 187.96
+affiliate_commission_pct: 30
+earnings_per_sale: 140.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Profession & Job"]
 listed_since: "2026-09-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/734403?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59321/adminstore/"
 sales_page: "https://www.digistore24.com/product/734403"
 language: "de"
 ---
 # 90-Tage-Gründungssystem – Selbstständigkeit starten
 
 > Product ID `59321` · Digistore24 productId `734403` · [HTML profile page](../../produkte/90-tage-gr-ndungssystem-selbstst-ndigkeit-starten-59321.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $469.90 (Single payment) |
-| Affiliate commission | 40% |
-| Earnings/sale* | $187.96 |
+| Price | $468.85 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $140.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Medina88 |
@@ -41,11 +41,35 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Deine Zielgruppe möchte sich selbstständig machen, weiß aber nicht, wie sie Anmeldung, Finanzen und Kundengewinnung angehen soll? Das 90-Tage-Gründungssystem von Almedina Hajro begleitet Einsteiger:innen mit verständlichen Erklärungen, Arbeitsblättern und konkreten Umsetzungsschritten. Das erhalten Käufer:innen: • 52-seitige PDF mit Hauptguide, Workbook und Vorlagenpaket • Excel-Finanzcockpit mit …
+**Vendor's marketplace description:** <p style="text-align:center;">Deine Zielgruppe möchte sich selbstständig machen, weiß aber nicht, wie sie Anmeldung, Finanzen und Kundengewinnung angehen soll?</p>
+<p> </p>
+<p>Das 90-Tage-Gründungssystem von Almedina Hajro begleitet Einsteiger:innen mit verständlichen Erklärungen, Arbeitsblättern und konkreten Umsetzungsschritten.</p>
+<p> </p>
+<p>Das erhalten Käufer:innen:</p>
+<p> </p>
+<p>• 52-seitige PDF mit Hauptguide, Workbook und Vorlagenpaket</p>
+<p>• Excel-Finanzcockpit mit Preisrechner, Rücklagenplanung, Liquiditätsübersicht und Einnahmen-Ausgaben-Liste</p>
+<p>• Excel-Tracker für den 90-Tage-Plan, Kundenkontakte und Wochenreviews</p>
+<p> </p>
+<p>Für wen eignet sich das Produkt?</p>
+<p> </p>
+<p>Für angehende Selbstständige in Deutschland, die ihre Gründung strukturiert vorbereiten möchten – auch ohne betriebswirtschaftliches Vorwissen.</p>
+<p> </p>
+<p>Deine Konditionen als Affiliate:</p>
+<p> </p>
+<p>• Verkaufspreis: 499 €</p>
+<p>• Affiliate-Provision: 40 %</p>
+<p>• Digitales Download-Paket mit automatischer Auslieferung über Digistore24</p>
+<p> </p>
+<p>Das Angebot passt zu Inhalten rund um Gründung, berufliche Neuorientierung und den Einstieg in die Selbstständigkeit.</p>
+<p> </p>
+<p>Es handelt sich um ein Selbstlernprodukt ohne persönliches Coaching. Individuelle Steuer-, Rechts- oder Versicherungsberatung sowie Umsatzgarantien sind nicht enthalten.</p>
+<p> </p>
+<p>Kontakt für Affiliate-Anfragen: info@almedinahajro.de</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/734403?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59321/adminstore/
 - Sales page: https://www.digistore24.com/product/734403
 - Vendor affiliate support: http://almedinahajro.de
 - Canonical redirect: https://www.digistore24.com/redir/734403/adminstore
@@ -80,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 90-Tage-Gründungssystem – Selbstständigkeit starten? — Typ: Downloads, Anbieter: Medina88, gelistet seit 2026-09-17
-- Wie viel kostet es? — 469.901198 USD
+- Wie viel kostet es? — 468.85287300000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

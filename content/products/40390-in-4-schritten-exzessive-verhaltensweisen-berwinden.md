@@ -4,16 +4,16 @@ digistore24_product_id: 436104
 title: "In 4 Schritten exzessive Verhaltensweisen überwinden"
 vendor: "Vkleber"
 product_type: "Downloads"
-price: 14.03
+price: 14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.21
+earnings_per_sale: 4.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-03-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.beratung-therapie.de/223-0-Exzessive-Verhaltensweisen.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beratung-therapie.de/223-0-Exzessive-Verhaltensweisen.html"
@@ -22,16 +22,16 @@ language: "de"
 # In 4 Schritten exzessive Verhaltensweisen überwinden
 
 > Product ID `40390` · Digistore24 productId `436104` · [HTML profile page](../../produkte/in-4-schritten-exzessive-verhaltensweisen-berwinden-40390.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.03 (Single payment) |
+| Price | $14.00 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.21 |
+| Earnings/sale* | $4.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Vkleber |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Diplom-Psychologen haben ein in 4 Schritten aufgebautes Lernprogramm entwickelt, mit dem Sie lernen, Ihre exzessiven Verhaltensweisen abzubauen. Sie erhalten eine ausführliche, praktische Anleitung und eine Anzahl von Übungsblättern zum Ausdrucken. Sie können das Programm auch zusammen mit einem(r) Partner(in) durchführen, um sich gegenseitig zu unterstützen
+**Vendor's marketplace description:** <p>Diplom-Psychologen haben ein in 4 Schritten aufgebautes Lernprogramm entwickelt, mit dem Sie lernen, Ihre exzessiven Verhaltensweisen abzubauen.</p>
+<p>Sie erhalten eine ausführliche, praktische Anleitung und eine Anzahl von Übungsblättern zum Ausdrucken. Sie können das Programm auch zusammen mit einem(r) Partner(in) durchführen, um sich gegenseitig zu unterstützen</p>
 
 ## 2. Links
 
@@ -75,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist In 4 Schritten exzessive Verhaltensweisen überwinden? — Typ: Downloads, Anbieter: Vkleber, gelistet seit 2022-03-27
-- Wie viel kostet es? — 14.029912 USD
+- Wie viel kostet es? — 13.998612000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

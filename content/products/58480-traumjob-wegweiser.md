@@ -4,16 +4,16 @@ digistore24_product_id: 723177
 title: "Traumjob Wegweiser"
 vendor: "fdamberger246a843"
 product_type: "E-books"
-price: 9.41
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 5.65
+earnings_per_sale: 5.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-08-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/723177?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/723177"
@@ -22,16 +22,16 @@ language: "de"
 # Traumjob Wegweiser
 
 > Product ID `58480` · Digistore24 productId `723177` · [HTML profile page](../../produkte/traumjob-wegweiser-58480.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.41 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $5.65 |
+| Earnings/sale* | $5.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fdamberger246a843 |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ich habe gerade erst mit Digistore24 angefangen und möchte Euch darum bitten mir zu helfen das Produkt zu werben.Danke im Voraus
+**Vendor's marketplace description:** <p>Ich habe gerade erst mit Digistore24 angefangen und möchte Euch darum bitten mir zu helfen das Produkt zu werben.Danke im Voraus</p>
 
 ## 2. Links
 
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Traumjob Wegweiser? — Typ: E-books, Anbieter: fdamberger246a843, gelistet seit 2026-08-20
-- Wie viel kostet es? — 9.41304 USD
+- Wie viel kostet es? — 9.392040000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

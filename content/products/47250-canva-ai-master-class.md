@@ -4,16 +4,16 @@ digistore24_product_id: 539446
 title: "Canva AI - Master Class"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.68
+earnings_per_sale: 45.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-02-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/canva-ai/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/canva-ai/"
@@ -22,16 +22,16 @@ language: "de"
 # Canva AI - Master Class
 
 > Product ID `47250` · Digistore24 productId `539446` · [HTML profile page](../../produkte/canva-ai-master-class-47250.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.68 |
+| Earnings/sale* | $45.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe den Bestseller Kurs: Canva AI Master Class Das erhält Deine Community: ✅ Strategien zum Skalieren des Online Business mit Canva ✅ Durch die Canva KI, wird es spielend einfach ✅ Schritt für Schritt Anleitung für jeden Anfänger geeignet!!! ✅ Als Bonus bekommst Deine Community den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen kostenfreien Content ...
+**Vendor's marketplace description:** <div><strong><em>Bewerbe den Bestseller Kurs: Canva AI Master Class</em></strong></div>
+<div>
+<p> </p>
+<p><span style="background-color:#ffff00;"><strong><em>Das erhält Deine Community:</em></strong></span></p>
+<p><strong><em>✅  Strategien zum Skalieren des Online Business mit Canva </em></strong></p>
+<p><strong><em>✅  Durch die Canva KI, wird es spielend einfach</em></strong></p>
+<p><strong><em>✅  Schritt für Schritt Anleitung für jeden Anfänger geeignet!!!</em></strong></p>
+<p><strong><em>✅  </em>Als Bonus bekommst Deine Community den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen kostenfreien Content ...</strong></p>
+</div>
 
 ## 2. Links
 
@@ -66,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Canva AI - Master Class? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-02-16
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

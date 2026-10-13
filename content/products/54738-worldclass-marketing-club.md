@@ -4,16 +4,16 @@ digistore24_product_id: 650688
 title: "Worldclass Marketing CLUB"
 vendor: "TheWolfofSales"
 product_type: "Member area and video courses"
-price: 1270.32
+price: 1267.49
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 889.23
+earnings_per_sale: 887.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2025-11-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/650688?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/650688"
@@ -22,16 +22,16 @@ language: "de"
 # Worldclass Marketing CLUB
 
 > Product ID `54738` · Digistore24 productId `650688` · [HTML profile page](../../produkte/worldclass-marketing-club-54738.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1270.32 (Single payment) |
+| Price | $1267.49 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $889.23 |
+| Earnings/sale* | $887.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TheWolfofSales |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das ist die mächtigste Social-Media-Kooperation, die der deutschsprachige Raum jemals gesehen hat. Wenn die TikTok-Ikone Social Media Buddy, der den Algorithmus nicht nur versteht, sondern dominiert, mit Bora Imren, einem der erfahrensten Online-Marketer Deutschlands mit über 20 Jahren Erfahrung, CapCut-Mastery und verkaufspsychologischer Perfektion, zusammenkommt – dann entsteht etwas, das sofort…
+**Vendor's marketplace description:** <p><strong>Das ist die mächtigste Social-Media-Kooperation, die der deutschsprachige Raum jemals gesehen hat.</strong></p>
+<p>Wenn die <strong>TikTok-Ikone Social Media Buddy</strong>, der den Algorithmus nicht nur versteht, sondern <strong>dominiert</strong>, mit <strong>Bora Imren</strong>, einem der erfahrensten Online-Marketer Deutschlands mit über <strong>20 Jahren Erfahrung</strong>, CapCut-Mastery und verkaufspsychologischer Perfektion, zusammenkommt – dann entsteht etwas, das sofort klar macht:</p>
+<p> </p>
 
 ## 2. Links
 
@@ -91,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Worldclass Marketing CLUB? — Typ: Member area and video courses, Anbieter: TheWolfofSales, gelistet seit 2025-11-24
-- Wie viel kostet es? — 1270.3233659999999 USD
+- Wie viel kostet es? — 1267.489341 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 715316
 title: "VIP-Ideen-Werkstatt: Mit KI von der Idee zum umsetzbaren Pro"
 vendor: "Goldfrau"
 product_type: "Online coaching"
-price: 806.83
+price: 805.03
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 242.05
+earnings_per_sale: 241.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Personal Development"]
 listed_since: "2026-07-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ki-werkstatt.sinneskraft.de/angebot.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57819/adminstore/"
 sales_page: "https://ki-werkstatt.sinneskraft.de/angebot.html"
 language: "de"
 ---
 # VIP-Ideen-Werkstatt: Mit KI von der Idee zum umsetzbaren Pro
 
 > Product ID `57819` · Digistore24 productId `715316` · [HTML profile page](../../produkte/vip-ideen-werkstatt-mit-ki-von-der-idee-zum-umsetzbaren-pro-57819.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $806.83 (Single payment, Installment) |
+| Price | $805.03 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $242.05 |
+| Earnings/sale* | $241.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Goldfrau |
@@ -41,11 +41,43 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die VIP-Ideen-Werkstatt ist ein achtwöchiges, persönlich begleitetes Umsetzungsprogramm für Menschen mit vielen Ideen, die aus einer davon ein klares und umsetzbares Projekt entwickeln möchten. Der Einstieg ist jederzeit möglich. Das Angebot richtet sich besonders an Selbstständige, Coaches, Berater, Autoren und kreative Menschen, die aus einer Idee ein konkretes Projekt entwickeln möchten. Das ka…
+**Vendor's marketplace description:** <p>Die VIP-Ideen-Werkstatt ist ein achtwöchiges, persönlich begleitetes Umsetzungsprogramm für Menschen mit vielen Ideen, die aus einer davon ein klares und umsetzbares Projekt entwickeln möchten. Der Einstieg ist jederzeit möglich.</p>
+<p> </p>
+<p>Das Angebot richtet sich besonders an Selbstständige, Coaches, Berater, Autoren und kreative Menschen, die aus einer Idee ein konkretes Projekt entwickeln möchten. Das kann beispielsweise ein Buch, ein Kurs, ein digitales Angebot, eine Webseite, eine App oder ein anderes Herzens- und Businessprojekt sein.</p>
+<p> </p>
+<p>In der VIP-Ideen-Werkstatt werden die Teilnehmer dabei unterstützt, ihren roten Faden zu erkennen, Entscheidungen zu treffen und ihre Idee Schritt für Schritt in eine umsetzbare Form zu bringen. Künstliche Intelligenz wird dabei als unterstützendes Werkzeug für Recherche, Struktur, Texte, Konzepte und die praktische Umsetzung eingesetzt.</p>
+<p> </p>
+<p>Das erhalten die Teilnehmer:</p>
+<p>– acht Wochen persönliche Begleitung</p>
+<p>– wöchentliche Live-Termine per Video</p>
+<p>– Unterstützung bei Auswahl, Strukturierung und Umsetzung der Projektidee</p>
+<p>– individuelle Rückmeldungen und konkrete nächste Schritte</p>
+<p>– Vorlagen, Anleitungen und praktische KI-Impulse</p>
+<p>– Zugang zu einem geschützten Mitgliederbereich auf Communi</p>
+<p>– digitale Bereitstellung der begleitenden Materialien</p>
+<p>– Unterstützung dabei, aus vielen Gedanken ein klares und greifbares Ergebnis zu entwickeln</p>
+<p> </p>
+<p>Die Teilnahme erfolgt digital. Die Live-Termine finden per Video statt. Begleitende Materialien und der Zugang zum geschützten Mitgliederbereich werden nach dem Kauf bereitgestellt.</p>
+<p> </p>
+<p>Für wen eignet sich das Angebot?</p>
+<p> </p>
+<p>Die VIP-Ideen-Werkstatt eignet sich für Menschen, die:</p>
+<p>– viele Ideen und angefangene Projekte haben</p>
+<p>– sich bei der Auswahl und Strukturierung verzetteln</p>
+<p>– eine Idee schon länger mit sich tragen</p>
+<p>– KI sinnvoll für die Umsetzung nutzen möchten</p>
+<p>– persönliche Begleitung statt eines reinen Selbstlernkurses suchen</p>
+<p>– am Ende der acht Wochen ein klar ausgearbeitetes und weiterführbares Projekt in der Hand haben möchten</p>
+<p> </p>
+<p>Warum lässt sich das Angebot gut empfehlen?</p>
+<p> </p>
+<p>Das Programm verbindet persönliche Begleitung, strukturierte Projektentwicklung und den praktischen Einsatz von KI. Es spricht eine Zielgruppe an, die häufig bereits viel Wissen und Erfahrung besitzt, aber Klarheit, Struktur und einen verlässlichen Umsetzungsrahmen benötigt.</p>
+<p> </p>
+<p>Affiliates erhalten für erfolgreich vermittelte Verkäufe eine Provision von 30 Prozent.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ki-werkstatt.sinneskraft.de/angebot.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57819/adminstore/
 - Sales page: https://ki-werkstatt.sinneskraft.de/angebot.html
 - Canonical redirect: https://www.digistore24.com/redir/715316/adminstore
 
@@ -86,7 +118,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VIP-Ideen-Werkstatt: Mit KI von der Idee zum umsetzbaren Pro? — Typ: Online coaching, Anbieter: Goldfrau, gelistet seit 2026-07-31
-- Wie viel kostet es? — 806.832 USD
+- Wie viel kostet es? — 805.032 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

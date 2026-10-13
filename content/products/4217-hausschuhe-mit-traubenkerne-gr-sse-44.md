@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2013-09-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/"
@@ -22,7 +22,7 @@ language: "de"
 # Hausschuhe mit Traubenkerne Grösse: 44
 
 > Product ID `4217` · Digistore24 productId `15357` · [HTML profile page](../../produkte/hausschuhe-mit-traubenkerne-gr-sse-44-4217.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein Schnittmuster als PDF für wärmende Hausschuhe (Größe: 44) zum selber nähen! Wir teilen fair mit Dir! Deshalb gibt es bei uns immer 50% Provision für Dich! ;-) Das kostenlose DIY Tutorial für dieses Schnittmuster kannst Du dir hier anschauen: http://www.dots-designs.de/nie-wieder-kalte-fuesse/
+**Vendor's marketplace description:** <p>Ein Schnittmuster als PDF für wärmende Hausschuhe (Größe: 44)<strong> </strong>zum selber nähen!</p>
+<p> </p>
+<p><span style="color:#ff0000;"><strong>Wir teilen fair mit Dir!</strong></span></p>
+<p><span style="color:#ff0000;"><strong>Deshalb gibt es bei uns immer 50% Provision für Dich! ;-)</strong></span></p>
+<p> </p>
+<p>Das kostenlose DIY Tutorial für dieses Schnittmuster kannst Du dir hier anschauen:</p>
+<p><em><a href="http://www.dots-designs.de/nie-wieder-kalte-fuesse/">http://www.dots-designs.de/nie-wieder-kalte-fuesse/</a></em></p>
+<p> </p>
 
 ## 2. Links
 
@@ -76,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hausschuhe mit Traubenkerne Grösse: 44? — Typ: Downloads, Anbieter: DotsDesigns, gelistet seit 2013-09-06
-- Wie viel kostet es? — 3.75401 USD
+- Wie viel kostet es? — 3.7456350000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

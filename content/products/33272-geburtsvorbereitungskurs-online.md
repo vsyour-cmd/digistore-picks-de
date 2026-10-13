@@ -4,16 +4,16 @@ digistore24_product_id: 364116
 title: "Geburtsvorbereitungskurs Online"
 vendor: "ltcplus"
 product_type: "Member area and video courses"
-price: 28.03
+price: 27.96
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 13.16
+earnings_per_sale: 13.13
 cart_conversion_pct: 31
 cancel_rate_pct: 0.98
 categories: ["Family & Children"]
 listed_since: "2020-12-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://myhebamme24.de/gbk/?aff=adminstore#aff=adminstore"
 sales_page: "https://myhebamme24.de/gbk/"
@@ -22,16 +22,16 @@ language: "de"
 # Geburtsvorbereitungskurs Online
 
 > Product ID `33272` · Digistore24 productId `364116` · [HTML profile page](../../produkte/geburtsvorbereitungskurs-online-33272.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $28.03 (Single payment) |
+| Price | $27.96 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $13.16 |
+| Earnings/sale* | $13.13 |
 | Cart conversion* | 31% |
 | Cancel rate* | 0.98% |
 | Vendor | ltcplus |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bestseller Geburtsvorbereitungskurs Online mit 25% Lifetime-Provision Unsere Vorteile:✅ 180 Tage Cookie-Lifetime ✅ Geringe Stornoquote ✅ Wird bereits von vielen Krankenkasse erstattet Bei Fragen können Sie sich gerne an uns wenden: info@myhebamme24.de
+**Vendor's marketplace description:** <h3><span style="background-color:#ffff00;"><strong>Bestseller Geburtsvorbereitungskurs Online mit 25% Lifetime-Provision</strong></span></h3>
+<p><strong>Unsere Vorteile:</strong><br /><br /><strong>✅  180 Tage Cookie-Lifetime</strong><br /><br /> ✅  Geringe Stornoquote<br /><br /> ✅  Wird bereits von vielen Krankenkasse erstattet</p>
+<p>Bei Fragen können Sie sich gerne an uns wenden: info@myhebamme24.de</p>
 
 ## 2. Links
 
@@ -89,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geburtsvorbereitungskurs Online? — Typ: Member area and video courses, Anbieter: ltcplus, gelistet seit 2020-12-22
-- Wie viel kostet es? — 28.026206000000002 USD
+- Wie viel kostet es? — 27.963681000000005 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

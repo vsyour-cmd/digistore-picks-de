@@ -4,16 +4,16 @@ digistore24_product_id: 422725
 title: "Feng Shui Ausbildung, Zertifiziert"
 vendor: "Feng-Shui-Digital"
 product_type: "Distance learning (Germany)"
-price: 2938.05
+price: 2931.49
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 313.77
+earnings_per_sale: 313.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-01-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://feng-shui.de/feng-shui-online/?aff=adminstore#aff=adminstore"
 sales_page: "https://feng-shui.de/feng-shui-online/"
@@ -22,16 +22,16 @@ language: "de"
 # Feng Shui Ausbildung, Zertifiziert
 
 > Product ID `39664` · Digistore24 productId `422725` · [HTML profile page](../../produkte/feng-shui-ausbildung-zertifiziert-39664.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Distance learning (Germany) |
-| Price | $2938.05 (Single payment, Installment) |
+| Price | $2931.49 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $313.77 |
+| Earnings/sale* | $313.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Feng-Shui-Digital |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Feng Shui Berater Ausbildung Schritt für Schritt zum Feng Shui Profi Seit vielen Jahren erprobtes Ausbildungskonzept für angehende Feng Shui Berater. Der hohe Qualifikationsstandard der Ausbildung und die internationale Anerkennung machen den Unterricht zu einem Erlebnis!Zeitlich unbegrenzter Zugriff auf den Online-Kurs mit bis zu 3 Endgeräten (z.B. Deinem PC, Tablett und Handy).Inklusive: plus 2 …
+**Vendor's marketplace description:** <table>
+<tbody>
+<tr>
+<td>
+<div>Feng Shui Berater Ausbildung</div>
+<div>
+<p><strong>Schritt für Schritt zum Feng Shui Profi</strong></p>
+<p>Seit vielen Jahren erprobtes Ausbildungskonzept für angehende Feng Shui Berater. Der hohe Qualifikationsstandard der Ausbildung und die internationale Anerkennung machen den Unterricht zu einem Erlebnis!<br />Zeitlich unbegrenzter Zugriff auf den Online-Kurs mit bis zu 3 Endgeräten (z.B. Deinem PC, Tablett und Handy).<br /><strong><br /></strong><strong>Inklusive: plus 2 Praxistage.</strong> <strong>PLUS:</strong> Eine speziell für Feng Shui Berater entwickelte Marketingstrategie – damit Du gleich nach der Ausbildung loslegen kannst.</p>
+<p>Nutze diese Gelegenheit, professionelles Feng Shui Wissen und Berater-Kompetenzen zu erwerben. Und das zu einem unglaublich günstigen Preis.</p>
+<p><em><strong>Jetzt 14 Tage kostenlos testen!</strong></em></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## 2. Links
 
@@ -93,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Feng Shui Ausbildung, Zertifiziert? — Typ: Distance learning (Germany), Anbieter: Feng-Shui-Digital, gelistet seit 2022-01-01
-- Wie viel kostet es? — 2938.04511 USD
+- Wie viel kostet es? — 2931.4904850000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

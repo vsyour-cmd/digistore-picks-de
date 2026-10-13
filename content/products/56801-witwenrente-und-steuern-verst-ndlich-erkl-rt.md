@@ -4,34 +4,34 @@ digistore24_product_id: 601112
 title: "Witwenrente und Steuern verständlich erklärt"
 vendor: "verwitwet-leben"
 product_type: "Downloads"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.32
+earnings_per_sale: 22.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-06-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://verwitwet-leben.de/berechnungshilfe/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56801/adminstore/"
 sales_page: "https://verwitwet-leben.de/berechnungshilfe/"
 language: "de"
 ---
 # Witwenrente und Steuern verständlich erklärt
 
 > Product ID `56801` · Digistore24 productId `601112` · [HTML profile page](../../produkte/witwenrente-und-steuern-verst-ndlich-erkl-rt-56801.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.32 |
+| Earnings/sale* | $22.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | verwitwet-leben |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Witwenrente und Steuern verständlich erklärt (Online-Videokurs) In diesem Videokurs lernst Du verständlich und ohne Fachchinesisch die wichtigsten steuerlichen Grundlagen und Zusammenhänge rund um die Hinterbliebenenrente. Das lernst du im Kurs: ✅ Grundfreibetrag und zu versteuerndes Einkommen✅ Steuerprogression und persönliche Steuerlast✅ Nachgelagerte Besteuerung von Renten✅ Persönlicher Rentenf…
+**Vendor's marketplace description:** <p><strong>Witwenrente und Steuern verständlich erklärt (Online-Videokurs)</strong></p>
+<p>In diesem Videokurs lernst Du verständlich und ohne Fachchinesisch die wichtigsten steuerlichen Grundlagen und Zusammenhänge rund um die Hinterbliebenenrente.</p>
+<hr />
+<p> </p>
+<p><strong>Das lernst du im Kurs:</strong></p>
+<p>✅ Grundfreibetrag und zu versteuerndes Einkommen<br />✅ Steuerprogression und persönliche Steuerlast<br />✅ Nachgelagerte Besteuerung von Renten<br />✅ Persönlicher Rentenfreibetrag und Rentenerhöhungen<br />✅ Lohnsteuerklassen und ihre tatsächliche Bedeutung<br />✅ Ehegattensplitting und Witwensplitting<br />✅ Die steuerlichen Besonderheiten der Gnadenjahre<br />✅ Rücklagen für Steuernachzahlungen<br />✅ Nichtveranlagungsbescheinigung (nicht nur) für Kinder<br />✅ Wichtige Hinweise zu Selbstständigkeit, Kapitalanlagen und Immobilien</p>
+<hr />
+<p>Der Kurs dauert ca. 2 Stunden und enthält zusätzliche Materialien zum Download. Du hast 90 Tage Zugriff und kannst alles beliebig oft ansehen.</p>
+<hr />
+<p><strong>Wichtiger Hinweis:</strong></p>
+<p>Ich bin <strong>keine Steuerberaterin</strong>. Dieser Kurs ersetzt keine individuelle steuerliche Beratung. Ich erkläre die Grundlagen, Zusammenhänge und Besonderheiten rund um die Hinterbliebenenrente verständlich und praxisnah.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://verwitwet-leben.de/berechnungshilfe/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56801/adminstore/
 - Sales page: https://verwitwet-leben.de/berechnungshilfe/
 - Canonical redirect: https://www.digistore24.com/redir/601112/adminstore
 
@@ -80,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Witwenrente und Steuern verständlich erklärt? — Typ: Downloads, Anbieter: verwitwet-leben, gelistet seit 2026-06-04
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 499482
 title: "Frei Leben VIP Paket und Bundle"
 vendor: "cduffner"
 product_type: "Member area and video courses"
-price: 122.15
+price: 121.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 61.07
+earnings_per_sale: 60.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-05-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/499482?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46927/adminstore/"
 sales_page: "https://www.digistore24.com/product/499482"
 language: "de"
 ---
 # Frei Leben VIP Paket und Bundle
 
 > Product ID `46927` · Digistore24 productId `499482` · [HTML profile page](../../produkte/frei-leben-vip-paket-und-bundle-46927.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $122.15 (Single payment, Installment) |
+| Price | $121.87 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $61.07 |
+| Earnings/sale* | $60.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cduffner |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Viele Menschen haben in den letzten Jahren erlebt, wie Ihre Freiheit massiv beschnitten wurde. Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut. Wie können wir diese Entwicklung stoppen und umdrehen? Die Antwort auf diese spannende Frage findest du beim Frei Leben Kongress ✨✨✨ 37 hochfrequente Leader der Neuen Zeit haben sich versammelt und zeigen dir beim Frei Leben Kongress die besten …
+**Vendor's marketplace description:** <p>Viele Menschen haben in den letzten Jahren erlebt, wie Ihre Freiheit massiv beschnitten wurde. Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut.</p>
+<p><strong>Wie können wir diese Entwicklung stoppen und umdrehen?</strong></p>
+<p>Die Antwort auf diese spannende Frage findest du beim <strong>Frei Leben Kongress ✨✨✨</strong></p>
+<p><strong>37 hochfrequente Leader der Neuen Zeit</strong> haben sich versammelt und zeigen dir beim Frei Leben Kongress die besten neuen Wege für deine Freiheit &amp; Fülle.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/499482?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46927/adminstore/
 - Sales page: https://www.digistore24.com/product/499482
 - Vendor affiliate support: https://www.freilebenkongress.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/499482/adminstore
@@ -85,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Frei Leben VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: cduffner, gelistet seit 2023-05-18
-- Wie viel kostet es? — 122.14540000000001 USD
+- Wie viel kostet es? — 121.87290000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

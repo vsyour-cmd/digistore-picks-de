@@ -4,16 +4,16 @@ digistore24_product_id: 594851
 title: "7 Tage SM Strategie (Kostenlos, Gratis, E-Book, Buch)"
 vendor: "plrpirat"
 product_type: "Downloads"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.72
+earnings_per_sale: 12.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-02-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.plrpirat.de/7tsms?aff=adminstore#aff=adminstore"
 sales_page: "https://www.plrpirat.de/7tsms"
@@ -22,16 +22,16 @@ language: "de"
 # 7 Tage SM Strategie (Kostenlos, Gratis, E-Book, Buch)
 
 > Product ID `51468` · Digistore24 productId `594851` · [HTML profile page](../../produkte/7-tage-sm-strategie-kostenlos-gratis-e-book-buch-51468.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.72 |
+| Earnings/sale* | $12.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | plrpirat |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 7-Tage Social Media Challenge – Dein kostenloses Lead-Magnet-Produkt mit 50% Provision!
+**Vendor's marketplace description:** <h3><strong>7-Tage Social Media Challenge – Dein kostenloses Lead-Magnet-Produkt mit 50% Provision!</strong></h3>
+<p> </p>
 
 ## 2. Links
 
@@ -66,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7 Tage SM Strategie (Kostenlos, Gratis, E-Book, Buch)? — Typ: Downloads, Anbieter: plrpirat, gelistet seit 2025-02-07
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

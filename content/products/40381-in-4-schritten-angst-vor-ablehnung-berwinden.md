@@ -4,34 +4,34 @@ digistore24_product_id: 436246
 title: "In 4 Schritten Angst vor Ablehnung überwinden"
 vendor: "Vkleber"
 product_type: "Downloads"
-price: 14.03
+price: 14
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.21
+earnings_per_sale: 4.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-03-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.beratung-therapie.de/220-0-4-Schritte-gegen-Angst-vor-Ablehnung.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40381/adminstore/"
 sales_page: "https://www.beratung-therapie.de/220-0-4-Schritte-gegen-Angst-vor-Ablehnung.html"
 language: "de"
 ---
 # In 4 Schritten Angst vor Ablehnung überwinden
 
 > Product ID `40381` · Digistore24 productId `436246` · [HTML profile page](../../produkte/in-4-schritten-angst-vor-ablehnung-berwinden-40381.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.03 (Single payment) |
+| Price | $14.00 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.21 |
+| Earnings/sale* | $4.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Vkleber |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Diplom-Psychologen haben ein in 4 Schritten aufgebautes Lernprogramm entwickelt, mit dem Sie lernen, Ihre Angst vor Ablehnung zu überwinden. Sie erhalten eine ausführliche, praktische Anleitung und 16 Übungsblätter zum Ausdrucken. Sie können das Programm auch zusammen mit einem(r) Partner(in) durchführen, um sich gegenseitig zu unterstützen.
+**Vendor's marketplace description:** <p>Diplom-Psychologen haben ein in 4 Schritten aufgebautes Lernprogramm entwickelt, mit dem Sie lernen, Ihre Angst vor Ablehnung zu überwinden.</p>
+<p>Sie erhalten eine ausführliche, praktische Anleitung und 16 Übungsblätter zum Ausdrucken. Sie können das Programm auch zusammen mit einem(r) Partner(in) durchführen, um sich gegenseitig zu unterstützen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.beratung-therapie.de/220-0-4-Schritte-gegen-Angst-vor-Ablehnung.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40381/adminstore/
 - Sales page: https://www.beratung-therapie.de/220-0-4-Schritte-gegen-Angst-vor-Ablehnung.html
 - Canonical redirect: https://www.digistore24.com/redir/436246/adminstore
 
@@ -79,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist In 4 Schritten Angst vor Ablehnung überwinden? — Typ: Downloads, Anbieter: Vkleber, gelistet seit 2022-03-28
-- Wie viel kostet es? — 14.029912 USD
+- Wie viel kostet es? — 13.998612000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

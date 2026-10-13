@@ -4,16 +4,16 @@ digistore24_product_id: 23861
 title: "Video-Seminar \"Nichtraucher in 5 Stunden\""
 vendor: "bbGmbH"
 product_type: "Downloads"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 8.71
+earnings_per_sale: 8.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2014-04-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://nichtraucher-in-5-stunden.at/?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucher-in-5-stunden.at/"
@@ -22,16 +22,16 @@ language: "de"
 # Video-Seminar "Nichtraucher in 5 Stunden"
 
 > Product ID `3247` · Digistore24 productId `23861` · [HTML profile page](../../produkte/video-seminar-nichtraucher-in-5-stunden-3247.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $8.71 |
+| Earnings/sale* | $8.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bbGmbH |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mehr als 20.000 Menschen haben seit 2004 mit dem erfolgreichen Seminar Nichtraucher in 5 Stunden von Arzt und TV-Coach Dr. Stefan Frädrich das Rauchen aufgegeben und sind dauerhaft Nichtraucher geblieben. Ohne Entzugserscheinungen, ohne zuzunehmen und ohne Hilfsmittel wie Hypnose, Nikotinpflaster, Akupunktur etc. Sie bewerben ein Video-Seminar, welches eine Live-Aufnahme eines Seminars darstellt. …
+**Vendor's marketplace description:** <p>Mehr als 20.000 Menschen haben seit 2004 mit dem erfolgreichen Seminar <strong>Nichtraucher in 5 Stunden</strong> von Arzt und <strong>TV-Coach Dr. Stefan Frädrich</strong> das Rauchen aufgegeben und sind dauerhaft Nichtraucher geblieben. Ohne Entzugserscheinungen, ohne zuzunehmen und ohne Hilfsmittel wie Hypnose, Nikotinpflaster, Akupunktur etc.</p>
+<p>Sie bewerben ein Video-Seminar, welches eine Live-Aufnahme eines Seminars darstellt.</p>
+<p>Hier die Landingpage: <a href="http://nichtraucher-in-5-stunden.at/" target="_blank">http://nichtraucher-in-5-stunden.at/</a></p>
 
 ## 2. Links
 
@@ -68,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Video-Seminar "Nichtraucher in 5 Stunden"? — Typ: Downloads, Anbieter: bbGmbH, gelistet seit 2014-04-08
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

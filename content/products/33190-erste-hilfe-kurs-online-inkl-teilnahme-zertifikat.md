@@ -4,16 +4,16 @@ digistore24_product_id: 276717
 title: "Erste-Hilfe-Kurs Online inkl. Teilnahme Zertifikat"
 vendor: "G250273"
 product_type: "Member area and video courses"
-price: 39.55
+price: 39.46
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 12.35
+earnings_per_sale: 12.32
 cart_conversion_pct: 17
 cancel_rate_pct: 2.81
 categories: ["Education","Health & Fitness","Online Marketing & E-Business"]
 listed_since: "2019-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://erste-hilfe-kurs-online.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://erste-hilfe-kurs-online.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Erste-Hilfe-Kurs Online inkl. Teilnahme Zertifikat
 
 > Product ID `33190` · Digistore24 productId `276717` · [HTML profile page](../../produkte/erste-hilfe-kurs-online-inkl-teilnahme-zertifikat-33190.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $39.55 (Single payment) |
+| Price | $39.46 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $12.35 |
+| Earnings/sale* | $12.32 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.81% |
 | Vendor | G250273 |
@@ -41,7 +41,46 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du suchst einen zukunftssicheren und stark nachgefragten Partner im boomenden E-Learning-Markt? Werde jetzt Teil des Lernakademie Plus Affiliate-Netzwerks und profitiere von der hohen Nachfrage nach bequemen Online-Erste-Hilfe-Kursen mit Teilnahmebescheinigung. Unsere Zielgruppe spart Zeit, vermeidet Präsenztermine und erhält die gesetzlich relevanten Inhalte bequem von zu Hause aus. Jeder Teilneh…
+**Vendor's marketplace description:** <h3><strong>Du suchst einen zukunftssicheren und stark nachgefragten Partner im boomenden E-Learning-Markt?</strong></h3>
+<p> </p>
+<p>Werde jetzt Teil des Lernakademie Plus Affiliate-Netzwerks und profitiere von der hohen Nachfrage nach bequemen <strong>Online-Erste-Hilfe-Kursen mit Teilnahmebescheinigung.</strong></p>
+<p> </p>
+<p>Unsere Zielgruppe spart Zeit, vermeidet Präsenztermine und erhält die gesetzlich relevanten Inhalte bequem von zu Hause aus. Jeder Teilnehmer bekommt außerdem eine <strong>personalisierte Teilnahmebescheinigung als PDF</strong> im Mitgliederbereich als Nachweis über die Teilnahme an der theoretischen Erste-Hilfe Unterweisung. </p>
+<p> </p>
+<p><strong>Deine Vorteile als Affiliate:</strong></p>
+<ul>
+<li>
+<p>10 € Provision pro verkauftem Erste-Hilfe-Kurs.</p>
+</li>
+<li>
+<p>1 € Zusatzprovision für den AED-Upsell.</p>
+</li>
+<li>Theoretische Erste-Hilfe-Unterweisung zur Vorbereitung auf die praktische Prüfung.</li>
+<li>
+<p>Hohe Relevanz für breite Zielgruppen wie Fahrschüler, Unternehmen, Studierende, Vereine und Auffrischer.</p>
+</li>
+<li>
+<p>Umfangreiche Werbemittel, E-Mail-Vorlagen, Headlines und Lead-Magneten in deinem Partnerbereich.</p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Das macht unser Angebot besonders attraktiv:</strong></p>
+<ul>
+<li>
+<p>Niedriger Kaufpreis und klarer Nutzen für den Kunden.</p>
+</li>
+<li>
+<p>Personalisiertes Teilnahmezertifikat als zusätzlicher Mehrwert.</p>
+</li>
+<li>
+<p>Professionelle Affiliate-Unterstützung mit fertigen Marketing Materialien.</p>
+</li>
+<li>
+<p>Flexible Bewerbung über Social Media, E-Mail, Blogs, Bewertungen, UGC oder Paid Ads wie Facebook, Instagram, TikTok und Co.  (ausgenommen Google Ads).</p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Starte jetzt und baue dir ein bequemes, zusätzliches Einkommen auf. </strong></p>
 
 ## 2. Links
 
@@ -82,7 +121,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erste-Hilfe-Kurs Online inkl. Teilnahme Zertifikat? — Typ: Member area and video courses, Anbieter: G250273, gelistet seit 2019-06-23
-- Wie viel kostet es? — 39.545974 USD
+- Wie viel kostet es? — 39.457749 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

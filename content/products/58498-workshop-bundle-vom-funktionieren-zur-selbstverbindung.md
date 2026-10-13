@@ -4,16 +4,16 @@ digistore24_product_id: 718693
 title: "Workshop-Bundle: Vom Funktionieren zur Selbstverbindung"
 vendor: "empathiemitherz"
 product_type: "E-books"
-price: 26.18
+price: 26.12
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.47
+earnings_per_sale: 10.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Health & Fitness","Personal Development"]
 listed_since: "2026-08-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://empathiemitherz.de/workshops/?aff=adminstore#aff=adminstore"
 sales_page: "https://empathiemitherz.de/workshops/"
@@ -22,16 +22,16 @@ language: "de"
 # Workshop-Bundle: Vom Funktionieren zur Selbstverbindung
 
 > Product ID `58498` · Digistore24 productId `718693` · [HTML profile page](../../produkte/workshop-bundle-vom-funktionieren-zur-selbstverbindung-58498.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.18 (Single payment) |
+| Price | $26.12 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.47 |
+| Earnings/sale* | $10.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | empathiemitherz |
@@ -41,7 +41,43 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ganzheitliche Selbsthilfe-Guides für Stressregulation, Glaubenssätze & innere Klarheit (236 Seiten) Verkaufe ein tiefgründiges 5-in-1 Workshop-Bundle mit hoher Conversion im Megatrend „Mentale Gesundheit & Selbstverbindung“! Dieses ganzheitliche Bundle unterstützt Menschen dabei, aus dem unbewussten Funktionieren auszusteigen, Stressmuster zu verstehen und wieder echte innere Klarheit zu gewinnen.…
+**Vendor's marketplace description:** <p><strong>Ganzheitliche Selbsthilfe-Guides für Stressregulation, Glaubenssätze &amp; innere Klarheit (236 Seiten)</strong></p>
+<p><strong>Verkaufe ein tiefgründiges 5-in-1 Workshop-Bundle mit hoher Conversion im Megatrend „Mentale Gesundheit &amp; Selbstverbindung“!</strong></p>
+<p>Dieses ganzheitliche Bundle unterstützt Menschen dabei, aus dem unbewussten Funktionieren auszusteigen, Stressmuster zu verstehen und wieder echte innere Klarheit zu gewinnen. Es verbindet fundierte psychologische und neurobiologische Erkenntnisse mit praxisnahen mentalen Werkzeugen für den Alltag.</p>
+<p><strong>Das erwartet die Kunden (5 komplette Workbooks mit insgesamt 236 Seiten):</strong></p>
+<ul>
+<li>
+<p><strong>01 | Mindset &amp; NLP (66 S.):</strong> Glaubenssätze hinterfragen &amp; Stressmuster durchbrechen.</p>
+</li>
+<li>
+<p><strong>02 | Der Weg zu dir selbst (38 S.):</strong> Schutz- und Anpassungsmuster verstehen &amp; Körperbewusstsein stärken.</p>
+</li>
+<li>
+<p><strong>03 | Werte &amp; Bedürfnisse (49 S.):</strong> Innere Signale erkennen &amp; klare Orientierung gewinnen.</p>
+</li>
+<li>
+<p><strong>04 | Mentale Werkzeuge (30 S.):</strong> Sofort-Strategien gegen Grübeln, Tunnelblick &amp; Überforderung.</p>
+</li>
+<li>
+<p><strong>05 | Die Biologie der Nähe (53 S.):</strong> Stress, Oxytocin, Co-Regulation &amp; gesunde Abgrenzung.</p>
+</li>
+</ul>
+<p><strong>Warum du dieses Bundle als Affiliate bewerben solltest:</strong></p>
+<ul>
+<li>
+<p><strong>Starkes Preis-Leistungs-Verhältnis:</strong> 5 fundierte Workbooks als unschlagbares Gesamtpaket.</p>
+</li>
+<li>
+<p><strong>Exzellenter Markt:</strong> Hohe Nachfrage in den Nischen Achtsamkeit, Psychologie, Coaching &amp; Selbsthilfe.</p>
+</li>
+<li>
+<p><strong>Niedrige Stornorate:</strong> Durch den hohen Umfang und die direkte Anwendbarkeit im Alltag.</p>
+</li>
+<li>
+<p><strong>Faire Provision:</strong> 40 % Provision auf jeden generierten Verkauf!</p>
+</li>
+</ul>
+<p>Sichere dir jetzt deinen Promolink und unterstütze deine Community auf dem Weg zu mehr Selbstverbindung und innerer Klarheit!</p>
 
 ## 2. Links
 
@@ -79,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Workshop-Bundle: Vom Funktionieren zur Selbstverbindung? — Typ: E-books, Anbieter: empathiemitherz, gelistet seit 2026-08-21
-- Wie viel kostet es? — 26.177216 USD
+- Wie viel kostet es? — 26.118816000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

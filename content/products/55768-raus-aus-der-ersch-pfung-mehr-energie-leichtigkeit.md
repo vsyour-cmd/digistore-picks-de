@@ -4,16 +4,16 @@ digistore24_product_id: 605375
 title: "Raus aus der Erschöpfung - mehr Energie + Leichtigkeit"
 vendor: "aktiv-entspannt-eifel"
 product_type: "E-books"
-price: 13.09
+price: 13.06
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 3.92
+earnings_per_sale: 3.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-04-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://natuerlich-einfach.de/erschoepfung-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://natuerlich-einfach.de/erschoepfung-ebook/"
@@ -22,16 +22,16 @@ language: "de"
 # Raus aus der Erschöpfung - mehr Energie + Leichtigkeit
 
 > Product ID `55768` · Digistore24 productId `605375` · [HTML profile page](../../produkte/raus-aus-der-ersch-pfung-mehr-energie-leichtigkeit-55768.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.09 (Single payment) |
+| Price | $13.06 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $3.92 |
+| Earnings/sale* | $3.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aktiv-entspannt-eifel |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** E-Book: „Raus aus der Erschöpfung – endlich mehr Energie und Leichtigkeit im Leben!“ Fühlst du dich oft müde, erschöpft und kraftlos? Dieses E-Book zeigt dir, wie du deine Energie zurückgewinnst und dich wieder wohlfühlst. ✅ Erkenne die Ursachen deiner Erschöpfung✅ Mache Selbsttests & entlarve deine Energieräuber✅ Nutze praktische Übungen & schnelle Energie-Kicks✅ Erstelle deinen persönlichen Ener…
+**Vendor's marketplace description:** <h3><strong>E-Book: „Raus aus der Erschöpfung – endlich mehr Energie und Leichtigkeit im Leben!“</strong></h3>
+<p>Fühlst du dich oft müde, erschöpft und kraftlos? Dieses E-Book zeigt dir, wie du deine Energie zurückgewinnst und dich wieder wohlfühlst.</p>
+<p>✅ <strong>Erkenne die Ursachen deiner Erschöpfung</strong><br />✅ <strong>Mache Selbsttests &amp; entlarve deine Energieräuber</strong><br />✅ <strong>Nutze praktische Übungen &amp; schnelle Energie-Kicks</strong><br />✅ <strong>Erstelle deinen persönlichen Energieplan</strong></p>
+<p> </p>
 
 ## 2. Links
 
@@ -72,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raus aus der Erschöpfung - mehr Energie + Leichtigkeit? — Typ: E-books, Anbieter: aktiv-entspannt-eifel, gelistet seit 2025-04-03
-- Wie viel kostet es? — 13.088608 USD
+- Wie viel kostet es? — 13.059408000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

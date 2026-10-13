@@ -4,16 +4,16 @@ digistore24_product_id: 738823
 title: "Berufswahl im Zeitalter von KI und Robotik – 60 Berufe im Zu"
 vendor: "MarkusGerbig"
 product_type: "E-books"
-price: 31.41
+price: 31.34
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.56
+earnings_per_sale: 12.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.mg-wissen.de/berufswahl/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mg-wissen.de/berufswahl/"
@@ -22,16 +22,16 @@ language: "de"
 # Berufswahl im Zeitalter von KI und Robotik – 60 Berufe im Zu
 
 > Product ID `60036` · Digistore24 productId `738823` · [HTML profile page](../../produkte/berufswahl-im-zeitalter-von-ki-und-robotik-60-berufe-im-zu-60036.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.41 (Single payment) |
+| Price | $31.34 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.56 |
+| Earnings/sale* | $12.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MarkusGerbig |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Berufswahl im Zeitalter von KI und Robotik – 60 Berufe im Zukunftscheck Verdiene 40 % Provision pro Verkauf mit einem digitalen Ratgeber zu einem Thema, das Jugendliche und Eltern zunehmend beschäftigt: Welche Berufe haben in einer Arbeitswelt mit KI und Robotik Zukunft? Das E-Book richtet sich vor allem an Jugendliche vor der Berufswahl und deren Eltern. 60 Berufe aus Handwerk, Gesundheit, IT, Bü…
+**Vendor's marketplace description:** <p style="text-align:center;">Berufswahl im Zeitalter von KI und Robotik – 60 Berufe im Zukunftscheck Verdiene 40 % Provision pro Verkauf mit einem digitalen Ratgeber zu einem Thema, das Jugendliche und Eltern zunehmend beschäftigt: Welche Berufe haben in einer Arbeitswelt mit KI und Robotik Zukunft? Das E-Book richtet sich vor allem an Jugendliche vor der Berufswahl und deren Eltern. 60 Berufe aus Handwerk, Gesundheit, IT, Büro, sozialen Bereichen, Industrie, Logistik und Mobilität werden verständlich betrachtet. Bei jedem Beruf wird gezeigt, welche Aufgaben KI und Robotik übernehmen oder unterstützen können und wo menschliche Fähigkeiten weiterhin entscheidend bleiben. Deine Vorteile als Affiliate: klare Zielgruppe, aktuelles Zukunftsthema, 40 % Provision, digitales Produkt ohne Versand, sofortige Auslieferung und automatische Verkaufsabwicklung über Digistore24. Ideal zur Bewerbung über Instagram, TikTok, Pinterest, Facebook, Blogs und Webseiten rund um Familie, Schule, Ausbildung und Berufsorientierung.</p>
 
 ## 2. Links
 
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Berufswahl im Zeitalter von KI und Robotik – 60 Berufe im Zu? — Typ: E-books, Anbieter: MarkusGerbig, gelistet seit 2026-09-29
-- Wie viel kostet es? — 31.410418000000004 USD
+- Wie viel kostet es? — 31.340343000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

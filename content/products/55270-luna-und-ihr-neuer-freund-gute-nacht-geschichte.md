@@ -4,7 +4,7 @@ digistore24_product_id: 642306
 title: "Luna und ihr neuer Freund - Gute-Nacht-Geschichte"
 vendor: "Cleverkopf"
 product_type: "Downloads"
-price: 9.39
+price: 9.37
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 3.75
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2025-10-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/642306?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/642306"
@@ -22,14 +22,14 @@ language: "de"
 # Luna und ihr neuer Freund - Gute-Nacht-Geschichte
 
 > Product ID `55270` · Digistore24 productId `642306` · [HTML profile page](../../produkte/luna-und-ihr-neuer-freund-gute-nacht-geschichte-55270.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.39 (Single payment) |
+| Price | $9.37 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $3.75 |
 | Cart conversion* | — |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Produkt Luna und ihr neuer Freund eBook + Hörbuch Vorteile für dich als Affiliate ✔ Hilft Eltern als Gute-Nacht-Geschichte für die kleinen Engel (100% passend) ★ 3,8 Sterne Amazon (ohne Hörbuch) ✔ Ebook kostengünstig + Hörbuch um noch besser weiterempfehlen (100% ehrlich)
+**Vendor's marketplace description:** <h2>Produkt</h2>
+<p>Luna und ihr neuer Freund eBook</p>
+<p>+ Hörbuch</p>
+<h2>Vorteile für dich als Affiliate</h2>
+<p>✔ Hilft Eltern als Gute-Nacht-Geschichte für die kleinen Engel <strong>(100% passend) ★</strong> 3,8 Sterne Amazon (ohne Hörbuch)</p>
+<p>✔ Ebook kostengünstig + Hörbuch um noch besser weiterempfehlen <strong>(100% ehrlich)</strong></p>
 
 ## 2. Links
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Luna und ihr neuer Freund - Gute-Nacht-Geschichte? — Typ: Downloads, Anbieter: Cleverkopf, gelistet seit 2025-10-19
-- Wie viel kostet es? — 9.390628000000001 USD
+- Wie viel kostet es? — 9.369678000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

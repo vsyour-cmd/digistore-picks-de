@@ -4,16 +4,16 @@ digistore24_product_id: 34111
 title: "Herren-Hemd"
 vendor: "DotsDesigns"
 product_type: "Downloads"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.71
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2014-10-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.dots-designs.de/naehen-fuer-maenner/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.dots-designs.de/naehen-fuer-maenner/"
@@ -22,16 +22,16 @@ language: "de"
 # Herren-Hemd
 
 > Product ID `4981` · Digistore24 productId `34111` · [HTML profile page](../../produkte/herren-hemd-4981.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DotsDesigns |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein Schnittmuster als PDF für ein Herren Hemd zum selber nähen! Schnittmuster Größen: S - 5XXL Wir teilen fair mit Dir! Deshalb gibt es bei uns immer 50% Provision für Dich! ;-) Das kostenlose DIY Tutorial für dieses Schnittmuster kannst Du dir hier anschauen: http://www.dots-designs.de/naehen-fuer-maenner/
+**Vendor's marketplace description:** <p>Ein Schnittmuster als PDF für ein Herren Hemd<strong> </strong>zum selber nähen!</p>
+<p><span style="text-decoration:underline;">Schnittmuster Größen: S - 5XXL</span></p>
+<p> </p>
+<p><span style="color:#ff0000;"><strong>Wir teilen fair mit Dir!</strong></span></p>
+<p><span style="color:#ff0000;"><strong>Deshalb gibt es bei uns immer 50% Provision für Dich! ;-)</strong></span></p>
+<p> </p>
+<p>Das kostenlose DIY Tutorial für dieses Schnittmuster kannst Du dir hier anschauen:</p>
+<p><em><a href="http://www.dots-designs.de/naehen-fuer-maenner/">http://www.dots-designs.de/naehen-fuer-maenner/</a></em></p>
+<p> </p>
 
 ## 2. Links
 
@@ -75,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Herren-Hemd? — Typ: Downloads, Anbieter: DotsDesigns, gelistet seit 2014-10-08
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

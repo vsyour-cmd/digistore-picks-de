@@ -4,16 +4,16 @@ digistore24_product_id: 733942
 title: "E-Mail-Verkaufsablauf: Vom Freebie zur geprüften E-Mail-Serie mit Brevo"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.62
+earnings_per_sale: 46.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Marketing Services"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/email-verkaufsablauf/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/email-verkaufsablauf/"
@@ -22,16 +22,16 @@ language: "de"
 # E-Mail-Verkaufsablauf: Vom Freebie zur geprüften E-Mail-Serie mit Brevo
 
 > Product ID `59274` · Digistore24 productId `733942` · [HTML profile page](../../produkte/e-mail-verkaufsablauf-vom-freebie-zur-gepr-ften-e-mail-serie-mit-brevo-59274.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.62 |
+| Earnings/sale* | $46.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für Anbieter eigener digitaler Produkte mit bestehendem Angebot und Verkaufsseite. Der Kurs zeigt einen begrenzten, überprüfbaren Weg von freiwilliger Anmeldung und Double-Opt-in über den Download bis zu einer fünfteiligen E-Mail-Folge. Das lernen KäuferFreebie und Versandplan festlegen, Einwilligungs- und Seitentexte vorbereiten, Domain und Absender prüfen, Double-Opt-in mit Brevo einrichten, fün…
+**Vendor's marketplace description:** <p>Für Anbieter eigener digitaler Produkte mit bestehendem Angebot und Verkaufsseite. Der Kurs zeigt einen begrenzten, überprüfbaren Weg von freiwilliger Anmeldung und Double-Opt-in über den Download bis zu einer fünfteiligen E-Mail-Folge.</p>
+<p><strong>Das lernen Käufer</strong><br />Freebie und Versandplan festlegen, Einwilligungs- und Seitentexte vorbereiten, Domain und Absender prüfen, Double-Opt-in mit Brevo einrichten, fünf zusammenhängende Nachrichten schreiben und Automation samt wirksamer Abmeldung testen. Käufer werden nur bei tatsächlich eingerichteter und geprüfter Datenanbindung ausgeschlossen.</p>
+<p><strong>Das ist enthalten</strong><br />Sechs schriftliche Module, Arbeitsbuch als PDF und bearbeitbare Word-Datei, vollständige fünfteilige Beispielserie und leere Ausfüllvorlage, Formular- und Seitentexte, Freebie-Briefing, Automation-Bauplan sowie CSV-Listen für Versand, Links und Tests.</p>
+<p><strong>Format und Voraussetzungen</strong><br />Deutschsprachiger schriftlicher Selbstlernkurs zum Herunterladen. Käufer arbeiten im eigenen Tempo und setzen die Aufgaben selbst um. Vorausgesetzt werden ein lieferbares digitales Produkt, Verkaufsseite und Checkout, ein geeignetes Brevo-Konto, eine eigene Absenderdomain und passende Datenschutz- und Einwilligungsgrundlagen. Toolkosten sind nicht enthalten. Keine Rechtsberatung und keine Verkaufsgarantie.</p>
+<p><strong>Preis und Partnerkonditionen</strong><br />Einmalig 99,00 € inklusive Umsatzsteuer. 50 % Affiliate-Provision gemäß der tatsächlichen Digistore24-Konfiguration. Die konkrete Auszahlung hängt von der Abrechnungsbasis und den Digistore24-Abzügen ab.</p>
+<p><strong>Fair bewerben</strong><br />Bitte als schriftliches Lernpaket mit PDF, bearbeitbarem Arbeitsbuch und Vorlagen darstellen. Kein Videokurs, Coaching oder persönliche Umsetzung. Fiktive Beispiele dürfen nicht als echte Kundenresultate dargestellt werden. Verkäufe, Einkommen oder bestimmte Geschäftsergebnisse werden nicht garantiert. Provisionsvergütete Empfehlungen müssen klar als Werbung erkennbar sein.</p>
+<p><a href="https://einfachmitmatze.de/email-verkaufsablauf/">Kursdetails und Lieferumfang auf der Verkaufsseite</a></p>
 
 ## 2. Links
 
@@ -88,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Mail-Verkaufsablauf: Vom Freebie zur geprüften E-Mail-Serie mit Brevo? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-16
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

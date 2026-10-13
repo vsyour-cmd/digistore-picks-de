@@ -4,34 +4,34 @@ digistore24_product_id: 708969
 title: "Billfix (Windows) – E-Rechnung ohne Abo | Einstieg 149 €, 30"
 vendor: "pelcita"
 product_type: "Software"
-price: 223
+price: 222.5
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 66.9
+earnings_per_sale: 66.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Finances"]
 listed_since: "2026-07-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.headuphigh.de/billfix?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57451/adminstore/"
 sales_page: "https://www.headuphigh.de/billfix"
 language: "de"
 ---
 # Billfix (Windows) – E-Rechnung ohne Abo | Einstieg 149 €, 30
 
 > Product ID `57451` · Digistore24 productId `708969` · [HTML profile page](../../produkte/billfix-windows-e-rechnung-ohne-abo-einstieg-149-30-57451.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $223.00 (Single payment) |
+| Price | $222.50 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $66.90 |
+| Earnings/sale* | $66.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pelcita |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Billfix — das Rechnungsprogramm zum Einmalkauf, ganz ohne Abo (für Windows). Warum sich das Bewerben lohnt: Aktueller Bedarf: E-Rechnungspflicht 2027/2028 im B2B — Millionen Solo-Selbstständige und Kleinbetriebe brauchen eine bezahlbare Lösung. Einstiegspreis: 149 € statt monatlicher Abo-Kosten. 100 % lokal auf dem Windows-PC — keine Cloud, kein Konto, kein Abo. Funktionsumfang: E-Rechnung nach EU…
+**Vendor's marketplace description:** <p><strong>Billfix — das Rechnungsprogramm zum Einmalkauf, ganz ohne Abo (für Windows).</strong></p>
+<p> </p>
+<p>Warum sich das Bewerben lohnt:</p>
+<p> </p>
+<p>Aktueller Bedarf: E-Rechnungspflicht 2027/2028 im B2B — Millionen Solo-Selbstständige und Kleinbetriebe brauchen eine bezahlbare Lösung.</p>
+<p> </p>
+<p>Einstiegspreis: 149 € statt monatlicher Abo-Kosten. 100 % lokal auf dem Windows-PC — keine Cloud, kein Konto, kein Abo.</p>
+<p> </p>
+<p>Funktionsumfang: E-Rechnung nach EU-Norm EN 16931 (ZUGFeRD/XRechnung), Mahnwesen, Teilzahlungen, GiroCode, Artikelstamm, Belegablage mit Handy-Scan, Kontoauszugs-Abgleich, zwei Gewerbe.</p>
+<p> </p>
+<p>Zielgruppe: Solo-Selbstständige und Ein-Personen-Betriebe, die ihre Rechnungen selbst schreiben — Coaches, Berater:innen, Handwerk im Nebenerwerb, Freelancer.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.headuphigh.de/billfix?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57451/adminstore/
 - Sales page: https://www.headuphigh.de/billfix
 - Canonical redirect: https://www.digistore24.com/redir/708969/adminstore
 
@@ -91,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Billfix (Windows) – E-Rechnung ohne Abo | Einstieg 149 €, 30? — Typ: Software, Anbieter: pelcita, gelistet seit 2026-07-07
-- Wie viel kostet es? — 222.9994 USD
+- Wie viel kostet es? — 222.5019 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

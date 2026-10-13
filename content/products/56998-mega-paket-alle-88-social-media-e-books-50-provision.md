@@ -4,16 +4,16 @@ digistore24_product_id: 701425
 title: "Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 520.51
+price: 519.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 260.26
+earnings_per_sale: 259.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/pakete/mega-paket?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/pakete/mega-paket"
@@ -22,16 +22,16 @@ language: "de"
 # Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision
 
 > Product ID `56998` · Digistore24 productId `701425` · [HTML profile page](../../produkte/mega-paket-alle-88-social-media-e-books-50-provision-56998.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $520.51 (Single payment) |
+| Price | $519.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $260.26 |
+| Earnings/sale* | $259.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die komplette Bibliothek: alle 88 E-Books für jede Social-Media-Plattform in einem Paket. Vom Einstieg über Coach- und Influencer-Aufbau bis zum Business-Wachstum – für Instagram, TikTok, YouTube, LinkedIn, X, Facebook, Pinterest, WhatsApp und viele mehr. Alle als PDF zum Sofort-Download nach dem Kauf. Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet)…
+**Vendor's marketplace description:** <p><strong>Die komplette Bibliothek: alle 88 E-Books für jede Social-Media-Plattform in einem Paket.</strong></p>
+<p>Vom Einstieg über Coach- und Influencer-Aufbau bis zum Business-Wachstum – für Instagram, TikTok, YouTube, LinkedIn, X, Facebook, Pinterest, WhatsApp und viele mehr. Alle als PDF zum Sofort-Download nach dem Kauf.</p>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet).</p>
+<p>Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -84,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 520.5074940000001 USD
+- Wie viel kostet es? — 519.346269 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

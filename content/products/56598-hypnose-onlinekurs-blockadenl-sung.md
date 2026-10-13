@@ -4,16 +4,16 @@ digistore24_product_id: 500873
 title: "Hypnose-Onlinekurs Blockadenlösung"
 vendor: "petanthony"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 11.54
+earnings_per_sale: 11.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-05-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://shop.petanthony.com/online-kurse_blockadenloesung_DS/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.petanthony.com/online-kurse_blockadenloesung_DS/"
@@ -22,16 +22,16 @@ language: "de"
 # Hypnose-Onlinekurs Blockadenlösung
 
 > Product ID `56598` · Digistore24 productId `500873` · [HTML profile page](../../produkte/hypnose-onlinekurs-blockadenl-sung-56598.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $11.54 |
+| Earnings/sale* | $11.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | petanthony |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit diesem Hypnose-Onlinekurs von Pet Anthony können Innere Blockaden aufgespürt, aufgelöst und ausgeleitet werden. Der Kurs enthält insgesamt 3 Videolektionen mit einer speziellen körpertherapeutischen Hypnose. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, K…
+**Vendor's marketplace description:** <div>
+<div>
+<p>Mit diesem Hypnose-Onlinekurs von Pet Anthony können Innere Blockaden aufgespürt, aufgelöst und ausgeleitet werden.</p>
+<p>Der Kurs enthält insgesamt 3 Videolektionen mit einer speziellen körpertherapeutischen Hypnose.</p>
+<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
+</div>
+</div>
 
 ## 2. Links
 
@@ -59,7 +65,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose-Onlinekurs Blockadenlösung? — Typ: Member area and video courses, Anbieter: petanthony, gelistet seit 2026-05-19
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

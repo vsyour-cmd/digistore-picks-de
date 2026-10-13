@@ -4,34 +4,34 @@ digistore24_product_id: 658737
 title: "Dein GYM-Guide von C.Ahlers"
 vendor: "Chris_A"
 product_type: "Downloads"
-price: 47.03
+price: 46.93
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 11.76
+earnings_per_sale: 11.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Sport"]
 listed_since: "2026-01-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/658737?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55085/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/658737"
 language: "de"
 ---
 # Dein GYM-Guide von C.Ahlers
 
 > Product ID `55085` · Digistore24 productId `658737` · [HTML profile page](../../produkte/dein-gym-guide-von-c-ahlers-55085.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $47.03 (Single payment) |
+| Price | $46.93 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $11.76 |
+| Earnings/sale* | $11.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Chris_A |
@@ -41,9 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
+**Vendor's marketplace description:** <h2> </h2>
+
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/658737?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55085/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/658737
 - Canonical redirect: https://www.digistore24.com/redir/658737/adminstore
 
@@ -72,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein GYM-Guide von C.Ahlers? — Typ: Downloads, Anbieter: Chris_A, gelistet seit 2026-01-03
-- Wie viel kostet es? — 47.031582 USD
+- Wie viel kostet es? — 46.926657000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-02-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://shop.growverse.de/funnels/clarity-system/freebie?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55883/adminstore/"
 sales_page: "https://shop.growverse.de/funnels/clarity-system/freebie"
 language: "de"
 ---
 # Clarity System Funnel
 
 > Product ID `55883` · Digistore24 productId `669477` · [HTML profile page](../../produkte/clarity-system-funnel-55883.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Clarity System Funnel ist ein mehrstufiger Funnel für Affiliates, die ein starkes, emotional relevantes Thema mit breiter Zielgruppe bewerben wollen: innere Klarheit, Selbstsicherheit, Fokus und ruhige Umsetzung im Alltag. Der Funnel spricht Menschen an, die sich innerlich sortieren wollen, bessere Entscheidungen treffen möchten und nach einem klaren, alltagstauglichen System suchen – ohne Dru…
+**Vendor's marketplace description:** <p><strong>Der Clarity System Funnel</strong> ist ein mehrstufiger Funnel für Affiliates, die ein starkes, emotional relevantes Thema mit breiter Zielgruppe bewerben wollen: innere Klarheit, Selbstsicherheit, Fokus und ruhige Umsetzung im Alltag.</p>
+<p>Der Funnel spricht Menschen an, die sich innerlich sortieren wollen, bessere Entscheidungen treffen möchten und nach einem klaren, alltagstauglichen System suchen – ohne Druck, ohne Selbstoptimierung und ohne leere Motivationsphrasen. Genau das macht das Thema so anschlussfähig und conversionstark: Es betrifft sehr viele Menschen direkt und löst ein konkretes, spürbares Problem.</p>
+<p>Der Funnel startet mit einem kostenlosen Einstieg: <strong>Clarity System – 20-Minuten Reset</strong>. Dieses kostenfreie E-Book senkt die Einstiegshürde massiv und holt Interessenten genau in ihrer aktuellen Situation ab: mental voll, unsortiert, überfordert oder innerlich unruhig. Der kostenlose Einstieg baut Vertrauen auf und bereitet strategisch auf die kostenpflichtigen Angebote im Funnel vor.</p>
+<p>Der erste direkte Umsatztreiber ist der <strong>Clarity System – Strategy Guide / Mindset Navigator</strong>. Das E-Book vertieft den Reset und zeigt Schritt für Schritt, wie mehr innere Stabilität, Selbstsicherheit und Klarheit im Alltag aufgebaut werden können. Affiliates erhalten hierbei <strong>50 % Provision</strong> auf jeden Verkauf.</p>
+<p>Ergänzt wird das Frontend durch das <strong>Success Toolkit</strong> als Addon. Mit Checkliste, Workbook und Audiokurs unterstützt es die praktische Umsetzung und hilft Käufern dabei, Klarheit nicht nur zu verstehen, sondern regelmäßig im Alltag anzuwenden. Auch hier profitieren Affiliates von <strong>50 % Provision</strong>.</p>
+<p>Ein zentraler Bestandteil des Funnels ist außerdem das <strong>Clarity System – Inner Framework</strong>, ein strukturierter Videokurs für Menschen, die sich innerlich neu ausrichten und handlungsfähiger werden wollen. Der Kurs vermittelt einen klaren Prozess für Selbstbild, Werte, Entscheidungsfindung, Umgang mit Selbstzweifeln und nachhaltige Umsetzung im Alltag. Damit enthält der Funnel nicht nur ein günstiges Einstiegsprodukt, sondern auch ein deutlich wertigeres Hauptangebot. Auch auf dieses Angebot erhalten Affiliates <strong>50 % Provision</strong>.</p>
+<p>Für Affiliates ist der Funnel attraktiv, weil er mehrere Conversion-Stufen in einem emotional starken und dauerhaft relevanten Markt kombiniert: kostenloser Einstieg, direktes Einstiegsprodukt, Addon-Upsell und weiterführender Videokurs. Dadurch entstehen mehrere Kaufentscheidungen innerhalb desselben Funnels, was den Gesamtumsatz pro Besucher deutlich erhöhen kann.</p>
+<p>Die Zielgruppe ist groß und kaufbereit: Menschen mit mentaler Überlastung, Entscheidungsdruck, Selbstzweifeln oder dem Wunsch nach mehr innerer Ordnung und Klarheit. Das Thema ist verständlich, nah am Alltag und braucht keine lange Erklärung – genau das macht den Funnel auch im Affiliate-Marketing interessant.</p>
+<p><strong>Freebie + E-Book + Addon + Videokurs. 50 % Provision auf alle Umsätze.</strong><br /><strong>Du bringst Traffic – der Funnel maximiert den Umsatz.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shop.growverse.de/funnels/clarity-system/freebie?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55883/adminstore/
 - Sales page: https://shop.growverse.de/funnels/clarity-system/freebie
 - Canonical redirect: https://www.digistore24.com/redir/669477/adminstore
 

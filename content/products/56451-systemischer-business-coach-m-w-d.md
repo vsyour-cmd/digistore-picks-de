@@ -4,34 +4,34 @@ digistore24_product_id: 681020
 title: "Systemischer Business-Coach (m/w/d)"
 vendor: "wehner82f5"
 product_type: "Member area and video courses"
-price: 277.8
+price: 277.18
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 125.01
+earnings_per_sale: 124.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-03-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/681020/adminstore"
+promo_link: "https://www.digistore24.com/redir/56451/adminstore/"
 sales_page: "https://teamwehner-bildung.mydigibiz24.com/coachingausbildung?aff=[AFFILIATE]"
 language: "de"
 ---
 # Systemischer Business-Coach (m/w/d)
 
 > Product ID `56451` · Digistore24 productId `681020` · [HTML profile page](../../produkte/systemischer-business-coach-m-w-d-56451.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $277.80 (Single payment) |
+| Price | $277.18 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $125.01 |
+| Earnings/sale* | $124.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wehner82f5 |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Online-Coachingausbildung inkl. Zugang zum digitalen Mitgliederbereich mit sämtlichen Ausbildungsinhalten. Die Ausbildung umfasst strukturierte Lernmodule, Coaching-Methoden, praxisorientierte Übungen sowie Bonusmaterial zur persönlichen und fachlichen Weiterentwicklung. Es handelt sich um ein digitales Produkt (Onlinekurs).
+**Vendor's marketplace description:** <p>Online-Coachingausbildung inkl. Zugang zum digitalen Mitgliederbereich mit sämtlichen Ausbildungsinhalten.</p>
+<p> </p>
+<p>Die Ausbildung umfasst strukturierte Lernmodule, Coaching-Methoden, praxisorientierte Übungen sowie Bonusmaterial zur persönlichen und fachlichen Weiterentwicklung.</p>
+<p> </p>
+<p>Es handelt sich um ein digitales Produkt (Onlinekurs).</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/681020/adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56451/adminstore/
 - Sales page: https://teamwehner-bildung.mydigibiz24.com/coachingausbildung?aff=[AFFILIATE]
 - Canonical redirect: https://www.digistore24.com/redir/681020/adminstore
 
@@ -73,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Systemischer Business-Coach (m/w/d)? — Typ: Member area and video courses, Anbieter: wehner82f5, gelistet seit 2026-03-31
-- Wie viel kostet es? — 277.79674 USD
+- Wie viel kostet es? — 277.17699000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

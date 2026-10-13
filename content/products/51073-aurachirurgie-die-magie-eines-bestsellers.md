@@ -4,34 +4,34 @@ digistore24_product_id: 587210
 title: "Aurachirurgie - die Magie eines Bestsellers"
 vendor: "mindstream"
 product_type: "Book (printed)"
-price: 321.83
+price: 321.11
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 13.05
+earnings_per_sale: 13.03
 cart_conversion_pct: 8
 cancel_rate_pct: 1.5
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2024-12-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/587210?aff=adminstore"
+promo_link: "https://www.werdemusiker.de/piano-ubegeheimnisse/#aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/587210"
 language: "de"
 ---
 # Aurachirurgie - die Magie eines Bestsellers
 
 > Product ID `51073` · Digistore24 productId `587210` · [HTML profile page](../../produkte/aurachirurgie-die-magie-eines-bestsellers-51073.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $321.83 (Single payment) |
+| Price | $321.11 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $13.05 |
+| Earnings/sale* | $13.03 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.5% |
 | Vendor | mindstream |
@@ -41,11 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Aurachirurgie von Annette Grübnau wurde innerhalb der ersten 16 Monaten über 10.400x Mal verkauft. Das Buch erklärt anhand Annette´s Geschichte, wie sich jeder Mensch ein freieres, glücklicheres und erfolgreicheres Leben durch Aurachirurgie aufbauen kann. Als unser geschätzter Partner bekommst Du 100% Affiliate-Provision auf das Buch (6,90€) und alle anderen Produkte (Upsells, Addons etc) Werbemat…
+**Vendor's marketplace description:** <p><strong>Aurachirurgie von Annette Grübnau wurde innerhalb der ersten 16 Monaten über 10.400x Mal verkauft. </strong></p>
+<p> </p>
+<p>Das Buch erklärt anhand Annette´s Geschichte, wie sich jeder Mensch ein freieres, glücklicheres und erfolgreicheres Leben durch Aurachirurgie aufbauen kann. </p>
+<div> </div>
+<div>Als unser geschätzter Partner bekommst Du <strong>100% Affiliate-Provision</strong> auf das Buch (6,90€) und alle anderen Produkte (Upsells, Addons etc) </div>
+<div> </div>
+<div>Werbematerialien stellen wir Dir ebenfalls zur Verfügung. </div>
+<div> </div>
+<div>Google Suchnetzwerk-Werbung auf Brand Keywords ist untersagt.</div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/587210?aff=adminstore
+- **Promo link (affiliate):** https://www.werdemusiker.de/piano-ubegeheimnisse/#aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/587210
 - Vendor affiliate support: https://mgb.mindstream.ch/affiliate-registration
 - Canonical redirect: https://www.digistore24.com/redir/587210/adminstore
@@ -74,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Aurachirurgie - die Magie eines Bestsellers? — Typ: Book (printed), Anbieter: mindstream, gelistet seit 2024-12-21
-- Wie viel kostet es? — 321.825114 USD
+- Wie viel kostet es? — 321.107139 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

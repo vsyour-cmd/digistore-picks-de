@@ -4,34 +4,34 @@ digistore24_product_id: 576941
 title: "FSK 18 KI - Adult Secrets"
 vendor: "Spekulatius"
 product_type: "Member area and video courses"
-price: 119.59
+price: 119.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 59.8
+earnings_per_sale: 59.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-10-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.meinneuerlifestyle.vip/adultaffiliate/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50191/adminstore/"
 sales_page: "https://www.meinneuerlifestyle.vip/adultaffiliate/"
 language: "de"
 ---
 # FSK 18 KI - Adult Secrets
 
 > Product ID `50191` · Digistore24 productId `576941` · [HTML profile page](../../produkte/fsk-18-ki-adult-secrets-50191.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $119.59 (Single payment) |
+| Price | $119.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $59.80 |
+| Earnings/sale* | $59.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Adult Secrets: FSK 18 KI ✅ Deine Community verdient Geld mit Adult Content durch Social Media ✅ Dank KI bleibt man komplett Anonym ✅ Und Sie bekommen noch weitere kostenlose Online Geld verdien Strategien (Canva, Chat GPT uvm.) in unserem Mitgliederbereich!!! Du kannst durch Upsells und AddOn insgesamt bis zu 237 Euro verdienen
+**Vendor's marketplace description:** <div>
+<div><span style="background-color:#ffff00;"><em><strong>Adult Secrets: FSK 18 KI</strong></em></span></div>
+<div> </div>
+<div><em><strong>✅  </strong>Deine Community verdient Geld mit Adult Content durch Social Media </em></div>
+<div> </div>
+<div><strong><em>✅  Dank KI bleibt man komplett Anonym</em></strong></div>
+<div> </div>
+<div><em>✅  Und Sie bekommen noch weitere kostenlose Online Geld verdien Strategien (Canva, Chat GPT uvm.) in unserem Mitgliederbereich!!!</em></div>
+</div>
+<div> </div>
+<div><span style="background-color:#ffff00;"><em><strong>Du kannst durch Upsells und AddOn insgesamt bis zu 237 Euro verdienen</strong></em></span></div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/adultaffiliate/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50191/adminstore/
 - Sales page: https://www.meinneuerlifestyle.vip/adultaffiliate/
 - Vendor affiliate support: https://www.meinneuerlifestyle.vip/werbemittel-fsk-freebie-2/
 - Canonical redirect: https://www.digistore24.com/redir/576941/adminstore
@@ -67,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FSK 18 KI - Adult Secrets? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2024-10-24
-- Wie viel kostet es? — 119.590432 USD
+- Wie viel kostet es? — 119.323632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

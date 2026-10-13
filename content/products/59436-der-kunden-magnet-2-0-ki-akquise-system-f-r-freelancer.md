@@ -4,16 +4,16 @@ digistore24_product_id: 735162
 title: "Der Kunden-Magnet 2.0 – KI-Akquise-System für Freelancer"
 vendor: "freelancerkitools"
 product_type: "E-books"
-price: 9.42
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.72
+earnings_per_sale: 4.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://freelancer-ki-tools.de/kunden-magnet-2-0?aff=adminstore#aff=adminstore"
 sales_page: "https://freelancer-ki-tools.de/kunden-magnet-2-0"
@@ -22,16 +22,16 @@ language: "de"
 # Der Kunden-Magnet 2.0 – KI-Akquise-System für Freelancer
 
 > Product ID `59436` · Digistore24 productId `735162` · [HTML profile page](../../produkte/der-kunden-magnet-2-0-ki-akquise-system-f-r-freelancer-59436.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.42 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.72 |
+| Earnings/sale* | $4.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | freelancerkitools |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Kunden-Magnet 2.0 ist ein praxisorientiertes digitales KI-Akquise-System für Freelancer, virtuelle Assistenzen und selbstständige Dienstleister. Es unterstützt Käufer dabei, ihre Zielgruppe klarer einzugrenzen, persönliche Erstkontakte zu formulieren, Angebote verständlich zu kommunizieren und professionell nachzufassen – mit KI als Werkzeug und ohne unpersönliche Massenansprache. Das digitale…
+**Vendor's marketplace description:** <p>Der Kunden-Magnet 2.0 ist ein praxisorientiertes digitales KI-Akquise-System für Freelancer, virtuelle Assistenzen und selbstständige Dienstleister. Es unterstützt Käufer dabei, ihre Zielgruppe klarer einzugrenzen, persönliche Erstkontakte zu formulieren, Angebote verständlich zu kommunizieren und professionell nachzufassen – mit KI als Werkzeug und ohne unpersönliche Massenansprache.</p>
+<p>Das digitale Arbeitspaket enthält:</p>
+<p>• einen 34-seitigen PDF-Leitfaden</p>
+<p><br />• 30 direkt einsetzbare KI-Prompts als separate TXT-Datei</p>
+<p><br />• einen bearbeitbaren Excel-Akquise-Tracker</p>
+<p><br />• drei vollständige Praxisbeispiele</p>
+<p><br />• einen 7-Tage-Umsetzungsplan</p>
+<p><br />• Strategien und Vorlagen für LinkedIn, E-Mail, Empfehlungen, Netzwerke, Reaktivierung und warme Kontakte</p>
+<p>Warum sich die Bewerbung für Affiliates lohnt:</p>
+<p>• klar definierte Zielgruppe rund um Freelancing, virtuelle Assistenz und Solo-Selbstständigkeit</p>
+<p><br />• Verbindung des dauerhaften Bedarfs „Kundengewinnung“ mit dem aktuellen Thema künstliche Intelligenz</p>
+<p><br />• niedrigschwelliger Verkaufspreis von einmalig 19 € – kein Abonnement</p>
+<p><br />• 50 % Affiliate-Provision</p>
+<p><br />• vielseitige Werbeansätze für Newsletter, Blogs, YouTube, Social Media sowie Freelancer-, Business- und KI-Communitys</p>
+<p><br />• automatische Freischaltung von Affiliate-Partnerschaften</p>
+<p>Das Produkt eignet sich besonders für Affiliates, deren Zielgruppe selbstständig arbeitet, neue Kunden gewinnen möchte oder KI praktisch im Geschäftsalltag einsetzen will. Der Schwerpunkt liegt auf persönlicher und seriöser Ansprache statt auf Massenmailings. Automatische Aufträge oder bestimmte Umsätze werden nicht versprochen.</p>
 
 ## 2. Links
 
@@ -84,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Kunden-Magnet 2.0 – KI-Akquise-System für Freelancer? — Typ: E-books, Anbieter: freelancerkitools, gelistet seit 2026-09-20
-- Wie viel kostet es? — 9.424246 USD
+- Wie viel kostet es? — 9.403221 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

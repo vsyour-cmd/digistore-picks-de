@@ -4,34 +4,34 @@ digistore24_product_id: 717711
 title: "Kampagne24 - Der Promo-Kalender: Alle Launches und Promotion"
 vendor: "carstenfeuerbach"
 product_type: "Member area and video courses"
-price: 41.46
+price: 41.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.73
+earnings_per_sale: 20.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://kampagne24.com/sales-promokalender?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59997/adminstore/"
 sales_page: "https://kampagne24.com/sales-promokalender"
 language: "de"
 ---
 # Kampagne24 - Der Promo-Kalender: Alle Launches und Promotion
 
 > Product ID `59997` · Digistore24 productId `717711` · [HTML profile page](../../produkte/kampagne24-der-promo-kalender-alle-launches-und-promotion-59997.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.46 (Single payment) |
+| Price | $41.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.73 |
+| Earnings/sale* | $20.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | carstenfeuerbach |
@@ -41,11 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Fette Provisionen mit dem Kampagne24-Promo-Kalender von Carsten Feuerbach Behalte alle geplanten Launches und Promotions auf einen Blick, mit automatisch generierten Affiliate-Links für jede Aktion. Kein Chaos mehr in Notizen oder Tabellen, ein Blick genügt. Provision: 50% auf den Promo-Kalender (37€, also 18,50€ pro Sale für dich) PLUS 50% auf den Kampagne24-E-Mail-Spielbericht als Upsell direkt …
+**Vendor's marketplace description:** <p><strong>Fette Provisionen mit dem <a href="https://kampagne24.com/sales-promokalender" target="_blank" rel="noreferrer noopener">Kampagne24-Promo-Kalender</a> von Carsten Feuerbach</strong></p>
+<p>Behalte alle geplanten Launches und Promotions auf einen Blick, mit automatisch generierten Affiliate-Links für jede Aktion. Kein Chaos mehr in Notizen oder Tabellen, ein Blick genügt.</p>
+<p><strong>Provision:</strong> 50% auf den Promo-Kalender (37€, also 18,50€ pro Sale für dich) PLUS 50% auf den <a href="https://kampagne24.com/sales-spielbericht" target="_blank" rel="noreferrer noopener"><strong>Kampagne24-E-Mail-Spielbericht</strong> </a>als Upsell direkt im selben Funnel (nochmal 37€, also weitere 18,50€ pro Sale). Bis zu 37€ Provision pro Kunde möglich.</p>
+<p><strong>Start:</strong> Ab sofort, direkt loslegen!</p>
+<p>✅ Kalenderansicht für alle geplanten Launches und E-Mail-Promotions<br />✅ Automatische Affiliate-Link-Generierung für jede Aktion<br />✅ Direkt danach wird der E-Mail-Spielbericht als Upsell angeboten (37€, 50% Provision für dich)<br />✅ Sofortiger, automatischer Zugang, rund um die Uhr, egal wann bestellt wird</p>
+<p><strong>Zielgruppe:</strong></p>
+<ul>
+<li>Affiliates und E-Mail-Marketer, die planbarer launchen wollen</li>
+<li>Jeder, der mehrere Promotions/Launches parallel im Blick behalten muss</li>
+<li>Ideal für alle, die bereits mit Kampagne24-Produkten vertraut sind</li>
+</ul>
+<p><strong>Deine Vorteile als Partner:</strong></p>
+<ul>
+<li>Zwei Provisionen aus einem Funnel (Promo-Kalender + Spielbericht-Upsell)</li>
+<li>Hohe Relevanz für jeden, der E-Mail-Marketing aktiv betreibt</li>
+<li>Schnelle Abrechnung über Digistore24</li>
+</ul>
+<p><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener"><strong>Jetzt Partner werden und mit dem Promo-Kalender starten!</strong></a></p>
+<p>Weitere Infos, Werbemittel &amp; weitere Produkte von Carsten Feuerbach unter:<br /><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">https://go.carstenfeuerbach.de/partnerprogramm</a></strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kampagne24.com/sales-promokalender?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59997/adminstore/
 - Sales page: https://kampagne24.com/sales-promokalender
 - Vendor affiliate support: https://go.carstenfeuerbach.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/717711/adminstore
@@ -84,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kampagne24 - Der Promo-Kalender: Alle Launches und Promotion? — Typ: Member area and video courses, Anbieter: carstenfeuerbach, gelistet seit 2026-09-28
-- Wie viel kostet es? — 41.4622 USD
+- Wie viel kostet es? — 41.3697 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

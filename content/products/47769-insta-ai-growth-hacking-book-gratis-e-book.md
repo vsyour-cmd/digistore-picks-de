@@ -4,34 +4,34 @@ digistore24_product_id: 547995
 title: "Insta AI Growth Hacking Book (Gratis E-Book)"
 vendor: "webpirat"
 product_type: "E-books"
-price: 1.28
+price: 1.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 0.43
+earnings_per_sale: 0.42
 cart_conversion_pct: 33
 cancel_rate_pct: 2.2
 categories: ["Computer & Internet","Social Media"]
 listed_since: "2024-04-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.webpirat.de/insta-ai-growth-hacking-book/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47769/adminstore/"
 sales_page: "https://www.webpirat.de/insta-ai-growth-hacking-book/"
 language: "de"
 ---
 # Insta AI Growth Hacking Book (Gratis E-Book)
 
 > Product ID `47769` · Digistore24 productId `547995` · [HTML profile page](../../produkte/insta-ai-growth-hacking-book-gratis-e-book-47769.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $1.28 (Single payment) |
+| Price | $1.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $0.43 |
+| Earnings/sale* | $0.42 |
 | Cart conversion* | 33% |
 | Cancel rate* | 2.2% |
 | Vendor | webpirat |
@@ -41,11 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Nutze dieses E-Book um deiner Zielgruppe ein hochwertiges Geschenk anzubieten und profitiere von Fetten Upsells. Hochkonvertierendes Order-Bump Addon direkt im Bestellformular. Für wen geeignet?: Das E-Book eignet sich für alle, die im Online Marketing unterwegs sind. Deine Vorteile als Partner: Qualitatives Freebie, welches du deiner Zielgruppe schneken und somit mehr Vertrauen aufbauen kannst. 5…
+**Vendor's marketplace description:** <p><strong>Nutze dieses E-Book um deiner Zielgruppe ein hochwertiges Geschenk anzubieten und profitiere von Fetten Upsells.</strong></p>
+<p>Hochkonvertierendes Order-Bump Addon direkt im Bestellformular.</p>
+<p><strong>Für wen geeignet?</strong>: Das E-Book eignet sich für alle, die im Online Marketing unterwegs sind.</p>
+<p><strong>Deine Vorteile als Partner</strong>:</p>
+<ul>
+<li>
+<ul>
+<li>Qualitatives Freebie, welches du deiner Zielgruppe schneken und somit mehr Vertrauen aufbauen kannst.</li>
+<li><strong>50% auf alle unsere Produkte im Funnel</strong></li>
+<li>180 Tage Cookie-Laufzeit</li>
+<li>Qualitätsprodukte erstellt von Webpirat.de</li>
+</ul>
+</li>
+</ul>
+<div style="width:0px;height:0px;"> </div>
+<div style="width:0px;height:0px;"> </div>
+<div style="width:0px;height:0px;"> </div>
+<div style="width:0px;height:0px;"></div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.webpirat.de/insta-ai-growth-hacking-book/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47769/adminstore/
 - Sales page: https://www.webpirat.de/insta-ai-growth-hacking-book/
 - Vendor affiliate support: https://www.webpirat.de/werde-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/547995/adminstore
@@ -71,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Insta AI Growth Hacking Book (Gratis E-Book)? — Typ: E-books, Anbieter: webpirat, gelistet seit 2024-04-13
-- Wie viel kostet es? — 1.2774839999999998 USD
+- Wie viel kostet es? — 1.274634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

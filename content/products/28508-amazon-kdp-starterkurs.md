@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-04-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://lp.incomebutler.com/self-publisher-masterkurs-kostenlos-lp?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.incomebutler.com/self-publisher-masterkurs-kostenlos-lp"
@@ -22,7 +22,7 @@ language: "de"
 # Amazon KDP Starterkurs
 
 > Product ID `28508` · Digistore24 productId `266561` · [HTML profile page](../../produkte/amazon-kdp-starterkurs-28508.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vermarkte den Schnupperkurs des Self Publishing Masterkurses! Du bekommst dafür 1,00€ Provision! Und für alle weiteren Upsells wirst du ebenfalls vergütet! Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen!! +1,00 für diesen Schnupperkurs als Lead Magnet. Das spricht für den kompletten Kurs: Schritt für Schritt vom Anfänger bis zum …
+**Vendor's marketplace description:** <p>Vermarkte den Schnupperkurs des Self Publishing Masterkurses! Du bekommst dafür <strong>1,00€ Provision</strong>!</p>
+<p>Und für alle weiteren Upsells wirst du ebenfalls vergütet!</p>
+<p><strong>Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen!! +1,00 für diesen Schnupperkurs als Lead Magnet.<br /></strong></p>
+<p>Das spricht für den kompletten Kurs:</p>
+<ul>
+<li>Schritt für Schritt vom Anfänger bis zum ersten eBook, Taschenbuch und Hörbuch (upsell)</li>
+<li>Zeigt den Teilnehmern alle Schritte von der Nischenanalyse über Ghostwriter finden, Covererstellung und Marketing</li>
+<li>Profi Marketing Strategien (Upsell)</li>
+<li>ständig NEUE Inhalte</li>
+<li>Über <strong>6 Stunden Videomaterial</strong> im Masterkurs und über <strong>8 Stunden</strong> im Profikurs + <strong>2 Stunden</strong> im Audio Book Kurs + 2 Stunden Mindset Kurs.</li>
+<li>Theorie &amp; Praxis!</li>
+<li>Checklisten, Vorlagen, Templates, etc.! All-In-One Package!</li>
+<li>ständige Updates vom Kurs</li>
+<li>VIP Support</li>
+<li>Prüfungsmöglchkeit am Ende des Kurses mit Teilnahmebestätigung und Qualifikation</li>
+</ul>
+<p>Profitiere somit auch du von dem Trend des Self Publishings und des einfachen Einstiegs!</p>
 
 ## 2. Links
 
@@ -66,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Amazon KDP Starterkurs? — Typ: Downloads, Anbieter: seotech, gelistet seit 2019-04-03
-- Wie viel kostet es? — 1.871402 USD
+- Wie viel kostet es? — 1.867227 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

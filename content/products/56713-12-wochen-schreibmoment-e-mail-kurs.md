@@ -4,34 +4,34 @@ digistore24_product_id: 695576
 title: "12 Wochen Schreibmoment - E-Mail-Kurs"
 vendor: "Heike1704"
 product_type: "Remote service provided electronically"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 25.99
+earnings_per_sale: 25.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Hobby & Craft","Personal Development"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/695576?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56713/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/695576"
 language: "de"
 ---
 # 12 Wochen Schreibmoment - E-Mail-Kurs
 
 > Product ID `56713` · Digistore24 productId `695576` · [HTML profile page](../../produkte/12-wochen-schreibmoment-e-mail-kurs-56713.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $64.97 (Single payment, Installment) |
+| Price | $64.83 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $25.99 |
+| Earnings/sale* | $25.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Heike1704 |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 12 Wochen Schreibmoment ist ein E-Mail-Kurs für Menschen, die wieder ins Schreiben kommen möchten – ohne Druck, ohne Perfektionismus und ohne Vorkenntnisse. Die Teilnehmenden erhalten über 12 Wochen wöchentlich eine inspirierende E-Mail mit Schreibimpulsen, Reflexionsfragen und einem passenden Workbook als PDF. Der Kurs eignet sich für alle, die Gedanken sortieren, Erinnerungen festhalten, persönl…
+**Vendor's marketplace description:** <p><strong>12 Wochen Schreibmoment</strong> ist ein E-Mail-Kurs für Menschen, die wieder ins Schreiben kommen möchten – ohne Druck, ohne Perfektionismus und ohne Vorkenntnisse. Die Teilnehmenden erhalten über 12 Wochen wöchentlich eine inspirierende E-Mail mit Schreibimpulsen, Reflexionsfragen und einem passenden Workbook als PDF. Der Kurs eignet sich für alle, die Gedanken sortieren, Erinnerungen festhalten, persönliche Texte schreiben oder eine kleine Schreibroutine entwickeln möchten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/695576?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56713/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/695576
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/4102072/de
 - Canonical redirect: https://www.digistore24.com/redir/695576/adminstore
@@ -88,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 12 Wochen Schreibmoment - E-Mail-Kurs? — Typ: Remote service provided electronically, Anbieter: Heike1704, gelistet seit 2026-05-27
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

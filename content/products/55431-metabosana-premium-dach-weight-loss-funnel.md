@@ -4,16 +4,16 @@ digistore24_product_id: 663162
 title: "MetaboSana - Premium DACH Weight Loss Funnel"
 vendor: "DS24-MySana"
 product_type: "Supplements - for slimming"
-price: 164.92
+price: 164.55
 currency: "USD"
-affiliate_commission_pct: 60
-earnings_per_sale: 105.74
+affiliate_commission_pct: 65
+earnings_per_sale: 105.5
 cart_conversion_pct: 16
 cancel_rate_pct: 0.82
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-01-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://metabosana.com/metabosana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://metabosana.com/metabosana-pdp-fe"
@@ -22,16 +22,16 @@ language: "de"
 # MetaboSana - Premium DACH Weight Loss Funnel
 
 > Product ID `55431` · Digistore24 productId `663162` · [HTML profile page](../../produkte/metabosana-premium-dach-weight-loss-funnel-55431.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $164.92 (Single payment) |
-| Affiliate commission | 60% |
-| Earnings/sale* | $105.74 |
+| Price | $164.55 (Single payment) |
+| Affiliate commission | 65% |
+| Earnings/sale* | $105.50 |
 | Cart conversion* | 16% |
 | Cancel rate* | 0.82% |
 | Vendor | DS24-MySana |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** MetaboSana - Premium DACH Weight Loss Funnel | Supplements - for slimming While US affiliates drown in saturation and skyrocketing CPMs, smart media buyers are quietly crushing it in the 110-million-person German-speaking market. MetaboSana is the latest winner from the team that crushed it with GlucoTrust in DACH—and it's converting cold traffic at US-level rates with 40-60% LOWER ad costs. The a…
+**Vendor's marketplace description:** <p><strong>MetaboSana - Premium DACH Weight Loss Funnel | Supplements - for slimming</strong></p>
+<p>While US affiliates drown in saturation and skyrocketing CPMs, smart media buyers are quietly crushing it in the 110-million-person German-speaking market. MetaboSana is the latest winner from the team that crushed it with GlucoTrust in DACH—and it's converting cold traffic at US-level rates with 40-60% LOWER ad costs. The angle? A Harvard-trained health detective reveals why your cells are IMPRISONED... trapping fat, blocking nutrients, and making weight loss physically impossible... no matter how clean you eat or how hard you train. The mechanism has its own German name—Stoffwechsel-Blockade (metabolic blockage)—affecting 91% of Germans over 30. And how 11 pharmaceutical-grade, clinically-dosed ingredients systematically UNLOCK your metabolism in three precise phases. Backed by Stanford and Harvard research. Validated by German universities with electron microscope proof. This isn't translated US hype—it's science wrapped in emotional German storytelling that skeptical DACH buyers actually TRUST. DEEP funnel (9 steps!) means €177-294 AOV. 60% commissions throughout. CPA deals for volume players. No crash diets. No gym torture. Just a systematic cellular liberation protocol that converts freezing cold traffic because the logic is airtight and the doctor credibility crushes objections before they form. Low refunds (product actually works). Built-in upsell synergy with SlimSana/GlucoTrust for list owners. Same proven team. Same market mastery. You get a machine that's already printing money. This market is pristine RIGHT NOW—but the window won't stay open forever. First-movers are eating. Late arrivals will starve. Which side do you want to be on?</p>
 
 ## 2. Links
 
@@ -104,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MetaboSana - Premium DACH Weight Loss Funnel? — Typ: Supplements - for slimming, Anbieter: DS24-MySana, gelistet seit 2026-01-21
-- Wie viel kostet es? — 164.918702 USD
+- Wie viel kostet es? — 164.550777 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 725449
 title: "Die Geschichte der O in Deutscher Sprache"
 vendor: "Novaris_web"
 product_type: "Audio book (download)"
-price: 17.48
+price: 17.44
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 1.75
+earnings_per_sale: 1.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://novaris.de.cool/o.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58715/adminstore/"
 sales_page: "https://novaris.de.cool/o.php"
 language: "de"
 ---
 # Die Geschichte der O in Deutscher Sprache
 
 > Product ID `58715` · Digistore24 productId `725449` · [HTML profile page](../../produkte/die-geschichte-der-o-in-deutscher-sprache-58715.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $17.48 (Single payment) |
+| Price | $17.44 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $1.75 |
+| Earnings/sale* | $1.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Novaris_web |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Geschichte der O, ein Hörbuch in natürlich weiblicher Sprache. Wegen seiner detaillierten Darstellung der Folgsamkeit des weiblichen Geschlechtes galt das Werk lange als ein umstrittenes Buch. Es übte auf die Entwicklung der Literatur Einfluss aus und ist einer der bekanntesten Romane der Welt.Hörbuch 16,69 EuroSpielzeit 5 Stunden, 16 Minuten
+**Vendor's marketplace description:** <p><strong><span>D</span></strong><span>ie Geschichte der O, ein Hörbuch in natürlich weiblicher Sprache. Wegen seiner detaillierten Darstellung der Folgsamkeit des weiblichen Geschlechtes galt das Werk lange als ein umstrittenes Buch. Es übte auf die Entwicklung der Literatur Einfluss aus und ist einer der bekanntesten Romane der Welt.<br /><br />Hörbuch 16,69 Euro<br />Spielzeit 5 Stunden, 16 Minuten<br /></span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://novaris.de.cool/o.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58715/adminstore/
 - Sales page: https://novaris.de.cool/o.php
 - Canonical redirect: https://www.digistore24.com/redir/725449/adminstore
 
@@ -68,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Geschichte der O in Deutscher Sprache? — Typ: Audio book (download), Anbieter: Novaris_web, gelistet seit 2026-08-27
-- Wie viel kostet es? — 17.48136 USD
+- Wie viel kostet es? — 17.44236 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

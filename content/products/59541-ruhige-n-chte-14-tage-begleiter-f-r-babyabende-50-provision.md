@@ -4,34 +4,34 @@ digistore24_product_id: 735885
 title: "Ruhige Nächte – 14-Tage-Begleiter für Babyabende | 50 % Provision"
 vendor: "DerPate"
 product_type: "Downloads"
-price: 37.57
+price: 37.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.79
+earnings_per_sale: 18.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Health & Fitness"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://meinevorlagenkiste.de/ruhige-naechte/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59541/adminstore/"
 sales_page: "https://meinevorlagenkiste.de/ruhige-naechte/"
 language: "de"
 ---
 # Ruhige Nächte – 14-Tage-Begleiter für Babyabende | 50 % Provision
 
 > Product ID `59541` · Digistore24 productId `735885` · [HTML profile page](../../produkte/ruhige-n-chte-14-tage-begleiter-f-r-babyabende-50-provision-59541.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $37.57 (Single payment) |
+| Price | $37.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.79 |
+| Earnings/sale* | $18.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DerPate |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** RUHIGERE BABYABENDE DURCH EINEN KLAREN, DRUCKFREIEN ABLAUF „Ruhige Nächte“ ist ein digitales Informations- und Organisationspaket für Eltern von Babys und Kleinkindern bis etwa 24 Monate. Es hilft Familien, einen verlässlichen Abendablauf aufzubauen und Beobachtungen über 14 Tage strukturiert festzuhalten. DAS ERHÄLT DER KUNDE• 23-seitiger Ratgeber• 35-seitiger 14-Tage-Begleiter• 24 Ritualkarten• …
+**Vendor's marketplace description:** <p>RUHIGERE BABYABENDE DURCH EINEN KLAREN, DRUCKFREIEN ABLAUF</p>
+<p>„Ruhige Nächte“ ist ein digitales Informations- und Organisationspaket für Eltern von Babys und Kleinkindern bis etwa 24 Monate. Es hilft Familien, einen verlässlichen Abendablauf aufzubauen und Beobachtungen über 14 Tage strukturiert festzuhalten.</p>
+<p>DAS ERHÄLT DER KUNDE<br />• 23-seitiger Ratgeber<br />• 35-seitiger 14-Tage-Begleiter<br />• 24 Ritualkarten<br />• 3-seitiger Schnellstart<br />• interaktive Begleitseite mit Ritualplaner, Protokoll und Übersicht<br />• sofortiger digitaler Download</p>
+<p>AFFILIATE-VORTEILE<br />• 50 % Provision je erfolgreichem Verkauf<br />• Einmalpreis 39,90 €, kein Abo<br />• emotionales, leicht verständliches Alltagsthema<br />• fertige Werbebilder und Textvorlagen<br />• Promolink-Generator und direkter Affiliate-Support<br />• sichere Bestellabwicklung über Digistore24</p>
+<p>Das Produkt ist kein Coaching, kein Fernunterricht und keine medizinische Beratung. Es verspricht weder Durchschlafen noch einen bestimmten Erfolg.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://meinevorlagenkiste.de/ruhige-naechte/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59541/adminstore/
 - Sales page: https://meinevorlagenkiste.de/ruhige-naechte/
 - Vendor affiliate support: https://meinevorlagenkiste.de/ruhige-naechte/partner/
 - Canonical redirect: https://www.digistore24.com/redir/735885/adminstore
@@ -87,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ruhige Nächte – 14-Tage-Begleiter für Babyabende | 50 % Provision? — Typ: Downloads, Anbieter: DerPate, gelistet seit 2026-09-22
-- Wie viel kostet es? — 37.573718 USD
+- Wie viel kostet es? — 37.489893 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

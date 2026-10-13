@@ -4,16 +4,16 @@ digistore24_product_id: 606037
 title: "Die Chessence Masterclass"
 vendor: "Chessence"
 product_type: "Member area and video courses"
-price: 1034.91
+price: 1032.6
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 310.47
+earnings_per_sale: 309.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://chessence.de/masterclass/?aff=adminstore#aff=adminstore"
 sales_page: "https://chessence.de/masterclass/"
@@ -22,16 +22,16 @@ language: "de"
 # Die Chessence Masterclass
 
 > Product ID `57322` · Digistore24 productId `606037` · [HTML profile page](../../produkte/die-chessence-masterclass-57322.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1034.91 (Single payment, Subscription) |
+| Price | $1032.60 (Single payment, Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $310.47 |
+| Earnings/sale* | $309.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Chessence |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** >> CHESSENCE MASTERCLASS: DIGITALES SCHACHTRAINING MIT STARKER ZIELGRUPPE UND EXPERTENSTATUS Die Chessence Masterclass ist ein hochwertiges Online Trainingsprogramm für ambitionierte Schachspieler, die ihre Spielstärke strukturiert verbessern und langfristig das Niveau von 2000 DWZ erreichen möchten. Für Affiliates ist das Produkt besonders interessant, weil es eine sehr spitze und kaufbereite Zie…
+**Vendor's marketplace description:** <h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bolder;color:#e66478;">&gt;&gt; CHESSENCE MASTERCLASS: DIGITALES SCHACHTRAINING MIT STARKER ZIELGRUPPE UND EXPERTENSTATUS</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Die Chessence Masterclass ist ein hochwertiges Online Trainingsprogramm für ambitionierte Schachspieler, die ihre Spielstärke strukturiert verbessern und langfristig das Niveau von 2000 DWZ erreichen möchten. </span></p>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Für Affiliates ist das Produkt besonders interessant, weil es eine sehr spitze und kaufbereite Zielgruppe anspricht: Schachspieler, Vereinsspieler und Turnierspieler, die aktiv nach besserem Training suchen und bereit sind, in ihre Entwicklung zu investieren. </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#e66478;">&gt;&gt; WARUM DIE MASTERCLASS FÜR AFFILIATES SPANNEND IST:</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> • Klare Zielgruppe mit echtem Weiterentwicklungswunsch<br />• Starkes Expertenvertrauen durch GM Niclas Huschenbeth<br />• Bekanntes Gesicht im deutschsprachigen Schachmarkt<br />• Digitales Produkt mit direkter Freischaltung<br />• Umfangreiches Trainingsprogramm mit klarer Struktur<br />• Social Proof durch echte Erfolgsgeschichten<br />• 14 Tage Geld Zurück Garantie für weniger Kaufhürden </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#e66478;">&gt;&gt; WAS DIE MASTERCLASS BEINHALTET:</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> • Über 200 Stunden Videomaterial<br />• Mehr als 2100 Übungsaufgaben<br />• Strukturierte Programme für 1400, 1700 und 2000 DWZ<br />• Monatliche Erfolgsmeetings<br />• Monatsreviews<br />• Zugang zur Chessence Community<br />• Training durch erfahrene Titelträger </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#e66478;">&gt;&gt; GEEIGNETER TRAFFIC:</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> • Schach YouTube Kanäle<br />• Schach Blogs<br />• Newsletter im Schachbereich<br />• Instagram, Facebook oder TikTok rund um Schach<br />• Schachvereine und Turnierspieler<br />• Communities für DWZ, Elo, Training und Turniervorbereitung </span></p>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Besonders gut funktioniert die Bewerbung bei Spielern, die nicht mehr planlos mit einzelnen YouTube Videos trainieren möchten, sondern ein klares System suchen, mit dem sie messbar stärker werden. </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#4caf50;">Starkes Produkt. Klare Zielgruppe. Gute Grundlage für Affiliate Promotion.</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:20px;line-height:1.6;"><span style="font-weight:600;"> Die Chessence Masterclass bietet Affiliates ein stark positioniertes digitales Produkt, eine klare Zielgruppe, echten Expertenstatus und einen bewährten Bedarf im Schachmarkt. </span></p>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Die genaue Provision für Affiliates wird direkt im Digistore24 Marktplatz angezeigt. </span></p>
 
 ## 2. Links
 
@@ -104,7 +116,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Chessence Masterclass? — Typ: Member area and video courses, Anbieter: Chessence, gelistet seit 2026-07-01
-- Wie viel kostet es? — 1034.907718 USD
+- Wie viel kostet es? — 1032.598893 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

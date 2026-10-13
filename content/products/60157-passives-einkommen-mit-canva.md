@@ -4,34 +4,34 @@ digistore24_product_id: 705640
 title: "PASSIVES EINKOMMEN MIT CANVA"
 vendor: "CD-Business"
 product_type: "E-books"
-price: 15.7
+price: 15.66
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 4.71
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software"]
 listed_since: "2026-10-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/705640?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60157/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/705640"
 language: "de"
 ---
 # PASSIVES EINKOMMEN MIT CANVA
 
 > Product ID `60157` · Digistore24 productId `705640` · [HTML profile page](../../produkte/passives-einkommen-mit-canva-60157.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.70 (Single payment) |
+| Price | $15.66 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CD-Business |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der einfache Einstieg in digitale Produkte, E-Books, Vorlagen, Checklisten & Online-Verkauf Du möchtest mit Canva eigene digitale Produkte erstellen, weißt aber noch nicht genau, womit du anfangen sollst? Dann ist dieses E-Book dein praxisnaher Einstieg. In diesem Ratgeber zeige ich dir Schritt für Schritt, wie du mit Canva digitale Produkte planst, gestaltest und für den Online-Verkauf vorbereite…
+**Vendor's marketplace description:** <p>Der einfache Einstieg in digitale Produkte, E-Books, Vorlagen, Checklisten &amp; Online-Verkauf</p>
+<p>Du möchtest mit Canva eigene digitale Produkte erstellen, weißt aber noch nicht genau, womit du anfangen sollst?</p>
+<p>Dann ist dieses E-Book dein praxisnaher Einstieg.</p>
+<p>In diesem Ratgeber zeige ich dir Schritt für Schritt, wie du mit Canva digitale Produkte planst, gestaltest und für den Online-Verkauf vorbereitest — verständlich, ehrlich und ohne leere Erfolgsversprechen.</p>
+<p>Dieses E-Book ist für alle gedacht, die eigene Ideen umsetzen, digitale Produkte erstellen und sich langfristig eine zusätzliche Einkommensquelle aufbauen möchten.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/705640?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60157/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/705640
 - Canonical redirect: https://www.digistore24.com/redir/705640/adminstore
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PASSIVES EINKOMMEN MIT CANVA? — Typ: E-books, Anbieter: CD-Business, gelistet seit 2026-10-03
-- Wie viel kostet es? — 15.699606000000001 USD
+- Wie viel kostet es? — 15.664581000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

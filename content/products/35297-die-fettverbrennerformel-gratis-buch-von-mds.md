@@ -4,34 +4,34 @@ digistore24_product_id: 333131
 title: "Die Fettverbrennerformel Gratis Buch von MDS"
 vendor: "produktmanagerin"
 product_type: "E-books"
-price: 31.6
+price: 31.53
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 20.11
+earnings_per_sale: 20.07
 cart_conversion_pct: 27
 cancel_rate_pct: 12.24
 categories: ["Food & Drink"]
 listed_since: "2020-06-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://machdichschlank.info/die-fettverbrennerformel/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/35297/adminstore/"
 sales_page: "https://machdichschlank.info/die-fettverbrennerformel/"
 language: "de"
 ---
 # Die Fettverbrennerformel Gratis Buch von MDS
 
 > Product ID `35297` · Digistore24 productId `333131` · [HTML profile page](../../produkte/die-fettverbrennerformel-gratis-buch-von-mds-35297.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.60 (Single payment) |
+| Price | $31.53 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $20.11 |
+| Earnings/sale* | $20.07 |
 | Cart conversion* | 27% |
 | Cancel rate* | 12.24% |
 | Vendor | produktmanagerin |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digistore24 Affiliatebereich: https://www.digistore24-app.com/account/partnerarea/165719/de 5 E-Mails für dein E-Mail Follow Up oder als Newsletter: https://drive.google.com/file/d/1LNImsfO-RFGKo9gXwTI6dTFrviJEr616/view?usp=sharing Bewerbe unser brandneues Buch "Die Fettverbrennerformel" in digitaler Form. Als Upsell 1 besteht die Möglichkeit unsere bewährten Fett Weg Pläne und Rezepte zu erhalten…
+**Vendor's marketplace description:** <h4>Digistore24 Affiliatebereich: </h4>
+<h4><strong><span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.digistore24-app.com/account/partnerarea/165719/de">https://www.digistore24-app.com/account/partnerarea/165719/de</a></span></strong></h4>
+<p><strong>5 E-Mails für dein E-Mail Follow Up oder als Newsletter:</strong></p>
+<p><span style="color:#0000ff;"><strong><a style="color:#0000ff;" href="https://drive.google.com/file/d/1LNImsfO-RFGKo9gXwTI6dTFrviJEr616/view?usp=sharing" target="_blank" rel="noreferrer noopener">https://drive.google.com/file/d/1LNImsfO-RFGKo9gXwTI6dTFrviJEr616/view?usp=sharing</a></strong></span></p>
+<p> </p>
+<p>Bewerbe unser brandneues Buch "Die Fettverbrennerformel" in digitaler Form.</p>
+<p>Als Upsell 1 besteht die Möglichkeit unsere bewährten Fett Weg Pläne und Rezepte zu erhalten als Monatsabo</p>
+<p>In den ersten 14 Tagen für 0€, somit hat der Kunde 14 Tage Zeit zu testen und ab 15 Tagen werden dann so wie jeden weiteren Monat 29,97€ fällig (Auf Abos gibt es 50% Provision auf Lebenszeit - Monat für Monat)</p>
+<p>Als zweites Upsell besteht die Möglichkeit unserem Beach Body Club beizutreten als Monatsabo.</p>
+<p>Hier hat der Kunde 21 Tage Zeit um das Produkt für 0€ zu testen und danach werden auch hier 29,97€ monatlich fällig. Auch hier gibt es 50% Abo Provision auf Lebenszeit</p>
+<p>Rückgabezeitraum beträgt lediglich 14 Tage.</p>
+<p>Bewirb jetzt die Fettverbrennerformel und erhalte auf die beiden Abos jeweils 50% Provision lebenslänglich und baue dir somit ein langfristiges monatliches Einkommen mit Abos auf.</p>
+<p>Für weitere Fragen sind wir jeder Zeit erreichbar: <a>support@machdichschlank.info</a></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://machdichschlank.info/die-fettverbrennerformel/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/35297/adminstore/
 - Sales page: https://machdichschlank.info/die-fettverbrennerformel/
 - Vendor affiliate support: https://machdichschlank.info/die-fettverbrennerformel-partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/333131/adminstore
@@ -103,7 +116,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Fettverbrennerformel Gratis Buch von MDS? — Typ: E-books, Anbieter: produktmanagerin, gelistet seit 2020-06-24
-- Wie viel kostet es? — 31.600920000000002 USD
+- Wie viel kostet es? — 31.530420000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

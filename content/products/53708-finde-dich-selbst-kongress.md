@@ -4,16 +4,16 @@ digistore24_product_id: 630271
 title: "Finde dich selbst Kongress"
 vendor: "DeliaV"
 product_type: "Downloads"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 32.49
+earnings_per_sale: 32.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-08-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.finde-dich-selbst-kongress.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.finde-dich-selbst-kongress.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Finde dich selbst Kongress
 
 > Product ID `53708` · Digistore24 productId `630271` · [HTML profile page](../../produkte/finde-dich-selbst-kongress-53708.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $64.97 (Single payment) |
+| Price | $64.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $32.49 |
+| Earnings/sale* | $32.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DeliaV |
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vielleicht ist jetzt genau der richtige Moment... ..um innezuhalten und dich wieder mit dir selbst zu verbinden.Beim Finde-dich-selbst-Kongress darf genau das geschehen: Ankommen, zuhören, verstehen und spüren.Vom 7.9.25 - 12.9.25 findet dieser Online Kongress statt, bei dem die Speaker ihre Erfahrungen, Impulse und Herzensthemen teilen. Was dich beim Kongress erwartet: ehrliche Impulse rund um di…
+**Vendor's marketplace description:** <p>Vielleicht ist jetzt genau der richtige Moment...</p>
+<p><span>..um innezuhalten und dich wieder mit dir selbst zu verbinden.<br />Beim </span><strong><span><em>Finde-dich-selbst-Kongress</em></span></strong><span> darf genau das geschehen: Ankommen, zuhören, verstehen und spüren.<br />Vom </span><strong><span>7.9.25 -</span></strong> <strong><span>12.9.25</span></strong><span> findet dieser Online Kongress statt, bei dem die Speaker ihre Erfahrungen, Impulse und Herzensthemen teilen.</span></p>
+<p><strong>Was dich beim Kongress erwartet:</strong></p>
+<ul>
+<li>
+<p><span>ehrliche Impulse rund um die Themen Selbstfindung, (Selbst-)Erkenntnis &amp; in Verbindung kommen</span></p>
+</li>
+<li>
+<p><span>Inspirationen zum Loslassen und zum Klarwerden</span></p>
+</li>
+<li>
+<p><span>Raum für neue Perspektiven, Erkenntnisse und echte Veränderung</span></p>
+</li>
+</ul>
+<p><strong>Sei gerne dabei!</strong></p>
+<p><span>Wenn du das Gefühl hast, dass es Zeit ist, dein Leben wieder mehr im </span><em><span>Hier und Jetzt</span></em><span>, im Einklang mit deinen </span><em><span>Bedürfnissen</span></em><span> und mit mehr </span><em><span>Bewusstsein</span></em><span> für dich und </span><em><span>dein Leben genießen</span></em><span> zu können – </span><strong><span>melde dich kostenlos an</span></strong><span> auf:</span></p>
+<p><span><br /><a>www.finde-dich-selbst-kongress.com</a></span></p>
+<p> </p>
+<p><span>Ich freue mich, wenn du dabei bist!</span></p>
 
 ## 2. Links
 
@@ -77,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Finde dich selbst Kongress? — Typ: Downloads, Anbieter: DeliaV, gelistet seit 2025-08-18
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

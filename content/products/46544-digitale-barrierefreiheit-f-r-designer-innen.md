@@ -4,16 +4,16 @@ digistore24_product_id: 520506
 title: "Digitale Barrierefreiheit für Designer*innen"
 vendor: "GehirngerechtDigitalGmbH"
 product_type: "Member area and video courses"
-price: 273.09
+price: 272.48
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 68.28
+earnings_per_sale: 68.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2023-10-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://gehirngerecht.digital/wissen/onlinekurse-digitale-barrierefreiheit/designer/?aff=adminstore#aff=adminstore"
 sales_page: "https://gehirngerecht.digital/wissen/onlinekurse-digitale-barrierefreiheit/designer/"
@@ -22,16 +22,16 @@ language: "de"
 # Digitale Barrierefreiheit für Designer*innen
 
 > Product ID `46544` · Digistore24 productId `520506` · [HTML profile page](../../produkte/digitale-barrierefreiheit-f-r-designer-innen-46544.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $273.09 (Single payment) |
+| Price | $272.48 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $68.28 |
+| Earnings/sale* | $68.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GehirngerechtDigitalGmbH |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe unseren Online-Kurs für digitale Barrierefreiheit für Designer*innen. Digitale Barrierefreiheit wird Pflicht 2025 und Firmen müssen bis dahin ihre Leute schulen, um Barrierefreiheit in ihre Prozesse zu integrieren. Unser Online-Kurs für Designer*innen bringt Designer*innen das barrierefreie Gestalten bei.Vorteile als Affiliate: 25 % auf jeden Verkauf 5 % unserer Einnahmen werden an einen g…
+**Vendor's marketplace description:** <p>Bewerbe unseren Online-Kurs für digitale Barrierefreiheit für Designer*innen. <br /><br />Digitale Barrierefreiheit wird Pflicht 2025 und Firmen müssen bis dahin ihre Leute schulen, um Barrierefreiheit in ihre Prozesse zu integrieren. Unser Online-Kurs für Designer*innen bringt Designer*innen das barrierefreie Gestalten bei.<strong><br /><br />Vorteile als Affiliate:</strong></p>
+<ul>
+<li>25 % auf jeden Verkauf</li>
+<li>5 % unserer Einnahmen werden an einen guten Zweck gespendet</li>
+<li>Getestetes Werbematerial von uns<br /><br /></li>
+</ul>
+<p><strong>Warum dieser Kurs sich verkauft:</strong></p>
+<ul>
+<li>Wir haben die auffälligste Marke im Bereich der digitalen Barrierefreiheit.</li>
+<li>Wir haben eine große Followerschaft von knapp 8000 Follower auf LinkedIn</li>
+<li>Wir arbeiten mit großen Marken, wie der Aktion Menschen zusammen</li>
+<li>Wir haben einen der beliebtesten Blogs zum Thema digitale Barrierefreiheit<br /><br /><br /></li>
+</ul>
+<p><strong>Dein Promolink:</strong><br />Dein Promolink senden wir dir im Anschluss per Mail zu!</p>
+<p>Bei weiteren Fragen kontaktiere uns gerne unter: hallo@gehirngerecht.digital</p>
 
 ## 2. Links
 
@@ -95,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitale Barrierefreiheit für Designer*innen? — Typ: Member area and video courses, Anbieter: GehirngerechtDigitalGmbH, gelistet seit 2023-10-12
-- Wie viel kostet es? — 273.09022 USD
+- Wie viel kostet es? — 272.48097 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

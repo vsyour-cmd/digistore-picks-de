@@ -4,7 +4,7 @@ digistore24_product_id: 546702
 title: "Eigenen Online Kurs Erstellen: Cheat Book (Gratis Buch)"
 vendor: "webpirat"
 product_type: "E-books"
-price: 0.89
+price: 0.88
 currency: "USD"
 affiliate_commission_pct: 100
 earnings_per_sale: 0.34
@@ -12,8 +12,8 @@ cart_conversion_pct: 36
 cancel_rate_pct: 1.68
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-04-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/mein-erster-online-kurs-cheat-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/mein-erster-online-kurs-cheat-book/"
@@ -22,14 +22,14 @@ language: "de"
 # Eigenen Online Kurs Erstellen: Cheat Book (Gratis Buch)
 
 > Product ID `47690` · Digistore24 productId `546702` · [HTML profile page](../../produkte/eigenen-online-kurs-erstellen-cheat-book-gratis-buch-47690.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $0.89 (Single payment) |
+| Price | $0.88 (Single payment) |
 | Affiliate commission | 100% |
 | Earnings/sale* | $0.34 |
 | Cart conversion* | 36% |
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mein erster Online Kurs: Cheat Book ist ein ultimativer Leitfaden mit tollen Checklisten und Insider-Cheats für die Erstellung eines lukrativen Online Kurses, womit man Passiv Einnahmen generieren kann. 100% Affiliate Provision nur für kurze Zeit Das ist ein Freebie-Funnel, allerdings kostet der direkte Upsell 4,90€ und hat 100% Affiliate Provision. Das bedeutet: du bewirbst einen kostenfreien Lea…
+**Vendor's marketplace description:** <p>Mein erster Online Kurs: Cheat Book ist ein ultimativer Leitfaden mit tollen Checklisten und Insider-Cheats für die Erstellung eines lukrativen Online Kurses, womit man Passiv Einnahmen generieren kann.</p>
+<p><strong>100% Affiliate Provision nur für kurze Zeit</strong></p>
+<p>Das ist ein Freebie-Funnel, allerdings kostet der direkte Upsell 4,90€ und hat 100% Affiliate Provision. Das bedeutet: du bewirbst einen kostenfreien Leadmagneten + bekommst 100% Provision auf den Tripwire + 50% auf die Folge-Produkte.</p>
+<p>Inhalt:</p>
+<ul>
+<li>12 Seiten voll mit Checklisten und Cheats</li>
+<li>Ultimativer Leitfaden für den perfekten eigenen Kurs</li>
+<li>100% Provision auf den direkten Upsell</li>
+<li>Sehr hohe Conversionrate</li>
+</ul>
+<p>ZielGruppe:</p>
+<ul>
+<li>Menschen, die Online Geld verdienen möchten</li>
+<li>Menschen, die von Zuhause aus Geld verdienen möchten</li>
+<li>Anfänger im Online Marketing</li>
+<li>Anfänger im Online Kurs Erstellung</li>
+</ul>
+<div style="width:0px;height:0px;"> </div>
+<div style="width:0px;height:0px;"></div>
 
 ## 2. Links
 
@@ -71,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Eigenen Online Kurs Erstellen: Cheat Book (Gratis Buch)? — Typ: E-books, Anbieter: webpirat, gelistet seit 2024-04-04
-- Wie viel kostet es? — 0.8852740000000001 USD
+- Wie viel kostet es? — 0.8832990000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

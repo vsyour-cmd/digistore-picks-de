@@ -4,16 +4,16 @@ digistore24_product_id: 450500
 title: "Notfallmappe / Vorsorgemappe XLS"
 vendor: "huestel"
 product_type: "Downloads"
-price: 28.16
+price: 28.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2022-07-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://notfallmappe-xls.de/download-vorsorgemappe/?aff=adminstore#aff=adminstore"
 sales_page: "https://notfallmappe-xls.de/download-vorsorgemappe/"
@@ -22,16 +22,16 @@ language: "de"
 # Notfallmappe / Vorsorgemappe XLS
 
 > Product ID `40538` · Digistore24 productId `450500` · [HTML profile page](../../produkte/notfallmappe-vorsorgemappe-xls-40538.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.16 (Single payment) |
+| Price | $28.10 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | huestel |
@@ -41,7 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vorsorgemappe / Notfallmappe als Excel-Datei Folgende Informationen werden in der Datei abgefragt: Persönliche Daten Nahestehende Personen Haustiere Job und Beruf Online Konten Versicherungen Dokumente Verfügungen und Vollmachten Nutzen Sie unsere Excel – Vorlage (XLS, XLSX) zur Verwaltung Ihrer Notfallinformationen Alles in einer Datei Ideale Absicherung im Notfall Kein Abo Keine Cloud – Lösung E…
+**Vendor's marketplace description:** <p>Vorsorgemappe / Notfallmappe als Excel-Datei</p>
+<p>Folgende Informationen werden in der Datei abgefragt:</p>
+<ul>
+<li>Persönliche Daten</li>
+<li>Nahestehende Personen</li>
+<li>Haustiere</li>
+<li>Job und Beruf</li>
+<li>Online Konten</li>
+<li>Versicherungen</li>
+<li>Dokumente</li>
+<li>Verfügungen und Vollmachten</li>
+</ul>
+<p>Nutzen Sie unsere Excel – Vorlage (XLS, XLSX) zur Verwaltung Ihrer Notfallinformationen</p>
+<ul>
+<li>Alles in einer Datei</li>
+<li>Ideale Absicherung im Notfall</li>
+<li>Kein Abo</li>
+<li>Keine Cloud – Lösung</li>
+<li>Einfache Bedienung</li>
+<li>Keine Papier-Version, die vergilbt oder unleserlich wird</li>
+<li>Offline nutzbar mit Microsoft Excel oder kostenlos mit OpenOffice</li>
+<li>Optional mit USB-Stick bestellbar, damit man die Daten sofort findet</li>
+</ul>
+<p>Banner: https://notfallmappe-xls.de/wp-content/uploads/2022/08/Notfallmappe-Banner.png <img src="https://notfallmappe-xls.de/wp-content/uploads/2022/08/Notfallmappe-Banner.png" alt="Notfallmappe-Banner.png" /></p>
 
 ## 2. Links
 
@@ -73,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Notfallmappe / Vorsorgemappe XLS? — Typ: Downloads, Anbieter: huestel, gelistet seit 2022-07-09
-- Wie viel kostet es? — 28.160678 USD
+- Wie viel kostet es? — 28.097853 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

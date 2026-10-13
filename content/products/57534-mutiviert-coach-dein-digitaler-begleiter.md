@@ -4,7 +4,7 @@ digistore24_product_id: 710169
 title: "MUTiviert Coach - Dein digitaler Begleiter"
 vendor: "coachd535"
 product_type: "Member area and video courses"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.94
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-07-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/710169?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/710169"
@@ -22,14 +22,14 @@ language: "de"
 # MUTiviert Coach - Dein digitaler Begleiter
 
 > Product ID `57534` · Digistore24 productId `710169` · [HTML profile page](../../produkte/mutiviert-coach-dein-digitaler-begleiter-57534.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.40 (Subscription) |
+| Price | $9.38 (Subscription) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du trägst gerade zu viel.Allein. Die Gedanken rasen. Der Tag zieht dich. Abends fragst du dich, wo du selbst geblieben bist.MUTiviert Coach ist da — genau dann, wenn du jemanden brauchst. 24/7, auf Deutsch. MUTiviert Coach begleitet Nutzer täglich mit motivierenden Impulsen, Erinnerungen und kleinen Denkanstößen für mehr Selbstdisziplin, bessere Gewohnheiten und einen positiveren Alltag. Kein Down…
+**Vendor's marketplace description:** <h1>Du trägst gerade zu viel.<br />Allein.</h1>
+<p>Die Gedanken rasen. Der Tag zieht dich. Abends fragst du dich, wo du selbst geblieben bist.<br /><br />MUTiviert Coach ist da — genau dann, wenn du jemanden brauchst. 24/7, auf Deutsch.</p>
+<p> </p>
+<p>MUTiviert Coach begleitet Nutzer täglich mit motivierenden Impulsen, Erinnerungen und kleinen Denkanstößen für mehr Selbstdisziplin, bessere Gewohnheiten und einen positiveren Alltag. Kein Download, keine komplizierte App – nur ein Chat, der wirklich ankommt. Ideal für alle, die im Bereich Persönlichkeitsentwicklung, Coaching oder Self-Help unterwegs sind und ihrer Zielgruppe ein alltagstaugliches, niedrigschwelliges Produkt anbieten möchten.</p>
+<p>Mit der Basis- und Plus-Variante gibt es zwei Preispunkte für unterschiedliche Budgets deiner Community – als Affiliate erhältst du 10% Provision auf beide Produkte, sobald deine Empfehlung freigeschaltet ist.</p>
 
 ## 2. Links
 
@@ -70,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MUTiviert Coach - Dein digitaler Begleiter? — Typ: Member area and video courses, Anbieter: coachd535, gelistet seit 2026-07-14
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 442578
 title: "In 4 Schritten Probleme in der Partnerschaft überwinden"
 vendor: "Vkleber"
 product_type: "Downloads"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.63
+earnings_per_sale: 7.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-05-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.beratung-therapie.de/238-0-Partnerprobleme.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beratung-therapie.de/238-0-Partnerprobleme.html"
@@ -22,16 +22,16 @@ language: "de"
 # In 4 Schritten Probleme in der Partnerschaft überwinden
 
 > Product ID `40392` · Digistore24 productId `442578` · [HTML profile page](../../produkte/in-4-schritten-probleme-in-der-partnerschaft-berwinden-40392.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.63 |
+| Earnings/sale* | $7.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Vkleber |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Diplom-Psychologen haben ein in 4 Schritten aufgebautes Lernprogramm entwickelt, mit dem Sie lernen, Ihre Probleme in der Partnerschaft zu überwinden. Sie erhalten eine ausführliche, praktische Anleitung und eine Anzahl von Übungsblättern zum Ausdrucken. Sie können das Programm auch zusammen mit einem(r) Partner(in) durchführen, um sich gegenseitig zu unterstützen
+**Vendor's marketplace description:** <p>Diplom-Psychologen haben ein in 4 Schritten aufgebautes Lernprogramm entwickelt, mit dem Sie lernen, Ihre Probleme in der Partnerschaft zu überwinden.</p>
+<p>Sie erhalten eine ausführliche, praktische Anleitung und eine Anzahl von Übungsblättern zum Ausdrucken. Sie können das Programm auch zusammen mit einem(r) Partner(in) durchführen, um sich gegenseitig zu unterstützen</p>
 
 ## 2. Links
 
@@ -76,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist In 4 Schritten Probleme in der Partnerschaft überwinden? — Typ: Downloads, Anbieter: Vkleber, gelistet seit 2022-05-12
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

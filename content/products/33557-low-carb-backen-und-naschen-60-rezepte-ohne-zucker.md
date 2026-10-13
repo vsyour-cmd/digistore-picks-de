@@ -4,34 +4,34 @@ digistore24_product_id: 264567
 title: "Low Carb Backen und Naschen - 60 Rezepte ohne Zucker"
 vendor: "StaupitopiaZuckerfrei"
 product_type: "Downloads"
-price: 11.3
+price: 11.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.65
+earnings_per_sale: 5.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2019-03-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://staupitopia-zuckerfrei.de/low-carb-backen-und-naschen-ebook/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/33557/adminstore/"
 sales_page: "https://staupitopia-zuckerfrei.de/low-carb-backen-und-naschen-ebook/"
 language: "de"
 ---
 # Low Carb Backen und Naschen - 60 Rezepte ohne Zucker
 
 > Product ID `33557` · Digistore24 productId `264567` · [HTML profile page](../../produkte/low-carb-backen-und-naschen-60-rezepte-ohne-zucker-33557.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.30 (Single payment) |
+| Price | $11.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.65 |
+| Earnings/sale* | $5.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StaupitopiaZuckerfrei |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ebook mit 60 einzigartigen Low Carb Rezepten, die jeder Nachmachen kann! Backen und Naschen ohne schlechtes Gewissen? Das geht! In meinem E-Book findest du ausschließlich schnelle und einfache Rezepte, die genau richtig für alle sind... ✅ ...die sich Low Carb ernähren und ohne Zucker und ohne Mehl backen möchten.✅ ...die nach Rezepten suchen, die wenige Kohlenhydrate haben und zudem auch noch glut…
+**Vendor's marketplace description:** <p><strong>Ebook mit 60 einzigartigen Low Carb Rezepten, die jeder Nachmachen kann!</strong></p>
+<p>Backen und Naschen ohne schlechtes Gewissen? Das geht! In meinem E-Book findest du ausschließlich schnelle und einfache Rezepte, die genau richtig für alle sind...</p>
+<p>✅ ...die sich Low Carb ernähren und ohne Zucker und ohne Mehl backen möchten.<br />✅ ...die nach Rezepten suchen, die wenige Kohlenhydrate haben und zudem auch noch glutenfrei sind.<br />✅ ...denen Backen nicht schnell genug gehen kann.<br />✅ ...die Süßes und das Backen lieben, sich aber trotzdem gesund ernähren möchten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://staupitopia-zuckerfrei.de/low-carb-backen-und-naschen-ebook/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/33557/adminstore/
 - Sales page: https://staupitopia-zuckerfrei.de/low-carb-backen-und-naschen-ebook/
 - Canonical redirect: https://www.digistore24.com/redir/264567/adminstore
 
@@ -74,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Low Carb Backen und Naschen - 60 Rezepte ohne Zucker? — Typ: Downloads, Anbieter: StaupitopiaZuckerfrei, gelistet seit 2019-03-18
-- Wie viel kostet es? — 11.295648 USD
+- Wie viel kostet es? — 11.270448000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

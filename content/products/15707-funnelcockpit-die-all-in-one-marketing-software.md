@@ -4,34 +4,34 @@ digistore24_product_id: 98201
 title: "FunnelCockpit - Die All-In-One Marketing Software"
 vendor: "justviral"
 product_type: "Software"
-price: 812.91
+price: 811.09
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 291.51
+earnings_per_sale: 290.86
 cart_conversion_pct: 8
 cancel_rate_pct: 1.86
 categories: ["Software"]
 listed_since: "2016-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://funnelcockpit.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/15707/adminstore/"
 sales_page: "https://funnelcockpit.com/"
 language: "de"
 ---
 # FunnelCockpit - Die All-In-One Marketing Software
 
 > Product ID `15707` · Digistore24 productId `98201` · [HTML profile page](../../produkte/funnelcockpit-die-all-in-one-marketing-software-15707.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $812.91 (Subscription) |
+| Price | $811.09 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $291.51 |
+| Earnings/sale* | $290.86 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.86% |
 | Vendor | justviral |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die All-In-One Software zur Erstellung von effektiven Salesfunnels - inkl. Conversion-Elementen und vielen innovativen Tools wie z.B.: - PageBuilder- CRM- E-Mail Marketing Tool (tagbasiert)- Splittest-Tool- Maustracking- Conversion Pixel- Optimierter Videoplayer- Mitgliederbereiche- Video Funnels- Webinar-Tool und vieles mehr...
+**Vendor's marketplace description:** <p>Die All-In-One Software zur Erstellung von effektiven Salesfunnels - inkl. Conversion-Elementen und vielen innovativen Tools wie z.B.:<br /> <br />- PageBuilder<br />- CRM<br />- E-Mail Marketing Tool (tagbasiert)<br />- Splittest-Tool<br />- Maustracking<br />- Conversion Pixel<br />- Optimierter Videoplayer<br />- Mitgliederbereiche<br />- Video Funnels<br />- Webinar-Tool und vieles mehr...</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://funnelcockpit.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/15707/adminstore/
 - Sales page: https://funnelcockpit.com/
 - Vendor affiliate support: https://funnelcockpit.com/partner/
 - Canonical redirect: https://www.digistore24.com/redir/98201/adminstore
@@ -89,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FunnelCockpit - Die All-In-One Marketing Software? — Typ: Software, Anbieter: justviral, gelistet seit 2016-10-04
-- Wie viel kostet es? — 812.905652 USD
+- Wie viel kostet es? — 811.0921020000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

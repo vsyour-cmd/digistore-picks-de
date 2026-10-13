@@ -4,34 +4,34 @@ digistore24_product_id: 729012
 title: "Self-Care und Habit-Tracking Journal"
 vendor: "VeloxForge"
 product_type: "E-books"
-price: 93.21
+price: 93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.61
+earnings_per_sale: 46.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://auranit.de/landingpage-self-care-habit-tracking/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59059/adminstore/"
 sales_page: "https://auranit.de/landingpage-self-care-habit-tracking/"
 language: "de"
 ---
 # Self-Care und Habit-Tracking Journal
 
 > Product ID `59059` · Digistore24 productId `729012` · [HTML profile page](../../produkte/self-care-und-habit-tracking-journal-59059.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $93.21 (Single payment) |
+| Price | $93.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.61 |
+| Earnings/sale* | $46.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -41,11 +41,34 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Self-Care & Habit-Tracking Journal – Dein 30-Tage-System für mehr Struktur und gute Gewohnheiten Das Self-Care & Habit-Tracking Journal begleitet dich 30 Tage lang mit einem einfachen, alltagstauglichen System aus Selbstreflexion, Habit-Tracking und kleinen Ritualen – ganz ohne Druck, perfekt sein zu müssen. Sofort als PDF verfügbar. Das ist enthalten: Ehrlicher Self-Check deiner aktuellen Lebenss…
+**Vendor's marketplace description:** <p><strong>Self-Care &amp; Habit-Tracking Journal – Dein 30-Tage-System für mehr Struktur und gute Gewohnheiten</strong></p>
+<p>Das Self-Care &amp; Habit-Tracking Journal begleitet dich 30 Tage lang mit einem einfachen, alltagstauglichen System aus Selbstreflexion, Habit-Tracking und kleinen Ritualen – ganz ohne Druck, perfekt sein zu müssen. Sofort als PDF verfügbar.</p>
+<p><strong>Das ist enthalten:</strong></p>
+<ul>
+<li>
+<p>Ehrlicher Self-Check deiner aktuellen Lebenssituation</p>
+</li>
+<li>
+<p>Einfaches Habit-Tracking-System inkl. Habit-Stacking-Methode</p>
+</li>
+<li>
+<p>30 Tage Journaling-Prompts für Morgen und Abend</p>
+</li>
+<li>
+<p>Wochen- &amp; Monatsplaner-Vorlagen</p>
+</li>
+<li>
+<p>Dankbarkeits- &amp; Mindset-Rituale</p>
+</li>
+<li>
+<p>Bonus: 30-Tage-Self-Care-Challenge</p>
+</li>
+</ul>
+<p><strong>Sofortiger Download</strong> – kein Abo, keine versteckten Kosten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://auranit.de/landingpage-self-care-habit-tracking/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59059/adminstore/
 - Sales page: https://auranit.de/landingpage-self-care-habit-tracking/
 - Canonical redirect: https://www.digistore24.com/redir/729012/adminstore
 
@@ -81,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Self-Care und Habit-Tracking Journal? — Typ: E-books, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 93.21150800000001 USD
+- Wie viel kostet es? — 93.00355800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

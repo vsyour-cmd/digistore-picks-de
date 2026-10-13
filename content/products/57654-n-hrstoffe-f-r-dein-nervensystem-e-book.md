@@ -4,16 +4,16 @@ digistore24_product_id: 707719
 title: "Nährstoffe für dein Nervensystem - e-book"
 vendor: "wwwmind2soulde"
 product_type: "E-books"
-price: 26.18
+price: 26.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.09
+earnings_per_sale: 13.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://mind2soul.de/buch/?aff=adminstore#aff=adminstore"
 sales_page: "https://mind2soul.de/buch/"
@@ -22,16 +22,16 @@ language: "de"
 # Nährstoffe für dein Nervensystem - e-book
 
 > Product ID `57654` · Digistore24 productId `707719` · [HTML profile page](../../produkte/n-hrstoffe-f-r-dein-nervensystem-e-book-57654.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.18 (Single payment) |
+| Price | $26.12 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.09 |
+| Earnings/sale* | $13.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wwwmind2soulde |
@@ -41,7 +41,47 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Nährstoffe für dein Nervensystem Mikronährstoffe, Ernährung und Übungen für Frauen – dein gesamtes Wissen kompakt in einem Buch. Von Alina Hertlein, zertifizierte Beraterin für Nahrungsergänzungsmittel und Stressmanagement. 146 Seiten kompaktes, verständliches Wissen – kein Fachchinesisch Inklusive Tracker & Nährstoff-Tabelle zum direkten Anwenden 30-60-90-Tage-Plan, mit dem du sofort loslegen kan…
+**Vendor's marketplace description:** <h1>Nährstoffe für dein Nervensystem</h1>
+<p>Mikronährstoffe, Ernährung und Übungen für Frauen – dein gesamtes Wissen kompakt in einem Buch. Von Alina Hertlein, zertifizierte Beraterin für Nahrungsergänzungsmittel und Stressmanagement.</p>
+<ul>
+<li>146 Seiten kompaktes, verständliches Wissen – kein Fachchinesisch</li>
+<li>Inklusive Tracker &amp; Nährstoff-Tabelle zum direkten Anwenden</li>
+<li>30-60-90-Tage-Plan, mit dem du sofort loslegen kannst</li>
+</ul>
+<p> </p>
+<h2>Du funktionierst. Aber irgendwas stimmt nicht.</h2>
+<p>Du schläfst und bist trotzdem müde. Du bist gereizt, obwohl eigentlich alles okay ist. Dein Kopf ist unruhig, dein Bauch macht Ärger, dein Zyklus spielt verrückt. Du hast schon vieles ausprobiert – Yoga, Meditation, mehr Schlaf – aber niemand hat mit dir über die biochemische Seite gesprochen: darüber, wonach dein Nervensystem tatsächlich hungert.</p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h3> </h3>
+<h3>Das Buch ist für dich, wenn …</h3>
+<ul>
+<li>du verstehen willst, wie Nährstoffe dein Nervensystem beeinflussen</li>
+<li>du einen klaren, strukturierten Plan statt loser Tipps willst</li>
+<li>du lieber selbst trackst und Zusammenhänge verstehst, als blind Präparate zu kaufen</li>
+<li>du bereit bist, 30–90 Tage dranzubleiben</li>
+</ul>
+<p> </p>
+<h3>Das Buch ist nicht für dich, wenn …</h3>
+<ul>
+<li>du akute Beschwerden hast, die ärztlich abgeklärt werden müssen</li>
+<li>du eine schnelle Wunderlösung ohne eigenes Zutun suchst</li>
+<li>du keine Bereitschaft hast, Gewohnheiten zu hinterfragen</li>
+</ul>
+<h2> </h2>
+<h2>Hör auf zu raten. Fang an zu verstehen.</h2>
+<p>146 Seiten, ein klarer Plan, ein Nervensystem, das wieder zu dir passt.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
 
 ## 2. Links
 
@@ -75,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nährstoffe für dein Nervensystem - e-book? — Typ: E-books, Anbieter: wwwmind2soulde, gelistet seit 2026-07-21
-- Wie viel kostet es? — 26.177216 USD
+- Wie viel kostet es? — 26.118816000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 664496
 title: "Der Lifehack bei der Einkommensanrechnung"
 vendor: "verwitwet-leben"
 product_type: "Member area and video courses"
-price: 46.1
+price: 46
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 37.47
+earnings_per_sale: 37.39
 cart_conversion_pct: 23
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-01-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://verwitwet-leben.de/videokurs-lifehack-witwenrente/?aff=adminstore#aff=adminstore"
 sales_page: "https://verwitwet-leben.de/videokurs-lifehack-witwenrente/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Lifehack bei der Einkommensanrechnung
 
 > Product ID `55960` · Digistore24 productId `664496` · [HTML profile page](../../produkte/der-lifehack-bei-der-einkommensanrechnung-55960.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.10 (Single payment) |
+| Price | $46.00 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $37.47 |
+| Earnings/sale* | $37.39 |
 | Cart conversion* | 23% |
 | Cancel rate* | 0% |
 | Vendor | verwitwet-leben |
@@ -41,7 +41,35 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Lifehack bei der Einkommensanrechnung (Online-Videokurs) Erfahre, wie Du durch eine gezielte Anwendung der Einkommensanrechnung Deine Witwen- oder Witwerrente deutlich weniger kürzen lässt – und so jedes Jahr mehrere Hundert oder sogar Tausende Euro sparst. In diesem Videokurs lernst Du verständlich und praxisnah: die Grundlagen der gesetzlichen Rentenversicherung wie die Einkommensanrechnung …
+**Vendor's marketplace description:** <p><strong>Der Lifehack bei der Einkommensanrechnung (Online-Videokurs)</strong></p>
+<p>Erfahre, wie Du durch eine gezielte Anwendung der Einkommensanrechnung Deine Witwen- oder Witwerrente deutlich weniger kürzen lässt – und so jedes Jahr mehrere Hundert oder sogar Tausende Euro sparst.</p>
+<p>In diesem Videokurs lernst Du verständlich und praxisnah:</p>
+<ul>
+<li>
+<p>die Grundlagen der gesetzlichen Rentenversicherung</p>
+</li>
+<li>
+<p>wie die Einkommensanrechnung wirklich funktioniert</p>
+</li>
+<li>
+<p>welche Einkommensarten berücksichtigt werden</p>
+</li>
+<li>
+<p>wie Du den Lifehack gezielt anwendest</p>
+</li>
+<li>
+<p>worauf Du bei Steuerjahr und Rentenjahr achten musst</p>
+</li>
+<li>
+<p>wie Du Sonderzahlungen, Minijob oder Selbstständigkeit optimal einbeziehst</p>
+</li>
+<li>
+<p>wie Du den Lifehack auch langfristig und in der Altersrente nutzt</p>
+</li>
+</ul>
+<p>Der Kurs enthält zahlreiche Beispiele, konkrete Anleitungen und typische Fehler, die Du vermeiden solltest.</p>
+<p>Dauer: über 1,5 Stunden Videomaterial<br />Zugriff: 30 Tage, beliebig oft abrufbar</p>
+<p><strong>Bonus:</strong> Inklusive Excel-Berechnungshilfe zur direkten Umsetzung.</p>
 
 ## 2. Links
 
@@ -84,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Lifehack bei der Einkommensanrechnung? — Typ: Member area and video courses, Anbieter: verwitwet-leben, gelistet seit 2026-01-27
-- Wie viel kostet es? — 46.101484 USD
+- Wie viel kostet es? — 45.998634 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

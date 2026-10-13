@@ -4,16 +4,16 @@ digistore24_product_id: 67593
 title: "HERZ Gesundheit aus ganzheitlicher Sicht"
 vendor: "RaGarve"
 product_type: "Downloads"
-price: 188.31
+price: 187.89
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 55.34
+earnings_per_sale: 55.21
 cart_conversion_pct: 31
 cancel_rate_pct: 5.11
 categories: ["Health & Fitness"]
 listed_since: "2016-01-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://raikgarve.de/irrtuemer-der-medizin/die-4-irrtuemer-der-modernen-herz-medizin/?aff=adminstore#aff=adminstore"
 sales_page: "https://raikgarve.de/irrtuemer-der-medizin/die-4-irrtuemer-der-modernen-herz-medizin/"
@@ -22,16 +22,16 @@ language: "de"
 # HERZ Gesundheit aus ganzheitlicher Sicht
 
 > Product ID `9615` · Digistore24 productId `67593` · [HTML profile page](../../produkte/herz-gesundheit-aus-ganzheitlicher-sicht-9615.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $188.31 (Single payment) |
+| Price | $187.89 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $55.34 |
+| Earnings/sale* | $55.21 |
 | Cart conversion* | 31% |
 | Cancel rate* | 5.11% |
 | Vendor | RaGarve |
@@ -41,7 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Produkteigenschaften: 29-teiliges Online-Video-Seminar (ca. 8 Stunden Dauer) Teil 1: Die Vielschichtigkeit des Herz-Themas Teil 2: Die Grundprinzipien der Biologie in Hinblick auf das Herz Teil 3: Die Physiologie der Harmonie Teil 4: Widersprüche der "modernen" Herz-Medizin Teil 5: Neues Verständnis des Herz-Kreislauf-Systems Teil 6: Erprobte Wege zur Stärkung des Herz-Kreislauf-Systems 38 Bonus-V…
+**Vendor's marketplace description:** <h2> </h2>
+<h2>Produkteigenschaften:</h2>
+<ul style="list-style-type:disc;">
+<li><span style="background-color:#ffff00;"><strong>29-teiliges Online-Video-Seminar</strong></span> (ca. 8 Stunden Dauer)</li>
+<li>Teil 1: Die Vielschichtigkeit des Herz-Themas</li>
+<li>Teil 2: Die Grundprinzipien der Biologie in Hinblick auf das Herz</li>
+<li>Teil 3: Die Physiologie der Harmonie</li>
+<li>Teil 4: Widersprüche der "modernen" Herz-Medizin</li>
+<li>Teil 5: Neues Verständnis des Herz-Kreislauf-Systems</li>
+<li>Teil 6: Erprobte Wege zur Stärkung des Herz-Kreislauf-Systems</li>
+<li><span style="background-color:#ffff00;"><strong>38 Bonus-Videos</strong></span> zur Inhaltsvertiefung (ca. 12 Stunden Dauer)</li>
+<li>diverse PDF-Skripte und Übersichtsgrafiken zum Download zur Verständnisvertiefung der einzelnen Video-Lektionen</li>
+<li>neuestes und <strong>ganzheitliches medizinisches Insider-Wissen</strong> zur Stärkung des Herz-Kreislauf-Systems</li>
+<li><span style="background-color:#ffff00;"><strong>13-teiliger Bonus-Video-Kurs:</strong></span> „Richtiges Atmen mit der richtigen Luft“ mit ca. 3,5 Stunden Video-Gesamt-Dauer</li>
+<li>30-Tage Geld-zurück-Garantie</li>
+</ul>
+<p> </p>
+<h2>Vorteile für den Anwender des Online-Video-Seminars:</h2>
+<ul style="list-style-type:disc;">
+<li>Das Seminar nimmt durch die klare Vermittlung wichtiger Zusammenhänge völlig irrational begründete Ängste bezogen auf das Herz (v.a. bei Krankheitsbildern wie Herzinfarkt, Bluthochdruck, Herzschwäche usw.)</li>
+<li>Das Seminar liefert wenig bekannte Hintergründe zur Funktionsweise des Herzens und zeigt gleichzeitig bewährte Wege und einfache Strategien zur Stärkung des gesamten Herz-Kreislauf-Systems auf, die jeder für sich Zuhause leicht umsetzen kann</li>
+<li>Das Seminar löst verschiedenen Mythen und Fehlannahmen bezüglich des Herzens auf: z.B. dass unser Herz eine reine Druck-Pumpe sei, Herzinfarkte ursächlich durch verstopfte Herzkranzgefäße entstünden oder dass Bluthochdruck nicht heilbar sei (All diese Annahmen über das Herz-Kreislauf-System sind aus ganzheitlich-medizinischer Sichtweise nachweislich FALSCH!!)</li>
+<li>Das Seminar schärft den Blick für ganzheitliche Zusammenhänge bezogen auf unsere Herz-Gesundheit</li>
+</ul>
+<p> </p>
 
 ## 2. Links
 
@@ -81,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist HERZ Gesundheit aus ganzheitlicher Sicht? — Typ: Downloads, Anbieter: RaGarve, gelistet seit 2016-01-02
-- Wie viel kostet es? — 188.305624 USD
+- Wie viel kostet es? — 187.885524 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

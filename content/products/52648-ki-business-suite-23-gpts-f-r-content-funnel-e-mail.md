@@ -4,16 +4,16 @@ digistore24_product_id: 615669
 title: "KI Business Suite, 23 GPTs für Content, Funnel, E-Mail"
 vendor: "ReneAktivNetz"
 product_type: "Member area and video courses"
-price: 121.47
+price: 121.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 60.74
+earnings_per_sale: 60.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Marketing Services"]
 listed_since: "2025-05-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/ki-business-suite/?aff=adminstore#aff=adminstore"
 sales_page: "https://kischmiede.funnelcockpit.com/ki-business-suite/"
@@ -22,16 +22,16 @@ language: "de"
 # KI Business Suite, 23 GPTs für Content, Funnel, E-Mail
 
 > Product ID `52648` · Digistore24 productId `615669` · [HTML profile page](../../produkte/ki-business-suite-23-gpts-f-r-content-funnel-e-mail-52648.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.47 (Single payment, Installment) |
+| Price | $121.20 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $60.74 |
+| Earnings/sale* | $60.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ReneAktivNetz |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Komplettpaket der KI-Schmiede, alle 23 GPTs in einem SystemDie KI Business Suite ist dein digitales Marketing-Team auf Knopfdruck: 22 spezialisierte GPTs für Content-Erstellung, Funnelbau, Reels, E-Mails, Leadmagnete und mehr.• Sofort einsatzbereit, keine Prompt-Experimente • Inklusive Funnel-GPTs, Launch-Mails, E-Mail-Serien, Freebie-Generator • Erstelle Reels, Karussells & Social Media Conte…
+**Vendor's marketplace description:** <p><strong>Das Komplettpaket der KI-Schmiede, alle 23 GPTs in einem System</strong><br /><br />Die KI Business Suite ist dein digitales Marketing-Team auf Knopfdruck: 22 spezialisierte GPTs für Content-Erstellung, Funnelbau, Reels, E-Mails, Leadmagnete und mehr.<br /><br />• Sofort einsatzbereit, keine Prompt-Experimente • Inklusive Funnel-GPTs, Launch-Mails, E-Mail-Serien, Freebie-Generator • Erstelle Reels, Karussells &amp; Social Media Content • Ideal für Affiliates, Coaches, Funnelbauer &amp; Creator • Klar strukturierte AI-Mitarbeiter, kein ChatGPT-Raten<br /><br /><strong>Für alle, die smart arbeiten wollen, statt sich durch Tools zu klicken.</strong><br />Keine Abo-Kosten. Einmal kaufen. Voller Zugriff.</p>
 
 ## 2. Links
 
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Business Suite, 23 GPTs für Content, Funnel, E-Mail? — Typ: Member area and video courses, Anbieter: ReneAktivNetz, gelistet seit 2025-05-29
-- Wie viel kostet es? — 121.47304000000001 USD
+- Wie viel kostet es? — 121.20204000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

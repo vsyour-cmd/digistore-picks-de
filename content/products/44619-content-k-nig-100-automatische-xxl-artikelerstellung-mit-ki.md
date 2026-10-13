@@ -4,34 +4,34 @@ digistore24_product_id: 540204
 title: "Content König-100% automatische XXL-Artikelerstellung mit KI"
 vendor: "sattelitevendor"
 product_type: "Member area and video courses"
-price: 281.56
+price: 280.93
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 70.4
+earnings_per_sale: 70.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-02-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://contentkoenig.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/44619/adminstore/"
 sales_page: "https://contentkoenig.com/"
 language: "de"
 ---
 # Content König-100% automatische XXL-Artikelerstellung mit KI
 
 > Product ID `44619` · Digistore24 productId `540204` · [HTML profile page](../../produkte/content-k-nig-100-automatische-xxl-artikelerstellung-mit-ki-44619.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $281.56 (Subscription) |
+| Price | $280.93 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $70.40 |
+| Earnings/sale* | $70.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sattelitevendor |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Content König - Dein Ass im Ärmel für automatisches erfolgreiches Content Marketing mit "Künstlicher Intelligenz" 100 % automatische XXL-Artikelerstellung mit "KI" und "menschlich geschriebenen Artikel - zu jedem Thema und Nische mit automtischem Posting. Hast du jemals vom "Content König" gehört? Nein? Dann solltest du jetzt unbedingt weiterlesen. Der "Content König" ist ein revolutionäres Pr…
+**Vendor's marketplace description:** <h1><span style="background-color:#ff9900;color:#ffffff;">Der Content König - Dein Ass im Ärmel für automatisches erfolgreiches Content Marketing mit "Künstlicher Intelligenz"</span></h1>
+<div>
+<p><strong>100 % automatische XXL-Artikelerstellung mit "KI" und "menschlich geschriebenen Artikel - zu jedem The</strong><strong>ma und Nische mit automtischem Posting.</strong></p>
+<p>Hast du jemals vom "<strong>Content König</strong>" gehört? Nein? Dann solltest du jetzt unbedingt weiterlesen.</p>
+<p>Der "<strong>Content König</strong>" ist ein <strong>revolutionäres</strong> <strong>Premium WordPress-Plugin</strong>, das dir hilft, <strong>hochwertige XXL-Artikel</strong> zu erstellen und zu posten zu lassen, fertig formatiert inkl. passendem Bild - und das <strong>100% vollautomatisch</strong> zu jeder gewünschten Tages und Nachtzeit!</p>
+<p>Der Content König erstellt und postet "<strong>menschliche geschriebene" KI-XXL-Artikel</strong> auf deine Wordpress-Seite.  </p>
+<p>Funktioniert in jeder Nische, zu jedem Thema!</p>
+<p> </p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://contentkoenig.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/44619/adminstore/
 - Sales page: https://contentkoenig.com/
 - Vendor affiliate support: https://contentkoenig.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/540204/adminstore
@@ -67,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Content König-100% automatische XXL-Artikelerstellung mit KI? — Typ: Member area and video courses, Anbieter: sattelitevendor, gelistet seit 2024-02-22
-- Wie viel kostet es? — 281.561956 USD
+- Wie viel kostet es? — 280.933806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

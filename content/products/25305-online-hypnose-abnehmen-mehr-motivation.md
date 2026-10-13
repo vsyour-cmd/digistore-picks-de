@@ -4,34 +4,34 @@ digistore24_product_id: 207977
 title: "Online Hypnose Abnehmen, mehr Motivation"
 vendor: "manjushri"
 product_type: "Downloads"
-price: 42.38
+price: 42.29
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 25.43
+earnings_per_sale: 25.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-03-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://online-hypnose.eu/kurs-002-durch-motivation-abnehmen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/25305/adminstore/"
 sales_page: "https://online-hypnose.eu/kurs-002-durch-motivation-abnehmen/"
 language: "de"
 ---
 # Online Hypnose Abnehmen, mehr Motivation
 
 > Product ID `25305` · Digistore24 productId `207977` · [HTML profile page](../../produkte/online-hypnose-abnehmen-mehr-motivation-25305.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $42.38 (Single payment) |
+| Price | $42.29 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $25.43 |
+| Earnings/sale* | $25.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manjushri |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hypnose Kurs: "Durch Motivation abnehmen" 1,5 Stunden On-demand Videos für: Leichtes Abnehmen durch Motivation Mehr Selbstvertrauen Dauerhaftes schlank werden Mehr Bewusstsein beim Essen Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.
+**Vendor's marketplace description:** <h2><big>Hypnose Kurs: "Durch Motivation abnehmen"</big></h2>
+<h4>1,5 Stunden On-demand Videos für:</h4>
+<ul><li>Leichtes Abnehmen durch Motivation</li>
+<li>Mehr Selbstvertrauen</li>
+<li>Dauerhaftes schlank werden</li>
+<li>Mehr Bewusstsein beim Essen</li>
+</ul><p><strong>Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.</strong></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://online-hypnose.eu/kurs-002-durch-motivation-abnehmen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/25305/adminstore/
 - Sales page: https://online-hypnose.eu/kurs-002-durch-motivation-abnehmen/
 - Canonical redirect: https://www.digistore24.com/redir/207977/adminstore
 
@@ -82,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Hypnose Abnehmen, mehr Motivation? — Typ: Downloads, Anbieter: manjushri, gelistet seit 2018-03-13
-- Wie viel kostet es? — 42.381092 USD
+- Wie viel kostet es? — 42.286542000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

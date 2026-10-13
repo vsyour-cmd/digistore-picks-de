@@ -4,34 +4,34 @@ digistore24_product_id: 705509
 title: "RegulationsCoach Home – Ganzheitliche Gesundheit selbst in die Hand nehmen"
 vendor: "diepraxisfamily"
 product_type: "Member area and video courses"
-price: 2712.04
+price: 2705.99
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 271.21
+earnings_per_sale: 270.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-07-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/705509?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57549/adminstore/"
 sales_page: "https://www.digistore24.com/product/705509"
 language: "de"
 ---
 # RegulationsCoach Home – Ganzheitliche Gesundheit selbst in die Hand nehmen
 
 > Product ID `57549` · Digistore24 productId `705509` · [HTML profile page](../../produkte/regulationscoach-home-ganzheitliche-gesundheit-selbst-in-die-hand-nehmen-57549.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2712.04 (Single payment, Installment) |
+| Price | $2705.99 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $271.21 |
+| Earnings/sale* | $270.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | diepraxisfamily |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hole Dir das komplette Wissen und Können für Dich und Deine Familie – werde Dein eigener Gesundheits-Coach. Die Ausbildung zum RegulationsCoach Home ist ein Programm mit 9 Lern-Modulen und 2 Aufbaumodulen, speziell für alle, die ihre Gesundheit selbst in die Hand nehmen und endlich Klarheit gewinnen möchten. Mit praktischen, leicht verständlichen Trainingsvideos vermittelt die Ausbildung eine komp…
+**Vendor's marketplace description:** <p>Hole Dir das komplette Wissen und Können für Dich und Deine Familie – werde Dein eigener Gesundheits-Coach.</p>
+<p> </p>
+<p>Die Ausbildung zum RegulationsCoach Home ist ein Programm mit 9 Lern-Modulen und 2 Aufbaumodulen, speziell für alle, die ihre Gesundheit selbst in die Hand nehmen und endlich Klarheit gewinnen möchten. Mit praktischen, leicht verständlichen Trainingsvideos vermittelt die Ausbildung eine komplette, ganzheitliche Methode für optimale Gesundheit.</p>
+<p> </p>
+<p>Im Paket enthalten:</p>
+<p>- 9 Lern-Module + 2 Aufbaumodule im Video- und Audioformat</p>
+<p>- RegulationsCoach Home Testsatz + Polfilter mit 66 ausgewählten Substanzen</p>
+<p>- Arbeitsunterlagen zum Herunterladen</p>
+<p>- Mitgliedschaft in der geschlossenen Telegram-Community</p>
+<p>- Zugang zu monatlichen Live-Frage-und-Antwort-Sessions</p>
+<p>- Bonuskurse: Umgang mit Tensor und Signalverstärkern sowie extra R-MFT Sessions</p>
+<p> </p>
+<p>Ein hochpreisiges Premium-Produkt mit attraktiver Affiliate-Provision – ideal für Zielgruppen aus den Bereichen Gesundheit, Selbstheilung und ganzheitliche Lebensführung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/705509?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57549/adminstore/
 - Sales page: https://www.digistore24.com/product/705509
 - Canonical redirect: https://www.digistore24.com/redir/705509/adminstore
 
@@ -79,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist RegulationsCoach Home – Ganzheitliche Gesundheit selbst in die Hand nehmen? — Typ: Member area and video courses, Anbieter: diepraxisfamily, gelistet seit 2026-07-15
-- Wie viel kostet es? — 2712.0425020000002 USD
+- Wie viel kostet es? — 2705.9920770000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

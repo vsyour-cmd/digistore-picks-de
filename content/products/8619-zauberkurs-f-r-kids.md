@@ -4,16 +4,16 @@ digistore24_product_id: 58279
 title: "Zauberkurs für Kids"
 vendor: "Magingo"
 product_type: "Member area and video courses"
-price: 187.4
+price: 186.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.7
+earnings_per_sale: 93.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2015-09-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ich-lerne-zaubern.de/zaubern-fuer-kids/?aff=adminstore#aff=adminstore"
 sales_page: "https://ich-lerne-zaubern.de/zaubern-fuer-kids/"
@@ -22,16 +22,16 @@ language: "de"
 # Zauberkurs für Kids
 
 > Product ID `8619` · Digistore24 productId `58279` · [HTML profile page](../../produkte/zauberkurs-f-r-kids-8619.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $187.40 (Subscription) |
+| Price | $186.98 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.70 |
+| Earnings/sale* | $93.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Magingo |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das ist der Zauberkurs für die kleinen Zauberer zwischen 7 und 14 Jahren. (Ab 14 Jahre die Kurse "Grundkurs Karten" und "Grundkurs Close-up") Der erste Monat statt 17,- € für nur 1,-- €.Jede Woche ein neues cooles Video mit einem neuen Zaubertrick zum üben oder basteln. Alles langsam und ausführlich erklärt.Im wahrsten Sinne kinderleicht vorzuführen.
+**Vendor's marketplace description:** <p>Das ist der Zauberkurs f&uuml;r die kleinen Zauberer zwischen 7 und 14 Jahren. (Ab 14 Jahre die Kurse "Grundkurs Karten" und "Grundkurs Close-up")</p>
+<p>&nbsp;</p>
+<p>Der erste Monat statt <span style="text-decoration: line-through;"><span style="color: #ff0000; text-decoration: line-through;">17,- &euro;</span> </span>f&uuml;r nur<span style="color: #339966;"><strong> 1,-- &euro;</strong>.</span><br /><br />Jede Woche ein neues cooles Video mit einem neuen Zaubertrick zum &uuml;ben oder basteln. Alles langsam und ausf&uuml;hrlich erkl&auml;rt.<br /><br />Im wahrsten Sinne kinderleicht vorzuf&uuml;hren.</p>
 
 ## 2. Links
 
@@ -108,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zauberkurs für Kids? — Typ: Member area and video courses, Anbieter: Magingo, gelistet seit 2015-09-07
-- Wie viel kostet es? — 187.39793799999998 USD
+- Wie viel kostet es? — 186.979863 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

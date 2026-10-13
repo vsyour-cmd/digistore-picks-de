@@ -4,34 +4,34 @@ digistore24_product_id: 491766
 title: "META ADS CLASS für Fotografen"
 vendor: "juliaundgil"
 product_type: "Member area and video courses"
-price: 460.76
+price: 459.73
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 0.61
+earnings_per_sale: 0.6
 cart_conversion_pct: 11
 cancel_rate_pct: 1.06
 categories: ["Photography & Film","Profession & Job","Social Media"]
 listed_since: "2023-03-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://juliaandgil.education/ads-class/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46427/adminstore/"
 sales_page: "https://juliaandgil.education/ads-class/"
 language: "de"
 ---
 # META ADS CLASS für Fotografen
 
 > Product ID `46427` · Digistore24 productId `491766` · [HTML profile page](../../produkte/meta-ads-class-f-r-fotografen-46427.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $460.76 (Single payment, Installment) |
+| Price | $459.73 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $0.61 |
+| Earnings/sale* | $0.60 |
 | Cart conversion* | 11% |
 | Cancel rate* | 1.06% |
 | Vendor | juliaundgil |
@@ -41,11 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Exklusiver Step by Step Guide für Fotografen gemacht! So gewinnst du Kunde um Kunde mit Werbeanzeigen auf Facebook & Instagram. 1 | algorithmus & theorie
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<h2>Exklusiver Step by Step Guide für Fotografen gemacht! So gewinnst du Kunde um Kunde mit Werbeanzeigen auf Facebook &amp; Instagram.</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div>
+<div>
+<p> </p>
+</div>
+<div>
+<div>
+<h2>1 | algorithmus &amp; theorie 
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://juliaandgil.education/ads-class/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46427/adminstore/
 - Sales page: https://juliaandgil.education/ads-class/
 - Canonical redirect: https://www.digistore24.com/redir/491766/adminstore
 
@@ -80,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist META ADS CLASS für Fotografen? — Typ: Member area and video courses, Anbieter: juliaundgil, gelistet seit 2023-03-30
-- Wie viel kostet es? — 460.75710200000003 USD
+- Wie viel kostet es? — 459.72917700000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

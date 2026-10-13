@@ -4,16 +4,16 @@ digistore24_product_id: 387003
 title: "Natürlich Ayurveda - Der Ayurveda Onlinekurs"
 vendor: "tastykaty"
 product_type: "Member area and video courses"
-price: 272.15
+price: 271.54
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 81.65
+earnings_per_sale: 81.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-04-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://na.tastykatykurse.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://na.tastykatykurse.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Natürlich Ayurveda - Der Ayurveda Onlinekurs
 
 > Product ID `37052` · Digistore24 productId `387003` · [HTML profile page](../../produkte/nat-rlich-ayurveda-der-ayurveda-onlinekurs-37052.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $272.15 (Single payment, Installment) |
+| Price | $271.54 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $81.65 |
+| Earnings/sale* | $81.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tastykaty |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieser Kurs beinhaltet: · Zugang zum exklusiven Mitgliederbereich · 8 Module mit spannenden Ayurveda-Themen · 32 Videos rund um Ayurvedische Themen · Umfangreicher Konstitutionstest · über 30 ayurvedische Rezepte (vegan, glutenfrei & ohne industriellen Zucker) · ein liebevoll gestaltetes Workbook (über 130 Seiten), mit allen Infos und Rezepten · 3 spannende Boni: Ayurveda-Quiz, Tiefenmeditation & …
+**Vendor's marketplace description:** <div><strong> Dieser Kurs beinhaltet:</strong></div>
+<div> </div>
+<p>· Zugang zum exklusiven Mitgliederbereich</p>
+<p>· 8 Module mit spannenden Ayurveda-Themen </p>
+<p>· 32 Videos rund um Ayurvedische Themen </p>
+<p>· Umfangreicher Konstitutionstest</p>
+<p>· über 30 ayurvedische Rezepte (vegan, glutenfrei &amp; ohne industriellen Zucker)</p>
+<p>· ein liebevoll gestaltetes Workbook (über 130 Seiten), mit allen Infos und Rezepten</p>
+<p>· 3 spannende Boni: Ayurveda-Quiz, Tiefenmeditation &amp; Gewürzkunde</p>
+<p>· Betreuung durch Katharina und ihr Team</p>
+<p>· Und vieles mehr...</p>
+<p> </p>
 
 ## 2. Links
 
@@ -96,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Natürlich Ayurveda - Der Ayurveda Onlinekurs? — Typ: Member area and video courses, Anbieter: tastykaty, gelistet seit 2021-04-28
-- Wie viel kostet es? — 272.14891600000004 USD
+- Wie viel kostet es? — 271.54176600000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

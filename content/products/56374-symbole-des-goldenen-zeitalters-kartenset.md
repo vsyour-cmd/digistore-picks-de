@@ -4,16 +4,16 @@ digistore24_product_id: 687952
 title: "Symbole des Goldenen Zeitalters - Kartenset"
 vendor: "Spiritual-Power"
 product_type: "Downloads"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 7.34
+earnings_per_sale: 7.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/687952?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/687952"
@@ -22,16 +22,16 @@ language: "de"
 # Symbole des Goldenen Zeitalters - Kartenset
 
 > Product ID `56374` · Digistore24 productId `687952` · [HTML profile page](../../produkte/symbole-des-goldenen-zeitalters-kartenset-56374.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $7.34 |
+| Earnings/sale* | $7.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spiritual-Power |
@@ -41,7 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 16 hochwertige Karten im Set, basierend auf handgemalten Originalbildern und wichtigen Informationen zum jeweiligen Symbol der heiligen Geometrie auf der Rückseite. Welche Symbole sind enthalten? Blume des Lebens Pranagenerator Buddha/Christusenergie 12 Göttliche Strahlen Lichtwesen Liegende Acht Lotusblüte Metatron Würfel Pentagramm Sri Yantra Yin Yang Sterntetraeder Tausendblättriger Lotus Venus…
+**Vendor's marketplace description:** <p>16 hochwertige Karten im Set, basierend auf handgemalten Originalbildern und wichtigen Informationen zum jeweiligen Symbol der heiligen Geometrie auf der Rückseite.</p>
+<p><strong>Welche Symbole sind enthalten?</strong></p>
+<ul>
+<li>Blume des Lebens</li>
+<li>Pranagenerator</li>
+<li>Buddha/Christusenergie</li>
+<li>12 Göttliche Strahlen</li>
+<li>Lichtwesen</li>
+<li>Liegende Acht</li>
+<li>Lotusblüte</li>
+<li>Metatron Würfel</li>
+<li>Pentagramm</li>
+<li>Sri Yantra</li>
+<li>Yin Yang</li>
+<li>Sterntetraeder</li>
+<li>Tausendblättriger Lotus</li>
+<li>Venusblume</li>
+<li>Torus</li>
+<li>eine Anleitung</li>
+</ul>
+<p>Die Vorderseite zeigt das handgemalte Symbol als hochwertigen Kunstdruck. Auf der Rückseite der Übersichtskarte findest du wichtige Informationen zu jedem Symbol sowie konkrete Inspirationen, wie du die Karten in deinen Alltag und deine Praxis integrierst.</p>
+<p><strong>Perfekte Zielgruppe</strong></p>
+<p>Lichtarbeiter, Yoga- und Meditationspraktizierende, Coaches, Heilpraktikerinnen und spirituell Interessierte. Hohe Nachfrage, einzigartiges Produkt, starke Conversion durch emotionale Ansprache.</p>
 
 ## 2. Links
 
@@ -75,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Symbole des Goldenen Zeitalters - Kartenset? — Typ: Downloads, Anbieter: Spiritual-Power, gelistet seit 2026-04-27
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

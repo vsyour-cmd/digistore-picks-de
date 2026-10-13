@@ -4,16 +4,16 @@ digistore24_product_id: 470910
 title: "New Spirit for Money und Business VIP Paket und Bundle"
 vendor: "herzengel"
 product_type: "Member area and video courses"
-price: 100.76
+price: 100.54
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 10.07
+earnings_per_sale: 10.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2022-11-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.newspiritkongress.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.newspiritkongress.de"
@@ -22,16 +22,16 @@ language: "de"
 # New Spirit for Money und Business VIP Paket und Bundle
 
 > Product ID `42298` · Digistore24 productId `470910` · [HTML profile page](../../produkte/new-spirit-for-money-und-business-vip-paket-und-bundle-42298.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $100.76 (Single payment, Installment) |
+| Price | $100.54 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $10.07 |
+| Earnings/sale* | $10.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | herzengel |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** New Spirit for Money & Business Kongress ist ein Evergreen Kongress. Viele Menschen erleben gerade eine Welt im Chaos, mit Ängsten und größten Herausforderungen. Der Wunsch nach Freiheit, Liebe und Wohlstand für alle Menschen wird immer stärker. Dieser Wunsch kommt tief aus Deinem Herzen und dort ist der Ort, wo Neues entstehen darf. Aus dieser Quelle entstehen neue Berufe und Möglichkeiten für di…
+**Vendor's marketplace description:** <p>New Spirit for Money &amp; Business Kongress ist ein Evergreen Kongress.</p>
+<p>Viele Menschen erleben gerade eine Welt im Chaos, mit Ängsten und größten Herausforderungen.</p>
+<p><strong>Der Wunsch nach Freiheit, Liebe und Wohlstand für alle Menschen wird immer stärker.</strong></p>
+<p>Dieser Wunsch kommt tief aus <strong>Deinem Herzen</strong> und dort ist der Ort, wo Neues entstehen darf. Aus dieser Quelle entstehen neue Berufe und Möglichkeiten für dich.</p>
+<p>Beim <strong>New Spirit for Money &amp; Business Kongress – Zeit für neue Berufe </strong>geben Dir 38 Leader der Neuen Zeit die allerbeste Inspiration und Unterstützung auf diesem Weg in dein erfülltes Leben. </p>
+<p>Sei beim <strong>New Spirit for Money &amp; Business Kongress</strong> dabei und entdecke den New Spirit für dich!</p>
+<p>Wie du das machst, zeigen Dir folgende Experten: </p>
+<p>Adrian Giger, Amata Bayerl, Andrea Hammer, Andreas Dämon, Anja Häfner, Anna Nguyen, Anneli Eick, Daniel Hauber und Stefan Beier, Britta Gerdes-Petersen, Carmen Duffner, Claus-Stefan Duffner, Christine Schlonski, Christoph Heuermann, Conny Bock, Denys Schwarnweber, Edith Steller, Florian Günther, Ines Koban, Insha Holz, Janaina von Moos, Joschi Haunsberger, Jyotima Flak, Korinna Heintze, Konstantin Peterson, Heike Engel, Meike Hohenwarter, Norbert Hofer, Samuel Kegel, Sigrid Reutter, Stefan Dittrich, Steffen Padberg, <br />Stephan Petrowitsch, Stefanie Bruns, Timo Simon, Ulrike und Raimund Stix, Wolfgang Ehs</p>
+<p>Das New Spirit VIP Paket &amp; Bundle enthält Onlöinekurse und Videos der Sprecher im Wert von über 7095€.</p>
+<p><strong>Du erhältst 50% Affiliate Provision pro Verkauf.</strong></p>
+<p>Banner, Trailer &amp; Texte findest Du auf der Partnerprogramm Seite.</p>
+<p>Vielen herzlichen Dank für Deine Unterstützung.</p>
+<p> </p>
 
 ## 2. Links
 
@@ -79,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist New Spirit for Money und Business VIP Paket und Bundle? — Typ: Member area and video courses, Anbieter: herzengel, gelistet seit 2022-11-20
-- Wie viel kostet es? — 100.764352 USD
+- Wie viel kostet es? — 100.53955200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

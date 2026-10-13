@@ -4,34 +4,34 @@ digistore24_product_id: 226193
 title: "Grammatik-Crashkurs für DaF/DaZ-Lehrende"
 vendor: "justynahaas"
 product_type: "Downloads"
-price: 130.9
+price: 130.61
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 39.27
+earnings_per_sale: 39.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2018-06-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://www.justynahaas.eu/index.php?page_id=1236&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/25171/adminstore/"
 sales_page: "http://www.justynahaas.eu/index.php?page_id=1236"
 language: "de"
 ---
 # Grammatik-Crashkurs für DaF/DaZ-Lehrende
 
 > Product ID `25171` · Digistore24 productId `226193` · [HTML profile page](../../produkte/grammatik-crashkurs-f-r-daf-daz-lehrende-25171.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $130.90 (Single payment) |
+| Price | $130.61 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $39.27 |
+| Earnings/sale* | $39.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | justynahaas |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die deutsche Grammatik in 12 Modulen! Sie erhalten ein kompaktes Grammatikwissen mit sprachwissenschaftlichen Grundlagen und methodischen Tipps für die Umsetzung! Der Kurs umfasst: 12 wichtige Themen der deutschen Grammatik Sprachwissenschaftliche Grundlagen Methodik der Grammatikvermittlung Grammatik-Präsentationen (A2-C1) Videos und Lernunterlagen Lebenslangen Zugang zum Online-Kursbereich Inter…
+**Vendor's marketplace description:** <p>Die deutsche Grammatik in 12 Modulen!</p>
+<p>Sie erhalten ein kompaktes Grammatikwissen mit sprachwissenschaftlichen Grundlagen und methodischen Tipps für die Umsetzung!</p>
+<p>Der Kurs umfasst:</p>
+<ul><li>12 wichtige Themen der deutschen Grammatik</li>
+<li>Sprachwissenschaftliche Grundlagen</li>
+<li>Methodik der Grammatikvermittlung</li>
+<li>Grammatik-Präsentationen (A2-C1)</li>
+<li>Videos und Lernunterlagen</li>
+<li>Lebenslangen Zugang zum Online-Kursbereich</li>
+<li>Interaktive Arbeitsblätter</li>
+<li>Präsentationen für den Unterricht</li>
+<li>Online-Lerntools</li>
+<li>Teilnahme bequem von zu Hause</li>
+<li>Möglichkeit, individuellen Support für den Unterricht zu bekommen</li>
+</ul><p>Der Kurs ist sowohl für die Neu- und Quereinsteiger sowie für erfahrene Sprachlehrer geeignet, die ihre Kenntnisse der deutschen Grammatik und der Methodik erweitern bzw. auffrischen möchten.</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.justynahaas.eu/index.php?page_id=1236&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/25171/adminstore/
 - Sales page: http://www.justynahaas.eu/index.php?page_id=1236
 - Canonical redirect: https://www.digistore24.com/redir/226193/adminstore
 
@@ -86,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grammatik-Crashkurs für DaF/DaZ-Lehrende? — Typ: Downloads, Anbieter: justynahaas, gelistet seit 2018-06-06
-- Wie viel kostet es? — 130.897286 USD
+- Wie viel kostet es? — 130.605261 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

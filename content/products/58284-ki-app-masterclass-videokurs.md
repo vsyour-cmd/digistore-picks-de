@@ -4,16 +4,16 @@ digistore24_product_id: 719640
 title: "KI-App Masterclass (Videokurs)"
 vendor: "worldxpb"
 product_type: "Downloads"
-price: 94.16
+price: 93.95
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 23.54
+earnings_per_sale: 23.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/719640?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/719640"
@@ -22,16 +22,16 @@ language: "de"
 # KI-App Masterclass (Videokurs)
 
 > Product ID `58284` · Digistore24 productId `719640` · [HTML profile page](../../produkte/ki-app-masterclass-videokurs-58284.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $94.16 (Single payment) |
+| Price | $93.95 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $23.54 |
+| Earnings/sale* | $23.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bitte bindet euren persönlichen Affiliate-Link auf eurer Platform / eurer Webseite / in eurem Werbevideo etc. ein, sodass der Käufer über euren Affiliate Link zur Verkauksseite gelangt und du deine Provision pro Verkauf erhältst. :-) In diesem Videokurs inkl. 2 x PDF Checkliste + Promt-Liste geht es um die Entwicklung einer mit Hilfe von KI einfach zu erstellenden WEB-App + App. Es wir der schnell…
+**Vendor's marketplace description:** <p>Bitte bindet euren persönlichen Affiliate-Link auf eurer Platform / eurer Webseite / in eurem Werbevideo etc. ein, sodass der Käufer über euren Affiliate Link zur Verkauksseite gelangt und du deine Provision pro Verkauf erhältst. :-)</p>
+<p>In diesem Videokurs inkl. 2 x PDF Checkliste + Promt-Liste geht es um die Entwicklung einer mit Hilfe von KI einfach zu erstellenden WEB-App + App. Es wir der schnellste Weg von der Erstellung, über die Veröffentlichung bishin zum Verkauf alles Schritt für Schritt in unter einer Stunde erklärt.</p>
+<p>Mit Hilfe dieses Videkurses kann der Käufer eine eigene App bauen, diese für sich selbst nutzen, verkaufen oder individuell für Firmen erstellen.</p>
+<p>-&gt; <a href="https://ki-app-masterclass.carrd.co" target="_blank" rel="noreferrer noopener">https://ki-app-masterclass.carrd.co</a> (Webseite)</p>
+<p>Viel Erfolg bei erfolgreichen Vermarkten und ganz viele Provisionseinnahmen für DICH!</p>
 
 ## 2. Links
 
@@ -81,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-App Masterclass (Videokurs)? — Typ: Downloads, Anbieter: worldxpb, gelistet seit 2026-08-11
-- Wie viel kostet es? — 94.164018 USD
+- Wie viel kostet es? — 93.95394300000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

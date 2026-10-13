@@ -4,16 +4,16 @@ digistore24_product_id: 611508
 title: "Kita-Ideen Paket"
 vendor: "AndiS411"
 product_type: "Downloads"
-price: 18.74
+price: 18.69
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.5
+earnings_per_sale: 7.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://kindergarten-lieder.de/kita-ideen-paket/?aff=adminstore#aff=adminstore"
 sales_page: "https://kindergarten-lieder.de/kita-ideen-paket/"
@@ -22,16 +22,16 @@ language: "de"
 # Kita-Ideen Paket
 
 > Product ID `58628` · Digistore24 productId `611508` · [HTML profile page](../../produkte/kita-ideen-paket-58628.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.74 (Single payment) |
+| Price | $18.69 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.50 |
+| Earnings/sale* | $7.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndiS411 |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Kita-Ideen-Paket ist ein sofort einsetzbares PDF-Paket für Erzieherinnen, Kindergärten und Kitas: fertige Ideen für Morgenkreis, Projekte, Spiele und Angebote, ohne Vorbereitungsaufwand. Warum sich das Bewerben lohnt: Über 700 verkaufte Exemplare, das Produkt ist am Markt erprobt Klar umrissene, gut erreichbare Zielgruppe: Erzieherinnen, Kita-Leitungen, Tagesmütter, Eltern Läuft hervorragend ü…
+**Vendor's marketplace description:** <p>Das Kita-Ideen-Paket ist ein sofort einsetzbares PDF-Paket für Erzieherinnen, Kindergärten und Kitas: fertige Ideen für Morgenkreis, Projekte, Spiele und Angebote, ohne Vorbereitungsaufwand.</p>
+<p>Warum sich das Bewerben lohnt:</p>
+<ul>
+<li>Über <strong>700 verkaufte Exemplare</strong>, das Produkt ist am Markt erprobt</li>
+<li>Klar umrissene, gut erreichbare Zielgruppe: Erzieherinnen, Kita-Leitungen, Tagesmütter, Eltern</li>
+<li>Läuft hervorragend über Pinterest, Instagram, Facebook-Gruppen für Erzieherinnen und Kita-Blogs</li>
+<li>Digitales Produkt, keine Retouren durch Versand, sofortige Auslieferung</li>
+</ul>
+<p>Werbemittel (Banner, Textbausteine, Bilder, fertige Social-Media-Posts) stehen im Affiliate-Bereich bereit.</p>
 
 ## 2. Links
 
@@ -87,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kita-Ideen Paket? — Typ: Downloads, Anbieter: AndiS411, gelistet seit 2026-08-24
-- Wie viel kostet es? — 18.736432 USD
+- Wie viel kostet es? — 18.694632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

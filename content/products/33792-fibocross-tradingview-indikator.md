@@ -4,16 +4,16 @@ digistore24_product_id: 305369
 title: "FiboCross | TradingView Indikator"
 vendor: "daxtrading"
 product_type: "Remote service provided electronically"
-price: 329.59
+price: 328.86
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 61.79
+earnings_per_sale: 61.65
 cart_conversion_pct: 5
 cancel_rate_pct: 10.59
 categories: ["Trading Products"]
 listed_since: "2020-01-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/fibo-cross-indikator-tradingview/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/fibo-cross-indikator-tradingview/"
@@ -22,16 +22,16 @@ language: "de"
 # FiboCross | TradingView Indikator
 
 > Product ID `33792` · Digistore24 productId `305369` · [HTML profile page](../../produkte/fibocross-tradingview-indikator-33792.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $329.59 (Single payment) |
+| Price | $328.86 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $61.79 |
+| Earnings/sale* | $61.65 |
 | Cart conversion* | 5% |
 | Cancel rate* | 10.59% |
 | Vendor | daxtrading |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerben Sie unsere Trading Indikatoren speziell für TradingView! Der professionell programmierte FiboCross Indikator gibt automatisiert Einstiegssignale. Konditionen für Partner: 30 % Provision Sehr geringe Stornoquote Bewerben Sie diesen Indikator jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste.
+**Vendor's marketplace description:** <p><strong>Bewerben Sie unsere Trading Indikatoren speziell für TradingView! </strong></p>
+<p>Der professionell programmierte FiboCross Indikator gibt automatisiert Einstiegssignale.</p>
+<p><strong>Konditionen für Partner:</strong></p>
+<ul>
+<li>30 % Provision</li>
+<li>Sehr geringe Stornoquote</li>
+</ul>
+<p>Bewerben Sie diesen Indikator jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste.</p>
+<p> </p>
 
 ## 2. Links
 
@@ -98,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FiboCross | TradingView Indikator? — Typ: Remote service provided electronically, Anbieter: daxtrading, gelistet seit 2020-01-27
-- Wie viel kostet es? — 329.590872 USD
+- Wie viel kostet es? — 328.85557200000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

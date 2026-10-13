@@ -4,34 +4,34 @@ digistore24_product_id: 480932
 title: "Iron Lake Challenge Austria"
 vendor: "rockyourgoal"
 product_type: "Deliverable"
-price: 22.66
+price: 22.61
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 5.78
+earnings_per_sale: 5.77
 cart_conversion_pct: 31
 cancel_rate_pct: 0.35
 categories: ["Health & Fitness"]
 listed_since: "2023-01-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://rockyourgoal.de/iron-lake-challenge/austria?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/42617/adminstore/"
 sales_page: "https://rockyourgoal.de/iron-lake-challenge/austria"
 language: "de"
 ---
 # Iron Lake Challenge Austria
 
 > Product ID `42617` · Digistore24 productId `480932` · [HTML profile page](../../produkte/iron-lake-challenge-austria-42617.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $22.66 (Single payment) |
+| Price | $22.61 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $5.78 |
+| Earnings/sale* | $5.77 |
 | Cart conversion* | 31% |
 | Cancel rate* | 0.35% |
 | Vendor | rockyourgoal |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Iron Lake Challenge Austria erfreut sich bei Läufern und Wanderern aus Österreich aber auch bei Österreich-Urlaubern großer Beliebtheit. Um die Sammlermedaille zu erhalten müssen die Teilnehmer die zehn größten Seen Österreichs zu Fuß umrunden. Den Affiliates winken 30% des Verkaufspreises. Gerne darfst Du die auf meiner Seite angebotenen Werbemittel verwenden.
+**Vendor's marketplace description:** <p>Die Iron Lake Challenge Austria erfreut sich bei Läufern und Wanderern aus Österreich aber auch bei Österreich-Urlaubern großer Beliebtheit. </p>
+<p>Um die Sammlermedaille zu erhalten müssen die Teilnehmer die zehn größten Seen Österreichs zu Fuß umrunden. </p>
+<p>Den Affiliates winken 30% des Verkaufspreises. </p>
+<p>Gerne darfst Du die auf meiner Seite angebotenen Werbemittel verwenden. </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://rockyourgoal.de/iron-lake-challenge/austria?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/42617/adminstore/
 - Sales page: https://rockyourgoal.de/iron-lake-challenge/austria
 - Vendor affiliate support: https://rockyourgoal.de/iron-lake-challenge/austria/#Werde_Partner_der_Iron_Lake_Challenge_Austria
 - Canonical redirect: https://www.digistore24.com/redir/480932/adminstore
@@ -85,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Iron Lake Challenge Austria? — Typ: Deliverable, Anbieter: rockyourgoal, gelistet seit 2023-01-24
-- Wie viel kostet es? — 22.658532 USD
+- Wie viel kostet es? — 22.607982 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

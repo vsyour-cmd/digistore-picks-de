@@ -4,16 +4,16 @@ digistore24_product_id: 471279
 title: "Chessence Excellence"
 vendor: "Chessence"
 product_type: "Member area and video courses"
-price: 121.47
+price: 121.2
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 36.44
+earnings_per_sale: 36.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://chessence.de/excellence/?aff=adminstore#aff=adminstore"
 sales_page: "https://chessence.de/excellence/"
@@ -22,16 +22,16 @@ language: "de"
 # Chessence Excellence
 
 > Product ID `57432` · Digistore24 productId `471279` · [HTML profile page](../../produkte/chessence-excellence-57432.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.47 (Subscription) |
+| Price | $121.20 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $36.44 |
+| Earnings/sale* | $36.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Chessence |
@@ -41,7 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** >> CHESSENCE EXCELLENCE: HIGH LEVEL SCHACHTRAINING FÜR AMBITIONIERTE SPIELER AB 1900 ELO Chessence Excellence ist ein hochwertiges All in One Trainingsprogramm für ambitionierte Schachspieler ab ca. 1900 Elo, die den nächsten großen Ratingsprung machen und ihr Training auf ein deutlich professionelleres Level bringen möchten. Für Affiliates ist Excellence besonders spannend, weil das Produkt eine …
+**Vendor's marketplace description:** <h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bolder;color:#e66478;">&gt;&gt; CHESSENCE EXCELLENCE: HIGH LEVEL SCHACHTRAINING FÜR AMBITIONIERTE SPIELER AB 1900 ELO</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Chessence Excellence ist ein hochwertiges All in One Trainingsprogramm für ambitionierte Schachspieler ab ca. 1900 Elo, die den nächsten großen Ratingsprung machen und ihr Training auf ein deutlich professionelleres Level bringen möchten. </span></p>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Für Affiliates ist Excellence besonders spannend, weil das Produkt eine sehr spitze, ambitionierte und kaufkräftige Zielgruppe anspricht: starke Vereinsspieler, Turnierspieler und Titelanwärter, die bereits viel Zeit in Schach investieren und aktiv nach professioneller Unterstützung suchen. </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#e66478;">&gt;&gt; WARUM EXCELLENCE FÜR AFFILIATES SPANNEND IST:</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> • Hochwertiges Membership Produkt für ambitionierte Schachspieler<br />• Sehr klare Zielgruppe ab ca. 1900 Elo<br />• Starker wahrgenommener Wert durch Live Training, Analyse und Profi Feedback<br />• Ideal für Spieler, die stagnieren und 200 bis 400 Elo Punkte zulegen möchten<br />• Positionierung über GM Niclas Huschenbeth und erfahrene Titelträger<br />• Die komplette Chessence Masterclass ist ebenfalls enthalten<br />• 14 Tage Geld zurück Garantie für weniger Kaufhürden<br />• Monatliches Membership Produkt mit hohem wahrgenommenem Kundennutzen </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#e66478;">&gt;&gt; WAS CHESSENCE EXCELLENCE BEINHALTET:</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> • Die komplette Chessence Masterclass mit über 200 Stunden Videomaterial<br />• Über 2100 Übungsaufgaben<br />• Eröffnungs Training mit Weltklasse Theoretikern wie GM Markus Ragger<br />• Regelmäßige Partieanalysen mit erfahrenen Spitzentrainern<br />• Wöchentliche Aufgaben mit gezielter Besprechung<br />• Direktes Feedback von Profis zu den eigenen Schwächen<br />• Training zur Variantenberechnung, Eröffnungsvorbereitung und Schwächenanalyse<br />• 4 Elo ausgewertete Live Turniere pro Jahr<br />• Zugang zur exklusiven Chessence Excellence Community </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#e66478;">&gt;&gt; GEEIGNETER TRAFFIC:</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> • Schach YouTube Kanäle mit fortgeschrittener Zielgruppe<br />• Schach Blogs und Portale für Vereinsspieler<br />• Newsletter im Schachbereich<br />• Communities rund um Elo, DWZ, Turnierschach und Vereinsschach<br />• Instagram, Facebook oder TikTok Seiten für ambitionierte Schachspieler<br />• Schachvereine, Turnierspieler und starke Hobbyspieler<br />• Zielgruppen, die bereits trainieren, aber auf ihrem aktuellen Niveau stagnieren </span></p>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Besonders gut eignet sich Excellence für Spieler, die nicht mehr planlos YouTube Videos, Datenbanken oder einzelne Schachbücher konsumieren möchten, sondern ein klares Trainingssystem mit professionellem Feedback suchen. </span></p>
+<h3 style="margin:20px 0 10px 0;font-family:'Playfair Display', serif;font-size:20px;line-height:1.3;"><span style="font-weight:bold;color:#4caf50;">Kleine Zielgruppe. Hoher Bedarf. Starkes Premium Produkt.</span></h3>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:20px;line-height:1.6;"><span style="font-weight:600;"> Chessence Excellence bietet Affiliates ein stark positioniertes Schachprodukt für ambitionierte Spieler, die ernsthaft besser werden wollen und bereit sind, professionell in ihre Spielstärke zu investieren. </span></p>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Der Produktpreis liegt bei 129 € pro Monat. Die Mindestlaufzeit beträgt 6 Monate, danach ist das Produkt monatlich kündbar. </span></p>
+<p style="margin:0 0 8px 0;font-family:Roboto, Arial, sans-serif;font-size:16px;line-height:1.6;"><span style="font-weight:400;"> Die genaue Provision für Affiliates wird direkt im Digistore24 Marktplatz angezeigt. </span></p>
 
 ## 2. Links
 
@@ -97,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chessence Excellence? — Typ: Member area and video courses, Anbieter: Chessence, gelistet seit 2026-07-06
-- Wie viel kostet es? — 121.47304000000001 USD
+- Wie viel kostet es? — 121.20204000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 202637
 title: "10 Checklisten für Ihren klaren Ausdruck"
 vendor: "ThiloBaum"
 product_type: "Downloads"
-price: 9.32
+price: 9.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.66
+earnings_per_sale: 4.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-02-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://klartextexperte.de/checklisten-fuer-klaren-ausdruck/?aff=adminstore#aff=adminstore"
 sales_page: "https://klartextexperte.de/checklisten-fuer-klaren-ausdruck/"
@@ -22,16 +22,16 @@ language: "de"
 # 10 Checklisten für Ihren klaren Ausdruck
 
 > Product ID `28842` · Digistore24 productId `202637` · [HTML profile page](../../produkte/10-checklisten-f-r-ihren-klaren-ausdruck-28842.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.32 (Single payment) |
+| Price | $9.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.66 |
+| Earnings/sale* | $4.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ThiloBaum |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Formulieren Sie Schritt für Schritt Ihre prägnante Botschaft: Ideal für die Unternehmenskommunikation – ob schriftlich, mündlich, intern oder extern. Mithilfe dieser Checklisten (PDF) erarbeiten Sie Ihre Botschaft, Ihre Argumentation, Ihre Formulierungen und Ihre Überschrift.​Geeignet für die alltägliche Kommunikation im Unternehmen – von E-Mails über Entscheidungsvorlagen bis hin zu Pressemitteil…
+**Vendor's marketplace description:** <h4>Formulieren Sie Schritt für Schritt Ihre prägnante Botschaft: Ideal für die Unternehmenskommunikation – ob schriftlich, mündlich, intern oder extern. Mithilfe dieser Checklisten (PDF) erarbeiten Sie Ihre Botschaft, Ihre Argumentation, Ihre Formulierungen und Ihre Überschrift.<br />​<br />Geeignet für die alltägliche Kommunikation im Unternehmen – von E-Mails über Entscheidungsvorlagen bis hin zu Pressemitteilungen. Geeignet für Ihre nächste Rede und sogar für Ihr nächstes Buch.<br />​<br />Holen Sie sich jetzt Thilo Baums Checklisten für Ihren klaren Ausdruck!</h4>
 
 ## 2. Links
 
@@ -65,7 +65,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 10 Checklisten für Ihren klaren Ausdruck? — Typ: Downloads, Anbieter: ThiloBaum, gelistet seit 2018-02-20
-- Wie viel kostet es? — 9.323392 USD
+- Wie viel kostet es? — 9.302592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

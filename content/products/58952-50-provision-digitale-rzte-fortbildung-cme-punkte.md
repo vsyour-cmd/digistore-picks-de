@@ -4,16 +4,16 @@ digistore24_product_id: 726221
 title: "50% Provision: Digitale Ärzte-Fortbildung CME-Punkte"
 vendor: "Evident-Bildung"
 product_type: "Member area and video courses"
-price: 140.31
+price: 140
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 70.16
+earnings_per_sale: 70
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Profession & Job"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://cura-mind.de/bundle?aff=adminstore#aff=adminstore"
 sales_page: "https://cura-mind.de/bundle"
@@ -22,16 +22,16 @@ language: "de"
 # 50% Provision: Digitale Ärzte-Fortbildung CME-Punkte
 
 > Product ID `58952` · Digistore24 productId `726221` · [HTML profile page](../../produkte/50-provision-digitale-rzte-fortbildung-cme-punkte-58952.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.31 (Single payment) |
+| Price | $140.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $70.16 |
+| Earnings/sale* | $70.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Evident-Bildung |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kurzbeschreibung:Zertifizierte Online-CME-Fortbildung für Ärztinnen und Ärzte. Fünf Module zu funktionellen Körperbeschwerden, Fatigue, Insomnie, chronischem Schmerz und Angst — 10 CME-Punkte, zertifiziert durch die Ärztekammer Niedersachsen. 149 € statt 195 €. Beschreibung für Affiliates: CuraMind ist ein CME-Curriculum für somatisch tätige Ärztinnen und Ärzte, entwickelt unter wissenschaftlicher…
+**Vendor's marketplace description:** <p><strong>Kurzbeschreibung:</strong><br />Zertifizierte Online-CME-Fortbildung für Ärztinnen und Ärzte. Fünf Module zu funktionellen Körperbeschwerden, Fatigue, Insomnie, chronischem Schmerz und Angst — 10 CME-Punkte, zertifiziert durch die Ärztekammer Niedersachsen. 149 € statt 195 €.</p>
+<p><strong>Beschreibung für Affiliates:</strong></p>
+<p>CuraMind ist ein CME-Curriculum für somatisch tätige Ärztinnen und Ärzte, entwickelt unter wissenschaftlicher Leitung von Mirja Seidler, Fachärztin für Psychosomatische Medizin und Psychotherapie.</p>
+<p>Das Gesamtpaket umfasst fünf leitlinienbasierte Online-Module mit je 2 CME-Punkten, alle zertifiziert durch die Ärztekammer Niedersachsen. Die Punkte werden über den EIV automatisch an die Landesärztekammer gemeldet, bundesweit. Jedes Modul enthält vertonte Lernvideos, Textarbeit an Originalquellen und ein zweiseitiges Praxis-Handout. Bereitstellung rein digital, sofortiger Zugang, 90 Tage Laufzeit je Modul.</p>
+<p><strong>Zielgruppe:</strong> Approbierte Ärztinnen und Ärzte aller Fachrichtungen mit somatischem Praxisalltag — Allgemeinmedizin, Innere Medizin, Orthopädie, Gynäkologie, Neurologie, Schmerzmedizin. Ebenso Psychotherapeutinnen und Psychotherapeuten. Alle unterliegen der Fortbildungspflicht von 250 Punkten in fünf Jahren.</p>
+<p><strong>Warum das Angebot konvertiert:</strong> Fortbildungspflicht erzeugt konstanten, planbaren Bedarf. Das Thema — anhaltende Körperbeschwerden — betrifft bis zu ein Fünftel der Primärversorgungskontakte, ist aber in der Fortbildungslandschaft unterversorgt, weil es industriell nicht gesponsert wird. CuraMind ist bewusst pharmafrei und produktneutral, was in dieser Zielgruppe als Qualitätsmerkmal gilt.</p>
+<p><strong>Für wen sich die Bewerbung eignet:</strong> Für alle mit Zugang zu ärztlichen Zielgruppen — Fachnewsletter, Praxisnetze, Qualitätszirkel, Berufsverbände, medizinische Fachportale, Praxissoftware-Anbieter, ärztliche Fachcommunities. Nicht geeignet für breite Consumer-Reichweite.</p>
+<p><strong>Werbemittel:</strong> Landingpages, Modulbeschreibungen, Coverbilder und Textbausteine stellen wir bereit. Individuelle Absprachen und höhere Provisionen für Partner mit passgenauer Reichweite sind möglich — melden Sie sich unter <a>info@cura-mind.de</a>.</p>
+<p><strong>Nicht erlaubt:</strong> Aussagen zu Punktzahl, Zertifizierung oder Anerkennung dürfen nicht verändert werden. Keine Bewerbung als „Psychosomatische Grundversorgung". Keine Heilversprechen, kein Spam, keine Marken-Keywords im Bid.</p>
 
 ## 2. Links
 
@@ -82,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: Digitale Ärzte-Fortbildung CME-Punkte? — Typ: Member area and video courses, Anbieter: Evident-Bildung, gelistet seit 2026-09-05
-- Wie viel kostet es? — 140.310326 USD
+- Wie viel kostet es? — 139.997301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

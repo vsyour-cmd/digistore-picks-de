@@ -4,16 +4,16 @@ digistore24_product_id: 698014
 title: "(Online Kurs) Ein Business mit KI Automatisieren"
 vendor: "JinTo_Solutions"
 product_type: "Member area and video courses"
-price: 66.12
+price: 65.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 33.06
+earnings_per_sale: 32.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2026-06-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/698014?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/698014"
@@ -22,16 +22,16 @@ language: "de"
 # (Online Kurs) Ein Business mit KI Automatisieren
 
 > Product ID `57098` · Digistore24 productId `698014` · [HTML profile page](../../produkte/online-kurs-ein-business-mit-ki-automatisieren-57098.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $66.12 (Single payment) |
+| Price | $65.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $33.06 |
+| Earnings/sale* | $32.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JinTo_Solutions |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hey liebe Affiliates.In diesem Kurs bündeln wir unser Wissen aus der Praxis mit unseren B2B-Kunden.Es geht darum, wie man ein Business mit KI automatisieren kann, um wirklich eine Steigerung der Effizienz zu erhalten.Damit ist dieser Kurs zum einen für Unternehmer und Selbstständige passend.Aber durch die Möglichkeit, ein Zertifikat zu erhalten, auch für Privatkunden, die sich beruflich weiterbild…
+**Vendor's marketplace description:** <p>Hey liebe Affiliates.<br /><br />In diesem Kurs bündeln wir unser Wissen aus der Praxis mit unseren B2B-Kunden.<br /><br />Es geht darum, wie man ein Business mit KI automatisieren kann, um wirklich eine Steigerung der Effizienz zu erhalten.<br /><br />Damit ist dieser Kurs zum einen für Unternehmer und Selbstständige passend.<br /><br />Aber durch die Möglichkeit, ein Zertifikat zu erhalten, auch für Privatkunden, die sich beruflich weiterbilden wollen.</p>
 
 ## 2. Links
 
@@ -81,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist (Online Kurs) Ein Business mit KI Automatisieren? — Typ: Member area and video courses, Anbieter: JinTo_Solutions, gelistet seit 2026-06-22
-- Wie viel kostet es? — 66.11540000000001 USD
+- Wie viel kostet es? — 65.9679 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

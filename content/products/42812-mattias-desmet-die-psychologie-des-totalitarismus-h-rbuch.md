@@ -4,16 +4,16 @@ digistore24_product_id: 485059
 title: "Mattias Desmet-Die Psychologie des Totalitarismus-Hörbuch"
 vendor: "isidde"
 product_type: "Audio book (download)"
-price: 25.14
+price: 25.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.57
+earnings_per_sale: 12.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2023-02-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.isid.de/mattias-desmet-die-psychologie-des-totalitarismus-hoerbuch-download?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isid.de/mattias-desmet-die-psychologie-des-totalitarismus-hoerbuch-download"
@@ -22,16 +22,16 @@ language: "de"
 # Mattias Desmet-Die Psychologie des Totalitarismus-Hörbuch
 
 > Product ID `42812` · Digistore24 productId `485059` · [HTML profile page](../../produkte/mattias-desmet-die-psychologie-des-totalitarismus-h-rbuch-42812.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $25.14 (Single payment) |
+| Price | $25.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.57 |
+| Earnings/sale* | $12.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | isidde |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Bestseller aus Belgien: Totalitarismus überwinden und persönliche Freiheit finden Totalitarismus ist kein Zufall und bildet sich nicht in einem Vakuum. Der Ursprung liegt in dem Phänomen der „Massenbildung“, einer Art kollektiver Psychose. Mit detaillierten Analysen, Beispielen und Ergebnissen aus jahrelanger Forschung legt Mattias Desmet die Schritte dar, die zur Massenbildung führen: Aus ein…
+**Vendor's marketplace description:** <h2>Der Bestseller aus Belgien: Totalitarismus überwinden und persönliche Freiheit finden</h2>
+<p>Totalitarismus ist kein Zufall und bildet sich nicht in einem Vakuum.</p>
+<p>Der Ursprung liegt in dem Phänomen der „Massenbildung“, einer Art kollektiver Psychose.</p>
+<p>Mit detaillierten Analysen, Beispielen und Ergebnissen aus jahrelanger Forschung legt Mattias Desmet die Schritte dar, die zur Massenbildung führen: Aus einem allgemeinen Gefühl der Einsamkeit und des Mangels an sozialen Bindungen und Sinnhaftigkeit entstehen Ängste und Unzufriedenheit, die sich wiederum in Frustration und Aggression manifestieren. Diese werden von Regierungsvertretern und Massenmedien mithilfe von bestimmten Narrativen geschickt ausgenutzt und kanalisiert. In der Folge dehnt sich der Einfluss des Staates auf das Privatleben des Individuums immer mehr aus.</p>
+<p>Neben einer glasklaren psychologischen Analyse und aufbauend auf Hannah Arendts grundlegendem Werk Elemente und Ursprünge totaler Herrschaft formuliert der Autor auch eine scharfe Kritik am kulturellen „Gruppendenken“ und der Angstkultur – die bereits vor der Pandemie existierten, mit der COVID-Krise aber exponentiell zugenommen haben –, warnt vor den Gefahren unseres Medienkonsums und unserer Abhängigkeit von manipulativen Technologien. Dabei zeigt er aber auch sowohl individuelle als auch kollektive Lösungsansätze auf, um zu verhindern, dass wir unsere Freiheiten freiwillig opfern.</p>
 
 ## 2. Links
 
@@ -73,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mattias Desmet-Die Psychologie des Totalitarismus-Hörbuch? — Typ: Audio book (download), Anbieter: isidde, gelistet seit 2023-02-18
-- Wie viel kostet es? — 25.135058 USD
+- Wie viel kostet es? — 25.078983 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

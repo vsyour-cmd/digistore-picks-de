@@ -4,16 +4,16 @@ digistore24_product_id: 731023
 title: "Der Fokus-Blueprint"
 vendor: "VeloxForge"
 product_type: "E-books"
-price: 93.21
+price: 93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.61
+earnings_per_sale: 46.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://auranit.de/fokus-blueprint/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/fokus-blueprint/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Fokus-Blueprint
 
 > Product ID `59058` · Digistore24 productId `731023` · [HTML profile page](../../produkte/der-fokus-blueprint-59058.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $93.21 (Single payment) |
+| Price | $93.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.61 |
+| Earnings/sale* | $46.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VeloxForge |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du erhältst sofortigen Zugang zu deinem PDF-Download (ca. 30 Seiten). Der Fokus-Blueprint enthält 6 Kapitel, einen 30-Tage-Plan und eine tägliche Checkliste – für mehr Konzentration, weniger Ablenkung und klarere Struktur im Alltag. ✅ Sofort-Download nach Zahlung✅ PDF – auf allen Geräten lesbar✅ Einmalige Zahlung · Kein Abo
+**Vendor's marketplace description:** <p>Du erhältst sofortigen Zugang zu deinem PDF-Download <br />(ca. 30 Seiten). Der Fokus-Blueprint enthält 6 Kapitel, <br />einen 30-Tage-Plan und eine tägliche Checkliste – <br />für mehr Konzentration, weniger Ablenkung und klarere <br />Struktur im Alltag.</p>
+<p>✅ Sofort-Download nach Zahlung<br />✅ PDF – auf allen Geräten lesbar<br />✅ Einmalige Zahlung · Kein Abo</p>
+<p> </p>
 
 ## 2. Links
 
@@ -88,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Fokus-Blueprint? — Typ: E-books, Anbieter: VeloxForge, gelistet seit 2026-09-09
-- Wie viel kostet es? — 93.21150800000001 USD
+- Wie viel kostet es? — 93.00355800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

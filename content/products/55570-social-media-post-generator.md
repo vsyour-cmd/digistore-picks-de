@@ -4,16 +4,16 @@ digistore24_product_id: 668180
 title: "Social Media Post Generator"
 vendor: "DaveCrypto"
 product_type: "Software"
-price: 9.32
+price: 9.3
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 3.73
+earnings_per_sale: 3.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Marketing Services"]
 listed_since: "2026-02-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/668180?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/668180"
@@ -22,16 +22,16 @@ language: "de"
 # Social Media Post Generator
 
 > Product ID `55570` · Digistore24 productId `668180` · [HTML profile page](../../produkte/social-media-post-generator-55570.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $9.32 (Single payment) |
+| Price | $9.30 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $3.73 |
+| Earnings/sale* | $3.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DaveCrypto |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kennen Sie das Problem?Sie wollen mit Social Media Reichweite aufbauen, aber Ihnen fehlen Ideen, Zeit oder verkaufsstarke Formulierungen? Mit diesem KI-Prompt erstellen Sie in Sekunden professionelle Social-Media-Posts für jede Branche, jede Plattform und jeden Stil. Einfach Branche, Plattform und Stil/Ton eingeben → sofort fertigen Content erhalten → posten → wachsen. Inklusive Hooks, Calls-to-Ac…
+**Vendor's marketplace description:** <p>Kennen Sie das Problem?<br />Sie wollen mit Social Media Reichweite aufbauen, aber Ihnen fehlen Ideen, Zeit oder verkaufsstarke Formulierungen?</p>
+<p>Mit diesem KI-Prompt erstellen Sie in Sekunden professionelle Social-Media-Posts für jede Branche, jede Plattform und jeden Stil.</p>
+<p>Einfach Branche, Plattform und Stil/Ton eingeben → sofort fertigen Content erhalten → posten → wachsen.</p>
+<p>Inklusive Hooks, Calls-to-Action, Hashtags, Reel-Ideen und Postingplan.<br />Kein Grübeln. Kein Planungsstress. Nur Content, der wirklich funktioniert.</p>
+<p>Ideal für Firmen oder selbständige Creator die schneller sichtbar werden wollen.</p>
+<p> </p>
+<p>Wie funktioniert das Tool?</p>
+<p>Dieses Tool ist ein <strong>fertiger KI-Prompt</strong>: Einfach in ChatGPT oder eine andere KI kopieren.<br />Ersetzen Sie die drei Parameter in den eckigen Klammern: <strong>Branche</strong>, <strong>Plattform</strong> und <strong>Tonfall/Stil</strong>.<br />Die KI erstellt daraufhin <strong>30 sofort einsetzbare Social-Media-Posts</strong> inkl. Hooks, CTAs, Hashtags und Postingplan. Genug für ein ganzes Monat!</p>
 
 ## 2. Links
 
@@ -71,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media Post Generator? — Typ: Software, Anbieter: DaveCrypto, gelistet seit 2026-02-11
-- Wie viel kostet es? — 9.323392 USD
+- Wie viel kostet es? — 9.302592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

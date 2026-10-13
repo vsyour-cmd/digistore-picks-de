@@ -4,34 +4,34 @@ digistore24_product_id: 741560
 title: "Website mit Kundenverwaltung für italienischsprachige Betriebe: 2.990 €, ca. 540 € Provision"
 vendor: "massarocalogero19976adc"
 product_type: "Remote service provided electronically"
-price: 3350.59
+price: 3343.12
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 670.12
+earnings_per_sale: 668.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.direzionex.com/offerta/sito-e-gestionale?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60293/adminstore/"
 sales_page: "https://www.direzionex.com/offerta/sito-e-gestionale"
 language: "de"
 ---
 # Website mit Kundenverwaltung für italienischsprachige Betriebe: 2.990 €, ca. 540 € Provision
 
 > Product ID `60293` · Digistore24 productId `741560` · [HTML profile page](../../produkte/website-mit-kundenverwaltung-f-r-italienischsprachige-betriebe-2-990-ca-540-provision-60293.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $3350.59 (Single payment) |
+| Price | $3343.12 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $670.12 |
+| Earnings/sale* | $668.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massarocalogero19976adc |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Website mit bis zu 12 Seiten plus Verwaltung für Anfragen, Kunden, Angebote und Termine. Jede Anfrage über die Website wird automatisch zur Kundenkarte, Bewertungsanfragen gehen automatisch raus.Für wen: Betriebe mit vielen Anfragen, die zwischen Telefon, WhatsApp und Notizzetteln verloren gehen.Deine Provision: 20 % pro Verkauf, ca. 540 € bei 2.990 € netto. Einmalzahlung, kein Abo.Wichtig: Verkau…
+**Vendor's marketplace description:** <p>Website mit bis zu 12 Seiten plus Verwaltung für Anfragen, Kunden, Angebote und Termine. Jede Anfrage über die Website wird automatisch zur Kundenkarte, Bewertungsanfragen gehen automatisch raus.</p><p><strong>Für wen:</strong> Betriebe mit vielen Anfragen, die zwischen Telefon, WhatsApp und Notizzetteln verloren gehen.</p><p><strong>Deine Provision:</strong> 20 % pro Verkauf, ca. 540 € bei 2.990 € netto. Einmalzahlung, kein Abo.</p><p><strong>Wichtig:</strong> Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst.</p><p><strong>So läuft es:</strong> Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.direzionex.com/offerta/sito-e-gestionale?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60293/adminstore/
 - Sales page: https://www.direzionex.com/offerta/sito-e-gestionale
 - Canonical redirect: https://www.digistore24.com/redir/741560/adminstore
 
@@ -85,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Website mit Kundenverwaltung für italienischsprachige Betriebe: 2.990 €, ca. 540 € Provision? — Typ: Remote service provided electronically, Anbieter: massarocalogero19976adc, gelistet seit 2026-10-07
-- Wie viel kostet es? — 3350.594 USD
+- Wie viel kostet es? — 3343.119 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 119917
 title: "„Die Kraft der Ahnen“ - Klärt das Familiensystem"
 vendor: "phoenix999"
 product_type: "Downloads"
-price: 317.51
+price: 316.8
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 97.95
+earnings_per_sale: 97.73
 cart_conversion_pct: 20
 cancel_rate_pct: 1.86
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2017-02-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://andreas-goldemann.mykajabi.com/kraft-der-ahnen-e?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40829/adminstore/"
 sales_page: "https://andreas-goldemann.mykajabi.com/kraft-der-ahnen-e"
 language: "de"
 ---
 # „Die Kraft der Ahnen“ - Klärt das Familiensystem
 
 > Product ID `40829` · Digistore24 productId `119917` · [HTML profile page](../../produkte/die-kraft-der-ahnen-kl-rt-das-familiensystem-40829.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $317.51 (Single payment, Installment) |
+| Price | $316.80 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $97.95 |
+| Earnings/sale* | $97.73 |
 | Cart conversion* | 20% |
 | Cancel rate* | 1.86% |
 | Vendor | phoenix999 |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Immer wieder Streit mit demselben Familienmitglied, das Gefühl ein schweres Erbe zu tragen oder Stress und Disharmonie in der Kernfamilie lassen sich auf verhindernde, emotionale Muster aus Deiner Ahnenreihe zurückführen. Mit seinem Online-Kurs „Die Kraft der Ahnen“ bringt Andreas Goldemann Klarheit in das Familiensystem Deiner Kontakte und verbindet sie wieder mit der Kraft ihrer Vorfahren. Das G…
+**Vendor's marketplace description:** <p>Immer wieder Streit mit demselben Familienmitglied, das Gefühl ein schweres Erbe zu tragen oder Stress und Disharmonie in der Kernfamilie lassen sich auf verhindernde, emotionale Muster aus Deiner Ahnenreihe zurückführen.</p>
+<p>Mit seinem Online-Kurs „Die Kraft der Ahnen“ bringt Andreas Goldemann Klarheit in das Familiensystem Deiner Kontakte und verbindet sie wieder mit der Kraft ihrer Vorfahren.</p>
+<p>Das Ganze geschieht durch Goldemanns einmalige, intuitive Arbeit, bei der Du nur präsent im Körper und offen für Veränderung sein brauchst, damit es wirkt.</p>
+<p>Deine Follower erwarten insgesamt 12 Video-Sessions, die sie dabei unterstützen, Belastungen ihrer Ahnenreihe für sich und ihre Nachkommen aufzulösen und dadurch Harmonie in ihre Familie zu bringen.</p>
+<p>Zusätzlich erhalten sie begleitende Sounds, Aufzeichnungen von Live-Session und einen Bonuskurs, um die Ergebnisse zu stabilisieren.</p>
+<p>Was erwartet Dich?</p>
+<ul>
+<li><strong>33 % Provision:</strong> Beim derzeitigen Verkaufspreis von 187 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer <strong>48,44 € (Netto)</strong> <strong>für Dich</strong> pro Vermittlung!</li>
+<li><strong>20 % Lifetime-Provision für Folgeprodukte</strong>, die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft.</li>
+<li><strong>Optimierter Funnel </strong> mit Freebie, Verknappung und toller Conversion.</li>
+</ul>
+<p>Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen.</p>
+<p><strong>Werde jetzt unser Partner</strong> und empfiehl Deinen Fans unseren Onlinekurs „Die Kraft der Ahnen“, damit auch sie ihr Familiensystem klären.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://andreas-goldemann.mykajabi.com/kraft-der-ahnen-e?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40829/adminstore/
 - Sales page: https://andreas-goldemann.mykajabi.com/kraft-der-ahnen-e
 - Vendor affiliate support: https://andreasgoldemann.com/partnerbereich/#kraft-der-ahnen
 - Canonical redirect: https://www.digistore24.com/redir/119917/adminstore
@@ -100,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Die Kraft der Ahnen“ - Klärt das Familiensystem? — Typ: Downloads, Anbieter: phoenix999, gelistet seit 2017-02-15
-- Wie viel kostet es? — 317.510804 USD
+- Wie viel kostet es? — 316.802454 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

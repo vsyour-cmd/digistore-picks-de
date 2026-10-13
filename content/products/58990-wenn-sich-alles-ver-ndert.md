@@ -4,16 +4,16 @@ digistore24_product_id: 730789
 title: "Wenn sich alles verändert"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 37.7
+price: 37.61
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.85
+earnings_per_sale: 18.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Leadership & Management"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/730789?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/730789"
@@ -22,16 +22,16 @@ language: "de"
 # Wenn sich alles verändert
 
 > Product ID `58990` · Digistore24 productId `730789` · [HTML profile page](../../produkte/wenn-sich-alles-ver-ndert-58990.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $37.70 (Single payment) |
+| Price | $37.61 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.85 |
+| Earnings/sale* | $18.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wenn sich alles verändert – 3 Ratgeber für Wechseljahre, Pflege & Trauer | 50% Provision Bewirb ein Bundle aus drei gefragten Ratgebern für besondere Lebensphasen: "Die zweite Reifephase", "Pflegende Angehörige" und "Was bleibt, wenn jemand geht" – zum Vorteilspreis von 36€ statt 81€. Wechseljahre, Pflege und Trauer betreffen enorm viele Menschen in der Lebensmitte, entsprechend breit lässt sich d…
+**Vendor's marketplace description:** <p>Wenn sich alles verändert – 3 Ratgeber für Wechseljahre, Pflege &amp; Trauer | 50% Provision</p>
+<p> </p>
+<p>Bewirb ein Bundle aus drei gefragten Ratgebern für besondere Lebensphasen: "Die zweite Reifephase", "Pflegende Angehörige" und "Was bleibt, wenn jemand geht" – zum Vorteilspreis von 36€ statt 81€.</p>
+<p> </p>
+<p>Wechseljahre, Pflege und Trauer betreffen enorm viele Menschen in der Lebensmitte, entsprechend breit lässt sich das Bundle bewerben – ob über Social Media, Frauen- und Angehörigen-Communities, E-Mail-Liste oder eigene Website. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm.</p>
+<p> </p>
+<p>Zielgruppe: Frauen in den Wechseljahren, pflegende Angehörige und Menschen, die einen Verlust verarbeiten.</p>
 
 ## 2. Links
 
@@ -79,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wenn sich alles verändert? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-07
-- Wie viel kostet es? — 37.696984 USD
+- Wie viel kostet es? — 37.612884 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

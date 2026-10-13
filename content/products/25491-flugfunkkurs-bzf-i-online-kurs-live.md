@@ -4,7 +4,7 @@ digistore24_product_id: 230707
 title: "Flugfunkkurs BZF I Online-Kurs (Live)"
 vendor: "Fluglehrer"
 product_type: "Online coaching"
-price: 199.27
+price: 198.82
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0.34
@@ -12,24 +12,24 @@ cart_conversion_pct: 21
 cancel_rate_pct: 1.55
 categories: ["Education"]
 listed_since: "2018-06-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-bzf-i-de-en?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/25491/adminstore/"
 sales_page: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-bzf-i-de-en"
 language: "de"
 ---
 # Flugfunkkurs BZF I Online-Kurs (Live)
 
 > Product ID `25491` · Digistore24 productId `230707` · [HTML profile page](../../produkte/flugfunkkurs-bzf-i-online-kurs-live-25491.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $199.27 (Single payment) |
+| Price | $198.82 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.34 |
 | Cart conversion* | 21% |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** BZF 1 (I) Sprechfunkzeugnis (DE+EN) für den Flugfunk - Online-Kurs-Live(DEUTSCH + ENGLISCH) Empfehlen Sie diesen Online-Livekurs! Dieser Online-Livekurs ist die absolute Grundlage für alle, die eine Pilotenlizenz erwerben wollen! Dieser Livekurs bereitet den angehenden Piloten auf die Prüfung bei der Bundesnetzagentur vor und berechtigt zu Sichtflügen (VFR) in DEUTSCH und ENGLISCH.Teilname auch üb…
+**Vendor's marketplace description:** <p><strong>BZF 1 (I) Sprechfunkzeugnis (DE+EN) für den Flugfunk - Online-Kurs-Live<br /><br />(DEUTSCH + ENGLISCH)</strong></p>
+<p><strong>Empfehlen Sie diesen Online-Livekurs!</strong></p>
+<p><br />Dieser Online-Livekurs ist die absolute Grundlage für alle, die eine Pilotenlizenz erwerben wollen!</p>
+<p>Dieser Livekurs bereitet den angehenden Piloten auf die Prüfung bei der Bundesnetzagentur vor und berechtigt zu Sichtflügen (VFR) in <strong>DEUTSCH</strong> und <strong>ENGLISCH.<br /></strong>Teilname auch über <strong>Mobilgeräte</strong> wie <strong>iPad/iPhone</strong> oder allen Mobilgeräten unter <strong>Androide</strong> möglich!<br /><br /><strong>Vorteile:<br /></strong></p>
+<ul>
+<li>Es gibt keine langen Anfahrtswege, zumal die meisten Ausbildungsstätten nicht gerade um die Ecke sind. Lernen Sie bequem von zu Hause, Hotel, Büro oder auch aus dem Urlaub bzw. von Ihrem Lieblingsort (weltweit).</li>
+<li>Zeitlich flexibler Einstieg möglich; ein Kurseinstieg ist somit jederzeit möglich.</li>
+<li>Man lernt den Umgang mit einem Flugplan, der zugleich als Teilnahmeanmeldung für den jeweiligen Ausbildungsabend gilt. Praxisnahe Terminierung verpackt als Flugplan!</li>
+</ul>
+<p><strong>Gültigkeit:</strong> 365 Tage nach Anmeldung<br /><strong>Art der Durchführung:</strong> Live &amp; Echtzeit mit Fluglehrern und Controllern über das Internet</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-bzf-i-de-en?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/25491/adminstore/
 - Sales page: https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-bzf-i-de-en
 - Canonical redirect: https://www.digistore24.com/redir/230707/adminstore
 
@@ -72,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Flugfunkkurs BZF I Online-Kurs (Live)? — Typ: Online coaching, Anbieter: Fluglehrer, gelistet seit 2018-06-27
-- Wie viel kostet es? — 199.265092 USD
+- Wie viel kostet es? — 198.82054200000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

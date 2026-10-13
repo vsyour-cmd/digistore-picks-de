@@ -4,16 +4,16 @@ digistore24_product_id: 347010
 title: "Dein Weg aus der Neurodermitis - für Babys und Kinder"
 vendor: "Vitalfit24"
 product_type: "Webinar"
-price: 121.47
+price: 121.2
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 24.29
+earnings_per_sale: 24.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-09-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://jacqueline-glaetsch-hoffmann.coachy.net/lp/dein-weg-aus-der-neurodermitis/?aff=adminstore#aff=adminstore"
 sales_page: "https://jacqueline-glaetsch-hoffmann.coachy.net/lp/dein-weg-aus-der-neurodermitis/"
@@ -22,16 +22,16 @@ language: "de"
 # Dein Weg aus der Neurodermitis - für Babys und Kinder
 
 > Product ID `34000` · Digistore24 productId `347010` · [HTML profile page](../../produkte/dein-weg-aus-der-neurodermitis-f-r-babys-und-kinder-34000.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $121.47 (Single payment) |
+| Price | $121.20 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $24.29 |
+| Earnings/sale* | $24.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Vitalfit24 |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In diesem Kurs bekommen Eltern eine Schritt für Schritt Anleitung, wie sie ihrem an Neurodermitis erkrankten Kind naturheilkundlich helfen können. Aufgrund der unglaublichen Menge von hautkranken Kindern ist die Zielgruppe entsprechend groß. Neben dem Kurs gibt es auch noch einen kostenfreien Zugang in meine facebook-Gruppe
+**Vendor's marketplace description:** <p>In diesem Kurs bekommen Eltern eine Schritt für Schritt Anleitung, wie sie ihrem an Neurodermitis erkrankten Kind naturheilkundlich helfen können.</p>
+<p>Aufgrund der unglaublichen Menge von hautkranken Kindern ist die Zielgruppe entsprechend groß.</p>
+<p>Neben dem Kurs gibt es auch noch einen kostenfreien Zugang in meine facebook-Gruppe</p>
 
 ## 2. Links
 
@@ -93,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dein Weg aus der Neurodermitis - für Babys und Kinder? — Typ: Webinar, Anbieter: Vitalfit24, gelistet seit 2020-09-07
-- Wie viel kostet es? — 121.47304000000001 USD
+- Wie viel kostet es? — 121.20204000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 561506
 title: "Mein Tier hat Krebs -was jetzt?"
 vendor: "PetraSchwarz"
 product_type: "Member area and video courses"
-price: 40.96
+price: 40.87
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.19
+earnings_per_sale: 8.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Education","Health & Fitness"]
 listed_since: "2024-07-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://akademie.tierheilpraxis-ps.de/ng/lp/KrebsbeimTier?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.tierheilpraxis-ps.de/ng/lp/KrebsbeimTier"
@@ -22,16 +22,16 @@ language: "de"
 # Mein Tier hat Krebs -was jetzt?
 
 > Product ID `50780` · Digistore24 productId `561506` · [HTML profile page](../../produkte/mein-tier-hat-krebs-was-jetzt-50780.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $40.96 (Single payment) |
+| Price | $40.87 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.19 |
+| Earnings/sale* | $8.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PetraSchwarz |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Krebs - eine Diagnose die keiner hören möchte. Von einer Sekunde auf die andere hat man das Gefühl die Welt geht unter! Aber ist das wirklich so? Gibt es wirklich nur leben oder sterben oder gibt es dazwischen noch jede Menge Facetten und Hoffnung? In dem Webinar beschäftigen wir uns mit den verschiedenen Krebsarten bei Hund und Katze und der Prognose die sie mit sich bringen. Nicht immer ist alle…
+**Vendor's marketplace description:** <p>Krebs - eine Diagnose die keiner hören möchte. Von einer Sekunde auf die andere hat man das Gefühl die Welt geht unter! </p>
+<p>Aber ist das wirklich so? Gibt es wirklich nur leben oder sterben oder gibt es dazwischen noch jede Menge Facetten und Hoffnung?</p>
+<p>In dem Webinar beschäftigen wir uns mit den verschiedenen Krebsarten bei Hund und Katze und der Prognose die sie mit sich bringen. Nicht immer ist alles so schlimm wie man im ersten Moment befürchtet.</p>
+<p>Ich zeige Dir, wie sich dieses schwierige Thema aus naturheilkundlicher Sicht darstellt und natürlich besprechen wir auch, welche Möglichkeiten es gibt um den "Weltuntergang" hinauszuzögern oder sogar zu verhindern. Die Naturheilkunde und auch die Ernährung haben hier einiges an Möglichkeiten parat um deinem Tier noch eine tolle Zeit zu geben. </p>
+<p>Das Webinar fand am <strong>18.09.24</strong> über Zoom statt. Du kannst hier die Aufzeichnung buchen.</p>
 
 ## 2. Links
 
@@ -61,7 +65,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mein Tier hat Krebs -was jetzt?? — Typ: Member area and video courses, Anbieter: PetraSchwarz, gelistet seit 2024-07-17
-- Wie viel kostet es? — 40.95793 USD
+- Wie viel kostet es? — 40.866555 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

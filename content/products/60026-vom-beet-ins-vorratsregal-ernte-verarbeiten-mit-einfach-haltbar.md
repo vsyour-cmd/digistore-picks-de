@@ -4,16 +4,16 @@ digistore24_product_id: 738285
 title: "Vom Beet ins Vorratsregal – Ernte verarbeiten mit Einfach Haltbar"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 74.4
+price: 74.23
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 29.76
+earnings_per_sale: 29.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Home & Garden"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.einfachhaltbar.de/vom-beet-ins-vorratsregal/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.einfachhaltbar.de/vom-beet-ins-vorratsregal/"
@@ -22,16 +22,16 @@ language: "de"
 # Vom Beet ins Vorratsregal – Ernte verarbeiten mit Einfach Haltbar
 
 > Product ID `60026` · Digistore24 productId `738285` · [HTML profile page](../../produkte/vom-beet-ins-vorratsregal-ernte-verarbeiten-mit-einfach-haltbar-60026.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $74.40 (Single payment) |
+| Price | $74.23 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $29.76 |
+| Earnings/sale* | $29.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vom Beet ins Vorratsregal ist der deutschsprachige Selbstlernkurs von Einfach Haltbar für Einsteiger mit Garten, Hochbeet oder saisonalem Wochenmarkteinkauf. Enthalten sind 10 kurze Erklärvideos mit insgesamt rund 20 Minuten Laufzeit, ein 27-seitiges Kursbuch mit fünf vollständigen Praxisprojekten und ein achtseitiges ausfüllbares Arbeitsheft. Die Videos zeigen gestaltete Lernfolien mit synthetisc…
+**Vendor's marketplace description:** <p>Vom Beet ins Vorratsregal ist der deutschsprachige Selbstlernkurs von Einfach Haltbar für Einsteiger mit Garten, Hochbeet oder saisonalem Wochenmarkteinkauf.</p>
+<p>Enthalten sind 10 kurze Erklärvideos mit insgesamt rund 20 Minuten Laufzeit, ein 27-seitiges Kursbuch mit fünf vollständigen Praxisprojekten und ein achtseitiges ausfüllbares Arbeitsheft. Die Videos zeigen gestaltete Lernfolien mit synthetischer Sprecherstimme und Untertiteln; keine gefilmten Kochvorführungen.</p>
+<p>Praxisprojekte: Tomaten einfrieren, Zucchini blanchieren und einfrieren, Kühlschrankgurken einlegen, Apfelmark nach der beschriebenen Rezept- und Glaskombination einkochen sowie Thymian trocknen. Dazu Methodenwahl, Ernteplanung, Vorratsliste und Sieben-Tage-Plan. Die vollständigen Projektkarten gehören zur praktischen Umsetzung.</p>
+<p>Digitales ZIP-Paket mit MP4-Videos, PDFs, Untertiteln und lokaler Kursübersicht. 79 € inklusive deutscher MwSt., einmalig, kein Abo. Keine persönliche Betreuung und keine Live-Termine.</p>
+<p>Für Affiliates: 40 % Provision und automatische Annahme von Partnerschaften. Das direkte Partnerpaket enthält 42 Textvorlagen und Hilfen, 20 Grafiklayouts als SVG und PNG, Newsletter, Pinterest-Texte, Social- und Story-Vorlagen, Blogartikel, Reels-Skripte, Linkgenerator und ZIP-Download. Geeignet für thematisch passende Garten-, Ernte- und Vorratskanäle. Keine Erfolgs- oder Gesundheitsversprechen.</p>
 
 ## 2. Links
 
@@ -91,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom Beet ins Vorratsregal – Ernte verarbeiten mit Einfach Haltbar? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-29
-- Wie viel kostet es? — 74.396634 USD
+- Wie viel kostet es? — 74.230659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

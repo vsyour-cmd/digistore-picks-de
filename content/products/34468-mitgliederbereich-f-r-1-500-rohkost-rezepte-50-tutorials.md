@@ -4,16 +4,16 @@ digistore24_product_id: 152767
 title: "Mitgliederbereich für 1.500+ Rohkost Rezepte, 50+ Tutorials"
 vendor: "createrawvision"
 product_type: "Downloads"
-price: 27.22
+price: 27.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.62
+earnings_per_sale: 13.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-07-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "http://createrawvision.de/meine-40-roh-veganen-lieblingsgerichte-mit-genussgarantie/?aff=adminstore#aff=adminstore"
 sales_page: "http://createrawvision.de/meine-40-roh-veganen-lieblingsgerichte-mit-genussgarantie/"
@@ -22,16 +22,16 @@ language: "de"
 # Mitgliederbereich für 1.500+ Rohkost Rezepte, 50+ Tutorials
 
 > Product ID `34468` · Digistore24 productId `152767` · [HTML profile page](../../produkte/mitgliederbereich-f-r-1-500-rohkost-rezepte-50-tutorials-34468.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.22 (Single payment) |
+| Price | $27.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.62 |
+| Earnings/sale* | $13.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | createrawvision |
@@ -41,7 +41,34 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hier bei CreateRawVision zeige ich dir, wie du köstliche und unvergleichliche Rohkost Rezepte zubereitest, die andere in Erstaunen versetzen können. Bereits seit 2013 zeige ich Interessierten wie köstliche und natürliche Rohkost Rezepte zubereitet werden. Bewusstes, vitalstoffreiches und köstliches Essen muss nicht schwer zuzubereiten sein und ich zeige dir wie! Für nur 19 Euro im Monat bekommst d…
+**Vendor's marketplace description:** <p>Hier bei CreateRawVision zeige ich dir, wie du köstliche und unvergleichliche Rohkost Rezepte zubereitest, die andere in Erstaunen versetzen können.</p>
+<p>Bereits seit 2013 zeige ich Interessierten wie köstliche und natürliche Rohkost Rezepte zubereitet werden. Bewusstes, vitalstoffreiches und köstliches Essen muss nicht schwer zuzubereiten sein und ich zeige dir wie!</p>
+<p>Für nur 19 Euro im Monat bekommst du uneingeschränkten Zugang zu über 1.500 Rohkost-Rezepten und vielen Tutorials. </p>
+<h2>Warum solltest du Rohkost in Deine Ernährung Einbauen?</h2>
+<ul>
+<li>Weil du es verdient hast, dich fit und energiegeladen zu fühlen!</li>
+<li>Weil du es verdient hast, frische, naturbelassene Lebensmittel zu dir zu nehmen!</li>
+<li>Weil du es verdient hast, bewusst und achtsam mit deinem Körper umzugehen!</li>
+<li>Weil du es verdient hast, Lebensfreude und Leichtigkeit in deinen Alltag zu bringen!</li>
+</ul>
+<div>
+<h2>Das bekommst du für nur 19 EUR im Monat</h2>
+<ul>
+<li>1.500+ vegane Rohkost Rezepte</li>
+<li>50+ Tipps, Tutorials und Schritt-für-Schritt-Anleitungen</li>
+<li>Einsteigerkurs "Rohkost Leicht Gemacht" mit 60+ Lektionen</li>
+<li>Mitgliederbereich mit einfacher Bedienung und kurzen Ladezeiten</li>
+<li>Neue Rohkost Rezepte, Tipps und Schritt-für-Schritt-Anleitungen werden ergänzend hochgeladen</li>
+<li>Aktive Mitgestaltung durch Wunschrezepte</li>
+<li>Erstellen von eigenen Rezeptsammlungen</li>
+<li>Pflege, Aktualisierung und Verbesserung des Mitgliederbereiches, der Inhalte und Rezepte</li>
+<li>Rückfrage-Möglichkeiten zu den Rohkost Rezepten – mit zeitnahen Antworten</li>
+<li>Gut sortierte Rezepte in verschiedenen Kategorien</li>
+<li>Rohkost-Zubereitungstechniken</li>
+<li>Druckbare Rezepte im PDF-Format</li>
+<li>Empfehlungen für von mir gut recherchierte und erprobte Produkte</li>
+</ul>
+</div>
 
 ## 2. Links
 
@@ -58,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mitgliederbereich für 1.500+ Rohkost Rezepte, 50+ Tutorials? — Typ: Downloads, Anbieter: createrawvision, gelistet seit 2017-07-24
-- Wie viel kostet es? — 27.219374 USD
+- Wie viel kostet es? — 27.158649 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

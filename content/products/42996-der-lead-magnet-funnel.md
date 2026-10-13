@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2023-03-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.ilias-marketing.de/der-lead-magnet-funnel/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ilias-marketing.de/der-lead-magnet-funnel/"
@@ -22,7 +22,7 @@ language: "de"
 # Der Lead Magnet Funnel
 
 > Product ID `42996` · Digistore24 productId `488388` · [HTML profile page](../../produkte/der-lead-magnet-funnel-42996.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Potenzielle Kunden: Jeder der einen Leadmagneten erstellen möchte Jeder der mit E-Mail Marketing starten möchte Jeder der Hilfe benötigt, wie man seine E-Mail Liste aufbaut Deine Vorteile als Affiliate auf einen Blick: Durch Order Bump auf der Bestellseite, direkt mehr Provisionen bekommen Die Verkaufsseite wird stetig Conversion optimiert Ideales Produkt für "jeden" der mit E-Mail Marketing start…
+**Vendor's marketplace description:** <p><strong>Potenzielle Kunden:</strong></p>
+<p> </p>
+<ul>
+<li>Jeder der einen Leadmagneten erstellen möchte</li>
+<li>Jeder der mit E-Mail Marketing starten möchte</li>
+<li>Jeder der Hilfe benötigt, wie man seine E-Mail Liste aufbaut</li>
+</ul>
+<p> </p>
+<p> </p>
+<p><strong>Deine Vorteile als Affiliate auf einen Blick:</strong></p>
+<ul>
+<li><strong>Durch Order Bump auf der Bestellseite, direkt mehr Provisionen bekommen</strong></li>
+<li><strong>Die Verkaufsseite wird stetig Conversion optimiert Ideales Produkt</strong></li>
+<li><strong>für "jeden" der mit E-Mail Marketing starten möchte</strong></li>
+<li><strong>Die Verkaufsseite ist speziel mobil optimiert, um beste Ergebnisse zu erzielen</strong></li>
+<li><strong>Du erhältst 50% Provision auf das Hauptprodukt, sowie auf Order Bumps und Upsells </strong></li>
+</ul>
 
 ## 2. Links
 

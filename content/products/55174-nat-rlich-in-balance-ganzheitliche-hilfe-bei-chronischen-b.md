@@ -4,16 +4,16 @@ digistore24_product_id: 638932
 title: "Natürlich in Balance – Ganzheitliche Hilfe bei chronischen B"
 vendor: "DrImhofNaturLifeBalance"
 product_type: "Member area and video courses"
-price: 185.52
+price: 185.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 92.76
+earnings_per_sale: 92.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/638932?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/638932"
@@ -22,16 +22,16 @@ language: "de"
 # Natürlich in Balance – Ganzheitliche Hilfe bei chronischen B
 
 > Product ID `55174` · Digistore24 productId `638932` · [HTML profile page](../../produkte/nat-rlich-in-balance-ganzheitliche-hilfe-bei-chronischen-b-55174.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $185.52 (Single payment) |
+| Price | $185.10 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $92.76 |
+| Earnings/sale* | $92.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrImhofNaturLifeBalance |
@@ -41,7 +41,85 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kurzbeschreibung für Affiliates „Natürlich in Balance“ ist ein ärztlich fundierter Onlinekurs für Menschen mit chronischen Beschwerden, die sich mehr Klarheit, Struktur und Selbstwirksamkeit wünschen – ohne Heilversprechen, aber mit einem ganzheitlichen Verständnis von Gesundheit. Der Kurs richtet sich besonders an Betroffene, die sich durch widersprüchliche Informationen, lange Krankheitsverläufe…
+**Vendor's marketplace description:** <p><strong>Kurzbeschreibung für Affiliates</strong></p>
+<p>„Natürlich in Balance“ ist ein ärztlich fundierter Onlinekurs für Menschen mit chronischen Beschwerden, die sich mehr Klarheit, Struktur und Selbstwirksamkeit wünschen – ohne Heilversprechen, aber mit einem ganzheitlichen Verständnis von Gesundheit.</p>
+<p>Der Kurs richtet sich besonders an Betroffene, die sich durch widersprüchliche Informationen, lange Krankheitsverläufe oder fehlende Orientierung überfordert fühlen.</p>
+<p><strong>Inhalte des Kurses</strong></p>
+<p>Der Kurs vermittelt unter anderem:</p>
+<ul>
+<li>
+<p>ein ganzheitliches Verständnis von Körper, Geist und Alltag</p>
+</li>
+<li>
+<p>strukturierte Video-Lektionen mit klarer Schritt-für-Schritt-Erklärung</p>
+</li>
+<li>
+<p>Checklisten und Arbeitsblätter zur direkten Umsetzung</p>
+</li>
+<li>
+<p>kleine, alltagstaugliche Routinen für mehr Halt und Struktur</p>
+</li>
+<li>
+<p>mehr Klarheit, Selbstvertrauen und Lebensqualität trotz chronischer Beschwerden</p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Wichtiger Hinweis</strong></p>
+<p>Dieser Kurs ersetzt keine ärztliche oder therapeutische Behandlung.<br />Er dient der Wissensvermittlung, Einordnung und Unterstützung im Alltag.<br />Es werden keine Heilversprechen gegeben.</p>
+<p> </p>
+<p><strong>Für wen eignet sich das Affiliate-Programm?</strong></p>
+<p>Besonders geeignet für:</p>
+<ul>
+<li>
+<p>Betreiber von Facebook-Gruppen oder Online-Communities</p>
+</li>
+<li>
+<p>Selbsthilfe-Communities &amp; gesundheitsbezogene Plattformen</p>
+</li>
+<li>
+<p>Menschen, die Betroffene begleiten, ohne medizinische Aussagen zu treffen</p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Affiliate-Konditionen</strong></p>
+<ul>
+<li>
+<p>50 % Affiliate-Provision</p>
+</li>
+<li>
+<p>Digitale Leistung</p>
+</li>
+<li>
+<p>Transparente Abwicklung über Digistore24</p>
+</li>
+<li>
+<p>Keine Mindestumsätze</p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Was Affiliates bitte beachten</strong></p>
+<p>Nicht erlaubt sind:</p>
+<ul>
+<li>
+<p>Heil- oder Erfolgsaussagen</p>
+</li>
+<li>
+<p>Aussagen wie „heilt“, „garantiert“, „ersetzt Arzt/Therapie“</p>
+</li>
+</ul>
+<p>Erlaubt sind:</p>
+<ul>
+<li>
+<p>sachliche Empfehlungen</p>
+</li>
+<li>
+<p>persönliche Eindrücke</p>
+</li>
+<li>
+<p>Hinweise auf Wissen, Struktur und Orientierung</p>
+</li>
+</ul>
+<p> </p>
 
 ## 2. Links
 
@@ -93,7 +171,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Natürlich in Balance – Ganzheitliche Hilfe bei chronischen B? — Typ: Member area and video courses, Anbieter: DrImhofNaturLifeBalance, gelistet seit 2025-09-30
-- Wie viel kostet es? — 185.51533 USD
+- Wie viel kostet es? — 185.10145500000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

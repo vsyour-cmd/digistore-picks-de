@@ -4,16 +4,16 @@ digistore24_product_id: 435775
 title: "AccessyourAura- dein Zugang zu dir"
 vendor: "MargitLohninger"
 product_type: "Book (printed)"
-price: 16.24
+price: 16.2
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 2.6
+earnings_per_sale: 2.59
 cart_conversion_pct: 32
 cancel_rate_pct: 3.4
 categories: ["Personal Development"]
 listed_since: "2022-03-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://buch.accessyouraura.com/aya-buch?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.accessyouraura.com/aya-buch"
@@ -22,16 +22,16 @@ language: "de"
 # AccessyourAura- dein Zugang zu dir
 
 > Product ID `40488` · Digistore24 productId `435775` · [HTML profile page](../../produkte/accessyouraura-dein-zugang-zu-dir-40488.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $16.24 (Single payment) |
+| Price | $16.20 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $2.60 |
+| Earnings/sale* | $2.59 |
 | Cart conversion* | 32% |
 | Cancel rate* | 3.4% |
 | Vendor | MargitLohninger |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erfahre, wie du dich über erste Tools und Übungen aus alten Blockaden befreien und deinen Fokus neu ausrichten kannst. Erfahre mehr über meine Methode AccessyourAura- geistiges Heilen, wie du es erlernen und für dich, deine Familie und Tiere nutzen kannst. ​Triff für dich eine großartige Wahl … Was wäre, wenn alle Versuche, etwas in der Vergangenheit aufzulösen, deine Probleme noch größer werden l…
+**Vendor's marketplace description:** <p>Erfahre, wie du dich über erste Tools und Übungen aus alten <strong>Blockaden</strong> befreien und deinen <strong>Fokus</strong> neu ausrichten kannst.</p>
+<p> </p>
+<p>Erfahre mehr über meine <strong>Methode AccessyourAura- geistiges Heilen</strong>, wie du es erlernen und für dich, deine Familie und Tiere nutzen kannst.</p>
+<p> </p>
+<p>​Triff für dich eine großartige Wahl … Was wäre, wenn alle Versuche, etwas in der Vergangenheit aufzulösen, deine Probleme noch größer werden lassen und es nur den Blick darauf braucht - Wie du es gerne hättest? </p>
 
 ## 2. Links
 
@@ -67,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AccessyourAura- dein Zugang zu dir? — Typ: Book (printed), Anbieter: MargitLohninger, gelistet seit 2022-03-24
-- Wie viel kostet es? — 16.237494 USD
+- Wie viel kostet es? — 16.201269 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

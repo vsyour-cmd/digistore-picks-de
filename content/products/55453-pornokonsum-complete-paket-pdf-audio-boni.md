@@ -4,34 +4,34 @@ digistore24_product_id: 666027
 title: "Pornokonsum_Complete_Paket_PDF_Audio_Boni"
 vendor: "manuelcosta"
 product_type: "Downloads"
-price: 16.7
+price: 16.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.35
+earnings_per_sale: 8.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-02-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://spectacular-ebook-audiobook.netlify.app/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55453/adminstore/"
 sales_page: "https://spectacular-ebook-audiobook.netlify.app/"
 language: "de"
 ---
 # Pornokonsum_Complete_Paket_PDF_Audio_Boni
 
 > Product ID `55453` · Digistore24 productId `666027` · [HTML profile page](../../produkte/pornokonsum-complete-paket-pdf-audio-boni-55453.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.70 (Single payment) |
+| Price | $16.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.35 |
+| Earnings/sale* | $8.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -41,11 +41,49 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verdienen Sie als Affiliate mit einem gefragten Audio-Ebook Werden Sie Partner für „Pornokonsum kontrollieren“ – dem sachlichen Leitfaden für mehr mentale Klarheit und soziales Selbstbewusstsein. Perfekt für den deutschen Markt. 50% Provision pro Verkauf € Produktpreis: €14,90 Hohe Abschlussrate Jetzt als Affiliate anmelden Werbematerialien ansehen Pornokonsum kontrollieren – Audio-Ebook Cover Das…
+**Vendor's marketplace description:** <p>Verdienen Sie als Affiliate mit einem gefragten Audio-Ebook</p>
+<p>Werden Sie Partner für „Pornokonsum kontrollieren“ – dem sachlichen Leitfaden für mehr mentale Klarheit und soziales Selbstbewusstsein. Perfekt für den deutschen Markt.</p>
+<p> </p>
+<p>50% Provision pro Verkauf</p>
+<p>€</p>
+<p>Produktpreis: €14,90</p>
+<p>Hohe Abschlussrate</p>
+<p>Jetzt als Affiliate anmelden</p>
+<p>Werbematerialien ansehen</p>
+<p>Pornokonsum kontrollieren – Audio-Ebook Cover</p>
+<p>Das Produkt im Detail</p>
+<p>Wissenschaftlich fundiert</p>
+<p>Basierend auf Erkenntnissen der Verhaltenspsychologie und Neurowissenschaft</p>
+<p> </p>
+<p>E-Book + Hörbuch enthalten</p>
+<p>Beide Formate für maximale Flexibilität – lesen oder hören</p>
+<p> </p>
+<p>6 praxisnahe Kapitel</p>
+<p>Mit konkreten Übungen und umsetzbaren Strategien</p>
+<p> </p>
+<p>Deutsche Zielgruppe</p>
+<p>Perfekt auf den deutschsprachigen Markt zugeschnitten</p>
+<p> </p>
+<p>Affiliate-Vorteile</p>
+<p>€7,45</p>
+<p>Das verdienen Sie pro Verkauf (50% von €14,90)</p>
+<p> </p>
+<p>Einmalige Zahlung, Zugriff über das Kundenkonto</p>
+<p>Sofortiger Download nach Kauf</p>
+<p>60-Tage Geld-zurück-Garantie</p>
+<p>Affiliate-Konto erstellen</p>
+<p>Werbematerialien für Affiliates</p>
+<p>Fertige Werbetexte</p>
+<p>3 verschiedene Texte zum direkten Kopieren und Einfügen:</p>
+<p> </p>
+<p>Option 1: Fokus auf Kontrolle &amp; Klarheit</p>
+<p> </p>
+<p>Viele Menschen kämpfen still mit ihrem Pornokonsum und dem Gefühl, die Kontrolle zu verlieren. Dieses Audio-Ebook zeigt einen bewussten, sachlichen Weg zurück zu mehr Fokus und mentaler Klarheit – ohne Moralpredigten.</p>
+<p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://spectacular-ebook-audiobook.netlify.app/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55453/adminstore/
 - Sales page: https://spectacular-ebook-audiobook.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/666027/adminstore
 
@@ -61,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Pornokonsum_Complete_Paket_PDF_Audio_Boni? — Typ: Downloads, Anbieter: manuelcosta, gelistet seit 2026-02-02
-- Wie viel kostet es? — 16.69694 USD
+- Wie viel kostet es? — 16.65969 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

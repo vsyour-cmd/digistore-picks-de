@@ -4,7 +4,7 @@ digistore24_product_id: 725771
 title: "Schlafverbesserung mit natürlichen Mitteln"
 vendor: "autorpetermeurerausdemahrtal"
 product_type: "E-books"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.04
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/725771?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58707/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/725771"
 language: "de"
 ---
 # Schlafverbesserung mit natürlichen Mitteln
 
 > Product ID `58707` · Digistore24 productId `725771` · [HTML profile page](../../produkte/schlafverbesserung-mit-nat-rlichen-mitteln-58707.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.04 |
 | Cart conversion* | — |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Schlafverbesserung mit natürlichen Mitteln – Dein Weg zu erholsamem Schlaf und neuer Lebenskraft
+**Vendor's marketplace description:** <p><strong>Schlafverbesserung mit natürlichen Mitteln – Dein Weg zu erholsamem Schlaf und neuer Lebenskraft</strong></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/725771?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58707/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/725771
 - Canonical redirect: https://www.digistore24.com/redir/725771/adminstore
 
@@ -71,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlafverbesserung mit natürlichen Mitteln? — Typ: E-books, Anbieter: autorpetermeurerausdemahrtal, gelistet seit 2026-08-27
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 645643
 title: "Parkinson RESET dein Weg zu Stabilität, Energie, Freude"
 vendor: "Erfolg2026"
 product_type: "E-books"
-price: 46.99
+price: 46.88
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 9.4
+earnings_per_sale: 9.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-11-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/645643?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/645643"
@@ -22,16 +22,16 @@ language: "de"
 # Parkinson RESET dein Weg zu Stabilität, Energie, Freude
 
 > Product ID `55180` · Digistore24 productId `645643` · [HTML profile page](../../produkte/parkinson-reset-dein-weg-zu-stabilit-t-energie-freude-55180.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $46.99 (Single payment) |
+| Price | $46.88 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erfolg2026 |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Parkinson Reset Kurs – Dein Weg zu Stabilität, Energie & Lebensfreude Der Parkinson Reset ist kein trockenes Fachprogramm, sondern ein emotionaler, alltagstauglicher Reset-Weg: Schritt für Schritt zu mehr Struktur, Aktivierung und neuer Zuversicht. Du bekommst praxisnahe Übungen für mehr Stabilität und Beweglichkeit, mentale Reset-Impulse für Fokus und Mut sowie verständliche Bausteine rund um Ern…
+**Vendor's marketplace description:** <h2>Parkinson Reset Kurs – Dein Weg zu Stabilität, Energie &amp; Lebensfreude</h2>
+<p>Der Parkinson Reset ist kein trockenes Fachprogramm, sondern ein emotionaler, alltagstauglicher Reset-Weg: Schritt für Schritt zu mehr Struktur, Aktivierung und neuer Zuversicht. Du bekommst praxisnahe Übungen für mehr Stabilität und Beweglichkeit, mentale Reset-Impulse für Fokus und Mut sowie verständliche Bausteine rund um Ernährung, Darmgesundheit und Alltag. Ohne leere Versprechen – dafür mit einem klaren System, das viele als unterstützend erleben. Für Menschen mit Parkinson (und Angehörige), die sagen: „Ich beginne neu – jeden Tag ein kleiner Schritt.“</p>
 
 ## 2. Links
 
@@ -73,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Parkinson RESET dein Weg zu Stabilität, Energie, Freude? — Typ: E-books, Anbieter: Erfolg2026, gelistet seit 2025-11-01
-- Wie viel kostet es? — 46.986758 USD
+- Wie viel kostet es? — 46.881933000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

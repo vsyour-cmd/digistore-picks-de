@@ -4,34 +4,34 @@ digistore24_product_id: 548679
 title: "Schlank ohne Diät: Abnehmkurs mit Krankenkassen-Erstattung"
 vendor: "fitnessdoc"
 product_type: "Member area and video courses"
-price: 127.64
+price: 127.35
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 29.12
+earnings_per_sale: 29.06
 cart_conversion_pct: 9
 cancel_rate_pct: 7.69
 categories: ["Health & Fitness"]
 listed_since: "2024-04-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://fitnessdoc.net/sod/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48193/adminstore/"
 sales_page: "https://fitnessdoc.net/sod/"
 language: "de"
 ---
 # Schlank ohne Diät: Abnehmkurs mit Krankenkassen-Erstattung
 
 > Product ID `48193` · Digistore24 productId `548679` · [HTML profile page](../../produkte/schlank-ohne-di-t-abnehmkurs-mit-krankenkassen-erstattung-48193.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $127.64 (Single payment) |
+| Price | $127.35 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $29.12 |
+| Earnings/sale* | $29.06 |
 | Cart conversion* | 9% |
 | Cancel rate* | 7.69% |
 | Vendor | fitnessdoc |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Partizipiere jetzt mit der Bewerbung des Erfolgsprogramms "Schlank ohne Diät" von Dr. med. Schmitz-Urban! "Schlank ohne Diät" ist ein 8-wöchiges Online-Programm, das es den Teilnehmern ermöglicht, auf gesunde Art nachhaltig ihr Wohlfühlgewicht zu erreichen. Dies alles ohne Hunger, Quälerei oder Jojo-Effekt. Das Programm ist vom Arzt und Ernährungsexperten Ingo Schmitz-Urban entwickelt worden: In d…
+**Vendor's marketplace description:** <p>Partizipiere jetzt mit der Bewerbung des Erfolgsprogramms "Schlank ohne Diät" von Dr. med. Schmitz-Urban!</p>
+<p> </p>
+<p>"Schlank ohne Diät" ist ein 8-wöchiges Online-Programm, das es den Teilnehmern ermöglicht, auf gesunde Art nachhaltig ihr Wohlfühlgewicht zu erreichen.</p>
+<p> </p>
+<p>Dies alles ohne Hunger, Quälerei oder Jojo-Effekt.</p>
+<p> </p>
+<p>Das Programm ist vom Arzt und Ernährungsexperten Ingo Schmitz-Urban entwickelt worden: In diesem Konzept hat er die wirksamsten Prinzipien und Strategien als Destillat seiner jahrelangen Arbeit mit Patienten und Klienten zusammen gebracht.</p>
+<p> </p>
+<p>Und das Beste: Das Programm ist bei den gesetzlichen Krankenkassen zertifiziert, sodass die Teilnehmer nach Kursabschluss den Großteil oder sogar die kompletten Teilnahmegebühren zurück erstattet bekommen!</p>
+<p> </p>
+<p>Jetzt registrieren!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fitnessdoc.net/sod/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48193/adminstore/
 - Sales page: https://fitnessdoc.net/sod/
 - Vendor affiliate support: https://fitnessdoc.net/affiliate-support-page-sod/
 - Canonical redirect: https://www.digistore24.com/redir/548679/adminstore
@@ -93,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlank ohne Diät: Abnehmkurs mit Krankenkassen-Erstattung? — Typ: Member area and video courses, Anbieter: fitnessdoc, gelistet seit 2024-04-18
-- Wie viel kostet es? — 127.63634 USD
+- Wie viel kostet es? — 127.35159000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

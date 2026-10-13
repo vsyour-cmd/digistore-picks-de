@@ -4,16 +4,16 @@ digistore24_product_id: 382617
 title: "Crashkurs Steuern für Selbstständige - frei von Amtsdeutsch!"
 vendor: "Steuernaberlustig"
 product_type: "Member area and video courses"
-price: 63.09
+price: 62.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.54
+earnings_per_sale: 31.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-04-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://kleingewerbe-anmelden.org/steuerspar-crashkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://kleingewerbe-anmelden.org/steuerspar-crashkurs/"
@@ -22,16 +22,16 @@ language: "de"
 # Crashkurs Steuern für Selbstständige - frei von Amtsdeutsch!
 
 > Product ID `36680` · Digistore24 productId `382617` · [HTML profile page](../../produkte/crashkurs-steuern-f-r-selbstst-ndige-frei-von-amtsdeutsch-36680.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $63.09 (Single payment) |
+| Price | $62.95 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.54 |
+| Earnings/sale* | $31.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Steuernaberlustig |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In nur 2,5 Stunden das Steuer 1 x 1 für Selbstständige lernen! Frei von Juristendeutsch! 96% aller Selbstständigen verschenken regelmäßig gutes Geld an das Finanzamt! Wissenslücken, Desinteresse, Zeitmangel, unverständliches Juristendeutsch oder gar Angst vor dem Thema Steuern sind nur einige Gründe, warum Unternehmer von Jahr zu Jahr tausende Euros verbrennen! In dem einzigartigen Crashkurs lerne…
+**Vendor's marketplace description:** <h2><span style="color:#008000;background-color:#ccffcc;"><strong> In nur 2,5 Stunden das Steuer 1 x 1 für Selbstständige lernen! Frei von Juristendeutsch! </strong></span></h2>
+<p><span style="background-color:#ffff00;"><strong><span style="color:#ff0000;">96% aller Selbstständigen verschenken regelmäßig gutes Geld an das Finanzamt!</span></strong> </span></p>
+<p>Wissenslücken, Desinteresse, Zeitmangel, unverständliches Juristendeutsch oder gar Angst vor dem Thema Steuern sind nur einige Gründe, warum Unternehmer von Jahr zu Jahr tausende Euros verbrennen!</p>
+<p>In dem <strong>einzigartigen Crashkurs</strong> lernen Selbstständige – auch ohne Vorkenntnisse - alles, was Sie brauchen, damit keiner ihrer hart verdienten Euros mehr aus Versehen an das Finanzamt wandert.<span style="background-color:#ccffcc;"><em><strong> </strong></em><strong>Statt grauer Theorie und Juristendeutsch wird das erforderliche Wissen gut verständlich und praxisnah präsentiert – Steuern sparen inklusive.</strong></span></p>
+<p> </p>
+<p><strong>Bewirb das Seminar und helfe <span style="color:#000000;">Deinen</span> Kontakten, Steuern zu sparen. <span style="background-color:#ccffcc;color:#000000;">Das Beste: Du bekommst 60% Provision!</span></strong><span style="background-color:#ccffcc;color:#000000;"> </span></p>
 
 ## 2. Links
 
@@ -97,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Crashkurs Steuern für Selbstständige - frei von Amtsdeutsch!? — Typ: Member area and video courses, Anbieter: Steuernaberlustig, gelistet seit 2021-04-05
-- Wie viel kostet es? — 63.08978 USD
+- Wie viel kostet es? — 62.94903 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

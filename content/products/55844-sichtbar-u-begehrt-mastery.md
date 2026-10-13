@@ -4,16 +4,16 @@ digistore24_product_id: 672438
 title: "Sichtbar u. Begehrt Mastery"
 vendor: "JessicaJanzen"
 product_type: "Member area and video courses"
-price: 55.56
+price: 55.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.78
+earnings_per_sale: 27.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-02-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/672438?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/672438"
@@ -22,16 +22,16 @@ language: "de"
 # Sichtbar u. Begehrt Mastery
 
 > Product ID `55844` · Digistore24 productId `672438` · [HTML profile page](../../produkte/sichtbar-u-begehrt-mastery-55844.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $55.56 (Single payment) |
+| Price | $55.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.78 |
+| Earnings/sale* | $27.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JessicaJanzen |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Was wäre, wenn du nicht nur aus deiner kleinen Zielgruppe maximale Sales rausholst, sondern sie systematisch vergrößerst? Conversion + Reichweite = Verkaufsmaschine Mit dem TikTok Code lernst du: ✔️ Wie du jedes Video (gesprochen, geschrieben oder faceless) nach meinem Verkaufsaufbau strukturierst und aus 200–300 Views vier- bis fünfstellige Views machst✔️ Wie du TikTok als gezielte Zuflussmaschin…
+**Vendor's marketplace description:** <p>Was wäre, wenn du nicht nur aus deiner kleinen Zielgruppe maximale Sales rausholst, sondern sie systematisch vergrößerst?</p>
+<p>Conversion + Reichweite = <strong>Verkaufsmaschine</strong></p>
+<p>Mit dem TikTok Code lernst du:</p>
+<p>✔️ Wie du jedes Video (gesprochen, geschrieben oder faceless) nach meinem Verkaufsaufbau strukturierst und aus 200–300 Views <strong>vier- bis fünfstellige Views</strong> machst<br />✔️ Wie du TikTok als gezielte Zuflussmaschine für dein Angebot nutzt<br />✔️ Wie du mit deiner Reichweite echte Traumkunden erreichst<br />✔️ Welche Fehler deine Reichweite einschränken</p>
+<p><strong>Enthalten:</strong><br />✔️ 120 Min. Video-Training<br />✔️ Q&amp;A + Profilanalysen<br />✔️ Klare Frameworks zur direkten Umsetzung</p>
+<p>Sofortiger Zugriff im Mitgliederbereich.</p>
 
 ## 2. Links
 
@@ -84,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sichtbar u. Begehrt Mastery? — Typ: Member area and video courses, Anbieter: JessicaJanzen, gelistet seit 2026-02-24
-- Wie viel kostet es? — 55.559348 USD
+- Wie viel kostet es? — 55.435398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

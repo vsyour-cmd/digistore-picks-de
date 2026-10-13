@@ -4,16 +4,16 @@ digistore24_product_id: 356059
 title: "Einfach gelegt mit dem Tarot von Waite und Smith"
 vendor: "ArminDenner"
 product_type: "E-books"
-price: 9.42
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 3.36
+earnings_per_sale: 3.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2020-11-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "http://bewusstseinscoach.com/ebooks?aff=adminstore#aff=adminstore"
 sales_page: "http://bewusstseinscoach.com/ebooks"
@@ -22,16 +22,16 @@ language: "de"
 # Einfach gelegt mit dem Tarot von Waite und Smith
 
 > Product ID `34694` · Digistore24 productId `356059` · [HTML profile page](../../produkte/einfach-gelegt-mit-dem-tarot-von-waite-und-smith-34694.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.42 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $3.36 |
+| Earnings/sale* | $3.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ArminDenner |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Tarot ist ein westlicher Einweihungsweg, der von der Kabbala abstammt. Weil jede Einweihung immer erst dann zur Wirkung kommen kann, wenn man sie im Alltagserleben anwendet, bewegen sich dieKartendeutungen dieses Buches auf drei Ebenen: Spirituell, psychologisch und vor allem auf praktische Handlungen ausgerichtet. So werden die Tarotkarten ein neutraler und zugleich ganzheitlicher Ratgeber fü…
+**Vendor's marketplace description:** <p>Der Tarot ist ein westlicher Einweihungsweg, der von der Kabbala abstammt. Weil jede Einweihung immer erst dann zur Wirkung kommen kann, wenn man sie im Alltagserleben anwendet, bewegen sich dieKartendeutungen dieses Buches auf drei Ebenen: Spirituell, psychologisch und vor allem auf praktische Handlungen ausgerichtet. So werden die Tarotkarten ein neutraler und zugleich ganzheitlicher Ratgeber für jede Art von Entscheidungen.</p>
+<p>Armin Denner befasst sich seit 1986 mit Tarot und Kabbala. Seine langjährige Beratungsarbeit zeigte ihm, dass seriös und bodenständig angewandter Tarot die Balance zwischen Seele und Körper anstrebt. Die Essenz der umfassenden Erfahrung des Autors findet in diesem Buch ihren Niederschlag: Der Tarot als Coach zu innerem und äußerem Wohl-Stand. Aus der Praxis für die Praxis!</p>
 
 ## 2. Links
 
@@ -75,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einfach gelegt mit dem Tarot von Waite und Smith? — Typ: E-books, Anbieter: ArminDenner, gelistet seit 2020-11-06
-- Wie viel kostet es? — 9.424246 USD
+- Wie viel kostet es? — 9.403221 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

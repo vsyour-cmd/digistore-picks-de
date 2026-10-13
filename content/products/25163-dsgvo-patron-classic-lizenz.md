@@ -4,34 +4,34 @@ digistore24_product_id: 217835
 title: "DSGVO Patron Classic Lizenz"
 vendor: "hinmed"
 product_type: "Downloads"
-price: 47.09
+price: 46.98
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 7.06
+earnings_per_sale: 7.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2018-04-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://wpliftup.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/25163/adminstore/"
 sales_page: "https://wpliftup.de/"
 language: "de"
 ---
 # DSGVO Patron Classic Lizenz
 
 > Product ID `25163` · Digistore24 productId `217835` · [HTML profile page](../../produkte/dsgvo-patron-classic-lizenz-25163.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $47.09 (Subscription) |
+| Price | $46.98 (Subscription) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $7.06 |
+| Earnings/sale* | $7.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hinmed |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Patron - WordPress Plugin Mit diesem WordPress Plugin werden externe Ressourcen auf dem eigenen Webspace zwischengespeichert, regelmäßig im Hintergrund aktualisiert und von dem eigenen Webspace in die WordPress Seite eingebunden. Folgende Inhalte werden in in der aktuellen Version zwischengespeichert und/oder deaktiviert: Einige interne & externe CSS-Dateien, z.B. Google Fonts ✓ jQuery ✓ Gravar-Us…
+**Vendor's marketplace description:** <h1>Patron - WordPress Plugin</h1>
+<p>Mit diesem WordPress Plugin werden externe Ressourcen auf dem eigenen Webspace zwischengespeichert, regelmäßig im Hintergrund aktualisiert und von dem eigenen Webspace in die WordPress Seite eingebunden.</p>
+<p><strong>Folgende Inhalte werden in in der aktuellen Version zwischengespeichert und/oder deaktiviert:</strong></p>
+<ul><li>Einige interne &amp; externe CSS-Dateien, z.B. Google Fonts ✓</li>
+<li>jQuery ✓</li>
+<li>Gravar-User Bilder ✓</li>
+<li>DNS Prefetch wird entfernt ✓</li>
+<li>Emoji Datenbank deaktiviert ✓</li>
+<li>IP-Adresse bei Kommentaren gekürzt ✓</li>
+<li>YouTube-Videos ✓</li>
+</ul><p>Die IP-Adresse gehört aktuell zu den personenbezogenen Daten.</p>
+<p>Mehr zum Plugin unter: <a>https://wpliftup.de/</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wpliftup.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/25163/adminstore/
 - Sales page: https://wpliftup.de/
 - Vendor affiliate support: https://wpliftup.de/partner/
 - Canonical redirect: https://www.digistore24.com/redir/217835/adminstore
@@ -85,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DSGVO Patron Classic Lizenz? — Typ: Downloads, Anbieter: hinmed, gelistet seit 2018-04-27
-- Wie viel kostet es? — 47.08761200000001 USD
+- Wie viel kostet es? — 46.98256200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

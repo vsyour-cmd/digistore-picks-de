@@ -4,16 +4,16 @@ digistore24_product_id: 679567
 title: "Cash Cockpit | Excel-Finanzplan und Video-Kurse"
 vendor: "NilsWarnecke"
 product_type: "Software"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.26
+earnings_per_sale: 4.25
 cart_conversion_pct: 8
 cancel_rate_pct: 4.1
 categories: ["Education","Profession & Job","Software"]
 listed_since: "2026-03-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://cashcockpit.de/warum-ein-finanzplan-heute-unverzichtbar-ist/?aff=adminstore#aff=adminstore"
 sales_page: "https://cashcockpit.de/warum-ein-finanzplan-heute-unverzichtbar-ist/"
@@ -22,16 +22,16 @@ language: "de"
 # Cash Cockpit | Excel-Finanzplan und Video-Kurse
 
 > Product ID `56042` · Digistore24 productId `679567` · [HTML profile page](../../produkte/cash-cockpit-excel-finanzplan-und-video-kurse-56042.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $27.31 (Single payment, Installment) |
+| Price | $27.25 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.26 |
+| Earnings/sale* | $4.25 |
 | Cart conversion* | 8% |
 | Cancel rate* | 4.1% |
 | Vendor | NilsWarnecke |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb jetzt den Cash Cockpit | Finanzplan und Video-Kurse als Affiliate und profitiere von einem qualitativ hochwertigen Angebot und hohen Conversion Rates! Deine Vorteile: 55% Provision für jeden einzelnen Verkauf (gilt für jedes verkaufte Produkt) Schnelle Verkäufe durch hoch konvertierende Seiten Alle Marketing-Materialien bereits fix und fertig vorbereitet – erstellt mit wenigen Klicks Vielfa…
+**Vendor's marketplace description:** <p>Bewirb jetzt den <strong>Cash Cockpit | Finanzplan </strong>und Video-Kurse als Affiliate und profitiere von einem qualitativ hochwertigen Angebot und hohen Conversion Rates!</p>
+<p><strong><br />Deine Vorteile:</strong> </p>
+<ul>
+<li>55% Provision für jeden einzelnen Verkauf (gilt für jedes verkaufte Produkt)</li>
+<li>Schnelle Verkäufe durch hoch konvertierende Seiten</li>
+<li>Alle Marketing-Materialien bereits fix und fertig vorbereitet – erstellt mit wenigen Klicks</li>
+<li>Vielfach getestetes und optimiertes Marketing</li>
+</ul>
+<p><br />Melde dich jetzt zum Partnerprogramm an und generiere sofort die ersten Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!</p>
 
 ## 2. Links
 
@@ -85,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Cash Cockpit | Excel-Finanzplan und Video-Kurse? — Typ: Software, Anbieter: NilsWarnecke, gelistet seit 2026-03-26
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

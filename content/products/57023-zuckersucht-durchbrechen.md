@@ -4,34 +4,34 @@ digistore24_product_id: 702254
 title: "Zuckersucht durchbrechen"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-06-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ratgeberplatz.de/ratgeber/zuckersucht-durchbrechen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57023/adminstore/"
 sales_page: "https://ratgeberplatz.de/ratgeber/zuckersucht-durchbrechen"
 language: "de"
 ---
 # Zuckersucht durchbrechen
 
 > Product ID `57023` · Digistore24 productId `702254` · [HTML profile page](../../produkte/zuckersucht-durchbrechen-57023.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „Zuckersucht durchbrechen" Ständig Lust auf Süßes? Dieses 30-Tage-Clean-Eating-Programm hilft dir mit klaren Schritten, versteckten Zucker zu erkennen, vollwertig zu essen und neue Routinen aufzubauen – ohne Hungern und ohne Verbote-Stress. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Sucht…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Zuckersucht durchbrechen"</strong></p>
+<p>Ständig Lust auf Süßes? Dieses 30-Tage-Clean-Eating-Programm hilft dir mit klaren Schritten, versteckten Zucker zu erkennen, vollwertig zu essen und neue Routinen aufzubauen – ohne Hungern und ohne Verbote-Stress.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
+<li>Gefragtes Thema mit großer Zielgruppe: Sucht &amp; Entzug / Selbsthilfe</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Versteckten Zucker auf Etiketten erkennen</li>
+<li>Nach dem Clean-Eating-Prinzip vollwertig essen</li>
+<li>Sanft starten – ohne Hungern, ohne Verbote-Stress</li>
+<li>Mit einfachen Rezepten neue Routinen aufbauen</li>
+<li>Nach 30 Tagen zuckerbewusst bleiben</li>
+</ul>
+<p><strong>Für deine Zielgruppe:</strong> Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- &amp; Persönlichkeitsentwicklungs-Zielgruppe</p>
+<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/zuckersucht-durchbrechen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57023/adminstore/
 - Sales page: https://ratgeberplatz.de/ratgeber/zuckersucht-durchbrechen
 - Vendor affiliate support: https://ratgeberplatz.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/702254/adminstore
@@ -86,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zuckersucht durchbrechen? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-17
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

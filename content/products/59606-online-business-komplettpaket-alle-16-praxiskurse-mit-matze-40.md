@@ -4,16 +4,16 @@ digistore24_product_id: 736582
 title: "Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 %"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 940.74
+price: 938.64
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 376.3
+earnings_per_sale: 375.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736582?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736582"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 %
 
 > Product ID `59606` · Digistore24 productId `736582` · [HTML profile page](../../produkte/online-business-komplettpaket-alle-16-praxiskurse-mit-matze-40-59606.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $940.74 (Single payment) |
+| Price | $938.64 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $376.30 |
+| Earnings/sale* | $375.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Schluss mit dem Rätselraten: alle 16 Matze-Praxiskurse in einem Paket. Für Menschen, die ein Online-Business aufbauen und passende Wege für digitale Produkte, Content, Affiliate-Marketing oder Handel kennenlernen möchten. Deine Zielgruppe erhält eine umfassende schriftliche Kursbibliothek und wählt einen konkreten Schwerpunkt für die Umsetzung. Sieben Werkstatt-Kurse: Canva, Etsy, Pinterest, Socia…
+**Vendor's marketplace description:** <h2>Schluss mit dem Rätselraten: alle 16 Matze-Praxiskurse in einem Paket.</h2>
+<p>Für Menschen, die ein Online-Business aufbauen und passende Wege für digitale Produkte, Content, Affiliate-Marketing oder Handel kennenlernen möchten. Deine Zielgruppe erhält eine umfassende schriftliche Kursbibliothek und wählt einen konkreten Schwerpunkt für die Umsetzung.</p>
+<ul>
+<li>Sieben Werkstatt-Kurse: Canva, Etsy, Pinterest, Social Media, E-Mail, UGC und KI-Kundenservice – inklusive der sieben Zusatzpakete.</li>
+<li>Sieben weitere Kurse: Faceless-Videos, Amazon KDP, Affiliate-Website, Landingpage, Amazon PartnerNet, TikTok Shop Affiliate und Amazon FBA.</li>
+<li>Affiliate Marketing für Anfänger und der Digistore24-Praxiskurs.</li>
+<li>Zehn Download-Dateien mit Lektionen, Arbeitsmappen und Vorlagen.</li>
+<li>999 € einmalig, kein Abo. 40 % Affiliate-Provision gemäß Digistore24-Abrechnung.</li>
+</ul>
+<h3>Produktspezifische Werbemittel für deine Kampagne</h3>
+<p>Matze-Szenencover, Social-Media-Texte, Pinterest-Text, E-Mail-Vorlage und Partnerlink-Generator stehen auf der verlinkten Affiliate-Support-Seite bereit.</p>
+<p>Schriftliche Selbstlernkurse ohne Videolektionen oder persönliche Betreuung. Externe Konten, Freigaben und Kosten sind nicht enthalten. Einnahmen und Verkäufe werden nicht garantiert.</p>
+<p>Affiliate-Support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 
@@ -80,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 %? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 940.7437 USD
+- Wie viel kostet es? — 938.6449500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

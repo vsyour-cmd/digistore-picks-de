@@ -4,34 +4,34 @@ digistore24_product_id: 90385
 title: "Tinnitus Coach - das wirksame Selbsthilfeprogramm"
 vendor: "Institut_MH"
 product_type: "Downloads"
-price: 342.61
+price: 341.85
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 207.45
+earnings_per_sale: 206.98
 cart_conversion_pct: 9
 cancel_rate_pct: 7.61
 categories: ["Health & Fitness"]
 listed_since: "2016-08-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "http://www.tinnitus-coach.eu?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/13271/adminstore/"
 sales_page: "http://www.tinnitus-coach.eu"
 language: "de"
 ---
 # Tinnitus Coach - das wirksame Selbsthilfeprogramm
 
 > Product ID `13271` · Digistore24 productId `90385` · [HTML profile page](../../produkte/tinnitus-coach-das-wirksame-selbsthilfeprogramm-13271.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $342.61 (Single payment, Installment) |
+| Price | $341.85 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $207.45 |
+| Earnings/sale* | $206.98 |
 | Cart conversion* | 9% |
 | Cancel rate* | 7.61% |
 | Vendor | Institut_MH |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit dem Online Kurs Tinnitus meistern Betroffene ihren Tinnitus. Auch Begleiterscheinungen wie Schlafstörungen, Ängste, depressive Verstimmungen, etc. verbessern sich. Die Methode wurde wissenschaftlich untersucht. Mehr als 80% der Teilnehmer lernten die Belastung durch den Tinnitus mit den Übungen des Kurses zu senken. Im Preis für den Online Videokurs sind enthalten: Mehr als 25 auf Achtsamkeit …
+**Vendor's marketplace description:** <p>Mit dem Online Kurs Tinnitus meistern Betroffene ihren Tinnitus. Auch Begleiterscheinungen wie Schlafstörungen, Ängste, depressive Verstimmungen, etc. verbessern sich. Die Methode wurde wissenschaftlich untersucht. Mehr als 80% der Teilnehmer lernten die Belastung durch den Tinnitus mit den Übungen des Kurses zu senken.</p>
+<p>Im Preis für den Online Videokurs sind enthalten:</p>
+<div>
+<ul>
+<li>Mehr als 25 auf Achtsamkeit fokussierte Übungen angeleitet von Tinnitus-Expertin Maria Holl</li>
+<li>Begleitendem Lehrbuch</li>
+</ul>
+<p>Die Betroffenen üben im Schnitt 20 Minuten pro Tag. Es sind leichte und einfache Übungen, die daheim oder auch während der Arbeitszeit oder unterwegs durchgeführt werden können.</p>
+<p>Der Kurs läuft über sechs Monate. Nach jeweils zwei Wochen wird ein weiteres Video frei geschaltet. Die Teilnehmer werden per Mail an die Übungen erinnert. Das begleitende Lehrbuch unterstützt sie dabei, die Übungen in den Alltag zu integrieren.</p>
+<p>Entwickelt wurde der Kurs von der international bekannten Tinnitus Expertin Maria Holl, deren Bücher inzwischen in fünf Sprachen übersetzt wurden. Von ihr gibt es im Digistore auch eine Edition mit CDs.</p>
+</div>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.tinnitus-coach.eu?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/13271/adminstore/
 - Sales page: http://www.tinnitus-coach.eu
 - Canonical redirect: https://www.digistore24.com/redir/90385/adminstore
 
@@ -66,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tinnitus Coach - das wirksame Selbsthilfeprogramm? — Typ: Downloads, Anbieter: Institut_MH, gelistet seit 2016-08-06
-- Wie viel kostet es? — 342.61224400000003 USD
+- Wie viel kostet es? — 341.84789400000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

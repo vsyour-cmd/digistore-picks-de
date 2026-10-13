@@ -4,16 +4,16 @@ digistore24_product_id: 647324
 title: "Schlaf - die Essenz - Online Kongress ab 7.12. bis 16.12."
 vendor: "pulsingearth"
 product_type: "Member area and video courses"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 6.5
+earnings_per_sale: 6.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2025-11-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://pulsing-earth.com/schlaf-online-kongress/?aff=adminstore#aff=adminstore"
 sales_page: "https://pulsing-earth.com/schlaf-online-kongress/"
@@ -22,16 +22,16 @@ language: "de"
 # Schlaf - die Essenz - Online Kongress ab 7.12. bis 16.12.
 
 > Product ID `54778` · Digistore24 productId `647324` · [HTML profile page](../../produkte/schlaf-die-essenz-online-kongress-ab-7-12-bis-16-12-54778.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.97 (Single payment) |
+| Price | $64.83 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $6.50 |
+| Earnings/sale* | $6.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pulsingearth |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Online Kongress zum Thema Schlaf https://pulsing-earth.com/schlaf-online-kongress/ Affiliate-Provision verhandelbar.
+**Vendor's marketplace description:** <p>Online Kongress zum Thema Schlaf</p>
+<p><a href="https://pulsing-earth.com/schlaf-online-kongress/">https://pulsing-earth.com/schlaf-online-kongress/</a></p>
+<p>Affiliate-Provision verhandelbar.</p>
 
 ## 2. Links
 
@@ -85,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlaf - die Essenz - Online Kongress ab 7.12. bis 16.12.? — Typ: Member area and video courses, Anbieter: pulsingearth, gelistet seit 2025-11-10
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

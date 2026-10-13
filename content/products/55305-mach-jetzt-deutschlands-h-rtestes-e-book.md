@@ -4,34 +4,34 @@ digistore24_product_id: 663769
 title: "Mach. Jetzt. - Deutschlands härtestes E-Book"
 vendor: "gbuiss"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 8.29
+earnings_per_sale: 8.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-01-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/663769?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55305/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/663769"
 language: "de"
 ---
 # Mach. Jetzt. - Deutschlands härtestes E-Book
 
 > Product ID `55305` · Digistore24 productId `663769` · [HTML profile page](../../produkte/mach-jetzt-deutschlands-h-rtestes-e-book-55305.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $8.29 |
+| Earnings/sale* | $8.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gbuiss |
@@ -41,11 +41,45 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du hast kein Motivationsproblem. Du hast ein Ausredenproblem. Dieses E-Book ist nicht für dich, wenn du auf Motivation wartest. Es ist für dich, wenn du weißt, dass du Sport machen solltest, es aber immer wieder verschiebst. Kein Gelaber. Keine Nettigkeit. Keine Ausreden mehr. ⚠️ DAS PROBLEM Du hast alles, was du brauchst. Zeit. Wissen. Möglichkeiten. Und trotzdem bleibst du stehen. Nicht, weil du…
+**Vendor's marketplace description:** <p>Du hast kein Motivationsproblem.</p>
+<p>Du hast ein Ausredenproblem.</p>
+<p> </p>
+<p>Dieses E-Book ist nicht für dich,</p>
+<p>wenn du auf Motivation wartest.</p>
+<p> </p>
+<p>Es ist für dich, wenn du weißt, dass du Sport machen solltest, es aber immer wieder verschiebst.</p>
+<p> </p>
+<p>Kein Gelaber.</p>
+<p>Keine Nettigkeit.</p>
+<p>Keine Ausreden mehr.</p>
+<p> </p>
+<p>⚠️ DAS PROBLEM</p>
+<p>Du hast alles, was du brauchst.</p>
+<p>Zeit. Wissen. Möglichkeiten.</p>
+<p> </p>
+<p>Und trotzdem bleibst du stehen.</p>
+<p> </p>
+<p>Nicht, weil du es nicht kannst.</p>
+<p>Sondern weil du dir jeden Tag erklärst,</p>
+<p>warum heute nicht der richtige Moment ist.</p>
+<p> </p>
+<p>✅ DIE LÖSUNG</p>
+<p>Dieses E-Book gibt dir:</p>
+<ul>
+<li>klare mentale Regeln</li>
+<li>einen harten, einfachen Rahmen</li>
+<li>Entscheidungen statt Motivation</li>
+</ul>
+<p> </p>
+<p>Kein Trainingsplan.</p>
+<p>Kein Coaching-Blabla.</p>
+<p>Nur das, was funktioniert.</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/663769?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55305/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/663769
 - Canonical redirect: https://www.digistore24.com/redir/663769/adminstore
 
@@ -74,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mach. Jetzt. - Deutschlands härtestes E-Book? — Typ: E-books, Anbieter: gbuiss, gelistet seit 2026-01-23
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

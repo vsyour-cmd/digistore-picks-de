@@ -4,16 +4,16 @@ digistore24_product_id: 700673
 title: "Magnetische Frau"
 vendor: "cleitonpaulino"
 product_type: "E-books"
-price: 38.75
+price: 38.66
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 23.25
+earnings_per_sale: 23.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://elevenmarketingdigital.com/magnetische-frau/?aff=adminstore#aff=adminstore"
 sales_page: "https://elevenmarketingdigital.com/magnetische-frau/"
@@ -22,16 +22,16 @@ language: "de"
 # Magnetische Frau
 
 > Product ID `57334` · Digistore24 productId `700673` · [HTML profile page](../../produkte/magnetische-frau-57334.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.75 (Single payment) |
+| Price | $38.66 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $23.25 |
+| Earnings/sale* | $23.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cleitonpaulino |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Magnetische Frau ist ein digitales Ebook für Frauen, die ihren Selbstwert stärken, moderne Weiblichkeit bewusster leben und emotionale Klarheit entwickeln möchten. Es hilft dabei, eigene Muster zu erkennen, gesündere Grenzen zu setzen, selbstbewusster zu kommunizieren und Beziehungen mit mehr Respekt, Ruhe und Gegenseitigkeit aufzubauen.
+**Vendor's marketplace description:** <p><strong>Magnetische Frau</strong> ist ein digitales Ebook für Frauen, die ihren Selbstwert stärken, moderne Weiblichkeit bewusster leben und emotionale Klarheit entwickeln möchten. Es hilft dabei, eigene Muster zu erkennen, gesündere Grenzen zu setzen, selbstbewusster zu kommunizieren und Beziehungen mit mehr Respekt, Ruhe und Gegenseitigkeit aufzubauen.</p>
 
 ## 2. Links
 
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Magnetische Frau? — Typ: E-books, Anbieter: cleitonpaulino, gelistet seit 2026-07-01
-- Wie viel kostet es? — 38.750348 USD
+- Wie viel kostet es? — 38.663898 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

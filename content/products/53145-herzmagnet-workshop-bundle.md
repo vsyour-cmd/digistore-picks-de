@@ -4,16 +4,16 @@ digistore24_product_id: 419785
 title: "Herzmagnet Workshop Bundle"
 vendor: "MariaBraunsdorf"
 product_type: "Downloads"
-price: 51.79
+price: 51.68
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 23.31
+earnings_per_sale: 23.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2021-12-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/419785?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/419785"
@@ -22,16 +22,16 @@ language: "de"
 # Herzmagnet Workshop Bundle
 
 > Product ID `53145` · Digistore24 productId `419785` · [HTML profile page](../../produkte/herzmagnet-workshop-bundle-53145.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $51.79 (Single payment) |
+| Price | $51.68 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $23.31 |
+| Earnings/sale* | $23.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MariaBraunsdorf |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ❤️ Herzmagnet Workshop Bundle Für feinfühlige Frauen, die ihre mediale Kraft entfalten und sich selbst wieder spüren wollen. Ein tief transformierendes Workshop-Bundle für alle, die sich nach innerer Klarheit, Selbstannahme und seelischer Anbindung sehnen.Dieses Produkt richtet sich vor allem an spirituell interessierte Frauen (ca. 30–50 Jahre), die bereit sind, sich wieder mit ihrem wahren Wesens…
+**Vendor's marketplace description:** <h2>❤️ Herzmagnet Workshop Bundle</h2>
+<p><strong>Für feinfühlige Frauen, die ihre mediale Kraft entfalten und sich selbst wieder spüren wollen.</strong></p>
+<blockquote>
+<p><strong>Ein tief transformierendes Workshop-Bundle für alle, die sich nach innerer Klarheit, Selbstannahme und seelischer Anbindung sehnen.</strong><br />Dieses Produkt richtet sich vor allem an spirituell interessierte Frauen (ca. 30–50 Jahre), die bereit sind, sich wieder mit ihrem wahren Wesenskern zu verbinden – jenseits von Leistungsdruck oder Selbstoptimierung.</p>
+</blockquote>
+<p><strong>Ideal für Coaches, Mentorinnen und spirituelle Influencerinnen mit weiblich-intuitiver Community.</strong></p>
+<hr />
+<h3> </h3>
 
 ## 2. Links
 
@@ -79,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Herzmagnet Workshop Bundle? — Typ: Downloads, Anbieter: MariaBraunsdorf, gelistet seit 2021-12-08
-- Wie viel kostet es? — 51.794132 USD
+- Wie viel kostet es? — 51.678582000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

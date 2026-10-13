@@ -4,34 +4,34 @@ digistore24_product_id: 13185
 title: "Innere Kraft in stürmischen Zeiten"
 vendor: "changenow"
 product_type: "Member area and video courses"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 95
-earnings_per_sale: 86.77
+earnings_per_sale: 86.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2013-06-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://event.webinarjam.com/register/18/y8y5nb1?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47071/adminstore/"
 sales_page: "https://event.webinarjam.com/register/18/y8y5nb1"
 language: "de"
 ---
 # Innere Kraft in stürmischen Zeiten
 
 > Product ID `47071` · Digistore24 productId `13185` · [HTML profile page](../../produkte/innere-kraft-in-st-rmischen-zeiten-47071.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 95% |
-| Earnings/sale* | $86.77 |
+| Earnings/sale* | $86.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | changenow |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Low Ticket Offer mit sehr guter Conversion 95% Provision auf den Verkauf! Plus 50% für alle weiteren UpsellsInhalt: Webinar mit geführter Meditation für mehr Kraft in stürmischen Zeiten Angebot: 3 Tiefen-Meditationen zum Download Im Webinar mit Mega Rabatt: Statt für € 97,- für € 33,- Technik: Evergreen Webinar + Follow-up via Email mit Deadline Zielgruppe: Alle aus dem Bereich Persönlichkeitsentw…
+**Vendor's marketplace description:** <div class="message-content" style="max-width:600px;font-size:18px;font-family:Georgia;">
+<p><em>Low Ticket Offer mit sehr guter Conversion</em></p>
+<p><strong>95% Provision auf den Verkauf!</strong> Plus 50% für alle weiteren Upsells<br /><br /><strong>Inhalt:</strong> Webinar mit geführter Meditation für mehr Kraft in stürmischen Zeiten</p>
+<p> </p>
+<p><strong>Angebot:</strong> 3 Tiefen-Meditationen zum Download</p>
+<p> </p>
+<p><strong>Im Webinar mit Mega Rabatt: Statt für € 97,- für € 33,-</strong></p>
+<p> </p>
+<p><strong>Technik: </strong>Evergreen Webinar + Follow-up via Email mit Deadline</p>
+<p><br /><br /><strong>Zielgruppe:</strong> Alle aus dem Bereich Persönlichkeitsentwicklung, auch Unternehmer, Angestellte und alle, denen es im Moment manchmal etwas viel ist</p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://event.webinarjam.com/register/18/y8y5nb1?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47071/adminstore/
 - Sales page: https://event.webinarjam.com/register/18/y8y5nb1
 - Vendor affiliate support: https://pixa.me/partner
 - Canonical redirect: https://www.digistore24.com/redir/13185/adminstore
@@ -81,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innere Kraft in stürmischen Zeiten? — Typ: Member area and video courses, Anbieter: changenow, gelistet seit 2013-06-21
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

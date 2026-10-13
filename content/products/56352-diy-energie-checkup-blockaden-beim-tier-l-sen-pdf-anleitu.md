@@ -4,16 +4,16 @@ digistore24_product_id: 686756
 title: "DIY Energie-CheckUP – Blockaden beim Tier lösen (PDF-Anleitu"
 vendor: "Pia-Seelenwege"
 product_type: "Downloads"
-price: 18.74
+price: 18.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.37
+earnings_per_sale: 9.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/686756?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/686756"
@@ -22,16 +22,16 @@ language: "de"
 # DIY Energie-CheckUP – Blockaden beim Tier lösen (PDF-Anleitu
 
 > Product ID `56352` · Digistore24 productId `686756` · [HTML profile page](../../produkte/diy-energie-checkup-blockaden-beim-tier-l-sen-pdf-anleitu-56352.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.74 (Single payment) |
+| Price | $18.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.37 |
+| Earnings/sale* | $9.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Pia-Seelenwege |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der perfekte "Impulskauf" für jeden Tierbesitzer!
+**Vendor's marketplace description:** <p><strong>Der perfekte "Impulskauf" für jeden Tierbesitzer!</strong></p>
 
 ## 2. Links
 
@@ -82,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DIY Energie-CheckUP – Blockaden beim Tier lösen (PDF-Anleitu? — Typ: Downloads, Anbieter: Pia-Seelenwege, gelistet seit 2026-04-22
-- Wie viel kostet es? — 18.736432 USD
+- Wie viel kostet es? — 18.694632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

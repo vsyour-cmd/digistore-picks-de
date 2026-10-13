@@ -4,34 +4,34 @@ digistore24_product_id: 735851
 title: "Vom Zuschauer zum Spielfeldrand | Praxis-Guide"
 vendor: "dkzmedia2025"
 product_type: "E-books"
-price: 31.41
+price: 31.34
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.42
+earnings_per_sale: 9.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film","Sport"]
 listed_since: "2026-09-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.dkzmedia.com/ebook?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59793/adminstore/"
 sales_page: "https://www.dkzmedia.com/ebook"
 language: "de"
 ---
 # Vom Zuschauer zum Spielfeldrand | Praxis-Guide
 
 > Product ID `59793` · Digistore24 productId `735851` · [HTML profile page](../../produkte/vom-zuschauer-zum-spielfeldrand-praxis-guide-59793.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.41 (Single payment) |
+| Price | $31.34 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.42 |
+| Earnings/sale* | $9.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dkzmedia2025 |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vom Zuschauer zum Spielfeldrand ist ein 75-seitiger Praxis-Guide für alle, die in die professionelle Sport- und Pressefotografie einsteigen möchten. Der Guide zeigt Schritt für Schritt, wie man sich vom Amateurbereich weiterentwickelt, ein geeignetes Portfolio aufbaut, erste Einsätze findet, Akkreditierungen anfragt und mit Fotoagenturen arbeitet. Behandelt werden unter anderem: • Aufbau eines pro…
+**Vendor's marketplace description:** <p><strong>Vom Zuschauer zum Spielfeldrand</strong> ist ein 75-seitiger Praxis-Guide für alle, die in die professionelle Sport- und Pressefotografie einsteigen möchten.</p>
+<p>Der Guide zeigt Schritt für Schritt, wie man sich vom Amateurbereich weiterentwickelt, ein geeignetes Portfolio aufbaut, erste Einsätze findet, Akkreditierungen anfragt und mit Fotoagenturen arbeitet.</p>
+<p>Behandelt werden unter anderem:</p>
+<p>• Aufbau eines professionellen Sportportfolios<br />• Erste Einsätze und geeignete Einstiegsmöglichkeiten<br />• Akkreditierungen im Sport<br />• Presseausweis und professionelle Voraussetzungen<br />• Zusammenarbeit mit Fotoagenturen<br />• Workflow am Spieltag<br />• Bildauswahl, Bearbeitung und Übermittlung<br />• Caption, IPTC und redaktionelle Anforderungen<br />• Praktische Checklisten und Beispiele</p>
+<p><strong>Zielgruppe:</strong><br />Hobbyfotografen, angehende Sportfotografen, Pressefotografen und Fotografen, die sich professioneller im Sportbereich positionieren möchten.</p>
+<p><strong>Verkaufspreis:</strong> 29,99 €<br /><strong>Affiliate-Provision:</strong> 30 %</p>
+<p>Das Produkt wird als digitales PDF direkt nach erfolgreicher Bestellung ausgeliefert.</p>
+<p>Eine optimierte Verkaufsseite sowie Werbemittel für Social Media stehen zur Verfügung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.dkzmedia.com/ebook?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59793/adminstore/
 - Sales page: https://www.dkzmedia.com/ebook
 - Canonical redirect: https://www.digistore24.com/redir/735851/adminstore
 
@@ -90,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom Zuschauer zum Spielfeldrand | Praxis-Guide? — Typ: E-books, Anbieter: dkzmedia2025, gelistet seit 2026-09-26
-- Wie viel kostet es? — 31.410418000000004 USD
+- Wie viel kostet es? — 31.340343000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

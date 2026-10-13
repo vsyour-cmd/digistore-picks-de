@@ -4,34 +4,34 @@ digistore24_product_id: 466465
 title: "FABI's Kreativclub \"Video\""
 vendor: "FABISDESIGNkids"
 product_type: "Member area and video courses"
-price: 197.75
+price: 197.31
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 71.26
+earnings_per_sale: 71.1
 cart_conversion_pct: 25
 cancel_rate_pct: 1.8
 categories: ["Family & Children"]
 listed_since: "2022-10-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://fabisdesign-kids.com/de/fabis-gratis-kreativ-abenteuer-sign-up-meta/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/44423/adminstore/"
 sales_page: "https://fabisdesign-kids.com/de/fabis-gratis-kreativ-abenteuer-sign-up-meta/"
 language: "de"
 ---
 # FABI's Kreativclub "Video"
 
 > Product ID `44423` · Digistore24 productId `466465` · [HTML profile page](../../produkte/fabi-s-kreativclub-video-44423.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $197.75 (Subscription) |
+| Price | $197.31 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $71.26 |
+| Earnings/sale* | $71.10 |
 | Cart conversion* | 25% |
 | Cancel rate* | 1.8% |
 | Vendor | FABISDESIGNkids |
@@ -41,11 +41,55 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein einmaliges Online Erlebnis …bei dem Kinder viel Spaß haben und spielerisch lernen. Verdiene Geld mit Zeichenkursen und Online Abenteuern für Kinder, …die einen hohen pädagogischen Mehrwert bieten. Werde Affiliate-Partner von FABI. • Mehr als 2000 Kinder haben bereits mit FABI gezeichnet und sind begeistert von den Kreativ-Abenteuern. • Erhalte hohe Provisionen für jeden einzelnen Verkauf und a…
+**Vendor's marketplace description:** <div>
+<div>
+<h2>Ein einmaliges Online Erlebnis</h2>
+</div>
+</div>
+<div> …bei dem Kinder viel Spaß haben und spielerisch lernen.</div>
+<div> </div>
+<div>
+<div>
+<h3>Verdiene Geld mit Zeichenkursen und Online Abenteuern für Kinder,</h3>
+</div>
+</div>
+<div>
+<div>…die einen hohen pädagogischen Mehrwert bieten.</div>
+<div> </div>
+<div>
+<div>
+<div>
+<div>
+<h3>Werde Affiliate-Partner von FABI.</h3>
+</div>
+</div>
+</div>
+<div>
+<p>• Mehr als 2000 Kinder haben bereits mit FABI gezeichnet und sind begeistert von den Kreativ-Abenteuern. </p>
+<p>• Erhalte hohe Provisionen für jeden einzelnen Verkauf und auch auf Folgeverkäufe</p>
+<p>• Dank des Abo-Modells erhälst du wiederkehrende Einnahmen.</p>
+<p> </p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h2>Mehr über meine Zeichenkurse und Kreativ-Abenteuer</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>In meinen Zeichenkursen und Kreativ-Abenteuern gebe ich euch und euren Kindern einen Perspektivwechsel, indem ich euch in spannende Welten entführe.</p>
+<p>Wir gehen gemeinsam auf Zeichen-Abenteuer, erleben wie viel Fantasie doch in jedem von uns steckt und entdecken z.T. unbekannte Talente. Ich zeige euch, wie ihr mit neuen Zeichen-Methoden tolle Ideen entwickelt und umsetzt. Und das Beste: dabei stärken die Kinder auf einfache und spielerische Weise zusätzlich ihr kreatives Selbstbewusstsein.</p>
+<p>Seid ihr bereit für die kreativen Abenteuer?</p>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fabisdesign-kids.com/de/fabis-gratis-kreativ-abenteuer-sign-up-meta/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/44423/adminstore/
 - Sales page: https://fabisdesign-kids.com/de/fabis-gratis-kreativ-abenteuer-sign-up-meta/
 - Canonical redirect: https://www.digistore24.com/redir/466465/adminstore
 
@@ -89,7 +133,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist FABI's Kreativclub "Video"? — Typ: Member area and video courses, Anbieter: FABISDESIGNkids, gelistet seit 2022-10-25
-- Wie viel kostet es? — 197.752282 USD
+- Wie viel kostet es? — 197.31110700000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

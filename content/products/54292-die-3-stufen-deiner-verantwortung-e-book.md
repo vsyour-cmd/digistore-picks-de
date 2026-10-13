@@ -4,16 +4,16 @@ digistore24_product_id: 623580
 title: "Die 3 Stufen deiner Verantwortung - E-Book"
 vendor: "MissionVerantwortung"
 product_type: "E-books"
-price: 13.6
+price: 13.57
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 1.36
+earnings_per_sale: 1.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-07-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.berndkiesewetter.com/die-drei-stufen-des-erfolgs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.berndkiesewetter.com/die-drei-stufen-des-erfolgs"
@@ -22,16 +22,16 @@ language: "de"
 # Die 3 Stufen deiner Verantwortung - E-Book
 
 > Product ID `54292` · Digistore24 productId `623580` · [HTML profile page](../../produkte/die-3-stufen-deiner-verantwortung-e-book-54292.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.60 (Single payment) |
+| Price | $13.57 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $1.36 |
+| Earnings/sale* | $1.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MissionVerantwortung |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Erfolg beginnt mit Verantwortung – das E-Book, das Leben verändert!“
+**Vendor's marketplace description:** <p><strong>„Erfolg beginnt mit Verantwortung – das E-Book, das Leben verändert!“</strong></p>
+<p> </p>
 
 ## 2. Links
 
@@ -69,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 3 Stufen deiner Verantwortung - E-Book? — Typ: E-books, Anbieter: MissionVerantwortung, gelistet seit 2025-07-11
-- Wie viel kostet es? — 13.604084 USD
+- Wie viel kostet es? — 13.573734000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

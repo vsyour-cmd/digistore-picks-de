@@ -4,34 +4,34 @@ digistore24_product_id: 733493
 title: "neofire Core Basic Shopsystem im Abo 20 % wiederk. Prov."
 vendor: "neofire"
 product_type: "Software"
-price: 1214.76
+price: 1212.05
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 242.96
+earnings_per_sale: 242.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Online Marketing"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.neofire.de/partner/digistore24/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59261/adminstore/"
 sales_page: "https://www.neofire.de/partner/digistore24/"
 language: "de"
 ---
 # neofire Core Basic Shopsystem im Abo 20 % wiederk. Prov.
 
 > Product ID `59261` · Digistore24 productId `733493` · [HTML profile page](../../produkte/neofire-core-basic-shopsystem-im-abo-20-wiederk-prov-59261.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $1214.76 (Subscription) |
+| Price | $1212.05 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $242.96 |
+| Earnings/sale* | $242.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | neofire |
@@ -41,11 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** neofire Core – das komplette E-Commerce-System im Abo 20 % Provision auf jede Zahlung – auch auf alle Folgezahlungen des Abos. Jeder Kunde, den du vermittelst, bringt dir Monat für Monat bzw. Jahr für Jahr Provision, solange er bleibt. Was du bewirbst neofire Core ist ein modernes Shopsystem von neofire (seit 2003 am Markt) – Shop, Kasse, Termine, Vermietung, Partner-Einbindungen und Abo-Verkauf i…
+**Vendor's marketplace description:** <h2>neofire Core – das komplette E-Commerce-System im Abo</h2>
+<p><strong>20 % Provision auf jede Zahlung – auch auf alle Folgezahlungen des Abos.</strong> Jeder Kunde, den du vermittelst, bringt dir Monat für Monat bzw. Jahr für Jahr Provision, solange er bleibt.</p>
+<h3><br />Was du bewirbst</h3>
+<p>neofire Core ist ein modernes Shopsystem von neofire (seit 2003 am Markt) – Shop, Kasse, Termine, Vermietung, Partner-Einbindungen und Abo-Verkauf in einer Verwaltung. Monatlich kündbar, DSGVO-konform, Daten in Deutschland.</p>
+<h3><br />Drei Pakete – drei Provisionsstufen</h3>
+<ul>
+<li><strong>Basic</strong> – 39,95 € / Monat oder 399,50 € / Jahr<br />1 Shop, bis zu 500 Produkte, komplette Kasse, Designer &amp; Themes, Warenwirtschafts-Anbindung</li>
+<li><strong>Pro</strong> – 69,95 € / Monat oder 699,50 € / Jahr<br />bis zu 50.000 Produkte, Kalender, Termine &amp; Vermietung, Partner-Einbindungen, mehrere Sprachen</li>
+<li><strong>Ultimate</strong> – 129,00 € / Monat oder 1.290,00 € / Jahr<br />unbegrenzt Shops, Produkte und Benutzer, Postfach &amp; Kalender je Benutzer, IP-Telefonie</li>
+</ul>
+<h3><br /><br />Für wen?</h3>
+<ul>
+<li>Online-Händler, die ein eigenes, unabhängiges Shopsystem suchen</li>
+<li>Händler mit Warenwirtschaft (B2C und B2B mit Kundengruppen- und Staffelpreisen)</li>
+<li>Dienstleister mit Terminbuchung, Verleiher und Vermieter</li>
+<li>Agenturen und Webdesigner, die Shops für Kunden aufsetzen</li>
+<li>Abo-Anbieter mit wiederkehrenden Lieferungen</li>
+</ul>
+<h3><br /><br />Warum sich das Bewerben lohnt</h3>
+<ul>
+<li>Wiederkehrende Provision statt Einmalzahlung</li>
+<li>Upgrade-Potenzial: Kunden wachsen von Basic zu Pro und Ultimate</li>
+<li>Partnerschaften werden automatisch freigeschaltet – du kannst sofort starten</li>
+<li>Seriöser deutscher Anbieter, Support auf Deutsch</li>
+</ul>
+<p>Fragen, Werbemittel oder individuelle Absprachen: <a href="mailto:info@neofire.de">info@neofire.de</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.neofire.de/partner/digistore24/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59261/adminstore/
 - Sales page: https://www.neofire.de/partner/digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/733493/adminstore
 
@@ -96,7 +121,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist neofire Core Basic Shopsystem im Abo 20 % wiederk. Prov.? — Typ: Software, Anbieter: neofire, gelistet seit 2026-09-16
-- Wie viel kostet es? — 1214.764018 USD
+- Wie viel kostet es? — 1212.0539430000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 682814
 title: "Inner Circle - Die Community für Event-/Hochzeitsdienstl."
 vendor: "eventworker"
 product_type: "Member area and video courses"
-price: 121.47
+price: 121.2
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 24.29
+earnings_per_sale: 24.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.eventworker.net/inner-circle?aff=adminstore#aff=adminstore"
 sales_page: "https://www.eventworker.net/inner-circle"
@@ -22,16 +22,16 @@ language: "de"
 # Inner Circle - Die Community für Event-/Hochzeitsdienstl.
 
 > Product ID `57504` · Digistore24 productId `682814` · [HTML profile page](../../produkte/inner-circle-die-community-f-r-event-hochzeitsdienstl-57504.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.47 (Subscription) |
+| Price | $121.20 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $24.29 |
+| Earnings/sale* | $24.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | eventworker |
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Eventworker Inner Circle 12 Monate Zugang zur Community & Coaching-Plattform für Hochzeits- und Eventdienstleister – mit SEO-Strategien, smarten Tools und einem starken Branchen-Netzwerk. Das bekommst du: Website-Audit zu SEO & KI-Sichtbarkeit Smarte Tools & Workflows zur Zeitersparnis im Event-Alltag Strategien für effektive Kundenakquise & selbstbewusste Preisdurchsetzung Monatliche Live-Strateg…
+**Vendor's marketplace description:** <p><strong>Eventworker Inner Circle</strong></p>
+<p>12 Monate Zugang zur Community &amp; Coaching-Plattform für Hochzeits- und Eventdienstleister – mit SEO-Strategien, smarten Tools und einem starken Branchen-Netzwerk.</p>
+<p><strong>Das bekommst du:</strong></p>
+<ul>
+<li>Website-Audit zu SEO &amp; KI-Sichtbarkeit</li>
+<li>Smarte Tools &amp; Workflows zur Zeitersparnis im Event-Alltag</li>
+<li>Strategien für effektive Kundenakquise &amp; selbstbewusste Preisdurchsetzung</li>
+<li>Monatliche Live-Strategie-Calls mit Website-Optimierung</li>
+<li>Mediathek mit Call-Aufzeichnungen, SEO-Vorlagen &amp; Tool-Empfehlungen</li>
+<li>Netzwerk aus DJs, Traurednern, Fotografen, Hochzeits- &amp; Eventplanern zur gegenseitigen Auftragsvermittlung</li>
+</ul>
+<p><strong>Garantie:</strong> 14 Tage Geld-zurück</p>
+<p><strong>Ideal für dich, wenn du:</strong></p>
+<ul>
+<li>als Event- oder Hochzeitsdienstleister mehr Sichtbarkeit bei Google &amp; KI-Suchen willst</li>
+<li>deinen Kundengewinnungsprozess automatisieren und Zeit sparen willst</li>
+<li>dich mit Branchenkollegen vernetzen und Aufträge weitervermitteln willst</li>
+</ul>
+<p><strong>Hinweis:</strong> Jahresmitgliedschaft, verlängert sich automatisch, wenn nicht gekündigt wird.</p>
 
 ## 2. Links
 
@@ -87,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Inner Circle - Die Community für Event-/Hochzeitsdienstl.? — Typ: Member area and video courses, Anbieter: eventworker, gelistet seit 2026-07-13
-- Wie viel kostet es? — 121.47304000000001 USD
+- Wie viel kostet es? — 121.20204000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

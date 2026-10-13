@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 1.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.98
+earnings_per_sale: 9.96
 cart_conversion_pct: 26
 cancel_rate_pct: 7.2
 categories: ["Email Marketing","Profession & Job","Marketing Services"]
 listed_since: "2025-11-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/ki-handwerker/?aff=adminstore#aff=adminstore"
 sales_page: "https://kischmiede.funnelcockpit.com/ki-handwerker/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Handwerker
 
 > Product ID `54626` · Digistore24 productId `647082` · [HTML profile page](../../produkte/ki-handwerker-54626.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $1.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.98 |
+| Earnings/sale* | $9.96 |
 | Cart conversion* | 26% |
 | Cancel rate* | 7.2% |
 | Vendor | ReneAktivNetz |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** KI wie ein Handwerker – Das komplette Prompt-System Ein digitales E-Book (PDF), das zeigt, wie du Prompts so formulierst, dass KI liefert, was du wirklich brauchst. Klar, verständlich und wiederholbar. Entwickelt für Selbstständige, Affiliates und Creator, die mit KI arbeiten wollen, ohne sich in Technik oder Fachsprache zu verlieren. 16 praxisbewährte Prompts mit Beispielen Strukturierte Anleitun…
+**Vendor's marketplace description:** <p><strong style="color:#e57c23;">KI wie ein Handwerker – Das komplette Prompt-System</strong></p>
+<p>Ein digitales E-Book (PDF), das zeigt, wie du Prompts so formulierst, dass KI liefert, was du wirklich brauchst. Klar, verständlich und wiederholbar. Entwickelt für Selbstständige, Affiliates und Creator, die mit KI arbeiten wollen, ohne sich in Technik oder Fachsprache zu verlieren.</p>
+<ul style="background:#f8f9fb;padding:14px 20px;color:#1e1e2e;">
+<li>16 praxisbewährte Prompts mit Beispielen</li>
+<li>Strukturierte Anleitung für Content, SEO und Automatisierung</li>
+<li>Einfach erklärt, sofort nutzbar</li>
+<li>Einmalzahlung, kein Abo</li>
+<li>Sofortiger Zugriff über Digistore24 nach Kauf</li>
+</ul>
+<p style="color:#0077b6;font-weight:600;margin-top:10px;">Ideal für alle, die KI wie ein Werkzeug nutzen wollen, praktisch, verständlich, effizient.</p>
+<p style="font-size:0.9em;color:#9fb2c8;margin-top:12px;">Lieferung: Digitaler Sofort-Download über <strong>Digistore24</strong> nach Zahlungseingang. Kein physisches Produkt. Kompatibel mit allen Geräten (PDF-Format).</p>
 
 ## 2. Links
 
@@ -59,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI Handwerker? — Typ: E-books, Anbieter: ReneAktivNetz, gelistet seit 2025-11-09
-- Wie viel kostet es? — 1.154218 USD
+- Wie viel kostet es? — 1.1516430000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

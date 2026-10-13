@@ -4,7 +4,7 @@ digistore24_product_id: 653900
 title: "eBook - Jahreskreisfeste & ihre Magie"
 vendor: "werbezone"
 product_type: "E-books"
-price: 9.37
+price: 9.35
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 1.87
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2025-12-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ritualwelten.de/jahreskreisfeste-workbook-ebook/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54959/adminstore/"
 sales_page: "https://ritualwelten.de/jahreskreisfeste-workbook-ebook/"
 language: "de"
 ---
 # eBook - Jahreskreisfeste & ihre Magie
 
 > Product ID `54959` · Digistore24 productId `653900` · [HTML profile page](../../produkte/ebook-jahreskreisfeste-ihre-magie-54959.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.37 (Single payment) |
+| Price | $9.35 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $1.87 |
 | Cart conversion* | — |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Tauche ein in die acht Jahreskreisfeste und erlebe die Rituale, Bräuche & Energien des Jahresrades neu.Dieses liebevoll gestaltete Workbook begleitet dich durch alle Feste – mit Geschichten, Hintergründen, Ritualen, ätherischen Ölen, Räucherwerk, Reflexionsseiten und sicheren Anleitungen. Du erhältst:• Hintergrundwissen & spirituelle Bedeutung• Rituale, Ideen & leicht umsetzbare Anleitungen• Medit…
+**Vendor's marketplace description:** <p>Tauche ein in die acht Jahreskreisfeste und erlebe die Rituale, Bräuche &amp; Energien des Jahresrades neu.<br />Dieses liebevoll gestaltete Workbook begleitet dich durch alle Feste – mit Geschichten, Hintergründen, Ritualen, ätherischen Ölen, Räucherwerk, Reflexionsseiten und sicheren Anleitungen.</p>
+<p>Du erhältst:<br />• Hintergrundwissen &amp; spirituelle Bedeutung<br />• Rituale, Ideen &amp; leicht umsetzbare Anleitungen<br />• Meditationen, Affirmationen &amp; Reflexion<br />• Workbook-Seiten zum Ausfüllen<br />• Kräuter- &amp; Öl-Glossar<br />• Sicherheitshinweise für Räuchern &amp; Öle<br />• Über 150 Seiten Inspiration für ein magisches Jahr</p>
+<p>Perfekt für alle, die den Jahreskreis bewusst leben möchten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ritualwelten.de/jahreskreisfeste-workbook-ebook/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54959/adminstore/
 - Sales page: https://ritualwelten.de/jahreskreisfeste-workbook-ebook/
 - Canonical redirect: https://www.digistore24.com/redir/653900/adminstore
 
@@ -79,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook - Jahreskreisfeste & ihre Magie? — Typ: E-books, Anbieter: werbezone, gelistet seit 2025-12-08
-- Wie viel kostet es? — 9.368216 USD
+- Wie viel kostet es? — 9.347316 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

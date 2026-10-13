@@ -4,34 +4,34 @@ digistore24_product_id: 701401
 title: "Neukundengewinnung über Mastodon"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.43
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-mastodon?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56981/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-mastodon"
 language: "de"
 ---
 # Neukundengewinnung über Mastodon
 
 > Product ID `56981` · Digistore24 productId `701401` · [HTML profile page](../../produkte/neukundengewinnung-ber-mastodon-56981.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.43 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie Unternehmen das Fediverse als authentischen Vertriebskanal nutzen Mastodon ist der einzige große Kanal, auf dem du ohne Werbebudget und ohne Algorithmus-Gunst echte Geschäftskontakte aufbauen kannst. Das Netzwerk belohnt Unternehmen, die genuinen Mehrwert bieten, aktiv in Communities interagieren und ihre Haltung klar kommunizieren. Dieses E-Book zeigt dir, wie du mit einer konsequenten Hashta…
+**Vendor's marketplace description:** <p><strong>Wie Unternehmen das Fediverse als authentischen Vertriebskanal nutzen</strong></p>
+<p>Mastodon ist der einzige große Kanal, auf dem du ohne Werbebudget und ohne Algorithmus-Gunst echte Geschäftskontakte aufbauen kannst. Das Netzwerk belohnt Unternehmen, die genuinen Mehrwert bieten, aktiv in Communities interagieren und ihre Haltung klar kommunizieren. Dieses E-Book zeigt dir, wie du mit einer konsequenten Hashtag-Strategie von Wunschkunden gefunden wirst, wie du durch dezentrale Nischen-Instanzen genau die Communities erreichst, in denen deine Zielgruppe aktiv ist, und wie du einen Funnel aufbaust, der ohne Paid Social auskommt. Du bekommst ein System, das zu Mastodon passt: authentisch, gemeinschaftsorientiert und nachhaltig – und trotzdem messbar auf Neukunden ausgerichtet.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Nischen-Instanzen identifizieren, auf denen deine Zielgruppe aktiv ist</li>
+<li>Hashtag-Strategie für maximale Auffindbarkeit ohne Algorithmus</li>
+<li>Content entlang der Customer Journey im chronologischen Feed planen</li>
+<li>Boosts als Empfehlungs-Wirtschaft: wie du andere Accounts als Multiplikatoren gewinnst</li>
+<li>Funnel ohne Paid Social: von der Sichtbarkeit zur Anfrage</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/neukundengewinnung-ueber-mastodon?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56981/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/neukundengewinnung-ueber-mastodon
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701401/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neukundengewinnung über Mastodon? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

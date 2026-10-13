@@ -4,7 +4,7 @@ digistore24_product_id: 599400
 title: "Ebook Sauerteig für Einsteiger - Traditionelles Wissen"
 vendor: "AusEigenerHand"
 product_type: "E-books"
-price: 11.51
+price: 11.48
 currency: "USD"
 affiliate_commission_pct: 8
 earnings_per_sale: 0.92
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Food & Drink","Hobby & Craft"]
 listed_since: "2025-03-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/599400?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51581/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/599400"
 language: "de"
 ---
 # Ebook Sauerteig für Einsteiger - Traditionelles Wissen
 
 > Product ID `51581` · Digistore24 productId `599400` · [HTML profile page](../../produkte/ebook-sauerteig-f-r-einsteiger-traditionelles-wissen-51581.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.51 (Single payment) |
+| Price | $11.48 (Single payment) |
 | Affiliate commission | 8% |
 | Earnings/sale* | $0.92 |
 | Cart conversion* | — |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Herzlich Willkommen! Ich bin Anna-Magdalena und dies ist der erste Band der Reihe “Aus eigener Hand”! Dieses Buch soll dir Mut machen, Dinge selbst auszuprobieren und zeigen, wie viel Freude es bereitet, Alltägliches mit den eigenen Händen herzustellen. Als fünffache Mutter weiß ich, wie wertvoll einfache, bewährte Rezepte sind. Gutes, nahrhaftes Essen ist die Grundlage für ein gesundes Leben - un…
+**Vendor's marketplace description:** <p>Herzlich Willkommen! </p>
+<p>Ich bin Anna-Magdalena und dies ist der erste Band der Reihe “Aus eigener Hand”!</p>
+<p>Dieses Buch soll dir Mut machen, Dinge selbst auszuprobieren und zeigen, wie viel Freude es bereitet, Alltägliches mit den eigenen Händen herzustellen.</p>
+<p>Als fünffache Mutter weiß ich, wie wertvoll einfache, bewährte Rezepte sind. Gutes, nahrhaftes Essen ist die Grundlage für ein gesundes Leben - und selbst gebackenes Suerteigbrot gehört für mich einfach dazu.</p>
+<p>Ich bin keine gelernte Bäckerin, aber über die Jahre habe ich viel ausprobiert, gelernt und meine Liebe zum Sauerteig entdeckt.</p>
+<p>Nun begleite ich dich Schritt für Schritt auf deinem Sauerteig-Weg, sodass du schon bald dein erstes selbst gebackenes Brot genießen kannst.</p>
+<p>Lass uns gemeinsam loslegen!</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/599400?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51581/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/599400
 - Canonical redirect: https://www.digistore24.com/redir/599400/adminstore
 
@@ -71,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook Sauerteig für Einsteiger - Traditionelles Wissen? — Typ: E-books, Anbieter: AusEigenerHand, gelistet seit 2025-03-03
-- Wie viel kostet es? — 11.508562 USD
+- Wie viel kostet es? — 11.482887 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 724620
 title: "PV-Kaufkompass Deutschland 2026 Orientierung vor dem Kauf"
 vendor: "SmartAffiliates32"
 product_type: "E-books"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.43
+earnings_per_sale: 10.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Finances"]
 listed_since: "2026-08-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/724620?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58505/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/724620"
 language: "de"
 ---
 # PV-Kaufkompass Deutschland 2026 Orientierung vor dem Kauf
 
 > Product ID `58505` · Digistore24 productId `724620` · [HTML profile page](../../produkte/pv-kaufkompass-deutschland-2026-orientierung-vor-dem-kauf-58505.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.43 |
+| Earnings/sale* | $10.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SmartAffiliates32 |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der PV-Kaufkompass Deutschland 2026 ist ein verständlich aufgebautes PDF-E-Book für private Endkunden, die den Kauf einer Photovoltaikanlage fundiert vorbereiten möchten. Der Ratgeber behandelt unter anderem: • Grundlagen und Funktionsweise einer Photovoltaikanlage• Auswahl und Dimensionierung von PV-Anlage und Batteriespeicher• Eigenverbrauch, Autarkie und Wirtschaftlichkeit• Kosten, Amortisation…
+**Vendor's marketplace description:** <p>Der PV-Kaufkompass Deutschland 2026 ist ein verständlich aufgebautes PDF-E-Book für private Endkunden, die den Kauf einer Photovoltaikanlage fundiert vorbereiten möchten.</p>
+<p>Der Ratgeber behandelt unter anderem:</p>
+<p>• Grundlagen und Funktionsweise einer Photovoltaikanlage<br />• Auswahl und Dimensionierung von PV-Anlage und Batteriespeicher<br />• Eigenverbrauch, Autarkie und Wirtschaftlichkeit<br />• Kosten, Amortisation und verständliche Rechenbeispiele<br />• Wallbox, Elektroauto und Wärmepumpe im Zusammenspiel mit Photovoltaik<br />• Angebotsvergleich, typische Fehler und wichtige Fragen an Fachbetriebe<br />• Praktische Checklisten zur Vorbereitung einer Kaufentscheidung</p>
+<p>Zielgruppe sind insbesondere Hausbesitzer, Bauherren und private Haushalte, die sich erstmals mit Photovoltaik beschäftigen und technische sowie wirtschaftliche Zusammenhänge verständlich erklärt bekommen möchten.</p>
+<p>Das Produkt wird nach erfolgreichem Kauf als PDF-E-Book über den Digistore24 Download-Tresor bereitgestellt. Affiliates können das Produkt insbesondere über Inhalte zu Photovoltaik, energetischer Sanierung, Eigenheim, Stromkosten, Wärmepumpen, Elektromobilität und nachhaltigem Wohnen bewerben.</p>
+<p>Hinweis: Das E-Book dient der allgemeinen Information und ersetzt keine individuelle technische, rechtliche, steuerliche oder finanzielle Beratung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724620?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58505/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/724620
 - Canonical redirect: https://www.digistore24.com/redir/724620/adminstore
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist PV-Kaufkompass Deutschland 2026 Orientierung vor dem Kauf? — Typ: E-books, Anbieter: SmartAffiliates32, gelistet seit 2026-08-21
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

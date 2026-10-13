@@ -4,16 +4,16 @@ digistore24_product_id: 494109
 title: "Onlinekurse erstellen Workbook"
 vendor: "Jyotima"
 product_type: "E-books"
-price: 45.72
+price: 45.62
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.07
+earnings_per_sale: 11.05
 cart_conversion_pct: 4
 cancel_rate_pct: 0.86
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-04-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://jyotimaflak.com/onlinekursturbo/?aff=adminstore#aff=adminstore"
 sales_page: "https://jyotimaflak.com/onlinekursturbo/"
@@ -22,16 +22,16 @@ language: "de"
 # Onlinekurse erstellen Workbook
 
 > Product ID `54066` · Digistore24 productId `494109` · [HTML profile page](../../produkte/onlinekurse-erstellen-workbook-54066.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $45.72 (Single payment) |
+| Price | $45.62 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.07 |
+| Earnings/sale* | $11.05 |
 | Cart conversion* | 4% |
 | Cancel rate* | 0.86% |
 | Vendor | Jyotima |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erstelle deinen eigenen Onlinekurs und verkaufe ihn automatisiert – mit Strategie statt Technikstress. Der Onlinekurs-Turbo zeigt dir in einem klar strukturierten Workbook + Bonusvideo, wie du in 5 einfachen Schritten ein digitales Onlineprodukt entwickelst, das dir 10.000–12.000 € monatlich bringen kann. Ideal für Coaches, Berater:innen und Selbstständige, die ihr Wissen in ein freies, ortsunabhä…
+**Vendor's marketplace description:** <p><strong>Erstelle deinen eigenen Onlinekurs und verkaufe ihn automatisiert – mit Strategie statt Technikstress.</strong></p>
+<p>Der <strong>Onlinekurs-Turbo</strong> zeigt dir in einem klar strukturierten <strong>Workbook + Bonusvideo</strong>, wie du in 5 einfachen Schritten ein digitales Onlineprodukt entwickelst, das dir <strong>10.000–12.000 € monatlich</strong> bringen kann.</p>
+<p>Ideal für <strong>Coaches, Berater:innen und Selbstständige</strong>, die ihr Wissen in ein freies, ortsunabhängiges Onlinebusiness verwandeln möchten.</p>
+<p><strong>Du bekommst:</strong><br />• Ein 43-seitiges Workbook<br />• Ein Bonusvideo für erfolgreiche Onlinekurse (inkl. 5-Schritte-Methode)</p>
 
 ## 2. Links
 
@@ -77,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Onlinekurse erstellen Workbook? — Typ: E-books, Anbieter: Jyotima, gelistet seit 2023-04-14
-- Wie viel kostet es? — 45.72048 USD
+- Wie viel kostet es? — 45.61848 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

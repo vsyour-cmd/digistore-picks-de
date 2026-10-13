@@ -4,34 +4,34 @@ digistore24_product_id: 666768
 title: "Mentoring 2.0 - David Ulubaev"
 vendor: "DavidUlubaev"
 product_type: "Online coaching"
-price: 532.34
+price: 531.15
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 226.07
+earnings_per_sale: 225.57
 cart_conversion_pct: 85.7
 cancel_rate_pct: 6.22
 categories: ["Personal Development"]
 listed_since: "2026-02-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/666768?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55629/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/666768"
 language: "de"
 ---
 # Mentoring 2.0 - David Ulubaev
 
 > Product ID `55629` · Digistore24 productId `666768` · [HTML profile page](../../produkte/mentoring-2-0-david-ulubaev-55629.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $532.34 (Single payment, Installment) |
+| Price | $531.15 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $226.07 |
+| Earnings/sale* | $225.57 |
 | Cart conversion* | 85.7% |
 | Cancel rate* | 6.22% |
 | Vendor | DavidUlubaev |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DAS MENTORING ZU DEINEM ERFOLG ALS MANN: Exklusiver 1:1 Zugang zu mir als Coach Starte Jetzt! Dieser Preis gilt nur für kurze Zeit! STARTE DEINE TRANSFORMATION: Lerne, wie du deinen emotionalen Druck löst. Etabliere eine glasklare Macher-Mentalität. Steigere dein Testosteron und Dominanz. Finde deinen Nordstern und deine Mission als Mann. Lerne, wie man mit Frauen spricht und sie anzieht. Sofortig…
+**Vendor's marketplace description:** <p><strong>DAS MENTORING ZU DEINEM ERFOLG ALS MANN:</strong></p>
+<p> </p>
+<p>Exklusiver 1:1 Zugang zu mir als Coach</p>
+<p>Starte Jetzt! Dieser Preis gilt nur für kurze Zeit!</p>
+<p> </p>
+<p><strong>STARTE DEINE TRANSFORMATION:</strong></p>
+<p> </p>
+<p>Lerne, wie du deinen emotionalen Druck löst.</p>
+<p>Etabliere eine  glasklare Macher-Mentalität.</p>
+<p>Steigere dein Testosteron und Dominanz.</p>
+<p>Finde deinen Nordstern und deine Mission als Mann.</p>
+<p>Lerne, wie man mit Frauen spricht und sie anzieht.</p>
+<p> </p>
+<p>Sofortiger Zugriff auf alle Inhalte, Live-Calls &amp; Aufzeichnungen</p>
+<p>Schritt für Schritt Fahrplan für deinen Erfolg</p>
+<p>24/7 an deiner Seite, um dich nach vorn zu bringen</p>
+<p>2x Live Calls die Woche in denen alle deine Fragen beantwortet werden. Die Live-Calls werden aufgezeichnet und zur Verfügung gestellt. So kannst du nichts verpassen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/666768?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55629/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/666768
 - Canonical redirect: https://www.digistore24.com/redir/666768/adminstore
 
@@ -79,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mentoring 2.0 - David Ulubaev? — Typ: Online coaching, Anbieter: DavidUlubaev, gelistet seit 2026-02-05
-- Wie viel kostet es? — 532.34103 USD
+- Wie viel kostet es? — 531.153405 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

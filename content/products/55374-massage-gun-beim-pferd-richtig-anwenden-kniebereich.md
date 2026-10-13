@@ -4,16 +4,16 @@ digistore24_product_id: 661234
 title: "Massage Gun beim Pferd richtig anwenden – Kniebereich"
 vendor: "Faszienloesen"
 product_type: "Member area and video courses"
-price: 33.9
+price: 33.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.95
+earnings_per_sale: 16.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Health & Fitness"]
 listed_since: "2026-01-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.equinemassagegun.de/pferd-knie-hinterhand/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.equinemassagegun.de/pferd-knie-hinterhand/"
@@ -22,16 +22,16 @@ language: "de"
 # Massage Gun beim Pferd richtig anwenden – Kniebereich
 
 > Product ID `55374` · Digistore24 productId `661234` · [HTML profile page](../../produkte/massage-gun-beim-pferd-richtig-anwenden-kniebereich-55374.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $33.90 (Single payment) |
+| Price | $33.82 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.95 |
+| Earnings/sale* | $16.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Faszienloesen |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verspannungen lösen und die Bewegungsqualität verbessern Gezielte Massage‑Gun‑Anwendung für Knie & Hinterbein Klare Punkte, klare Reihenfolge, sofort umsetzbar Ideal bei Stolpern, Taktfehlern und fehlender Lastaufnahme Perfekt für Trainer & Pferdebesitzer Unterstützt Stabilität, Schubkraft und Taktreinheit 50 % Provision auf den Kurs + 70 % auf den Komplettkurs‑Upsell.
+**Vendor's marketplace description:** <h3><strong>Verspannungen lösen und die Bewegungsqualität verbessern</strong></h3>
+<h4><br /><strong>Gezielte Massage‑Gun‑Anwendung für Knie &amp; Hinterbein</strong></h4>
+<ul>
+<li>Klare Punkte, klare Reihenfolge, sofort umsetzbar</li>
+<li>Ideal bei Stolpern, Taktfehlern und fehlender</li>
+<li>Lastaufnahme</li>
+<li>Perfekt für Trainer &amp; Pferdebesitzer</li>
+<li>Unterstützt Stabilität, Schubkraft und Taktreinheit</li>
+</ul>
+<p><strong>50 % Provision auf den Kurs + 70 % auf den Komplettkurs‑Upsell.</strong></p>
 
 ## 2. Links
 
@@ -67,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Massage Gun beim Pferd richtig anwenden – Kniebereich? — Typ: Member area and video courses, Anbieter: Faszienloesen, gelistet seit 2026-01-14
-- Wie viel kostet es? — 33.89815 USD
+- Wie viel kostet es? — 33.822525000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

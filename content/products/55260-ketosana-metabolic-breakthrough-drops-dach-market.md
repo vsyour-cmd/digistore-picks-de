@@ -4,16 +4,16 @@ digistore24_product_id: 661129
 title: "KetoSana - Metabolic Breakthrough Drops (DACH Market)"
 vendor: "DS24-MySana"
 product_type: "Supplements - for slimming"
-price: 188.4
+price: 187.97
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 129.14
+earnings_per_sale: 128.85
 cart_conversion_pct: 20
 cancel_rate_pct: 6.47
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-01-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://myketosana.com/ketosana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://myketosana.com/ketosana-pdp-fe"
@@ -22,16 +22,16 @@ language: "de"
 # KetoSana - Metabolic Breakthrough Drops (DACH Market)
 
 > Product ID `55260` · Digistore24 productId `661129` · [HTML profile page](../../produkte/ketosana-metabolic-breakthrough-drops-dach-market-55260.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $188.40 (Single payment) |
+| Price | $187.97 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $129.14 |
+| Earnings/sale* | $128.85 |
 | Cart conversion* | 20% |
 | Cancel rate* | 6.47% |
 | Vendor | DS24-MySana |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** From a Harvard-trained doctor's private celebrity practice comes KetoSana: the first supplement targeting the "Triple-Lock Syndrome" sabotaging weight loss for frustrated Germans 30-65+ who eat clean, exercise, and still gain weight. The hook? A naturopath who studied functional medicine in Europe reveals why your body has three biological "locks" trapping fat—and how 22 clinically-dosed ingredien…
+**Vendor's marketplace description:** <p>From a Harvard-trained doctor's private celebrity practice comes KetoSana: the first supplement targeting the "Triple-Lock Syndrome" sabotaging weight loss for frustrated Germans 30-65+ who eat clean, exercise, and still gain weight. The hook? A naturopath who studied functional medicine in Europe reveals why your body has three biological "locks" trapping fat—and how 22 clinically-dosed ingredients unlock all three simultaneously in 7 seconds a day. No keto diet required. No gym torture. Just premium liquid drops that silence cravings, reactivate leptin sensitivity, and shut down cortisol-driven belly fat storage. Sales letter/VSL combining  visceral emotional storytelling with pharmaceutical-grade science. Ridiculously deep funnel means €177-294 AOV. Low refund rate because the product actually works and customers reorder. Massive underserved DACH market where Germans trust a German-American doctor and crave logical mechanisms, not hype. Converts freezing cold traffic because the "why you've failed before" story resonates instantly and the Harvard credentials crush skepticism.</p>
 
 ## 2. Links
 
@@ -103,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KetoSana - Metabolic Breakthrough Drops (DACH Market)? — Typ: Supplements - for slimming, Anbieter: DS24-MySana, gelistet seit 2026-01-13
-- Wie viel kostet es? — 188.395272 USD
+- Wie viel kostet es? — 187.974972 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

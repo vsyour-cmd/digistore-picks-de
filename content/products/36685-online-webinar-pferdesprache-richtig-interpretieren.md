@@ -4,34 +4,34 @@ digistore24_product_id: 387661
 title: "Online-Webinar \"Pferdesprache richtig interpretieren\""
 vendor: "Linnon"
 product_type: "Downloads"
-price: 117.71
+price: 117.45
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 23.54
+earnings_per_sale: 23.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2021-05-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.martinkreuzer.com/produkte/webinar-pferdesprache?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/36685/adminstore/"
 sales_page: "https://www.martinkreuzer.com/produkte/webinar-pferdesprache"
 language: "de"
 ---
 # Online-Webinar "Pferdesprache richtig interpretieren"
 
 > Product ID `36685` · Digistore24 productId `387661` · [HTML profile page](../../produkte/online-webinar-pferdesprache-richtig-interpretieren-36685.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $117.71 (Single payment) |
+| Price | $117.45 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $23.54 |
+| Earnings/sale* | $23.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Linnon |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bequem von zu Hause aus lernen - unsere Online-Webinare machen es möglich! Inhalt des Webinars: Was will mein Pferd mir sagen? Schon immer wünscht sich der Mensch, die Sprache der Pferde richtig zu verstehen und sich mit ihnen verständigen zu können. Es gibt mittlerweile weit über 170 Gesten, die in der Pferde-Kommunikation eine erhebliche Rolle spielen. Wissen Sie was Ihnen Ihr Pferd gerade sagen…
+**Vendor's marketplace description:** <p><strong>Bequem von zu Hause aus lernen - unsere Online-Webinare machen es möglich!</strong> </p>
+<p><strong>Inhalt des Webinars:</strong> <strong>Was will mein Pferd mir sagen</strong><strong>?</strong></p>
+<p>Schon immer wünscht sich der Mensch, die Sprache der Pferde richtig zu verstehen und sich mit ihnen verständigen zu können. Es gibt mittlerweile weit über 170 Gesten, die in der Pferde-Kommunikation eine erhebliche Rolle spielen. </p>
+<p><strong>Wissen Sie was Ihnen Ihr Pferd gerade sagen will?</strong> </p>
+<p>Im Rahmen des Online Webinars <em>„<strong>Pferdesprache richtig interpretieren</strong>“</em> wird Martin Kreuzer mit den <strong>40 wichtigsten Gesten</strong> Antworten geben auf viele Konfliktsituationen, die im Pferdealltag auftreten können. Er wird den Teilnehmern ein geballtes Fachwissen an die Hand geben. </p>
+<p><strong>Online Webinar in 2 Teilen zu je ca. 1 Stunde. </strong><strong>Dieses Webinar ist eine Aufzeichnung - somit jederzeit und mehrfach abrufbar. </strong></p>
+<p><strong>Nach der Bestellung erhalten Sie direkt den Zugang zum Webinar.</strong></p>
+<p>Kosten: € 125,00 <br />für <strong>beide Video Sessions</strong></p>
+<p> </p>
+<p><strong>Widerrufsbelehrung für Download Artikel:</strong> Bitte beachten Sie, dass Sie mit dem Kauf dieses Download Artikels die MKA beauftragen, vor Ablauf der Widerrufsfrist den Kaufvertrag zu erfüllen und damit Ihr Rückgaberecht erlischt.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.martinkreuzer.com/produkte/webinar-pferdesprache?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36685/adminstore/
 - Sales page: https://www.martinkreuzer.com/produkte/webinar-pferdesprache
 - Vendor affiliate support: https://www.martinkreuzer.com/produkte/mka-partner-werden/
 - Canonical redirect: https://www.digistore24.com/redir/387661/adminstore
@@ -92,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Webinar "Pferdesprache richtig interpretieren"? — Typ: Downloads, Anbieter: Linnon, gelistet seit 2021-05-01
-- Wie viel kostet es? — 117.70782400000002 USD
+- Wie viel kostet es? — 117.44522400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

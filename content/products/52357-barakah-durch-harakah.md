@@ -4,34 +4,34 @@ digistore24_product_id: 607131
 title: "Barakah durch Harakah"
 vendor: "Indira_bdh"
 product_type: "Member area and video courses"
-price: 234.04
+price: 233.52
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 97.88
+earnings_per_sale: 97.67
 cart_conversion_pct: 1
 cancel_rate_pct: 2.64
 categories: ["Education","Online Marketing"]
 listed_since: "2025-04-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/607131?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52357/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/607131"
 language: "de"
 ---
 # Barakah durch Harakah
 
 > Product ID `52357` · Digistore24 productId `607131` · [HTML profile page](../../produkte/barakah-durch-harakah-52357.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $234.04 (Single payment, Installment) |
+| Price | $233.52 (Single payment, Installment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $97.88 |
+| Earnings/sale* | $97.67 |
 | Cart conversion* | 1% |
 | Cancel rate* | 2.64% |
 | Vendor | Indira_bdh |
@@ -41,11 +41,33 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Barakah durch Harakah x Invisible Income Academy Barakah durch Harakah ist die erste und No. 1 halal Digital Marketing Academy für Frauen, die dir zeigt, wie du deine Bestimmung in ein halal Business verwandelst – faceless, ethisch, nachhaltig & im Einklang mit deinen Werten. Was du bekommst: Launch-Preis – nur für kurze Zeit Alle zukünftigen Inhalte & Updates inklusive* Workbooks, Templates & Che…
+**Vendor's marketplace description:** <div>
+<h2>Barakah durch Harakah x Invisible Income Academy</h2>
+</div>
+<div>
+<div>
+<p><strong>Barakah durch Harakah</strong> ist die erste und No. 1 halal Digital Marketing Academy für Frauen, die dir zeigt, wie du deine Bestimmung in ein halal Business verwandelst – faceless, ethisch, nachhaltig &amp; im Einklang mit deinen Werten.</p>
+<p><strong>Was du bekommst:</strong></p>
+<p>Launch-Preis – nur für kurze Zeit </p>
+<p>Alle zukünftigen Inhalte &amp; Updates inklusive* </p>
+<p>Workbooks, Templates &amp; Checklisten </p>
+<p>Live Q&amp;A &amp; Muslim Money Mindset Calls </p>
+<p>Exklusiver Safe Space für Frauen</p>
+<p>Möglichkeit BDH Partner zu werden<br /><br /><strong>Für wen ist BDH gemacht?  </strong>Für Frauen, die bereit sind, in ihre Entwicklung zu investieren. Für Frauen, die Verantwortung übernehmen &amp; ernsthaft etwas verändern wollen.</p>
+<p>Egal ob du von Null startest oder schon Coach, Beraterin, Expertin oder im Network Marketing bist – hier lernst du, wie du dein Wissen in ein starkes Business wandelst, Vertrauen aufbaust und mit dem, was du liebst, Geld verdienst. </p>
+<p><strong> Wenn du nicht bereit bist, all in zu gehen – ist BDH nicht für dich.</strong></p>
+<p><strong>Hinweise:</strong> </p>
+<p>* Der Zugang ist langfristig angelegt und bleibt dir für einen ausgedehnten Zeitraum erhalten. Eine lebenslange Verfügbarkeit kann aus rechtlichen und technischen Gründen nicht garantiert werden.</p>
+<p>** Du erhältst aktuell 90 % Provision pro Verkauf (nur als aktive Kundin). Die Provisionshöhe und Teilnahmebedingungen können zukünftig geändert oder beendet werden. Änderungen gelten nur für zukünftige Verkäufe. Die Berechnung erfolgt auf Basis des Netto-Zahlungseingangs nach Abzug aller Gebühren und Umrechnungen. </p>
+<p><strong>Hinweis:</strong> Die Affiliate-Provision wurde auf Wunsch der Community eingeführt. Sie ist <strong>optional</strong> und dient als Möglichkeit für motivierte Frauen, bereits beim Start Einnahmen zu erzielen. Die Erstellerin betont den Fokus darauf zu legen so schnell es geht ein eigenes profitables Angebot zu entwickeln. </p>
+<p> Jetzt Ticket sichern &amp; Teil der ersten und No.1  halal digital Marketing Plattform im DACH Raum für Frauen werden. </p>
+<p> <strong>Barakah durch Harakah</strong> – deine Academy für halal Sichtbarkeit, digitales Einkommen &amp; faceless Erfolg.</p>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/607131?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52357/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/607131
 - Canonical redirect: https://www.digistore24.com/redir/607131/adminstore
 
@@ -85,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Barakah durch Harakah? — Typ: Member area and video courses, Anbieter: Indira_bdh, gelistet seit 2025-04-13
-- Wie viel kostet es? — 234.03731 USD
+- Wie viel kostet es? — 233.515185 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

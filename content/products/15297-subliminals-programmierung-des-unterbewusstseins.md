@@ -4,34 +4,34 @@ digistore24_product_id: 143175
 title: "Subliminals: Programmierung des Unterbewusstseins"
 vendor: "EnergeticTernity"
 product_type: "Downloads"
-price: 267.11
+price: 266.51
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 98.72
+earnings_per_sale: 98.5
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Personal Development"]
 listed_since: "2017-06-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://energetic-eternity.de/reality-shift-2-0/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/15297/adminstore/"
 sales_page: "https://energetic-eternity.de/reality-shift-2-0/"
 language: "de"
 ---
 # Subliminals: Programmierung des Unterbewusstseins
 
 > Product ID `15297` · Digistore24 productId `143175` · [HTML profile page](../../produkte/subliminals-programmierung-des-unterbewusstseins-15297.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $267.11 (Single payment, Installment) |
+| Price | $266.51 (Single payment, Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $98.72 |
+| Earnings/sale* | $98.50 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle unsere Subliminals weiter und verdiene mit an über 30 Upsells/Cross-Sells! Deine Vorteile: --> In über 20 Nischen aktiv (z.B Gesundheit, Wohlstand, Liebe & Beziehungen, Bewusstsein, Fitness etc.) --> Bereits über 10.000 verkaufte Produkte --> Profitiere mit an unseren hochoptimierten Segmentierungs-Verkaufsfunneln --> Schneller und professioneller Support durch unseren Affiliate-Manager N…
+**Vendor's marketplace description:** <h2><strong>Empfehle unsere Subliminals weiter und verdiene mit an über 30 Upsells/Cross-Sells!<br /><br /></strong></h2>
+<p> </p>
+<p><strong>Deine Vorteile:</strong></p>
+<p>--&gt; In über 20 Nischen aktiv (z.B Gesundheit, Wohlstand, Liebe &amp; Beziehungen, Bewusstsein, Fitness etc.)</p>
+<p>--&gt; Bereits über 10.000 verkaufte Produkte</p>
+<p>--&gt; Profitiere mit an unseren hochoptimierten Segmentierungs-Verkaufsfunneln </p>
+<p>--&gt; Schneller und professioneller Support durch unseren Affiliate-Manager</p>
+<p> </p>
+<p>Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt.</p>
+<p><span style="background-color:#ffff00;">Du erhältst Provisionen für jeden weiteren Verkauf!</span></p>
+<p> </p>
+<p>Melde dich jetzt als Affiliate an und wirst für alle Produkte freigeschaltet!</p>
+<p> </p>
+<p>Auf eine erfolgreiche Aktion!</p>
+<p> </p>
+<p>Beste Grüße,<br />Marvin Alberg</p>
+<h2> </h2>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://energetic-eternity.de/reality-shift-2-0/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/15297/adminstore/
 - Sales page: https://energetic-eternity.de/reality-shift-2-0/
 - Vendor affiliate support: http://energetic-eternity.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/143175/adminstore
@@ -67,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Subliminals: Programmierung des Unterbewusstseins? — Typ: Downloads, Anbieter: EnergeticTernity, gelistet seit 2017-06-11
-- Wie viel kostet es? — 267.106216 USD
+- Wie viel kostet es? — 266.51031600000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

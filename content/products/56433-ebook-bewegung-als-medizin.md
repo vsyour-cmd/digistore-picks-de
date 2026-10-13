@@ -4,34 +4,34 @@ digistore24_product_id: 689586
 title: "Ebook - Bewegung als Medizin"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 9.41
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.71
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-05-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/689586?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56433/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/689586"
 language: "de"
 ---
 # Ebook - Bewegung als Medizin
 
 > Product ID `56433` · Digistore24 productId `689586` · [HTML profile page](../../produkte/ebook-bewegung-als-medizin-56433.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.41 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochrelevantes Gesundheitsthema mit enormer Zielgruppe: Menschen mit sitzendem Lebensstil, Stress und ersten körperlichen Beschwerden suchen nach einfachen, alltagstauglichen Lösungen. Das Buch verbindet wissenschaftliche Erkenntnisse mit praktischer Umsetzbarkeit und positioniert Bewegung bewusst als leicht integrierbare „Medizin“ statt als aufwendiges Fitnessprogramm. Besonders stark ist der…
+**Vendor's marketplace description:** <p>Ein hochrelevantes Gesundheitsthema mit enormer Zielgruppe:</p>
+<p>Menschen mit sitzendem Lebensstil, Stress und ersten körperlichen Beschwerden suchen nach einfachen, alltagstauglichen Lösungen.</p>
+<p>Das Buch verbindet wissenschaftliche Erkenntnisse mit praktischer Umsetzbarkeit und positioniert Bewegung bewusst als leicht integrierbare „Medizin“ statt als aufwendiges Fitnessprogramm.</p>
+<p>Besonders stark ist der Fokus auf niedrigschwellige Einstiegshürden und nachhaltige Gewohnheiten – ideal für breite Ansprache und hohe Conversion.</p>
+<p>Die Kombination aus evidenzbasierter Argumentation, emotionalem Nutzen (mehr Energie, mentale Klarheit, Lebensqualität) und klarer Alltagsrelevanz macht das Produkt extrem gut vermarktbar.</p>
+<p>Ein Evergreen-Thema mit konstant hoher Nachfrage und vielseitigen Hook-Ansätzen im Health-, Lifestyle- und Selbstoptimierungsbereich.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689586?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56433/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/689586
 - Canonical redirect: https://www.digistore24.com/redir/689586/adminstore
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Bewegung als Medizin? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-02
-- Wie viel kostet es? — 9.41304 USD
+- Wie viel kostet es? — 9.392040000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 710228
 title: "Passives Einkommen ohne Social Media – Anfänger Guide"
 vendor: "soudmohsin68cc4f"
 product_type: "E-books"
-price: 37.19
+price: 37.11
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 13.02
+earnings_per_sale: 12.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/710228?aff=adminstore"
-sales_page: "https://www.checkout-ds24.com/product/710228"
+promo_link: "https://www.digistore24.com/redir/57555/adminstore/"
+sales_page: "https://ubiquitous-chimera-314f42.netlify.app"
 language: "de"
 ---
 # Passives Einkommen ohne Social Media – Anfänger Guide
 
 > Product ID `57555` · Digistore24 productId `710228` · [HTML profile page](../../produkte/passives-einkommen-ohne-social-media-anf-nger-guide-57555.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $37.19 (Single payment) |
+| Price | $37.11 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $13.02 |
+| Earnings/sale* | $12.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | soudmohsin68cc4f |
@@ -41,18 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Viele Leute wollen online Geld verdienen, scheuen aber Social-Media-Präsenz. Dieser Guide zeigt genau diesen Weg – ideal zu bewerben in Nischen wie "Finanzen ohne Reichweite", "Introvertiert Geld verdienen" oder "Online-Business ohne Kamera". ✅ Klare Alleinstellung gegenüber Standard-Guides ✅ 35% Provision ✅ Digitaler Download, sofort lieferbar
+**Vendor's marketplace description:** <p>Viele Leute wollen online Geld verdienen, scheuen aber Social-Media-Präsenz. Dieser Guide zeigt genau diesen Weg – ideal zu bewerben in Nischen wie "Finanzen ohne Reichweite", "Introvertiert Geld verdienen" oder "Online-Business ohne Kamera".</p>
+<p>✅ Klare Alleinstellung gegenüber Standard-Guides</p>
+<p>✅ 35% Provision</p>
+<p>✅ Digitaler Download, sofort lieferbar</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/710228?aff=adminstore
-- Sales page: https://www.checkout-ds24.com/product/710228
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57555/adminstore/
+- Sales page: https://ubiquitous-chimera-314f42.netlify.app
 - Canonical redirect: https://www.digistore24.com/redir/710228/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
 - **Page title:** Passives Einkommen aufbauen – Komplett-Guide für Anfänger - Digistore24
 - **OG title:** Passives Einkommen aufbauen – Komplett-Guide für Anfänger
+- **Final URL after redirects:** https://www.checkout-ds24.com/product/710228
 - **Section headlines (H3):**
   - Passives Einkommen aufbauen – Komplett-Guide für Anfänger
   - Passives Einkommen aufbauen – Komplett-Guide für Anfänger
@@ -68,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Passives Einkommen ohne Social Media – Anfänger Guide? — Typ: E-books, Anbieter: soudmohsin68cc4f, gelistet seit 2026-07-16
-- Wie viel kostet es? — 37.192714 USD
+- Wie viel kostet es? — 37.109739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

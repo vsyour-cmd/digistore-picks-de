@@ -4,34 +4,34 @@ digistore24_product_id: 356950
 title: "ONLINE TANZKURS ANFÄNGER/BRONZE"
 vendor: "andyandkellykainz"
 product_type: "Member area and video courses"
-price: 32.87
+price: 32.79
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 6.58
+earnings_per_sale: 6.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-11-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://andyandkellykainz.com/bronze-tanzkurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/36087/adminstore/"
 sales_page: "https://andyandkellykainz.com/bronze-tanzkurs/"
 language: "de"
 ---
 # ONLINE TANZKURS ANFÄNGER/BRONZE
 
 > Product ID `36087` · Digistore24 productId `356950` · [HTML profile page](../../produkte/online-tanzkurs-anf-nger-bronze-36087.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.87 (Single payment) |
+| Price | $32.79 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $6.58 |
+| Earnings/sale* | $6.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andyandkellykainz |
@@ -41,11 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wir sind die erste Tanzschule, die das gesamte Programm (Schritte und Figuren) des Bronze Levels online zum selber Lernen und/oder kursunterstützend anbietet. Ideal auch zur Vorbereitung auf die nächste Tanzleistungsprüfung in deiner Tanzschule! Detaillierte Schritte- und Figurenerklärungen mit vielen weiteren wertvollen Expertentipps von Andy & Kelly.Alles wird auch aus verschiedenen Richtungen m…
+**Vendor's marketplace description:** <p>Wir sind die erste Tanzschule, die das gesamte Programm (Schritte und Figuren) des Bronze Levels online <strong>zum selber Lernen</strong> und/oder <strong>kursunterstützend</strong> anbietet. <br />Ideal auch zur <strong>Vorbereitung auf die nächste Tanzleistungsprüfung</strong> in deiner Tanzschule!</p>
+<p><strong>Detaillierte Schritte- und Figurenerklärungen</strong> mit vielen weiteren <strong>wertvollen Expertentipps</strong> von Andy &amp; Kelly.<br />Alles wird auch aus verschiedenen Richtungen mit Musik gezeigt.</p>
+<p>Der Onlinekurs entwickelt sich je nach Kunden Feedback laufend weiter!<br />Wenn eine Figur noch nicht enthalten ist, wird sie von uns aufgenommen und ergänzt.</p>
+<h2>Andy &amp; Kelly's langjährige Erfahrung in Kombination mit ihrem einzigartigen Unterhaltungsfaktor machen den Unterschied</h2>
+<ul>
+<li>lange erfolgreiche Tanzsportkarriere in den Top 10 der Amateure und Profis</li>
+<li>mehrfache österreichische und britische Meister</li>
+<li>Blackpool Sieger</li>
+<li>ex österreichische Nationaltrainer</li>
+<li>5 Jahre bei ORF Dancingstars (österr. Let’s Dance)</li>
+<li>20 Jahre Erfahrung als Tanzprofis</li>
+<li>digitale Tanzschule seit 2019</li>
+</ul>
+<h2>Vorteile</h2>
+<ol>
+<li>Qualitätsprodukt</li>
+<li>Bekanntheit der Trainer aus dem Fernsehen (ORF/RTL)</li>
+<li>Stornoquote verschwindend gering</li>
+<li>Persönlicher Support</li>
+<li>Promomaterial auf Anfrage</li>
+</ol>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://andyandkellykainz.com/bronze-tanzkurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36087/adminstore/
 - Sales page: https://andyandkellykainz.com/bronze-tanzkurs/
 - Canonical redirect: https://www.digistore24.com/redir/356950/adminstore
 
@@ -83,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ONLINE TANZKURS ANFÄNGER/BRONZE? — Typ: Member area and video courses, Anbieter: andyandkellykainz, gelistet seit 2020-11-12
-- Wie viel kostet es? — 32.867198 USD
+- Wie viel kostet es? — 32.793873 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 66335
 title: "ActiveBrain Akademie"
 vendor: "Insider-Media"
 product_type: "Downloads"
-price: 44.26
+price: 44.16
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 15.5
+earnings_per_sale: 15.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2015-12-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.lerntipp.com/gehirnfitness?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/17449/adminstore/"
 sales_page: "https://www.lerntipp.com/gehirnfitness"
 language: "de"
 ---
 # ActiveBrain Akademie
 
 > Product ID `17449` · Digistore24 productId `66335` · [HTML profile page](../../produkte/activebrain-akademie-17449.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $44.26 (Single payment) |
+| Price | $44.16 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $15.50 |
+| Earnings/sale* | $15.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Steigere mit exklusiv entwickelten Gehirnjogging Aufgaben deine kognitive Leistungsfähigkeit und halte dich mit Spielen geistig fit und gesund 1 x im Monat bekommst du exklusive Gedächtnisaufgaben und Spiele die deine mathematische, logische, kreative Leistungsfähigkeit verbessern – und mehr…
+**Vendor's marketplace description:** <div>
+<div>
+<h1>Steigere mit exklusiv entwickelten Gehirnjogging Aufgaben deine kognitive Leistungsfähigkeit und halte dich mit Spielen geistig fit und gesund</h1>
+</div>
+</div>
+<div>
+<div>
+<h2>1 x im Monat bekommst du exklusive Gedächtnisaufgaben und Spiele die deine mathematische, logische, kreative Leistungsfähigkeit verbessern – und mehr…</h2>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.lerntipp.com/gehirnfitness?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/17449/adminstore/
 - Sales page: https://www.lerntipp.com/gehirnfitness
 - Vendor affiliate support: https://www.lerntipp.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/66335/adminstore
@@ -67,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ActiveBrain Akademie? — Typ: Downloads, Anbieter: Insider-Media, gelistet seit 2015-12-16
-- Wie viel kostet es? — 44.2637 USD
+- Wie viel kostet es? — 44.164950000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

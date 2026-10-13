@@ -4,16 +4,16 @@ digistore24_product_id: 706393
 title: "Digitaler Pflegeratgeber"
 vendor: "PflegekommpassAutismusRecht"
 product_type: "E-books"
-price: 28.27
+price: 28.21
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 7.07
+earnings_per_sale: 7.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Marketing Services"]
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/706393?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/706393"
@@ -22,16 +22,16 @@ language: "de"
 # Digitaler Pflegeratgeber
 
 > Product ID `57552` · Digistore24 productId `706393` · [HTML profile page](../../produkte/digitaler-pflegeratgeber-57552.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.27 (Single payment) |
+| Price | $28.21 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $7.07 |
+| Earnings/sale* | $7.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PflegekommpassAutismusRecht |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Oft wird ein Pflegegrad falsch eingestuft oder abgelehnt, um dies zu vermeiden hilf der ausführliche Leitfaden über die Pflegegrade. Inhalt: Was ist ein Pflegegrad? Wie beantrage ich einen Pflegegrad? Was muss ich beachten. Welche Geldleistungen stehen jedem Pflegebedürftigen zu, wie verwende ich sie. In meine digitalen Ratgeber wird alles ausführlich beschrieben, um Pflegebedürftigen und Angehöri…
+**Vendor's marketplace description:** <p>Oft wird ein Pflegegrad falsch eingestuft oder abgelehnt, um dies zu vermeiden hilf der ausführliche Leitfaden über die Pflegegrade. </p>
+<p>Inhalt:</p>
+<p>Was ist ein Pflegegrad?</p>
+<p>Wie beantrage ich einen Pflegegrad?</p>
+<p>Was muss ich beachten. </p>
+<p>Welche Geldleistungen stehen jedem Pflegebedürftigen zu, wie verwende ich sie.</p>
+<p>In meine digitalen Ratgeber wird alles ausführlich beschrieben, um Pflegebedürftigen und Angehörigen zu helfen. </p>
 
 ## 2. Links
 
@@ -70,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digitaler Pflegeratgeber? — Typ: E-books, Anbieter: PflegekommpassAutismusRecht, gelistet seit 2026-07-16
-- Wie viel kostet es? — 28.272738 USD
+- Wie viel kostet es? — 28.209663000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

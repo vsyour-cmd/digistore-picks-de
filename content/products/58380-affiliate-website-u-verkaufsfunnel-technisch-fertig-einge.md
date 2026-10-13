@@ -4,16 +4,16 @@ digistore24_product_id: 721417
 title: "Affiliate-Website u. Verkaufsfunnel – technisch fertig einge"
 vendor: "rs-onlineagentur"
 product_type: "Downloads"
-price: 14.03
+price: 14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.01
+earnings_per_sale: 7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-08-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://rita-scheer.de/50-pinterest-vorlagen/?aff=adminstore#aff=adminstore"
 sales_page: "http://rita-scheer.de/50-pinterest-vorlagen/"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate-Website u. Verkaufsfunnel – technisch fertig einge
 
 > Product ID `58380` · Digistore24 productId `721417` · [HTML profile page](../../produkte/affiliate-website-u-verkaufsfunnel-technisch-fertig-einge-58380.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.03 (Single payment) |
+| Price | $14.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.01 |
+| Earnings/sale* | $7.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rs-onlineagentur |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate-Website & Verkaufsfunnel – technisch fertig eingerichtet Diese Remote-Dienstleistung richtet sich an Selbstständige, Affiliate-Marketer und Anbieter digitaler Produkte, die ihre Website nicht selbst technisch aufbauen möchten. RS Webdesign erstellt eine klar strukturierte Affiliate-Website und verbindet die wichtigsten Bestandteile zu einem funktionierenden System: Website, Freebie, News…
+**Vendor's marketplace description:** <p>Affiliate-Website &amp; Verkaufsfunnel – technisch fertig eingerichtet</p>
+<p>Diese Remote-Dienstleistung richtet sich an Selbstständige, Affiliate-Marketer und Anbieter digitaler Produkte, die ihre Website nicht selbst technisch aufbauen möchten.</p>
+<p>RS Webdesign erstellt eine klar strukturierte Affiliate-Website und verbindet die wichtigsten Bestandteile zu einem funktionierenden System: Website, Freebie, Newsletter-Anmeldung und Digistore24-Angebote.</p>
+<p>Im Paket enthalten:</p>
+<p>• individuelle Startseite<br />• Über-mich-Seite<br />• Produktübersicht<br />• Freebie- oder Verkaufsseite<br />• Kontaktseite<br />• Newsletter-Integration<br />• Einbindung der Digistore24-Links<br />• Optimierung für Smartphone und Tablet<br />• technische SEO-Grundeinstellungen<br />• Veröffentlichung der fertigen Website<br />• persönliches Erstgespräch<br />• eine Korrekturrunde</p>
+<p>Die Umsetzung erfolgt persönlich und vollständig remote. Nach dem Kauf nimmt RS Webdesign per E-Mail Kontakt mit dem Kunden auf und stimmt die benötigten Inhalte und Zugänge ab.</p>
+<p>Die Dienstleistung eignet sich besonders für Menschen, die mit Affiliate-Marketing oder digitalen Produkten arbeiten und eine verständliche, technisch saubere Website benötigen.</p>
+<p>Wichtig: Die Website schafft die technische Grundlage für das Online-Angebot. Bestimmte Umsätze, Besucherzahlen oder Verkaufsergebnisse werden nicht garantiert.</p>
 
 ## 2. Links
 
@@ -80,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate-Website u. Verkaufsfunnel – technisch fertig einge? — Typ: Downloads, Anbieter: rs-onlineagentur, gelistet seit 2026-08-15
-- Wie viel kostet es? — 14.029912 USD
+- Wie viel kostet es? — 13.998612000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

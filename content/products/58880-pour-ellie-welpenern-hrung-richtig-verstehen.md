@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/712067?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/712067"
@@ -22,7 +22,7 @@ language: "de"
 # Pour Ellie – Welpenernährung richtig verstehen
 
 > Product ID `58880` · Digistore24 productId `712067` · [HTML profile page](../../produkte/pour-ellie-welpenern-hrung-richtig-verstehen-58880.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Welpenernährung verstehen – für einen gesunden Start ins Leben Gerade in der Wachstumsphase möchten Hundehalter alles richtig machen. Gleichzeitig herrscht große Unsicherheit: Welches Futter ist geeignet? Wie viel braucht ein Welpe? Wächst er zu schnell oder zu langsam? Welche Rolle spielen Calcium und Phosphor? Und darf ein Welpe gekocht oder roh gefüttert werden? Der Onlinekurs „Welpenernährung …
+**Vendor's marketplace description:** <p><strong>Welpenernährung verstehen – für einen gesunden Start ins Leben</strong></p>
+<p>Gerade in der Wachstumsphase möchten Hundehalter alles richtig machen. Gleichzeitig herrscht große Unsicherheit: Welches Futter ist geeignet? Wie viel braucht ein Welpe? Wächst er zu schnell oder zu langsam? Welche Rolle spielen Calcium und Phosphor? Und darf ein Welpe gekocht oder roh gefüttert werden?</p>
+<p>Der Onlinekurs <strong>„Welpenernährung verstehen“</strong> vermittelt fundiertes und verständlich aufbereitetes Wissen rund um die Ernährung von Welpen und Junghunden – ohne starre Fütterungsdogmen und ohne pauschale Produktempfehlungen.</p>
+<p>Die Teilnehmer lernen, Wachstum, Futtermenge, Nährstoffversorgung und Futterqualität besser einzuordnen, damit sie Entscheidungen nicht aufgrund von Werbung oder widersprüchlichen Empfehlungen treffen müssen.</p>
+<p><strong>Im Kurs lernen Hundehalter unter anderem:</strong></p>
+<p>• warum Welpen keine kleinen erwachsenen Hunde sind<br />• wie gesundes und gleichmäßiges Wachstum beurteilt werden kann<br />• wie sich Energiebedarf und Futtermenge während des Wachstums verändern<br />• welche Rolle Protein, Fett und Aminosäuren spielen<br />• warum Calcium, Phosphor und Mineralstoffversorgung im Wachstum besonders sensibel sind<br />• wie Welpenfutter und Deklarationen kritisch beurteilt werden können<br />• wie Nährstoffanalysen, Omega-3-Angaben, Verarbeitungsgrad und Marketingaussagen eingeordnet werden<br />• worauf bei Leckerlis und Kauartikeln geachtet werden sollte<br />• wie Futterumstellungen sinnvoll begleitet werden<br />• was bei frischer Ernährung, Kochen und BARF im Wachstum wichtig ist<br />• wie Gewicht, Wachstum, Kot, Haut, Ohren, Energie und Verträglichkeit strukturiert beobachtet werden können.</p>
+<p><strong>Zusätzlich enthalten:</strong></p>
+<p>• ein konkretes Beispielrezept für eine Welpenration<br />• Anleitung zur Umrechnung des Rezeptes auf den eigenen Welpen<br />• Checkliste zur Beurteilung von Welpenfutter<br />• Wochenprotokoll für Gewicht, Fütterung und Verträglichkeit<br />• PDF <strong>„Mein Welpe – Ernährungs- &amp; Entwicklungsbüchlein“</strong><br />• praktische Arbeitsunterlagen für den Alltag.</p>
+<p><strong>Für verschiedene Fütterungsarten geeignet:</strong><br />Der Kurs richtet sich nicht nur an Hundehalter, die frisch füttern möchten. Auch bei Trocken- oder Nassfutter lernen Teilnehmer, Deklarationen, Nährstoffanalysen und Marketingaussagen besser zu beurteilen. Kochen und BARF werden ebenfalls thematisiert; der Kurs ersetzt dabei bewusst keine individuelle Rationsberechnung.</p>
+<p><strong>Zwei Möglichkeiten für Käufer:</strong><br />Der Welpenkurs kann einzeln gebucht werden. Für Hundehalter ohne solides Grundlagenwissen zur Hundeernährung gibt es zusätzlich das empfohlene <strong>Bundle aus Basis-Kurs Futterklarheit + Welpenkurs.</strong> Der Basis-Kurs vermittelt das Fundament, der Welpenkurs die spezielle Anwendung für Wachstum und Entwicklung.</p>
+<p><strong>Für wen eignet sich das Partnerprogramm?</strong></p>
+<p>Besonders interessant für Hundetrainer, Hundeschulen, Tierarztpraxen, Tiertherapeuten, Hundeernährungsberater, Tierkommunikatoren, Züchter, Hundephysiotherapeuten, Hundebetreuer sowie Content Creator mit einer Zielgruppe aus Hundehaltern.</p>
+<p>Gerade Züchter und Hundeschulen sind für dieses Produkt spannende Affiliate-Partner, weil sie häufig bereits vor oder unmittelbar nach dem Einzug eines Welpen Kontakt zu den zukünftigen Hundehaltern haben.</p>
+<p><strong>Warum diesen Kurs empfehlen?</strong></p>
+<p>• sehr klar definierte Zielgruppe: Welpenbesitzer und zukünftige Welpenhalter<br />• fundiertes Wissen für eine besonders wichtige Entwicklungsphase<br />• Wachstum und Fütterung werden gemeinsam betrachtet<br />• Schwerpunkt auf Energie sowie Calcium- und Phosphorversorgung<br />• geeignet unabhängig davon, ob Fertigfutter, gekocht oder BARF gefüttert wird<br />• praktische Checklisten, Protokolle und Arbeitsmaterialien<br />• Beispielrezept inklusive Umrechnungsanleitung<br />• keine pauschalen Produktempfehlungen<br />• unabhängige Wissensvermittlung<br />• sofort verfügbar<br />• 120 Tage Zugriff<br />• Teil der Pour-Ellie-Wissenswelt rund um Hundeernährung und Tierfutterherstellung</p>
+<p><strong>Affiliate-Provision: 40 %</strong></p>
+<p>Die Zuordnung der vermittelten Verkäufe und die Abrechnung der Provision erfolgen automatisch über Digistore24.</p>
 
 ## 2. Links
 

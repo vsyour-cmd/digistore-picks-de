@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-09-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://sfo.siluna.li/lp/?aff=adminstore#aff=adminstore"
 sales_page: "https://sfo.siluna.li/lp/"
@@ -22,7 +22,7 @@ language: "de"
 # Finanz-Organisator – KI sortiert deine Rechnungen und Belege automatisch
 
 > Product ID `59254` · Digistore24 productId `727290` · [HTML profile page](../../produkte/finanz-organisator-ki-sortiert-deine-rechnungen-und-belege-automatisch-59254.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Rechnungen, Belege, Verträge und Kontoauszüge einfach hochladen – eine KI liest sie aus, sortiert sie nach Kategorie, erkennt Doppelzahlungen und laufende Abos und baut eine To-do-Liste mit Fälligkeiten. Dazu ein Monats-Dashboard der Ausgaben und ein Schulden-Modul mit Tilgungs-Strategie und Musterbrief für Gläubiger. Zielgruppe: Privatpersonen und Selbständige, die den Überblick über ihre laufend…
+**Vendor's marketplace description:** <p>Rechnungen, Belege, Verträge und Kontoauszüge einfach hochladen – eine KI liest sie aus, sortiert sie nach Kategorie, erkennt Doppelzahlungen und laufende Abos und baut eine To-do-Liste mit Fälligkeiten.</p>
+<p>Dazu ein Monats-Dashboard der Ausgaben und ein Schulden-Modul mit Tilgungs-Strategie und Musterbrief für Gläubiger.</p>
+<p>Zielgruppe: Privatpersonen und Selbständige, die den Überblick über ihre laufenden Finanzen behalten wollen, ohne Buchhaltungs-Vorwissen.</p>
+<p>Monatsabo CHF 19, monatlich kündbar. Digitales Produkt, sofortiger Online-Zugang nach Kauf per E-Mail.</p>
 
 ## 2. Links
 

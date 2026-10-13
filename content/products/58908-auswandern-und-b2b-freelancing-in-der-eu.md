@@ -4,16 +4,16 @@ digistore24_product_id: 725694
 title: "Auswandern und B2B-Freelancing in der EU"
 vendor: "info269b"
 product_type: "E-books"
-price: 13.6
+price: 13.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.8
+earnings_per_sale: 6.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/725694?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/725694"
@@ -22,16 +22,16 @@ language: "de"
 # Auswandern und B2B-Freelancing in der EU
 
 > Product ID `58908` · Digistore24 productId `725694` · [HTML profile page](../../produkte/auswandern-und-b2b-freelancing-in-der-eu-58908.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.60 (Single payment) |
+| Price | $13.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.80 |
+| Earnings/sale* | $6.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | info269b |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieser Ratgeber unterstützt angehende Auswanderer mit Tipps und Impulsen bei ihrem ortsunabhängigen Neustart als Freelancer (B2B/digitale Dienstleistungen) innerhalb der EU. Das Buch begleitet deine Zielgruppe von der ersten Ideenfindung für die selbstständige Tätigkeit bis hin zur konkreten Umsetzung. Deine Leser erfahren, wie sie eine fundierte Marktanalyse durchführen, sich als Experten positio…
+**Vendor's marketplace description:** <p>Dieser Ratgeber unterstützt angehende Auswanderer mit Tipps und Impulsen bei ihrem ortsunabhängigen Neustart als Freelancer (B2B/digitale Dienstleistungen) innerhalb der EU. Das Buch begleitet deine Zielgruppe von der ersten Ideenfindung für die selbstständige Tätigkeit bis hin zur konkreten Umsetzung. Deine Leser erfahren, wie sie eine fundierte Marktanalyse durchführen, sich als Experten positionieren und die Bereiche Vertrieb, Marketing sowie Finanzplanung erfolgreich meistern. Zusätzlich hilft ihnen der Ratgeber bei der Auswahl des optimalen Standorts. Das E-Book kann einzeln oder in Kombination mit dem begleitenden Workbook erworben werden.</p>
 
 ## 2. Links
 
@@ -73,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Auswandern und B2B-Freelancing in der EU? — Typ: E-books, Anbieter: info269b, gelistet seit 2026-09-04
-- Wie viel kostet es? — 13.604084 USD
+- Wie viel kostet es? — 13.573734000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 466090
 title: "Videokurs: Lohnssteuer"
 vendor: "Steinkellner"
 product_type: "Member area and video courses"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 21.85
+earnings_per_sale: 21.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2022-10-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.lern-impuls.at/lohnsteuer/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/44781/adminstore/"
 sales_page: "https://www.lern-impuls.at/lohnsteuer/"
 language: "de"
 ---
 # Videokurs: Lohnssteuer
 
 > Product ID `44781` · Digistore24 productId `466090` · [HTML profile page](../../produkte/videokurs-lohnssteuer-44781.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $21.85 |
+| Earnings/sale* | $21.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Steinkellner |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Videokurs: Lohnssteuer Empfehle unseren Videokurs weiter und erfreue dich an attraktiven Vorteilen: ---> 80 % Provision ---> wachsende Plattform ---> Cross Selling von verwandten Produkten ---> monatlich neue Inhalte verfügbar ---> schnelle Problembearbeitung durch unseren Affiliate-Manager Verdiene jetzt mit unseren Videokursen, e-Books und Seminaren ein Leben lang. Informiere dich auf unserer Se…
+**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>Videokurs: Lohnssteuer</strong></span></p>
+<p>Empfehle unseren Videokurs weiter und erfreue dich an attraktiven Vorteilen:</p>
+<p>---&gt; 80 % Provision</p>
+<p>---&gt; wachsende Plattform</p>
+<p>---&gt; Cross Selling von verwandten Produkten</p>
+<p>---&gt; monatlich neue Inhalte verfügbar</p>
+<p>---&gt; schnelle Problembearbeitung durch unseren Affiliate-Manager</p>
+<p> </p>
+<p>Verdiene jetzt mit unseren Videokursen, e-Books und Seminaren ein Leben lang.</p>
+<p>Informiere dich auf unserer Seite: <a title="Geld verdienen mit lern-impuls" href="https://www.lern-impuls.at/geld-verdienen-mit-lern-impuls/" target="_blank" rel="noreferrer noopener">https://www.lern-impuls.at/geld-verdienen-mit-lern-impuls/</a></p>
+<p> </p>
+<p>Deine </p>
+<p>Karin von lern-impuls</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.lern-impuls.at/lohnsteuer/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/44781/adminstore/
 - Sales page: https://www.lern-impuls.at/lohnsteuer/
 - Canonical redirect: https://www.digistore24.com/redir/466090/adminstore
 
@@ -66,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs: Lohnssteuer? — Typ: Member area and video courses, Anbieter: Steinkellner, gelistet seit 2022-10-23
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

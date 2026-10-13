@@ -4,16 +4,16 @@ digistore24_product_id: 574531
 title: "Minikurse: Tiefer | Lauter sprechen | Langsam sprechen"
 vendor: "Stimmfluencer"
 product_type: "Downloads"
-price: 20.11
+price: 20.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.06
+earnings_per_sale: 10.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2024-10-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.stimmfluencer.de/minikurse?aff=adminstore#aff=adminstore"
 sales_page: "https://www.stimmfluencer.de/minikurse"
@@ -22,16 +22,16 @@ language: "de"
 # Minikurse: Tiefer | Lauter sprechen | Langsam sprechen
 
 > Product ID `49982` · Digistore24 productId `574531` · [HTML profile page](../../produkte/minikurse-tiefer-lauter-sprechen-langsam-sprechen-49982.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.11 (Single payment) |
+| Price | $20.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.06 |
+| Earnings/sale* | $10.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Stimmfluencer |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du bekommst 50% Provision! Infos zu den Kursen: Formate: Bearbeitbares Workbook Video-Dateien / Audio-Dateien voller Übungsanleitungen Inhalte: Es handelt sich um mehrere Minikurse, die verschiedene Sprech- und Stimmthemen aufgreifen. Diese befinden sich alle auf der gleichen Verkaufsseite, bei jedem Produkt gibt es die hier angegebene Provision. Zielgruppe: Alle, die täglich viel sprechen Mensche…
+**Vendor's marketplace description:** <h2>Du bekommst 50% Provision!</h2>
+<h3>Infos zu den Kursen:</h3>
+<p><strong>Formate:</strong></p>
+<ul>
+<li>Bearbeitbares Workbook</li>
+<li>Video-Dateien / Audio-Dateien voller Übungsanleitungen</li>
+</ul>
+<p><strong>Inhalte:</strong></p>
+<p>Es handelt sich um mehrere Minikurse, die verschiedene Sprech- und Stimmthemen aufgreifen. Diese befinden sich alle auf der gleichen Verkaufsseite, bei jedem Produkt gibt es die hier angegebene Provision. </p>
+<p><strong>Zielgruppe:</strong></p>
+<ul>
+<li>Alle, die täglich viel sprechen</li>
+<li>Menschen, die beruflich oder privat Situationen erleben, in denen sie nicht ernstgenommen oder nicht richtig verstanden werden</li>
+<li>Personen, die lernen möchten, ihre Kommunikation zu professionalisieren</li>
+</ul>
 
 ## 2. Links
 
@@ -75,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Minikurse: Tiefer | Lauter sprechen | Langsam sprechen? — Typ: Downloads, Anbieter: Stimmfluencer, gelistet seit 2024-10-10
-- Wie viel kostet es? — 20.11477 USD
+- Wie viel kostet es? — 20.069895000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

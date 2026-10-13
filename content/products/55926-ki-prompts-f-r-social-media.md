@@ -12,8 +12,8 @@ cart_conversion_pct: 59
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
 listed_since: "2026-03-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://ki-prompts-social.frankplewan.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://ki-prompts-social.frankplewan.de/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Prompts für Social Media
 
 > Product ID `55926` · Digistore24 productId `674609` · [HTML profile page](../../produkte/ki-prompts-f-r-social-media-55926.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenke "KI Prompts für Social Media Bilder" an deine Community! Deine Kunden erhalten kostenlos: Einen 50-seitigen Guide mit 30 Bild-Prompts und 10 Bonus Video-/Reel-Prompts für ChatGPT, Gemini und Grok Geeignet für Instagram, Facebook, Pinterest und TikTok Schnell und einfach beeindruckende Social Media Bilder mit KI erstellen – ohne Designkenntnisse und mit geringem Zeitaufwand! Perfekt für …
+**Vendor's marketplace description:** <p><strong>Verschenke "KI Prompts für Social Media Bilder" an deine Community!</strong></p>
+<p>Deine Kunden erhalten kostenlos:</p>
+<ul>
+<li>Einen 50-seitigen Guide mit 30 Bild-Prompts und 10 Bonus Video-/Reel-Prompts für ChatGPT, Gemini und Grok</li>
+<li>Geeignet für Instagram, Facebook, Pinterest und TikTok</li>
+<li>Schnell und einfach beeindruckende Social Media Bilder mit KI erstellen – ohne Designkenntnisse und mit geringem Zeitaufwand!</li>
+<li>Perfekt für Content Creator, Affiliate Marketing, Network Marketing, Online-Unternehmer und alle, die mehr Reichweite wollen.</li>
+</ul>
+<p>Einfach Prompt kopieren, in die KI einfügen und sofort loslegen!</p>
+<p><strong>Deine Benefits:</strong></p>
+<ul>
+<li>Du bekommst 50% im kompletten Funneldurchlauf</li>
+<li>Second-Level Provisionen sind 10% für dich passiv</li>
+<li>Du kannst bis zu 120 € Provision bei den Upsells verdienen</li>
+<li>Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert</li>
+<li>Hervorragendes Produkt für jeden, der fesselnde KI-generierte Bilder für seine Social Media Kanäle erstellen möchte</li>
+<li>Hohe Conversion, da es kostenlos ist</li>
+</ul>
+<p>Auf unserer Partnerseite erwarten dich neben allen Informationen E-Mail-Vorlagen sowie Headlines und Bilder, die du nutzen kannst, wie du möchtest!</p>
 
 ## 2. Links
 

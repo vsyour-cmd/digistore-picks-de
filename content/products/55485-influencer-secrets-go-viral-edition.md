@@ -12,17 +12,17 @@ cart_conversion_pct: 62
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-02-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.meinneuerlifestyle.vip/Influencer-Secrets/?aff=adminstore#aff=adminstore"
+promo_link: "http://www.werdemusiker.de/musiktheorie-for-fun-ng3/#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/Influencer-Secrets/"
 language: "de"
 ---
 # Influencer Secrets - GO Viral Edition
 
 > Product ID `55485` · Digistore24 productId `667052` · [HTML profile page](../../produkte/influencer-secrets-go-viral-edition-55485.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Influencer Secrets - Go Viral Edition (German Editionn ✅ Deine Community will Viral gehen? Dann braucht Sie die Go Viral Edition der Influencer Secrets ✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 123 Euro
+**Vendor's marketplace description:** <div><em><strong>Influencer Secrets - Go Viral Edition (German Editionn</strong></em></div>
+<div> </div>
+<div><em><strong>✅ </strong>Deine Community will Viral gehen? Dann braucht Sie die Go Viral Edition der Influencer Secrets </em></div>
+<div> </div>
+<div><em><strong>✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet</strong></em></div>
+<div><br /><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></div>
+<div> </div>
+<div><span style="background-color:#ffff00;"><em><strong>Du kannst durch Upsells und AddOn bis zu 123 Euro</strong></em></span></div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.meinneuerlifestyle.vip/Influencer-Secrets/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://www.werdemusiker.de/musiktheorie-for-fun-ng3/#aff=adminstore
 - Sales page: https://www.meinneuerlifestyle.vip/Influencer-Secrets/
 - Vendor affiliate support: https://www.meinneuerlifestyle.vip/werbemittel-influencer-secrets/
 - Canonical redirect: https://www.digistore24.com/redir/667052/adminstore
@@ -59,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Influencer Secrets - GO Viral Edition? — Typ: Member area and video courses, Anbieter: Spekulatius, gelistet seit 2026-02-06
-- Wie viel kostet es? — 0.033618 USD
+- Wie viel kostet es? — 0.033543 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

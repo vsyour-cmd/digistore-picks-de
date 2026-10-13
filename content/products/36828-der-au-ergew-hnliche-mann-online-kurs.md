@@ -4,16 +4,16 @@ digistore24_product_id: 384521
 title: "Der außergewöhnliche Mann - Online-Kurs"
 vendor: "herozon"
 product_type: "Member area and video courses"
-price: 393.62
+price: 392.74
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 196.81
+earnings_per_sale: 196.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-04-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://home.herozon.de/der-aussergewoehnliche-mann?aff=adminstore#aff=adminstore"
 sales_page: "https://home.herozon.de/der-aussergewoehnliche-mann"
@@ -22,16 +22,16 @@ language: "de"
 # Der außergewöhnliche Mann - Online-Kurs
 
 > Product ID `36828` · Digistore24 productId `384521` · [HTML profile page](../../produkte/der-au-ergew-hnliche-mann-online-kurs-36828.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $393.62 (Single payment, Installment) |
+| Price | $392.74 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $196.81 |
+| Earnings/sale* | $196.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | herozon |
@@ -41,7 +41,38 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Herzlich Willkommen in meinem Affiliate-Bereich, ich bin Matthias und es freut mich, dich hier begrüßen zu dürfen. Meine Dating-Kurse-Ratgeber liefern echten Mehrwert und der Verkaufsfunnel beschert dir reichlich Provisionen, satte 50 % auf JEDES Produkt, also auch 50 % auf alle Upsells und Downsells UND 25 % auf alle direkten Upsells vom Flagship Online-Coaching-Kurs "Der intuitive Verführer". In…
+**Vendor's marketplace description:** <p><strong>Herzlich Willkommen in meinem Affiliate-Bereich,</strong></p>
+<p>ich bin Matthias und es freut mich, dich hier begrüßen zu dürfen. </p>
+<p>Meine Dating-Kurse-Ratgeber liefern <strong>echten Mehrwert</strong> und der Verkaufsfunnel beschert dir reichlich Provisionen, <strong>satte 50 % auf JEDES Produkt</strong>, also auch 50 % auf alle Upsells und Downsells <strong>UND</strong> <strong>25 %</strong> auf alle direkten Upsells vom Flagship Online-Coaching-Kurs <strong><em>"Der intuitive Verführer"</em></strong>.</p>
+<p>In meinem Verkaufsfunnel erhält der Kunde folgende Produkte in folgender Reihenfolge angezeigt:</p>
+<ul>
+<li>Frontend: <em>Freundin finden / Frauen angstrei ansprechen Bundle</em> - E-Book - Preis:<strong> € 4,99</strong> - Provision 50%</li>
+<li>Upsell 1: <em>(Sex-)Erfolgsgeheimnisse außergewöhnlicher Männer - Online-Kurs - Preis: € 27,- - <strong>Provision 50%</strong></em></li>
+<li>Upsell 2: <em>Der außergewöhnliche Mann - Online-Kurs - Preis: <strong>€ 397,-</strong>  - <strong>Provision 50%</strong></em></li>
+<li><em>Upsell 3: "Der intuitive Verführer" - Online-Coaching-Programm - Preis<strong> € 1.997,-</strong> - P</em><strong>rovision 25 % ODER Option </strong>VIP - Preis <strong>€ 3.997,-</strong> - <strong>Provision 25 %</strong></li>
+</ul>
+<p><strong>================================</strong></p>
+<h3><strong>Der außergewöhnliche Mann - Online-Kurs</strong></h3>
+<div>
+<div>
+<div>
+<h4><em>Du kannst im nächsten Jahr Deines Lebens mehr erreichen als in den 5 Jahren zuvor... </em></h4>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<ul>
+<li>Du wirst zu einem Mann, der in der Lage ist, jedes Ziel zu erreichen und die Hindernisse auf dem Weg zu überspringen</li>
+<li>Du nutzt die Ressource, die von den meisten Männern in ihrem Leben niemals angezapft wird -  damit bist Du in der Lage Dein Leben zu einem Meisterwerk zu machen</li>
+<li>Du entwickelst eine außergewöhnliche Ausstrahlung auf Frauen, die neue Möglichkeiten abseits des Dir Bekannten schafft</li>
+<li>Du findest Zugang zu Deinen echten Fähigkeiten und Talenten - wie wäre es für Dich Geld mit etwas zu verdienen, das Dir wirklich Spaß macht? </li>
+<li>Du holst Dir Deine urgegebene sexuelle Intelligenz zurück: Erlebe härtere und größere Erektionen als jemals zuvor, und leite Frauen selbstsicher zum Orgasmus</li>
+</ul>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -94,7 +125,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der außergewöhnliche Mann - Online-Kurs? — Typ: Member area and video courses, Anbieter: herozon, gelistet seit 2021-04-14
-- Wie viel kostet es? — 393.621956 USD
+- Wie viel kostet es? — 392.743806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

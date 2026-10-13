@@ -4,16 +4,16 @@ digistore24_product_id: 422975
 title: "Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll"
 vendor: "RalfMollFastensuppen"
 product_type: "Online coaching"
-price: 46.99
+price: 46.88
 currency: "USD"
 affiliate_commission_pct: 12
-earnings_per_sale: 5.64
+earnings_per_sale: 5.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-01-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-schlankstattsauer/?aff=adminstore#aff=adminstore"
 sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-schlankstattsauer/"
@@ -22,16 +22,16 @@ language: "de"
 # Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll
 
 > Product ID `38860` · Digistore24 productId `422975` · [HTML profile page](../../produkte/der-10-tage-schlank-statt-sauer-kurs-mit-ralf-moll-38860.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $46.99 (Single payment) |
+| Price | $46.88 (Single payment) |
 | Affiliate commission | 12% |
-| Earnings/sale* | $5.64 |
+| Earnings/sale* | $5.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RalfMollFastensuppen |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Tue Gutes und empfehle deinen Kunden und Freunden unseren 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll weiter und verdiene mit uns mit! Deine Vorteile: -> Gute Provisionen von 15% für alle Produkte -> Garantiert etwas für deine Kunden dabei: Jeder muss mal fasten! -> Getestet und optimiert: Bereits über 1.000 verkaufte Online-Kurse -> Hohe Conversions und hoher Kundenwert: Profitiere mit an unse…
+**Vendor's marketplace description:** <h4><strong>Tue Gutes und empfehle deinen Kunden und Freunden unseren 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll weiter und verdiene mit uns mit!</strong></h4>
+<p>Deine Vorteile:</p>
+<p><strong>-&gt; Gute Provisionen von 15% für alle Produkte</strong></p>
+<p><strong>-&gt; Garantiert etwas für deine Kunden dabei: Jeder muss mal fasten!</strong></p>
+<p><strong>-&gt; Getestet und optimiert: Bereits über 1.000 verkaufte Online-Kurse</strong></p>
+<p><strong>-&gt; Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren optimierten Verkaufsfunneln und Riesennetzwerk</strong></p>
+<p><strong>-&gt; Schneller Support durch unseren Affiliate-Manager</strong></p>
+<p> </p>
+<p>Melde dich jetzt als Affiliate an und verdiene mit uns mit!</p>
+<p>Beste Fastengrüße<br />Ralf Moll</p>
 
 ## 2. Links
 
@@ -86,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll? — Typ: Online coaching, Anbieter: RalfMollFastensuppen, gelistet seit 2022-01-03
-- Wie viel kostet es? — 46.986758 USD
+- Wie viel kostet es? — 46.881933000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

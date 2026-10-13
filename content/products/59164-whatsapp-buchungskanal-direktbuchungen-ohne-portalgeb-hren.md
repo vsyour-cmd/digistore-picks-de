@@ -4,16 +4,16 @@ digistore24_product_id: 711408
 title: "WhatsApp-Buchungskanal – Direktbuchungen ohne Portalgebühren"
 vendor: "Anha13"
 product_type: "E-books"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.43
+earnings_per_sale: 10.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ahliving.de/whatsapp-buchungskanal-ferienwohnung/?aff=adminstore#aff=adminstore"
 sales_page: "https://ahliving.de/whatsapp-buchungskanal-ferienwohnung/"
@@ -22,16 +22,16 @@ language: "de"
 # WhatsApp-Buchungskanal – Direktbuchungen ohne Portalgebühren
 
 > Product ID `59164` · Digistore24 productId `711408` · [HTML profile page](../../produkte/whatsapp-buchungskanal-direktbuchungen-ohne-portalgeb-hren-59164.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.43 |
+| Earnings/sale* | $10.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Anha13 |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für wen: Gastgeberinnen und Gastgeber von Ferienwohnungen, die Direktbuchungen aufbauen wollen, statt jede Buchung über Portale und deren Gebühren laufen zu lassen. Was drin ist: Ein fertiger Weg, Anfragen und Buchungen über WhatsApp abzuwickeln – von der ersten Nachricht bis zur Bestätigung, mit Textbausteinen und einem Ablauf, der sich im Alltag durchhalten lässt. Zum integrieren auf der eigenen…
+**Vendor's marketplace description:** <p><strong>Für wen:</strong> Gastgeberinnen und Gastgeber von Ferienwohnungen, die Direktbuchungen aufbauen wollen, statt jede Buchung über Portale und deren Gebühren laufen zu lassen.</p>
+<p><strong>Was drin ist:</strong> Ein fertiger Weg, Anfragen und Buchungen über WhatsApp abzuwickeln – von der ersten Nachricht bis zur Bestätigung, mit Textbausteinen und einem Ablauf, der sich im Alltag durchhalten lässt.</p>
+<p>Zum integrieren auf der eigenen Homepage, Insta oder Facebook</p>
+<p><strong>Preis:</strong> 24,90 €  |  <strong>Provision:</strong> 40 %</p>
+<p><strong>Warum es sich verkauft:</strong> Portalgebühren sind der Dauerschmerz jedes Gastgebers, und Stammgäste bucht man ohnehin lieber direkt. Die Autorin vermietet selbst drei Ferienwohnungen und hat über 100 eingerichtet – das Verfahren kommt aus ihrem eigenen Betrieb.</p>
+<p><strong>Passende Kanäle:</strong> Blogs, Newsletter und Accounts rund um Ferienwohnung, Airbnb- und Booking-Gastgeber, Vermietung als Nebeneinkommen, Immobilien. Ganzjährig.</p>
 
 ## 2. Links
 
@@ -86,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WhatsApp-Buchungskanal – Direktbuchungen ohne Portalgebühren? — Typ: E-books, Anbieter: Anha13, gelistet seit 2026-09-13
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

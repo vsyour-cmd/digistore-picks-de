@@ -4,34 +4,34 @@ digistore24_product_id: 473710
 title: "Hypnoshape - Platin"
 vendor: "Glowing_Media"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.07
+earnings_per_sale: 23.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Services"]
 listed_since: "2022-12-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/product/473710?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47601/adminstore/"
 sales_page: "https://www.digistore24.com/product/473710"
 language: "de"
 ---
 # Hypnoshape - Platin
 
 > Product ID `47601` · Digistore24 productId `473710` · [HTML profile page](../../produkte/hypnoshape-platin-47601.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Subscription) |
+| Price | $46.04 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.07 |
+| Earnings/sale* | $23.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Glowing_Media |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hypnoshape ist ein einzigartiges, bisher noch nicht dagewesenes Konzept zum Abnehmen. Hypnotisches Magenband und Abnehmhypnose Effektives Ernährungskonzept (Ketogene Ernährung) Mentaltraining
+**Vendor's marketplace description:** <div>
+<div>
+<p>Hypnoshape ist ein einzigartiges, bisher noch nicht dagewesenes Konzept zum Abnehmen.</p>
+</div>
+</div>
+<div>
+<div>
+<ul>
+<li>Hypnotisches Magenband und Abnehmhypnose</li>
+<li>Effektives Ernährungskonzept (Ketogene Ernährung)</li>
+<li>Mentaltraining</li>
+</ul>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/473710?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47601/adminstore/
 - Sales page: https://www.digistore24.com/product/473710
 - Canonical redirect: https://www.digistore24.com/redir/473710/adminstore
 
@@ -76,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnoshape - Platin? — Typ: Member area and video courses, Anbieter: Glowing_Media, gelistet seit 2022-12-07
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

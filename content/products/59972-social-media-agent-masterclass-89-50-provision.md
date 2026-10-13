@@ -4,16 +4,16 @@ digistore24_product_id: 738060
 title: "Social Media Agent Masterclass – 89 €, 50 % Provision"
 vendor: "influexai"
 product_type: "Downloads"
-price: 83.81
+price: 83.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.91
+earnings_per_sale: 41.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/738060?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/738060"
@@ -22,16 +22,16 @@ language: "de"
 # Social Media Agent Masterclass – 89 €, 50 % Provision
 
 > Product ID `59972` · Digistore24 productId `738060` · [HTML profile page](../../produkte/social-media-agent-masterclass-89-50-provision-59972.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $83.81 (Single payment) |
+| Price | $83.62 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.91 |
+| Earnings/sale* | $41.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | influexai |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Social Media Agent Masterclass: 70 Schritt-für-Schritt-Lektionen in 15 Modulen zeigen, wie man Social Media mit KI-Agenten steuert – ganz ohne Programmierkenntnisse, rein textbasiert. Mit 19 Agentenrollen, 14 Content-Workflows mit Freigabepunkten, 50 Arbeits-Prompts, Workbook und Content-Planer. Zielgruppe: Creator, Social-Media-Manager und Selbstständige, die Content-Erstellung mit KI systematisi…
+**Vendor's marketplace description:** <p><strong>Social Media Agent Masterclass</strong>: 70 Schritt-für-Schritt-Lektionen in 15 Modulen zeigen, wie man Social Media mit KI-Agenten steuert – ganz ohne Programmierkenntnisse, rein textbasiert. Mit 19 Agentenrollen, 14 Content-Workflows mit Freigabepunkten, 50 Arbeits-Prompts, Workbook und Content-Planer.</p>
+<p><strong>Zielgruppe:</strong> Creator, Social-Media-Manager und Selbstständige, die Content-Erstellung mit KI systematisieren wollen.</p>
+<p><strong>Dein Vorteil als Partner:</strong> 50 % Provision bei 89 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.</p>
 
 ## 2. Links
 
@@ -78,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media Agent Masterclass – 89 €, 50 % Provision? — Typ: Downloads, Anbieter: influexai, gelistet seit 2026-09-27
-- Wie viel kostet es? — 83.80967400000002 USD
+- Wie viel kostet es? — 83.62269900000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

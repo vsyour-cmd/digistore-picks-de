@@ -4,34 +4,34 @@ digistore24_product_id: 568921
 title: "BricsCAD® 2D Umstieg von AutoCAD/LT Video-Kurs"
 vendor: "CADDeutschland"
 product_type: "Member area and video courses"
-price: 335.06
+price: 334.31
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 67.01
+earnings_per_sale: 66.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://cad-video.de/umstieg-von-autocad-zu-bcad?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57335/adminstore/"
 sales_page: "https://cad-video.de/umstieg-von-autocad-zu-bcad"
 language: "de"
 ---
 # BricsCAD® 2D Umstieg von AutoCAD/LT Video-Kurs
 
 > Product ID `57335` · Digistore24 productId `568921` · [HTML profile page](../../produkte/bricscad-2d-umstieg-von-autocad-lt-video-kurs-57335.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $335.06 (Single payment) |
+| Price | $334.31 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $67.01 |
+| Earnings/sale* | $66.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | CADDeutschland |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für Umsteiger von AutoCAD/LT auf BricsCAD 2D Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen. Mit dem Kauf dieses Video -Kurses erhalten Sie vollen Zugriff auf den Kurs Umstieg BricsCAD® 2D von AutoCAD®/LT unter CAD-Video.de für 3 Monate und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen. Dieser Kurs eignet sich für alle CAD…
+**Vendor's marketplace description:** <h2>Für Umsteiger von AutoCAD/LT auf BricsCAD 2D</h2>
+<p> </p>
+<p>Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen. Mit dem Kauf dieses Video -Kurses erhalten Sie vollen Zugriff auf den Kurs Umstieg BricsCAD® 2D von AutoCAD®/LT unter CAD-Video.de für 3 Monate und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen.</p>
+<p>Dieser Kurs eignet sich für alle CAD User, die bereits (erste) Erfahrungen mit der CAD Software AutoCAD®/LT gemacht haben und nun auf BricsCAD® umsteigen möchten. </p>
+<p>BricsCAD® ist von der Oberfläche und Funktionsweise AutoCAD®/LT sehr ähnlich sind, weshalb eine steile Lernkurve möglich ist, es wird deutlich weniger Zeit benötigt, wie es ohne Vorkenntnisse in AutoCAD der Fall wäre.<br /><br /><strong>Drei Module</strong> bringen Sie gezielt auf Kurs: BricsCAD-Oberfläche (Arbeitsbereiche, Panels, Quad-Menü), Einstellungen (Anzeigestile, Objektfänge, Plotstile) und Unterschiede zu AutoCAD® (19 Lektionen zu Layer, Blöcken, Xrefs, Bibliotheken, Layout-Manager u. v. m.).<br /><br /><strong>Ziel:</strong> Sie wechseln sicher und produktiv von AutoCAD®/LT zu BricsCAD® – und nutzen Ihre gewohnten Workflows vom ersten Tag an weiter.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://cad-video.de/umstieg-von-autocad-zu-bcad?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57335/adminstore/
 - Sales page: https://cad-video.de/umstieg-von-autocad-zu-bcad
 - Vendor affiliate support: https://cad-video.de/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/568921/adminstore
@@ -88,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist BricsCAD® 2D Umstieg von AutoCAD/LT Video-Kurs? — Typ: Member area and video courses, Anbieter: CADDeutschland, gelistet seit 2026-07-01
-- Wie viel kostet es? — 335.05940000000004 USD
+- Wie viel kostet es? — 334.31190000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 247339
 title: "Self Publishing Masterkurs"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 480.31
+price: 479.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 240.16
+earnings_per_sale: 239.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2018-11-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://lp.incomebutler.com/self-publisher-masterkurs-vk-lp/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/28133/adminstore/"
 sales_page: "https://lp.incomebutler.com/self-publisher-masterkurs-vk-lp/"
 language: "de"
 ---
 # Self Publishing Masterkurs
 
 > Product ID `28133` · Digistore24 productId `247339` · [HTML profile page](../../produkte/self-publishing-masterkurs-28133.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $480.31 (Single payment, Installment) |
+| Price | $479.24 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $240.16 |
+| Earnings/sale* | $239.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | seotech |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vermarkte den Self Publishing Masterkurs! Du bekommst dafür 50% Provision! Und für alle weiteren Upsells gibt es ebenfalls Provision! Für dieses Produkt bekommst du 37,19 € Provision. Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen im gesamten Funnel!! Das spricht für den Kurs: Schritt für Schritt vom Anfänger bis zum ersten eBook…
+**Vendor's marketplace description:** <p>Vermarkte den Self Publishing Masterkurs! Du bekommst dafür <strong>50% Provision</strong>!</p>
+<p>Und für alle weiteren Upsells gibt es ebenfalls Provision!</p>
+<p>Für dieses Produkt bekommst du 37,19 € Provision.</p>
+<p><strong>Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen im gesamten Funnel!!</strong></p>
+<p>Das spricht für den Kurs:</p>
+<ul><li>Schritt für Schritt vom Anfänger bis zum ersten eBook, Taschenbuch und Hörbuch (upsell)</li>
+<li>Zeigt den Teilnehmern alle Schritte von der Nischenanalyse über Ghostwriter finden, Covererstellung und Marketing</li>
+<li>Profi Marketing Strategien (Upsell)</li>
+<li>ständig NEUE Inhalte</li>
+<li>Über <strong>5 Stunden Videomaterial</strong> + <strong>2 Stunden</strong> Mindset Kurs = 7 Stunden Content!</li>
+<li>Theorie &amp; Praxis!</li>
+<li>Checklisten, Vorlagen, Templates, etc.! All-In-One Package!</li>
+<li>ständige Updates vom Kurs</li>
+<li>VIP Support</li>
+<li>Prüfungsmöglchkeit am Ende des Kurses mit Teilnahmebestätigung und Qualifikation</li>
+</ul><p>Profitiere somit auch du von dem Trend des Self Publishings und des einfachen Einstiegs!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lp.incomebutler.com/self-publisher-masterkurs-vk-lp/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/28133/adminstore/
 - Sales page: https://lp.incomebutler.com/self-publisher-masterkurs-vk-lp/
 - Canonical redirect: https://www.digistore24.com/redir/247339/adminstore
 
@@ -76,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Self Publishing Masterkurs? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2018-11-09
-- Wie viel kostet es? — 480.311572 USD
+- Wie viel kostet es? — 479.24002200000007 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

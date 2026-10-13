@@ -4,16 +4,16 @@ digistore24_product_id: 701952
 title: "Das erste Date"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 18.75
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.38
+earnings_per_sale: 9.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/das-erste-date?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/das-erste-date"
@@ -22,16 +22,16 @@ language: "de"
 # Das erste Date
 
 > Product ID `57194` · Digistore24 productId `701952` · [HTML profile page](../../produkte/das-erste-date-57194.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.75 (Single payment) |
+| Price | $18.71 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.38 |
+| Earnings/sale* | $9.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „Das erste Date“ Gespräche, Körpersprache, Chemie – Drei Zutaten entscheiden über ein gelungenes erstes Date: gute Gespräche, stimmige Körpersprache und echte Chemie. Hier lernst du alle drei. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferun…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Das erste Date“</strong></p>
+<p>Gespräche, Körpersprache, Chemie – Drei Zutaten entscheiden über ein gelungenes erstes Date: gute Gespräche, stimmige Körpersprache und echte Chemie. Hier lernst du alle drei.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
+<li>Gefragtes Thema mit großer Zielgruppe</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Die drei Säulen: Gespräch, Körper, Chemie</li>
+<li>Gesprächsführung: Fragen &amp; Zuhören</li>
+<li>Körpersprache lesen &amp; senden</li>
+<li>Chemie verstehen (und was sie nicht ist)</li>
+</ul>
 
 ## 2. Links
 
@@ -85,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das erste Date? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 18.747638000000002 USD
+- Wie viel kostet es? — 18.705813000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

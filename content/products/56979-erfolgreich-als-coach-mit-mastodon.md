@@ -4,34 +4,34 @@ digistore24_product_id: 701399
 title: "Erfolgreich als Coach mit Mastodon"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-mastodon?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56979/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-mastodon"
 language: "de"
 ---
 # Erfolgreich als Coach mit Mastodon
 
 > Product ID `56979` · Digistore24 productId `701399` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-mastodon-56979.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du im Fediverse Vertrauen aufbaust und ohne Algorithmus planbar Kunden gewinnst Mastodon ist kein Werbenetzwerk – und genau deshalb funktioniert es für Coaches so gut. Wer hier genuinen Mehrwert teilt, wird gehört, geboostet und weiterempfohlen. Dieses E-Book zeigt dir, wie du als Coach oder Beraterin auf Mastodon eine Community aufbaust, die dir vertraut und bei dir kauft. Du lernst, wie du ü…
+**Vendor's marketplace description:** <p><strong>Wie du im Fediverse Vertrauen aufbaust und ohne Algorithmus planbar Kunden gewinnst</strong></p>
+<p>Mastodon ist kein Werbenetzwerk – und genau deshalb funktioniert es für Coaches so gut. Wer hier genuinen Mehrwert teilt, wird gehört, geboostet und weiterempfohlen. Dieses E-Book zeigt dir, wie du als Coach oder Beraterin auf Mastodon eine Community aufbaust, die dir vertraut und bei dir kauft. Du lernst, wie du über strategisch gesetzte Hashtags gefunden wirst, wie du Toots verfasst, die Expertise zeigen ohne zu verkäuflich zu wirken, und wie du über dezentrale Nischen-Instanzen deine Wunschkunden erreichst. Kein Pay-to-play, kein Algorithmus-Roulette: nur echte Resonanz auf echten Mehrwert. Nach diesem E-Book hast du ein Content-System, das zum offenen Charakter des Fediverse passt – und planbar Erstgespräche bringt.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Content-Strategie, die im chronologischen Feed ohne Algorithmus wirkt</li>
+<li>Hashtag-Strategie: Themen-Tags und Nischen-Tags gezielt kombinieren</li>
+<li>Toots schreiben, die Expertise zeigen ohne nach Verkauf zu klingen</li>
+<li>Über Nischen-Instanzen deine Zielgruppe direkt ansprechen</li>
+<li>Boosts als soziales Kapital aufbauen und sinnvoll nutzen</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-mastodon?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56979/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-mastodon
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701399/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit Mastodon? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

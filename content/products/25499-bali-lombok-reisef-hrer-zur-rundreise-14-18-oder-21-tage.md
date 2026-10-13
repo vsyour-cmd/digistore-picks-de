@@ -4,34 +4,34 @@ digistore24_product_id: 203221
 title: "Bali Lombok Reiseführer zur Rundreise (14, 18 oder 21 Tage)"
 vendor: "rheinrost"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 3.63
+earnings_per_sale: 3.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages","Social Media","Travel & Culture"]
 listed_since: "2018-02-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.unaufschiebbar.de/bali-lombok-reisefuehrer-rundreise/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/25499/adminstore/"
 sales_page: "https://www.unaufschiebbar.de/bali-lombok-reisefuehrer-rundreise/"
 language: "de"
 ---
 # Bali Lombok Reiseführer zur Rundreise (14, 18 oder 21 Tage)
 
 > Product ID `25499` · Digistore24 productId `203221` · [HTML profile page](../../produkte/bali-lombok-reisef-hrer-zur-rundreise-14-18-oder-21-tage-25499.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $3.63 |
+| Earnings/sale* | $3.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rheinrost |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle unser einzigartiges E-Book für alle reisebegeisterte Indonesien Fans mit einer hohen Kaufrate. Deine Vorteile: Exzellente Conversions: Profitiere von unseren hohen Conversions (Kaufraten) von bis zu 36%. Das bedeutet, dass im Schnitt mehr als jeder Dritte, den du auf das Bestellformular leitest, kauft! Hohe Provisionen: Wir bieten dir bis zu 35 Prozent Provision auf deine vermittelten Ver…
+**Vendor's marketplace description:** <p>Empfehle unser einzigartiges E-Book für alle reisebegeisterte Indonesien Fans mit einer hohen Kaufrate. Deine Vorteile:</p>
+<ul>
+<li><span style="background-color:#ffff00;"><strong>Exzellente Conversions</strong></span>: Profitiere von unseren hohen Conversions (Kaufraten) von bis zu 36%. Das bedeutet, dass im Schnitt mehr als jeder Dritte, den du auf das Bestellformular leitest, kauft!</li>
+<li><span style="background-color:#ffff00;"><strong>Hohe Provisionen</strong></span>: Wir bieten dir bis zu 35 Prozent Provision auf deine vermittelten Verkäufe.</li>
+<li><span style="background-color:#ffff00;"><strong>Wiederkehrende Provisionen für geworbene Affiliates</strong></span>: Erhalte 15 Prozent wiederkehrende Zweistufen-Provisionen auf die Provisionen deiner Affiliates, wenn du einen neuen Affiliate wirbst.</li>
+<li><span style="background-color:#ffff00;"><strong>Provisionen für Folgeprodukte &amp; Upsells</strong></span>: Profitiere automatisch von Provisionen auf den Kauf von Folgeprodukten und Upsells. D.h.: Du bewirbst ein Produkt und verdienst beim Kauf weiterer Produkte automatisch mit.</li>
+<li><span style="background-color:#ffff00;"><strong>Hochkonvertierende Werbemittel</strong></span>: Große Auswahl getesteter und durchoptimierter Werbemittel, die du sofort einsetzen kannst: Klickstarke und hochkonvertierende Banner, Vorlagen für E-Mail-Texte und mehr - für mehr Leads und Verkäufe.</li>
+<li><span style="background-color:#ffff00;"><strong>Geringe Stornoquote</strong></span>: Wir haben eine geringe Stornoquote.</li>
+</ul>
+<p>Besuche jetzt unsere offizielle Seite zum <strong><a href="https://www.unaufschiebbar.de/partner/" target="_blank" rel="noreferrer noopener">Affiiate Partnerprogramm</a></strong>, um noch heute Affiliate zu werden.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.unaufschiebbar.de/bali-lombok-reisefuehrer-rundreise/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/25499/adminstore/
 - Sales page: https://www.unaufschiebbar.de/bali-lombok-reisefuehrer-rundreise/
 - Vendor affiliate support: https://www.unaufschiebbar.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/203221/adminstore
@@ -82,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bali Lombok Reiseführer zur Rundreise (14, 18 oder 21 Tage)? — Typ: E-books, Anbieter: rheinrost, gelistet seit 2018-02-22
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

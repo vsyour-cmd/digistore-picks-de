@@ -4,34 +4,34 @@ digistore24_product_id: 567423
 title: "Online-Ukulelekurs für Anfänger"
 vendor: "AvaMusik"
 product_type: "Member area and video courses"
-price: 42.38
+price: 42.29
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 10.6
+earnings_per_sale: 10.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Education"]
 listed_since: "2024-08-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ava-kirschstein.de/verkaufsseite/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50479/adminstore/"
 sales_page: "https://ava-kirschstein.de/verkaufsseite/"
 language: "de"
 ---
 # Online-Ukulelekurs für Anfänger
 
 > Product ID `50479` · Digistore24 productId `567423` · [HTML profile page](../../produkte/online-ukulelekurs-f-r-anf-nger-50479.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $42.38 (Single payment) |
+| Price | $42.29 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $10.60 |
+| Earnings/sale* | $10.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AvaMusik |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lerne 3 Lieder mit 3 Akkorden in einem Videokurs: Happy Birthday, My Bonnie, Auld lang syne. 15 Lehrvideos jederzeit und überall online abrufbar. Hol Musik in Dein Leben.
+**Vendor's marketplace description:** <p><strong>Lerne 3 Lieder mit 3 Akkorden in einem Videokurs:</strong></p>
+<p><strong>Happy Birthday, My Bonnie, Auld lang syne.</strong></p>
+<p><strong>15 Lehrvideos jederzeit und überall online abrufbar.</strong></p>
+<p><strong>Hol Musik in Dein Leben.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ava-kirschstein.de/verkaufsseite/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50479/adminstore/
 - Sales page: https://ava-kirschstein.de/verkaufsseite/
 - Canonical redirect: https://www.digistore24.com/redir/567423/adminstore
 
@@ -74,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Ukulelekurs für Anfänger? — Typ: Member area and video courses, Anbieter: AvaMusik, gelistet seit 2024-08-28
-- Wie viel kostet es? — 42.381092 USD
+- Wie viel kostet es? — 42.286542000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

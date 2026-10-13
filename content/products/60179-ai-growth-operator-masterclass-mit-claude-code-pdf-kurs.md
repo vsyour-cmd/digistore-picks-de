@@ -4,34 +4,34 @@ digistore24_product_id: 741766
 title: "AI Growth Operator Masterclass mit Claude Code PDF-Kurs"
 vendor: "digitale24"
 product_type: "E-books"
-price: 38.75
+price: 38.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 19.38
+earnings_per_sale: 19.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/741766?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60179/adminstore/"
 sales_page: "https://www.digistore24.com/product/741766"
 language: "de"
 ---
 # AI Growth Operator Masterclass mit Claude Code PDF-Kurs
 
 > Product ID `60179` · Digistore24 productId `741766` · [HTML profile page](../../produkte/ai-growth-operator-masterclass-mit-claude-code-pdf-kurs-60179.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $38.75 (Single payment) |
+| Price | $38.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $19.38 |
+| Earnings/sale* | $19.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitale24 |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** AI Growth Operator Masterclass mit Claude Code PDF-Kurs für Creator-Dienstleister 112 Seiten, 8 Fallbeispiele und Vorlagen AI GROWTH OPERATOR MASTERCLASS – mit Claude Code für Creator Du willst mit KI nicht nur „ein bisschen experimentieren", sondern ein echtes Dienstleistungsgeschäft aufbauen? Diese Masterclass zeigt dir Schritt für Schritt, wie du als AI Growth Operator für Podcaster, YouTuber, …
+**Vendor's marketplace description:** <p>AI Growth Operator Masterclass mit Claude Code PDF-Kurs für Creator-Dienstleister 112 Seiten, 8 Fallbeispiele und Vorlagen</p>
+<p>AI GROWTH OPERATOR MASTERCLASS – mit Claude Code für Creator</p>
+<p>Du willst mit KI nicht nur „ein bisschen experimentieren", sondern ein echtes Dienstleistungsgeschäft aufbauen? Diese Masterclass zeigt dir Schritt für Schritt, wie du als AI Growth Operator für Podcaster, YouTuber, Newsletter-Autoren, Coaches und Kursersteller Wachstumssysteme baust und betreibst.</p>
+<p><br />DAS BEKOMMST DU</p>
+<p>112 Seiten PDF mit Cover, Inhaltsverzeichnis und 5 Kursteilen<br />12 Kern-Workflows für Creator (Content-Repurposing, Newsletter-Maschine, Hook-Lab, Analytics-Reporting, Launch-Operations u. v. m.) – jeweils mit Ziel, Ablauf und Qualitätskontrolle<br />8 ausführliche Fallbeispiele (inklusive Fehlstart und Korrektur) mit Zahlen und Lernpunkten<br />30 Prompt-Vorlagen<br />7 Vorlagen: Angebot, Discovery-Fragebogen, Onboarding, Vertrags-Checkliste, Monatsbericht, SOP, Fehlerprotokoll<br />15 Arbeitsblätter, mit denen du direkt deinen eigenen Businessplan baust<br />90-Tage-Plan vom Start bis zum ersten Pilotkunden<br />Glossar, FAQ, Quellen und Notizseiten</p>
+<p><br />DAS LERNST DU</p>
+<p>TEIL A – Grundlagen<br />Berufsbild, Creator-Ökonomie und Claude Code: Installation, Befehle, Berechtigungen, CLAUDE.md, Skills, Subagents, Hooks und MCP – auch ohne Programmierkenntnisse erklärt.</p>
+<p>TEIL B – Werkstatt<br />Operator-Setup pro Kunde (Ordnerstruktur, Brand-Voice-Datei), zwölf Workflows, Automatisierung mit Headless-Modus, Qualitätssicherung, Datenschutz (DSGVO), Urheberrecht, Kennzeichnung und die Nutzungsbedingungen von Anthropic.</p>
+<p>TEIL C – Business<br />Angebote und Pakete, Preiskalkulation, Kundengewinnung und Outreach, Verkaufsgespräch, Einwände, Onboarding, Delivery-System, Finanzen und Steuern (Deutschland), E-Rechnung, Skalierung.</p>
+<p>TEIL D – Fallbeispiele<br />Interview-Podcast, YouTube-Finanzkanal, Fach-Newsletter, Fitness-Coach, Online-Kurs-Launch, Twitch-Streamer, ein Fehlstart und der Weg von 1 auf 6 Kunden.</p>
+<p>TEIL E – Werkzeugkasten<br />90-Tage-Plan, Prompt-Bibliothek, Vorlagen, Glossar, FAQ und Quellen.</p>
+<p><br />WARUM DIESER KURS ANDERS IST</p>
+<p>✔ Geschäftsmodell statt Spielerei: Angebot, Preise, Vertrieb und Verträge gehören dazu<br />✔ Verantwortung eingebaut: Freigabeprozess, Fact-Check, Datenschutz, Kennzeichnung<br />✔ Rechtlicher Rahmen von Anfang an: Consumer- vs. Commercial-Terms, AVV, Kleinunternehmer, E-Rechnung<br />✔ Ehrlich gerechnet: Alle Zahlen sind nachvollziehbare Rechenbeispiele, keine Versprechen<br />✔ Praxisnah: Vorlagen, Code-Beispiele (CLAUDE.md, SKILL.md, Subagent, Hook) und Checklisten zum Kopieren</p>
+<p><br />PERFEKT FÜR</p>
+<p>- Freelancer, Social-Media-Manager, Texter und Berater, die ihr Angebot um KI-Systeme erweitern wollen<br />- Quereinsteiger, die ein Dienstleistungsgeschäft rund um Creator aufbauen möchten<br />- Agenturen und Ein-Personen-Unternehmen, die Abläufe standardisieren wollen<br />- Creator, die verstehen wollen, wie KI-gestützte Systeme für sie arbeiten können</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/741766?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60179/adminstore/
 - Sales page: https://www.digistore24.com/product/741766
 - Canonical redirect: https://www.digistore24.com/redir/741766/adminstore
 
@@ -79,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Growth Operator Masterclass mit Claude Code PDF-Kurs? — Typ: E-books, Anbieter: digitale24, gelistet seit 2026-10-04
-- Wie viel kostet es? — 38.750348 USD
+- Wie viel kostet es? — 38.663898 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 679700
 title: "GehaltCockpit System | Exceltool und Videos"
 vendor: "NilsWarnecke"
 product_type: "Software"
-price: 23.4
+price: 23.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 78.7
+earnings_per_sale: 78.52
 cart_conversion_pct: 7
 cancel_rate_pct: 4.95
 categories: ["Computer & Internet","Education","Profession & Job"]
 listed_since: "2026-03-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://cashcockpit.de/gehaltcockpit-system/?aff=adminstore#aff=adminstore"
 sales_page: "https://cashcockpit.de/gehaltcockpit-system/"
@@ -22,16 +22,16 @@ language: "de"
 # GehaltCockpit System | Exceltool und Videos
 
 > Product ID `56356` · Digistore24 productId `679700` · [HTML profile page](../../produkte/gehaltcockpit-system-exceltool-und-videos-56356.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $23.40 (Single payment, Installment) |
+| Price | $23.35 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $78.70 |
+| Earnings/sale* | $78.52 |
 | Cart conversion* | 7% |
 | Cancel rate* | 4.95% |
 | Vendor | NilsWarnecke |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ⭐ Das #1 Gehalt Management-Produkt in Deutschland! | Funnel + Upsells Konvertierende Email-Vorlagen Gehalt-Management mit diesem System ist gerade extrem heiß! Sichere dir jetzt deinen Teil von diesem revolutionären Modell für "Angestellte, ohne Plan für ihr Geld". Bewirb das GehaltCockpit System mit den psychologischen Trigger-Email-Vorlagen und verdiene schnelle Provisionen! ✔︎ Revolutionäres Pr…
+**Vendor's marketplace description:** <h1><strong>⭐ Das #1 Gehalt Management-Produkt in Deutschland! | Funnel + Upsells</strong></h1>
+<h2>Konvertierende Email-Vorlagen</h2>
+<div> </div>
+<div><strong>Gehalt-Management mit diesem System ist gerade extrem heiß! Sichere dir jetzt deinen Teil von diesem revolutionären Modell für "Angestellte, ohne Plan für ihr Geld". Bewirb das GehaltCockpit System mit den psychologischen Trigger-Email-Vorlagen und verdiene schnelle Provisionen!</strong></div>
+<div>
+<div> </div>
+</div>
+<p><strong>✔︎</strong> Revolutionäres Produkt in einem Evergreen-Markt!</p>
+<p><strong><strong>✔︎ </strong></strong>Erstellt von erfahrenen Digistore-Vendoren!</p>
+<p><strong><strong>✔︎ </strong></strong>Aussergewöhnlich schnelle Provision!</p>
+<p><strong><strong>✔︎ </strong></strong>Hohe Conversion auf Frontend + Upsells!</p>
+<p><strong><strong>✔︎ </strong></strong>Top Support für Affiliates</p>
+<p> </p>
+<p><em><strong>Klicke jetzt auf den Button um zu den Werbemitteln zu gelangen!</strong></em></p>
+<p><a href="https://cashcockpit.de/gehaltcockpit-system/affiliate-support-seite/" target="_blank" rel="noreferrer noopener"><img src="https://cashcockpit.de/wp-content/uploads/2026/04/BUTTON-WERBEMITTEL-Digistore24.png" alt="WERBEMITTEL" width="222" height="49" /></a></p>
+<p> </p>
+<p>Bei Fragen schreibe uns eine E-Mail an <a href="mailto:team@cashcockpit.de">team@cashcockpit.de</a> </p>
 
 ## 2. Links
 
@@ -87,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GehaltCockpit System | Exceltool und Videos? — Typ: Software, Anbieter: NilsWarnecke, gelistet seit 2026-03-26
-- Wie viel kostet es? — 23.398128 USD
+- Wie viel kostet es? — 23.345928 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

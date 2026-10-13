@@ -4,34 +4,34 @@ digistore24_product_id: 704143
 title: "KI-Karussells für Social Media – in Minuten statt Stunden"
 vendor: "Mabo1973"
 product_type: "Software"
-price: 28.16
+price: 28.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2026-07-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/704143?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57575/adminstore/"
 sales_page: "https://www.digistore24.com/product/704143"
 language: "de"
 ---
 # KI-Karussells für Social Media – in Minuten statt Stunden
 
 > Product ID `57575` · Digistore24 productId `704143` · [HTML profile page](../../produkte/ki-karussells-f-r-social-media-in-minuten-statt-stunden-57575.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.16 (Subscription) |
+| Price | $28.10 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Mabo1973 |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** KI-Karussells für Social Media – fertige Slides in Minuten statt Stunden Kurzbeschreibung:MABO1973 AI ENGINE V2 ist ein KI-Tool, das aus einer einfachen Eingabe komplette Social-Media-Karussells erstellt – inklusive Text, Hook, Call-to-Action und passenden KI-Bildern. In wenigen Klicks entstehen 3–5 fertige Slides im 9:16-Format, direkt einsatzbereit für Instagram, TikTok & Co. Für wen eignet sich…
+**Vendor's marketplace description:** <p><strong>KI-Karussells für Social Media – fertige Slides in Minuten statt Stunden</strong></p>
+<p><strong>Kurzbeschreibung:</strong><br />MABO1973 AI ENGINE V2 ist ein KI-Tool, das aus einer einfachen Eingabe komplette Social-Media-Karussells erstellt – inklusive Text, Hook, Call-to-Action und passenden KI-Bildern. In wenigen Klicks entstehen 3–5 fertige Slides im 9:16-Format, direkt einsatzbereit für Instagram, TikTok &amp; Co.</p>
+<p><strong>Für wen eignet sich das Produkt?</strong><br />Content Creator, Social-Media-Manager, Coaches, Berater und kleine Unternehmen, die regelmäßig Content brauchen, aber keine Zeit oder kein Design-Know-how für aufwendige Grafiken haben.</p>
+<p><strong>Das macht das Tool besonders:</strong></p>
+<ul>
+<li>KI-generierte Hooks, Slide-Texte und Captions auf Knopfdruck</li>
+<li>Passende Hashtags werden automatisch mitgeliefert</li>
+<li>Hook-Editor mit Alternativvorschlägen für mehr Reichweite</li>
+<li>KI-Bilder in Echtzeit generiert, im hochauflösenden 9:16-Format (1080×1920) – optimiert für Social Media</li>
+<li>Verschiedene Schriftarten und Design-Optionen</li>
+<li>Persönlicher Zugang über deine Kauf-E-Mail – sofort nach dem Kauf nutzbar</li>
+</ul>
+<p><strong>So funktioniert's:</strong><br />Thema eingeben → Karussell generieren → fertige Slides herunterladen. Die Bilder werden per KI in wenigen Sekunden pro Slide erzeugt. Im Abo enthalten: bis zu 60 Karussells pro Monat – mehr als genug für regelmäßigen Content.</p>
+<p><strong>Warum sich die Bewerbung lohnt:</strong><br />Content-Erstellung ist eines der größten Probleme im Social-Media-Marketing – dieses Tool löst es direkt und ist damit leicht zu vermitteln. Laufendes Abo-Modell mit attraktiver Provision und wachsendem Markt rund um KI-gestützte Content-Tools.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/704143?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57575/adminstore/
 - Sales page: https://www.digistore24.com/product/704143
 - Canonical redirect: https://www.digistore24.com/redir/704143/adminstore
 
@@ -78,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Karussells für Social Media – in Minuten statt Stunden? — Typ: Software, Anbieter: Mabo1973, gelistet seit 2026-07-17
-- Wie viel kostet es? — 28.160678 USD
+- Wie viel kostet es? — 28.097853 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

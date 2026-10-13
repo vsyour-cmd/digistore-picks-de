@@ -4,16 +4,16 @@ digistore24_product_id: 250027
 title: "Neurostreams™ Planet Relax"
 vendor: "newdimension"
 product_type: "Downloads"
-price: 16.01
+price: 15.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.01
+earnings_per_sale: 7.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2018-11-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/portfolio/tiefe-entspannung-erreichen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/portfolio/tiefe-entspannung-erreichen/"
@@ -22,16 +22,16 @@ language: "de"
 # Neurostreams™ Planet Relax
 
 > Product ID `47038` · Digistore24 productId `250027` · [HTML profile page](../../produkte/neurostreams-planet-relax-47038.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.01 (Single payment) |
+| Price | $15.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.01 |
+| Earnings/sale* | $7.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | newdimension |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 10 Neurostreams™ zum sicheren Erreichen einer tiefen, stabilen Entspannung. Sofort-Download. Jede dieser 10 abwechslungsreichen Sessions dauert 30 Minuten. Unbedingt Stereo-Kopfhörer benutzen! Die mp3-Dateien kann man auf praktisch jedes Endgerät herunterladen: Computer, Laptop, Netbook, Tablet, iPad, SmartPhone, iPhone, Android. Windows, Apple oder Linux. Alle Neurostreams™ sind auf mehrere Abspi…
+**Vendor's marketplace description:** <p>10 Neurostreams™ zum sicheren Erreichen einer tiefen, stabilen Entspannung. </p>
+<p><strong>Sofort-Download.</strong></p>
+<p>Jede dieser 10 abwechslungsreichen Sessions dauert 30 Minuten.</p>
+<p><strong>Unbedingt</strong> Stereo-Kopfhörer benutzen!</p>
+<p>Die mp3-Dateien kann man auf praktisch jedes Endgerät herunterladen: Computer, Laptop, Netbook, Tablet, iPad, SmartPhone, iPhone, Android. Windows, Apple oder Linux.</p>
+<p>Alle Neurostreams™ sind auf mehrere Abspielgeräte übertragbar und können beliebig oft angehört werden!</p>
+<p><strong>2 Jahre</strong> Produktsupport inklusive.</p>
 
 ## 2. Links
 
@@ -76,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neurostreams™ Planet Relax? — Typ: Downloads, Anbieter: newdimension, gelistet seit 2018-11-27
-- Wie viel kostet es? — 16.013374 USD
+- Wie viel kostet es? — 15.977649 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

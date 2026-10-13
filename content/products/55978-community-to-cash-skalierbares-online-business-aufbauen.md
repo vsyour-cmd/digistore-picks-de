@@ -4,16 +4,16 @@ digistore24_product_id: 677483
 title: "Community to Cash - Skalierbares Online Business aufbauen"
 vendor: "tinztwins"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-03-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://shop.towardsfinance.de/l/community-to-cash/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.towardsfinance.de/l/community-to-cash/"
@@ -22,16 +22,16 @@ language: "de"
 # Community to Cash - Skalierbares Online Business aufbauen
 
 > Product ID `55978` · Digistore24 productId `677483` · [HTML profile page](../../produkte/community-to-cash-skalierbares-online-business-aufbauen-55978.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tinztwins |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe unser E-Book "Community to Cash" und erhalte 50 % Provision! In 21 Kapiteln erklären wir, wie man mit Pinterest, Newsletter Automatisierung, KI und Memberships ein skalierbares Online Business aufbaut. Viele scheitern nicht am Fleiß, sondern an der fehlenden Struktur. Dieses Buch gibt Online Unternehmern praxiserprobte Strategien an die Hand, um langfristig erfolgreich zu sein.
+**Vendor's marketplace description:** <h1><span style="color:#ff0000;">Bewerbe unser E-Book "Community to Cash" und erhalte 50 % Provision!</span></h1>
+<p>In 21 Kapiteln erklären wir, wie man mit Pinterest, Newsletter Automatisierung, KI und Memberships ein skalierbares Online Business aufbaut.</p>
+<p>Viele scheitern nicht am Fleiß, sondern an der fehlenden Struktur. Dieses Buch gibt Online Unternehmern praxiserprobte Strategien an die Hand, um langfristig erfolgreich zu sein.</p>
 
 ## 2. Links
 
@@ -81,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Community to Cash - Skalierbares Online Business aufbauen? — Typ: E-books, Anbieter: tinztwins, gelistet seit 2026-03-19
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

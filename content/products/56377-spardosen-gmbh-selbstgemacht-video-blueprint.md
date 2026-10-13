@@ -4,34 +4,34 @@ digistore24_product_id: 686266
 title: "Spardosen GmbH selbstgemacht Video-Blueprint"
 vendor: "PecuniamConcepts"
 product_type: "Member area and video courses"
-price: 1117.24
+price: 1114.75
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 279.31
+earnings_per_sale: 278.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-04-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://spardosen-blueprint.tilda.ws/digistore24?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56377/adminstore/"
 sales_page: "https://spardosen-blueprint.tilda.ws/digistore24"
 language: "de"
 ---
 # Spardosen GmbH selbstgemacht Video-Blueprint
 
 > Product ID `56377` · Digistore24 productId `686266` · [HTML profile page](../../produkte/spardosen-gmbh-selbstgemacht-video-blueprint-56377.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1117.24 (Single payment) |
+| Price | $1114.75 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $279.31 |
+| Earnings/sale* | $278.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PecuniamConcepts |
@@ -41,11 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Spardosen GmbH selbstgemacht" VIDEO-BLUEPRINTSo realisierst Du Kursgewinne mit Aktien FASTSTEUERFREI und vieles mehr! Die folgenden Inhalte erwarten Dich! Eine strukturierte Schritt-für-Schritt Anleitung von A bis Z (Gründung bis Jahresabschluss) inkl. Vorlagen 4 detaillierte Video-Module mit vielen Beispielen, Kommentaren, Erklärungen, Anleitungen, Links und Dokumenten Modul I (Gründung & Anmeld…
+**Vendor's marketplace description:** <p>"Spardosen GmbH selbstgemacht" VIDEO-BLUEPRINT<br /><br />So realisierst Du Kursgewinne mit Aktien <strong>FAST</strong><br /><strong>STEUERFREI</strong> und vieles mehr!</p>
+<div>
+<div>Die folgenden Inhalte erwarten Dich!</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<p>Eine strukturierte Schritt-für-Schritt Anleitung von A bis Z (Gründung bis Jahresabschluss) inkl. Vorlagen</p>
+<p>4 detaillierte Video-Module mit vielen Beispielen, Kommentaren, Erklärungen, Anleitungen, Links und Dokumenten</p>
+<p>Modul I (Gründung &amp; Anmeldungen)</p>
+<p>Modul II (Setup &amp; Strategie) </p>
+<p>Modul III (Bewirtschaftung &amp; Buchhaltung) </p>
+<p>Modul IV (Jahresabschluss &amp; Steuererklärung)</p>
+<p>Musterdokumente (GmbH Gründungsvertrag, Eröffnungsbilanz, Gesellschafterdarlehensvertrag,  Gesellschafterbeschlüsse, Fortführungsprognose, Gewinnverwendung etc.) </p>
+<p>Alle Vorlagen gibt es als Worddokument, PDF, Excel-Dateien mit Kalkulationsbeispielen zum leichten anpassen an die eigenen Vorgaben, nachvollziehen und verstehen) </p>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://spardosen-blueprint.tilda.ws/digistore24?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56377/adminstore/
 - Sales page: https://spardosen-blueprint.tilda.ws/digistore24
 - Canonical redirect: https://www.digistore24.com/redir/686266/adminstore
 
@@ -81,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Spardosen GmbH selbstgemacht Video-Blueprint? — Typ: Member area and video courses, Anbieter: PecuniamConcepts, gelistet seit 2026-04-21
-- Wie viel kostet es? — 1117.2382 USD
+- Wie viel kostet es? — 1114.7457000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

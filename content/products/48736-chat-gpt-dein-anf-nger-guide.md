@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 0.41
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.56
+earnings_per_sale: 6.54
 cart_conversion_pct: 50
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing"]
 listed_since: "2024-07-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/chat-gpt-beginner/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/chat-gpt-beginner/"
@@ -22,7 +22,7 @@ language: "de"
 # Chat GPT - Dein Anfänger Guide
 
 > Product ID `48736` · Digistore24 productId `561894` · [HTML profile page](../../produkte/chat-gpt-dein-anf-nger-guide-48736.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | E-books |
 | Price | $0.41 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.56 |
+| Earnings/sale* | $6.54 |
 | Cart conversion* | 50% |
 | Cancel rate* | 0% |
 | Vendor | Spekulatius |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Chat GPT - Dein Anfänger Guide ✅ Deine Community erhält die profitabelsten Strategien zum Geld verdienen im Internet mit Chat GPT. ✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 173 Euro
+**Vendor's marketplace description:** <div><span style="background-color:#ffff00;"><em><strong>Chat GPT - Dein Anfänger Guide</strong></em></span></div>
+<div> </div>
+<div><em><strong>✅ </strong>Deine Community erhält die profitabelsten Strategien zum Geld verdienen im Internet mit Chat GPT.</em></div>
+<div> </div>
+<div><em><strong>✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet</strong></em></div>
+<div><br /><span style="background-color:#ffff00;"><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></span></div>
+<div> </div>
+<div><em><strong>Du kannst durch Upsells und AddOn bis zu 173 Euro</strong></em></div>
 
 ## 2. Links
 
@@ -59,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chat GPT - Dein Anfänger Guide? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2024-07-19
-- Wie viel kostet es? — 0.414622 USD
+- Wie viel kostet es? — 0.41369700000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

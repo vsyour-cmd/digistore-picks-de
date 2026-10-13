@@ -4,16 +4,16 @@ digistore24_product_id: 57899
 title: "Abnehmen ohne Hunger - Die Ernährungspläne"
 vendor: "owebsolution"
 product_type: "Downloads"
-price: 23.44
+price: 23.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.72
+earnings_per_sale: 11.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2015-09-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/57899?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/57899"
@@ -22,16 +22,16 @@ language: "de"
 # Abnehmen ohne Hunger - Die Ernährungspläne
 
 > Product ID `8517` · Digistore24 productId `57899` · [HTML profile page](../../produkte/abnehmen-ohne-hunger-die-ern-hrungspl-ne-8517.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.44 (Single payment) |
+| Price | $23.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.72 |
+| Earnings/sale* | $11.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | owebsolution |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Über 40000 Sales und 1,2% Stornoquote :-) Das Programm funktioniert, ich habe es selber entwickelt, selber damit 30kg abgenommen und deswegen wirkt es auch authentisch! Es würde mich freuen, wenn ihr das eBook verkaufen wollt. Gutscheincodes etc gibt es wenn ihr mir mailt. Eine konkrete Landingpage gibt es nicht, es läuft alles über den DigiStore-Verkaufslink und dem Bestellformular, welcher gut o…
+**Vendor's marketplace description:** <p>Über 40000 Sales und 1,2% Stornoquote :-) Das Programm funktioniert, ich habe es selber entwickelt, selber damit 30kg abgenommen und deswegen wirkt es auch authentisch! Es würde mich freuen, wenn ihr das eBook verkaufen wollt. Gutscheincodes etc gibt es wenn ihr mir mailt. Eine konkrete Landingpage gibt es nicht, es läuft alles über den DigiStore-Verkaufslink und dem Bestellformular, welcher gut optimiert ist und toll konvertiert. Klickstarke Werbebanner, findet ihr hier -&gt; <a href="https://www.dropbox.com/s/3estt1gj1egy706/2016-01-25-Advertsbanner.rar?dl=1">https://www.dropbox.com/s/3estt1gj1egy706/2016-01-25-Advertsbanner.rar?dl=1</a></p>
+<p>29.12.2016 -&gt; Neuer Banner kann hier gefunden werden, der zieht ordentlich! -- <a href="http://abnehmtricks-und-abnehmtipps.de/wp-content/uploads/2016/03/abnehmplanad2.gif" target="_blank">http://abnehmtricks-und-abnehmtipps.de/wp-content/uploads/2016/03/abnehmplanad2.gif</a></p>
+<p>Das Konzept finden Sie hier: <a href="http://abnehmtricks-und-abnehmtipps.de/abnehmen-ohne-hunger">http://abnehmtricks-und-abnehmtipps.de/abnehmen-ohne-hunger</a></p>
+<p>Schreiben Sie mir gerne eine Email, bei sämtlichen Fragen.</p>
+<p>Liebe Grüße, Benjamin Oltmann</p>
 
 ## 2. Links
 
@@ -79,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abnehmen ohne Hunger - Die Ernährungspläne? — Typ: Downloads, Anbieter: owebsolution, gelistet seit 2015-09-01
-- Wie viel kostet es? — 23.442952000000002 USD
+- Wie viel kostet es? — 23.390652000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 218775
 title: "KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket"
 vendor: "AMMSpitz"
 product_type: "Member area and video courses"
-price: 136.51
+price: 136.21
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 61.43
+earnings_per_sale: 61.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-05-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-autoimmun/?aff=adminstore#aff=adminstore"
 sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-autoimmun/"
@@ -22,16 +22,16 @@ language: "de"
 # KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket
 
 > Product ID `27248` · Digistore24 productId `218775` · [HTML profile page](../../produkte/kmm2018-autoimmunerkrankungen-digitales-kongresspaket-27248.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $136.51 (Single payment, Installment) |
+| Price | $136.21 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $61.43 |
+| Earnings/sale* | $61.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AMMSpitz |
@@ -41,7 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kongress für menschliche Medizin - Autoimmunerkrankungen Das Paket enthält die Aufzeichnung der Vorträge beider Kongresstage (14.04.2018 - 15.04.2018) als Video-Download in HD-Qualität (mp4) Die Vorträge Übersicht Autoimmunerkrankungen B. König, Magdeburg Vitamin D and Immune System M. Holick, Boston - USA (Vortrag in Englisch) Vitamin D Rezeptor Funktionen und Vitamin D-Sensitivität C. Carlberg, …
+**Vendor's marketplace description:** <h1>Kongress für menschliche Medizin - Autoimmunerkrankungen</h1>
+<p>Das Paket enthält die Aufzeichnung der Vorträge <strong>beider Kongresstage</strong> (14.04.2018 - 15.04.2018) als <strong>Video-Download in HD-Qualität</strong> (mp4)</p>
+<h2>Die Vorträge</h2>
+<ol><li><strong>Übersicht Autoimmunerkrankungen</strong><br /> B. König, Magdeburg</li>
+<li><strong>Vitamin D and Immune System</strong><br /> M. Holick, Boston - USA (Vortrag in Englisch)</li>
+<li><strong>Vitamin D Rezeptor Funktionen und Vitamin D-Sensitivität</strong><br /> C. Carlberg, Kuopio - Finnland</li>
+<li><strong>High doses vitamin D therapy – Protocol and results</strong><br />CG Coimbra, São Paulo - Brasilien (Vortrag in Englisch, Aufzeichnung vom <strong>1. International Workshop on Vitamin D Sensitivity and High Dose Vitamin D Therapy</strong>)</li>
+<li><strong>Umsetzung des Coimbra-Protokolls für Patienten</strong><br /> Ch. Kiening, Gräfelfing</li>
+<li><strong>Autoimmunerkrankungen und die 2. Evolution des Menschen</strong><br /> J. Spitz, Schlangenbad/ Wiesbaden</li>
+<li><strong>Integrative Therapie bei Autoimmunerkrankungen</strong><br /> J. Jonescu, Neukirchen</li>
+<li><strong>Autoimmunerkrankungen der Haut</strong><br /> U. Amon, Hohenstadt</li>
+<li><strong>Therapeutische Alternativen bei Autoimmunerkrankungen</strong><br /> B. Lemke, Heidelberg</li>
+<li><strong>Labormethoden bei Autoimmunerkrankungen</strong><br /> W. Bieger, München</li>
+<li><strong>Mikronährstoffe bei Autoimmunerkrankungen</strong><br /> U. Gröber, Essen</li>
+<li><strong>Hashimoto Thyreoiditis als autoimmune Systemerkrankung</strong><br /> L. Schomburg, Berlin</li>
+<li><strong>Öko-Psychosomatik: Der Einfluss des Waldes auf unser Immunsystem</strong><br /> Clemens G. Arvay, Wien - Österreich</li>
+<li><strong>Stress und Autoimmunität</strong><br /> A. Wolf, Ulm</li>
+<li><strong>Körperliche Aktivität und Immunsystem</strong><br /> P. Zimmer, Köln</li>
+<li><strong>Autoimmunerkrankungen des Darmes/Stuhltransplantation</strong><br /> M. Vehreschild, Köln</li>
+<li><strong>Die Wirkung von Singen und Musik auf das Immunsystem</strong><br /> E. Wünnenberg, Scheidegg</li>
+<li><strong>Omega 3 Fettsäuren bei Autoimmunerkrankungen</strong><br /> V. Schmiedel, Baar - Schweiz</li>
+<li><strong>Synopsis und Perspektiven</strong><br /> J. Spitz, Schlangenbad</li>
+</ol>
 
 ## 2. Links
 
@@ -94,7 +116,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket? — Typ: Member area and video courses, Anbieter: AMMSpitz, gelistet seit 2018-05-02
-- Wie viel kostet es? — 136.511492 USD
+- Wie viel kostet es? — 136.206942 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

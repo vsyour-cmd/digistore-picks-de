@@ -4,16 +4,16 @@ digistore24_product_id: 733384
 title: "CONTROL 01 – Regeln für deinen KI-Agenten (CONTROL SERIES)"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 52.15
+price: 52.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.08
+earnings_per_sale: 26.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://control-01.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://control-01.pages.dev/"
@@ -22,16 +22,16 @@ language: "de"
 # CONTROL 01 – Regeln für deinen KI-Agenten (CONTROL SERIES)
 
 > Product ID `59372` · Digistore24 productId `733384` · [HTML profile page](../../produkte/control-01-regeln-f-r-deinen-ki-agenten-control-series-59372.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.15 (Single payment) |
+| Price | $52.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.08 |
+| Earnings/sale* | $26.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digitales Arbeitsbuch: FÄHIGKEIT ≠ BERECHTIGUNG. Agenten-Regelwerk + Agenten-Pass. Premium 49,80 €, 50 % Commission. Klare Salespage, Digistore Checkout. Bildungs-Workbook — keine Rechtsberatung, keine Einkommensversprechen.
+**Vendor's marketplace description:** <p>Digitales Arbeitsbuch: FÄHIGKEIT ≠ BERECHTIGUNG. Agenten-Regelwerk + Agenten-Pass. Premium 49,80 €, 50 % Commission. Klare Salespage, Digistore Checkout. Bildungs-Workbook — keine Rechtsberatung, keine Einkommensversprechen.</p>
 
 ## 2. Links
 
@@ -99,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CONTROL 01 – Regeln für deinen KI-Agenten (CONTROL SERIES)? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-19
-- Wie viel kostet es? — 52.152724 USD
+- Wie viel kostet es? — 52.036374 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

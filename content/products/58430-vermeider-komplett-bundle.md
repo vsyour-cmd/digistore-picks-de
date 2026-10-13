@@ -4,16 +4,16 @@ digistore24_product_id: 717908
 title: "Vermeider Komplett Bundle"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 109.86
+price: 109.62
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 32.96
+earnings_per_sale: 32.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/vermeider/?aff=adminstore#aff=adminstore"
 sales_page: "https://beziehungscoach-online.de/vermeider/"
@@ -22,16 +22,16 @@ language: "de"
 # Vermeider Komplett Bundle
 
 > Product ID `58430` · Digistore24 productId `717908` · [HTML profile page](../../produkte/vermeider-komplett-bundle-58430.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $109.86 (Single payment) |
+| Price | $109.62 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $32.96 |
+| Earnings/sale* | $32.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das „Vermeider Komplett Bundle“ richtet sich an Menschen, die einen Partner mit abweisend-vermeidendem Bindungsmuster umfassend verstehen möchten und sich zusätzlich mit einer Trennung und der Möglichkeit einer erneuten Annäherung beschäftigen. Band 1 „Was einen Vermeider zu dem Menschen gemacht hat, der er heute ist“ beschäftigt sich mit der Entstehung des abweisend-vermeidenden Bindungsmusters. …
+**Vendor's marketplace description:** <p>Das „Vermeider Komplett Bundle“ richtet sich an Menschen, die einen Partner mit abweisend-vermeidendem Bindungsmuster umfassend verstehen möchten und sich zusätzlich mit einer Trennung und der Möglichkeit einer erneuten Annäherung beschäftigen.</p>
+<p>Band 1 „Was einen Vermeider zu dem Menschen gemacht hat, der er heute ist“ beschäftigt sich mit der Entstehung des abweisend-vermeidenden Bindungsmusters. Er zeigt, welche frühen Erfahrungen dieses Muster prägen können und wie daraus die späteren Strategien im Umgang mit Nähe, Gefühlen und Bedürfnissen entstehen.</p>
+<p>Band 2 „Was ein Vermeider in Beziehungen wirklich fühlt“ richtet den Blick auf das heutige Erleben in Partnerschaften. Er erklärt die innere Logik hinter Rückzug und Distanz, was bei wachsender Nähe passieren kann, welche Trigger eine Rolle spielen und weshalb das Verhalten eines vermeidenden Partners häufig so widersprüchlich wirkt. Auch Sexualität und das Verhalten rund um eine Trennung werden behandelt.</p>
+<p>„Nach der Stille“ setzt nach der Trennung an. Das E-Book beschäftigt sich damit, wie Kontakt und Annäherung nach einer Trennung gestaltet werden können, welche Dynamiken einen erneuten Rückzug begünstigen und was es braucht, damit aus einer Wiederannäherung eine tragfähigere Beziehung entstehen kann.</p>
+<p>Das Bundle eignet sich zur Bewerbung bei einer Zielgruppe, die das abweisend-vermeidende Bindungsmuster von seiner Entstehung über das Erleben innerhalb einer Beziehung bis hin zur Trennung und einer möglichen Wiederannäherung verstehen möchte.</p>
 
 ## 2. Links
 
@@ -94,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vermeider Komplett Bundle? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 109.86362400000002 USD
+- Wie viel kostet es? — 109.61852400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

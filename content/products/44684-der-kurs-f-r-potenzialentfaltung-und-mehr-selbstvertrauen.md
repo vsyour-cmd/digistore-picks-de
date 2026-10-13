@@ -4,16 +4,16 @@ digistore24_product_id: 341132
 title: "Der Kurs für Potenzialentfaltung und MEHR Selbstvertrauen"
 vendor: "Deinechance"
 product_type: "Member area and video courses"
-price: 220.76
+price: 220.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 110.38
+earnings_per_sale: 110.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Services","Software"]
 listed_since: "2020-08-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://dejan-sekulic.com/durchbruch?aff=adminstore#aff=adminstore"
 sales_page: "https://dejan-sekulic.com/durchbruch"
@@ -22,16 +22,16 @@ language: "de"
 # Der Kurs für Potenzialentfaltung und MEHR Selbstvertrauen
 
 > Product ID `44684` · Digistore24 productId `341132` · [HTML profile page](../../produkte/der-kurs-f-r-potenzialentfaltung-und-mehr-selbstvertrauen-44684.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $220.76 (Single payment) |
+| Price | $220.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $110.38 |
+| Earnings/sale* | $110.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Deinechance |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hallo Lieber Affiliate Wenn du diesen Kurs bewirbst, darfst du dich auf 50% Provision freuen :-) Besuche über den Link gerne auch meine Affiliate Support Seite, dort findest du jede Menge sehr gute und attraktive Werbemittel. Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren. Das bewirbst du: Dejan Sekulics Kurs für Pot…
+**Vendor's marketplace description:** <p>Hallo Lieber Affiliate   <br />Wenn du diesen Kurs bewirbst, darfst du dich <strong>auf 50%</strong> <strong>Provision </strong> freuen :-)   </p>
+<p>Besuche über den Link gerne auch meine Affiliate Support Seite, dort findest du jede Menge sehr gute und attraktive Werbemittel.  </p>
+<p>Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren.  <br /><br /><strong>Das bewirbst du: </strong><br /><br />Dejan Sekulics Kurs für Potenzialentfaltung und MEHR Selbstvertrauen!</p>
+<ul style="list-style-type:disc;">
+<li style="text-align:left;">12 teiliges Online Video Training für geglückten Erfolg  <br /><br /></li>
+<li style="text-align:left;">Schritt für Schritt Anleitung – einfach und verständlich bewährte universelle Erfolgsprinzipien, die für viele Lebensbereiche sehr gut anwendbar sind.<br /><br /></li>
+<li>Wertvolle Checklisten und Arbeitsunterlagen. <br /><br />
+<h4><strong>4 wertvolle Bonusse</strong>:<br /><br /></h4>
+</li>
+<li>Bonus 1<br />Warum wir nicht alle Ziele erreichen werden<br /><br /></li>
+<li>Bonus 2<br />Die Wertschätung<br /><br /></li>
+<li>Bonus 3<br />Mindvideo für mehr Selbstvertrauen<br /><br /></li>
+<li>Bonus 4<br />Audio Training für mehr Selbstvertrauen </li>
+</ul>
+<p> </p>
 
 ## 2. Links
 
@@ -102,7 +116,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Kurs für Potenzialentfaltung und MEHR Selbstvertrauen? — Typ: Member area and video courses, Anbieter: Deinechance, gelistet seit 2020-08-16
-- Wie viel kostet es? — 220.75820000000002 USD
+- Wie viel kostet es? — 220.2657 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

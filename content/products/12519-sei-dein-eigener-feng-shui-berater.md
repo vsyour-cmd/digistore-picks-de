@@ -4,34 +4,34 @@ digistore24_product_id: 89821
 title: "Sei Dein eigener Feng Shui Berater"
 vendor: "Feng-Shui-Digital"
 product_type: "Member area and video courses"
-price: 169.5
+price: 169.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 84.75
+earnings_per_sale: 84.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2016-08-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://feng-shui.de/feng-shui-workshop-online/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.oliverpfeil.de/produkte/joomla-ebook#aff=adminstore"
 sales_page: "https://feng-shui.de/feng-shui-workshop-online/"
 language: "de"
 ---
 # Sei Dein eigener Feng Shui Berater
 
 > Product ID `12519` · Digistore24 productId `89821` · [HTML profile page](../../produkte/sei-dein-eigener-feng-shui-berater-12519.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $169.50 (Single payment) |
+| Price | $169.12 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $84.75 |
+| Earnings/sale* | $84.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Feng-Shui-Digital |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Feng Shui Online-Kurs Entspannt wohnen – entspannt sein Feng Shui, das Jahrtausende erprobte Wissen kann – richtig angewendet – vielleicht auch Deine Lebensqualität enorm steigern! Denn alles um Dich herum prägt Dich und kann unterstützend wirken. Feng Shui vertraut auf die Kraft des äußeren Raumes zur innerlichen Neuausrichtung, um dadurch mehr Entspannung, Energie und Erfolg zu generieren. Freue…
+**Vendor's marketplace description:** <p>Feng Shui Online-Kurs</p>
+<p><strong>Entspannt wohnen – entspannt sein  </strong></p>
+<p>Feng Shui, das Jahrtausende erprobte Wissen kann – richtig angewendet – vielleicht auch Deine Lebensqualität enorm steigern! Denn alles um Dich herum prägt Dich und kann unterstützend wirken. Feng Shui vertraut auf die Kraft des äußeren Raumes zur innerlichen Neuausrichtung, um dadurch mehr Entspannung, Energie und Erfolg zu generieren. </p>
+<p>Freue Dich auf viele Tipps, die einfach und sofort anwendbar sind! Viele unserer Teilnehmer wurden bereits von den Wirkungen, die Feng Shui auf ihr Leben hatte, überrascht.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://feng-shui.de/feng-shui-workshop-online/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.oliverpfeil.de/produkte/joomla-ebook#aff=adminstore
 - Sales page: https://feng-shui.de/feng-shui-workshop-online/
 - Vendor affiliate support: https://feng-shui-digital.com/0-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/89821/adminstore
@@ -95,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sei Dein eigener Feng Shui Berater? — Typ: Member area and video courses, Anbieter: Feng-Shui-Digital, gelistet seit 2016-08-01
-- Wie viel kostet es? — 169.501956 USD
+- Wie viel kostet es? — 169.123806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

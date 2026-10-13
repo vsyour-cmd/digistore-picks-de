@@ -4,16 +4,16 @@ digistore24_product_id: 667552
 title: "Selbststudium Workbook Brow und Lash Lifting"
 vendor: "xxbeautyliciousbysun8aec"
 product_type: "Downloads"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.49
+earnings_per_sale: 3.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-02-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/667552?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/667552"
@@ -22,16 +22,16 @@ language: "de"
 # Selbststudium Workbook Brow und Lash Lifting
 
 > Product ID `55710` · Digistore24 productId `667552` · [HTML profile page](../../produkte/selbststudium-workbook-brow-und-lash-lifting-55710.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.49 |
+| Earnings/sale* | $3.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xxbeautyliciousbysun8aec |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate werden und verdienen‼️‼️‼️ Der ultimative Kurs für ambitionierte Kosmetikerinnen, Beauty-Einsteigerinnen und Studioinhaberinnen, die sich im Kosmetikbereich professionell weiterentwickeln und zertifiziertes Fachwissen aufbauen möchten.
+**Vendor's marketplace description:** <p>Affiliate werden und verdienen‼️‼️‼️</p>
+<p>Der ultimative Kurs für ambitionierte Kosmetikerinnen, Beauty-Einsteigerinnen und Studioinhaberinnen, die sich im Kosmetikbereich professionell weiterentwickeln und zertifiziertes Fachwissen aufbauen möchten.</p>
 
 ## 2. Links
 
@@ -71,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbststudium Workbook Brow und Lash Lifting? — Typ: Downloads, Anbieter: xxbeautyliciousbysun8aec, gelistet seit 2026-02-09
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

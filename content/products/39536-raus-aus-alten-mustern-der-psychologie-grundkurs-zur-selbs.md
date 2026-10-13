@@ -4,16 +4,16 @@ digistore24_product_id: 431301
 title: "Raus aus alten Mustern – Der Psychologie Grundkurs zur Selbs"
 vendor: "jan133"
 product_type: "Member area and video courses"
-price: 163.85
+price: 163.49
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 73.74
+earnings_per_sale: 73.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-02-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.psychocom-shop.com/psychologiegrundkurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.psychocom-shop.com/psychologiegrundkurs"
@@ -22,16 +22,16 @@ language: "de"
 # Raus aus alten Mustern – Der Psychologie Grundkurs zur Selbs
 
 > Product ID `39536` · Digistore24 productId `431301` · [HTML profile page](../../produkte/raus-aus-alten-mustern-der-psychologie-grundkurs-zur-selbs-39536.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $163.85 (Single payment, Installment) |
+| Price | $163.49 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $73.74 |
+| Earnings/sale* | $73.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jan133 |
@@ -41,7 +41,43 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Raus aus alten Mustern: verstehe deine Psyche und verändere dein Leben Onlinekurs mit persönlichem Zertifikat Der Schlüssel zu einem erfüllten Leben liegt im Verständnis Deiner eigenen Gedanken und Gefühle. Wir zeigen Dir, wie Du mit einfachem, praxisnahem Wissen aus der Psychologie Dein Denken steuerst und Dein Leben nachhaltig veränderst. Was Dich erwartet: In 5 klar strukturierten Modulen erhäl…
+**Vendor's marketplace description:** <h3><strong>Raus aus alten Mustern: </strong>verstehe deine <strong>Psyche</strong> und verändere dein <strong>Leben</strong><br /><br /></h3>
+<p><strong>Onlinekurs mit persönlichem Zertifikat</strong></p>
+<hr />
+<p>Der Schlüssel zu einem erfüllten Leben liegt im Verständnis Deiner eigenen Gedanken und Gefühle. Wir zeigen Dir, wie Du mit einfachem, praxisnahem Wissen aus der Psychologie Dein Denken steuerst und Dein Leben nachhaltig veränderst.</p>
+<hr />
+<h3>Was Dich erwartet:</h3>
+<p>In <strong>5 klar strukturierten Modulen</strong> erhältst Du fundiertes Wissen, das Du sofort im Alltag anwenden kannst:</p>
+<p> </p>
+<p><strong>Modul 1:</strong> Die Geschichte der Psychologie – Die Meilensteine &amp; ihre Pioniere</p>
+<p><strong>Modul 2:</strong> Grundprinzipien verstehen – Das Fundament für Deinen Erfolg</p>
+<p><strong>Modul 3:</strong> Wie Deine Gedanken Dein Verhalten steuern</p>
+<p><strong>Modul 4:</strong> Allgemeine Psychologie kompakt &amp; praxisnah</p>
+<p><strong>Modul 5:</strong> Positive Psychologie – So stärkst Du Dein Wohlbefinden</p>
+<hr />
+<h3>Exklusiv für Dich:</h3>
+<ul>
+<li><strong>6 Bonus-Videos</strong> – Extra Inhalte, die Deinen Durchbruch unterstützen</li>
+<li><strong>5 praktische PDFs</strong> – Zum Download, Mitnehmen &amp; Anwenden</li>
+</ul>
+<p>+ <strong>BONUS KURS<br /><br /></strong></p>
+<h3><strong>30-Tage-Mindset-Challenge</strong></h3>
+<p>Verändere dein Denken – und verändere dein Leben. In 6 kraftvollen Modulen lernst du, alte Blockaden zu lösen, Selbstvertrauen aufzubauen und dein Mindset auf Erfolg, Fülle und Wachstum auszurichten.</p>
+<p><strong>Modul 1:</strong> Mindset Reprogramming – Dein Denken neu ausrichten &amp; innere Blockaden lösen</p>
+<p><strong>Modul 2:</strong> Deep Confidence – Selbstbewusstsein stärken &amp; Ängste überwinden</p>
+<p><strong>Modul 3:</strong> Komfortzone Killen – Mut entwickeln &amp; ins Handeln kommen</p>
+<p><strong>Modul 4:</strong> High-Energy Mindset – Energie, Fokus &amp; Motivation steigern</p>
+<p><strong>Modul 5:</strong> Money Mindset – Finanzielle Glaubenssätze transformieren &amp; Wohlstand anziehen</p>
+<p><strong>Modul 6:</strong> Erfolgsdenken – Die Psychologie der Gewinner verstehen &amp; anwenden</p>
+<p><strong>Bonusmodul:</strong> Alltagstransfer – Neues Mindset festigen &amp; mit Klarheit Ziele erreichen</p>
+<hr />
+<h3>Keine versteckten Kosten – keine Abo-Falle!</h3>
+<p><strong>Einmal zahlen – lebenslang profitieren</strong></p>
+<h3>Aktionspreis nur jetzt:</h3>
+<p><strong>Normalpreis:</strong> 172 €<br /><strong>Dein Preis:</strong> 86 €</p>
+<p><strong>Nutze den Code:</strong> <strong>PG2025</strong> und sichere Dir 50 % Rabatt!</p>
+<hr />
+<p>Starte jetzt und beginne Deine persönliche Transformation – Dein neues Leben wartet!</p>
 
 ## 2. Links
 
@@ -94,7 +130,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raus aus alten Mustern – Der Psychologie Grundkurs zur Selbs? — Typ: Member area and video courses, Anbieter: jan133, gelistet seit 2022-02-23
-- Wie viel kostet es? — 163.854132 USD
+- Wie viel kostet es? — 163.488582 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

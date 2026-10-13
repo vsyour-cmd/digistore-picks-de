@@ -4,34 +4,34 @@ digistore24_product_id: 536805
 title: "Social Dancing Academy - Solo- und Paartanz für alle Levels"
 vendor: "DadoIbrakovic"
 product_type: "Member area and video courses"
-price: 138.86
+price: 138.55
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 103.11
+earnings_per_sale: 102.88
 cart_conversion_pct: 21
 cancel_rate_pct: 4.21
 categories: ["Dancing & Music"]
 listed_since: "2024-01-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://socialdancingacademy.com/preise/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/34819/adminstore/"
 sales_page: "https://socialdancingacademy.com/preise/"
 language: "de"
 ---
 # Social Dancing Academy - Solo- und Paartanz für alle Levels
 
 > Product ID `34819` · Digistore24 productId `536805` · [HTML profile page](../../produkte/social-dancing-academy-solo-und-paartanz-f-r-alle-levels-34819.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $138.86 (Subscription) |
+| Price | $138.55 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $103.11 |
+| Earnings/sale* | $102.88 |
 | Cart conversion* | 21% |
 | Cancel rate* | 4.21% |
 | Vendor | DadoIbrakovic |
@@ -41,11 +41,33 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** All Styles Abos der Social Dancing Academy Die Social Dancing Academy ist die größte Online Tanzplattform im DACH-Raum und hat bereits über 1000 aktive und sehr zufriedene Abonnenten! Vorteile für Affiliates: Bewerbe jetzt das Jahresabo der Social Dancing Academy und erhalte 25% lebenslange Provision auf jährliche- UND Ratenahlungen. Die Academy buchen sowohl Paare als auch viele Singles, da sie ü…
+**Vendor's marketplace description:** <p><strong>All Styles Abos der Social Dancing Academy </strong></p>
+<p>Die Social Dancing Academy ist die größte Online Tanzplattform im DACH-Raum und hat bereits über 1000 aktive und sehr zufriedene Abonnenten!</p>
+<p><strong>Vorteile für Affiliates:</strong></p>
+<p>Bewerbe jetzt das Jahresabo der Social Dancing Academy und erhalte 25% lebenslange Provision auf jährliche- UND Ratenahlungen.<br /><br /></p>
+<p>Die Academy buchen sowohl Paare als auch viele Singles, da sie über 700 Lektionen für Solo-Tänzer*innen beinhaltet.</p>
+<p><strong>Die All Styles Jahresabo beinhalten Online-Kurse der Social Dancing Academy mit bis zu 3000+ Lektionen! </strong><br /><br />Dazu gehören On-Demand Lektionen in folgenden Tanzstilen:<strong><br /></strong></p>
+<ul>
+<li><strong>Ballroom Academy </strong>(ca. 300 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Discofox Academy </strong>(ca. 200 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Salsa Academy </strong>(ca. 300 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Bachata &amp; Bachatango Academy </strong>(ca. 300 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Lindy Hop Academy </strong>(ca. 130 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Tango Academy </strong>(ca. 200 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>West Coast Swing Academy </strong>(ca. 150 Lektionen)<strong><br /></strong><strong><br /></strong></li>
+<li><strong>Allgemeine Kurse und Lektionen</strong> (ca. 200 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Kizomba Academy</strong> (ca. 100 Lektionen)</li>
+</ul>
+<p><br />Sehr beliebt sind unsere <strong>regelmässige Live-Lektionen</strong> (jeden Dienstag)!</p>
+<p><strong>Wir haben 2 unterschiedliche Levels an (Jahres)Abos - Light &amp; All Inclusive</strong></p>
+<p>Die Social Dancing Academy enwickelt sich ständig weiter und es kommen immer wieder neue Figuren und Module dazu!<br />(ohne Aufzahlung). </p>
+<p>Alleine in den letzten 12 Monaten sind 1000(!) neue Videolektionen dazu gekommen.</p>
+<p><br /><br /><br /></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://socialdancingacademy.com/preise/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/34819/adminstore/
 - Sales page: https://socialdancingacademy.com/preise/
 - Vendor affiliate support: https://socialdancingacademy.com/empfehlungsprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/536805/adminstore
@@ -93,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Dancing Academy - Solo- und Paartanz für alle Levels? — Typ: Member area and video courses, Anbieter: DadoIbrakovic, gelistet seit 2024-01-30
-- Wie viel kostet es? — 138.864752 USD
+- Wie viel kostet es? — 138.55495200000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 230747
 title: "Flugfunkkurs AZF Online-Kurs (Live)"
 vendor: "Fluglehrer"
 product_type: "Online coaching"
-price: 241.21
+price: 240.67
 currency: "USD"
 affiliate_commission_pct: 0
 earnings_per_sale: 0
@@ -12,24 +12,24 @@ cart_conversion_pct: 16
 cancel_rate_pct: 0.97
 categories: ["Education"]
 listed_since: "2018-06-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-azf-e?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/25517/adminstore/"
 sales_page: "https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-azf-e"
 language: "de"
 ---
 # Flugfunkkurs AZF Online-Kurs (Live)
 
 > Product ID `25517` · Digistore24 productId `230747` · [HTML profile page](../../produkte/flugfunkkurs-azf-online-kurs-live-25517.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $241.21 (Single payment) |
+| Price | $240.67 (Single payment) |
 | Affiliate commission | 0% |
 | Earnings/sale* | $0.00 |
 | Cart conversion* | 16% |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** AZF Sprechfunkzeugnis (EN) für den Flugfunk - Online-Kurs-Live Empfehlen Sie diesen Online-Livekurs! Dieses Sprechfunkzeugnis ist erforderlich, wenn Sie planen die Instrumentenflugberechtigung IR, CBIR/ EIR, Berufspiloten- oder Verkehrspilotenlizenz zu erwerben. Ohne AZF ist keine Ausbildung für diese Lizenzen möglich! Dieser Livekurs bereitet den angehenden Piloten auf die Prüfung bei der Bundesn…
+**Vendor's marketplace description:** <p><strong>AZF Sprechfunkzeugnis (EN) für den Flugfunk - Online-Kurs-Live</strong></p>
+<p><strong>Empfehlen Sie diesen Online-Livekurs!</strong></p>
+<p>Dieses Sprechfunkzeugnis ist erforderlich, wenn Sie planen die Instrumentenflugberechtigung IR, CBIR/ EIR, Berufspiloten- oder Verkehrspilotenlizenz zu erwerben. Ohne AZF ist keine Ausbildung für diese Lizenzen möglich!</p>
+<p>Dieser <strong>Livekurs</strong> bereitet den angehenden Piloten auf die Prüfung bei der Bundesnetzagentur vor und berechtigt zu Sichtflügen- &amp; Instrumentenflügen (IFR) in <strong>DEUTSCH</strong> und <strong>ENGLISCH.<br /></strong>Teilname auch über <strong>Mobilgeräte</strong> wie <strong>iPad/iPhone</strong> oder allen Mobilgeräten unter <strong>Androide</strong> möglich!<br /><br /><strong>Vorteile:<br /></strong></p>
+<ul>
+<li>Es gibt keine langen Anfahrtswege, zumal die meisten Ausbildungsstätten nicht gerade um die Ecke sind. Lernen Sie bequem von zu Hause, Hotel, Büro oder auch aus dem Urlaub bzw. von Ihrem Lieblingsort (weltweit).</li>
+<li>Zeitlich flexibler Einstieg möglich; ein Kurseinstieg ist somit jederzeit möglich.</li>
+<li>Man lernt den Umgang mit einem Flugplan, der zugleich als Teilnahmeanmeldung für den jeweiligen Ausbildungsabend gilt. Praxisnahe Terminierung verpackt als Flugplan!</li>
+</ul>
+<p><strong>Gültigkeit:</strong> 365 Tage nach Anmeldung<br /><strong>Art der Durchführung:</strong> Live &amp; Echtzeit mit Fluglehrern und Controllern über das Internet</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-azf-e?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/25517/adminstore/
 - Sales page: https://fluglehrerteam.com/de/onlinekurse/online-flugfunkkurs-azf-e
 - Canonical redirect: https://www.digistore24.com/redir/230747/adminstore
 
@@ -75,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Flugfunkkurs AZF Online-Kurs (Live)? — Typ: Online coaching, Anbieter: Fluglehrer, gelistet seit 2018-06-27
-- Wie viel kostet es? — 241.20915000000002 USD
+- Wie viel kostet es? — 240.67102500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 223615
 title: "Rechtstexte für Websites – easyRechtssicher Komplett-Schutz"
 vendor: "Paragraf7"
 product_type: "Member area and video courses"
-price: 1448.79
+price: 1445.56
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 18.94
+earnings_per_sale: 18.9
 cart_conversion_pct: 12
 cancel_rate_pct: 2.7
 categories: ["Law & Justice"]
 listed_since: "2018-05-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://easyrechtssicher.de/produkte/datenschutz-generator/?aff=adminstore#aff=adminstore"
 sales_page: "https://easyrechtssicher.de/produkte/datenschutz-generator/"
@@ -22,16 +22,16 @@ language: "de"
 # Rechtstexte für Websites – easyRechtssicher Komplett-Schutz
 
 > Product ID `29456` · Digistore24 productId `223615` · [HTML profile page](../../produkte/rechtstexte-f-r-websites-easyrechtssicher-komplett-schutz-29456.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1448.79 (Subscription) |
+| Price | $1445.56 (Subscription) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $18.94 |
+| Earnings/sale* | $18.90 |
 | Cart conversion* | 12% |
 | Cancel rate* | 2.7% |
 | Vendor | Paragraf7 |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** easyRechtssicher Komplett-Schutz: Datenschutzerklärung, Impressum, Cookie-Banner und Widerrufsbelehrung für Websites – von Rechtsanwalt Dr. Ronald Kandelhard erstellt und laufend an die Rechtslage angepasst. Abo-Produkt. Warum es sich lohnt, das zu bewerben: 18 € Provision je Zahlung – nicht nur auf die erste: Bei jeder Folgezahlung des Abos verdienst Du erneut mit, solange der Kunde bleibt. Dauer…
+**Vendor's marketplace description:** <p><strong>easyRechtssicher Komplett-Schutz</strong>: Datenschutzerklärung, Impressum, Cookie-Banner und Widerrufsbelehrung für Websites – von Rechtsanwalt Dr. Ronald Kandelhard erstellt und laufend an die Rechtslage angepasst. Abo-Produkt.</p>
+<p><strong>Warum es sich lohnt, das zu bewerben:</strong></p>
+<ul>
+<li><strong>18 € Provision je Zahlung</strong> – nicht nur auf die erste: Bei jeder Folgezahlung des Abos verdienst Du erneut mit, solange der Kunde bleibt.</li>
+<li><strong>Dauerbedarf statt Modethema</strong>: Jede Website braucht Rechtstexte, und jede Gesetzesänderung bringt sie zurück auf den Tisch.</li>
+<li><strong>Breite Zielgruppe</strong>: Selbstständige, Coaches, Berater, Webdesigner, Shop-Betreiber.</li>
+<li><strong>Verkauf, Support und Rechtstexte übernehmen wir</strong> – Du empfiehlst, wir machen den Rest.</li>
+<li><strong>Werbemittel</strong>: Banner, Vorlagen für E-Mail-Texte, Blog-Beiträge, Partnersiegel.</li>
+</ul>
+<p>Alle Infos für Partner: <a href="https://easyrechtssicher.de/partner-programm-ihre-vorteile">easyrechtssicher.de/partner-programm-ihre-vorteile</a></p>
 
 ## 2. Links
 
@@ -90,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rechtstexte für Websites – easyRechtssicher Komplett-Schutz? — Typ: Member area and video courses, Anbieter: Paragraf7, gelistet seit 2018-05-24
-- Wie viel kostet es? — 1448.7901219999999 USD
+- Wie viel kostet es? — 1445.557947 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

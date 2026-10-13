@@ -4,34 +4,34 @@ digistore24_product_id: 315805
 title: "E-Gitarre lernen online Masterplan"
 vendor: "Michigit"
 product_type: "Member area and video courses"
-price: 123.36
+price: 123.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 61.68
+earnings_per_sale: 61.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-03-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.onlinegitarrelernen.com/e-gitarre-lernen-online-masterplan?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/32049/adminstore/"
 sales_page: "https://www.onlinegitarrelernen.com/e-gitarre-lernen-online-masterplan"
 language: "de"
 ---
 # E-Gitarre lernen online Masterplan
 
 > Product ID `32049` · Digistore24 productId `315805` · [HTML profile page](../../produkte/e-gitarre-lernen-online-masterplan-32049.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $123.36 (Single payment, Installment) |
+| Price | $123.08 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $61.68 |
+| Earnings/sale* | $61.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Michigit |
@@ -41,11 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vorteile für Affilates Dieser Kurs ist für Neu-, oder Wieder Einsteiger an der Gitarre. Ständige Erfolgserlebnisse halten den Teilnehmer motiviert. Die Zielgruppe der Teilnehmer m/w ab ca 40 Jahren Einer der bekanntesten Gitarrenkurs im deutschsprachigen Raum. 50% Provision für Affilates. TOP-Support für Teilnehmer. TOP-Support für Affiliates . Sehr geringe Stornierungsrate. Der Kurs ist seit 2015…
+**Vendor's marketplace description:** <h2><strong>Vorteile für Affilates</strong></h2>
+<ul><li>Dieser Kurs ist für Neu-, oder Wieder Einsteiger an der Gitarre.</li>
+<li>Ständige Erfolgserlebnisse halten den Teilnehmer motiviert.</li>
+<li>Die Zielgruppe der Teilnehmer m/w ab ca 40 Jahren</li>
+<li>Einer der bekanntesten Gitarrenkurs im deutschsprachigen Raum.</li>
+<li>50% Provision für Affilates.</li>
+<li>TOP-Support für Teilnehmer.</li>
+<li>TOP-Support für Affiliates .</li>
+<li>Sehr geringe Stornierungsrate.</li>
+<li>Der Kurs ist seit 2015 auf dem Markt und wird stetig weiter verbessert.</li>
+<li>Werben mit einem der bekanntesten YouTube-Gitarrenlehrer aus Deutschland.</li>
+</ul><h3>Infos zum Kurs</h3>
+<div>Der Werkzeugkasten für Gitarre spielen, alle notwendigen Tools die man fürs Gitarre spielen braucht, lernt man in diesem Kurs.<br />Der Gitarre lernen online Masterplan ist ein praxisorientierter Gitarrenkurs, der Fähigkeiten vermittelt um mit der Gitarre unterwegs zu sein.<br />In diesem Kurs lernt der Teilnehmer: Die wichtigsten Akkorde, die wichtigsten Anschlags- und Zupfmuster, Noten und Tabulatur spielen werden. Viele Songs sorgen für </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.onlinegitarrelernen.com/e-gitarre-lernen-online-masterplan?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/32049/adminstore/
 - Sales page: https://www.onlinegitarrelernen.com/e-gitarre-lernen-online-masterplan
 - Canonical redirect: https://www.digistore24.com/redir/315805/adminstore
 
@@ -89,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Gitarre lernen online Masterplan? — Typ: Member area and video courses, Anbieter: Michigit, gelistet seit 2020-03-26
-- Wie viel kostet es? — 123.355648 USD
+- Wie viel kostet es? — 123.080448 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 12187
 title: "Bühner Invest Informationsdienst"
 vendor: "agebue"
 product_type: "Downloads"
-price: 375.73
+price: 374.89
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 131.5
+earnings_per_sale: 131.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2013-05-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://buehner-invest.com?aff=adminstore#aff=adminstore"
 sales_page: "http://buehner-invest.com"
@@ -22,16 +22,16 @@ language: "de"
 # Bühner Invest Informationsdienst
 
 > Product ID `687` · Digistore24 productId `12187` · [HTML profile page](../../produkte/b-hner-invest-informationsdienst-687.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $375.73 (Subscription) |
+| Price | $374.89 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $131.50 |
+| Earnings/sale* | $131.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | agebue |
@@ -41,7 +41,46 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Achtung Affiliates! Hohe jährliche immer wiederkehrende und steigende Einnahmen mit diesem hochwertigen Online Abonnement! Hier bewerben Sie eine wirklich langfristgige Mitgliedschaft eines Top Online Abonnements. Das beste Trendfolge Aktien Depot in Europa! Die Mitglieder zahlen Jahresbeiträge. Hierauf erhalten Sie regelmäßig, jährlich wiederkehrend 35% Provision. Als Affiliate haben Sie hier ein…
+**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>Achtung Affiliates!</strong></span></p>
+<p>Hohe jährliche immer wiederkehrende und steigende Einnahmen mit diesem hochwertigen Online Abonnement!</p>
+<p><span style="color:#ff0000;"><strong><span style="color:#008000;">Hier bewerben Sie eine wirklich langfristgige Mitgliedschaft eines Top Online Abonnements</span>.</strong></span></p>
+<p style="text-align:center;"><span style="color:#ff0000;"><strong>Das beste Trendfolge Aktien Depot </strong></span><span style="color:#ff0000;"><strong>in Europa!</strong></span></p>
+<p>Die Mitglieder zahlen Jahresbeiträge. Hierauf erhalten Sie regelmäßig,<span style="color:#ff0000;"> <strong>jährlich wiederkehrend 35% Provision</strong>. </span></p>
+<p>Als Affiliate haben Sie hier ein absolut hochwertiges,  langwährendes Produkt über viele Jahre. </p>
+<p> </p>
+<p><strong>Bühner Invest Informationsdienst Inhalt:</strong> </p>
+<h1><span style="color:#ff6600;">Sichere Geldanlage mit hoher Rendite</span></h1>
+<h2><strong>Höchste Rendite und Sicherheit müssen sich nicht widersprechen.</strong></h2>
+<p> </p>
+<p><strong>Bühner Invest erbringt dafür den Beweis. In nur  7 Jahren wurden aktuell aus 4.963 Euro statttliche 202.489 Euro erzielt. </strong></p>
+<p>Ganz entspannt und ohne Stress oder Sorge. Machen Sie es einfach nach.</p>
+<p>Sie erhalten stetig einen neuen Bühner-Invest-Newsletter mit allen aktuellen Informationen zum Depot, exakten Handlungsanweisungen sowie Tipps, Infos und Neuigkeiten zum Thema Börse, Aktien, usw.</p>
+<p>Sie bauen kinderleicht das Bühner Invest Depot nach und erzielen ebenfalls eine phantastische Performance.</p>
+<p>Erzielen Sie endlich auch die Gewinne mit einer eher konservativen Strategie. Sicherheit und hohe Rendite müssen sich nämlich doch nicht widersprechen. </p>
+<p>Das aktuelle Depot ist im Mai 2013 gestartet und hat <strong>in nur knapp 7 Jahren bereits über 3.980%</strong> Performance vorzuweisen.</p>
+<p><strong>Aus 4.963 Euro wurden bis Januar 2020 (in nur 7 Jahren) bereits 202.489 Euro!!  </strong></p>
+<p>Und es geht genauso weiter! Sie können jetzt mit profitieren. Bauen Sie es ganz einfach nach! Es ist wirklich kinderleicht. </p>
+<p>Sie suchen sich die Online Bank Ihrer Wahl und bauen dort dieses Erfolgsdepot ganz einfach nur nach.</p>
+<p>So behalten Sie stets alles zu jeder Zeit unter Ihrer Kontrolle und Sie werden in recht kurzer Zeit ein echtes Vermögen erzielen können.</p>
+<p style="text-align:center;"><strong>Unser neues Ziel heißt:</strong></p>
+<p style="text-align:center;"><strong>Aus den 4.963 Euro haben wir jetzt bereits mehr als 200.000 Euro gemacht. Das nächste Ziel sind 500.000 und dann 1.000.000 Euro!</strong></p>
+<p style="text-align:center;"><strong>Alles sicher und ganz entspannt.</strong></p>
+<p>Werden Sie jetzt, wie schon so viele andere auch,  Mitglied bei Bühner Invest Infodienst und machen Sie endlich mehr aus Ihrem Geld! </p>
+<p style="text-align:center;"> </p>
+<p style="text-align:center;"><strong>ACHTUNG: </strong></p>
+<p style="text-align:center;"><strong>Aktuell und nur für kurze Zeit können Sie jetzt </strong><strong>um 5% günstiger </strong><strong>buchen.</strong></p>
+<p style="text-align:center;"> </p>
+<p style="text-align:center;"><strong>Für ein volles Jahr Mitgliedschaft zahlen Sie </strong></p>
+<p style="text-align:center;"><strong>anstatt </strong><strong>Normalpreis 399,- Euro für 12 Monate !</strong> </p>
+<p style="text-align:center;"><strong>&gt;&gt; Jetzt für ein komplettes Jahr </strong></p>
+<p style="text-align:center;"><strong>nur: 379,- Euro &lt;&lt;</strong></p>
+<p>Das bedeutet für Sie:</p>
+<p>5% dauerhafte Ersparnis so lange das Abo ununterbrochen Bestand hat.  </p>
+<p>Wenn Sie also jetzt zu diesem Sonderpreis buchen, behalten Sie diesen Preis, solange Sie Abonnent bei Bühner-Invest sind bei.</p>
+<p>Auch bei einer Erhöhung auf den Normalpreis, behalten Sie den Sonderpreis.</p>
+<p><strong>Lassen Sie diese Chance nicht aus. Es lohnt sich wirklich sehr!</strong></p>
+<p>Natürlich jederzeit zum Ablauf kündbar.</p>
+<p> </p>
 
 ## 2. Links
 
@@ -103,7 +142,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bühner Invest Informationsdienst? — Typ: Downloads, Anbieter: agebue, gelistet seit 2013-05-16
-- Wie viel kostet es? — 375.72597400000006 USD
+- Wie viel kostet es? — 374.88774900000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

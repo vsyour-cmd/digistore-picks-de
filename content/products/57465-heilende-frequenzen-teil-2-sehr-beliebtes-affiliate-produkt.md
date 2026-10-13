@@ -4,34 +4,34 @@ digistore24_product_id: 429073
 title: "Heilende Frequenzen Teil 2 Sehr beliebtes Affiliate-Produkt"
 vendor: "gesundergeist"
 product_type: "Member area and video courses"
-price: 9.41
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.71
+earnings_per_sale: 4.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://michaelrepkowsky.grweb.site/selbstliebe-tageskarten?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57465/adminstore/"
 sales_page: "https://michaelrepkowsky.grweb.site/selbstliebe-tageskarten"
 language: "de"
 ---
 # Heilende Frequenzen Teil 2 Sehr beliebtes Affiliate-Produkt
 
 > Product ID `57465` · Digistore24 productId `429073` · [HTML profile page](../../produkte/heilende-frequenzen-teil-2-sehr-beliebtes-affiliate-produkt-57465.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $9.41 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gesundergeist |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erhalte 3,50 Euro Provision pro Verkauf. Einige Affiliates verdienen damit richtig gut. Sei du der nächste. Zielgruppe: Stressabbau, besser Schlafen, Ängste loserden, Spiritualität.
+**Vendor's marketplace description:** <p><strong><span style="background-color:#ff9900;">Erhalte 3,50 Euro Provision pro Verkauf.</span></strong></p>
+<p>Einige Affiliates verdienen damit richtig gut. Sei du der nächste.</p>
+<p><strong><span style="background-color:#ff9900;">Zielgruppe:</span></strong> Stressabbau, besser Schlafen, Ängste loserden, Spiritualität.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://michaelrepkowsky.grweb.site/selbstliebe-tageskarten?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57465/adminstore/
 - Sales page: https://michaelrepkowsky.grweb.site/selbstliebe-tageskarten
 - Canonical redirect: https://www.digistore24.com/redir/429073/adminstore
 
@@ -73,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heilende Frequenzen Teil 2 Sehr beliebtes Affiliate-Produkt? — Typ: Member area and video courses, Anbieter: gesundergeist, gelistet seit 2026-07-09
-- Wie viel kostet es? — 9.41304 USD
+- Wie viel kostet es? — 9.392040000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

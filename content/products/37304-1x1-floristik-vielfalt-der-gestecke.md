@@ -4,16 +4,16 @@ digistore24_product_id: 382599
 title: "1x1 Floristik - Vielfalt der Gestecke"
 vendor: "Elobana"
 product_type: "Member area and video courses"
-price: 372.23
+price: 371.4
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 45.16
+earnings_per_sale: 45.06
 cart_conversion_pct: 9
 cancel_rate_pct: 0.95
 categories: ["Education"]
 listed_since: "2021-04-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-gestecke/?aff=adminstore#aff=adminstore"
 sales_page: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-gestecke/"
@@ -22,16 +22,16 @@ language: "de"
 # 1x1 Floristik - Vielfalt der Gestecke
 
 > Product ID `37304` · Digistore24 productId `382599` · [HTML profile page](../../produkte/1x1-floristik-vielfalt-der-gestecke-37304.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $372.23 (Single payment, Installment) |
+| Price | $371.40 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $45.16 |
+| Earnings/sale* | $45.06 |
 | Cart conversion* | 9% |
 | Cancel rate* | 0.95% |
 | Vendor | Elobana |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Durch diesen Kurs erhältst jeder die Möglichkeit, viele neue Erfahrungen in der Floristik zu machen oder,bei Vorwissen seine Fähigkeiten enorm zu verbessern. Folgende 6 Gesteckebindetechniken werden im Onlinekurs gelehrt: Klassiker für den schmalen Tisch. Ein hohes, herabfließendes Gesteck für ein Büfett. Ein kleines Gärtchen Gesteck. Ein großes parallels Gesteck. Ein Gesteck im Gerüst. Ein Gestec…
+**Vendor's marketplace description:** <p>Durch diesen Kurs erhältst jeder die Möglichkeit, viele neue Erfahrungen in der Floristik zu machen oder,bei Vorwissen seine Fähigkeiten enorm zu verbessern.</p>
+<p> </p>
+<p>Folgende 6 Gesteckebindetechniken werden im Onlinekurs gelehrt:</p>
+<ul>
+<li>Klassiker für den schmalen Tisch.</li>
+<li>Ein hohes, herabfließendes Gesteck für ein Büfett.</li>
+<li>Ein kleines Gärtchen Gesteck.</li>
+<li>Ein großes parallels Gesteck.</li>
+<li>
+<p>Ein Gesteck im Gerüst.</p>
+</li>
+<li>Ein Gesteck auf einem Steckigel.</li>
+</ul>
 
 ## 2. Links
 
@@ -91,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1x1 Floristik - Vielfalt der Gestecke? — Typ: Member area and video courses, Anbieter: Elobana, gelistet seit 2021-04-05
-- Wie viel kostet es? — 372.22970200000003 USD
+- Wie viel kostet es? — 371.39927700000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 324193
 title: "Tanzminis - Kreativer Kindertanz zuhause"
 vendor: "tanzminis"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.07
+earnings_per_sale: 23.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-04-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.tanzminis.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.tanzminis.de"
@@ -22,16 +22,16 @@ language: "de"
 # Tanzminis - Kreativer Kindertanz zuhause
 
 > Product ID `32876` · Digistore24 productId `324193` · [HTML profile page](../../produkte/tanzminis-kreativer-kindertanz-zuhause-32876.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.07 |
+| Earnings/sale* | $23.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tanzminis |
@@ -41,7 +41,56 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Tanzminis - Kreativer Kindertanz zuhause" ist ein Videokurs für Kinder ab 2,5 Jahren und ihre Eltern. Empfehlen Sie "Tanzminis" weiter und erhalten Sie 50% Provision! Über 40% cart conversion rate! Was ist im Paket enthalten? 10 kindgerechte Videokurse á ca 10 Minuten Über 100 Minuten Tanzvideos für 2,5- bis 4-Jährige zu den Themen: Unterwasserwelt, Wetter, Tierischer Tanzspaß, Ballett, Tanzreime…
+**Vendor's marketplace description:** <div>
+<p> "Tanzminis - Kreativer Kindertanz zuhause" ist ein Videokurs für Kinder ab 2,5 Jahren und ihre Eltern.</p>
+<h2><span style="background-color:#ff99cc;color:#ffffff;">Empfehlen Sie "Tanzminis" weiter und erhalten Sie 50% Provision!</span></h2>
+<h2><span style="color:#000000;"><strong>Über 40% cart conversion rate!</strong></span></h2>
+<h2>Was ist im Paket enthalten?</h2>
+</div>
+<div>
+<div>
+<div>
+<div>
+<h3><a>10 kindgerechte Videokurse á ca 10 Minuten</a></h3>
+<p>Über 100 Minuten Tanzvideos für 2,5- bis 4-Jährige zu den Themen: Unterwasserwelt, Wetter, Tierischer Tanzspaß, Ballett, Tanzreime und Gedichte</p>
+</div>
+</div>
+<div>
+<div>
+<h3><a>Bonusvideo: Meine Ersten Tanzschritte - Großes Lexikon</a></h3>
+<p>Das große Tanzlexikon mit den wichtigsten Grundübungen für kleine TänzerInnen.</p>
+</div>
+</div>
+<div>
+<div>
+<h3><a>Angepasst auf alle gängigen Geräte</a></h3>
+<p>Egal ob auf dem PC, TV, dem Smartphone oder Tablet, Tanzminis ist überall dabei.</p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<h3><a>PDF mit allen Reimen und Gedichten </a></h3>
+<p>Die selbst gereimten Texte im Themengebiet "Tanzreime und Gedichte" gibt es als Download in Form einer PDF</p>
+</div>
+</div>
+<div>
+<div>
+<h3><a>Integrierte Facebook-Gruppe</a></h3>
+<p>eigener Mitgliederbereich mit Kommentarfunktion zum regelmäßigen Austauschen der Fortschritte/Erfahrungen</p>
+</div>
+</div>
+<div>
+<div>
+<h3><a>Große Musikliste zum Weiterüben</a></h3>
+<p>Neben der eigens für Tanzminis eingespielten Musik garantiert eine Spotify-Liste mit jeweils passenden Titeln langen Spaß mit dem Kurs.</p>
+<p> </p>
+<h2><span style="background-color:#ff99cc;color:#ffffff;">Sprechen Sie uns gern an: partner@tanzminis.de</span></h2>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -84,7 +133,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tanzminis - Kreativer Kindertanz zuhause? — Typ: Member area and video courses, Anbieter: tanzminis, gelistet seit 2020-04-30
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

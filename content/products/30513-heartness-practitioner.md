@@ -4,34 +4,34 @@ digistore24_product_id: 293858
 title: "Heartness Practitioner"
 vendor: "heartness"
 product_type: "Member area and video courses"
-price: 232.59
+price: 232.07
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 46.52
+earnings_per_sale: 46.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2019-11-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://academy.heartness.info/heartness-practitioner-bestellung/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/30513/adminstore/"
 sales_page: "https://academy.heartness.info/heartness-practitioner-bestellung/"
 language: "de"
 ---
 # Heartness Practitioner
 
 > Product ID `30513` · Digistore24 productId `293858` · [HTML profile page](../../produkte/heartness-practitioner-30513.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $232.59 (Single payment) |
+| Price | $232.07 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $46.52 |
+| Earnings/sale* | $46.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | heartness |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Heartness Practitioner Als Coach, Berater oder Therapeut kannst du diese Ausbildung jedem Klienten / Patienten empfehlen, der stressstabil und kraftvoll sein Leben gestalten möchte - insbesondere Menschen die viel Stress erleben oder Burnout-gefährdet sind, sowie Menschen, die sich für die vielschichtigen Funktionen des Herzens interessieren und herzbewusst leben möchten. Die Ausbildung zum Heartn…
+**Vendor's marketplace description:** <p><strong>Heartness Practitioner</strong></p>
+<p>Als Coach, Berater oder Therapeut kannst du diese Ausbildung jedem Klienten / Patienten empfehlen, der stressstabil und kraftvoll sein Leben gestalten möchte - insbesondere Menschen die viel Stress erleben oder Burnout-gefährdet sind, sowie Menschen, die sich für die vielschichtigen Funktionen des Herzens interessieren und herzbewusst leben möchten.</p>
+<p>Die Ausbildung zum Heartness Practitioner leitet Menschen an, wie sie mithilfe der Herzkohärenz die vielen alltäglichen Stressmomente meistern und auf vielen Ebenen - körperlich, mental, emotional und energetisch - stabiler und ausgeglichener ihr Leben genießen können.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://academy.heartness.info/heartness-practitioner-bestellung/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/30513/adminstore/
 - Sales page: https://academy.heartness.info/heartness-practitioner-bestellung/
 - Canonical redirect: https://www.digistore24.com/redir/293858/adminstore
 
@@ -75,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Heartness Practitioner? — Typ: Member area and video courses, Anbieter: heartness, gelistet seit 2019-11-06
-- Wie viel kostet es? — 232.591736 USD
+- Wie viel kostet es? — 232.07283600000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

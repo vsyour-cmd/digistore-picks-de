@@ -4,16 +4,16 @@ digistore24_product_id: 518862
 title: "Chakren-Energetik - Lichtvoll in die Zukunft"
 vendor: "Magierschule"
 product_type: "Member area and video courses"
-price: 258.96
+price: 258.38
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 85.46
+earnings_per_sale: 85.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-10-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://magierschule.de/7Chakren?aff=adminstore#aff=adminstore"
 sales_page: "https://magierschule.de/7Chakren"
@@ -22,16 +22,16 @@ language: "de"
 # Chakren-Energetik - Lichtvoll in die Zukunft
 
 > Product ID `48616` · Digistore24 productId `518862` · [HTML profile page](../../produkte/chakren-energetik-lichtvoll-in-die-zukunft-48616.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $258.96 (Single payment, Installment) |
+| Price | $258.38 (Single payment, Installment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $85.46 |
+| Earnings/sale* | $85.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Magierschule |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ChakrenEnergetik ist Olivers tiefes Programm zur Arbeit mit den sieben Hauptchakren – fundiert, praxisnah und ohne esoterische Floskeln. Wer Stufe 1 bucht, bucht erfahrungsgemäß sehr oft auch Stufe 2 und das ChakrenLicht-Bundle. Was dich erwartet 20 % lifetime Provision pro Verkauf (= 28,80 € bei ChakrenEnergetik 1) Hohe Folgekauf-Quote: ChakrenEnergetik 2 + ChakrenLicht-Paket laufen unter deiner …
+**Vendor's marketplace description:** <p>ChakrenEnergetik ist Olivers tiefes Programm zur Arbeit mit den sieben Hauptchakren – fundiert, praxisnah und ohne esoterische Floskeln. Wer Stufe 1 bucht, bucht erfahrungsgemäß sehr oft auch Stufe 2 und das ChakrenLicht-Bundle.</p>
+<p><strong>Was dich erwartet</strong></p>
+<ul>
+<li>20 % lifetime Provision pro Verkauf (= 28,80 € bei ChakrenEnergetik 1)</li>
+<li>Hohe Folgekauf-Quote: ChakrenEnergetik 2 + ChakrenLicht-Paket laufen unter deiner Lifetime-Zuordnung</li>
+<li>Mittlerer Preisbereich – attraktive Provision, ohne High-Ticket-Hürde</li>
+<li>Klar abgegrenzte Zielgruppe (Energiearbeit, Chakrenlehre)</li>
+<li>Lifetime-Kundenzuordnung nach Erstkauf</li>
+<li><a href="https://magierschule.de/werbemittel" target="_blank" rel="noreferrer noopener">Klickstarke Werbemittel: Banner, Mailtexte, Social-Snippets</a></li>
+</ul>
+<p><strong>Der Funnel (entscheidender Vorteil):</strong> ChakrenEnergetik ist eines der stabilsten Themen im spirituellen Markt – konstantes Suchvolumen, klare Zielgruppe, wenig Erklärungsbedarf. Du empfiehlst Stufe 1 als natürlichen Einstieg – Stufe 2 und das Bundle entstehen automatisch über Olivers interne Sequenzen, alles auf deine Affiliate-ID.</p>
+<p><strong>Für wen das passt</strong> Energiearbeiter, Yogalehrer, Heilpraktiker, Reiki-Lehrer, spirituelle Coaches und Creator im Bereich Chakren, Aura, Meditation und feinstoffliche Wahrnehmung.</p>
 
 ## 2. Links
 
@@ -67,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chakren-Energetik - Lichtvoll in die Zukunft? — Typ: Member area and video courses, Anbieter: Magierschule, gelistet seit 2023-10-01
-- Wie viel kostet es? — 258.959454 USD
+- Wie viel kostet es? — 258.381729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 657496
 title: "Azubi Money Hacks – Premium-Guide + Budget-Excel (sparwerk96"
 vendor: "Sparwerk96"
 product_type: "Downloads"
-price: 9.41
+price: 9.39
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.94
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Finances","Personal Development"]
 listed_since: "2025-12-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/657496?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55027/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/657496"
 language: "de"
 ---
 # Azubi Money Hacks – Premium-Guide + Budget-Excel (sparwerk96
 
 > Product ID `55027` · Digistore24 productId `657496` · [HTML profile page](../../produkte/azubi-money-hacks-premium-guide-budget-excel-sparwerk96-55027.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.41 (Single payment) |
+| Price | $9.39 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.94 |
 | Cart conversion* | — |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** • Quick-Start in 30 Min: 3-Schritte-Budget + 3-Konten-Modell • Fixkosten senken & variable Ausgaben im Griff (praxisnah)• Bonus: Excel-Budgetplaner (PRO) mit Formeln & Übersicht• Fallbeispiel, 7-Tage-Plan, kompakte Steuer-Checkliste im Guide Enthalten:– Premium-Guide (PDF, kompakt)– Budget-Excel (Einnahmen/Fix/Variabel/Sparen, Diagramm) Preis: 14,90 € • Sprache: DeutschAffiliate-Info: 50 % Provisi…
+**Vendor's marketplace description:** <p><span style="text-align:justify;">• Quick-Start in 30 Min: 3-Schritte-Budget + 3-Konten-Modell</span></p>
+<p style="text-align:justify;">• Fixkosten senken &amp; variable Ausgaben im Griff (praxisnah)<br />• Bonus: Excel-Budgetplaner (PRO) mit Formeln &amp; Übersicht<br />• Fallbeispiel, 7-Tage-Plan, kompakte Steuer-Checkliste im Guide</p>
+<p>Enthalten:<br />– Premium-Guide (PDF, kompakt)<br />– Budget-Excel (Einnahmen/Fix/Variabel/Sparen, Diagramm)</p>
+<p>Preis: 14,90 € • Sprache: Deutsch<br />Affiliate-Info: 50 % Provision, DE-Zielgruppe, mobil-optimiertes Checkout.<br />Hooks: „30 Min zum Budget“, „3-Konten-Modell leicht erklärt“, „Sofort Geld finden“<br />Support: sparwerk96@gmail.com</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/657496?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55027/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/657496
 - Canonical redirect: https://www.digistore24.com/redir/657496/adminstore
 
@@ -71,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Azubi Money Hacks – Premium-Guide + Budget-Excel (sparwerk96? — Typ: Downloads, Anbieter: Sparwerk96, gelistet seit 2025-12-26
-- Wie viel kostet es? — 9.41304 USD
+- Wie viel kostet es? — 9.392040000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

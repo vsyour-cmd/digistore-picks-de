@@ -4,16 +4,16 @@ digistore24_product_id: 155867
 title: "Regenbogenbrücke - Sterbebegleitung bei deinem Tier"
 vendor: "Andrea1A"
 product_type: "Member area and video courses"
-price: 112.06
+price: 111.81
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 28.02
+earnings_per_sale: 27.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2017-08-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://tierakademie.andrea-schaedel.de/lp/sterbebegleitung-bei-deinem-tier/?aff=adminstore#aff=adminstore"
 sales_page: "https://tierakademie.andrea-schaedel.de/lp/sterbebegleitung-bei-deinem-tier/"
@@ -22,16 +22,16 @@ language: "de"
 # Regenbogenbrücke - Sterbebegleitung bei deinem Tier
 
 > Product ID `32820` · Digistore24 productId `155867` · [HTML profile page](../../produkte/regenbogenbr-cke-sterbebegleitung-bei-deinem-tier-32820.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $112.06 (Single payment) |
+| Price | $111.81 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $28.02 |
+| Earnings/sale* | $27.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Andrea1A |
@@ -41,7 +41,44 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ONLINE: Dein Tier geht auf seine letzte Reise. Sterbebegleitung bei deinem Tier Was ist jetzt für den Menschen aber vor allem auch für das Tier wichtig! Der Onlinekurs ist für alle Menschen geeignet, die Tiere auf Ihrem letzten Gang würdevoll begleiten wollen. Du solltest dich auf diesen schwierigen Tag vorbereiten. Kurs-Thema: Sterbebegleitung für dein Tier. Was du für dich und dein Tier tun kann…
+**Vendor's marketplace description:** <div>
+<h2>ONLINE: Dein Tier geht auf seine letzte Reise. <br />Sterbebegleitung bei deinem Tier</h2>
+</div>
+<div>
+<p> </p>
+<p><strong>Was ist jetzt für den Menschen aber vor allem auch für das Tier wichtig!</strong></p>
+<p>Der Onlinekurs ist für alle Menschen geeignet, die Tiere auf Ihrem letzten Gang würdevoll  begleiten wollen.</p>
+</div>
+<div>
+<p>Du solltest dich auf diesen schwierigen Tag vorbereiten.</p>
+<p><strong>Kurs-Thema:</strong> Sterbebegleitung für dein Tier.  Was du für dich und dein Tier tun kannst, um diesen Prozess zu erleichtern.</p>
+<p><strong>Titel:</strong> Tieren den Sterbeprozess erleichtern</p>
+<p> </p>
+<p><em><strong>Mein Kurs hilft dir, dein Tier beim Sterbeprozess würdevoll zu begleiten und ihm diesen zu erleichtern.</strong></em></p>
+</div>
+<p> </p>
+<div>
+<p><strong>Folgende Inhalte erwarten dich:</strong></p>
+<p>- Welche Todesarten gibt es</p>
+<p>- Die einzelnen Sterbephasen</p>
+<p>- Welche möglichen Wegbegleitungen haben wir in den</p>
+<p>  einzelnen Sterbephasen</p>
+<p>- Unterstützende und begleitende Rituale</p>
+<p>- Gebet für überfahrene Tiere</p>
+<p>- Die einzelnen Trauerphasen</p>
+<p>- Welche möglichen Wegbegleitungen haben wir in den</p>
+<p>  einzelnen Trauerphasen</p>
+<p>- Soforthilfe für die Seele</p>
+<p>- Einfache und natürliche Hilfsmittel, die dich und dein </p>
+<p>  Tier unterstützen können</p>
+<p> </p>
+<p>Selbstlernkurs</p>
+<p>Keine aktive Begleitung</p>
+<p>Auf Wunsch gerne persönliche Betreuung und Begleitung buchbar.</p>
+<p>Inhalt: 2 PDF-Skript - 1 Video</p>
+<p> </p>
+<p>Das Online-Seminar ersetzt in <strong>KEINEM</strong> Fall den Besuch bei einem Tierarzt!!! Es findet außerhalb der Heilkunde statt. Es besteht kein Rechtsanspruch!</p>
+</div>
 
 ## 2. Links
 
@@ -97,7 +134,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Regenbogenbrücke - Sterbebegleitung bei deinem Tier? — Typ: Member area and video courses, Anbieter: Andrea1A, gelistet seit 2017-08-05
-- Wie viel kostet es? — 112.06 USD
+- Wie viel kostet es? — 111.81 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

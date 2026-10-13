@@ -4,34 +4,34 @@ digistore24_product_id: 553233
 title: "Bis der Notarzt kommt - einzigartiger Kinder-Notfall-Kurs"
 vendor: "optandoakademie"
 product_type: "Member area and video courses"
-price: 81.93
+price: 81.74
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 40.97
+earnings_per_sale: 40.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Survival"]
 listed_since: "2024-05-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53313/adminstore/"
 sales_page: "https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/"
 language: "de"
 ---
 # Bis der Notarzt kommt - einzigartiger Kinder-Notfall-Kurs
 
 > Product ID `53313` · Digistore24 productId `553233` · [HTML profile page](../../produkte/bis-der-notarzt-kommt-einzigartiger-kinder-notfall-kurs-53313.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $81.93 (Single payment) |
+| Price | $81.74 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $40.97 |
+| Earnings/sale* | $40.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | optandoakademie |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieser Kinder-Notfall-Kurs ist auf seine Art einzigartig. Er bietet in 10+3 Videolektionen kurze knackige lebenswichtige Informationen bei einem Notfall eines Kindes. Der Kurs ist deshalb so einzigartig, weil andere Kurse nicht genau so auf den Punkt kommen. Dieser Kurs soll keine allgemeinbildenden Maßnahmen lehren, sondern genau die Lücke zwischen Un-/Notfall und dem Eintreffen des Notarztes sch…
+**Vendor's marketplace description:** <p><strong>Dieser Kinder-Notfall-Kurs ist auf seine Art einzigartig.</strong> Er bietet in 10+3 Videolektionen kurze knackige lebenswichtige Informationen bei einem Notfall eines Kindes.</p>
+<p>Der Kurs ist deshalb so einzigartig, weil andere Kurse nicht genau so auf den Punkt kommen. Dieser Kurs soll keine allgemeinbildenden Maßnahmen lehren, sondern genau die Lücke zwischen Un-/Notfall und dem Eintreffen des Notarztes schließen.</p>
+<p>Der Kurs schließt mit einem Zertifikat ab.</p>
+<p><span style="background-color:#ccffff;">Wir verkaufen bisher unsere Kurse an über 1000 Firmenkunden mit über 30.000 Teilnehmern in den letzten 5 Jahren. Dieser Kurs ist für Endkunden bestimmt.</span></p>
+<p>DENN GENAU DARUM GEHTS. Bis der Notarzt kommt. Mehr nicht. Wir wollen mit dem Kurs nicht reich werden, sondern möglichst viele Menschen erreichen.</p>
+<p>Daher gibts für dich lieber Affiliate <span style="color:#ff0000;"><strong>nicht nur</strong><strong><span style="color:#ff0000;"> 5</span>0% Provision</strong></span>, sondern auch einen eigenen kostenlosen Zugang zu diesem Kurs. Dazu einfach ne kurze WhatsApp Nachricht an: 0159-06399194.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53313/adminstore/
 - Sales page: https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/
 - Canonical redirect: https://www.digistore24.com/redir/553233/adminstore
 
@@ -79,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bis der Notarzt kommt - einzigartiger Kinder-Notfall-Kurs? — Typ: Member area and video courses, Anbieter: optandoakademie, gelistet seit 2024-05-21
-- Wie viel kostet es? — 81.927066 USD
+- Wie viel kostet es? — 81.744291 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

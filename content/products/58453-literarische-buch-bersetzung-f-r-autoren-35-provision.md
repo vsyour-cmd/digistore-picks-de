@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2026-08-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://literaxis.com/de/pricing?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58453/adminstore/"
 sales_page: "https://literaxis.com/de/pricing"
 language: "de"
 ---
 # Literarische Buchübersetzung für Autoren | 35% Provision
 
 > Product ID `58453` · Digistore24 productId `721720` · [HTML profile page](../../produkte/literarische-buch-bersetzung-f-r-autoren-35-provision-58453.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Literaxis ist eine KI-gestützte Plattform für literarische Buchübersetzungen – ab CHF 69 pro Buch, in sechs Sprachen (DE/EN/FR/IT/ES/PT-BR), mit Fokus auf Stiltreue statt reiner Wort-für-Wort-Übersetzung. Als Affiliate erhältst du 35% Provision vom Verkaufspreis. Als Super-Affiliate zusätzlich 10% auf die Provision jeder Person, die du selbst als Affiliate geworben hast. Auf unserer Werbemittel-Se…
+**Vendor's marketplace description:** <p>Literaxis ist eine KI-gestützte Plattform für literarische Buchübersetzungen – <strong>ab CHF 69 pro Buch, in sechs Sprachen (DE/EN/FR/IT/ES/PT-BR)</strong>, mit Fokus auf Stiltreue statt reiner Wort-für-Wort-Übersetzung.</p>
+<p>Als Affiliate erhältst du 35% Provision vom Verkaufspreis. Als Super-Affiliate zusätzlich 10% auf die Provision jeder Person, die du selbst als Affiliate geworben hast.</p>
+<p>Auf unserer Werbemittel-Seite findest du deinen persönlichen Tracking-Link-Generator, fertige Text- und E-Mail-Vorlagen sowie Banner zum Download – bereit zum direkten Einsatz: https://literaxis.com/affiliate-kit</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://literaxis.com/de/pricing?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58453/adminstore/
 - Sales page: https://literaxis.com/de/pricing
 - Vendor affiliate support: https://literaxis.com/de/affiliate-kit
 - Canonical redirect: https://www.digistore24.com/redir/721720/adminstore

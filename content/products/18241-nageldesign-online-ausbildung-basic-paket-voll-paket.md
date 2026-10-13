@@ -4,34 +4,34 @@ digistore24_product_id: 150669
 title: "Nageldesign Online Ausbildung Basic-Paket (Voll-Paket)"
 vendor: "lighthouse"
 product_type: "Downloads"
-price: 86.06
+price: 85.87
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 40.05
+earnings_per_sale: 39.96
 cart_conversion_pct: 12
 cancel_rate_pct: 3.49
 categories: ["Education"]
 listed_since: "2017-07-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://nageldesign-online-ausbildung.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/18241/adminstore/"
 sales_page: "http://nageldesign-online-ausbildung.de"
 language: "de"
 ---
 # Nageldesign Online Ausbildung Basic-Paket (Voll-Paket)
 
 > Product ID `18241` · Digistore24 productId `150669` · [HTML profile page](../../produkte/nageldesign-online-ausbildung-basic-paket-voll-paket-18241.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $86.06 (Single payment) |
+| Price | $85.87 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $40.05 |
+| Earnings/sale* | $39.96 |
 | Cart conversion* | 12% |
 | Cancel rate* | 3.49% |
 | Vendor | lighthouse |
@@ -41,11 +41,41 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lerne von Zuhause aus, kostengünstig, ortsunabhängig und bei freier Zeiteinteilung deinen neuen Traumberuf zum Nageldesigner/Nageldesignerin mit Zertifikat! So kannst Du schnell selbstständig arbeiten und dein erstes Geld in deinem neuen Beruf mit einem eigenen Studio oder von zuhause aus verdienen. Nageldesign Ausbildung Jetzt online lernen! Nageldesign Online-Ausbildung Basic-Paket Du erhältst m…
+**Vendor's marketplace description:** <h2><strong>Lerne von Zuhause aus</strong>, kostengünstig, ortsunabhängig und bei freier Zeiteinteilung deinen neuen <span style="background-color:#ffff99;"><strong>Traumberuf zum Nageldesigner/Nageldesignerin mit Zertifikat!</strong></span></h2>
+<div> </div>
+<div><strong>So kannst Du schnell selbstständig arbeiten und dein erstes Geld in deinem neuen Beruf mit einem eigenen Studio oder von zuhause aus </strong><strong>verdienen.</strong></div>
+<div> </div>
+<div>Nageldesign Ausbildung Jetzt online lernen!</div>
+<div><span style="text-decoration:underline;background-color:#ffff99;"><strong>Nageldesign Online-Ausbildung Basic-Paket</strong></span>
+<p><strong>Du erhältst mehrere Stunden Videomaterial persönlichen WhatsApp Support und im Vollpaket zusätzliche telefonische Unterstützung bis 3 Monate nach Kauf des Produktes:</strong></p>
+<ul>
+<li>1. Video Modul Geräte und Materialkunde</li>
+<li>2. Video Modul Neumodellage Gelnägel</li>
+<li>3. Video Modul Auffüllen Gelnägel</li>
+<li>4. wichtige unterstützende Unterlagen als PDF</li>
+<li>5. Persönliche Unterstützung durch WatsApp Zugang</li>
+<li><strong>Abschlußzertifikat</strong> </li>
+</ul>
+<p><strong><span style="background-color:#ffff99;">Wenn sich ein Kunde für das Voll-Paket auf der Verkaufseite für 97,00 € entscheidet</span>, wird dies ebenso mit 60% Provision über den Promolink von uns vergütet.</strong> </p>
+<span style="text-decoration:underline;background-color:#ffff99;"><strong>Inhalt Nageldesign-Online-Ausbildung Voll-Paket:</strong></span>
+<ul>
+<li>1. Video Modul Geräte und Materialkunde</li>
+<li>2. Video Modul Neumodellage Gelnägel</li>
+<li>3. Video Modul Auffüllen Gelnägel</li>
+<li>4. Video Modul French Pediküre</li>
+<li>5. Video Modul Nailart</li>
+<li>6. wichtige unterstützende Unterlage als PDF</li>
+<li>7. WhatsApp Zugang</li>
+<li>8. Office Hours (telefonische direkt Betreuung)</li>
+<li><span style="background-color:#ffff99;"><strong>9.</strong> <strong>Bonus:</strong> <strong>Unser 113 seitiges E-Book</strong></span> für Nageldesigner/innen zum erfolgreichen Start in die Selbstständigkeit mit wertvollen Tipps aus der Praxis für Deinen Erfolg</li>
+<li><strong>Abschlußzertifikat</strong></li>
+</ul>
+<p> </p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://nageldesign-online-ausbildung.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/18241/adminstore/
 - Sales page: http://nageldesign-online-ausbildung.de
 - Vendor affiliate support: http://nageldesign-online-ausbildung.de/affiliate-support-seite/
 - Canonical redirect: https://www.digistore24.com/redir/150669/adminstore
@@ -103,7 +133,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nageldesign Online Ausbildung Basic-Paket (Voll-Paket)? — Typ: Downloads, Anbieter: lighthouse, gelistet seit 2017-07-15
-- Wie viel kostet es? — 86.06208 USD
+- Wie viel kostet es? — 85.87008 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 244166
 title: "megamemory Gedächtnistraining Videokurs von Gregor Staub"
 vendor: "megamemory"
 product_type: "Downloads"
-price: 240.13
+price: 239.6
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 48.03
+earnings_per_sale: 47.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2018-10-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/244166?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/244166"
@@ -22,16 +22,16 @@ language: "de"
 # megamemory Gedächtnistraining Videokurs von Gregor Staub
 
 > Product ID `33528` · Digistore24 productId `244166` · [HTML profile page](../../produkte/megamemory-ged-chtnistraining-videokurs-von-gregor-staub-33528.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $240.13 (Single payment, Installment) |
+| Price | $239.60 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $48.03 |
+| Earnings/sale* | $47.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megamemory |
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** megamemory Gedächtnistraining, der komplette Selbstlehrgang für Zuhause Wer möchte sich nicht leichter Namen, Gesichter oder Zahlen merken können? Sprachen deutlich schneller lernen oder eine Rede halten, ohne auf seine Notizen schauen zu müssen? Gregor Staub bietet eine effiziente Technik bei welcher das Erinnerungsvermögen gestärkt, sowie Daten sicher im Kopf gespeichert und abgerufen werden kön…
+**Vendor's marketplace description:** <p><strong>megamemory Gedächtnistraining, der komplette Selbstlehrgang für Zuhause </strong></p>
+<p>Wer möchte sich nicht leichter Namen, Gesichter oder Zahlen merken können? Sprachen deutlich schneller lernen oder eine Rede halten, ohne auf seine Notizen schauen zu müssen? Gregor Staub bietet eine effiziente Technik bei welcher das Erinnerungsvermögen gestärkt, sowie Daten sicher im Kopf gespeichert und abgerufen werden können.</p>
+<p><strong>megamemory Gedächtnistraining</strong> zeigt Ihnen wie Sie Ihr Gehirn <strong>effektiv</strong> verwenden können. Wie können Sie das vorstellen? Ein Vergleich zum Sport: Jeder kann Sport machen, jeder kann sich bewegen, aber jeder muss den richtigen Bewegungsablauf und vor allem die richtige Technik lernen, um diesen optimal auszuführen.</p>
+<p>In diesem Videokurs zeigt Ihnen Gregor <strong>Abläufe</strong> und <strong>Techniken</strong>, wie Sie in Zukunft Ihr <strong>Gehirn</strong> so einsetzen können, dass Sie sich <strong>alles merken</strong> können, was Sie möchten. Um welches Wissen es sich dabei handelt, spielt keine Rolle.</p>
+<p><strong>Die Themen des Kurses:</strong></p>
+<ul><li>Geniale Methoden für das Merken von:
+<ul><li>Namen &amp; Zahlen</li>
+<li>Fakten &amp; Formeln</li>
+<li>Vokabeln &amp; Regeln</li>
+<li>Reden, Vorträgen &amp; Präsentationen</li>
+</ul></li>
+<li>megamemory für Kinder</li>
+<li>Effiziente Lernhilfe für Schüler und Studenten</li>
+<li>Aktives Lernsystem für Eltern und Kinder</li>
+<li>Gedächtnistraining für Senioren</li>
+<li>Stressabbau durch einfaches und schnelles lernen</li>
+</ul><p>Die megamemory-Gedächtnistraining-Lizenz ist unbegrenzt für Sie und Ihre Familie gültig.<br /><br />Mit iOS, Windows und Android nutzbar, Mit Zeichnungen von Klaus Voormann.</p>
+<p> </p>
+<p><strong>Sie erhalten unmittelbar nach Bestellung und Bezahlung automatisch Ihren Lizenzcode zur sofortigen Nutzung des Online-Systems mit Videos.</strong></p>
 
 ## 2. Links
 
@@ -85,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist megamemory Gedächtnistraining Videokurs von Gregor Staub? — Typ: Downloads, Anbieter: megamemory, gelistet seit 2018-10-16
-- Wie viel kostet es? — 240.133374 USD
+- Wie viel kostet es? — 239.59764900000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

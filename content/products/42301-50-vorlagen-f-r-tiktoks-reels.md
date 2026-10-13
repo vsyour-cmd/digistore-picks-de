@@ -4,34 +4,34 @@ digistore24_product_id: 469245
 title: "50 Vorlagen für TikToks/Reels"
 vendor: "JulianSchneider0211"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.26
+earnings_per_sale: 12.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2022-11-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/469245?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/42301/adminstore/"
 sales_page: "https://www.digistore24.com/product/469245"
 language: "de"
 ---
 # 50 Vorlagen für TikToks/Reels
 
 > Product ID `42301` · Digistore24 productId `469245` · [HTML profile page](../../produkte/50-vorlagen-f-r-tiktoks-reels-42301.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.26 |
+| Earnings/sale* | $12.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JulianSchneider0211 |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hier bekommst du 50 Vorlage Videos für TikTok bzw Reels. Affiliate Provision = 50%
+**Vendor's marketplace description:** <p>Hier bekommst du 50 Vorlage Videos für TikTok bzw Reels.</p>
+<p> </p>
+<p>Affiliate Provision = 50%</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/469245?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/42301/adminstore/
 - Sales page: https://www.digistore24.com/product/469245
 - Canonical redirect: https://www.digistore24.com/redir/469245/adminstore
 
@@ -73,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 Vorlagen für TikToks/Reels? — Typ: E-books, Anbieter: JulianSchneider0211, gelistet seit 2022-11-12
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

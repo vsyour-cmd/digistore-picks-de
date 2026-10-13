@@ -4,16 +4,16 @@ digistore24_product_id: 698552
 title: "DBM - Dorn-Breuss die präzise Lösung von Claudia Gorbach"
 vendor: "dornbreuss"
 product_type: "Member area and video courses"
-price: 18.65
+price: 18.61
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 13.05
+earnings_per_sale: 13.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-06-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://academy.e-ducation.cloud/course/dbm-dorn-breuss-die-praezise-loesung-von-claudia-gorbach?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/dbm-dorn-breuss-die-praezise-loesung-von-claudia-gorbach"
@@ -22,16 +22,16 @@ language: "de"
 # DBM - Dorn-Breuss die präzise Lösung von Claudia Gorbach
 
 > Product ID `56844` · Digistore24 productId `698552` · [HTML profile page](../../produkte/dbm-dorn-breuss-die-pr-zise-l-sung-von-claudia-gorbach-56844.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.65 (Single payment) |
+| Price | $18.61 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $13.05 |
+| Earnings/sale* | $13.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dornbreuss |
@@ -41,7 +41,40 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DBM – Dorn-Breuss: Die präzise Lösung Der Minikurs für alle, die Dorn-Breuss wirklich verstehen wollen Viele Menschen lernen die Dorn-Breuss-Methode über Techniken und Abläufe. Dennoch bleiben Ergebnisse oft instabil oder müssen immer wieder korrigiert werden. Genau hier setzt dieser Minikurs an. Claudia Gorbach zeigt, warum nachhaltige Wirkung nicht allein durch Technik entsteht, sondern durch Or…
+**Vendor's marketplace description:** <h3>DBM – Dorn-Breuss: Die präzise Lösung</h3>
+<h3>Der Minikurs für alle, die Dorn-Breuss wirklich verstehen wollen</h3>
+<p>Viele Menschen lernen die Dorn-Breuss-Methode über Techniken und Abläufe. Dennoch bleiben Ergebnisse oft instabil oder müssen immer wieder korrigiert werden.</p>
+<p>Genau hier setzt dieser Minikurs an.</p>
+<p>Claudia Gorbach zeigt, warum nachhaltige Wirkung nicht allein durch Technik entsteht, sondern durch Ordnung, Wahrnehmung und systemische Orientierung. Der Kurs vermittelt die grundlegenden Zusammenhänge, die in vielen Ausbildungen nur am Rande behandelt werden.</p>
+<p>Als langjährige Dorn-Breuss-Expertin, Autorin und Ausbilderin verbindet Claudia Gorbach traditionelle Dorn-Breuss-Anwendung mit einem tiefen Verständnis für Selbstregulation, Wahrnehmung und funktionelle Ordnung.</p>
+<p>Der Kurs ist bewusst kompakt aufgebaut und eignet sich ideal als Einstieg in eine hochwertige Weiterbildungs- und Produktwelt.</p>
+<hr />
+<h3>Warum Affiliates dieses Produkt gerne bewerben</h3>
+<p>✔ Klare und verständliche Positionierung<br />✔ Hochinteressante Zielgruppe aus Therapie, Gesundheit und Körperarbeit<br />✔ Starkes Problem-Bewusstsein bei der Zielgruppe<br />✔ Niedrige Einstiegshürde durch kompaktes Kursformat<br />✔ Idealer Einstieg in weiterführende Produkte, Seminare und Ausbildungen<br />✔ Hohe Relevanz für Dorn-Breuss-Anwender und Gesundheitsinteressierte</p>
+<hr />
+<h3>Zielgruppe</h3>
+<ul>
+<li>Dorn-Breuss-Anwender</li>
+<li>Therapeutinnen und Therapeuten</li>
+<li>Heilpraktikerinnen und Heilpraktiker</li>
+<li>Masseure und Körpertherapeuten</li>
+<li>Gesundheitscoaches</li>
+<li>Gesundheitsbewusste Menschen mit Interesse an ganzheitlichen Zusammenhängen</li>
+</ul>
+<hr />
+<h3>Die zentrale Botschaft</h3>
+<p><strong>Dorn-Breuss wirkt. Doch ohne Ordnung bleibt die Methode begrenzt.</strong></p>
+<p>Dieser Minikurs zeigt die fehlende Ebene zwischen Technik und nachhaltiger Wirkung.</p>
+<hr />
+<h3>Langfristiges Potenzial</h3>
+<p>Dieses Produkt ist Teil einer wachsenden Dorn-Breuss-Produktwelt.</p>
+<p>Nach dem Einstieg folgen weitere Kurse, Vertiefungen, Fachthemen sowie hochwertige Präsenzseminare und Weiterbildungen.</p>
+<p>Dadurch profitieren Affiliates nicht nur von einzelnen Verkäufen, sondern von einer langfristigen Kundenentwicklung.</p>
+<hr />
+<h3>Jetzt als Affiliate bewerben</h3>
+<p>Empfehlen Sie ein Produkt mit fachlicher Substanz, klarer Positionierung und langfristigem Entwicklungspotenzial.</p>
+<p><strong>Ordnung. Wahrnehmung. Wirkung.</strong><br /><strong>DBM – Dorn-Breuss: Die präzise Lösung.</strong></p>
+<p> </p>
 
 ## 2. Links
 
@@ -68,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DBM - Dorn-Breuss die präzise Lösung von Claudia Gorbach? — Typ: Member area and video courses, Anbieter: dornbreuss, gelistet seit 2026-06-09
-- Wie viel kostet es? — 18.646784 USD
+- Wie viel kostet es? — 18.605184 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 525811
 title: "Umweltfreundliche Putzmittel selber machen"
 vendor: "Katharinaruehrt"
 product_type: "Member area and video courses"
-price: 69.68
+price: 69.52
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 13.3
+earnings_per_sale: 13.27
 cart_conversion_pct: 8
 cancel_rate_pct: 1.54
 categories: ["Green Products & Environmental Protection","Hobby & Craft","Marketing Services"]
 listed_since: "2023-11-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.katharinaruehrt.com/putzmittel-selber-machen?aff=adminstore#aff=adminstore"
 sales_page: "https://www.katharinaruehrt.com/putzmittel-selber-machen"
@@ -22,16 +22,16 @@ language: "de"
 # Umweltfreundliche Putzmittel selber machen
 
 > Product ID `53732` · Digistore24 productId `525811` · [HTML profile page](../../produkte/umweltfreundliche-putzmittel-selber-machen-53732.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $69.68 (Single payment) |
+| Price | $69.52 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $13.30 |
+| Earnings/sale* | $13.27 |
 | Cart conversion* | 8% |
 | Cancel rate* | 1.54% |
 | Vendor | Katharinaruehrt |
@@ -41,7 +41,33 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dein Zuhasue soll sauber sein und die Umwelt auch? In diesem Workshop zeige ich dir, wie du dir deine Putzmittel selbst herstellst. Und zwar aus umweltfreundlichen, traditionellen Zutaten wie Natron, Zitronensäure und Essig. Du lernst 8 Rezepte kennen, die du ruckzuck für dich und deine Familie anrühren kannst. Außerdem erkläre ich dir die Wirkung aller Zutaten genau, sodass du in Zukunft weißt, w…
+**Vendor's marketplace description:** <p><strong>Dein Zuhasue soll sauber sein und die Umwelt auch?</strong></p>
+<p>In diesem Workshop zeige ich dir, wie du dir deine Putzmittel selbst herstellst. Und zwar aus umweltfreundlichen, traditionellen Zutaten wie Natron, Zitronensäure und Essig. </p>
+<p>Du lernst 8 Rezepte kennen, die du ruckzuck für dich und deine Familie anrühren kannst. Außerdem erkläre ich dir die Wirkung aller Zutaten genau, sodass du in Zukunft weißt, wie du sie vielseitig nutzen kannst.</p>
+<p>Danach siehst du so klar, wie durch eine frisch geputzte Fensterscheibe, denn ich zeige dir alles Schritt-für-Schritt und verspreche dir: Umweltfreundlich putzen ist genial einfach!</p>
+<p><strong>Was?</strong></p>
+<p>Gemeinsam stellen wir folgende Reinigungsmittel her:</p>
+<ul>
+<li>Flüssigwaschmittel,</li>
+<li>Wollwaschmittel,</li>
+<li>Kastanienwaschmittel,</li>
+<li>Glasreiniger,</li>
+<li>WC-Reiniger,</li>
+<li>Essig-Allzweckreiniger,</li>
+<li>Geschirrspülpulver für die Spülmaschine und</li>
+<li>Klarspüler für die Spülmaschine.</li>
+</ul>
+<div>
+<div>
+<div>
+<div><strong>Wann?</strong></div>
+</div>
+</div>
+</div>
+<div>
+<p>Sofort, wenn du magst! Nach deiner Buchung schalte ich dir den Workshop direkt frei. Dann kannst du innerhalb der nächsten 6 Monate in deinem Tempo rühren und dir die Aufzeichnung immer wieder anschauen.</p>
+<p><a>https://www.katharinaruehrt.com/putzmittel-selber-machen</a></p>
+</div>
 
 ## 2. Links
 
@@ -78,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Umweltfreundliche Putzmittel selber machen? — Typ: Member area and video courses, Anbieter: Katharinaruehrt, gelistet seit 2023-11-17
-- Wie viel kostet es? — 69.678908 USD
+- Wie viel kostet es? — 69.523458 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

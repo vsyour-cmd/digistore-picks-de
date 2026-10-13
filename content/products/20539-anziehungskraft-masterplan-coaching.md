@@ -4,34 +4,34 @@ digistore24_product_id: 172975
 title: "Anziehungskraft-Masterplan-Coaching"
 vendor: "Erfolg-Intuitiv"
 product_type: "Member area and video courses"
-price: 29.44
+price: 29.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.88
+earnings_per_sale: 11.85
 cart_conversion_pct: 19
 cancel_rate_pct: 6.02
 categories: ["Personal Development"]
 listed_since: "2017-10-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://erfolg-intuitiv.de/anziehungskraft-masterplan-online-seminar/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/20539/adminstore/"
 sales_page: "https://erfolg-intuitiv.de/anziehungskraft-masterplan-online-seminar/"
 language: "de"
 ---
 # Anziehungskraft-Masterplan-Coaching
 
 > Product ID `20539` · Digistore24 productId `172975` · [HTML profile page](../../produkte/anziehungskraft-masterplan-coaching-20539.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $29.44 (Single payment, Installment) |
+| Price | $29.37 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.88 |
+| Earnings/sale* | $11.85 |
 | Cart conversion* | 19% |
 | Cancel rate* | 6.02% |
 | Vendor | Erfolg-Intuitiv |
@@ -41,11 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Online-Videokurs über 4 Module (Über 7 Stunden Spieldauer) Starke Konvertierung!Verkauf über tägliches Webinar (Kann jederzeit beworben werden) 1. Modul: Wunschblockaden auflösenDie Handbremse lösen, negative Energien loslassen und die Bahn freimachen für Ihre Wünsche. 2. Modul: Transformation vom Zweifler zum SchöpferVerhindernde Glaubenssätze in fördernde umwandeln und Ihr Unterbewusstsein auf I…
+**Vendor's marketplace description:** <p><strong>Online-Videokurs über 4 Module</strong> (Über 7 Stunden Spieldauer)</p>
+<p><strong>Starke Konvertierung!<br /></strong>Verkauf über tägliches Webinar (Kann jederzeit beworben werden)</p>
+<table style="width:393px;">
+<tbody>
+<tr>
+<td style="width:81px;vertical-align:top;"><strong>1. Modul:</strong></td>
+<td style="width:300px;"><strong>Wunschblockaden auflösen</strong><br />Die Handbremse lösen, negative Energien loslassen und die Bahn freimachen für Ihre Wünsche.</td>
+</tr>
+<tr>
+<td style="width:81px;vertical-align:top;"><strong>2. Modul:</strong></td>
+<td style="width:300px;"><strong>Transformation vom Zweifler zum Schöpfer</strong><br />Verhindernde Glaubenssätze in fördernde umwandeln und Ihr Unterbewusstsein auf Ihre Wünsche programmieren.</td>
+</tr>
+<tr>
+<td style="width:81px;vertical-align:top;"><strong>3. Modul:</strong></td>
+<td style="width:300px;"><strong>Maximale Manifestierungs-Energie aufbauen</strong><br />Sie erfahren die entschiedenden Voraussetzungen, um erfolgreich zu manifestieren und wie Sie Ihre Wünsche optimal mit Energie aufladen. Zudem erhlaten Sie kraftvolle Techniken.</td>
+</tr>
+<tr>
+<td style="width:81px;vertical-align:top;"><strong>4. Modul:</strong></td>
+<td style="width:300px;"><strong>Positives Resonanzfeld aufbauen</strong><br />Wie Sie sich ein hohes Schwingungsfeld aufbauen in auf die Frequenz Ihrer Wünsche kommen</td>
+</tr>
+</tbody>
+</table>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://erfolg-intuitiv.de/anziehungskraft-masterplan-online-seminar/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/20539/adminstore/
 - Sales page: https://erfolg-intuitiv.de/anziehungskraft-masterplan-online-seminar/
 - Vendor affiliate support: https://erfolg-intuitiv.de/partnerprogramm-amc/
 - Canonical redirect: https://www.digistore24.com/redir/172975/adminstore
@@ -78,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Anziehungskraft-Masterplan-Coaching? — Typ: Member area and video courses, Anbieter: Erfolg-Intuitiv, gelistet seit 2017-10-23
-- Wie viel kostet es? — 29.438162000000002 USD
+- Wie viel kostet es? — 29.372487000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

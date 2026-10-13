@@ -4,16 +4,16 @@ digistore24_product_id: 276887
 title: "Du und Dein Herdenschutzhund - glücklich verbunden"
 vendor: "ZappZapp"
 product_type: "Webinar"
-price: 542.4
+price: 541.19
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 162.72
+earnings_per_sale: 162.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2019-06-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund"
@@ -22,16 +22,16 @@ language: "de"
 # Du und Dein Herdenschutzhund - glücklich verbunden
 
 > Product ID `29571` · Digistore24 productId `276887` · [HTML profile page](../../produkte/du-und-dein-herdenschutzhund-gl-cklich-verbunden-29571.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $542.40 (Single payment, Installment) |
+| Price | $541.19 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $162.72 |
+| Earnings/sale* | $162.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ZappZapp |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Diese Schulung ist hilft Haltern von Herdenschutzhunde in Familienhand, ein glückliches und harmonischen Zusammenleben zu ermöglichen. Empfehlen Sie das einzigartige Produkt für Hundehalter mit überragender Customer Lifetime Value. Ihre Vorteile: - Hohe Conversion-Raten, durch starke Verkaufseiten, die durchgehend getestet werden - Doppelt so viel Verkäufe aus Deinen Besuchern rausholen, durch gez…
+**Vendor's marketplace description:** <p>Diese Schulung ist hilft Haltern von Herdenschutzhunde in Familienhand, ein glückliches und harmonischen Zusammenleben zu ermöglichen.</p>
+<p>Empfehlen Sie das einzigartige Produkt für Hundehalter mit überragender Customer Lifetime Value. Ihre Vorteile:</p>
+<p>- Hohe Conversion-Raten, durch starke Verkaufseiten, die durchgehend getestet werden</p>
+<p>- Doppelt so viel Verkäufe aus Deinen Besuchern rausholen, durch gezielte Retargeting Werbung von uns</p>
+<p>- Begeisterte Kunden, durch ein erstklassiges Produkt (Geringe Stornoquote von nur 3%)</p>
+<p>- 30% Provision auf jeden Verkauf!</p>
+<p> </p>
+<p>Mirjam Cordt ist die erfolgreichste Hunde-Verhaltens-Expertin im deutschsprachigen Raum, Expertin für Herdenschutzhunde in Familienhand, Tierschützerin, Autorin von 6 Büchern, Gründerin des Kompetenzzentrum für Hunde &amp; Ihre Menschen "DOG-InForm", sowie einer Verhaltensberatung und einem Hundehotel und Ausbildungen für Hundetrainer/Verhaltensberater, Hundehalter, Tierschützer sowie Mindset-Coach.</p>
+<p> </p>
+<p>Durch ihre Arbeit, ihr Herz und Kompetenz und hervorragende Produkte mit bahnbrechenden Erfolgen ist sie so bekannt geworden.</p>
 
 ## 2. Links
 
@@ -89,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Du und Dein Herdenschutzhund - glücklich verbunden? — Typ: Webinar, Anbieter: ZappZapp, gelistet seit 2019-06-25
-- Wie viel kostet es? — 542.404018 USD
+- Wie viel kostet es? — 541.193943 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 564414
 title: "eBiz Navigator – Finde dein ideales Online-Business"
 vendor: "Andreas-Mattner"
 product_type: "Software"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 19.12
+earnings_per_sale: 19.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2024-08-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/564414?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54629/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/564414"
 language: "de"
 ---
 # eBiz Navigator – Finde dein ideales Online-Business
 
 > Product ID `54629` · Digistore24 productId `564414` · [HTML profile page](../../produkte/ebiz-navigator-finde-dein-ideales-online-business-54629.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $19.12 |
+| Earnings/sale* | $19.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Andreas-Mattner |
@@ -41,11 +41,42 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** eBiz Navigator – Der psychologisch fundierte Weg ins Online-Business Hilf Menschen, ihr ideales Online-Business zu finden – nicht das lauteste, sondern das, das wirklich zu ihnen passt. Der eBiz Navigator kombiniert Wirtschaftspsychologie und Arbeitspsychiologie mit praxisnahen Handlungsempfehlungen. Provisionen 70 % Provision pro Verkauf (einmalig, kein Abo) Cookie-Laufzeit: 180 Tage Preis: 27,90…
+**Vendor's marketplace description:** <p><strong>eBiz Navigator – Der psychologisch fundierte Weg ins Online-Business</strong></p>
+<p>Hilf Menschen, ihr ideales Online-Business zu finden – nicht das lauteste, sondern das, das wirklich zu ihnen passt.</p>
+<p>Der eBiz Navigator kombiniert Wirtschaftspsychologie und Arbeitspsychiologie mit praxisnahen Handlungsempfehlungen.</p>
+<p> </p>
+<p><strong>Provisionen</strong></p>
+<ul>
+<li>70 % Provision pro Verkauf (einmalig, kein Abo)</li>
+<li>Cookie-Laufzeit: 180 Tage</li>
+<li>Preis: 27,90 € (brutto)</li>
+</ul>
+<p> </p>
+<p><strong>Vorteile für dich als Affiliate</strong></p>
+<ul>
+<li>Kostenloser Test-Einstieg (hohe Conversion)</li>
+<li>Emotionale Bindung des Nutzers durch Persönlichkeitstest</li>
+<li>Kein Hype-Produkt, klare Nutzenkommunikation</li>
+<li>Neutraler Promolink</li>
+<li>Automatische Abwicklung über Digistore24</li>
+</ul>
+<p> </p>
+<p><strong>Dein Promolink</strong><br /><code>https://www.ebiz-navigator.de/?aff=<span style="background-color:#ffff00;">AFFILIATE</span>&amp;camp=IchBinMirWichtig</code><br /><br /><span style="background-color:#ffff00;">Wichtig:</span> Ersetze AFFILIATE mit deiner Digistore24-ID</p>
+<p> </p>
+<p><strong>Testzugang (nur für Affiliates)</strong></p>
+<p>Wir stehen für Offenheit und Authentizität.<br />Nutze den eBiz Navigator daher vollkommen kostenlos,<br />damit du ihn aus eigener Erfahrung weiterempfehlen kannst.</p>
+<p> </p>
+<ol>
+<li>Aufrufen: <a href="https://www.ebiz-navigator.de" target="_blank" rel="noreferrer noopener">www.ebiz-navigator.de</a></li>
+<li>Auf der Ergebnisseite des Persönlichkeitstest „Zugangscode eingeben“ klicken</li>
+<li>Freecode: <strong>affiliate2025</strong></li>
+</ol>
+<p>Achtung: Die Nutzung des Freecode ist nur für dich persönlich erlaubt. Keine Weitergabe an Dritte!<br /> </p>
+<p><em>Hinweis: Verkäufe werden automatisch über Digistore24 getrackt.</em></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/564414?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54629/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/564414
 - Canonical redirect: https://www.digistore24.com/redir/564414/adminstore
 
@@ -82,7 +113,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBiz Navigator – Finde dein ideales Online-Business? — Typ: Software, Anbieter: Andreas-Mattner, gelistet seit 2024-08-07
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

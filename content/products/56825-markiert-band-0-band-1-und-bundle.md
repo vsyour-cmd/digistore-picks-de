@@ -4,34 +4,34 @@ digistore24_product_id: 694775
 title: "„Markiert“ – Band 0, Band 1 und Bundle"
 vendor: "Niux489"
 product_type: "E-books"
-price: 12.56
+price: 12.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.29
+earnings_per_sale: 6.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/694775?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56825/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/694775"
 language: "de"
 ---
 # „Markiert“ – Band 0, Band 1 und Bundle
 
 > Product ID `56825` · Digistore24 productId `694775` · [HTML profile page](../../produkte/markiert-band-0-band-1-und-bundle-56825.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.56 (Single payment) |
+| Price | $12.53 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.29 |
+| Earnings/sale* | $6.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Niux489 |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das „Markiert – Lux-Universum Bundle“ enthält Band 0 und Band 1 in einem Paket und ist ideal für Leserinnen, die nicht nur kurz reinschnuppern, sondern direkt tief in eine düstere, moderne Dark-Romance-Welt eintauchen wollen. Was Leserinnen erwartet:- ein intensiver, spannender Einstieg mit Band 0- direkte Vertiefung der Welt mit Band 1- psychologische Spannung statt austauschbarer Standard-Romanc…
+**Vendor's marketplace description:** <p>Das „Markiert – Lux-Universum Bundle“ enthält Band 0 und Band 1 in einem Paket und ist ideal für Leserinnen, die nicht nur kurz reinschnuppern, sondern direkt tief in eine düstere, moderne Dark-Romance-Welt eintauchen wollen.</p>
+<p>Was Leserinnen erwartet:<br />- ein intensiver, spannender Einstieg mit Band 0<br />- direkte Vertiefung der Welt mit Band 1<br />- psychologische Spannung statt austauschbarer Standard-Romance<br />- gefährliche, kontrollierte Männerfiguren<br />- Regeln, Zugriff, Markierung, Konsequenzen<br />- eine moderne, filmische Sprache mit hohem Sog<br />- ein männlicher Autor mit markanter, eigener Handschrift</p>
+<p>Band 0 ist der Einstieg.<br />Band 1 zieht die Leserinnen noch tiefer ins System.</p>
+<p>Dadurch ist das Bundle besonders stark:<br />Es verkauft nicht nur ein einzelnes Buch, sondern direkt ein größeres Leseerlebnis mit stärkerem emotionalem Sog, mehr Welt, mehr Spannung und höherem Warenkorbwert.</p>
+<p>Produktdetails:<br />- Titel: Markiert – Lux-Universum Bundle<br />- Inhalt: Band 0 + Band 1<br />- Autor:  NIUX<br />- Sprache: Deutsch<br />- Genre: Dark Romance / Dark Romance Thriller<br />- Umfang: ca. 30.000 Wörter (Band 0) + ca. 126.000 Wörter (Band 1)<br />- Gesamtumfang: ca. 156.000 Wörter<br />- Format: E-Book / EPUB</p>
+<p>Ideal für Leserinnen, die Dark Romance nicht weich, kitschig oder beliebig wollen, sondern intensiv, düster, psychologisch aufgeladen und mit klarer Sogwirkung.</p>
+<p>Warum sich das Bundle stark bewerben lässt:</p>
+<p>- höherer Warenkorb als ein Einzelband<br />- direkter Einstieg plus direkte Vertiefung in einem Kauf<br />- perfekt für Leserinnen, die nach einer guten Leseprobe sofort mehr wollen<br />- starker Sog von Band 0 in Band 1<br />- moderne Dark-Romance-Thriller-Positionierung<br />- männlicher Autor als interessanter zusätzlicher Hook<br />- ideal für TikTok, Reels, Storys, Pinterest und Buch-Content<br />- besonders stark für Content mit Vibes, Tropes, Zitaten und „Wenn du X liebst, lies das“-Mechanik</p>
+<p> </p>
+<p>Zielgruppe:<br />Frauen, die düstere, intensive und psychologisch aufgeladene Dark Romance lieben und am liebsten direkt mehr als nur einen kurzen Einstieg wollen.</p>
+<p>Besonders geeignet für Leserinnen, die mögen:<br />- gefährliche, ruhige, kontrollierte MMCs<br />- psychologische Spannung und dunkle Systeme<br />- Regeln, Markierung, Zugriff, Machtverschiebung<br />- modernes Dark-Romance-Thriller-Feeling<br />- intensive Atmosphäre mit filmischer Sprache<br />- Reihen, in die man tief eintauchen kann</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/694775?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56825/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/694775
 - Canonical redirect: https://www.digistore24.com/redir/694775/adminstore
 
@@ -71,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Markiert“ – Band 0, Band 1 und Bundle? — Typ: E-books, Anbieter: Niux489, gelistet seit 2026-06-07
-- Wie viel kostet es? — 12.561926000000001 USD
+- Wie viel kostet es? — 12.533901000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

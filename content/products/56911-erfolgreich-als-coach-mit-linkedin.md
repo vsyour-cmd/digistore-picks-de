@@ -4,34 +4,34 @@ digistore24_product_id: 701346
 title: "Erfolgreich als Coach mit LinkedIn"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-linkedin?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56911/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-linkedin"
 language: "de"
 ---
 # Erfolgreich als Coach mit LinkedIn
 
 > Product ID `56911` · Digistore24 productId `701346` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-linkedin-56911.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Personal Branding, B2B-Leadgen und Kunden gewinnen ohne Kaltakquise LinkedIn ist der ideale Kanal für Coaches und Experten – weil hier Entscheider, Führungskräfte und Weiterbildungshungrige aktiv auf der Suche sind. Dieses E-Book zeigt dir, wie du deine persönliche Marke aufbaust, die genau die richtigen Menschen anzieht, und wie du aus Content planbar Erstgespräche und Kunden machst – ohne lästig…
+**Vendor's marketplace description:** <p><strong>Personal Branding, B2B-Leadgen und Kunden gewinnen ohne Kaltakquise</strong></p>
+<p>LinkedIn ist der ideale Kanal für Coaches und Experten – weil hier Entscheider, Führungskräfte und Weiterbildungshungrige aktiv auf der Suche sind. Dieses E-Book zeigt dir, wie du deine persönliche Marke aufbaust, die genau die richtigen Menschen anzieht, und wie du aus Content planbar Erstgespräche und Kunden machst – ohne lästige Kaltakquise. Du lernst, wie du Content-Pillars definierst, die zu deinem Angebot passen, wie du Dokument-Karussells und Texte mit starker Hook-Zeile einsetzt, und wie du DMs führst, die sich natürlich anfühlen statt aufdringlich. Inklusive eines Social-Selling-Fahrplans, der deinen Kalender füllt – Woche für Woche.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Deine Personal Brand aufbauen: so wirst du zur erkennbaren Autorität</li>
+<li>Content-Pillars definieren, die Expertise zeigen und Kunden anziehen</li>
+<li>Dokument-Karussells erstellen, die geteilt werden und Reichweite explodieren lassen</li>
+<li>Die Hook-Zeile vor dem »…mehr«: so stoppt du jeden Scroll</li>
+<li>Social Selling: Verbindungen aufbauen, die zu Kunden werden</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-linkedin?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56911/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-linkedin
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701346/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit LinkedIn? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

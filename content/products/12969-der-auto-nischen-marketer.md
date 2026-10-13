@@ -4,34 +4,34 @@ digistore24_product_id: 78501
 title: "Der Auto-Nischen-Marketer"
 vendor: "Cleriker"
 product_type: "Downloads"
-price: 187.4
+price: 186.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 93.7
+earnings_per_sale: 93.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2016-04-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://los.larspilawski.de/online-training-3-schritte-4-stellige-einnahmen-digistore/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/12969/adminstore/"
 sales_page: "https://los.larspilawski.de/online-training-3-schritte-4-stellige-einnahmen-digistore/"
 language: "de"
 ---
 # Der Auto-Nischen-Marketer
 
 > Product ID `12969` · Digistore24 productId `78501` · [HTML profile page](../../produkte/der-auto-nischen-marketer-12969.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $187.40 (Subscription) |
+| Price | $186.98 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $93.70 |
+| Earnings/sale* | $93.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Cleriker |
@@ -41,11 +41,75 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der komplette Marketing-Kurs , um Nischen-Webseiten, Webinar-Marketing und Email-Marketing zu starten. Du wirst mit 50% lebenslang beteiligt. 10 Gründe, warum du den einmaligen Auto-Nischen-Marketer promoten solltest: Mit 50% dauerhafte Beteiligung die höchste Provision im Profi-Internet-Marketing-Bereich Du bekommst automatische Anleitungen zum optimalen Bewerben meiner Produkte Hohe Verkaufsrate…
+**Vendor's marketplace description:** <div> </div>
+<div>
+<div>
+<h2><strong>Der komplette Marketing-Kurs , um Nischen-Webseiten, Webinar-Marketing und Email-Marketing  zu starten. </strong></h2>
+<h2><strong><span style="background-color:#ffff00;">Du wirst mit 50% lebenslang beteiligt.</span><br /></strong></h2>
+<strong>10 Gründe, warum du den einmaligen Auto-Nischen-Marketer promoten solltest:</strong> <br />
+<ul>
+<li><strong>Mit 50% dauerhafte Beteiligung die höchste Provision im Profi-Internet-Marketing-Bereich</strong></li>
+</ul>
+<ul>
+<li><strong>Du bekommst automatische Anleitungen zum optimalen Bewerben meiner Produkte</strong></li>
+<li>
+<p><strong>Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt<br /></strong></p>
+</li>
+<li>
+<p><strong>Vollautomatische Auszahlung deiner Provision durch Digistore24</strong></p>
+</li>
+<li>
+<p><strong>Direkt-Verkauf ohne großes Blabla und ohne versteckten Salesfunnel<br /></strong></p>
+</li>
+<li><strong>keine überteuerten Produkte und dadurch ~0% Stornoquote</strong></li>
+<li>
+<p><strong>Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln<br /></strong></p>
+</li>
+<li>
+<p><strong>Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst)<br /></strong></p>
+</li>
+<li>
+<p><strong>Ausführliche und ständige Conversion Optimierung</strong></p>
+</li>
+<li>
+<p><strong>Regelmäßige Affiliate Wettbewerbe <br />(Preis und Geschenke)</strong></p>
+</li>
+</ul>
+<p><strong>Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!</strong></p>
+</div>
+</div>
+<div><strong>Inhalt + Präsentation des Auto-Nischen-Marketers</strong></div>
+<div><strong>-----------------------------------------------&gt;&gt;&gt;</strong></div>
+<div>
+<p>Sie erwerben hiermit den einzigartigen <strong>Auto-Nischen-Marketer</strong> , mit dem Sie automatisiert Nischen-Marketing und E-Mail-Marketing umsetzen, <strong>um in wenigen Monaten 4-stellige Einnahmen zu fahren</strong>.</p>
+<p>Alle Vorgänge sind mit Strategie-Videos und Schritt-für-Schritt-Anleitungen bestückt.</p>
+<p><strong>Auto-Nischen-Marketer beinhaltet:</strong></p>
+<ol>
+<li>Nischen-Webseiten-Video-Kurs <strong>(250€)</strong></li>
+<li>E-Mail-Marketing-Video-Kurs<strong><strong> (150€)</strong></strong></li>
+<li>Geschenke-Methode Videokurs <strong>(37€)</strong></li>
+<li>Nischen-Shop Videokurs<strong> (299€)<br /></strong></li>
+<li>Automatische Webseiten-Erstellung <strong>(99€)<br /></strong></li>
+<li>Kostenlose SSL-Zertifikate <strong>(199€/Jahr)</strong></li>
+<li>Nischen-Club-Interaktion<strong> (47€/monatlich)</strong></li>
+<li>Zugriff auf mein Marketing-Wissen</li>
+<li>Motivations-Videos für harte Zeiten</li>
+<li>Kostenloses performantes Hosting</li>
+<li>50% Provision Partnerprogramm</li>
+<li>14 Tage Geld-Zurück-Garantie</li>
+<li>24/7 <a>Lars-Support</a> <em>(auch für Fragen vorher)</em></li>
+<li><strong>Bonus</strong>: 2400 Nischen-Ideen</li>
+<li><strong>Bonus</strong>: Bannermaterial</li>
+<li><strong>Bonus</strong>: vorgefertigtes Impressum</li>
+<li><strong>Bonus</strong>: Backlink-Austausch mit mir</li>
+<li><strong>Bonus</strong>: Manuelle Webseiten-Analyse</li>
+<li><strong>Bonus</strong>: Techniken Erfolg ausbauen<strong><br /></strong></li>
+</ol>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://los.larspilawski.de/online-training-3-schritte-4-stellige-einnahmen-digistore/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/12969/adminstore/
 - Sales page: https://los.larspilawski.de/online-training-3-schritte-4-stellige-einnahmen-digistore/
 - Vendor affiliate support: https://vip.larspilawski.de/affiliate-partnerprogramm/index.php?id=336
 - Canonical redirect: https://www.digistore24.com/redir/78501/adminstore
@@ -103,7 +167,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Auto-Nischen-Marketer? — Typ: Downloads, Anbieter: Cleriker, gelistet seit 2016-04-20
-- Wie viel kostet es? — 187.39793799999998 USD
+- Wie viel kostet es? — 186.979863 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

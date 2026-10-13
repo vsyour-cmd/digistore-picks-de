@@ -4,16 +4,16 @@ digistore24_product_id: 615316
 title: "Nächte voller Magie"
 vendor: "DreamElfe"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.17
+earnings_per_sale: 8.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-05-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://dreamelfes-buisness.systeme.io/naechte-voller-magie-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://dreamelfes-buisness.systeme.io/naechte-voller-magie-ds"
@@ -22,16 +22,16 @@ language: "de"
 # Nächte voller Magie
 
 > Product ID `54698` · Digistore24 productId `615316` · [HTML profile page](../../produkte/n-chte-voller-magie-54698.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.17 |
+| Earnings/sale* | $8.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DreamElfe |
@@ -41,7 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Nächte voller Magie“ (Hauptbuch + Bonusjournal) Deine 12 Nächte für Heilung, Vertrauen und Neubeginn Dieses liebevoll zusammengestellte Bundle vereint das Hauptbuch„Nächte voller Magie“ mit dem ergänzendenBegleitjournal zu einer tief transformierenden Reise durch die Rauhnächte. Gemeinsam führen dich beide Bücher durch 12 Nächte der Innenschau, Reinigung und Vision.Rituale, Meditationen, Reflexio…
+**Vendor's marketplace description:** <h3><strong>„Nächte voller Magie“ (Hauptbuch + Bonusjournal)</strong></h3>
+<p><strong>Deine 12 Nächte für Heilung, Vertrauen und Neubeginn</strong></p>
+<p>Dieses liebevoll zusammengestellte Bundle vereint das Hauptbuch<em>„Nächte voller Magie“</em> mit dem ergänzenden<em>Begleitjournal</em> zu einer tief transformierenden Reise durch die Rauhnächte.</p>
+<p>Gemeinsam führen dich beide Bücher durch 12 Nächte der Innenschau, Reinigung und Vision.<br />Rituale, Meditationen, Reflexionsfragen und kreative Übungen helfen dir, Altes loszulassen und dein neues Jahr mit Herz und Klarheit zu gestalten.</p>
+<p><strong>Im Bundle enthalten:</strong></p>
+<ul>
+<li>
+<p><strong>Hauptbuch:</strong> „Nächte voller Magie – 12 Rauhnächte voller Heilung, Vision und Elfenzauber“</p>
+</li>
+<li>
+<p><strong>Bonusjournal:</strong> „Reflexion · Rituale · Visionstage“</p>
+</li>
+<li>
+<p>Über 200 Seiten voller Magie, Achtsamkeit und Elfenenergie</p>
+</li>
+<li>
+<p>Ideal als Saison-Produkt für Dezember &amp; Jahreswechsel</p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Ergebnis:</strong><br />Du spürst die Magie des Neubeginns, erkennst deine wahren Herzenswünsche und startest erfüllt ins neue Jahr.<br />Ein Bundle, das dich Jahr für Jahr begleitet – wie ein leuchtender Stern am Übergang zwischen den Zeiten.</p>
 
 ## 2. Links
 
@@ -66,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nächte voller Magie? — Typ: E-books, Anbieter: DreamElfe, gelistet seit 2025-05-27
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

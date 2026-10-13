@@ -4,34 +4,34 @@ digistore24_product_id: 738064
 title: "KI-Einkommenssystem 2026 – 89 €, 50 % Provision"
 vendor: "influexai"
 product_type: "Downloads"
-price: 83.81
+price: 83.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.91
+earnings_per_sale: 41.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/738064?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59973/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/738064"
 language: "de"
 ---
 # KI-Einkommenssystem 2026 – 89 €, 50 % Provision
 
 > Product ID `59973` · Digistore24 productId `738064` · [HTML profile page](../../produkte/ki-einkommenssystem-2026-89-50-provision-59973.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $83.81 (Single payment) |
+| Price | $83.62 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.91 |
+| Earnings/sale* | $41.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | influexai |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** KI-Einkommenssystem 2026: 30 durchklickbare Lektionen in 10 Modulen zu KI-Dienstleistungen, Websites, Social-Media-Content, Automatisierung, digitalen Produkten und Kundengewinnung. Mit Praxisaufgaben, Checklisten, fertigen KI-Prompts und einem 30-Tage-Umsetzungsplan mit Fortschrittsanzeige. Zielgruppe: Einsteiger, die mit KI-Tools ein Nebeneinkommen aufbauen wollen – realistisch, ohne Einkommensv…
+**Vendor's marketplace description:** <p><strong>KI-Einkommenssystem 2026</strong>: 30 durchklickbare Lektionen in 10 Modulen zu KI-Dienstleistungen, Websites, Social-Media-Content, Automatisierung, digitalen Produkten und Kundengewinnung. Mit Praxisaufgaben, Checklisten, fertigen KI-Prompts und einem 30-Tage-Umsetzungsplan mit Fortschrittsanzeige.</p>
+<p><strong>Zielgruppe:</strong> Einsteiger, die mit KI-Tools ein Nebeneinkommen aufbauen wollen – realistisch, ohne Einkommensversprechen.</p>
+<p><strong>Dein Vorteil als Partner:</strong> 50 % Provision bei 89 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/738064?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59973/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/738064
 - Canonical redirect: https://www.digistore24.com/redir/738064/adminstore
 
@@ -78,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Einkommenssystem 2026 – 89 €, 50 % Provision? — Typ: Downloads, Anbieter: influexai, gelistet seit 2026-09-27
-- Wie viel kostet es? — 83.80967400000002 USD
+- Wie viel kostet es? — 83.62269900000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

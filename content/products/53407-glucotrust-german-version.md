@@ -4,34 +4,34 @@ digistore24_product_id: 600906
 title: "GlucoTrust German Version"
 vendor: "DS24-J2021"
 product_type: "Supplements - health"
-price: 202.53
+price: 202.07
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 133.52
+earnings_per_sale: 133.22
 cart_conversion_pct: 12
 cancel_rate_pct: 9.47
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-03-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://myvitalletter.com/tsl-ds24-irl-0?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53407/adminstore/"
 sales_page: "https://myvitalletter.com/tsl-ds24-irl-0"
 language: "de"
 ---
 # GlucoTrust German Version
 
 > Product ID `53407` · Digistore24 productId `600906` · [HTML profile page](../../produkte/glucotrust-german-version-53407.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $202.53 (Single payment) |
+| Price | $202.07 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $133.52 |
+| Earnings/sale* | $133.22 |
 | Cart conversion* | 12% |
 | Cancel rate* | 9.47% |
 | Vendor | DS24-J2021 |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Killer Blood Sugar Supplement now also available in German speaking Europe
+**Vendor's marketplace description:** <p><strong>Killer Blood Sugar Supplement now also available in German speaking Europe</strong></p>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://myvitalletter.com/tsl-ds24-irl-0?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53407/adminstore/
 - Sales page: https://myvitalletter.com/tsl-ds24-irl-0
 - Vendor affiliate support: https://myvitalletter.com/affiliates-ds24-irl
 - Canonical redirect: https://www.digistore24.com/redir/600906/adminstore
@@ -99,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist GlucoTrust German Version? — Typ: Supplements - health, Anbieter: DS24-J2021, gelistet seit 2025-03-10
-- Wie viel kostet es? — 202.526038 USD
+- Wie viel kostet es? — 202.07421300000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

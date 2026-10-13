@@ -4,16 +4,16 @@ digistore24_product_id: 723430
 title: "Websites & SEO für KMU weltweit: 30 % Provision"
 vendor: "astraios"
 product_type: "Remote service provided electronically"
-price: 1221.45
+price: 1218.73
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 366.44
+earnings_per_sale: 365.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://grodt.ch/ds24/?aff=adminstore#aff=adminstore"
 sales_page: "https://grodt.ch/ds24/"
@@ -22,16 +22,16 @@ language: "de"
 # Websites & SEO für KMU weltweit: 30 % Provision
 
 > Product ID `58550` · Digistore24 productId `723430` · [HTML profile page](../../produkte/websites-seo-f-r-kmu-weltweit-30-provision-58550.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $1221.45 (Single payment) |
+| Price | $1218.73 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $366.44 |
+| Earnings/sale* | $365.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | astraios |
@@ -41,7 +41,49 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für Affiliates mit Zugang zu Unternehmern: Hier verdienst du zweimal am selben Kunden. Grodt WebSolutions (by Astraios AG, Schweiz) baut Websites für kleine und mittlere Unternehmen zum Fixpreis und betreut sie danach monatlich weiter. Hinter dem Angebot steht eine Schweizer Aktiengesellschaft, eingetragen im Handelsregister. Beraten und umgesetzt wird auf Deutsch, Englisch, Spanisch und Portugies…
+**Vendor's marketplace description:** <p><strong>Für Affiliates mit Zugang zu Unternehmern: Hier verdienst du zweimal am selben Kunden.</strong></p>
+<p>Grodt WebSolutions (by Astraios AG, Schweiz) baut Websites für kleine und mittlere Unternehmen zum Fixpreis und betreut sie danach monatlich weiter. Hinter dem Angebot steht eine Schweizer Aktiengesellschaft, eingetragen im Handelsregister. Beraten und umgesetzt wird auf Deutsch, Englisch, Spanisch und Portugiesisch, dein Publikum muss also nicht deutschsprachig sein.</p>
+<p>Für dich heisst das: eine Einmalprovision auf das Website-Paket und eine laufende Provision auf Betreuung und SEO, solange der Kunde bleibt.</p>
+<p><strong>Was du verdienst (30 % auf alles)</strong></p>
+<p>Einmalig:</p>
+<ul>
+<li>WP ONE, CHF 995 → rund CHF 300</li>
+<li>WP THREE, CHF 1'495 → rund CHF 450 (Bestseller)</li>
+<li>WP TEN, CHF 1'995 → rund CHF 600</li>
+</ul>
+<p>Monatlich wiederkehrend, ohne Enddatum:</p>
+<ul>
+<li>Care S bis L, CHF 29 bis 119/Mt. → rund CHF 9 bis 36 pro Monat</li>
+<li>SEO S bis L, CHF 290 bis 990/Mt. → rund CHF 87 bis 297 pro Monat</li>
+</ul>
+<p>Ein einziger Kunde mit WP THREE und SEO M bringt dir im ersten Jahr rund CHF 2'570. Ab Monat 13 läuft die Provision weiter, ohne dass du etwas dafür tust.</p>
+<p><strong>Warum das verkauft</strong></p>
+<p>Kleine Unternehmen haben Budget, aber wenig Vertrauen in Agenturen: undurchsichtige Offerten, Stundensätze, Projekte über Monate. Genau da setzt das Angebot an.</p>
+<ul>
+<li><strong>Schweizer Aktiengesellschaft</strong>, im Handelsregister eingetragen. Kein anonymes Konto, sondern ein greifbares Unternehmen mit Sitz in der Schweiz.</li>
+<li>Die Umsetzung macht ein Schweizer persönlich, der Auftrag wird nicht weitergereicht.</li>
+<li>Fixpreis statt Offerte. Der Kunde weiss vor dem Klick, was er zahlt.</li>
+<li>Lieferung in 5 bis 15 Werktagen, nicht in Monaten.</li>
+<li>Ein persönlicher Ansprechpartner statt Ticketsystem.</li>
+<li>Beratung auf <strong>Deutsch, Englisch, Spanisch und Portugiesisch</strong>, Zusammenarbeit komplett online.</li>
+<li>Abos ohne Mindestlaufzeit und monatlich kündbar. Das senkt die Kaufhürde spürbar und hebt deine Conversion.</li>
+</ul>
+<p><strong>Für wen sich das lohnt</strong></p>
+<ul>
+<li>Webdesigner und Freelancer, die Anfragen ablehnen müssen oder keine laufende Betreuung anbieten wollen</li>
+<li>Berater, Steuerberater, Treuhänder und Marketing-Leute mit KMU-Kundschaft</li>
+<li>Betreiber von Portalen, Newslettern und Communities rund um Gründung, Selbstständigkeit und Gewerbe</li>
+<li>Netzwerker mit Kontakten zu Handwerk, Praxen, Gastronomie, Coaching und lokalen Dienstleistern</li>
+<li>Auswanderer- und Expat-Communities sowie alle mit Publikum in Spanien, Lateinamerika, Portugal oder Brasilien. Vier Sprachen heissen für dich: mehr Menschen, denen du das empfehlen kannst.</li>
+</ul>
+<p>Eine einzige Empfehlung an den richtigen Betrieb bringt mehr als hundert Klicks auf ein Billigprodukt.</p>
+<p><strong>Was du von mir bekommst</strong></p>
+<ul>
+<li><strong>Werbemittel nach Mass:</strong> Sag mir, was du für deinen Kanal brauchst. Banner in deinen Grössen, E-Mail-Texte, Social-Posts oder Bausteine für deine Landingpage. Ich erstelle es und stelle es dir bereit, statt dir ein Standardpaket hinzulegen, das zu deinem Publikum nicht passt.</li>
+<li>Direkter Draht zu mir statt Hotline</li>
+<li>Zuverlässige Abrechnung über Digistore24, weltweit</li>
+</ul>
+<p>Jetzt als Affiliate bewerben und den ersten Kunden empfehlen.</p>
 
 ## 2. Links
 
@@ -92,7 +134,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Websites & SEO für KMU weltweit: 30 % Provision? — Typ: Remote service provided electronically, Anbieter: astraios, gelistet seit 2026-08-24
-- Wie viel kostet es? — 1221.454 USD
+- Wie viel kostet es? — 1218.729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

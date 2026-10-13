@@ -4,16 +4,16 @@ digistore24_product_id: 239771
 title: "Hashimotokongress Wissenspaket 50% Provision"
 vendor: "autoimmunportal"
 product_type: "Member area and video courses"
-price: 60.6
+price: 60.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.48
+earnings_per_sale: 23.42
 cart_conversion_pct: 25
 cancel_rate_pct: 3.29
 categories: ["Health & Fitness"]
 listed_since: "2018-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://akademie.medumio.de/hashimotokongress/premium-zugang/?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.medumio.de/hashimotokongress/premium-zugang/"
@@ -22,16 +22,16 @@ language: "de"
 # Hashimotokongress Wissenspaket 50% Provision
 
 > Product ID `28276` · Digistore24 productId `239771` · [HTML profile page](../../produkte/hashimotokongress-wissenspaket-50-provision-28276.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $60.60 (Single payment, Installment) |
+| Price | $60.47 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.48 |
+| Earnings/sale* | $23.42 |
 | Cart conversion* | 25% |
 | Cancel rate* | 3.29% |
 | Vendor | autoimmunportal |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DU BIST NEUGIERIG, WAS DICH ERWARTET, WENN DU DICH KOSTENLOS ZUM HASHIMOTO KONGRESS ANMELDEST? ✓ Entdecke das allerneueste Wissen über die Entstehung, Ursachen und Zusammenhänge von Hashimoto. Mit diesem Wissen wirst du ein besseres Verständnis für Dich und Deinen Körper haben. ✓ Du wirst lernen wie Dein tägliches Verhalten Hashimoto bedingt und wie Du negative Verhaltensweisen verändern kannst un…
+**Vendor's marketplace description:** <h2><strong>DU BIST NEUGIERIG, WAS DICH ERWARTET, WENN DU DICH KOSTENLOS ZUM HASHIMOTO KONGRESS ANMELDEST?</strong></h2>
+<h4><strong>✓</strong> Entdecke das allerneueste Wissen über die <strong>Entstehung</strong>, <strong>Ursachen</strong> und <strong>Zusammenhänge</strong> von <strong>Hashimoto</strong>. Mit diesem Wissen wirst du ein besseres Verständnis für Dich und Deinen Körper haben.</h4>
+<h4><strong>✓</strong> Du wirst lernen wie Dein <strong>tägliches</strong> <strong>Verhalten</strong> <strong>Hashimoto</strong> bedingt und wie Du <strong>negative</strong> <strong>Verhaltensweisen</strong> verändern kannst und Deine Lebensqualität dadurch verbesserst.<br /><br /><strong>✓</strong> Lerne verschiedene <strong>Ernährungsprotokolle</strong> kennen, die <strong>zahlreichen Betroffenen</strong> <strong>geholfen</strong> haben und verstehe die <strong>Wirkprinzipien</strong>.<br /><br /><strong>✓</strong> Spätestens nachdem der<strong> Medizin-Nobelpreis</strong> für eine Studie über den <strong>Tag-Nacht-Rhythmus</strong> verliehen wurde, weiß die Welt, dass eine gestörte <strong>innerere Uhr</strong> massiv den <strong>Hormonhaushalt</strong> beeinflusst und somit eine <strong>Ursache</strong> für <strong>Hashimoto</strong> ist. Wir erklären welche <strong>Faktoren</strong> Dich <strong>beeinflussen</strong> und wie du wieder ins Gleichgewicht kommst.<br /><br /><strong>✓</strong> Entdecke die <strong>vielversprechendsten</strong> <strong>Behandlungsmethoden</strong> aus der <strong>Wissenschaft</strong>, wie z.B. <strong>funktionelle Medizin</strong>, <strong>mitochondriale</strong><strong>Medizin</strong> oder <strong>TCM</strong>.<br /><br /><strong>✓</strong> Du wirst verstehen was mit deinem Körper in Zeiten der <strong>Hormonumstellung</strong> passiert. Stichworte: <strong>Wechseljahre</strong>, <strong>Schwangerschaft</strong>, <strong>Stillzeit</strong>.</h4>
 
 ## 2. Links
 
@@ -100,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hashimotokongress Wissenspaket 50% Provision? — Typ: Member area and video courses, Anbieter: autoimmunportal, gelistet seit 2018-09-13
-- Wie viel kostet es? — 60.602048 USD
+- Wie viel kostet es? — 60.466848000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

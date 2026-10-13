@@ -4,34 +4,34 @@ digistore24_product_id: 288552
 title: "COACHY - Dein Mitgliederbereich mit Landingpage Builder!"
 vendor: "Coachy"
 product_type: "Member area and video courses"
-price: 1179.9
+price: 1177.27
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 80.53
+earnings_per_sale: 80.35
 cart_conversion_pct: 24
 cancel_rate_pct: 1.6
 categories: ["Computer & Internet","Software"]
 listed_since: "2019-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://www.coachy.net?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/17119/adminstore/"
 sales_page: "http://www.coachy.net"
 language: "de"
 ---
 # COACHY - Dein Mitgliederbereich mit Landingpage Builder!
 
 > Product ID `17119` · Digistore24 productId `288552` · [HTML profile page](../../produkte/coachy-dein-mitgliederbereich-mit-landingpage-builder-17119.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1179.90 (Subscription) |
+| Price | $1177.27 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $80.53 |
+| Earnings/sale* | $80.35 |
 | Cart conversion* | 24% |
 | Cancel rate* | 1.6% |
 | Vendor | Coachy |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Es war noch nie so einfach! Mit COACHY erstellst du einen eigenen Mitgliederbereich für deine digitalen Produkte. Die Erstellung und Bedienung ist extrem einfach und daher 10x schneller als mit Wordpress und anderen Lösungen! ▶️ Es arbeiten bereits über 10.000 Coaches mit uns!▶️ über 400 positive Bewertungen!▶️ Bei COACHY sind Influencer und bekannte Persönlichkeiten wie zum BeispielCalvin Hollywo…
+**Vendor's marketplace description:** <h3><span style="color:#5c4cc4;">Es war noch nie so einfach!</span></h3>
+<p>Mit COACHY erstellst du einen eigenen Mitgliederbereich für deine digitalen Produkte. Die Erstellung und Bedienung ist extrem einfach und daher 10x schneller als mit Wordpress und anderen Lösungen!</p>
+<p>▶️ Es arbeiten bereits <strong>über 10.000 Coaches</strong> mit uns!<br />▶️ über <strong>400 positive Bewertungen!</strong><strong><br />▶️ </strong>Bei COACHY sind Influencer und bekannte Persönlichkeiten wie zum Beispiel<br /><strong>Calvin Hollywood, Andrea Ballschuh</strong> und <strong>Mike Fischer</strong>!</p>
+<p> </p>
+<h3><span style="color:#5c4cc4;">Deine Lifetime-Provisionen</span></h3>
+<p>Für jeden verkauften Zugang erhälst du eine <strong>Lifetime-Provision in Höhe von 25%!</strong></p>
+<h4> </h4>
+<p><a style="text-decoration:none;" href="https://www.coachy.net/de/partnerprogramm/" target="_blank" rel="noreferrer noopener"><span class="button" style="background-color:#ffda00;color:#5c4cc4;padding:10px 20px;text-transform:uppercase;font-size:16px;">Zum Partnerprogramm</span></a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.coachy.net?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/17119/adminstore/
 - Sales page: http://www.coachy.net
 - Vendor affiliate support: https://www.coachy.net/de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/288552/adminstore
@@ -90,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist COACHY - Dein Mitgliederbereich mit Landingpage Builder!? — Typ: Member area and video courses, Anbieter: Coachy, gelistet seit 2019-09-29
-- Wie viel kostet es? — 1179.9021520000001 USD
+- Wie viel kostet es? — 1177.2698520000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

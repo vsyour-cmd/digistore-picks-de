@@ -4,34 +4,34 @@ digistore24_product_id: 662995
 title: "Vorsorgekompass - Duales Vorsorgesystem mit Notfallkarte"
 vendor: "Erinnerungsbotschafter"
 product_type: "Member area and video courses"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 14.69
+earnings_per_sale: 14.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-01-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://erinnerungswerk.com/index.php?page_id=3581&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55457/adminstore/"
 sales_page: "https://erinnerungswerk.com/index.php?page_id=3581"
 language: "de"
 ---
 # Vorsorgekompass - Duales Vorsorgesystem mit Notfallkarte
 
 > Product ID `55457` · Digistore24 productId `662995` · [HTML profile page](../../produkte/vorsorgekompass-duales-vorsorgesystem-mit-notfallkarte-55457.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $14.69 |
+| Earnings/sale* | $14.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Erinnerungsbotschafter |
@@ -41,11 +41,38 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate-Information – Vorsorgekompass Der Vorsorgekompass ist ein digitales, duales Vorsorgesystem für Menschen, die ihre persönliche Notfall- und Vorsorgeplanung strukturiert vorbereiten möchten. Das System besteht aus zwei zentralen Bereichen: 1. Digitale Notfallkarte mit QR-Code und Premium-Wallpaper Im geschützten Dashboard können Nutzer wichtige Notfalldaten hinterlegen, zum Beispiel Notfal…
+**Vendor's marketplace description:** <p><strong>Affiliate-Information – Vorsorgekompass</strong></p>
+<p>Der Vorsorgekompass ist ein digitales, duales Vorsorgesystem für Menschen, die ihre persönliche Notfall- und Vorsorgeplanung strukturiert vorbereiten möchten.</p>
+<p>Das System besteht aus zwei zentralen Bereichen:</p>
+<p><strong>1. Digitale Notfallkarte mit QR-Code und Premium-Wallpaper</strong></p>
+<p>Im geschützten Dashboard können Nutzer wichtige Notfalldaten hinterlegen, zum Beispiel Notfallkontakte, medizinische Hinweise, Medikamente, Allergien, Hausarztinformationen sowie Hinweise zu vorhandenen Vollmachten und Vorsorgedokumenten.</p>
+<p>Zusätzlich wird automatisch ein individuelles Premium-Wallpaper für den Smartphone-Sperrbildschirm erstellt. Dieses kann auf dem Handy installiert werden, sodass Helfer, Rettungsdienste oder Ärzte im Ernstfall schnell erkennen können, dass und welche wichtigen Notfalldaten vorhanden sind.</p>
+<p>Über QR-Code oder Notfall-URL können die vom Nutzer freigegebenen Informationen aufgerufen werden. Der Nutzer entscheidet selbst, welche Inhalte sichtbar sein sollen. So kann im Notfall schneller geholfen werden und die Chance steigt, dass im Sinne des Betroffenen gehandelt wird.</p>
+<p><strong>2. KI-gestützte Vorsorge-Wizards</strong></p>
+<p>Im Mitgliederbereich führen strukturierte Wizards Schritt für Schritt durch wichtige Vorsorgethemen wie Patientenverfügung, Vorsorgevollmacht, Innenverhältnis, Organspendeausweis, digitaler Nachlass, Testament/Erbrecht, Vermögen &amp; Finanzen und persönlicher Vorsorgeordner.</p>
+<p>Die integrierte KI-Unterstützung hilft beim Verstehen, Strukturieren und Ausfüllen der Angaben. Dadurch wird ein schwieriges Thema deutlich einfacher und greifbarer.</p>
+<p><strong>Warum das Produkt für Affiliates interessant ist:</strong></p>
+<p>Vorsorge ist ein großes, emotionales und oft verdrängtes Thema. Viele Menschen wissen, dass sie Patientenverfügung, Vorsorgevollmacht, Notfallkontakte und wichtige Dokumente regeln sollten – schieben es aber immer wieder auf.</p>
+<p>Der Vorsorgekompass macht dieses Thema digital, verständlich und alltagstauglich.</p>
+<p><strong>Besonders starke Verkaufsargumente sind:</strong></p>
+<ul>
+<li>digitale Notfallkarte mit QR-Code</li>
+<li>individuelles Premium-Wallpaper für den Sperrbildschirm</li>
+<li>geschütztes Dashboard</li>
+<li>KI-gestützte Vorsorge-Wizards</li>
+<li>strukturierte Vorbereitung wichtiger Vorsorgedokumente</li>
+<li>automatisches Generieren der Vorsorgedokumente</li>
+<li>klare Hilfe für Angehörige im Ernstfall</li>
+<li>geeignet für Familien, Senioren, Arbeitnehmer, Selbstständige, Unternehmen, Pflege, Gesundheit und Alltagshilfe</li>
+</ul>
+<p><strong>Wichtiger Hinweis</strong></p>
+<p>Der Vorsorgekompass ist eine digitale Orientierungs- und Strukturierungshilfe. Er ersetzt keine Rechtsberatung, keine notarielle Beratung, keine medizinische Beratung und keine Beratung durch Anwalt, Arzt, Notar oder Gericht. Bei komplexen rechtlichen oder medizinischen Fragen sollten Nutzer zusätzlich fachlichen Rat einholen.</p>
+<p>Affiliate-Partnerschaften werden manuell geprüft. Nicht erlaubt sind rechtliche Erfolgsversprechen, irreführende Aussagen, übertriebene Angstwerbung oder Aussagen wie „ersetzt den Notar“ oder „100 % rechtssicher ohne Anwalt“.</p>
+<p><strong>Kurz gesagt:</strong><br />Der Vorsorgekompass ist ein modernes digitales Vorsorgesystem mit Notfallkarte, QR-Zugang, Premium-Wallpaper und KI-gestützten Wizards – für Menschen, die Verantwortung übernehmen möchten, bevor der Ernstfall eintritt.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://erinnerungswerk.com/index.php?page_id=3581&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55457/adminstore/
 - Sales page: https://erinnerungswerk.com/index.php?page_id=3581
 - Canonical redirect: https://www.digistore24.com/redir/662995/adminstore
 
@@ -80,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vorsorgekompass - Duales Vorsorgesystem mit Notfallkarte? — Typ: Member area and video courses, Anbieter: Erinnerungsbotschafter, gelistet seit 2026-01-21
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

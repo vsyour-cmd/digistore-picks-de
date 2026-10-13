@@ -4,34 +4,34 @@ digistore24_product_id: 436041
 title: "Die Grundlagen der Ketogenen Diät"
 vendor: "Spekulatius"
 product_type: "E-books"
-price: 26.18
+price: 26.12
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 20.94
+earnings_per_sale: 20.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2022-03-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39569/adminstore/"
 sales_page: "https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To"
 language: "de"
 ---
 # Die Grundlagen der Ketogenen Diät
 
 > Product ID `39569` · Digistore24 productId `436041` · [HTML profile page](../../produkte/die-grundlagen-der-ketogenen-di-t-39569.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.18 (Single payment) |
+| Price | $26.12 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $20.94 |
+| Earnings/sale* | $20.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spekulatius |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verkaufe unseren Abnehm E-Book Highlight "Keto Kickstarter/Grundlagen" ✅ Was ist die ketogene Diät? ✅ Vorteile einer ketogenen Diät ✅ Wer sollte keine ketogene Diät machen? ✅ Die Ketogene Ernährung ✅ Exkurs: intermittierendes Fasten ✅ Nebenwirkungen der ketogenen Diät ✅ Anzeichen für Ketose ✅ Deine persönliche ketogene Diät ✅ 5BS? ist natürlich erlaubt Du bekommst 80% der Netto Provisonen …
+**Vendor's marketplace description:** <p><strong>Verkaufe unseren Abnehm E-Book Highlight <span style="background-color:#ffff00;">"Keto Kickstarter/Grundlagen"</span> </strong></p>
+<p>✅ Was ist die ketogene Diät?</p>
+<div>
+<p>✅ Vorteile einer ketogenen Diät</p>
+<p>✅ Wer sollte keine ketogene Diät machen?</p>
+<p>✅ Die Ketogene Ernährung</p>
+<p>✅ Exkurs: intermittierendes Fasten</p>
+<p>✅ Nebenwirkungen der ketogenen Diät</p>
+<p>✅ Anzeichen für Ketose</p>
+<p>✅ Deine persönliche ketogene Diät</p>
+<p>✅ 5BS? ist natürlich erlaubt</p>
+</div>
+<p><span style="background-color:#ffff00;"><strong>Du bekommst 80% der Netto Provisonen für das hochwertige E-Book (ca. 2,50 Euro)</strong></span></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39569/adminstore/
 - Sales page: https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To
 - Canonical redirect: https://www.digistore24.com/redir/436041/adminstore
 
@@ -66,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Grundlagen der Ketogenen Diät? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2022-03-26
-- Wie viel kostet es? — 26.177216 USD
+- Wie viel kostet es? — 26.118816000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

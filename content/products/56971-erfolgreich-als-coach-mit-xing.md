@@ -4,34 +4,34 @@ digistore24_product_id: 701391
 title: "Erfolgreich als Coach mit XING"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.18
+earnings_per_sale: 15.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-xing?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56971/adminstore/"
 sales_page: "https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-xing"
 language: "de"
 ---
 # Erfolgreich als Coach mit XING
 
 > Product ID `56971` · Digistore24 productId `701391` · [HTML profile page](../../produkte/erfolgreich-als-coach-mit-xing-56971.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.18 |
+| Earnings/sale* | $15.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie du im DACH-Business-Netzwerk Vertrauen aufbaust und planbar Kunden gewinnst Als Coach lebt dein Business von Vertrauen – und XING ist die Plattform, auf der dieses Vertrauen im deutschsprachigen Geschäftsumfeld täglich wächst. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Content und Profilpräsenz machst, die nicht nur Aufmerksamkeit, sondern planbar Anfragen aus der DACH-Region bringe…
+**Vendor's marketplace description:** <p><strong>Wie du im DACH-Business-Netzwerk Vertrauen aufbaust und planbar Kunden gewinnst</strong></p>
+<p>Als Coach lebt dein Business von Vertrauen – und XING ist die Plattform, auf der dieses Vertrauen im deutschsprachigen Geschäftsumfeld täglich wächst. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Content und Profilpräsenz machst, die nicht nur Aufmerksamkeit, sondern planbar Anfragen aus der DACH-Region bringen. Du lernst, wie du dein Profil als digitale Visitenkarte positionierst, über Beiträge und Artikel Expertise zeigst ohne alles zu verschenken, wie XING-Gruppen als Reichweiten-Motor für Coaches funktionieren und wie du Events und Webinare über XING füllst. Statt auf Zufallskontakte zu hoffen, hast du nach diesem E-Book ein System, das dich als Autorität deiner Nische im DACH-Raum positioniert und deinen Kalender mit Erstgesprächen füllt.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Profil als Verkaufsseite gestalten – so liest dein Wunschkunde ihn</li>
+<li>Content-Strategie für XING: Beiträge und Artikel, die Vertrauen erzeugen</li>
+<li>Gruppen gezielt nutzen: Sichtbarkeit in deiner Zielgruppen-Community</li>
+<li>Events und Webinare über XING ankündigen und füllen</li>
+<li>Direktnachrichten als Conversion-Kanal professionell einsetzen</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-xing?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56971/adminstore/
 - Sales page: https://social-media-planer.de/ebooks/erfolgreich-als-coach-mit-xing
 - Vendor affiliate support: https://social-media-planer.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/701391/adminstore
@@ -97,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erfolgreich als Coach mit XING? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,17 +12,17 @@ cart_conversion_pct: 18
 cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-01-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://affiliforge.net/Social-Media-KI-Toolkit?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50943/adminstore/"
 sales_page: "https://affiliforge.net/Social-Media-KI-Toolkit"
 language: "de"
 ---
 # Social-Media KI Toolkit
 
 > Product ID `50943` · Digistore24 productId `590279` · [HTML profile page](../../produkte/social-media-ki-toolkit-50943.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Social-Media KI Toolkit" - 60 KI-Prompts zum schnellen Aufbau einer Community in den 6 größten Social-Media-Kanälen (Instagram, Facebook, TikTok, YouTube, X ehem. Twitter, Pinterest)Guide zum Aufbau einer mega Followerschaft mit Hilfe von KI Tools und 60 Prompts, die ein einfaches Planen, Erstellen und Optimieren des Contents und des Online-Auftritts. + Bonus: 10 aktuelle KI-Tools die zum Aufbau …
+**Vendor's marketplace description:** <p style="text-align:center;"><strong>"Social-Media KI Toolkit" - 60 KI-Prompts zum schnellen Aufbau einer Community in den 6 größten Social-Media-Kanälen </strong>(Instagram, Facebook, TikTok, YouTube, X ehem. Twitter, Pinterest)<strong><br /><br /></strong>Guide zum Aufbau einer mega Followerschaft mit Hilfe von KI Tools und 60 Prompts, die ein einfaches Planen, Erstellen und Optimieren des Contents und des Online-Auftritts. + Bonus: 10 aktuelle KI-Tools die zum Aufbau und Optimieren des Contents beitragen.<br /><br /><br />Prima Gelegenheit, um seine Provisionen aufzupeppen!</p>
+<ul>
+<li>Dieser Guide funktioniert für Affiliate Anfänger und Fortgeschrittene.</li>
+<li>Perfektes Produkt für "jeden", der mit seinem online Business / Social-Media-Marketing starten will, weiterkommen will und nach wertvollen Tipps sucht.</li>
+<li>Du hast mit diesem Guide einen Top-Ratgeber für deine Community und wirst am kompletten Sales-Funnel beteiligt!</li>
+</ul>
+<p>Hohe Conversion, da es aktuelle Themen behandelt.<br /><br /><strong>50% Provision! <br />Der Preis beträgt 14,70€ Upsell ein 97€ Kurs mit weiteren 50% Provision.</strong><br />Weiters Beteiligt an Add-On, Up- und Downsell.<br />+ 15% Lifetime Provision<br />Über 89€ im Funnel für dich möglich!<br /><br />Der Funnel wird ständig angepasst und erweitert.<br /><br />Viel Erfolg und fette Beute!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://affiliforge.net/Social-Media-KI-Toolkit?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50943/adminstore/
 - Sales page: https://affiliforge.net/Social-Media-KI-Toolkit
 - Vendor affiliate support: https://affiliforge.net/AffiliForge-Partnerportal
 - Canonical redirect: https://www.digistore24.com/redir/590279/adminstore
@@ -76,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social-Media KI Toolkit? — Typ: Member area and video courses, Anbieter: AffiliForge, gelistet seit 2025-01-13
-- Wie viel kostet es? — 2.454114 USD
+- Wie viel kostet es? — 2.448639 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

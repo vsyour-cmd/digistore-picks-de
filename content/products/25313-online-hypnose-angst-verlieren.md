@@ -4,34 +4,34 @@ digistore24_product_id: 211713
 title: "Online Hypnose Angst verlieren"
 vendor: "manjushri"
 product_type: "Downloads"
-price: 42.38
+price: 42.29
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 25.43
+earnings_per_sale: 25.37
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-03-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://online-hypnose.eu/kurs-hypnose-angst-panikattacke-panik/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/25313/adminstore/"
 sales_page: "https://online-hypnose.eu/kurs-hypnose-angst-panikattacke-panik/"
 language: "de"
 ---
 # Online Hypnose Angst verlieren
 
 > Product ID `25313` · Digistore24 productId `211713` · [HTML profile page](../../produkte/online-hypnose-angst-verlieren-25313.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $42.38 (Single payment) |
+| Price | $42.29 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $25.43 |
+| Earnings/sale* | $25.37 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manjushri |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hypnose Kurs: "Von Angst und Panikattacken befreit" 1,5 Stunden On-demand Videos für: Mehr Entspannung Stärkeres Gefühl von Sicherheit Positive Gedanken Bessere Selbstkontrolle Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.
+**Vendor's marketplace description:** <h2><big>Hypnose Kurs: "Von Angst und Panikattacken befreit"</big></h2>
+<h4>1,5 Stunden On-demand Videos für:</h4>
+<ul><li>Mehr Entspannung</li>
+<li>Stärkeres Gefühl von Sicherheit</li>
+<li>Positive Gedanken</li>
+<li>Bessere Selbstkontrolle</li>
+</ul><p><strong>Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://online-hypnose.eu/kurs-hypnose-angst-panikattacke-panik/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/25313/adminstore/
 - Sales page: https://online-hypnose.eu/kurs-hypnose-angst-panikattacke-panik/
 - Canonical redirect: https://www.digistore24.com/redir/211713/adminstore
 
@@ -82,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Hypnose Angst verlieren? — Typ: Downloads, Anbieter: manjushri, gelistet seit 2018-03-30
-- Wie viel kostet es? — 42.381092 USD
+- Wie viel kostet es? — 42.286542000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

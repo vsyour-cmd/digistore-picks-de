@@ -4,34 +4,34 @@ digistore24_product_id: 679113
 title: "EU AI-Act Compliance Kit für KMU (Praxiserprobt)"
 vendor: "maila7bf"
 product_type: "Downloads"
-price: 1403.1
+price: 1399.97
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 420.93
+earnings_per_sale: 419.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-07-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/679113?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57479/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/679113"
 language: "de"
 ---
 # EU AI-Act Compliance Kit für KMU (Praxiserprobt)
 
 > Product ID `57479` · Digistore24 productId `679113` · [HTML profile page](../../produkte/eu-ai-act-compliance-kit-f-r-kmu-praxiserprobt-57479.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $1403.10 (Single payment) |
+| Price | $1399.97 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $420.93 |
+| Earnings/sale* | $419.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | maila7bf |
@@ -41,11 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Achtung Kollegen aus dem Datenschutz, IT-Consulting und Systemhaus-Umfeld! Im August 2026 greift die erste harte Stufe des EU AI Acts. Ihre Mandanten und Bestandskunden führen im Hintergrund rasant generative KI (ChatGPT, APIs, Make-Automationen) ein – stehen regulatorisch und dokumentarisch aber komplett nackt da. Das Risiko von Haftung und Datenlecks wächst täglich. Die Kunden rennen Ihnen jetzt…
+**Vendor's marketplace description:** <p>Achtung Kollegen aus dem Datenschutz, IT-Consulting und Systemhaus-Umfeld! <br />Im August 2026 greift die erste harte Stufe des EU AI Acts. Ihre Mandanten und Bestandskunden führen im Hintergrund rasant generative KI (ChatGPT, APIs, Make-Automationen) ein – stehen regulatorisch und dokumentarisch aber komplett nackt da.</p>
+<p>Das Risiko von Haftung und Datenlecks wächst täglich. Die Kunden rennen Ihnen jetzt die Bude ein.</p>
+<p>Aber haben Sie die Zeit und die Vorlagen, um für jedes KMU individuelle Risikoanalysen und ISO-42001-Register von Null aufzubauen?</p>
+<p>Die Lösung:</p>
+<p>Das Binarsolve KI-Compliance Kit (v2.1)</p>
+<p>Bieten Sie Ihren Kunden ein schlüsselfertiges, sofort einsatzbereites Framework auf absolutem Enterprise-Niveau, entwickelt von einem KRITIS- und Banking-IT-Auditor (Oliver Krüll: CISSP, ITIL-Expert, DSB-TÜV).</p>
+<p>Was im Kit enthalten ist (alles Copy-Paste-ready für KMU bis 100MA):</p>
+<p>1. KI-Nutzungsrichtlinie (Word): Inkl. § 87 BetrVG (Betriebsrat) und glasklaren Mitarbeiter-Regeln.</p>
+<p>2. KI-Inventar &amp; Register (Excel): Mit automatisierter Risiko-Klassifizierungs-Logik nach EU AI Act.</p>
+<p>3. KI-Lieferanten-Prüfbogen (Excel): 44 tiefe Due-Diligence-Fragen für den IT-Einkauf.</p>
+<p>4. KI-Vorfalls-Log (Excel): Lückenlose Dokumentation von Incident-Meldepflichten.</p>
+<p>5. KI-Vorfalls-Log &amp; Incident Register (Excel): Lückenlose Dokumentation von gesetzlichen Meldepflichten.</p>
+<p>Warum sich die Partnerschaft für Sie massiv lohnt:</p>
+<p>* 30 % feste Partner-Provision: Bei unserem stabilen B2B-Verkaufspreis für die Enterprise Edition verdienen Sie ein hochattraktives, faires Nebeneinkommen pro einfacher Empfehlung.</p>
+<p>* Null Haftung für Sie: Sie empfehlen ein validiertes Premium-Produkt. Das Haftungsrisiko der korrekten Umsetzung liegt beim Endkunden.</p>
+<p> </p>
+<p>So einfach geht's:</p>
+<p>Schalten Sie sich jetzt mit einem Klick als Affiliate frei. Nutzen Sie unsere fertigen Mail-Vorlagen auf der Affiliate-Support-Seite und senden Sie diese an Ihre Mandanten. Sie lösen deren dringlichstes Problem im Jahr 2026 und verdienen hochprofitabel mit.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/679113?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57479/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/679113
 - Vendor affiliate support: https://binarsolve.com/partner-binarsolve/
 - Canonical redirect: https://www.digistore24.com/redir/679113/adminstore
@@ -80,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EU AI-Act Compliance Kit für KMU (Praxiserprobt)? — Typ: Downloads, Anbieter: maila7bf, gelistet seit 2026-07-10
-- Wie viel kostet es? — 1403.1032599999999 USD
+- Wie viel kostet es? — 1399.97301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

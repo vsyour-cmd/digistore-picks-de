@@ -12,8 +12,8 @@ cart_conversion_pct: 58
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-01-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/AI-Funnelbuilder/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/AI-Funnelbuilder/"
@@ -22,7 +22,7 @@ language: "de"
 # AI Funnels in 5 Minuten (Freebie)
 
 > Product ID `55234` · Digistore24 productId `661679` · [HTML profile page](../../produkte/ai-funnels-in-5-minuten-freebie-55234.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erstellen eines Verkaufsfunnels in 5 Minuten dank AI: ✅ Deine Community erhält einen Leitfaden, wie Sie ihren Verkaufsfunnel innerhalb von 5 Minuten erstellen können (statt 3 Tage). ✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 173 …
+**Vendor's marketplace description:** <div><em><strong>Erstellen eines Verkaufsfunnels in 5 Minuten dank AI:</strong></em></div>
+<div> </div>
+<div><em><strong>✅ </strong>Deine Community erhält einen Leitfaden, wie Sie ihren Verkaufsfunnel innerhalb von 5 Minuten erstellen können (statt 3 Tage).</em></div>
+<div> </div>
+<div><em><strong>✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet</strong></em></div>
+<div><br /><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></div>
+<div> </div>
+<div><em><strong>Du kannst durch Upsells und AddOn bis zu 173 Euro</strong></em></div>
 
 ## 2. Links
 
@@ -59,7 +66,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI Funnels in 5 Minuten (Freebie)? — Typ: E-books, Anbieter: Spekulatius, gelistet seit 2026-01-15
-- Wie viel kostet es? — 0.022412 USD
+- Wie viel kostet es? — 0.022362000000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

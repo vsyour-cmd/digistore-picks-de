@@ -4,34 +4,34 @@ digistore24_product_id: 257135
 title: "Instagram Online Coaching Kurs"
 vendor: "TanjaV"
 product_type: "Downloads"
-price: 28.58
+price: 28.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.99
+earnings_per_sale: 3.98
 cart_conversion_pct: 29
 cancel_rate_pct: 1.5
 categories: ["Social Media"]
 listed_since: "2019-01-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.ts-onlinemedia.de/instagram-coaching-onlinekurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/27783/adminstore/"
 sales_page: "https://www.ts-onlinemedia.de/instagram-coaching-onlinekurs/"
 language: "de"
 ---
 # Instagram Online Coaching Kurs
 
 > Product ID `27783` · Digistore24 productId `257135` · [HTML profile page](../../produkte/instagram-online-coaching-kurs-27783.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.58 (Single payment, Installment) |
+| Price | $28.51 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.99 |
+| Earnings/sale* | $3.98 |
 | Cart conversion* | 29% |
 | Cancel rate* | 1.5% |
 | Vendor | TanjaV |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du möchtest, dass deine Beiträge wieder gesehen werden? Du möchtest Likes und Kommentare erhalten? Deine Story soll mehr Aufrufe bekommen? Du möchtest mit deinem Account Geld verdienen ? Ich habe all meine Erfahrungen in diesen Online Kurs gepackt, damit dir Instagram wieder Spaß macht und du das ganze Potential ausschöpfen kannst, dass in Instagram steckt. Du wirst lernen wie du Instagram richtig…
+**Vendor's marketplace description:** <p>Du möchtest, dass deine Beiträge wieder gesehen werden?</p>
+<p>Du möchtest Likes und Kommentare erhalten?</p>
+<p>Deine Story soll mehr Aufrufe bekommen?</p>
+<p>Du möchtest mit deinem Account Geld verdienen ?</p>
+<p>Ich habe all meine Erfahrungen in diesen Online Kurs gepackt, damit dir Instagram wieder Spaß macht und du das ganze Potential ausschöpfen kannst, dass in Instagram steckt.</p>
+<p>Du wirst lernen wie du Instagram richtig für Dich und Dein Unternehmen einsetzen kannst:</p>
+<ul><li>Optimale Account Gestaltung</li>
+<li>Die richtige Zielgruppe ansprechen</li>
+<li>Die richtigen Follower</li>
+<li>Wie du Reichweite aufbaust</li>
+<li>Algorithmus Hacks</li>
+<li>Storys erstellen mit allen Funktionen</li>
+<li>Wie du mit deinem Account Geld verdienst</li>
+</ul><p>Dies und vieles mehr habe ich in den Online Kurs für Dich rein gepackt.</p>
+<p>Ich wünsche dir viel Spaß und Erfolg bei der Umsetzung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.ts-onlinemedia.de/instagram-coaching-onlinekurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/27783/adminstore/
 - Sales page: https://www.ts-onlinemedia.de/instagram-coaching-onlinekurs/
 - Vendor affiliate support: https://www.ts-onlinemedia.de/instagram-online-kurs-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/257135/adminstore
@@ -59,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Instagram Online Coaching Kurs? — Typ: Downloads, Anbieter: TanjaV, gelistet seit 2019-01-20
-- Wie viel kostet es? — 28.575300000000002 USD
+- Wie viel kostet es? — 28.511550000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

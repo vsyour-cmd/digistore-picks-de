@@ -4,34 +4,34 @@ digistore24_product_id: 742021
 title: "Mitarbeitergespräche klar führen – Praxis-Toolkit"
 vendor: "markplenert7400"
 product_type: "Downloads"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.37
+earnings_per_sale: 18.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Leadership & Management"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://fuehrung.markplenert.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60197/adminstore/"
 sales_page: "https://fuehrung.markplenert.de/"
 language: "de"
 ---
 # Mitarbeitergespräche klar führen – Praxis-Toolkit
 
 > Product ID `60197` · Digistore24 productId `742021` · [HTML profile page](../../produkte/mitarbeitergespr-che-klar-f-hren-praxis-toolkit-60197.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.37 |
+| Earnings/sale* | $18.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | markplenert7400 |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Praxisorientiertes Toolkit für Führungskräfte, Teamleiter und Inhaber kleiner Unternehmen. Das Mitarbeitergespräche Praxis-Toolkit unterstützt bei der Vorbereitung, Durchführung und Nachverfolgung von Mitarbeitergesprächen – besonders dann, wenn Themen klar und verbindlich angesprochen werden müssen. Enthalten sind unter anderem: 10-Minuten-Gesprächsvorbereitung universeller Gesprächsleitfaden übe…
+**Vendor's marketplace description:** <p><strong>Praxisorientiertes Toolkit für Führungskräfte, Teamleiter und Inhaber kleiner Unternehmen.</strong></p>
+<p>Das Mitarbeitergespräche Praxis-Toolkit unterstützt bei der Vorbereitung, Durchführung und Nachverfolgung von Mitarbeitergesprächen – besonders dann, wenn Themen klar und verbindlich angesprochen werden müssen.</p>
+<p>Enthalten sind unter anderem:</p>
+<ul>
+<li>10-Minuten-Gesprächsvorbereitung</li>
+<li>universeller Gesprächsleitfaden</li>
+<li>über 100 praxistaugliche Fragen</li>
+<li>umfangreiche Formulierungsbibliothek</li>
+<li>editierbare Vorlagen</li>
+<li>Gesprächsprotokoll</li>
+<li>Ziel- und Maßnahmenplan</li>
+<li>Excel Follow-up-Tracker</li>
+<li>sechs vollständige Praxisfälle mit Dialogbeispielen</li>
+</ul>
+<p><strong>Zielgruppe:</strong> Führungskräfte, Teamleiter, Schicht- und Bereichsleiter, Filialleiter sowie Inhaber kleiner und mittlerer Unternehmen.</p>
+<p><strong>Verkaufspreis:</strong> 39 € einmalig<br /><strong>Affiliate-Provision:</strong> 50 %</p>
+<p>Der Schwerpunkt liegt auf konkreter Gesprächsführung, Struktur, Formulierungen und organisatorischer Nachverfolgung. Das Produkt ist keine arbeitsrechtliche Beratung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fuehrung.markplenert.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60197/adminstore/
 - Sales page: https://fuehrung.markplenert.de/
 - Canonical redirect: https://www.digistore24.com/redir/742021/adminstore
 
@@ -69,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mitarbeitergespräche klar führen – Praxis-Toolkit? — Typ: Downloads, Anbieter: markplenert7400, gelistet seit 2026-10-05
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

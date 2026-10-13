@@ -4,16 +4,16 @@ digistore24_product_id: 652044
 title: "Innerer Reset - Tagesseminar"
 vendor: "hh-akademie"
 product_type: "Seminar for business customers"
-price: 164.29
+price: 163.92
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 17.26
+earnings_per_sale: 17.22
 cart_conversion_pct: 8
 cancel_rate_pct: 4.87
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2025-12-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/652044?voucher=IRMC&aff=adminstore"
 sales_page: "https://www.digistore24.com/product/652044?voucher=IRMC"
@@ -22,16 +22,16 @@ language: "de"
 # Innerer Reset - Tagesseminar
 
 > Product ID `56180` · Digistore24 productId `652044` · [HTML profile page](../../produkte/innerer-reset-tagesseminar-56180.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Seminar for business customers |
-| Price | $164.29 (Single payment) |
+| Price | $163.92 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $17.26 |
+| Earnings/sale* | $17.22 |
 | Cart conversion* | 8% |
 | Cancel rate* | 4.87% |
 | Vendor | hh-akademie |
@@ -41,7 +41,33 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Tagesseminar Innerer Reset – 10% Provision | 600.000€ Umsatzpotenzial für 2026 Marktplatz-Beschreibung Sichern Sie sich Ihren Anteil am Erfolg: Wir suchen exklusive Partner für ein 600.000 € Projekt! Die H|H Akademie wächst rasant. Für unser Kern-Event, das Wochenendseminar EnergieHypnose, haben wir für das restliche Jahr 2026 ein kalkuliertes Umsatzvolumen von insgesamt 600.000 € offen. Um dieses…
+**Vendor's marketplace description:** <p><strong>Tagesseminar Innerer Reset – 10% Provision | 600.000€ Umsatzpotenzial für 2026</strong></p>
+<h3>Marktplatz-Beschreibung</h3>
+<p><strong>Sichern Sie sich Ihren Anteil am Erfolg: Wir suchen exklusive Partner für ein 600.000 € Projekt!</strong></p>
+<p>Die <strong>H|H Akademie</strong> wächst rasant. Für unser Kern-Event, das <strong>Wochenendseminar EnergieHypnose</strong>, haben wir für das restliche Jahr 2026 ein kalkuliertes Umsatzvolumen von insgesamt <strong>600.000 €</strong> offen. Um dieses Ziel gemeinsam mit Qualitätspartnern zu erreichen, öffnen wir nun ausgewählte Plätze für eine direkte Zusammenarbeit.</p>
+<p><strong>Warum Sie jetzt Teil unserer „Seilschaft“ werden sollten:</strong></p>
+<ul>
+<li>
+<p><strong>Attraktive Vergütung:</strong> Sie erhalten <strong>10% Provision</strong> auf jedes vermittelte Ticket des Wochenendseminars.</p>
+</li>
+<li>
+<p><strong>Durchdachte Product-Ladder:</strong> Unser System greift perfekt ineinander. Über die App und das Tagesseminar „Innerer Reset“ führen wir Kunden zum Wochenendseminar und schließlich in die große Ausbildung. Das bedeutet für Sie: Hochqualifizierte Leads und ein stabiles Ökosystem.</p>
+</li>
+<li>
+<p><strong>Enormes Skalierungspotenzial:</strong> Mit einem noch zu erwirtschaftenden Volumen von <strong>600.000 €</strong> in diesem Jahr bieten wir Ihnen eine Partnerschaft, die sich finanziell wirklich lohnt.</p>
+</li>
+<li>
+<p><strong>WKO-Konformität:</strong> Unsere Werbesprache ist sauber auf die Humanenergetik in Österreich abgestimmt (Mentale Stärke &amp; Energetische Balance) – das sorgt für Sicherheit und Vertrauen bei Ihren Kunden.</p>
+</li>
+</ul>
+<p><strong>Wir suchen keine Massen-Affiliates, sondern echte Partner.</strong> Wir legen Wert auf eine enge, persönliche Zusammenarbeit und unterstützen Sie aktiv dabei, unsere Botschaft vom „Glücksfinder-Prinzip“ erfolgreich zu verbreiten.</p>
+<p><strong>Werden Sie jetzt Partner:</strong> Da wir eine enge Kooperation bevorzugen, bitten wir Sie, nach der Anmeldung kurz mit uns Kontakt aufzunehmen, damit wir die Details der Zusammenarbeit persönlich besprechen können.</p>
+<p><strong>Kontakt:</strong> <a href="mailto:kontakt@hh-akademie.at">kontakt@hh-akademie.at </a></p>
+<p><strong>Web:</strong> <a>www.hh-akademie.at</a></p>
+<p>Wir freuen uns auf den gemeinsamen Gipfelsturm!</p>
+<p>Beste Grüße,</p>
+<p><strong>Herta &amp; Heino</strong></p>
+<p>H|H Akademie</p>
 
 ## 2. Links
 
@@ -93,7 +119,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innerer Reset - Tagesseminar? — Typ: Seminar for business customers, Anbieter: hh-akademie, gelistet seit 2025-12-01
-- Wie viel kostet es? — 164.29116600000003 USD
+- Wie viel kostet es? — 163.92464100000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

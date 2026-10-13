@@ -4,34 +4,34 @@ digistore24_product_id: 670959
 title: "Storycodes - Die Architektur hinter täglichen Story-Sales"
 vendor: "JessicaJanzen"
 product_type: "Member area and video courses"
-price: 281.56
+price: 280.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 140.78
+earnings_per_sale: 140.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-02-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/670959?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55739/adminstore/"
 sales_page: "https://www.digistore24.com/product/670959"
 language: "de"
 ---
 # Storycodes - Die Architektur hinter täglichen Story-Sales
 
 > Product ID `55739` · Digistore24 productId `670959` · [HTML profile page](../../produkte/storycodes-die-architektur-hinter-t-glichen-story-sales-55739.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $281.56 (Single payment) |
+| Price | $280.93 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $140.78 |
+| Earnings/sale* | $140.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JessicaJanzen |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** STORYCODES ist ein 5-Modul-Programm rund um tägliches verkaufen über seine Instagram-Story. Es zeigt, wie man auch mit minimaler Reichweite und ohne Social Proof täglich Kaufentscheidungen auslöst, statt auf mehr Follower oder den nächsten Kurs-Hype zu hoffen. Im Fokus stehen: * verkaufspsychologische Architektur* strategischer Spannungsaufbau* Einwandbehandlung* Dringlichkeit ohne Rabatte* system…
+**Vendor's marketplace description:** <p>STORYCODES ist ein 5-Modul-Programm rund um tägliches verkaufen über seine Instagram-Story.</p>
+<p>Es zeigt, wie man auch mit minimaler Reichweite und ohne Social Proof täglich Kaufentscheidungen auslöst, statt auf mehr Follower oder den nächsten Kurs-Hype zu hoffen.</p>
+<p>Im Fokus stehen:</p>
+<p>* verkaufspsychologische Architektur<br />* strategischer Spannungsaufbau<br />* Einwandbehandlung<br />* Dringlichkeit ohne Rabatte<br />* systematische Entscheidungsführung</p>
+<p>Ideal für Creator im digitalen Marketing, die bereits aktiv sind, aber noch keine konstanten Sales machen und dieses Wissen auch an ihre Kunden weitervermitteln wollen (50% Provision).</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/670959?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55739/adminstore/
 - Sales page: https://www.digistore24.com/product/670959
 - Canonical redirect: https://www.digistore24.com/redir/670959/adminstore
 
@@ -86,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Storycodes - Die Architektur hinter täglichen Story-Sales? — Typ: Member area and video courses, Anbieter: JessicaJanzen, gelistet seit 2026-02-23
-- Wie viel kostet es? — 281.561956 USD
+- Wie viel kostet es? — 280.933806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

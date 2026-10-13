@@ -4,16 +4,16 @@ digistore24_product_id: 702149
 title: "254 Hörgeschichten für Kinder - 26 Std - Hörbuch (Download)"
 vendor: "Soundart"
 product_type: "Audio book (download)"
-price: 82.73
+price: 82.55
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 33.09
+earnings_per_sale: 33.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/702149?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/702149"
@@ -22,16 +22,16 @@ language: "de"
 # 254 Hörgeschichten für Kinder - 26 Std - Hörbuch (Download)
 
 > Product ID `58846` · Digistore24 productId `702149` · [HTML profile page](../../produkte/254-h-rgeschichten-f-r-kinder-26-std-h-rbuch-download-58846.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $82.73 (Single payment) |
+| Price | $82.55 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $33.09 |
+| Earnings/sale* | $33.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Soundart |
@@ -41,7 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das große Hörgeschichten-Paket für Kinder Freuen Sie sich auf 254 liebevoll erzählte Hörgeschichten für Kinder. 254 Hörgeschichten Über 26 Stunden Hörvergnügen Märchen, Abenteuer- und Fantasygeschichten Spannende Wissensgeschichten für neugierige Kinder Perfekt für Autofahrten, Einschlafrituale und ruhige Spielzeiten Sofort nach dem Kauf verfügbar Im Paket enthalten: 97 Allgemeine Geschichten 24 W…
+**Vendor's marketplace description:** <p><strong>Das große Hörgeschichten-Paket für Kinder</strong></p>
+<p>Freuen Sie sich auf 254 liebevoll erzählte Hörgeschichten für Kinder.</p>
+<ul>
+<li>254 Hörgeschichten</li>
+<li>Über 26 Stunden Hörvergnügen</li>
+<li>Märchen, Abenteuer- und Fantasygeschichten</li>
+<li>Spannende Wissensgeschichten für neugierige Kinder</li>
+<li>Perfekt für Autofahrten, Einschlafrituale und ruhige Spielzeiten</li>
+<li>Sofort nach dem Kauf verfügbar</li>
+</ul>
+<p> </p>
+<p><strong>Im Paket enthalten:</strong></p>
+<ul>
+<li>97 Allgemeine Geschichten</li>
+<li>24 Weihnachtsgeschichten</li>
+<li>3 Geschichten – Die Giggels – Abenteuergeschichten</li>
+<li>11 Kindergeschichten – Kinderwelt</li>
+<li>119 Märchengeschichten nach Gebrüder Grimm</li>
+</ul>
+<p> </p>
+<p>Insgesamt erhalten Sie eine umfangreiche Sammlung mit Geschichten für nahezu jeden Anlass – zum Einschlafen, Träumen, Lernen und Entdecken. Ihr Kind taucht dabei in spannende Abenteuer ein, entdeckt neue Welten, lernt spielerisch Wissenswertes und lässt seiner Fantasie freien Lauf.<br /><br />Auslieferung: Digitaler Download. Nach erfolgreicher Bestellung erhalten Sie Zugriff auf alle 254 Hörgeschichten.</p>
 
 ## 2. Links
 
@@ -78,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 254 Hörgeschichten für Kinder - 26 Std - Hörbuch (Download)? — Typ: Audio book (download), Anbieter: Soundart, gelistet seit 2026-09-01
-- Wie viel kostet es? — 82.733898 USD
+- Wie viel kostet es? — 82.549323 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

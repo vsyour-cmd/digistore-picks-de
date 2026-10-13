@@ -4,16 +4,16 @@ digistore24_product_id: 713152
 title: "UNPLUGGABLE - Fokus finden in einer lauten Welt"
 vendor: "windelbuendel"
 product_type: "E-books"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.04
+earnings_per_sale: 13.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development"]
 listed_since: "2026-07-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/713152?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/713152"
@@ -22,16 +22,16 @@ language: "de"
 # UNPLUGGABLE - Fokus finden in einer lauten Welt
 
 > Product ID `57744` · Digistore24 productId `713152` · [HTML profile page](../../produkte/unpluggable-fokus-finden-in-einer-lauten-welt-57744.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.04 |
+| Earnings/sale* | $13.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | windelbuendel |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Endlich Fokus im Feierabend-Business! UNPLUGGABLE ist der praxiserprobte Leitfaden für Angestellte, die nach einem langen Arbeitstag die mentale Energie und den Fokus finden wollen, um ihr eigenes Kleingewerbe gewinnbringend aufzubauen. Das erwartet deine Zielgruppe: 12 praxisnahe Kapitel für sofort umsetzbaren Fokus Schluss mit digitaler Reizüberflutung und Aufschieberitis 4 sofort nutzbare Bonus…
+**Vendor's marketplace description:** <p><strong>Endlich Fokus im Feierabend-Business! </strong></p>
+<p>UNPLUGGABLE ist der praxiserprobte Leitfaden für Angestellte, die nach einem langen Arbeitstag die mentale Energie und den Fokus finden wollen, um ihr eigenes Kleingewerbe gewinnbringend aufzubauen.</p>
+<p><strong>Das erwartet deine Zielgruppe: </strong></p>
+<ul>
+<li>12 praxisnahe Kapitel für sofort umsetzbaren Fokus</li>
+<li>Schluss mit digitaler Reizüberflutung und Aufschieberitis</li>
+<li>4 sofort nutzbare Bonus-Arbeitsvorlagen</li>
+</ul>
+<p><strong>Deine Vorteile als Affiliate: </strong> </p>
+<ul>
+<li><strong>50% Provision</strong> pro verkauftem E-Book</li>
+<li>Hohe Conversion-Rate durch klare Problem-Lösungs-Positionierung</li>
+<li>Starke, kaufbereite Zielgruppe (Side-Hustler, Gründer &amp; Angestellte)</li>
+</ul>
+<p>Sichere dir jetzt deinen Affiliate-Link und verdiene bei jedem Verkauf mit!</p>
 
 ## 2. Links
 
@@ -71,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist UNPLUGGABLE - Fokus finden in einer lauten Welt? — Typ: E-books, Anbieter: windelbuendel, gelistet seit 2026-07-25
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

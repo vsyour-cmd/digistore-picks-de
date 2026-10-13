@@ -4,16 +4,16 @@ digistore24_product_id: 416183
 title: "Die 12 erprobten Fragen zu Deinem Wunschkunden"
 vendor: "ChrisdaS"
 product_type: "Downloads"
-price: 23.51
+price: 23.46
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 9.4
+earnings_per_sale: 9.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-11-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.ad-campus.com/wunschkunde?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ad-campus.com/wunschkunde"
@@ -22,16 +22,16 @@ language: "de"
 # Die 12 erprobten Fragen zu Deinem Wunschkunden
 
 > Product ID `35306` · Digistore24 productId `416183` · [HTML profile page](../../produkte/die-12-erprobten-fragen-zu-deinem-wunschkunden-35306.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.51 (Single payment) |
+| Price | $23.46 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ChrisdaS |
@@ -41,7 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenke jetzt die "Die 12 erprobten Fragen zu Deinem Wunschkunden " und profitiere von allen Upsells im Verkaufs Funnel (40% Provision auf alle Upsell-Produkte) Die 12 erprobten Fragen sind ein beliebtes Produkt mit Upsells, die sich häufig verkaufen. Du verdienst bis zu 120€ pro verschenktem Ratgeber! Deine Vorteile: satte 40 % Provisionen auf alle Deine Verkäufe Geringe Einstiegshürde für den…
+**Vendor's marketplace description:** <p>Verschenke jetzt die "Die 12 erprobten Fragen zu Deinem Wunschkunden " und profitiere von allen Upsells im Verkaufs Funnel (40% Provision auf alle Upsell-Produkte)</p>
+<p>Die 12 erprobten Fragen sind ein beliebtes Produkt <strong>mit Upsells, die sich häufig verkaufen.</strong> Du verdienst bis zu 120€ pro verschenktem Ratgeber!</p>
+<p><strong>Deine Vorteile:</strong></p>
+<ul>
+<li>satte 40 % Provisionen auf alle Deine Verkäufe </li>
+<li>Geringe Einstiegshürde für den Kunden, sodass du schnell viele Verkäufe erzielen kannst </li>
+<li>Upsells und Orderbumps, die deinen Gewinn maximieren</li>
+<li>Eintragungsraten im Front End bis zu 67 % im ständig hochoptimierten Ad Campus Funnel.</li>
+<li>Kaufraten von 10-15% im ständig hochoptimierten Ad Campus Sales-Funnel</li>
+<li>Große Auswahl optimierter Webemittel: Du bekommst klickstarke Creatives, Vorlagen für E-Mail-Texte, Videos und alles was Du benötigst um mehr Leads und Verkäufe zu erzielen.</li>
+<li>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Ad Campus Affiliate-Manager.</li>
+<li>Ständige Live Trainings der Top Affiliates mit dem Gründer persönlich, für noch mehr Umsatz und Provisionen</li>
+</ul>
+<p><strong>Der komplette Funnel:</strong></p>
+<ul>
+<li>0 € Initialprodukt – Conversion ~<strong>68,78</strong><strong>%</strong></li>
+<li>47€ Orderbump – Conversion ~<strong>34,59%</strong></li>
+<li>97€ Upsell 1 – Conversion ~<strong>12,56%</strong></li>
+<li>147€ Upsell 2 – <em>Conversion ~<strong>7,89%</strong></em></li>
+</ul>
+<p>Du verdienst an jedem Verkauf 40%!</p>
+<p>Die Verkaufsseiten und der Funnel von den 12 erprobten Fragen wurde von einem professionellen Funnel Hacker &amp; Facebook Marketer erstellt.</p>
+<p>Das heißt für dich: <strong>Auf maximale Conversions optimiert, sodass du größtmögliche Provisionen erhältst.</strong> Sogar bei kaltem Traffic!</p>
+<p>Besuche jetzt unser Affiliate Center, um noch heute Teil der Ad Campus Familie zu werden!</p>
+<p>Herzliche Grüße aus Köln und viel Erfolg beim bewerben</p>
+<p>Christian da Silva  </p>
 
 ## 2. Links
 
@@ -59,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 12 erprobten Fragen zu Deinem Wunschkunden? — Typ: Downloads, Anbieter: ChrisdaS, gelistet seit 2021-11-15
-- Wie viel kostet es? — 23.510188000000003 USD
+- Wie viel kostet es? — 23.457738000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

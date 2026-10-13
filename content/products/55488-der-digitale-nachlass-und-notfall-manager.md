@@ -4,16 +4,16 @@ digistore24_product_id: 666255
 title: "Der digitale Nachlass und Notfall Manager"
 vendor: "Pinfinest"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.43
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Finances"]
 listed_since: "2026-02-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/666255?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/666255"
@@ -22,16 +22,16 @@ language: "de"
 # Der digitale Nachlass und Notfall Manager
 
 > Product ID `55488` · Digistore24 productId `666255` · [HTML profile page](../../produkte/der-digitale-nachlass-und-notfall-manager-55488.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.43 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Pinfinest |
@@ -40,6 +40,8 @@ language: "de"
 | Categories | Business & Investment, Education, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** <h2>
 
 ## 2. Links
 
@@ -77,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der digitale Nachlass und Notfall Manager? — Typ: E-books, Anbieter: Pinfinest, gelistet seit 2026-02-03
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 706097
 title: "ABC-Fuchs - Handschrift-Lern-App für Kinder"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 9.32
+price: 9.3
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.8
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.gz-ai-stacks.de/ABC-Fuchs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gz-ai-stacks.de/ABC-Fuchs/"
@@ -22,14 +22,14 @@ language: "de"
 # ABC-Fuchs - Handschrift-Lern-App für Kinder
 
 > Product ID `57810` · Digistore24 productId `706097` · [HTML profile page](../../produkte/abc-fuchs-handschrift-lern-app-f-r-kinder-57810.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $9.32 (Single payment) |
+| Price | $9.30 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.80 |
 | Cart conversion* | — |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Spielerische App zum Schreiben- und Handschrift-Lernen für Kinder, mit Fuchs-Maskottchen als Begleiter durch die Buchstaben und Übungen.
+**Vendor's marketplace description:** <p>Spielerische App zum Schreiben- und Handschrift-Lernen für Kinder, mit Fuchs-Maskottchen als Begleiter durch die Buchstaben und Übungen.</p>
 
 ## 2. Links
 
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ABC-Fuchs - Handschrift-Lern-App für Kinder? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-07-30
-- Wie viel kostet es? — 9.323392 USD
+- Wie viel kostet es? — 9.302592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

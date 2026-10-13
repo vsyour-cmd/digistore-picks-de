@@ -4,34 +4,34 @@ digistore24_product_id: 426468
 title: "Landingpage Textvorlage"
 vendor: "Jyotima"
 product_type: "E-books"
-price: 45.96
+price: 45.85
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.08
+earnings_per_sale: 11.06
 cart_conversion_pct: 4
 cancel_rate_pct: 1.23
 categories: ["Profession & Job"]
 listed_since: "2022-01-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.jyotimaflak.com/landingpagebauen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/38929/adminstore/"
 sales_page: "https://www.jyotimaflak.com/landingpagebauen/"
 language: "de"
 ---
 # Landingpage Textvorlage
 
 > Product ID `38929` · Digistore24 productId `426468` · [HTML profile page](../../produkte/landingpage-textvorlage-38929.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $45.96 (Single payment) |
+| Price | $45.85 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.08 |
+| Earnings/sale* | $11.06 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.23% |
 | Vendor | Jyotima |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 30 % Provision und viele Upsells in der Akademie von Jyotima Flak, Top-Expertin und Onlinebusiness-Mentorin Landingpage-Textvorlage Worksbook! Magische Landingpage bauen und Follower zu Kunden machen! “Mit dieser Vorlage verdiene ich 5-stellig, pro Launch!” Jyotima Baue deine Landingpages so auf, dass Lieblingskunden bei dir kaufen! • Ob für ein Freebie, Minikurs, Onlinekurs oder ein Premium-Progr…
+**Vendor's marketplace description:** <p><strong>30 % Provision und viele Upsells in der Akademie von Jyotima Flak, Top-Expertin und Onlinebusiness-Mentorin</strong></p>
+<p><span style="color:#ff0000;"><strong><br /></strong></span><span style="color:#ff0000;"><strong>Landingpage-Textvorlage Worksbook! <br /><br /></strong><strong>Magische Landingpage bauen und Follower zu Kunden machen!</strong></span><strong><br /></strong> <br />“Mit dieser Vorlage verdiene ich 5-stellig, pro Launch!” Jyotima</p>
+<div>
+<div>
+<div>
+<p><strong>Baue deine Landingpages so auf, dass Lieblingskunden bei dir kaufen!<br /></strong> <br />• Ob für ein Freebie, Minikurs, Onlinekurs oder ein Premium-Programm – Du kannst ab jetzt nichts mehr falsch machen!</p>
+<p>• Lerne alle emotionalen Verkaufsgründe kennen, die auf einer Landingpage nicht fehlen dürfen!</p>
+<p>• Gewinne Kunden mit hochwertigen Inhalten und Kommunikation mit deinem Herzen: authentisch und empathisch!</p>
+<p><strong>Jetzt deine Textvorlage + Workbook (Ebook) erwerben und loslegen!</strong></p>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.jyotimaflak.com/landingpagebauen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38929/adminstore/
 - Sales page: https://www.jyotimaflak.com/landingpagebauen/
 - Vendor affiliate support: https://jyotimaflak.com/partner-werden
 - Canonical redirect: https://www.digistore24.com/redir/426468/adminstore
@@ -78,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Landingpage Textvorlage? — Typ: E-books, Anbieter: Jyotima, gelistet seit 2022-01-24
-- Wie viel kostet es? — 45.955806 USD
+- Wie viel kostet es? — 45.853281 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

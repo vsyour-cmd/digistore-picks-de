@@ -4,34 +4,34 @@ digistore24_product_id: 258330
 title: "WOWING"
 vendor: "pspbiz"
 product_type: "Downloads"
-price: 671.24
+price: 669.74
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 134.25
+earnings_per_sale: 133.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2019-01-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://wowing.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/28047/adminstore/"
 sales_page: "https://wowing.com"
 language: "de"
 ---
 # WOWING
 
 > Product ID `28047` · Digistore24 productId `258330` · [HTML profile page](../../produkte/wowing-28047.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $671.24 (Subscription) |
+| Price | $669.74 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $134.25 |
+| Earnings/sale* | $133.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pspbiz |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** WOWING ermöglicht es Dir auf unkomplizierte Weise per Smartphone oder Desktop sämtliche Kundenanfragen per Video oder Audionachricht zu beantworten. Dabei arbeitet WOWING bereits mit viele der gängigen Tools auf dem Markt nahtlos zusammen - wie zB. Quentn, Klicktipp, Digistore24, Elopage und viele andere. Große Marketer und Coaches wie Martin Limbeck, René Rink, Mario Burgard, Jens Neubeck, Freder…
+**Vendor's marketplace description:** <p>WOWING ermöglicht es Dir auf unkomplizierte Weise per Smartphone oder Desktop sämtliche Kundenanfragen per Video oder Audionachricht zu beantworten. <br /><br />Dabei arbeitet WOWING bereits mit viele der gängigen Tools auf dem Markt nahtlos zusammen - wie zB. Quentn, Klicktipp, Digistore24, Elopage und viele andere. <br /><br />Große Marketer und Coaches wie Martin Limbeck, René Rink, Mario Burgard, Jens Neubeck, Frederik Malsy und viele mehr nutzen WOWING bereits um Ihre Kundenkommunikation aufs nächste Level zu heben.<br /><br />WOWING funktioniert ebenfalls mit dem Facebook Messenger! </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wowing.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/28047/adminstore/
 - Sales page: https://wowing.com
 - Vendor affiliate support: https://docs.google.com/document/d/1iunuJyUVMb45da62YJxnAM9ldO82D0v58957d_Ph8aM/edit?usp=sharing
 - Canonical redirect: https://www.digistore24.com/redir/258330/adminstore
@@ -95,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WOWING? — Typ: Downloads, Anbieter: pspbiz, gelistet seit 2019-01-29
-- Wie viel kostet es? — 671.2394 USD
+- Wie viel kostet es? — 669.7419000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 468846
 title: "9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung"
 vendor: "erich1702"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.26
+earnings_per_sale: 12.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2022-11-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://erichfrischenschlager.com/9-mindsteps/?aff=adminstore#aff=adminstore"
 sales_page: "https://erichfrischenschlager.com/9-mindsteps/"
@@ -22,16 +22,16 @@ language: "de"
 # 9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung
 
 > Product ID `42410` · Digistore24 productId `468846` · [HTML profile page](../../produkte/9-mindsteps-hocheffizientes-gehirntraining-in-bewegung-42410.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.26 |
+| Earnings/sale* | $12.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | erich1702 |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 9 MINDsteps® ist ein Kartenset, bestehend aus 50 Kärtchen mit jeweils 4 Übungen, die mentale Konzentration und motorische Koordination gleichermaßen fördern. Insgesamt also 200 fantastische Übungen, für die es noch viele Variationsmöglichkeiten gibt. Es handelt sich um sogennante Dual-Task Aufgaben, also Übungen, bei denen es neben einer motorischen Aufgabe auch eine kognitive Aufgabe lösen gilt. …
+**Vendor's marketplace description:** <p><strong>9 MINDsteps</strong>® ist ein Kartenset, bestehend aus 50 Kärtchen mit jeweils 4 Übungen, die mentale Konzentration und motorische Koordination gleichermaßen fördern. Insgesamt also 200 fantastische Übungen, für die es noch viele Variationsmöglichkeiten gibt.</p>
+<p>Es handelt sich um sogennante Dual-Task Aufgaben, also Übungen, bei denen es neben einer motorischen Aufgabe auch eine kognitive Aufgabe lösen gilt.</p>
+<p>Nähere Infos zu den Übungen <a href="https://erichfrischenschlager.com/9-mindsteps/" target="_blank" rel="noreferrer noopener">findest du hier!</a></p>
 
 ## 2. Links
 
@@ -79,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung? — Typ: E-books, Anbieter: erich1702, gelistet seit 2022-11-09
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

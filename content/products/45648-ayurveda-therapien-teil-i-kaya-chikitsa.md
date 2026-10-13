@@ -4,16 +4,16 @@ digistore24_product_id: 519048
 title: "Ayurveda Therapien Teil I / Kaya Chikitsa"
 vendor: "HarshaGramminger"
 product_type: "Member area and video courses"
-price: 2825.04
+price: 2818.74
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 423.75
+earnings_per_sale: 422.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Profession & Job"]
 listed_since: "2023-10-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/519048?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/519048"
@@ -22,16 +22,16 @@ language: "de"
 # Ayurveda Therapien Teil I / Kaya Chikitsa
 
 > Product ID `45648` · Digistore24 productId `519048` · [HTML profile page](../../produkte/ayurveda-therapien-teil-i-kaya-chikitsa-45648.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2825.04 (Installment) |
+| Price | $2818.74 (Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $423.75 |
+| Earnings/sale* | $422.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HarshaGramminger |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ayurveda Therapien Teil I / Kaya Chikitsa Dieser Kurs ist für Menschen, die ayurvedischen Grundlagen bereits erworben haben und sich nun mit den praktischen Anwendung der Euroved Produkte als Shamana Therapie und auch in der Shodana Therapie weiterbilden möchten. ~ Das Programm erstreckt sich über insgesamt 24 Monate und beginnt am Donnerstag, den 16. November 2023 um 18.00 Uhr. ~ Profitiere von d…
+**Vendor's marketplace description:** <p><strong>Ayurveda Therapien Teil I / Kaya Chikitsa </strong></p>
+<p><em>Dieser Kurs ist für Menschen, die ayurvedischen Grundlagen bereits erworben haben und sich nun mit den praktischen Anwendung der <a>Euroved Produkte</a> als Shamana Therapie und auch in der Shodana Therapie weiterbilden möchten. <br /></em><em>~ <br /></em>Das Programm erstreckt sich über insgesamt 24 Monate und beginnt am Donnerstag, den 16. November 2023 um 18.00 Uhr. <br /><em>~ </em><br />Profitiere von der Expertise und der Professionalität von Dr. Harsha Gramminger. DER Ayurveda- und Gesundheits-Expertin im deutschsprachigen Raum und <strong>erhalte satte 15 % auf den Monatsbeitrag. </strong><br />~ <br />Bei Fragen steht Dr. Harsha Gramminger den Käufern jederzeit zur Verfügung - entsprechend ist die Storno-Quote verschwindend gering.<br />~ <br />Link zur Website:<br /><strong><a>https://www.harshagramminger.de</a></strong><br /><br /></p>
+<p> </p>
 
 ## 2. Links
 
@@ -79,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ayurveda Therapien Teil I / Kaya Chikitsa? — Typ: Member area and video courses, Anbieter: HarshaGramminger, gelistet seit 2023-10-03
-- Wie viel kostet es? — 2825.043806 USD
+- Wie viel kostet es? — 2818.7412810000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

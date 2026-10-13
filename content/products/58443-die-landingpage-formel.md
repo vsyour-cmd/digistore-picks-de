@@ -4,34 +4,34 @@ digistore24_product_id: 706244
 title: "Die Landingpage-Formel"
 vendor: "ManfredKloos"
 product_type: "Downloads"
-price: 52.67
+price: 52.55
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 21.07
+earnings_per_sale: 21.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing","Marketing Services"]
 listed_since: "2026-08-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://copykraft.de/landingpage/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58443/adminstore/"
 sales_page: "https://copykraft.de/landingpage/"
 language: "de"
 ---
 # Die Landingpage-Formel
 
 > Product ID `58443` · Digistore24 productId `706244` · [HTML profile page](../../produkte/die-landingpage-formel-58443.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $52.67 (Single payment) |
+| Price | $52.55 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $21.07 |
+| Earnings/sale* | $21.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ManfredKloos |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Landingpage-Formel, der klare Blueprint für Landingpages, die Besucher zu Kunden führen. Deine Zielgruppe hat gute Angebote – aber ihre Landingpages verkaufen nichts? Genau hier setzt die Landingpage-Formel an. Der praxisnahe Blueprint zeigt, wie Landingpages strukturiert und formuliert werden, damit Besucher schneller verstehen, was angeboten wird, warum es relevant ist und was sie als Nächst…
+**Vendor's marketplace description:** <p style="text-align:left;"><strong>Die Landingpage-Formel, der klare Blueprint für Landingpages, die Besucher zu Kunden führen.</strong></p>
+<p style="text-align:left;">Deine Zielgruppe hat gute Angebote – aber ihre Landingpages verkaufen nichts?</p>
+<p style="text-align:left;">Genau hier setzt die Landingpage-Formel an.</p>
+<p style="text-align:left;">Der praxisnahe Blueprint zeigt, wie Landingpages strukturiert und formuliert werden, damit Besucher schneller verstehen,</p>
+<p style="text-align:left;">was angeboten wird, warum es relevant ist und was sie als Nächstes tun sollen.</p>
+<p style="text-align:left;"><strong>Einfach zu verstehen. Einfach zu empfehlen. Direkt umsetzbar.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://copykraft.de/landingpage/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58443/adminstore/
 - Sales page: https://copykraft.de/landingpage/
 - Canonical redirect: https://www.digistore24.com/redir/706244/adminstore
 
@@ -86,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Landingpage-Formel? — Typ: Downloads, Anbieter: ManfredKloos, gelistet seit 2026-08-18
-- Wie viel kostet es? — 52.6682 USD
+- Wie viel kostet es? — 52.550700000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

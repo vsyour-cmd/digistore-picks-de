@@ -4,16 +4,16 @@ digistore24_product_id: 41759
 title: "Die Nierenstein-Formel"
 vendor: "mike_r"
 product_type: "E-books"
-price: 23.98
+price: 23.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.99
+earnings_per_sale: 11.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2015-01-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://die-nierenstein-formel.com/?aff=adminstore#aff=adminstore"
 sales_page: "http://die-nierenstein-formel.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Die Nierenstein-Formel
 
 > Product ID `6217` · Digistore24 productId `41759` · [HTML profile page](../../produkte/die-nierenstein-formel-6217.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $23.98 (Single payment) |
+| Price | $23.93 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.99 |
+| Earnings/sale* | $11.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mike_r |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Nierenstein-Formel ist das ultimative Sofort-Hilfe Programm gegen Nierensteine. Der Kunde erfährt in einer einfachen Schritt-für-Schritt Anleitung, wie man sie in weniger als 5 Stunden schmerzfrei, auf natürlichem Weg und für immer loswird. Wirksamkeit erprobt und bestätigt !! _____ ABSOLUTES TOP NISCHENPRODUKT UND EINZIGARTIG auf dem deutschen Markt. Riesige Zielgruppe, denn Nierensteine könn…
+**Vendor's marketplace description:** <p><strong>Die</strong> <strong>Nierenstein-Formel </strong>ist das ultimative Sofort-Hilfe Programm gegen Nierensteine.</p>
+<p>&nbsp;</p>
+<p>Der Kunde erf&auml;hrt in einer einfachen Schritt-f&uuml;r-Schritt Anleitung, wie man sie in weniger als 5 Stunden schmerzfrei, auf nat&uuml;rlichem Weg und f&uuml;r immer&nbsp;loswird.</p>
+<p>&nbsp;</p>
+<p>Wirksamkeit erprobt und best&auml;tigt !!</p>
+<p>_____</p>
+<p>ABSOLUTES TOP NISCHENPRODUKT UND EINZIGARTIG auf dem deutschen Markt.</p>
+<p>Riesige Zielgruppe, denn Nierensteine k&ouml;nnen jeden treffen!&nbsp;</p>
+<p>Jetzt Affiliate werden!</p>
 
 ## 2. Links
 
@@ -70,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Nierenstein-Formel? — Typ: E-books, Anbieter: mike_r, gelistet seit 2015-01-29
-- Wie viel kostet es? — 23.98084 USD
+- Wie viel kostet es? — 23.92734 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

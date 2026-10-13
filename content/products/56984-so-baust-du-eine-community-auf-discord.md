@@ -4,16 +4,16 @@ digistore24_product_id: 701404
 title: "So baust du eine Community auf Discord"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 25.14
+price: 25.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.57
+earnings_per_sale: 12.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/so-baust-du-eine-community-auf-discord?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/so-baust-du-eine-community-auf-discord"
@@ -22,16 +22,16 @@ language: "de"
 # So baust du eine Community auf Discord
 
 > Product ID `56984` · Digistore24 productId `701404` · [HTML profile page](../../produkte/so-baust-du-eine-community-auf-discord-56984.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.14 (Single payment) |
+| Price | $25.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.57 |
+| Earnings/sale* | $12.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Reichweite in eine loyale Discord-Community verwandeln und nachhaltig monetarisieren Als Creator hast du Reichweite – aber Discord verwandelt diese Reichweite in echte, tiefe Verbindung. Dieses E-Book zeigt dir, wie du deinen bestehenden Kanal auf YouTube, TikTok oder Instagram in einen aktiven Discord-Server verlängerst, der deinen treusten Fans ein Zuhause gibt. Du lernst, wie du Rollen und exkl…
+**Vendor's marketplace description:** <p><strong>Reichweite in eine loyale Discord-Community verwandeln und nachhaltig monetarisieren</strong></p>
+<p>Als Creator hast du Reichweite – aber Discord verwandelt diese Reichweite in echte, tiefe Verbindung. Dieses E-Book zeigt dir, wie du deinen bestehenden Kanal auf YouTube, TikTok oder Instagram in einen aktiven Discord-Server verlängerst, der deinen treusten Fans ein Zuhause gibt. Du lernst, wie du Rollen und exklusive Channels als Anreiz nutzt, welche Community-Events die Aktivität nach oben treiben und wie du Server-Abos und Partnerprogramme als Einnahmequelle aufbaust. Dazu: wie du externen Traffic effizient in deinen Server leitest, wie Bots Events und Moderation übernehmen und wie du aus deiner Discord-Community heraus weitere Angebote platzierst, ohne aufdringlich zu wirken.</p>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Bestehende Reichweite auf YouTube, TikTok &amp; Co. in Discord-Mitglieder verwandeln</li>
+<li>Rollen und exklusive Channels als Anreize für aktive Beteiligung einsetzen</li>
+<li>Community-Events, Challenges und Voice-Sessions, die Aktivität hochhalten</li>
+<li>Server-Abos und Partnerprogramme als planbaren Einkommensstrom aufbauen</li>
+<li>Bots für Event-Management und Moderation einrichten</li>
+</ul>
+<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
 
 ## 2. Links
 
@@ -82,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist So baust du eine Community auf Discord? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-16
-- Wie viel kostet es? — 25.135058 USD
+- Wie viel kostet es? — 25.078983 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

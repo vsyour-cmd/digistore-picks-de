@@ -4,34 +4,34 @@ digistore24_product_id: 676527
 title: "Videokurs: \"Erhelle dein eigenes Leben\"!"
 vendor: "ReinerKatzinger"
 product_type: "Member area and video courses"
-price: 46.99
+price: 46.88
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.5
+earnings_per_sale: 23.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-03-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.reinergeist.com/erhelledeineigenesLeben/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56013/adminstore/"
 sales_page: "https://www.reinergeist.com/erhelledeineigenesLeben/"
 language: "de"
 ---
 # Videokurs: "Erhelle dein eigenes Leben"!
 
 > Product ID `56013` · Digistore24 productId `676527` · [HTML profile page](../../produkte/videokurs-erhelle-dein-eigenes-leben-56013.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.99 (Single payment) |
+| Price | $46.88 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.50 |
+| Earnings/sale* | $23.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ReinerKatzinger |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Videokurs „Erhelle dein Leben“ – für mehr Klarheit, Bewusstsein und innere Balance wird angeboten. Perfektes Geschenk für deine Community! Der Kurs hilft dabei, Gedanken, Gefühle und Entscheidungen besser zu verstehen, neue Perspektiven zu entwickeln und mehr Balance im Alltag zu finden – einfach erklärt in kompakten Videolektionen. Ideal für Anfänger und Fortgeschrittene im Bereich Persönlich…
+**Vendor's marketplace description:** <p>Der Videokurs „Erhelle dein Leben“ – für mehr Klarheit, Bewusstsein und innere Balance wird angeboten.</p>
+<p>Perfektes Geschenk für deine Community!</p>
+<p>Der Kurs hilft dabei, Gedanken, Gefühle und Entscheidungen besser zu verstehen, neue Perspektiven zu entwickeln und mehr Balance im Alltag zu finden – einfach erklärt in kompakten Videolektionen.</p>
+<p>Ideal für Anfänger und Fortgeschrittene im Bereich Persönlichkeitsentwicklung.</p>
+<p>Sehr hohe Conversion durch einfachen Einstieg.</p>
+<p>Du erhältst 50 % Provision auf den gesamten Funnel.</p>
+<p>Hauptprodukt: 49,90 €<br />Mit Upsells sind bis zu 137 € Provision pro Kunde möglich.</p>
+<p>Automatisierter Funnel wird laufend optimiert.</p>
+<p>Viel Erfolg!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.reinergeist.com/erhelledeineigenesLeben/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56013/adminstore/
 - Sales page: https://www.reinergeist.com/erhelledeineigenesLeben/
 - Vendor affiliate support: https://www.reinergeist.com/Partnerprogramm/vkerhelle/
 - Canonical redirect: https://www.digistore24.com/redir/676527/adminstore
@@ -67,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs: "Erhelle dein eigenes Leben"!? — Typ: Member area and video courses, Anbieter: ReinerKatzinger, gelistet seit 2026-03-15
-- Wie viel kostet es? — 46.986758 USD
+- Wie viel kostet es? — 46.881933000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

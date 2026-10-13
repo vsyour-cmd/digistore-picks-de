@@ -4,16 +4,16 @@ digistore24_product_id: 389396
 title: "KI-Kickstart für ChatGPT"
 vendor: "tombrigl"
 product_type: "Downloads"
-price: 220.76
+price: 220.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 110.38
+earnings_per_sale: 110.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2021-05-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.ki-kickstart.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ki-kickstart.de"
@@ -22,16 +22,16 @@ language: "de"
 # KI-Kickstart für ChatGPT
 
 > Product ID `43016` · Digistore24 productId `389396` · [HTML profile page](../../produkte/ki-kickstart-f-r-chatgpt-43016.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $220.76 (Single payment) |
+| Price | $220.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $110.38 |
+| Earnings/sale* | $110.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tombrigl |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Endlich: 10x schneller Inhalte für dein Online-Marketing erstellen Der ultimative Chat GPT-Video Kurs 2023 mit neuesten KI-Strategien hilft dir mühelos E-Mails, Blogartikel, Werbetexte und Video-Skripte zu erstellen. Mit 17+ Schritt für Schritt Videos und über 1.000 Inspirationen und Prompts für hochwertige Inhalte in Sekundenschnelle Provisionsmodell: Hauptprodukt - 50% Provision - Preis 67 €Upse…
+**Vendor's marketplace description:** <h2>Endlich: 10x schneller Inhalte für dein Online-Marketing erstellen</h2>
+<p>Der ultimative Chat GPT-Video Kurs 2023 mit neuesten KI-Strategien hilft dir mühelos E-Mails, Blogartikel, Werbetexte und Video-Skripte zu erstellen.</p>
+<p>Mit 1<strong>7+ Schritt für Schritt Videos</strong> und über <strong>1.000 Inspirationen und Prompts </strong>für hochwertige Inhalte in Sekundenschnelle</p>
+<p><strong>Provisionsmodell:</strong></p>
+<p>Hauptprodukt - 50% Provision - Preis 67 €<br />Upsell 1  - 50% Provision - Preis: 27€<br />Upsell 2  - 50% Provision - Preis: 27€</p>
+<p>Mit einem einzigen Verkauf kannst du über 60€ verdienen!</p>
 
 ## 2. Links
 
@@ -106,7 +111,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Kickstart für ChatGPT? — Typ: Downloads, Anbieter: tombrigl, gelistet seit 2021-05-12
-- Wie viel kostet es? — 220.75820000000002 USD
+- Wie viel kostet es? — 220.2657 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 464686
 title: "Bye Bye Bindungsangst Online Kurs"
 vendor: "saschajurek"
 product_type: "Member area and video courses"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.43
+earnings_per_sale: 17.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2022-10-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://go.saschajurek.de/coreoffer-produkt-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.saschajurek.de/coreoffer-produkt-2/"
@@ -22,16 +22,16 @@ language: "de"
 # Bye Bye Bindungsangst Online Kurs
 
 > Product ID `42316` · Digistore24 productId `464686` · [HTML profile page](../../produkte/bye-bye-bindungsangst-online-kurs-42316.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.43 |
+| Earnings/sale* | $17.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | saschajurek |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bindungsangst ist ein weitverbreitetes Phänomen. Immer mehr Singles fragen sich, ob hinter ihrer scheinbaren Beziehungsunfähigkeit eventuell eine tief verwurzelte Bindungsangst stecken könnte. Im Online Kurs "Bye Bye Bindungsangst" erläutert Angst-Experte Sascha Jurek wie man herausfindet, ob man an Bindungsangst leidet und wie man Bindungsängste in 9 Schritten aufarbeiten kann. Hypnosetherapeut S…
+**Vendor's marketplace description:** <p>Bindungsangst ist ein weitverbreitetes Phänomen. Immer mehr Singles fragen sich, ob hinter ihrer scheinbaren Beziehungsunfähigkeit eventuell eine tief verwurzelte Bindungsangst stecken könnte.</p>
+<p>Im Online Kurs "Bye Bye Bindungsangst" erläutert Angst-Experte Sascha Jurek wie man herausfindet, ob man an Bindungsangst leidet und wie man <strong>Bindungsängste in 9 Schritten aufarbeiten</strong> kann.</p>
+<p>Hypnosetherapeut Sascha Jurek stellt Hypnosen zur Verfügung, mit denen man beispielsweise limitierende Glaubenssätze in positive Selbstüberzeugungen verandeln kann. </p>
+<p>Denn die Transformation von Bindungsangst in ein sicheres Bindungsverhalten gelingt nur, wenn man auf einer emotionalen Ebene arbeitet und alte Bindungsverletzungen heilt. </p>
+<p>Dadurch unterscheidet sich der Kurs von anderen, in denen das Thema nur auf kognitiv-rationaler Ebene erläutert wird. Transforamtion findet allerdings nur auf emotionaler Ebene statt. </p>
 
 ## 2. Links
 
@@ -66,7 +70,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bye Bye Bindungsangst Online Kurs? — Typ: Member area and video courses, Anbieter: saschajurek, gelistet seit 2022-10-14
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

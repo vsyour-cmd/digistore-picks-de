@@ -4,34 +4,34 @@ digistore24_product_id: 199683
 title: "Liedbegleitung für Einsteiger (Video-Gitarrenkurs)"
 vendor: "musiklehrer"
 product_type: "Member area and video courses"
-price: 101.82
+price: 101.59
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 71.72
+earnings_per_sale: 71.56
 cart_conversion_pct: 17
 cancel_rate_pct: 2.66
 categories: ["Dancing & Music"]
 listed_since: "2018-02-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://gitarrenvideounterricht.coachy.net/lp/liedbegleitung-fuer-einsteiger?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/22531/adminstore/"
 sales_page: "https://gitarrenvideounterricht.coachy.net/lp/liedbegleitung-fuer-einsteiger"
 language: "de"
 ---
 # Liedbegleitung für Einsteiger (Video-Gitarrenkurs)
 
 > Product ID `22531` · Digistore24 productId `199683` · [HTML profile page](../../produkte/liedbegleitung-f-r-einsteiger-video-gitarrenkurs-22531.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $101.82 (Single payment, Installment) |
+| Price | $101.59 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $71.72 |
+| Earnings/sale* | $71.56 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.66% |
 | Vendor | musiklehrer |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieser Kurs bringt Gitarren-Einsteigern in 12 Monaten bei, beliebige Lieder (aus Liederbüchern etc.) auf der Gitarre zu begleiten. Schritt für Schritt werden alle nötigen Akkorde, Rhythmen, Zupfmuster und das nötige Verständnis vermittelt, damit man beliebige Songs auf der Gitarre begleiten kann. Der studierte Gitarrist Christian Konrad (Studium Jazz-Rock-Pop-Gitarre HfM Dresden, Kontaktstudiengan…
+**Vendor's marketplace description:** <p>Dieser Kurs bringt Gitarren-Einsteigern in 12 Monaten bei, beliebige Lieder (aus Liederbüchern etc.) auf der Gitarre zu begleiten. Schritt für Schritt werden alle nötigen Akkorde, Rhythmen, Zupfmuster und das nötige Verständnis vermittelt, damit man beliebige Songs auf der Gitarre begleiten kann.</p>
+<p>Der studierte Gitarrist Christian Konrad (Studium Jazz-Rock-Pop-Gitarre HfM Dresden, Kontaktstudiengang Popularmusik HfMT Hamburg) konzipierte seinen Kurs auf der Basis von 15 Jahren Lehrerfahrung im Bereich Anfänger-Unterricht an Musikschulen.</p>
+<p><br />Im Zentrum des Kurses stehen aufeinander aufbauende Unterrichtsvideos, die jeweils durch schriftliche Dokumente, Playalongs und andere Materialien ergänzt werden.<br />Ähnlich dem Unterricht bei einem Instrumentallehrer vor Ort ist das Lehrmaterial in einzelne wöchentliche Lektionen gegliedert, die dich fordern, aber nicht überfordern sollen.</p>
+<p>Inhalt:</p>
+<ul>
+<li>56 wöchentlich freigeschaltete Videolektionen (insgesamt über 22 Stunden Videomaterial)</li>
+<li>wöchentliche Übepläne (PDF)</li>
+<li>schriftliches Begleitmaterial zu jedem Video</li>
+<li>Backingtracks zum Mitspielen (MP3)</li>
+<li>persönlicher Support bei Fragen (Kommentarfunktion)</li>
+<li>auch über das Jahr hinaus zeitlich unbegrenzter Zugang zum Kurs</li>
+<li>Bonuskurs: Die 15 schönsten Weihnachtslieder auf der Gitarre begleiten (90 min Video)</li>
+</ul>
+<p><a title="Erfahrungen &amp; Bewertungen zu Gitarrenvideounterricht anzeigen" href="https://www.provenexpert.com/gitarrenvideounterricht/?utm_source=Widget&amp;utm_medium=Widget&amp;utm_campaign=Widget" target="_blank" rel="noreferrer noopener"><img style="border:0;" src="https://images.provenexpert.com/f8/ee/3bd5667647cdaa8d45ade432ec8f/widget_recommendation_465_0.png?t=1516875157267" alt="Erfahrungen &amp; Bewertungen zu Gitarrenvideounterricht anzeigen" /></a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://gitarrenvideounterricht.coachy.net/lp/liedbegleitung-fuer-einsteiger?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/22531/adminstore/
 - Sales page: https://gitarrenvideounterricht.coachy.net/lp/liedbegleitung-fuer-einsteiger
 - Vendor affiliate support: http://www.gitarrenvideounterricht.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/199683/adminstore
@@ -101,7 +114,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Liedbegleitung für Einsteiger (Video-Gitarrenkurs)? — Typ: Member area and video courses, Anbieter: musiklehrer, gelistet seit 2018-02-08
-- Wie viel kostet es? — 101.817716 USD
+- Wie viel kostet es? — 101.59056600000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

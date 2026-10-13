@@ -4,16 +4,16 @@ digistore24_product_id: 470151
 title: "Affiliate Kumpel"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 279.96
+price: 279.33
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 24.9
+earnings_per_sale: 24.84
 cart_conversion_pct: 3
 cancel_rate_pct: 1.65
 categories: ["Profession & Job"]
 listed_since: "2022-11-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.icbclub.de/affiliate-kumpel-deal?aff=adminstore#aff=adminstore"
 sales_page: "https://www.icbclub.de/affiliate-kumpel-deal"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Kumpel
 
 > Product ID `44126` · Digistore24 productId `470151` · [HTML profile page](../../produkte/affiliate-kumpel-44126.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.96 (Single payment) |
+| Price | $279.33 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $24.90 |
+| Earnings/sale* | $24.84 |
 | Cart conversion* | 3% |
 | Cancel rate* | 1.65% |
 | Vendor | seotech |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate Kumpel ist der Einstieg in das Affiliate Marketing mit einem Blog und Aufbau eines echten Systems! Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 450 Euro an Provision verdient werden. Im Pro…
+**Vendor's marketplace description:** <h2><strong>Affiliate Kumpel ist der Einstieg in das Affiliate Marketing mit einem Blog und Aufbau eines echten Systems!<br /></strong></h2>
+<p><strong>Für alle Affiliates eine klasse Chance.</strong> Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
+<p><strong>Insgesamt können damit über 450 Euro an Provision verdient werden.</strong></p>
+<p>Im Programm ist folgendes enthalten:</p>
+<ul>
+<li>… wie du eine <strong>profitable Nische findest,</strong> die auch noch zu deinen Interessen passt, sodass du es <strong>jeden Tag voller Leidenschaft machst.</strong></li>
+<li>… wie du mindestens <strong>3 - 6 Einkommensströme aufbaust </strong>und du dir damit dein passives Einkommen aufbaust sowie das Maximum herausholst</li>
+<li>... wie du Besucher auf deine Seite <strong>kostenlos, ohne teure Werbung</strong> bekommst, die nach genau den Produkten suchen und kaufen möchten, die du präsentierst!</li>
+<li>... wie du ein nachhaltiges und lukratives System aufbaust!</li>
+<li>... einen <strong>fertigen Blog</strong> zum direkt installieren und loslegen!</li>
+<li>... wie du bestimmte Dinge automatisieren kannst</li>
+<li>... wie du dir ein zweites Standbein durch passives Einkommen aufbaust</li>
+<li><strong>Bonus 1:</strong> Verschiedene lukrative Partnerprogramme, bereits erprobt, getestet und für gut befunden!</li>
+<li><strong>Bonus 2</strong>: Updates</li>
+<li><strong>Bonus 3</strong>: Möglichkeit, wie du <strong>200 Euro geschenkt</strong> bekommst, einfach so!!</li>
+<li>und noch vieles mehr!</li>
+</ul>
+<p> </p>
 
 ## 2. Links
 
@@ -87,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Kumpel? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2022-11-16
-- Wie viel kostet es? — 279.959498 USD
+- Wie viel kostet es? — 279.33492300000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

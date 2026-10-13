@@ -4,34 +4,34 @@ digistore24_product_id: 150465
 title: "Basiskurs Neurographik"
 vendor: "motivation-art"
 product_type: "Member area and video courses"
-price: 183.63
+price: 183.22
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 33.46
+earnings_per_sale: 33.39
 cart_conversion_pct: 11
 cancel_rate_pct: 1.08
 categories: ["Personal Development"]
 listed_since: "2017-07-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://motivation-art.de/einfuehrung-in-die-neurographik/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/17777/adminstore/"
 sales_page: "http://motivation-art.de/einfuehrung-in-die-neurographik/"
 language: "de"
 ---
 # Basiskurs Neurographik
 
 > Product ID `17777` · Digistore24 productId `150465` · [HTML profile page](../../produkte/basiskurs-neurographik-17777.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $183.63 (Single payment) |
+| Price | $183.22 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $33.46 |
+| Earnings/sale* | $33.39 |
 | Cart conversion* | 11% |
 | Cancel rate* | 1.08% |
 | Vendor | motivation-art |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Neurographik ist eine kreative Transformationsmethode, um Probleme in Einzel- und Gruppenarbeit zu lösen. Sie wurde von dem russischen Psychologen, Architekten und Business-Trainer Prof. Dr. Pavel Piskarev entwickelt und ist universell einsetzbar. Nach dieser praxisorientierten Einführung kannst du den Basisalgorithmus der Neurographik für jedes beliebige eigene Thema anwenden und mit Hilfe vo…
+**Vendor's marketplace description:** <p>Die Neurographik ist eine kreative Transformationsmethode, um Probleme in Einzel- und Gruppenarbeit zu lösen. Sie wurde von dem russischen Psychologen, Architekten und Business-Trainer Prof. Dr. Pavel Piskarev entwickelt und ist universell einsetzbar. Nach dieser praxisorientierten Einführung kannst du den Basisalgorithmus der Neurographik für jedes beliebige eigene Thema anwenden und mit Hilfe von Stift und Papier innerhalb kürzester Zeit neue Ideen und Lösungen finden.</p>
+<p><br />Jörg Lehmann ist der <strong>erste diplomierte deutschsprachige Neurographik-Trainer</strong> und erster deutscher Ausbilder für Neurographik-Trainer. Seit 2017 bietet er Neurographik-Kurse an und hat damit zehntausende Teilnehmer erreicht.</p>
+<p><strong>Teilnehmerstimmen</strong></p>
+<p><em>"Das erstaunliche an den Webinaren mit Jörg Lehmann ist für mich, dass ich mich jedes mal, am Morgen nach dem Webinar erfüllt, gestärkt und zu tiefst dankbar fühle. Es ist wunderbar, was von Jörg jenseits dessen, was er vordergründig vermittelt, noch alles transportiert wird. DANKE, dass es dich gibt!" <br /></em><strong>Marianna Göldi</strong></p>
+<p><em>"Neurographik hat mich tief beeindruckt: Ich kenne einige Verfahren, die mit der Kraft des Unterbewussten oder Unbenannten arbeiten. Diese Methode hat mich innerhalb kürzester Zeit über eine Gedankenblockade getragen und mich nachhaltig weitergebracht. Der erste Impuls nach Session vertiefte sich im Laufe der nächsten Tage noch, so dass die Lösung nun klar umrissen vor mir liegt. Das Vorgehen selber, hat mir Freude bereitet. Es wird sympathisch und kompetent angeleitet." <br /></em><strong>Sandy Stadelmann</strong></p>
+<p><em>"Ein gut strukturiertes und verständliches Webinar. Dankeschön!</em><br /><em>Es macht Sinn auch bei den Wiederholungen dabei zu sein. Immer wieder gibt es neue Aspekte oder einen anderen Ablauf, der erst gar nicht, wie es auch bei den Feldlinien sein sollte, Automatismus aufkommen lässt. :-)</em> <em>Es war wieder lehrreich. Vielen Dank, Jörg!"<br /></em><strong>Corinna Schulz</strong></p>
+<p><em>"Das beste Webinar, das ich je besucht habe! Ganz großes Lob. Tolle Qualität und toller Referent. Kann ich nur empfehlen!"<br /></em><strong>Andreas Gregori</strong></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://motivation-art.de/einfuehrung-in-die-neurographik/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/17777/adminstore/
 - Sales page: http://motivation-art.de/einfuehrung-in-die-neurographik/
 - Canonical redirect: https://www.digistore24.com/redir/150465/adminstore
 
@@ -82,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Basiskurs Neurographik? — Typ: Member area and video courses, Anbieter: motivation-art, gelistet seit 2017-07-13
-- Wie viel kostet es? — 183.632722 USD
+- Wie viel kostet es? — 183.223047 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

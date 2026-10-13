@@ -4,16 +4,16 @@ digistore24_product_id: 28579
 title: "der Zahlen-Code (E-Book + Upsells)"
 vendor: "rosinakaiser"
 product_type: "Downloads"
-price: 670.28
+price: 668.78
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 43.6
+earnings_per_sale: 43.51
 cart_conversion_pct: 4
 cancel_rate_pct: 2.09
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2014-07-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.rosinakaiser.de/produkte/ebook-zahlen-code?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rosinakaiser.de/produkte/ebook-zahlen-code"
@@ -22,16 +22,16 @@ language: "de"
 # der Zahlen-Code (E-Book + Upsells)
 
 > Product ID `5279` · Digistore24 productId `28579` · [HTML profile page](../../produkte/der-zahlen-code-e-book-upsells-5279.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $670.28 (Single payment) |
+| Price | $668.78 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $43.60 |
+| Earnings/sale* | $43.51 |
 | Cart conversion* | 4% |
 | Cancel rate* | 2.09% |
 | Vendor | rosinakaiser |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Heilmatrix der Zahlen (das ultimative Praxis-Buch) Individuelle Zahlenreihen selbst codieren. Das ultimative Anwenderbuch zur Heilmatrix der Zahlen. Angewandte Neue Russische Heiltechniken kombiniert mit den Methoden der Erfahrungs-Medizin aus der ganzheitlichen Heiler-Praxis und den Seminaren von Rosina Kaiser. Melde dich hier zu unserem Affiliate-Programm an Dieses Produkt und der Verkaufspr…
+**Vendor's marketplace description:** <p><strong>Die Heilmatrix der Zahlen (das ultimative Praxis-Buch)<br /><br /></strong></p>
+<p>Individuelle Zahlenreihen selbst codieren. Das ultimative Anwenderbuch zur Heilmatrix der Zahlen. Angewandte Neue Russische Heiltechniken kombiniert mit den Methoden der Erfahrungs-Medizin aus der ganzheitlichen Heiler-Praxis und den Seminaren von Rosina Kaiser. <br /><br /></p>
+<p><span style="color:#ff0000;"><a style="color:#ff0000;" href="http://www.rosina-kaiser-produkte.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">Melde dich hier zu unserem Affiliate-Programm an<br /><br /></a></span></p>
+<p>Dieses Produkt und der Verkaufsprozess wurde vielfach getestet. Laufend führen wir neue Tests durch und optimieren den Vertrieb.<br /><br /></p>
+<p>Anhand der Statistiken siehst Du selbst sehr deutlich, dass die Conversion-Rate sehr gut ist und es so gut wie keine Stornos gibt.<br /><br /></p>
+<p>Viele Grüße,<br />Rosina Kaiser</p>
+<p> </p>
+<p>Link: <span style="color:#ff0000;"><a style="color:#ff0000;" href="http://www.rosina-kaiser-produkte.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">Hier gehts zum Affiliate-Programm</a></span></p>
 
 ## 2. Links
 
@@ -97,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist der Zahlen-Code (E-Book + Upsells)? — Typ: Downloads, Anbieter: rosinakaiser, gelistet seit 2014-07-04
-- Wie viel kostet es? — 670.275684 USD
+- Wie viel kostet es? — 668.780334 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 21781
 title: "Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten"
 vendor: "keinepanikattacken"
 product_type: "Downloads"
-price: 32.02
+price: 31.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.01
+earnings_per_sale: 15.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2014-02-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "http://mein-abnehmblog.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://mein-abnehmblog.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten
 
 > Product ID `2313` · Digistore24 productId `21781` · [HTML profile page](../../produkte/abnehmformel-2-0-abnehm-kurs-mit-abnehm-journal-rezepten-2313.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $32.02 (Single payment) |
+| Price | $31.94 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.01 |
+| Earnings/sale* | $15.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | keinepanikattacken |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Abnehm-Kurs mit Abnehm-Journal, Rezepten und Tipps & Tricks. Die Nutzer werden durch ein Gratis Geschenk in eine Mailing-Liste gelockt und werden anschließend 3-Tage mit E-Mails zum Thema abnehmen versorgt. Erst nachdem das vertrauen zum Käufer aufgebaut wurde, wird ihm angeboten unser Abnehm-Kurs angeboten. Dies funktioniert enorm gut. Innerhalb der letzten 4 Wochen über 15 Sales pro Tag! Die Pro…
+**Vendor's marketplace description:** <p>Abnehm-Kurs mit Abnehm-Journal, Rezepten und Tipps &amp; Tricks.</p>
+<p>Die Nutzer werden durch ein Gratis Geschenk in eine <strong>Mailing-Liste</strong> gelockt und werden <strong>anschließend 3-Tage</strong><strong> mit E-Mails</strong> zum Thema abnehmen versorgt. Erst <strong><span style="text-decoration:underline;">nachdem das vertrauen</span></strong> zum Käufer aufgebaut wurde, wird ihm angeboten unser Abnehm-Kurs angeboten. <strong>Dies funktioniert enorm gut.</strong> <span style="background-color:#ffff00;">Innerhalb der letzten 4 Wochen über 15 Sales pro Tag! </span></p>
+<p>Die <strong>Provision</strong> für unser E-Book liegt <span style="background-color:#ffff00;"><strong>dauerhaft bei 50%</strong></span>. Unsere <strong>neue Landingpage</strong> hat eine noch <strong>bessere Conversionrate</strong>.</p>
 
 ## 2. Links
 
@@ -78,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten? — Typ: Downloads, Anbieter: keinepanikattacken, gelistet seit 2014-02-24
-- Wie viel kostet es? — 32.015542 USD
+- Wie viel kostet es? — 31.944117000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

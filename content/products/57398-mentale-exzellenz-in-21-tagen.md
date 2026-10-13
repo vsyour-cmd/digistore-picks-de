@@ -4,16 +4,16 @@ digistore24_product_id: 683993
 title: "Mentale Exzellenz in 21 Tagen"
 vendor: "creators-academy"
 product_type: "Member area and video courses"
-price: 381.39
+price: 380.53
 currency: "USD"
 affiliate_commission_pct: 27
-earnings_per_sale: 102.97
+earnings_per_sale: 102.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-07-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.digistore24.com/redir/683993/adminstore"
 sales_page: "https://www.jens-heuchemer.de/strunprov-webinar?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,16 +22,16 @@ language: "de"
 # Mentale Exzellenz in 21 Tagen
 
 > Product ID `57398` · Digistore24 productId `683993` · [HTML profile page](../../produkte/mentale-exzellenz-in-21-tagen-57398.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $381.39 (Single payment, Installment) |
+| Price | $380.53 (Single payment, Installment) |
 | Affiliate commission | 27% |
-| Earnings/sale* | $102.97 |
+| Earnings/sale* | $102.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | creators-academy |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hinweis: Im Webinar selbst wird ein 100-€-Gutschein angeboten. Das bedeutet, die Provision beträgt etwa 70€ pro Affiliate-Verkauf! Update Juli 26: Es gibt eine weitere Verkaufsseite mit einem vorgeschalteten Webinar. Damit können mehrere Zielgruppen abgeholt werden. Am Ende beider Webinare, wird das gleiche Produkt beworben: https://www.checkout-ds24.com/content/683993/55572/AFFILIATE/CAMPAIGNKEY …
+**Vendor's marketplace description:** <h3><span style="color:#ff0000;"><strong>Hinweis: Im Webinar selbst wird ein 100-€-Gutschein angeboten. Das bedeutet, die Provision beträgt etwa 70€ pro Affiliate-Verkauf!</strong></span></h3>
+<h4>Update Juli 26: Es gibt eine weitere Verkaufsseite mit einem vorgeschalteten Webinar. Damit können mehrere Zielgruppen abgeholt werden. Am Ende beider Webinare, wird das gleiche Produkt beworben: <br /><br />https://www.checkout-ds24.com/content/683993/55572/AFFILIATE/CAMPAIGNKEY</h4>
+<h2><strong>Mentale Exzellenz in 21 Tagen</strong></h2>
+<p>Ein intensives 21-Tage-Programm für mehr mentale Stärke, Fokus und emotionale Klarheit.</p>
+<p>Das erwartet dich:</p>
+<ul>
+<li>21 Video-Module mit konkreten Übungen für den Aufbau deiner mentalen Stärke vom Fundament auf!</li>
+<li>Workbook &amp; Reflexionsaufgaben zu jeder einzelnen Lektion</li>
+<li>Secret Podcast mit allen Folgen als Audio-Version, um die Inhalte als Podcast jederzeit hören und vertiefen zu können</li>
+<li>KI-Kursbuddy für Fragen, Reflexion &amp; schnellere Umsetzung</li>
+<li>Bonus: Monatliche Live Q&amp;As für die ersten 3 Monate</li>
+</ul>
+<p>Für alle, die mentale Stärke nicht nur verstehen — sondern wirklich trainieren wollen. Inkl. 14-tägigem Rückgaberecht, wenn du nicht mit dem Kurs klar kommst.</p>
 
 ## 2. Links
 
@@ -59,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mentale Exzellenz in 21 Tagen? — Typ: Member area and video courses, Anbieter: creators-academy, gelistet seit 2026-07-04
-- Wie viel kostet es? — 381.385004 USD
+- Wie viel kostet es? — 380.534154 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

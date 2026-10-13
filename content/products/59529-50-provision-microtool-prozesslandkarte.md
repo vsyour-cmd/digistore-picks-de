@@ -4,34 +4,34 @@ digistore24_product_id: 692787
 title: "50% Provision: MicroTool ProzessLandkarte"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 215.65
+price: 215.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 107.82
+earnings_per_sale: 107.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/692787?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59529/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/692787"
 language: "de"
 ---
 # 50% Provision: MicroTool ProzessLandkarte
 
 > Product ID `59529` · Digistore24 productId `692787` · [HTML profile page](../../produkte/50-provision-microtool-prozesslandkarte-59529.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $215.65 (Single payment) |
+| Price | $215.17 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $107.82 |
+| Earnings/sale* | $107.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie fließt Arbeit wirklich – und wo entstehen Reibung und Verzögerung? Die NAVOKProzessLandkarte macht das in einer Vorlage sichtbar: End-to-End-Prozesse,Prozesscluster, Rollen, Schnittstellen, KPIs und Steuerung. Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt. Zielgruppe: Führungskräfte und Prozessverantwortliche, die schnell K…
+**Vendor's marketplace description:** <p>Wie fließt Arbeit wirklich – und wo entstehen Reibung und Verzögerung? Die NAVOK<br />ProzessLandkarte macht das in einer Vorlage sichtbar: End-to-End-Prozesse,<br />Prozesscluster, Rollen, Schnittstellen, KPIs und Steuerung.</p>
+<p>Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt.</p>
+<p><strong>Zielgruppe:</strong> Führungskräfte und Prozessverantwortliche, die schnell Klarheit über<br />einen konkreten Prozessfluss brauchen, ohne gleich das komplette System einzuführen.</p>
+<p><strong>Für Sie als Affiliate:</strong> 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für<br />Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind.</p>
+<p>Digitaler Download, sofort verfügbar, ca. 2 Seiten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/692787?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59529/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/692787
 - Vendor affiliate support: https://navok.org/navok-partner-werden/
 - Canonical redirect: https://www.digistore24.com/redir/692787/adminstore
@@ -91,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50% Provision: MicroTool ProzessLandkarte? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-09-22
-- Wie viel kostet es? — 215.648264 USD
+- Wie viel kostet es? — 215.167164 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

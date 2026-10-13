@@ -4,34 +4,34 @@ digistore24_product_id: 595777
 title: "Reich mit Weite – Die Social-Media-Strategie, die verkauft!"
 vendor: "powerupbusiness"
 product_type: "Member area and video courses"
-price: 1331.27
+price: 1328.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 665.64
+earnings_per_sale: 664.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/595777/adminstore"
+promo_link: "https://www.digistore24.com/redir/51995/adminstore/"
 sales_page: "https://www.reichmitweite.com/?utm_source=affiliate&utm_content=[AFFILIATE]"
 language: "de"
 ---
 # Reich mit Weite – Die Social-Media-Strategie, die verkauft!
 
 > Product ID `51995` · Digistore24 productId `595777` · [HTML profile page](../../produkte/reich-mit-weite-die-social-media-strategie-die-verkauft-51995.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1331.27 (Single payment, Installment) |
+| Price | $1328.30 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $665.64 |
+| Earnings/sale* | $664.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | powerupbusiness |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mehr Sichtbarkeit. Mehr Vertrauen. Mehr Umsatz. Mit „Reich mit Weite – KI Edition“ verkaufst du ein Produkt, das Menschen zeigt, wie sie ohne Werbung, aber mit Strategie & KI ihre Social-Media-Reichweite gezielt aufbauen – und zur Kundengewinnung nutzen. Was Affiliates lieben werden:✅ 50 % Provision pro Sale – 298,50 € Verdienst je Verkauf✅ Automatisiertes Webinar mit hoher Conversion✅ Knapper Ang…
+**Vendor's marketplace description:** <h2 style="text-align:center;"><span style="color:#ff0000;"><strong>Mehr Sichtbarkeit. Mehr Vertrauen. Mehr Umsatz.</strong></span></h2>
+<p>Mit „<strong>Reich mit Weite – KI Edition</strong>“ verkaufst du ein Produkt, das Menschen zeigt, wie sie ohne Werbung, aber mit Strategie &amp; KI ihre Social-Media-Reichweite gezielt aufbauen – und zur Kundengewinnung nutzen.</p>
+<p><strong>Was Affiliates lieben werden:</strong><br />✅ 50 % Provision pro Sale – 298,50 € Verdienst je Verkauf<br />✅ Automatisiertes Webinar mit hoher Conversion<br />✅ Knapper Angebotszeitraum (3 Tage) erzeugt echten Verkaufsdruck<br />✅ Erprobtes Verkaufs-System mit echtem Social Proof<br />✅ Hochwertiger Content + Bonus-Tools für die Käufer</p>
+<p><strong>Zielgruppe:</strong><br />Content Creator, Coaches, Dienstleister, Berater, Networker &amp; Online-Marketer, die mehr Reichweite wollen – und bereit sind, dafür zu investieren.</p>
+<p> </p>
+<p>Steig jetzt ein, sichere dir deine Provisionen &amp; unterstütze dein Netzwerk mit einem echten Mehrwert!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/595777/adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51995/adminstore/
 - Sales page: https://www.reichmitweite.com/?utm_source=affiliate&utm_content=[AFFILIATE]
 - Vendor affiliate support: https://reichmitweite.com/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/595777/adminstore
@@ -67,7 +72,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reich mit Weite – Die Social-Media-Strategie, die verkauft!? — Typ: Member area and video courses, Anbieter: powerupbusiness, gelistet seit 2025-02-12
-- Wie viel kostet es? — 1331.2728 USD
+- Wie viel kostet es? — 1328.3028000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

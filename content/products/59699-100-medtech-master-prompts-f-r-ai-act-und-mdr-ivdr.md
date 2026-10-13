@@ -4,34 +4,34 @@ digistore24_product_id: 649025
 title: "100 MedTech Master-Prompts für AI Act und MDR/IVDR"
 vendor: "MindshiftDigitalStudio"
 product_type: "E-books"
-price: 103.68
+price: 103.45
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 31.11
+earnings_per_sale: 31.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/649025?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59699/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/649025"
 language: "de"
 ---
 # 100 MedTech Master-Prompts für AI Act und MDR/IVDR
 
 > Product ID `59699` · Digistore24 productId `649025` · [HTML profile page](../../produkte/100-medtech-master-prompts-f-r-ai-act-und-mdr-ivdr-59699.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $103.68 (Single payment) |
+| Price | $103.45 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $31.11 |
+| Earnings/sale* | $31.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -41,11 +41,37 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Medizintechnik 100 Master-Prompts Repository – KI-Compliance, EU AI Act & MDR/IVDR 2026/2027 Dieses digitale Produkt enthält 100 direkt nutzbare Master-Prompts im PDF-Format für Hersteller KI-gestützter Medizinprodukte sowie Teams aus Regulatory Affairs, Qualitätsmanagement, Produktentwicklung, Risk Management und Compliance. Das Repository unterstützt bei der strukturierten Vorbereitung von Dokum…
+**Vendor's marketplace description:** <p><strong>Medizintechnik 100 Master-Prompts Repository – KI-Compliance, EU AI Act &amp; MDR/IVDR 2026/2027</strong></p>
+<p>Dieses digitale Produkt enthält <strong>100 direkt nutzbare Master-Prompts im PDF-Format</strong> für Hersteller KI-gestützter Medizinprodukte sowie Teams aus Regulatory Affairs, Qualitätsmanagement, Produktentwicklung, Risk Management und Compliance.</p>
+<p>Das Repository unterstützt bei der strukturierten Vorbereitung von Dokumentations-, Prüf- und Governance-Aufgaben an der Schnittstelle von <strong>EU AI Act, MDR, IVDR und MedTech-KI</strong>.</p>
+<p><strong>Geeignet für:</strong></p>
+<ul>
+<li>Hersteller KI-gestützter Medizinprodukte</li>
+<li>Regulatory Affairs und Zulassungsverantwortliche</li>
+<li>Qualitätsmanagement und QMS-Teams</li>
+<li>Produktmanagement und Entwicklung</li>
+<li>Clinical Affairs und Risk Management</li>
+<li>SaMD-, IVD- und Diagnostik-Unternehmen</li>
+<li>Compliance- und Datenschutzteams</li>
+</ul>
+<p><strong>Themenschwerpunkte:</strong></p>
+<ul>
+<li>Hochrisiko-Einstufung und Konformitätsbewertung</li>
+<li>MDR-/IVDR-Schnittstellen</li>
+<li>technische Dokumentation und Audit Trails</li>
+<li>Risikomanagement und QMS</li>
+<li>Datenqualität, Bias und Daten-Governance</li>
+<li>Human Oversight und IFU-Textbausteine</li>
+<li>Post-Market Surveillance, Vigilanz und CAPA</li>
+<li>Drift, Modelländerungen und Audit-Vorbereitung</li>
+</ul>
+<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales PDF mit 100 Master-Prompts, Checklisten und Dokumentationshilfen</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
+<p>Das Repository dient als praktische Arbeits- und Dokumentationshilfe. Es ersetzt keine Rechtsberatung, CE-Zertifizierung, MDR-/IVDR-Konformitätsbewertung, technische Validierung, klinische Bewertung oder Beratung durch eine Benannte Stelle.</p>
+<p>Ein spezialisiertes B2B-Produkt für eine klar definierte MedTech-Zielgruppe mit hohem Dokumentations- und Compliance-Bedarf.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/649025?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59699/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/649025
 - Canonical redirect: https://www.digistore24.com/redir/649025/adminstore
 
@@ -90,7 +116,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 100 MedTech Master-Prompts für AI Act und MDR/IVDR? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
-- Wie viel kostet es? — 103.677912 USD
+- Wie viel kostet es? — 103.446612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

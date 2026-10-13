@@ -4,34 +4,34 @@ digistore24_product_id: 377512
 title: "1x1 Floristik - Vielfalt der Sträuße"
 vendor: "Elobana"
 product_type: "Member area and video courses"
-price: 372.23
+price: 371.4
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 45.16
+earnings_per_sale: 45.06
 cart_conversion_pct: 9
 cancel_rate_pct: 0.95
 categories: ["Education"]
 listed_since: "2021-03-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-straeusse/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/36299/adminstore/"
 sales_page: "https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-straeusse/"
 language: "de"
 ---
 # 1x1 Floristik - Vielfalt der Sträuße
 
 > Product ID `36299` · Digistore24 productId `377512` · [HTML profile page](../../produkte/1x1-floristik-vielfalt-der-str-u-e-36299.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $372.23 (Single payment) |
+| Price | $371.40 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $45.16 |
+| Earnings/sale* | $45.06 |
 | Cart conversion* | 9% |
 | Cancel rate* | 0.95% |
 | Vendor | Elobana |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 6 verschieden Straußbindevariationen für Profis oder Privatpersonen mit Freude an Blumen und der Floristik. Grundkenntnisse im Straußbinden ist Vorraussetzung für den Kurs.
+**Vendor's marketplace description:** <p>6 verschieden Straußbindevariationen für Profis oder Privatpersonen mit Freude an Blumen und der Floristik. Grundkenntnisse im Straußbinden ist Vorraussetzung für den Kurs.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-straeusse/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/36299/adminstore/
 - Sales page: https://elobana.de/online-kurse/onlinekurs-1x1-floristik-vielfalt-der-straeusse/
 - Canonical redirect: https://www.digistore24.com/redir/377512/adminstore
 
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1x1 Floristik - Vielfalt der Sträuße? — Typ: Member area and video courses, Anbieter: Elobana, gelistet seit 2021-03-05
-- Wie viel kostet es? — 372.22970200000003 USD
+- Wie viel kostet es? — 371.39927700000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

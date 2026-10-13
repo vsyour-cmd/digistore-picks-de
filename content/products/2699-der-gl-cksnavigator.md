@@ -4,16 +4,16 @@ digistore24_product_id: 22771
 title: "Der Glücksnavigator"
 vendor: "Erfolg-Intuitiv"
 product_type: "Downloads"
-price: 6.96
+price: 6.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.66
+earnings_per_sale: 26.6
 cart_conversion_pct: 20
 cancel_rate_pct: 6.43
 categories: ["Personal Development"]
 listed_since: "2014-03-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/gluecksnavigator-online-seminar/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/gluecksnavigator-online-seminar/"
@@ -22,16 +22,16 @@ language: "de"
 # Der Glücksnavigator
 
 > Product ID `2699` · Digistore24 productId `22771` · [HTML profile page](../../produkte/der-gl-cksnavigator-2699.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $6.96 (Single payment, Installment) |
+| Price | $6.94 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.66 |
+| Earnings/sale* | $26.60 |
 | Cart conversion* | 20% |
 | Cancel rate* | 6.43% |
 | Vendor | Erfolg-Intuitiv |
@@ -41,7 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Glücksnavigator ist das Navigationssystem für Glück und Erfolg im Leben. Lernen Sie Schritt für Schritt, wie Sie Ihr Unterbewusstsein gezielt auf Glück und Erfolg programmieren, wodurch Sie Ihre Lebensqualität massiv steigern. Komprimiertes Wissen, aufgeteilt in acht Videolektionen für ein tiefgreifendes Glücks- und Erfolgscoaching. Jede Videolektion enthält gezielte Aufgaben, durch die Sie di…
+**Vendor's marketplace description:** <p><strong>Der Glücksnavigator </strong>ist das Navigationssystem für Glück und Erfolg im Leben.</p>
+<p>Lernen Sie Schritt für Schritt, wie Sie Ihr Unterbewusstsein gezielt auf Glück und Erfolg programmieren, wodurch Sie Ihre Lebensqualität massiv steigern.</p>
+<p>Komprimiertes Wissen, aufgeteilt in acht Videolektionen für ein tiefgreifendes Glücks- und Erfolgscoaching.</p>
+<p>Jede Videolektion enthält gezielte Aufgaben, durch die Sie die Anziehungskraft für glückliche Situationen aktivieren und eine erfolgreiche Lebensweise fest verankern.</p>
+<p><strong>Direktverkauf:</strong></p>
+<ol>
+<li><strong>Webinar-Einladeseite:</strong><br /><br /><strong>https://www.digistore24.com/content/22771/7925/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong><br /> </li>
+<li><strong>Webinar-Aufzeichnung:</strong><br /><br /><strong>https://www.digistore24.com/content/22771/9637/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></li>
+</ol>
+<p><span style="background-color:#ffff00;"><strong>Vertrauensaufbauender Gratis-Content dazu (Verkauf über Funnel):</strong></span></p>
+<ol>
+<li><strong>Glücklichsein-Checkliste (gratis) + Upsell auf passenden Schnell-Videokurs (7,-€):</strong><br /><br /><strong>https://www.digistore24.com/content/249553/23177/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong><br /> </li>
+</ol>
+<p>&gt;&gt; Bei Eitragung durchläuft der Interessent einen Funnel mit wertvollen Tipps - Das steigert die Kaufrate im folgenden Webinar - Zudem erhält der Interessent noch weiter Angebote</p>
+<p><span style="background-color:#ffff00;"><strong>&gt;&gt; Folgeprovisionen bei weiteren Käufen</strong></span></p>
+<ul>
+<li><strong>Sehr starke Konvertierung !!!</strong></li>
+<li><strong>Verkauf über tägliches Webeniar.</strong></li>
+<li><strong>Kann jederzeit beworben werden.</strong></li>
+</ul>
+<p><strong>Bei Fragen: <span style="background-color:#ffff00;">info@erfolg-intuitiv.de</span></strong></p>
 
 ## 2. Links
 
@@ -91,7 +111,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Glücksnavigator? — Typ: Downloads, Anbieter: Erfolg-Intuitiv, gelistet seit 2014-03-18
-- Wie viel kostet es? — 6.958926 USD
+- Wie viel kostet es? — 6.943401000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

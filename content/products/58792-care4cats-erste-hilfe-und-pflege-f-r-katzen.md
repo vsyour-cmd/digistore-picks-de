@@ -4,16 +4,16 @@ digistore24_product_id: 671225
 title: "Care4Cats Erste Hilfe und Pflege für Katzen"
 vendor: "aCATemy-Katzenschule-Petra-Ott"
 product_type: "Member area and video courses"
-price: 137.3
+price: 136.99
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 27.45
+earnings_per_sale: 27.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Education","Family & Children"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://acatemy-katzen.app.mentortools.com/acatemy-care4cats-erstehilfe-katzenonlinekurs?aff=adminstore#aff=adminstore"
 sales_page: "https://acatemy-katzen.app.mentortools.com/acatemy-care4cats-erstehilfe-katzenonlinekurs"
@@ -22,16 +22,16 @@ language: "de"
 # Care4Cats Erste Hilfe und Pflege für Katzen
 
 > Product ID `58792` · Digistore24 productId `671225` · [HTML profile page](../../produkte/care4cats-erste-hilfe-und-pflege-f-r-katzen-58792.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $137.30 (Single payment, Installment) |
+| Price | $136.99 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $27.45 |
+| Earnings/sale* | $27.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aCATemy-Katzenschule-Petra-Ott |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** CARE4CATS® – Katzenkrankheiten · Erste Hilfe · Entspannt zum Tierarzt Ein umfangreicher Onlinekurs für Katzenhalter, die im Alltag und im Notfall mehr Sicherheit im Umgang mit ihrer Katze gewinnen möchten. CARE4CATS® vermittelt praxisnahes Wissen zu häufigen Katzenkrankheiten, Erster Hilfe, Vergiftungen und Reanimation, Schmerzerkennung, Körperpflege, Medikamentengabe sowie stressfreiem Tierarztbe…
+**Vendor's marketplace description:** <h2>CARE4CATS® – Katzenkrankheiten · Erste Hilfe · Entspannt zum Tierarzt</h2>
+<p>Ein umfangreicher Onlinekurs für Katzenhalter, die im Alltag und im Notfall <strong>mehr Sicherheit im Umgang mit ihrer Katze</strong> gewinnen möchten.</p>
+<p>CARE4CATS® vermittelt praxisnahes Wissen zu <strong>häufigen Katzenkrankheiten, Erster Hilfe, Vergiftungen und Reanimation, Schmerzerkennung, Körperpflege, Medikamentengabe sowie stressfreiem Tierarztbesuch und Transporttraining</strong>.</p>
+<p>Der Kurs enthält <strong>91 Seiten PDF-Skripten, 36 besprochene Lernfolien und über 40 Minuten Videomaterial</strong> und ist jederzeit online abrufbar.</p>
+<p>Die Inhalte stammen von erfahrenen Profis aus der Praxis – unter anderem aus der <strong>Tierarztpraxis Entenfellner</strong>.</p>
+<p><strong>Ideal für Affiliates mit einer Community rund um Katzen, Tiergesundheit, Katzenhaltung, Tierschutz und verantwortungsvolle Tierbetreuung.</strong></p>
 
 ## 2. Links
 
@@ -96,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Care4Cats Erste Hilfe und Pflege für Katzen? — Typ: Member area and video courses, Anbieter: aCATemy-Katzenschule-Petra-Ott, gelistet seit 2026-08-31
-- Wie viel kostet es? — 137.295912 USD
+- Wie viel kostet es? — 136.989612 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

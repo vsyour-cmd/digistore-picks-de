@@ -4,34 +4,34 @@ digistore24_product_id: 412270
 title: "Social Recruiting Pro | Recruiting fürs Handwerk"
 vendor: "SOMEONMARKETING"
 product_type: "Remote service provided electronically"
-price: 2790.29
+price: 2784.07
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 418.54
+earnings_per_sale: 417.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Marketing Services"]
 listed_since: "2026-09-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://someonmarketing.com/social-media-betreuung/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59225/adminstore/"
 sales_page: "https://someonmarketing.com/social-media-betreuung/"
 language: "de"
 ---
 # Social Recruiting Pro | Recruiting fürs Handwerk
 
 > Product ID `59225` · Digistore24 productId `412270` · [HTML profile page](../../produkte/social-recruiting-pro-recruiting-f-rs-handwerk-59225.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2790.29 (Single payment) |
+| Price | $2784.07 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $418.54 |
+| Earnings/sale* | $417.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SOMEONMARKETING |
@@ -41,11 +41,33 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Viele Handwerksbetriebe suchen aktuell neue Mitarbeiter und haben Schwierigkeiten, passende Bewerber zu erreichen. Genau hier setzt Social Recruiting Pro von someonmarketing® an. Als Affiliate vermittelst du eine professionelle Recruiting Lösung speziell für Handwerksbetriebe und erhältst 15 % Provision pro erfolgreichem Verkauf. Mit Social Recruiting Pro unterstützen wir Handwerksbetriebe dabei, …
+**Vendor's marketplace description:** <p>Viele Handwerksbetriebe suchen aktuell neue Mitarbeiter und haben Schwierigkeiten, passende Bewerber zu erreichen. Genau hier setzt Social Recruiting Pro von <strong>someonmarketing®</strong> an.</p>
+<p> </p>
+<p><strong>Als Affiliate vermittelst du eine professionelle Recruiting Lösung speziell für Handwerksbetriebe und erhältst <span style="color:#008000;">15 % Provision </span>pro erfolgreichem Verkauf.</strong></p>
+<p>Mit Social Recruiting Pro unterstützen wir Handwerksbetriebe dabei, offene Stellen über Facebook &amp; Instagram direkt bei potenziellen Bewerbern aus der eigenen Region sichtbar zu machen. Die Bewerbung erfolgt schnell und unkompliziert über ein kurzes Formular direkt per Smartphone.</p>
+<p> </p>
+<p><strong>Das bekommt dein geworbener Kunde:</strong></p>
+<p><span style="color:#008000;"><strong>✓</strong></span> Individuelle Strategie und Zielgruppenanalyse</p>
+<p><strong><span style="color:#008000;">✓</span></strong> Recruiting Kampagne über Facebook &amp; Instagram</p>
+<p><span style="color:#008000;"><strong>✓</strong></span> Einfache Bewerbung direkt per Smartphone</p>
+<p><span style="color:#008000;"><strong>✓</strong></span> Professionelle Texte und Grafiken passend zum Betrieb</p>
+<p><span style="color:#008000;"><strong>✓</strong></span> Zwei individuelle Werbeanzeigen</p>
+<p><span style="color:#008000;"><strong>✓</strong></span> Zielgerichtete Ansprache potenzieller Bewerber</p>
+<p><span style="color:#008000;"><strong>✓</strong></span> Neue Bewerbungen direkt per E Mail</p>
+<p><strong><span style="color:#008000;">✓</span></strong> Persönlicher WhatsApp Business Support</p>
+<p><span style="color:#008000;"><strong>✓</strong></span> Laufende Optimierung während der Kampagne</p>
+<p><span style="color:#008000;"><strong>✓</strong></span> Monatliche Auswertung als PDF</p>
+<p><strong>✓</strong> DSGVO und AGG konforme Umsetzung</p>
+<p><strong>Aktionspreis:</strong> 2.490 € netto einmalig</p>
+<p> </p>
+<p>Die Kampagne läuft 30 Tage. Eine Verlängerung ist anschließend für 1.290 € netto pro Monat möglich.</p>
+<p>Das Werbebudget ist nicht im Paketpreis enthalten und wird direkt über das eigene Werbekonto des Unternehmens abgerechnet.</p>
+<p> </p>
+<p><strong>Ideal zur Bewerbung bei Inhabern und Geschäftsführern von Handwerksbetrieben, die aktuell Fachkräfte oder andere Mitarbeiter suchen.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://someonmarketing.com/social-media-betreuung/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59225/adminstore/
 - Sales page: https://someonmarketing.com/social-media-betreuung/
 - Vendor affiliate support: https://www.someonmarketing.com/affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/412270/adminstore
@@ -101,7 +123,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Recruiting Pro | Recruiting fürs Handwerk? — Typ: Remote service provided electronically, Anbieter: SOMEONMARKETING, gelistet seit 2026-09-14
-- Wie viel kostet es? — 2790.2940000000003 USD
+- Wie viel kostet es? — 2784.0690000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

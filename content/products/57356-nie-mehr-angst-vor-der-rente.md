@@ -4,16 +4,16 @@ digistore24_product_id: 707524
 title: "Nie mehr Angst vor der Rente"
 vendor: "buergelconsulting"
 product_type: "E-books"
-price: 29.27
+price: 29.2
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.79
+earnings_per_sale: 8.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/707524?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/707524"
@@ -22,16 +22,16 @@ language: "de"
 # Nie mehr Angst vor der Rente
 
 > Product ID `57356` · Digistore24 productId `707524` · [HTML profile page](../../produkte/nie-mehr-angst-vor-der-rente-57356.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $29.27 (Single payment) |
+| Price | $29.20 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.79 |
+| Earnings/sale* | $8.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | buergelconsulting |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die gesetzliche Rente wird nicht reichen. Das ist keine Meinung – das ist Mathematik. Das Rentenniveau in Deutschland sinkt seit Jahren. Wer heute arbeitet und ausschließlich auf die gesetzliche Rente setzt, wird im Alter mit erheblichen finanziellen Einschränkungen leben müssen. Die gute Nachricht: Du kannst heute etwas dagegen tun. Was du in diesem E-Book lernst: ✅ Wie groß deine persönliche Ren…
+**Vendor's marketplace description:** <p>Die gesetzliche Rente wird nicht reichen.</p>
+<p>Das ist keine Meinung – das ist Mathematik. Das Rentenniveau in Deutschland sinkt seit Jahren. Wer heute arbeitet und ausschließlich auf die gesetzliche Rente setzt, wird im Alter mit erheblichen finanziellen Einschränkungen leben müssen.</p>
+<p>Die gute Nachricht: Du kannst heute etwas dagegen tun.</p>
+<hr />
+<p><strong>Was du in diesem E-Book lernst:</strong></p>
+<p>✅ Wie groß deine persönliche Rentenlücke wirklich ist<br />✅ Warum das gesetzliche Rentensystem alleine nicht ausreicht<br />✅ Das 3-Säulen-Modell – so baust du deine Altersvorsorge richtig auf<br />✅ Betriebliche Altersvorsorge – dieser Fehler kostet dich bares Geld<br />✅ Private Rentenversicherung, ETF-Sparplan, Rürup &amp; Riester – was passt zu dir?<br />✅ Wie du Steuern bei der Altersvorsorge legal sparst<br />✅ Deine persönliche Altersvorsorge-Checkliste zum Abhaken<br />✅ Die 6 häufigsten Fehler – und wie du sie vermeidest</p>
+<hr />
+<p><strong>Für wen ist dieses E-Book?</strong></p>
+<p>→ Alle die sich Sorgen um ihre Rente machen aber nicht wissen wo sie anfangen sollen<br />→ Arbeitnehmer die ihre betriebliche Altersvorsorge optimieren wollen<br />→ Selbstständige die keine gesetzliche Rente haben und privat vorsorgen müssen<br />→ Alle die endlich einen klaren Plan für ihre Altersvorsorge wollen<br />→ Menschen die zu spät angefangen haben und aufholen wollen</p>
+<hr />
+<p><strong>Das sagt die Statistik:</strong></p>
+<p>Jeder zweite Deutsche hat keine ausreichende private Altersvorsorge. Die durchschnittliche Rentenlücke liegt bei über 800 € pro Monat. Das bedeutet: Monat für Monat, Jahr für Jahr weniger als nötig – für den Rest des Lebens.</p>
+<p>Dieses E-Book zeigt dir wie du das änderst. Heute. Mit konkreten Schritten die jeder umsetzen kann.</p>
+<hr />
+<p><strong>Über den Autor:</strong></p>
+<p>Marco Bürgel ist Finanz- &amp; Vermögensberater bei Generali mit Sitz in Deutschland. Er berät Privatpersonen, Familien und Selbstständige dabei, eine solide Altersvorsorge aufzubauen die wirklich funktioniert – ohne Versprechen die nicht gehalten werden können.</p>
 
 ## 2. Links
 
@@ -73,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Nie mehr Angst vor der Rente? — Typ: E-books, Anbieter: buergelconsulting, gelistet seit 2026-07-02
-- Wie viel kostet es? — 29.270072000000003 USD
+- Wie viel kostet es? — 29.204772000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

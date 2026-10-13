@@ -4,16 +4,16 @@ digistore24_product_id: 312437
 title: "Immobilien-Onlinekurs-Bundle für Immobilien-Hungrige"
 vendor: "immlab"
 product_type: "Member area and video courses"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.68
+earnings_per_sale: 45.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-03-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://produkte.immlab.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://produkte.immlab.de/"
@@ -22,16 +22,16 @@ language: "de"
 # Immobilien-Onlinekurs-Bundle für Immobilien-Hungrige
 
 > Product ID `32484` · Digistore24 productId `312437` · [HTML profile page](../../produkte/immobilien-onlinekurs-bundle-f-r-immobilien-hungrige-32484.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.34 (Single payment, Subscription) |
+| Price | $91.14 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.68 |
+| Earnings/sale* | $45.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | immlab |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Es bedeutet uns sehr viel, dass du darüber nachdenkst, unseren Onlinekurs zu vermarkten. Das Immobilien-Crashkurs-Bundle wurde von immlab produziert. Darin geben die Experten Erik Renk, Paul Hinrichs und Till Salewski Investoren Einblicke, wie sie mit Immobilien ihre Ziele erreichen können. Wir wissen, wieviel Aufwand du betreiben musstest, damit du die Zielgruppe mit deiner Strategie erreichst. D…
+**Vendor's marketplace description:** <p>Es bedeutet uns sehr viel, dass du darüber nachdenkst, unseren Onlinekurs zu vermarkten.</p>
+<p>Das Immobilien-Crashkurs-Bundle wurde von immlab produziert. Darin geben die Experten Erik Renk, Paul Hinrichs und Till Salewski Investoren Einblicke, wie sie mit Immobilien ihre Ziele erreichen können.</p>
+<p>Wir wissen, wieviel Aufwand du betreiben musstest, damit du die Zielgruppe mit deiner Strategie erreichst. Deswegen geben wir dir </p>
+<p><span style="background-color:#ffcc00;">50 % Affiliate Provision möglich</span></p>
+<p>Bisher haben sich schon mehr als 2.000 Teilnehmer in unsere Kurse eingetragen. Somit gehören wir in Deutschland zu den Immobilien Onlinekursen mit der größten Reichweite. Wir freuen uns, wenn du dazu beiträgst, unser langjähriges Immobilien-Wissen den hungrigen Investoren zur Verfügung zu stellen.</p>
+<p>Da wir auch in Zukunft weitere Onlinekurse produzieren werden, kannst du deine Kunden weiterhin mit wertvollem Content beliefern und zugleich Geld verdienen.</p>
+<p>Wir freuen uns auf die gemeinsame Zusammenarbeit.</p>
+<p>Die besten Investorengrüße aus Leipzig</p>
+<p>Erik Renk, Paul Hinrichs &amp; Till Salewski</p>
 
 ## 2. Links
 
@@ -93,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Immobilien-Onlinekurs-Bundle für Immobilien-Hungrige? — Typ: Member area and video courses, Anbieter: immlab, gelistet seit 2020-03-12
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

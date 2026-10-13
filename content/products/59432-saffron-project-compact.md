@@ -4,16 +4,16 @@ digistore24_product_id: 724803
 title: "​Saffron Project Compact | Проект Шафран Компакт"
 vendor: "fafenrotirina9b234"
 product_type: "E-books"
-price: 560.3
+price: 559.05
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 56.03
+earnings_per_sale: 55.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724803?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/724803"
@@ -22,16 +22,16 @@ language: "de"
 # ​Saffron Project Compact | Проект Шафран Компакт
 
 > Product ID `59432` · Digistore24 productId `724803` · [HTML profile page](../../produkte/saffron-project-compact-59432.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $560.30 (Single payment) |
+| Price | $559.05 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $56.03 |
+| Earnings/sale* | $55.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fafenrotirina9b234 |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ​EN: Welcome to the affiliate program! The "Saffron Project Compact" is an exclusive digital methodology and sophisticated business architecture tailored for capital diversification and high-yield agricultural investment. Created in Russian for Russian-speaking entrepreneurs and investors, this comprehensive digital asset provides an elite roadmap to enter the luxury saffron market. Benefit from a…
+**Vendor's marketplace description:** <p style="padding-left:40px;text-align:justify;">​EN: Welcome to the affiliate program! The "Saffron Project Compact"  is an exclusive digital methodology and sophisticated business architecture tailored for capital diversification and high-yield agricultural investment. Created in Russian for Russian-speaking entrepreneurs and investors, this comprehensive digital asset provides an elite roadmap to enter the luxury saffron market. Benefit from a high average order value and exceptional commissions for quality traffic.</p>
+<p style="padding-left:40px;">​RU: Добро пожаловать в партнерскую программу! «Проект Шафран Компакт » — это эксклюзивная цифровая методология и продуманная бизнес-архитектура, созданная для диверсификации капитала и доходных инвестиций в агробизнес. Этот исчерпывающий цифровой продукт на русском языке предназначен для русскоязычных предпринимателей и инвесторов, предлагая элитную дорожную карту для успешного выхода на рынок шафрана. Высокий чек и отличные комиссионные для партнеров.</p>
+<p style="padding-left:40px;"> </p>
 
 ## 2. Links
 
@@ -86,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ​Saffron Project Compact | Проект Шафран Компакт? — Typ: E-books, Anbieter: fafenrotirina9b234, gelistet seit 2026-09-20
-- Wie viel kostet es? — 560.3000000000001 USD
+- Wie viel kostet es? — 559.0500000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

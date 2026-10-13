@@ -12,17 +12,17 @@ cart_conversion_pct: 55
 cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing"]
 listed_since: "2025-04-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://vierstelligimmonat.de/5min?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52361/adminstore/"
 sales_page: "https://vierstelligimmonat.de/5min"
 language: "de"
 ---
 # 5-min Leitfaden: Dein eigener Online Kurs (Freebie)
 
 > Product ID `52361` · Digistore24 productId `609924` · [HTML profile page](../../produkte/5-min-leitfaden-dein-eigener-online-kurs-freebie-52361.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb jetzt unser Freebie und profitiere von 50% Provision auf alle Addons + Upsells! Über 100€ Provision im Funnel möglich! Sichere dir jetzt unser kostenloses Ebook! Egal ob Anfänger, oder schon dabei - dieses E-Book ist der perfekte Leitfaden für dich! Du willst einen Online-Kurs erstellen, aber weißt nicht, wo du anfangen sollst? Dann ist dieser Spezialreport genau dein Einstieg! In nur 5 Min…
+**Vendor's marketplace description:** <p>Bewirb jetzt unser Freebie und profitiere von 50% Provision auf alle Addons + Upsells! </p>
+<p>Über 100€ Provision im Funnel  möglich!</p>
+<p> </p>
+<p>Sichere dir jetzt unser kostenloses Ebook!</p>
+<p> </p>
+<p>Egal ob Anfänger, oder schon dabei - dieses E-Book ist der perfekte Leitfaden für dich!</p>
+<p> </p>
+<p> </p>
+<p>Du willst einen Online-Kurs erstellen, aber weißt nicht, wo du anfangen sollst?</p>
+<p>Dann ist dieser Spezialreport genau dein Einstieg! In nur 5 Minuten erhältst du einen klaren Überblick über alle Schritte – von der Themenwahl über die Plattform-Auswahl bis hin zur Vermarktung.</p>
+<p> </p>
+<p>Ideal für Anfänger und alle, die sofort loslegen wollen.</p>
+<p>✔ Verständlich geschrieben</p>
+<p>✔ Ohne Vorwissen umsetzbar</p>
+<p>✔ Für alle Themen geeignet</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://vierstelligimmonat.de/5min?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52361/adminstore/
 - Sales page: https://vierstelligimmonat.de/5min
 - Canonical redirect: https://www.digistore24.com/redir/609924/adminstore
 
@@ -61,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 5-min Leitfaden: Dein eigener Online Kurs (Freebie)? — Typ: E-books, Anbieter: MoneyCreators, gelistet seit 2025-04-29
-- Wie viel kostet es? — 0.50427 USD
+- Wie viel kostet es? — 0.5031450000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

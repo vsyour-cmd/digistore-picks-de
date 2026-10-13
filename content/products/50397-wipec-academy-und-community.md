@@ -4,34 +4,34 @@ digistore24_product_id: 23837
 title: "WiPeC-Academy und Community"
 vendor: "wipec100"
 product_type: "Downloads"
-price: 18.74
+price: 18.69
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 8.43
+earnings_per_sale: 8.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2014-04-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://wipec.de/academy/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50397/adminstore/"
 sales_page: "https://wipec.de/academy/"
 language: "de"
 ---
 # WiPeC-Academy und Community
 
 > Product ID `50397` · Digistore24 productId `23837` · [HTML profile page](../../produkte/wipec-academy-und-community-50397.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.74 (Subscription) |
+| Price | $18.69 (Subscription) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $8.43 |
+| Earnings/sale* | $8.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wipec100 |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ihr Schlüssel zu mehr Resilienz, Stressmanagement und persönlichem Erfolg im Privat- und Berufsalltag Mehr Gelassenheit. Mehr Wiederstandskraft. Ein erfüllteres Leben – wissenschaftlich fundiert und praxisnah. Mit der WiPeC Academy erhalten Sie die besten, wissenschaftlich gestützten Strategien aus der positiven Psychologie sowie der Resilienz- und Glücksforschung, um Stress zu bewältigen, Ängste …
+**Vendor's marketplace description:** <h2><em>Ihr Schlüssel zu mehr Resilienz, Stressmanagement und persönlichem Erfolg im Privat- und Berufsalltag</em></h2>
+<div>
+<div>
+<h4>Mehr Gelassenheit. Mehr Wiederstandskraft. Ein erfüllteres Leben – wissenschaftlich fundiert und praxisnah.</h4>
+<p>Mit der WiPeC Academy erhalten Sie die besten, <strong>wissenschaftlich gestützten Strategien aus der positiven Psychologie sowie der Resilienz- und Glücksforschung</strong>, um Stress zu bewältigen, Ängste zu überwinden, besser zu schlafen, innere Ruhe zu finden und Ihre persönliche Weiterentwicklung zu fördern.</p>
+<p>Für alle, die im Alltag und Beruf mehr Gelassenheit, Resilienz und nachhaltigen Erfolg im Leben suchen: Praxisnahe Unterstützung für Ihre persönliche und berufliche Weiterentwicklung.</p>
+</div>
+</div>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wipec.de/academy/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50397/adminstore/
 - Sales page: https://wipec.de/academy/
 - Canonical redirect: https://www.digistore24.com/redir/23837/adminstore
 
@@ -78,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist WiPeC-Academy und Community? — Typ: Downloads, Anbieter: wipec100, gelistet seit 2014-04-07
-- Wie viel kostet es? — 18.736432 USD
+- Wie viel kostet es? — 18.694632 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

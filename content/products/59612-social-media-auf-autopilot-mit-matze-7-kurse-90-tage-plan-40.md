@@ -4,16 +4,16 @@ digistore24_product_id: 736655
 title: "Social Media auf Autopilot mit Matze – 7 Kurse + 90-Tage-Plan | 40 %"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 564.07
+price: 562.81
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 225.62
+earnings_per_sale: 225.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Marketing Services"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/social-media-megapaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/social-media-megapaket/"
@@ -22,16 +22,16 @@ language: "de"
 # Social Media auf Autopilot mit Matze – 7 Kurse + 90-Tage-Plan | 40 %
 
 > Product ID `59612` · Digistore24 productId `736655` · [HTML profile page](../../produkte/social-media-auf-autopilot-mit-matze-7-kurse-90-tage-plan-40-59612.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $564.07 (Single payment) |
+| Price | $562.81 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $225.62 |
+| Earnings/sale* | $225.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Von planlosem Posten zu deiner ersten durchdachten Kampagne. Das Social Media Megapaket mit Matze verbindet sieben deutsche Praxiskurse mit einem 90-Tage-Plan. Für Einsteiger und Selbstständige, die Inhalte planen, ein Angebot entwickeln und mögliche Vertriebswege praktisch kennenlernen möchten. Social Media auf Autopilot UGC-Praxispaket Affiliate Marketing für Anfänger TikTok Shop Affiliate für A…
+**Vendor's marketplace description:** <h2>Von planlosem Posten zu deiner ersten durchdachten Kampagne.</h2>
+<p>Das Social Media Megapaket mit Matze verbindet sieben deutsche Praxiskurse mit einem 90-Tage-Plan. Für Einsteiger und Selbstständige, die Inhalte planen, ein Angebot entwickeln und mögliche Vertriebswege praktisch kennenlernen möchten.</p>
+<ul>
+<li>Social Media auf Autopilot</li>
+<li>UGC-Praxispaket</li>
+<li>Affiliate Marketing für Anfänger</li>
+<li>TikTok Shop Affiliate für Anfänger</li>
+<li>Mini-Produkte mit Canva</li>
+<li>Pinterest-Praxispaket</li>
+<li>Faceless-Videos erstellen</li>
+</ul>
+<h3>Zusätzlich: ein Plan für die Umsetzung</h3>
+<p>90-Tage-Arbeitsbuch mit 13 Wochenabschnitten, bearbeitbarer Contentkalender und drei siebentägige Kampagnen mit Textentwürfen und Bildideen.</p>
+<p><strong>599 € einmalig inkl. MwSt. Kein Abo. 40 % Affiliate-Provision gemäß Digistore24-Abrechnung.</strong></p>
+<p>Produktspezifisches Matze-Szenencover, Social-Media-Texte, E-Mail-Vorlage und Partnerlink-Generator auf der Affiliate-Support-Seite.</p>
+<p>Schriftliche Selbstlernmaterialien als acht ZIP-Downloads; keine Videolektionen, kein Live-Coaching und keine persönliche Betreuung. Autopilot bedeutet vorbereitete und geplante Inhalte. Keine Garantie für Einkommen, Verkäufe oder Reichweite. Externe Tools, Konten, Werbung und Plattformfreigaben sind nicht enthalten. Die sieben Kurse überschneiden sich mit bestehenden Matze-Paketen.</p>
+<p>Affiliate-Support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 
@@ -85,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media auf Autopilot mit Matze – 7 Kurse + 90-Tage-Plan | 40 %? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 564.0652160000001 USD
+- Wie viel kostet es? — 562.806816 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 57475
 title: "Videokurs Energiebild malen \"Level 1 - Die Blume des Lebens\""
 vendor: "RaulFalco"
 product_type: "Member area and video courses"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.49
+earnings_per_sale: 19.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2015-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://energiebilder-selber-malen.de/blume-des-lebens-malen/?aff=adminstore#aff=adminstore"
 sales_page: "https://energiebilder-selber-malen.de/blume-des-lebens-malen/"
@@ -22,16 +22,16 @@ language: "de"
 # Videokurs Energiebild malen "Level 1 - Die Blume des Lebens"
 
 > Product ID `9399` · Digistore24 productId `57475` · [HTML profile page](../../produkte/videokurs-energiebild-malen-level-1-die-blume-des-lebens-9399.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.97 (Single payment) |
+| Price | $64.83 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.49 |
+| Earnings/sale* | $19.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RaulFalco |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hallo, wir sind Karsten „Raul Falco“ Wagner und Jeannette Wagner. Wir sind ein Künstlerpaar aus Sachsen und malen seit 2010 Energiebilder und bilden mittlerweile auch seit 2013 Menschen aus, dieses selbst zu erlernen. Wir haben all unsere Erfahrung der letzten Jahre zusammen genommen und den ersten Teil einer Online Videokursreihe geschaffen, die sich speziell mit dem Thema Energiebilder beschäfti…
+**Vendor's marketplace description:** <p>Hallo, wir sind Karsten „Raul Falco“ Wagner und Jeannette Wagner. Wir sind ein Künstlerpaar aus Sachsen und malen seit 2010 Energiebilder und bilden mittlerweile auch seit 2013 Menschen aus, dieses selbst zu erlernen.</p>
+<p>Wir haben all unsere Erfahrung der letzten Jahre zusammen genommen und den ersten Teil einer Online Videokursreihe geschaffen, die sich speziell mit dem Thema Energiebilder beschäftigt. Im Level 1 lernst Du das wohl bekannteste und unserer Meinung nach auch kraftvollste Symbol kennen,<strong> „Die Blume des Lebens“</strong>. Die Blume des Lebens ist das Symbol der Erdung, sie wirkt auf alle Bereiche des Lebens harmonisierend.</p>
+<p>Wir würden uns freuen wenn Du Interesse hast unseren tollen Kurs promoten zu wollen.</p>
+<p> </p>
+<p>Die Verkaufsseite findest Du hier: <strong><a href="https://energiebilder-selber-malen.de/blume-des-lebens-malen/" target="_blank" rel="noreferrer noopener">Verkaufsseite</a></strong></p>
+<p> </p>
+<p>Mehr Hinweise und Banner zu unserem Partnerprogramm findest Du hier: <strong><a href="https://energiebilder-selber-malen.de/affiliate-info" target="_blank" rel="noreferrer noopener">Partnerpogramm</a></strong></p>
+<p> </p>
 
 ## 2. Links
 
@@ -98,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs Energiebild malen "Level 1 - Die Blume des Lebens"? — Typ: Member area and video courses, Anbieter: RaulFalco, gelistet seit 2015-08-27
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

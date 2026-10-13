@@ -4,34 +4,34 @@ digistore24_product_id: 518323
 title: "Blütengarten Onlinekurs"
 vendor: "BluetenGarten"
 product_type: "Member area and video courses"
-price: 206.22
+price: 205.76
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 61.87
+earnings_per_sale: 61.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2023-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://bluetengarten.mydigibiz24.com/bluetengarten-gartenkurs-online?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/45629/adminstore/"
 sales_page: "https://bluetengarten.mydigibiz24.com/bluetengarten-gartenkurs-online"
 language: "de"
 ---
 # Blütengarten Onlinekurs
 
 > Product ID `45629` · Digistore24 productId `518323` · [HTML profile page](../../produkte/bl-tengarten-onlinekurs-45629.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $206.22 (Single payment) |
+| Price | $205.76 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $61.87 |
+| Earnings/sale* | $61.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BluetenGarten |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** BlütenGarten - deine Onlinekurse für einen ganzjährig blühenden Gartentraum In fünf Wochen lernst du in einfachen Schritten alles zur Gestaltung eines Beetes mit pflegeleichten Stauden, Gehölzen und Zwiebelblumen, von der Beetplanung über die Erstellung deiner Einkaufsliste bis zum Einpflanzen. Basis:In diesem Selbstlernkurs erwarten dich 17 Videolektionen, die zusammen mit Arbeitsmaterial dir die…
+**Vendor's marketplace description:** <h2>BlütenGarten - deine Onlinekurse für einen ganzjährig blühenden Gartentraum</h2>
+<p>In fünf Wochen lernst du in einfachen Schritten alles zur Gestaltung eines Beetes mit pflegeleichten Stauden, Gehölzen und Zwiebelblumen, von der Beetplanung über die Erstellung deiner Einkaufsliste bis zum Einpflanzen.</p>
+<ul>
+<li style="text-align:left;"><strong>Basis:</strong><br />In diesem Selbstlernkurs erwarten dich 17 Videolektionen, die zusammen mit Arbeitsmaterial dir die Inhalte der 5 Meilensteine anschaulich vermitteln. Ergänzende Praxisvideos geben dir einen Einblick zur Umsetzung im Garten.</li>
+<li style="text-align:left;"><strong>Standard:</strong><br />In diesem persönlich betreuten Gartenkurs erwarten dich 6 Live Coaching-Sessions und zahlreiche Videolektionen, die zusammen mit Arbeitsmaterial dir die Inhalte der 5 Meilensteine anschaulich vermitteln. Mit umfangreichen Bonus-Material.</li>
+<li style="text-align:left;"><strong>Premium<br /></strong>In diesem persönlich betreuten Gartenkurs erwarten dich 6 Live Coaching-Sessions und zahlreiche Videolektionen, die zusammen mit Arbeitsmaterial dir die Inhalte der 5 Meilensteine anschaulich vermitteln. Du erhältst individuelles Coaching zu deinen speziellen Fragen in zwei zusätzlichen Onlineterminen. Mit umfangreichen Bonus-Material und wertvollen Extras.</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://bluetengarten.mydigibiz24.com/bluetengarten-gartenkurs-online?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/45629/adminstore/
 - Sales page: https://bluetengarten.mydigibiz24.com/bluetengarten-gartenkurs-online
 - Canonical redirect: https://www.digistore24.com/redir/518323/adminstore
 
@@ -95,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Blütengarten Onlinekurs? — Typ: Member area and video courses, Anbieter: BluetenGarten, gelistet seit 2023-09-27
-- Wie viel kostet es? — 206.224018 USD
+- Wie viel kostet es? — 205.763943 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

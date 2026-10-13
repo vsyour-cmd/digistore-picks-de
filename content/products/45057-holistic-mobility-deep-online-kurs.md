@@ -4,34 +4,34 @@ digistore24_product_id: 512303
 title: "Holistic Mobility DEEP [Online Kurs]"
 vendor: "timboettner"
 product_type: "Member area and video courses"
-price: 328.65
+price: 327.92
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 65.73
+earnings_per_sale: 65.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/512303?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/45057/adminstore/"
 sales_page: "https://www.digistore24.com/product/512303"
 language: "de"
 ---
 # Holistic Mobility DEEP [Online Kurs]
 
 > Product ID `45057` · Digistore24 productId `512303` · [HTML profile page](../../produkte/holistic-mobility-deep-online-kurs-45057.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $328.65 (Single payment, Installment) |
+| Price | $327.92 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $65.73 |
+| Earnings/sale* | $65.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | timboettner |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der DEEP Kurs wendet sich speziell an dich als Trainer, Coach, Therapeut, Gesundheitsexperte oder -enthusiast. Werde zum holistischen Bewegungsexperten mit einer Synergie aus moderner Wissenschaft, altbewährter Weisheit und meiner Erfahrung. Mit meinem ganzheitlichen Ansatz erlangst du Klarheit über den Körper, Freiheit und Leichtigkeit in Bewegung und kannst Symptome endlich ursächlich verstehen …
+**Vendor's marketplace description:** <p>Der DEEP Kurs wendet sich speziell an dich als <strong>Trainer, Coach, Therapeut, Gesundheitsexperte oder -enthusiast</strong>.</p>
+<p>Werde zum <strong>holistischen Bewegungsexperten</strong> mit einer Synergie aus m<strong>oderner Wissenschaft, altbewährter Weisheit und meiner Erfahrung</strong>.</p>
+<p>Mit meinem <strong>ganzheitlichen Ansatz</strong> erlangst du Klarheit über den Körper, Freiheit und Leichtigkeit in Bewegung und kannst <strong>Symptome endlich ursächlich verstehen und lösen</strong>.</p>
+<p>Lerne in über <strong>150 Lektionen</strong> ein Körperverständnis, dass in der Essenz in nur<strong> 5-15 Minuten am Tag</strong> kultiviert werden kann. <a>Hier findest du detaillierte Inhalte.</a></p>
+<ul>
+<li><strong>150+ Video-Lektionen:</strong> Tauche ein in prägnante und effektive Videos</li>
+<li><strong>30+ Stunden Video- und Audioinhalt</strong></li>
+<li>Bewegungsroutinen: <strong>Komplette Routinen</strong> (5 - 30 Minuten)</li>
+<li><strong>Geführte Meditationen</strong>: Erlebe einen ganzheitlichen Ansatz mit Achtsamkeitspraktiken, die einen tieferen Einblick in deinen Körper bieten</li>
+<li>Zusätzliche <strong>herunterladbare Ressourcen</strong>: Exklusive Arbeitsblätter, Leitfäden und Lesematerialien für zusätzliche Anleitung und Unterstützung</li>
+<li><strong>Live-Sessions</strong>: Nimm regelmäßig an Live-Sessions teil. Im Kurs findest du alle Aufzeichnungen vergangener Sessions</li>
+<li><strong>Community</strong>: Werde Teil einer Gemeinschaft für Unterstützung, gemeinsame Erfahrungen und Expertenratschläge</li>
+<li><strong>Regelmäßige Updates</strong>: Bleibe mit neuen Erkenntnissen auf dem neuesten Stand</li>
+<li><strong>Benutzerfreundliche App</strong> und<strong> Browser</strong>-Plattform, die Flexibilität und Komfort bietet</li>
+<li><strong>Abschlusszertifikat</strong>: Bei Abschluss aller Lektionen bekommst du ein Zertifikat.</li>
+</ul>
+<p>Das ist DIE Bildung, dich ICH mir immer gewünscht hätte.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/512303?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/45057/adminstore/
 - Sales page: https://www.digistore24.com/product/512303
 - Canonical redirect: https://www.digistore24.com/redir/512303/adminstore
 
@@ -86,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Holistic Mobility DEEP [Online Kurs]? — Typ: Member area and video courses, Anbieter: timboettner, gelistet seit 2023-08-17
-- Wie viel kostet es? — 328.649568 USD
+- Wie viel kostet es? — 327.916368 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

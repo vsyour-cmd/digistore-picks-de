@@ -4,16 +4,16 @@ digistore24_product_id: 667437
 title: "Online-Leitfaden Aus Freude am Schreiben"
 vendor: "MadrigenumVerlag"
 product_type: "Downloads"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 46.62
+earnings_per_sale: 46.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-02-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://madrigenum.dworak.name/online-leitfaden-aus-freude-am-schreiben/?aff=adminstore#aff=adminstore"
 sales_page: "https://madrigenum.dworak.name/online-leitfaden-aus-freude-am-schreiben/"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Leitfaden Aus Freude am Schreiben
 
 > Product ID `55504` · Digistore24 productId `667437` · [HTML profile page](../../produkte/online-leitfaden-aus-freude-am-schreiben-55504.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $46.62 |
+| Earnings/sale* | $46.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MadrigenumVerlag |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Online-Leitfaden „Aus Freude am Schreiben“ ist ein strukturierter Selbstlernkurs für kreatives und literarisches Schreiben.Er vermittelt Grundlagen zu Ideenfindung, Figuren, Szenen, Dialogen und Stil anhand von Theorie und praktischen Schreibübungen.Das Produkt wird als PDF-Download bereitgestellt und eignet sich für Einsteiger wie Fortgeschrittene im Bereich Persönlichkeitsentwicklung und Kre…
+**Vendor's marketplace description:** <p style="text-align:justify;">Der <strong>Online-Leitfaden „Aus Freude am Schreiben“</strong> ist ein strukturierter <strong>Selbstlernkurs</strong> für <strong>kreatives</strong> und <strong>literarisches Schreiben</strong>.<br />Er vermittelt <strong>Grundlagen</strong> zu <strong>Ideenfindung</strong>, <strong>Figuren</strong>, <strong>Szenen</strong>, <strong>Dialogen</strong> und <strong>Stil</strong> anhand von <strong>Theorie</strong> und <strong>praktischen Schreibübungen</strong>.<br />Das Produkt wird als <strong>PDF-Download</strong> bereitgestellt und eignet sich für <strong>Einsteiger</strong> wie <strong>Fortgeschrittene</strong> im Bereich <strong>Persönlichkeitsentwicklung</strong> und <strong>Kreativität</strong>.<br /><br /></p>
+<p><strong>Online-Leitfaden „Aus Freude am Schreiben“</strong></p>
+<p style="text-align:justify;">Der <strong>Online-Leitfaden „Aus Freude am Schreiben“</strong> richtet sich an Menschen, die ihre kreative Ausdrucksfähigkeit entwickeln und Freude am Schreiben literarischer Texte gewinnen möchten.</p>
+<p style="text-align:justify;">Der Leitfaden vermittelt grundlegende und vertiefende <strong>Aspekte des belletristischen Schreibens</strong> – von <strong>Ideenfindung</strong>, <strong>Beobachtung</strong> und <strong>Wahrnehmung</strong> über <strong>Figurenentwicklung</strong>, <strong>Szenenaufbau</strong> und <strong>Dialoggestaltung</strong> bis hin zu <strong>Spannung</strong> und <strong>Stil</strong>.</p>
+<p style="text-align:justify;"><strong>Das Produkt besteht aus 20 strukturierten Lektionen:</strong></p>
+<ul>
+<li style="text-align:justify;">theoretische Inhalte mit Arbeitsblättern</li>
+<li style="text-align:justify;">praktische Schreibübungen zur eigenständigen Umsetzung</li>
+</ul>
+<p style="text-align:justify;">Der Kurs ist als reiner <strong>Selbstlern-Leitfaden</strong> konzipiert und wird als PDF-Datei zum Download bereitgestellt.<br />24/7 Zugriff auf alle Materialien (nach dem Download von Ihrem Endgerät aus).</p>
+<p style="text-align:justify;"><strong>Hinweis:</strong><br />Dieser Kurs ist kein Coaching, kein Fernunterricht und keine betreute Ausbildung.<br />Es gibt keine persönliche Betreuung, Lernerfolgskontrolle oder individuelle Rückmeldung.</p>
+<p style="text-align:justify;"><strong>Geeignet für:</strong></p>
+<ul>
+<li style="text-align:justify;">Schreibinteressierte Einsteiger</li>
+<li style="text-align:justify;">Fortgeschrittene Autoren</li>
+</ul>
+<p style="text-align:justify;">Menschen, die Schreiben als Form der persönlichen Entwicklung und kreativen Selbstreflexion nutzen möchten</p>
 
 ## 2. Links
 
@@ -74,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Leitfaden Aus Freude am Schreiben? — Typ: Downloads, Anbieter: MadrigenumVerlag, gelistet seit 2026-02-08
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

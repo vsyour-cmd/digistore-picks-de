@@ -4,34 +4,34 @@ digistore24_product_id: 396755
 title: "Kleine Knotenkunde: Die wichtigsten Knoten für Outdoor"
 vendor: "ypsilon"
 product_type: "E-books"
-price: 14.66
+price: 14.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.33
+earnings_per_sale: 7.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2021-07-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ousuca.com/buecher/knotenbuch/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37061/adminstore/"
 sales_page: "https://ousuca.com/buecher/knotenbuch/"
 language: "de"
 ---
 # Kleine Knotenkunde: Die wichtigsten Knoten für Outdoor
 
 > Product ID `37061` · Digistore24 productId `396755` · [HTML profile page](../../produkte/kleine-knotenkunde-die-wichtigsten-knoten-f-r-outdoor-37061.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.66 (Single payment) |
+| Price | $14.62 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.33 |
+| Earnings/sale* | $7.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ypsilon |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen. Bewerbe das eBook Kleine Knotenkunde: Die wichtigsten Knoten für Outdoor zum SRSC Survivalkurs. Vorteile für Nutzer: 86 Seiten Anleitungen zu 25 Knoten 58 Farbbilder Deine Vorteile als Affiliate: 50 % für jeden Verkauf ousuca® SRSC eBook Branding und somit hoher Wiedererkennungswert Up…
+**Vendor's marketplace description:** <p>Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen.</p>
+<p>Bewerbe das eBook <strong><em>Kleine Knotenkunde: Die wichtigsten Knoten für Outdoor</em></strong> zum SRSC Survivalkurs.</p>
+<p><strong>Vorteile für Nutzer:</strong></p>
+<ul>
+<li>86 Seiten </li>
+<li>Anleitungen zu 25 Knoten</li>
+<li>58 Farbbilder</li>
+</ul>
+<p><strong>Deine Vorteile als Affiliate:</strong></p>
+<ul>
+<li>50 % für jeden Verkauf</li>
+<li>ousuca® SRSC eBook Branding und somit hoher Wiedererkennungswert</li>
+<li>Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich</li>
+</ul>
+<p>Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Survival eBooks und baue dir ein passives Einkommen auf.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ousuca.com/buecher/knotenbuch/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37061/adminstore/
 - Sales page: https://ousuca.com/buecher/knotenbuch/
 - Vendor affiliate support: https://ousuca.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/396755/adminstore
@@ -77,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kleine Knotenkunde: Die wichtigsten Knoten für Outdoor? — Typ: E-books, Anbieter: ypsilon, gelistet seit 2021-07-04
-- Wie viel kostet es? — 14.657448 USD
+- Wie viel kostet es? — 14.624748000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

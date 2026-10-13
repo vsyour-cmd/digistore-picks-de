@@ -4,16 +4,16 @@ digistore24_product_id: 501781
 title: "Powerchord-Workshop (60 min)"
 vendor: "musiklehrer"
 product_type: "Member area and video courses"
-price: 73.38
+price: 73.21
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 13.49
+earnings_per_sale: 13.46
 cart_conversion_pct: 17
 cancel_rate_pct: 2.58
 categories: ["Dancing & Music"]
 listed_since: "2023-06-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://gitarrenvideounterricht.de/kurse/powerchord-workshop/?aff=adminstore#aff=adminstore"
 sales_page: "https://gitarrenvideounterricht.de/kurse/powerchord-workshop/"
@@ -22,16 +22,16 @@ language: "de"
 # Powerchord-Workshop (60 min)
 
 > Product ID `44228` · Digistore24 productId `501781` · [HTML profile page](../../produkte/powerchord-workshop-60-min-44228.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $73.38 (Single payment) |
+| Price | $73.21 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $13.49 |
+| Earnings/sale* | $13.46 |
 | Cart conversion* | 17% |
 | Cancel rate* | 2.58% |
 | Vendor | musiklehrer |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieser ultrakompakte Videokurs behandelt das Thema Powerchords. Angefangen mit der Definition des Begriffs, über die gängigen Spielweisen, Griffe und Umkehrungen auf allen Saitenkombinationen bis zu farbenfrohen Erweiterungen und Tricks: Ich erkläre dir in 60 Minuten ohne Schnickschnack alles, was ich in 30 Jahren als Gitarrist Wichtiges zum Thema Powerchords gelernt habe und worauf ich auch heute…
+**Vendor's marketplace description:** <p>Dieser ultrakompakte Videokurs behandelt das Thema Powerchords. Angefangen mit der Definition des Begriffs, über die gängigen Spielweisen, Griffe und Umkehrungen auf allen Saitenkombinationen bis zu farbenfrohen Erweiterungen und Tricks: Ich erkläre dir in 60 Minuten ohne Schnickschnack alles, was ich in 30 Jahren als Gitarrist Wichtiges zum Thema Powerchords gelernt habe und worauf ich auch heute noch immer wieder zurückgreife.<br />Alle gezeigten Powerchord-Varianten findest du auch im ergänzenden PDF, so dass du bei Bedarf jederzeit schnell darauf zurückgreifen kannst.</p>
 
 ## 2. Links
 
@@ -77,7 +77,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Powerchord-Workshop (60 min)? — Typ: Member area and video courses, Anbieter: musiklehrer, gelistet seit 2023-06-05
-- Wie viel kostet es? — 73.37688800000001 USD
+- Wie viel kostet es? — 73.21318800000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

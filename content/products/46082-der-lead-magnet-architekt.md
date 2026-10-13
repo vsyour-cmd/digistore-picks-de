@@ -12,8 +12,8 @@ cart_conversion_pct: 28
 cancel_rate_pct: 2.33
 categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-11-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://michael-schlinder.com/Lead-Magnet-Architekt?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Lead-Magnet-Architekt"
@@ -22,7 +22,7 @@ language: "de"
 # Der Lead-Magnet Architekt
 
 > Product ID `46082` · Digistore24 productId `524001` · [HTML profile page](../../produkte/der-lead-magnet-architekt-46082.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Der Lead-Magnet Architekt"Lead-Magneten und E-Books in unter 17 Minuten erstellen, ohnedass man sich viele Gedanken machen muss! Der Workshop „Lead-Magnet Architekt“ bietet Deinen Kunden die Möglichkeit selbst in unlimitierter Anzahl E-Books und Leadmagneten zu erstellen. Hier wird gezeigt, wie mit Canva und einer KI Checklisten, Anleitungen und E-Books in Rekordzeit erstellt wird. ZB eine Techni…
+**Vendor's marketplace description:** <h4 style="text-align:center;"><strong><span style="background-color:#ffff00;">"Der Lead-Magnet Architekt"<br /></span></strong><br /><strong>Lead-Magneten und E-Books </strong><br /><strong>in unter 17 Minuten erstellen, ohne</strong><br /><strong>dass man sich viele Gedanken machen muss!</strong></h4>
+<h5><strong>Der Workshop „Lead-Magnet Architekt“ bietet Deinen Kunden die Möglichkeit selbst in unlimitierter Anzahl E-Books und Leadmagneten zu erstellen. Hier wird gezeigt, wie mit Canva und einer KI Checklisten, Anleitungen und E-Books in Rekordzeit erstellt wird. </strong><br /><strong>ZB eine Technik wie man in unter 17 Minuten zum eigenen E-Book kommt ...</strong></h5>
+<h5>Die Themen-Liste sieht wie folgt aus:<br />&gt;Das richtige Mindset entwickeln<br />&gt;Wie Du KI zur Unterstützung nutzt<br />&gt;Wie Du Deine Nische finden kannst<br />&gt;Lead-Magnet und E-Book erstellen<br />&gt;Wie Du ein Digistore24 Konto anlegst und Dein Produkt genehmigen lässt<br />&gt;Wie Marketing verstanden werden muss<br />&gt;Im Bonusmodul wird gezeigt, wie eine Affiliatearmee aufgebaut wird, um seinen Lead-Magneten zu verbreiten.<br /><br /><strong>Bewirb den "Lead-Magnet Architekt" und erhalte 50% Provision auf Verkauf, Addon und Upsells, sowie 15% Lifetime-Provision auf alle Folgeverkäufe! <br />Der Upsell Prozess wird laufend optimiert!</strong><br /><br />Viel Erfolg und fette Provisionen!</h5>
 
 ## 2. Links
 
@@ -76,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Lead-Magnet Architekt? — Typ: Member area and video courses, Anbieter: MSchlinder, gelistet seit 2023-11-06
-- Wie viel kostet es? — 0.268944 USD
+- Wie viel kostet es? — 0.268344 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

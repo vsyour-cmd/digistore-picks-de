@@ -4,34 +4,34 @@ digistore24_product_id: 64765
 title: "Superlerner Edukation"
 vendor: "Insider-Media"
 product_type: "Member area and video courses"
-price: 98.88
+price: 98.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 49.44
+earnings_per_sale: 49.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2015-12-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.lerntipp.com/superlerner-edukation?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12659/adminstore/"
 sales_page: "https://www.lerntipp.com/superlerner-edukation"
 language: "de"
 ---
 # Superlerner Edukation
 
 > Product ID `12659` · Digistore24 productId `64765` · [HTML profile page](../../produkte/superlerner-edukation-12659.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $98.88 (Single payment) |
+| Price | $98.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $49.44 |
+| Earnings/sale* | $49.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -41,11 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** AFFILIATE INFOS: ----------------------- Zielgruppe: Eltern, Lehrer, Pädagogen, Lehrbeauftragte Hohe Conversionrate 50% Povision inkl. Upsells PRODUKTBESCHREIBUNG:-------------------------------- Bereite deine Kinder auf ein lebenslanges und müheloses Lernen vor Wie man Kindern das Lernen in jeder Hinsicht schmackhaft macht Die Strategien und Rahmenbedingungen, die Eltern von begabten Kindern nutz…
+**Vendor's marketplace description:** <div>
+<div style="text-align:center;"><strong>AFFILIATE INFOS:</strong></div>
+<div style="text-align:center;"><strong>-----------------------</strong></div>
+<ul>
+<li>Zielgruppe: <br />Eltern, Lehrer, Pädagogen, Lehrbeauftragte</li>
+<li>Hohe Conversionrate</li>
+<li>50% Povision</li>
+<li>inkl. Upsells</li>
+</ul>
+<p> </p>
+<p style="text-align:center;"><strong>PRODUKTBESCHREIBUNG:<br /></strong><strong>--------------------------------</strong></p>
+<h3><span style="color:#800080;">Bereite deine Kinder auf ein</span> <span style="color:#339966;">lebenslanges</span> <span style="color:#800080;">und</span> <span style="color:#339966;">müheloses Lernen</span> <span style="color:#800080;">vor</span></h3>
+</div>
+<ul>
+<li>Wie man Kindern das Lernen in jeder Hinsicht schmackhaft macht<br /><br /></li>
+<li>Die Strategien und Rahmenbedingungen, die Eltern von begabten Kindern nutzen, um sie für den Erfolg im Leben vorzubereiten<br /><br /></li>
+<li>Die wichtigsten psychologischen und pädagogischen Konzepte, die Top-Pädagogen und Mentoren verwenden, um das Potenzial eines Kindes zu verstärken<br /><br /></li>
+<li>Pädagogische Spiele und Aktivitäten, die du nutzen kannst, um deinem Kind nützliche Informationen zu vermitteln<br /><br /></li>
+<li>Wie du deine Einstellung und deinen Blickwinkel so anpasst, dass sie für die Entwicklung deines Kindes nützlich und vorteilhaft sind<br /><br /></li>
+<li>Die Geheimnisse der Erziehung eines Kindes, das selbstbewusst, entschlossen und motiviert genug ist, um erfolgreich zu sein, egal, was das Leben ihm in den Weg stellt</li>
+</ul>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.lerntipp.com/superlerner-edukation?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12659/adminstore/
 - Sales page: https://www.lerntipp.com/superlerner-edukation
 - Canonical redirect: https://www.digistore24.com/redir/64765/adminstore
 
@@ -66,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Superlerner Edukation? — Typ: Member area and video courses, Anbieter: Insider-Media, gelistet seit 2015-12-03
-- Wie viel kostet es? — 98.881744 USD
+- Wie viel kostet es? — 98.66114400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 652413
 title: "EU AI Act – KI-Risikomanagement"
 vendor: "MindshiftDigitalStudio"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.19
+earnings_per_sale: 8.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/652413?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/652413"
@@ -22,16 +22,16 @@ language: "de"
 # EU AI Act – KI-Risikomanagement
 
 > Product ID `59714` · Digistore24 productId `652413` · [HTML profile page](../../produkte/eu-ai-act-ki-risikomanagement-59714.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.19 |
+| Earnings/sale* | $8.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -41,7 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** EU KI-Risikomanagement Pack 2026/2027 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, die KI einsetzen und Risiken, Schutzmaßnahmen, Zuständigkeiten und Kontrollen strukturiert dokumentieren möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, KI-Risikobewertung, Human Oversight, Monitoring, Datenqualität und interne Governance. Geeignet für: …
+**Vendor's marketplace description:** <p><strong>EU KI-Risikomanagement Pack 2026/2027</strong></p>
+<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, die KI einsetzen und Risiken, Schutzmaßnahmen, Zuständigkeiten und Kontrollen strukturiert dokumentieren möchten.</p>
+<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, KI-Risikobewertung, Human Oversight, Monitoring, Datenqualität und interne Governance</strong>.</p>
+<p><strong>Geeignet für:</strong></p>
+<ul>
+<li>Selbstständige und KMU</li>
+<li>Unternehmen mit eigenen oder externen KI-Systemen</li>
+<li>Compliance- und Governance-Teams</li>
+<li>IT-, Daten- und KI-Verantwortliche</li>
+<li>Auditoren und Berater</li>
+<li>Unternehmen mit sensiblen oder risikorelevanten KI-Anwendungen</li>
+</ul>
+<p><strong>Enthalten sind unter anderem:</strong></p>
+<ul>
+<li>KI-Systeminventar</li>
+<li>Risikokategorien und Risikomatrix</li>
+<li>Maßnahmenplan zur Risikominderung</li>
+<li>Human-Oversight-Konzept</li>
+<li>Logging und Monitoring</li>
+<li>Datenqualität und Bias-Prüfung</li>
+<li>Sicherheits- und Robustheitstests</li>
+<li>Incident- und Korrekturprozesse</li>
+<li>Third-Party-KI-Dokumentation</li>
+<li>Auditplan</li>
+<li>30-Tage-Umsetzungsplan</li>
+<li>Abschluss-Checkliste</li>
+</ul>
+<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
+<p>Das Arbeitsheft dient als praktische Arbeits-, Prüf- und Dokumentationshilfe für ein strukturiertes KI-Risikomanagement und ersetzt keine individuelle Rechtsberatung.</p>
+<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
 
 ## 2. Links
 
@@ -73,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EU AI Act – KI-Risikomanagement? — Typ: Downloads, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

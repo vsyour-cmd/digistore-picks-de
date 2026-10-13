@@ -3,35 +3,35 @@ product_id: "54919"
 digistore24_product_id: 649949
 title: "Orbli – So klebrig waren Provisionen noch nie!"
 vendor: "Orbli-GmbH"
-product_type: "Remote service provided electronically"
-price: 409.02
+product_type: "Deliverable"
+price: 554.35
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 122.71
+earnings_per_sale: 166.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2025-11-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.orbli.de/?aff=adminstore#aff=adminstore"
-sales_page: "https://www.orbli.de/"
+promo_link: "https://www.digistore24.com/redir/54919/adminstore/"
+sales_page: "https://orbli.de/glueckskeks/"
 language: "de"
 ---
 # Orbli – So klebrig waren Provisionen noch nie!
 
 > Product ID `54919` · Digistore24 productId `649949` · [HTML profile page](../../produkte/orbli-so-klebrig-waren-provisionen-noch-nie-54919.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
-| Product type | Remote service provided electronically |
-| Price | $409.02 (Subscription) |
+| Product type | Deliverable |
+| Price | $554.35 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $122.71 |
+| Earnings/sale* | $166.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Orbli-GmbH |
@@ -41,12 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Beschreibung: Orbli ist ein physischer QR-Sticker, der zufriedene Kunden automatisch zu echten Bewertungen führt. Kein Bitten. Kein Aufwand. Kein Erklären. Der Sticker macht's. Für dich als Affiliate bedeutet das: Du promotest einmal — und das Produkt erklärt sich von selbst. Jeder Gastronom, jeder Friseur, jedes Café ist ein potenzieller Kunde. Millionen davon allein im DACH-Raum. Warum Orbli sic…
+**Vendor's marketplace description:** <p><strong>Beschreibung:</strong></p>
+<p>Orbli ist ein physischer QR-Sticker, der zufriedene Kunden automatisch zu echten Bewertungen führt. Kein Bitten. Kein Aufwand. Kein Erklären. Der Sticker macht's.</p>
+<p>Für dich als Affiliate bedeutet das: Du promotest einmal — und das Produkt erklärt sich von selbst. Jeder Gastronom, jeder Friseur, jedes Café ist ein potenzieller Kunde. Millionen davon allein im DACH-Raum.</p>
+<p> </p>
+<p><strong>Warum Orbli sich leicht promoted:</strong></p>
+<ul>
+<li>Sofort verständlich — jeder kennt das Problem</li>
+<li>Physisches Produkt mit echtem Wow-Faktor</li>
+<li>30-Tage-Geld-zurück-Garantie → kaum Rückläufer</li>
+<li>Hoher wahrgenommener Wert, fairer Preis</li>
+</ul>
+<p> </p>
+<p>⚠️ <strong>Wichtiger Hinweis:</strong> Wir akzeptieren ausschließlich Affiliate-Anfragen, die sich über unsere offizielle Affiliate-Support-Seite beworben haben. Direkte Anfragen werden nicht berücksichtigt.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.orbli.de/?aff=adminstore#aff=adminstore
-- Sales page: https://www.orbli.de/
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54919/adminstore/
+- Sales page: https://orbli.de/glueckskeks/
 - Vendor affiliate support: https://www.orbli.de/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/649949/adminstore
 
@@ -85,8 +97,8 @@ language: "de"
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
-- Was ist Orbli – So klebrig waren Provisionen noch nie!? — Typ: Remote service provided electronically, Anbieter: Orbli-GmbH, gelistet seit 2025-11-20
-- Wie viel kostet es? — 409.019 USD
+- Was ist Orbli – So klebrig waren Provisionen noch nie!? — Typ: Deliverable, Anbieter: Orbli-GmbH, gelistet seit 2025-11-20
+- Wie viel kostet es? — 554.3539800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

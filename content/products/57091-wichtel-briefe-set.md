@@ -4,34 +4,34 @@ digistore24_product_id: 698672
 title: "Wichtel Briefe Set"
 vendor: "MaRa01"
 product_type: "Downloads"
-price: 12.15
+price: 12.12
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 3.64
+earnings_per_sale: 3.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-06-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://fraueinfach.com/wichtel-briefe-set?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57091/adminstore/"
 sales_page: "https://fraueinfach.com/wichtel-briefe-set"
 language: "de"
 ---
 # Wichtel Briefe Set
 
 > Product ID `57091` · Digistore24 productId `698672` · [HTML profile page](../../produkte/wichtel-briefe-set-57091.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.15 (Single payment) |
+| Price | $12.12 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $3.64 |
+| Earnings/sale* | $3.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MaRa01 |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Wichtel Briefe Set enthält 25 fertige Wichtelbriefe vom Einzug bis zum Abschied sowie einfache Wichtelideen, Bonus-Briefe für stressige Tage, eine Wunschzettel-Vorlage und kleine Extras zum Ausschneiden. Ideal für Eltern, die ihrem Kind eine magische Wichtelzeit schenken möchten, ohne jeden Abend neue Ideen planen oder Briefe schreiben zu müssen. Informationen für Affiliates Vielen Dank für de…
+**Vendor's marketplace description:** <p>Das Wichtel Briefe Set enthält 25 fertige Wichtelbriefe vom Einzug bis zum Abschied sowie einfache Wichtelideen, Bonus-Briefe für stressige Tage, eine Wunschzettel-Vorlage und kleine Extras zum Ausschneiden.</p>
+<p>Ideal für Eltern, die ihrem Kind eine magische Wichtelzeit schenken möchten, ohne jeden Abend neue Ideen planen oder Briefe schreiben zu müssen.</p>
+<p> </p>
+<h2>Informationen für Affiliates</h2>
+<p>Vielen Dank für dein Interesse am Wichtel Briefe Set.</p>
+<p>Bitte beachte folgende Hinweise:</p>
+<ul>
+<li>Das Produkt darf gerne auf Blogs, Social Media, Pinterest, Newslettern und anderen Kanälen empfohlen werden.</li>
+<li>Bitte verwende für die Bewerbung ausschließlich die offizielle Verkaufsseite.</li>
+<li>Irreführende Aussagen oder unrealistische Erfolgsversprechen sind nicht gestattet.</li>
+<li>Eigene Domains, Landingpages oder Social-Media-Profile, die den Eindruck erwecken, die offizielle Anbieterin des Produkts zu sein, sind nicht gestattet.</li>
+<li>Bezahlte Werbeanzeigen auf den Namen des Produkts oder die Anbieter-Website sind nur nach vorheriger Absprache zulässig.</li>
+</ul>
+<p>Vielen Dank für die faire Zusammenarbeit!</p>
+<p> </p>
+<p>Hinweis: Ich behalte mir das Recht vor, Affiliate-Bewerbungen abzulehnen sowie bestehende Affiliate-Partnerschaften jederzeit und ohne Angabe von Gründen zu beenden.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fraueinfach.com/wichtel-briefe-set?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57091/adminstore/
 - Sales page: https://fraueinfach.com/wichtel-briefe-set
 - Canonical redirect: https://www.digistore24.com/redir/698672/adminstore
 
@@ -85,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wichtel Briefe Set? — Typ: Downloads, Anbieter: MaRa01, gelistet seit 2026-06-21
-- Wie viel kostet es? — 12.147304 USD
+- Wie viel kostet es? — 12.120204000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

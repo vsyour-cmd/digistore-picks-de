@@ -4,34 +4,34 @@ digistore24_product_id: 732960
 title: "KI? Das kann ich auch... Der KI-Ratgeber für Einsteiger 50+"
 vendor: "MarkusGerbig"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.15
+earnings_per_sale: 12.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Profession & Job","Software"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.mg-wissen.de/buecher/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59289/adminstore/"
 sales_page: "https://www.mg-wissen.de/buecher/"
 language: "de"
 ---
 # KI? Das kann ich auch... Der KI-Ratgeber für Einsteiger 50+
 
 > Product ID `59289` · Digistore24 productId `732960` · [HTML profile page](../../produkte/ki-das-kann-ich-auch-der-ki-ratgeber-f-r-einsteiger-50-59289.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.15 |
+| Earnings/sale* | $12.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MarkusGerbig |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** KI verständlich für die Generation 50 Plus... ‚KI? Das kann ich auch‘ ist ein praxisnaher KI-Ratgeber für Menschen ab 50, die ChatGPT und künstliche Intelligenz ohne komplizierte Fachbegriffe kennenlernen und im Alltag nutzen möchten... Das E-Book führt Schritt für Schritt durch die wichtigsten Anwendungen und enthält 90 praktische Aufgaben und Beispiele z. B. Texte, E-Mails, Reisen, Rezepte, Idee…
+**Vendor's marketplace description:** <p style="text-align:center;">KI verständlich für die Generation 50 Plus... ‚KI? Das kann ich auch‘ ist ein praxisnaher KI-Ratgeber für Menschen ab 50, die ChatGPT und künstliche Intelligenz ohne komplizierte Fachbegriffe kennenlernen und im Alltag nutzen möchten... Das E-Book führt Schritt für Schritt durch die wichtigsten Anwendungen und enthält 90 praktische Aufgaben und Beispiele z. B. Texte, E-Mails, Reisen, Rezepte, Ideen und sicheren Umgang mit der KI. Zielgruppe sind Einsteiger 50 Plus, die KI einfach, verständlich und praxisnah kennenlernen möchten... Für Affiliates stehen auf unserer Affiliate-Support-Seite Werbemittel und weitere Informationen zur Bewerbung des Produkts bereit</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.mg-wissen.de/buecher/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59289/adminstore/
 - Sales page: https://www.mg-wissen.de/buecher/
 - Vendor affiliate support: https://www.mg-wissen.de/affiliate-material/
 - Canonical redirect: https://www.digistore24.com/redir/732960/adminstore
@@ -74,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI? Das kann ich auch... Der KI-Ratgeber für Einsteiger 50+? — Typ: E-books, Anbieter: MarkusGerbig, gelistet seit 2026-09-16
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

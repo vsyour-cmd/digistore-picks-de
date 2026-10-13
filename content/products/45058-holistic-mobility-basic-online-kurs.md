@@ -4,16 +4,16 @@ digistore24_product_id: 512313
 title: "Holistic Mobility BASIC [Online Kurs]"
 vendor: "timboettner"
 product_type: "Member area and video courses"
-price: 932.26
+price: 930.18
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 93.22
+earnings_per_sale: 93.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/512313?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/512313"
@@ -22,16 +22,16 @@ language: "de"
 # Holistic Mobility BASIC [Online Kurs]
 
 > Product ID `45058` · Digistore24 productId `512313` · [HTML profile page](../../produkte/holistic-mobility-basic-online-kurs-45058.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $932.26 (Subscription) |
+| Price | $930.18 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $93.22 |
+| Earnings/sale* | $93.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | timboettner |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der BASIC Kurs wendet sich speziell an Alltagshelden, Büroathleten und Gesundheitsenthusiasten, die einerseits einfach zu folgende Lösungen wollen, aber auch verstehen möchten, wie der Körper funktioniert. Das ist DAS Programm gegen Rücken- und Nackenschmerzen, Stress und Energielosigkeit. Aber nicht nur das: Du wirst lernen, wie diese Art der Bewegung jeden Aspekt deiner Gesundheit beeinflusst. D…
+**Vendor's marketplace description:** <p>Der BASIC Kurs wendet sich speziell an <strong>Alltagshelden, Büroathleten und Gesundheitsenthusiasten</strong>, die einerseits einfach zu folgende Lösungen wollen, aber auch verstehen möchten, wie der Körper funktioniert.</p>
+<p>Das ist DAS Programm gegen <strong>Rücken- und Nackenschmerzen, Stress und Energielosigkeit</strong>. Aber nicht nur das: Du wirst lernen, wie diese Art der Bewegung <strong>jeden Aspekt deiner Gesundheit</strong> beeinflusst. Dieser Kurs ist das beste Investment in dich, was du machen kannst.</p>
+<p>Durch meinen <strong>ganzheitlichen Ansatz</strong> wirst du dich wieder frei und leicht fühlen und deinen Körper endlich selbst verstehen - in nur 5-15 Minuten am Tag.</p>
+<p>Wie Du durch Mobilityroutinen <strong>körperlich und mental gesünder, ausgeglichener und kraftvolle</strong>r wirst, für klareres Denken und mehr Energie im Alltag.</p>
+<p>Raus aus der Schmerz- und Stressschleife und zurück ins Leben!</p>
+<p><strong>Werde zu deinem eigenen holistischen Bewegungsexperten</strong> mit einer Synergie aus moderner Wissenschaft, altbewährter Weisheit und meiner Erfahrung. Gehe deinen Symptomen auf den Grund und finde wirklich nachhaltige Lösungen. <a>Hier findest du detaillierte Inhalte.</a></p>
+<ul>
+<li>75+ Video-Lektionen: Tauche ein in prägnante und effektive Videos mit 10+ Stunden Video- und Audioinhalt</li>
+<li>Komplette Bewegungsroutinen in 5 - 30 Minuten</li>
+<li>Geführte Meditationen: Erlebe einen ganzheitlichen Ansatz mit Achtsamkeitspraktiken, die einen tieferen Einblick in deinen Körper bieten</li>
+<li>Zusätzliche herunterladbare Ressourcen</li>
+<li>Live-Sessions: Nimm regelmäßig an Live-Sessions teil. Im Kurs findest du alle Aufzeichnungen vergangener Sessions</li>
+<li>Community: Werde Teil einer Gemeinschaft für Unterstützung, gemeinsame Erfahrungen und Expertenratschläge</li>
+<li>Regelmäßige Updates: Bleibe mit neuen Erkenntnissen auf dem neuesten Stand</li>
+<li>Benutzerfreundliche App und Browser-Plattform, die Flexibilität und Komfort bietet</li>
+<li>Kurs in deinem eigenen Tempo: Arbeite das Material in deinem eigenen Tempo durch, ohne Fristen oder zeitliche Einschränkungen.</li>
+</ul>
+<p>Das ist DAS Verständnis für den Körper, dass ICH mir immer gewünscht hätte!</p>
 
 ## 2. Links
 
@@ -88,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Holistic Mobility BASIC [Online Kurs]? — Typ: Member area and video courses, Anbieter: timboettner, gelistet seit 2023-08-17
-- Wie viel kostet es? — 932.260758 USD
+- Wie viel kostet es? — 930.180933 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

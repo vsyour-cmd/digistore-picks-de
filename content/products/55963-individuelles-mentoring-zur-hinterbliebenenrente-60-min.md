@@ -4,34 +4,34 @@ digistore24_product_id: 686387
 title: "Individuelles Mentoring zur Hinterbliebenenrente (60 Min.)"
 vendor: "verwitwet-leben"
 product_type: "Online coaching"
-price: 41.2
+price: 41.11
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 66.78
+earnings_per_sale: 66.63
 cart_conversion_pct: 18
 cancel_rate_pct: 0.45
 categories: ["Business & Investment","Education"]
 listed_since: "2025-05-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://verwitwet-leben.de/individuelles-mentoring-einzelstunde/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55963/adminstore/"
 sales_page: "https://verwitwet-leben.de/individuelles-mentoring-einzelstunde/"
 language: "de"
 ---
 # Individuelles Mentoring zur Hinterbliebenenrente (60 Min.)
 
 > Product ID `55963` · Digistore24 productId `686387` · [HTML profile page](../../produkte/individuelles-mentoring-zur-hinterbliebenenrente-60-min-55963.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $41.20 (Single payment) |
+| Price | $41.11 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $66.78 |
+| Earnings/sale* | $66.63 |
 | Cart conversion* | 18% |
 | Cancel rate* | 0.45% |
 | Vendor | verwitwet-leben |
@@ -41,11 +41,34 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Individuelles Mentoring – Einzelstunde Genau hier hilft dir kein allgemeines Wissen mehr. Was passiert im Mentoring deine Situation wird angeschaut Zusammenhänge erklärt konkrete Auswirkungen sichtbar gemacht Sicherheit keine pauschalen Antworten keine falschen Einschätzungen klare Entscheidungen möglich In diesem Mentoring Das ist enthalten: eine individuelle 1:1 Sessions (60 Minuten), inklusive …
+**Vendor's marketplace description:** <h2>Individuelles Mentoring – Einzelstunde</h2>
+<p>Genau hier hilft dir kein allgemeines Wissen mehr.</p>
+<p><strong>Was passiert im Mentoring</strong></p>
+<ul>
+<li>deine Situation wird angeschaut</li>
+<li>Zusammenhänge erklärt</li>
+<li>konkrete Auswirkungen sichtbar gemacht</li>
+</ul>
+<p><strong>Sicherheit</strong></p>
+<ul>
+<li>keine pauschalen Antworten</li>
+<li>keine falschen Einschätzungen</li>
+<li>klare Entscheidungen möglich</li>
+</ul>
+<p>In diesem Mentoring</p>
+<p><strong>Das ist enthalten:</strong></p>
+<ul>
+<li>eine individuelle 1:1 Sessions (60 Minuten), inklusive Vorbereitung.</li>
+</ul>
+<p>Das Gespräch findet online <strong>per Zoom oder Teams</strong> statt. Den Termine vereinbaren wir ganz individuell nach Deinem Bedarf.</p>
+<p>Das Gespräch findet online per Zoom oder Teams statt. Den Termin vereinbaren wir individuell nach der Buchung.</p>
+<p><strong>Bonus:</strong> Inklusive <a><strong>Excel-Berechnungshilfe</strong></a><strong> </strong>mit Lifehack im Wert von <strong>79 €!</strong></p>
+<p>Dauer: 60 Minuten inkl. Vorbereitung</p>
+<p><strong>Kein Abo, keine versteckten Kosten.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://verwitwet-leben.de/individuelles-mentoring-einzelstunde/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55963/adminstore/
 - Sales page: https://verwitwet-leben.de/individuelles-mentoring-einzelstunde/
 - Canonical redirect: https://www.digistore24.com/redir/686387/adminstore
 
@@ -94,7 +117,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Individuelles Mentoring zur Hinterbliebenenrente (60 Min.)? — Typ: Online coaching, Anbieter: verwitwet-leben, gelistet seit 2025-05-21
-- Wie viel kostet es? — 41.20446200000001 USD
+- Wie viel kostet es? — 41.11253700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

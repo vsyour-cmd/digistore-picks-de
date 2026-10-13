@@ -4,16 +4,16 @@ digistore24_product_id: 567377
 title: "Selbstwert und Selbstbewusstsein stärken - Onlinekurs"
 vendor: "wielandstolzenburg"
 product_type: "Member area and video courses"
-price: 271.21
+price: 270.6
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 94.93
+earnings_per_sale: 94.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2024-08-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://kurse.wielandstolzenburg.de/lp/selbstwert-staerken?aff=adminstore#aff=adminstore"
 sales_page: "https://kurse.wielandstolzenburg.de/lp/selbstwert-staerken"
@@ -22,16 +22,16 @@ language: "de"
 # Selbstwert und Selbstbewusstsein stärken - Onlinekurs
 
 > Product ID `50388` · Digistore24 productId `567377` · [HTML profile page](../../produkte/selbstwert-und-selbstbewusstsein-st-rken-onlinekurs-50388.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $271.21 (Single payment, Installment) |
+| Price | $270.60 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $94.93 |
+| Earnings/sale* | $94.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wielandstolzenburg |
@@ -41,7 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle meinen Onlinekurs rund um Selbstwert, Selbstliebe und Selbstbewusstsein und nutze diese Vorteile: Hohe Provision: Erhalte 35 % Provision Hohe Bekanntheit: Onlinekurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) Laufende Optimierung der Verkaufs-Funnel + geringe Stornoquote Hochconvertierende Werbemittel: Banner, E-Mail-Textvorlagen werden laufend optimiert ... (mehr au…
+**Vendor's marketplace description:** <p><strong>Empfehle meinen Onlinekurs rund um Selbstwert, Selbstliebe und Selbstbewusstsein und nutze diese</strong><strong> Vorteile:<br /></strong></p>
+<p> </p>
+<ul>
+<li><strong>Hohe Provision</strong>: Erhalte 35 % Provision</li>
+<li><strong>Hohe Bekanntheit</strong>: Onlinekurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) </li>
+<li><strong>Laufende Optimierung</strong> der Verkaufs-Funnel + geringe Stornoquote</li>
+<li><strong>Hochconvertierende Werbemittel</strong>: Banner, E-Mail-Textvorlagen werden laufend optimiert ... (mehr auf meiner Affiliate-Supportseite --&gt;)</li>
+</ul>
+<p> </p>
+<p>Beste Grüße,<br />Wieland Stolzenburg</p>
+<p> </p>
+<p>PS: Brand-Bidding auf "Wieland Stolzenburg" und Varianten nicht erlaubt!</p>
 
 ## 2. Links
 
@@ -108,7 +119,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selbstwert und Selbstbewusstsein stärken - Onlinekurs? — Typ: Member area and video courses, Anbieter: wielandstolzenburg, gelistet seit 2024-08-28
-- Wie viel kostet es? — 271.20761200000004 USD
+- Wie viel kostet es? — 270.60256200000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

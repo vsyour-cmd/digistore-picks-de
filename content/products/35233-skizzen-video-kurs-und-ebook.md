@@ -4,34 +4,34 @@ digistore24_product_id: 350097
 title: "Skizzen Video-Kurs und eBook"
 vendor: "DrawTut"
 product_type: "Member area and video courses"
-price: 37.8
+price: 37.71
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.41
+earnings_per_sale: 16.37
 cart_conversion_pct: 6
 cancel_rate_pct: 1.69
 categories: ["Hobby & Craft"]
 listed_since: "2020-09-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://drawtut.com/de/kurse/skizzen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/35233/adminstore/"
 sales_page: "https://drawtut.com/de/kurse/skizzen/"
 language: "de"
 ---
 # Skizzen Video-Kurs und eBook
 
 > Product ID `35233` · Digistore24 productId `350097` · [HTML profile page](../../produkte/skizzen-video-kurs-und-ebook-35233.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $37.80 (Single payment) |
+| Price | $37.71 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.41 |
+| Earnings/sale* | $16.37 |
 | Cart conversion* | 6% |
 | Cancel rate* | 1.69% |
 | Vendor | DrawTut |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein Video-Kurs und eBook für jeden, der Skizzieren lernen möchte. Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen Übungsblättern und Video-Tutorials kann mit diesem Kurs wirklich jeder das Erstellen von Skizzen schnell erlernen. Dieser Kurs beinhaltet Umfangreiches Wissen rund um Skizzen 45 Übungsblätter 40 Videos (6 Stunden) mit Zeichenübungen Persönlichen Zugang zum Video-Kurs
+**Vendor's marketplace description:** <p>Ein <strong>Video-Kurs und eBook für jeden, der Skizzieren lernen möchte</strong>. Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen <strong>Übungsblättern und Video-Tutorials</strong> kann mit diesem Kurs wirklich jeder das Erstellen von Skizzen schnell erlernen. </p>
+<p>Dieser Kurs beinhaltet</p>
+<ul>
+<li>Umfangreiches Wissen rund um Skizzen</li>
+<li>45 Übungsblätter</li>
+<li>40 Videos (6 Stunden) mit Zeichenübungen</li>
+<li>Persönlichen Zugang zum Video-Kurs</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://drawtut.com/de/kurse/skizzen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/35233/adminstore/
 - Sales page: https://drawtut.com/de/kurse/skizzen/
 - Canonical redirect: https://www.digistore24.com/redir/350097/adminstore
 
@@ -100,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Skizzen Video-Kurs und eBook? — Typ: Member area and video courses, Anbieter: DrawTut, gelistet seit 2020-09-28
-- Wie viel kostet es? — 37.797838 USD
+- Wie viel kostet es? — 37.713513 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

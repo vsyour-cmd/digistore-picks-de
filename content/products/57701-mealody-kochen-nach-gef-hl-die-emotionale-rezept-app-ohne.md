@@ -4,34 +4,34 @@ digistore24_product_id: 702613
 title: "Mealody – Kochen nach Gefühl: Die emotionale Rezept-App ohne"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 12.15
+price: 12.12
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.07
+earnings_per_sale: 6.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2026-07-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.gz-ai-stacks.de/Mealody/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57701/adminstore/"
 sales_page: "https://www.gz-ai-stacks.de/Mealody/"
 language: "de"
 ---
 # Mealody – Kochen nach Gefühl: Die emotionale Rezept-App ohne
 
 > Product ID `57701` · Digistore24 productId `702613` · [HTML profile page](../../produkte/mealody-kochen-nach-gef-hl-die-emotionale-rezept-app-ohne-57701.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $12.15 (Single payment) |
+| Price | $12.12 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.07 |
+| Earnings/sale* | $6.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gzaistacks2aae |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** löst das täglichste aller Probleme: 'Was koche ich heute?' Statt endlos zu scrollen, wählt der Nutzer einfach seine Stimmung – Mealody schlägt passende Rezepte vor. 200 Rezepte, Wochenplaner, automatische Einkaufslisten. Zielgruppe: Alle, die kochen, aber keine Lust auf Entscheidungsstress haben – besonders Berufstätige und Familien. Einmalzahlung statt Abo, kein Konto, kein Tracking.
+**Vendor's marketplace description:** <p>löst das täglichste aller Probleme: 'Was koche ich heute?' Statt endlos zu scrollen, wählt der Nutzer einfach seine Stimmung – Mealody schlägt passende Rezepte vor. 200 Rezepte, Wochenplaner, automatische Einkaufslisten. Zielgruppe: Alle, die kochen, aber keine Lust auf Entscheidungsstress haben – besonders Berufstätige und Familien. Einmalzahlung statt Abo, kein Konto, kein Tracking.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.gz-ai-stacks.de/Mealody/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57701/adminstore/
 - Sales page: https://www.gz-ai-stacks.de/Mealody/
 - Canonical redirect: https://www.digistore24.com/redir/702613/adminstore
 
@@ -75,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mealody – Kochen nach Gefühl: Die emotionale Rezept-App ohne? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-07-23
-- Wie viel kostet es? — 12.147304 USD
+- Wie viel kostet es? — 12.120204000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 298374
 title: "Vegan, Einfach Selbstgemacht"
 vendor: "Beerenlecker"
 product_type: "Downloads"
-price: 11.21
+price: 11.18
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 3.36
+earnings_per_sale: 3.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2019-12-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://beerenlecker.com/e-book-vegan-einfach-selbstgemacht-beerenlecker/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/31335/adminstore/"
 sales_page: "https://beerenlecker.com/e-book-vegan-einfach-selbstgemacht-beerenlecker/"
 language: "de"
 ---
 # Vegan, Einfach Selbstgemacht
 
 > Product ID `31335` · Digistore24 productId `298374` · [HTML profile page](../../produkte/vegan-einfach-selbstgemacht-31335.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.21 (Single payment) |
+| Price | $11.18 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $3.36 |
+| Earnings/sale* | $3.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Beerenlecker |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Veganes Kochbuch mit den 60 beliebtesten vollwertigen Rezepten vom Foodblog Beerenlecker. Vegan. Vollwertig. Einfach. ohne Industriezucker und Auszugsmehle, größtenteils auch ölfrei​ inklusive Küchentipps rund um ein vollwertiges veganes Leben​ alltagstauglich und easy übersichtlich arrangiert und mit vielen nützlichen Tipps
+**Vendor's marketplace description:** <p>Veganes Kochbuch mit den 60 beliebtesten vollwertigen Rezepten vom Foodblog Beerenlecker. </p>
+<p>Vegan. Vollwertig. Einfach.</p>
+<ul><li>ohne Industriezucker und Auszugsmehle, größtenteils auch ölfrei​</li>
+<li>inklusive Küchentipps rund um ein vollwertiges veganes Leben​</li>
+<li>alltagstauglich und easy</li>
+<li>übersichtlich arrangiert und mit vielen nützlichen Tipps</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://beerenlecker.com/e-book-vegan-einfach-selbstgemacht-beerenlecker/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/31335/adminstore/
 - Sales page: https://beerenlecker.com/e-book-vegan-einfach-selbstgemacht-beerenlecker/
 - Canonical redirect: https://www.digistore24.com/redir/298374/adminstore
 
@@ -72,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vegan, Einfach Selbstgemacht? — Typ: Downloads, Anbieter: Beerenlecker, gelistet seit 2019-12-05
-- Wie viel kostet es? — 11.206 USD
+- Wie viel kostet es? — 11.181000000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

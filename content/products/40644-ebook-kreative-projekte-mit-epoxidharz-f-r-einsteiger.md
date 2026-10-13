@@ -4,16 +4,16 @@ digistore24_product_id: 360118
 title: "eBook - Kreative Projekte mit Epoxidharz für Einsteiger"
 vendor: "acrylgiessen"
 product_type: "E-books"
-price: 15.65
+price: 15.62
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 3.13
+earnings_per_sale: 3.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-11-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://acrylgiessen.com/ebook-kreative-projekte-mit-epoxy-resin-fuer-einsteiger/?aff=adminstore#aff=adminstore"
 sales_page: "https://acrylgiessen.com/ebook-kreative-projekte-mit-epoxy-resin-fuer-einsteiger/"
@@ -22,16 +22,16 @@ language: "de"
 # eBook - Kreative Projekte mit Epoxidharz für Einsteiger
 
 > Product ID `40644` · Digistore24 productId `360118` · [HTML profile page](../../produkte/ebook-kreative-projekte-mit-epoxidharz-f-r-einsteiger-40644.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.65 (Single payment) |
+| Price | $15.62 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $3.13 |
+| Earnings/sale* | $3.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | acrylgiessen |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In diesem umfangreichen eBook liefern wir dir alle benötigten Informationen, um mit Epoxidharz zu arbeiten und einen möglichst einfachen Einstieg in die Materie zu finden. Neben den Grundlagen findest du viele wertvolle Informationen sowie eine Auswahl spannender Projekte. Im Bonusteil gibt es dann nützliche Tipps und Tricks. Tauche ein in die kreative Welt von Epoxidharz und Resin und kreiere dei…
+**Vendor's marketplace description:** <p>In diesem umfangreichen eBook liefern wir dir alle benötigten Informationen, um mit Epoxidharz zu arbeiten und einen möglichst einfachen Einstieg in die Materie zu finden. Neben den Grundlagen findest du viele wertvolle Informationen sowie eine Auswahl spannender Projekte. Im Bonusteil gibt es dann nützliche Tipps und Tricks. Tauche ein in die kreative Welt von Epoxidharz und Resin und kreiere deine ersten atemberaubenden Kunstwerke.</p>
+<p> </p>
+<p>Mit unserem eBook für das kreative Gestalten mit Epoxidharz lernst du auf 125 Seiten: </p>
+<ul>
+<li>Was Epoxidharz genau ist und wie du damit sicher arbeitest</li>
+<li>Alle notwendigen Materialien, Hacks und Werkzeuge für beste Ergebnisse kennen</li>
+<li>Leicht verständliche Schritt-für-Schritt-Anleitungen für das Mischen und die richtige Konsistenz</li>
+<li>Detaillierte Anleitungen für 6 kreative Projekte</li>
+</ul>
+<p> </p>
+<p><strong>Bonus Inhalte:</strong></p>
+<ul>
+<li>Alles zu Aushärtungszeiten</li>
+<li>Welche Trennmittel wirklich funktionieren</li>
+<li>Welche Fehler du bei der Arbeit mit Epoxidharz vermeiden solltest</li>
+</ul>
 
 ## 2. Links
 
@@ -76,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook - Kreative Projekte mit Epoxidharz für Einsteiger? — Typ: E-books, Anbieter: acrylgiessen, gelistet seit 2020-11-29
-- Wie viel kostet es? — 15.654782 USD
+- Wie viel kostet es? — 15.619857000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

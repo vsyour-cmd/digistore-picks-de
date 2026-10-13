@@ -4,16 +4,16 @@ digistore24_product_id: 692791
 title: "50 % Provision: Entscheidungs-Playbook für Führungskräfte"
 vendor: "ralph70eb"
 product_type: "Downloads"
-price: 215.65
+price: 215.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 107.82
+earnings_per_sale: 107.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/692791?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/692791"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % Provision: Entscheidungs-Playbook für Führungskräfte
 
 > Product ID `58786` · Digistore24 productId `692791` · [HTML profile page](../../produkte/50-provision-entscheidungs-playbook-f-r-f-hrungskr-fte-58786.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $215.65 (Single payment) |
+| Price | $215.17 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $107.82 |
+| Earnings/sale* | $107.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ralph70eb |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Klare Entscheidungswege sind einer der am meisten unterschätzten Hebel in Organisationen — und eines der gefragtesten Themen bei Führungskräften und Beratern, die mit Blockaden und endlosen Abstimmungsschleifen zu tun haben. Das NAVOK Dimension Entscheidungen-Playbook liefert ein konkretes System: Diagnose-Tool, EntscheidungsLandkarte zur Visualisierung von Entscheidungswegen, Routinen zur Stabili…
+**Vendor's marketplace description:** <p>Klare Entscheidungswege sind einer der am meisten unterschätzten Hebel in Organisationen — und eines der <strong>gefragtesten Themen bei Führungskräften und Beratern</strong>, die mit Blockaden und endlosen Abstimmungsschleifen zu tun haben.</p>
+<p>Das <strong>NAVOK Dimension Entscheidungen-Playbook</strong> liefert ein konkretes System: Diagnose-Tool, EntscheidungsLandkarte zur Visualisierung von Entscheidungswegen, Routinen zur Stabilisierung und ein 7/30/90-Tage-Plan zur Umsetzung — entwickelt von einem erfahrenen Organisationsarchitekten und Interim Manager.</p>
+<p><strong>Zielgruppe:</strong> HR-Verantwortliche, Führungskräfte, interne und externe Berater, Organisationsentwickler.</p>
+<p><strong>Für Sie als Affiliate:</strong> Aktuell zeitlich befristet 50 % Provision <strong>PLUS</strong> 15 € Bonus pro Verkauf. Über die NAVOK-Lifetime-Regel erhalten Sie zusätzlich automatisch Provision, wenn derselbe Kunde später eines der anderen sechs NAVOK-Produkte kauft — ganz ohne erneuten Klick auf Ihren Link. Fertige Werbemittel und Texte finden Sie auf unserer Affiliate-Support-Seite.</p>
+<p>Digitaler Download, sofort verfügbar. Passt inhaltlich sehr gut zu Content rund um Leadership, Entscheidungsfindung, Organisationsentwicklung und Change-Themen.</p>
 
 ## 2. Links
 
@@ -91,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % Provision: Entscheidungs-Playbook für Führungskräfte? — Typ: Downloads, Anbieter: ralph70eb, gelistet seit 2026-08-31
-- Wie viel kostet es? — 215.648264 USD
+- Wie viel kostet es? — 215.167164 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

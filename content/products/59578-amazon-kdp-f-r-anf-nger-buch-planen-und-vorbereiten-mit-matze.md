@@ -4,16 +4,16 @@ digistore24_product_id: 736402
 title: "Amazon KDP für Anfänger – Buch planen und vorbereiten mit Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.94
+earnings_per_sale: 13.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736402?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736402"
@@ -22,16 +22,16 @@ language: "de"
 # Amazon KDP für Anfänger – Buch planen und vorbereiten mit Matze
 
 > Product ID `59578` · Digistore24 productId `736402` · [HTML profile page](../../produkte/amazon-kdp-f-r-anf-nger-buch-planen-und-vorbereiten-mit-matze-59578.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.94 |
+| Earnings/sale* | $13.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Amazon KDP für Anfänger – Buch planen und vorbereiten mit Matze Eigenes Buchkonzept, Manuskript, Cover und Metadaten prüfen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: ein geprüftes Buchkonzept samt Veröffentlichungscheckliste. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt. Das lernst du:1…
+**Vendor's marketplace description:** <p>Amazon KDP für Anfänger – Buch planen und vorbereiten mit Matze</p>
+<p>Eigenes Buchkonzept, Manuskript, Cover und Metadaten prüfen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: ein geprüftes Buchkonzept samt Veröffentlichungscheckliste. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt.</p>
+<p>Das lernst du:<br />1. Leser und Nutzen festlegen<br />2. Inhalt und Rechte entwickeln<br />3. Format und Lesbarkeit<br />4. Cover und Metadaten<br />5. Preis und Rechte vor Freigabe<br />6. Vorschau und Veröffentlichungstest</p>
+<p>Für wen? Einsteiger, die ein eigenständiges Buch über Amazon KDP vorbereiten möchten.</p>
+<p>Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben.</p>
+<p>Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %.</p>
+<p>Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.</p>
 
 ## 2. Links
 
@@ -80,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Amazon KDP für Anfänger – Buch planen und vorbereiten mit Matze? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

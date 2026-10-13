@@ -4,34 +4,34 @@ digistore24_product_id: 510473
 title: "Klarinette lernen per Videokurs"
 vendor: "VSclarinet"
 product_type: "Member area and video courses"
-price: 74.97
+price: 74.8
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 12.91
+earnings_per_sale: 12.88
 cart_conversion_pct: 29
 cancel_rate_pct: 2.79
 categories: ["Education"]
 listed_since: "2023-08-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53471/adminstore/"
 sales_page: "https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/"
 language: "de"
 ---
 # Klarinette lernen per Videokurs
 
 > Product ID `53471` · Digistore24 productId `510473` · [HTML profile page](../../produkte/klarinette-lernen-per-videokurs-53471.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.97 (Single payment) |
+| Price | $74.80 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $12.91 |
+| Earnings/sale* | $12.88 |
 | Cart conversion* | 29% |
 | Cancel rate* | 2.79% |
 | Vendor | VSclarinet |
@@ -41,11 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Startklar um Klarinette zu lernen? Lerne mithilfe dieses Online-Videokursen Klarinette und das ganz bequem von zuhause aus. Du erhältst Zugang zum eigenen Mitgliederbereich und kannst in deinem eigenen Tempo lernen. Das Beste: Du benötigst keinerlei Vorkenntnisse, lediglich das Instrument. Inhalt des Videokurses: 15 Videolektionen (insgesamt 3 Stunden Laufzeit) 7 Einführungsvideos (insgesamt 25 mi…
+**Vendor's marketplace description:** <p>Startklar um Klarinette zu lernen?</p>
+<p>Lerne mithilfe dieses Online-Videokursen Klarinette und das ganz bequem von zuhause aus.</p>
+<p>Du erhältst Zugang zum eigenen Mitgliederbereich und kannst in deinem eigenen Tempo lernen.</p>
+<p>Das Beste: Du benötigst keinerlei Vorkenntnisse, lediglich das Instrument.</p>
+<p> </p>
+<p>Inhalt des Videokurses:</p>
+<ul>
+<li>15 Videolektionen (insgesamt 3 Stunden Laufzeit)</li>
+<li>7 Einführungsvideos (insgesamt 25 min Laufzeit)</li>
+<li>18 Playalongs (Duo und Einzelstimme)</li>
+<li>39-seitiges Begleitmaterial (PDF mit Noten)</li>
+<li>Bequemer Zugriff auf den Kurs mit Smartphone-App</li>
+</ul>
+<p> </p>
+<div>
+<div>
+<p><strong>Kurszugang für ein ganzes Jahr mit persönlichem Login. Das Notenmaterial und die Playalongs können auch heruntergeladen werden und bleiben dir ein Leben lang.</strong></p>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53471/adminstore/
 - Sales page: https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/
 - Canonical redirect: https://www.digistore24.com/redir/510473/adminstore
 
@@ -81,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Klarinette lernen per Videokurs? — Typ: Member area and video courses, Anbieter: VSclarinet, gelistet seit 2023-08-06
-- Wie viel kostet es? — 74.96814 USD
+- Wie viel kostet es? — 74.80089000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

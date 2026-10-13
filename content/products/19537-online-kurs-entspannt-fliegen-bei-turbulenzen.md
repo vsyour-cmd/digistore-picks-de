@@ -4,34 +4,34 @@ digistore24_product_id: 167361
 title: "Online Kurs - Entspannt fliegen bei Turbulenzen"
 vendor: "cockpitbuddy"
 product_type: "Member area and video courses"
-price: 44.26
+price: 44.16
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 8.85
+earnings_per_sale: 8.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-10-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.cockpitbuddy.com/turbulenzen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/19537/adminstore/"
 sales_page: "https://www.cockpitbuddy.com/turbulenzen"
 language: "de"
 ---
 # Online Kurs - Entspannt fliegen bei Turbulenzen
 
 > Product ID `19537` · Digistore24 productId `167361` · [HTML profile page](../../produkte/online-kurs-entspannt-fliegen-bei-turbulenzen-19537.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.26 (Single payment) |
+| Price | $44.16 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $8.85 |
+| Earnings/sale* | $8.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cockpitbuddy |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der erste Online Kurs zum Thema Turbulenzen. Turbulenzen machen einen großen Anteil der Angst aus, die manche Menschen beim Fliegen empfinden.Obwohl die tatsächliche Gefahr sehr gering ist, bleibt die Angst und warum ist das so?In meinem kompakten Kurs werde ich dieser Frage auf den Grund gehen und Euch anhand meines Fünf Schritte Plans helfen, Euch mit Eurer Angst auseinanderzusetzen und Eure Ged…
+**Vendor's marketplace description:** <p><strong>Der erste Online Kurs zum Thema Turbulenzen.</strong></p>
+<div>Turbulenzen machen einen großen Anteil der Angst aus, die manche Menschen beim Fliegen empfinden.<br />Obwohl die tatsächliche Gefahr sehr gering ist, bleibt die Angst und warum ist das so?<br />In meinem kompakten Kurs werde ich dieser Frage auf den Grund gehen und Euch anhand meines Fünf Schritte Plans helfen, Euch mit Eurer Angst auseinanderzusetzen und Eure Gedanken neu zu konditionieren.</div>
+<p>Ich erkläre Dir, was für Ursachen Turbulenzen haben können und was es für verschiedene Arten gibt, damit Du diese beim nächsten Flug erkennst und keine Angst mehr vor unerwartetem „Wackeln“ oder so genannten „Luftlöchern“ haben musst. Aber auch, was wir Piloten tun, wenn Turbulenzen auftreten und wie wir versuchen, diese zu vermeiden.</p>
+<p>Nach der Bezahlung erhältst Du Zugang zum Mitgliederbereich. Dort findest Du alle Deine Kurse, die Du Dir jeder Zeit und in Deinem eigenem Tempo anschauen kannst.</p>
+<p>Ready? Let's fly!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.cockpitbuddy.com/turbulenzen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/19537/adminstore/
 - Sales page: https://www.cockpitbuddy.com/turbulenzen
 - Canonical redirect: https://www.digistore24.com/redir/167361/adminstore
 
@@ -72,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Kurs - Entspannt fliegen bei Turbulenzen? — Typ: Member area and video courses, Anbieter: cockpitbuddy, gelistet seit 2017-10-03
-- Wie viel kostet es? — 44.2637 USD
+- Wie viel kostet es? — 44.164950000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

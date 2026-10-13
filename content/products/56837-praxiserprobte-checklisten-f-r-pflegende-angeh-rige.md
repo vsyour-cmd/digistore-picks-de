@@ -4,7 +4,7 @@ digistore24_product_id: 696952
 title: "Praxiserprobte Checklisten für pflegende Angehörige"
 vendor: "PflegeKompassDigital"
 product_type: "Downloads"
-price: 14.12
+price: 14.09
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.41
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-06-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/696952?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56837/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/696952"
 language: "de"
 ---
 # Praxiserprobte Checklisten für pflegende Angehörige
 
 > Product ID `56837` · Digistore24 productId `696952` · [HTML profile page](../../produkte/praxiserprobte-checklisten-f-r-pflegende-angeh-rige-56837.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.12 (Single payment) |
+| Price | $14.09 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.41 |
 | Cart conversion* | — |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verkaufen Sie die perfekte Hilfe für pflegende Angehörige! Meine Checklisten lösen echte Alltagsprobleme (z.B. Hilfsmittelkompass, MDK - Vorbereitung). Sie erhalten faire 30% Provision pro Verkauf. Werden Sie jetzt Partner von PflegeKompassDigital!
+**Vendor's marketplace description:** <p>Verkaufen Sie die perfekte Hilfe für pflegende Angehörige!</p>
+<p>Meine Checklisten lösen echte Alltagsprobleme (z.B. Hilfsmittelkompass, MDK - Vorbereitung).</p>
+<p>Sie erhalten faire 30% Provision pro Verkauf. Werden Sie</p>
+<p>jetzt Partner von PflegeKompassDigital!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/696952?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56837/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/696952
 - Canonical redirect: https://www.digistore24.com/redir/696952/adminstore
 
@@ -71,7 +74,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Praxiserprobte Checklisten für pflegende Angehörige? — Typ: Downloads, Anbieter: PflegeKompassDigital, gelistet seit 2026-06-08
-- Wie viel kostet es? — 14.11956 USD
+- Wie viel kostet es? — 14.08806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

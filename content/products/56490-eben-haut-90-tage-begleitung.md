@@ -4,16 +4,16 @@ digistore24_product_id: 690693
 title: "eben.Haut 90 Tage Begleitung"
 vendor: "vschmitt632c"
 product_type: "Online coaching"
-price: 251.43
+price: 250.87
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 50.28
+earnings_per_sale: 50.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-05-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://hautberatung.my.canva.site/ebenhaut-90-tage-begleitung?aff=adminstore#aff=adminstore"
 sales_page: "https://hautberatung.my.canva.site/ebenhaut-90-tage-begleitung"
@@ -22,16 +22,16 @@ language: "de"
 # eben.Haut 90 Tage Begleitung
 
 > Product ID `56490` · Digistore24 productId `690693` · [HTML profile page](../../produkte/eben-haut-90-tage-begleitung-56490.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $251.43 (Single payment, Installment) |
+| Price | $250.87 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $50.28 |
+| Earnings/sale* | $50.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | vschmitt632c |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** eben.Haut ist eine persönliche Hautanalyse mit 90 Tagen Begleitung für Frauen ab 25, die unter unreiner Haut, hormonellen Unreinheiten oder Pickelmalen leiden und ihre Haut besser verstehen möchten. Die Kundin erhält eine individuelle Auswertung ihrer Hautfotos, eine Einschätzung ihrer aktuellen Pflegeprodukte, ein persönliches Zoom-Gespräch mit Empfehlungen, einen Pflegeplan sowie Check-ins alle …
+**Vendor's marketplace description:** <div><strong>eben.Haut</strong> ist eine <span style="text-decoration:underline;">persönliche Hautanalyse mit 90 Tagen Begleitung</span> für Frauen ab 25, die unter unreiner Haut, hormonellen Unreinheiten oder Pickelmalen leiden und ihre Haut besser verstehen möchten.</div>
+<div> </div>
+<div>Die Kundin erhält eine individuelle Auswertung ihrer Hautfotos, eine Einschätzung ihrer aktuellen Pflegeprodukte, ein persönliches Zoom-Gespräch mit Empfehlungen, einen Pflegeplan sowie Check-ins alle 4 Wochen.</div>
+<div> </div>
+<div>Für Affiliates ist das Angebot spannend, weil es eine klare Zielgruppe anspricht und kein anonymes Massenprodukt ist. Geeignet für Empfehlungen aus den Bereichen Hautpflege, Beauty, Frauengesundheit, Zyklus, Wohlbefinden, natürliche Pflege, Selbstfürsorge und ganzheitlicher Lifestyle.</div>
+<div> </div>
+<div>Provision: 20 %.</div>
+<div>Preis: 249 € Einmalzahlung oder 3 Raten à 89 €.</div>
+<div> </div>
+<div><strong>Wichtiger Hinweis:</strong> Die Beratung ersetzt keine ärztliche Diagnose oder medizinische Behandlung.</div>
 
 ## 2. Links
 
@@ -67,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eben.Haut 90 Tage Begleitung? — Typ: Online coaching, Anbieter: vschmitt632c, gelistet seit 2026-05-06
-- Wie viel kostet es? — 251.429022 USD
+- Wie viel kostet es? — 250.86809700000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

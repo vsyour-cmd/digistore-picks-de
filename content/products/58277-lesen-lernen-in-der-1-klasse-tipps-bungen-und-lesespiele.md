@@ -4,34 +4,34 @@ digistore24_product_id: 713986
 title: "Lesen lernen in der 1. Klasse: Tipps, Übungen und Lesespiele"
 vendor: "Grundschulabitur"
 product_type: "E-books"
-price: 17.81
+price: 17.77
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.13
+earnings_per_sale: 7.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/713986?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58277/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/713986"
 language: "de"
 ---
 # Lesen lernen in der 1. Klasse: Tipps, Übungen und Lesespiele
 
 > Product ID `58277` · Digistore24 productId `713986` · [HTML profile page](../../produkte/lesen-lernen-in-der-1-klasse-tipps-bungen-und-lesespiele-58277.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.81 (Single payment) |
+| Price | $17.77 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.13 |
+| Earnings/sale* | $7.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Grundschulabitur |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lesen lernen ist nicht nur aufregend, sondern auch anstrengend für dein Kind aber auch für die Eltern. In diesem Ratgeber zeige ich wie lesen lernen funktioniert, mit welchen Methoden in der Schule gearbeitet wird und zahlreiche Lesepiele. Die Übungen kommen bewusst ohne festen Arbeitsplatz und Arbeitsblatt aus. Als Lehrerin weiß ich, dass es für Erstklässler mit kurzer Konzentrationsphase sehr sc…
+**Vendor's marketplace description:** <p>Lesen lernen ist nicht nur aufregend, sondern auch anstrengend für dein Kind aber auch für die Eltern. In diesem Ratgeber zeige ich wie lesen lernen funktioniert, mit welchen Methoden in der Schule gearbeitet wird und zahlreiche Lesepiele. Die Übungen kommen bewusst ohne festen Arbeitsplatz und Arbeitsblatt aus. Als Lehrerin weiß ich, dass es für Erstklässler mit kurzer Konzentrationsphase sehr schwer ist länger still zu sitzen. Meine Übungen greifen das Bedürfnis nach Bewegung auf und verbinden es mit lustigen Lesespielen, die jedem Spaß machen und in jeden Alltag passen für draußen und drinnen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/713986?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58277/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/713986
 - Canonical redirect: https://www.digistore24.com/redir/713986/adminstore
 
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lesen lernen in der 1. Klasse: Tipps, Übungen und Lesespiele? — Typ: E-books, Anbieter: Grundschulabitur, gelistet seit 2026-08-11
-- Wie viel kostet es? — 17.806334 USD
+- Wie viel kostet es? — 17.766609000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

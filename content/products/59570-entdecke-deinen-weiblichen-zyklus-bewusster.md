@@ -4,16 +4,16 @@ digistore24_product_id: 736397
 title: "Entdecke deinen weiblichen Zyklus bewusster"
 vendor: "jaqui19926004"
 product_type: "Downloads"
-price: 14.07
+price: 14.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.04
+earnings_per_sale: 7.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/mein-zyklus-dein-workbook-f-r-k-rperbewusstsein-intuition-weibliche-selbstverbindung?aff=adminstore#aff=adminstore"
 sales_page: "https://ki-richtig-nutzen.my.canva.site/mein-zyklus-dein-workbook-f-r-k-rperbewusstsein-intuition-weibliche-selbstverbindung"
@@ -22,16 +22,16 @@ language: "de"
 # Entdecke deinen weiblichen Zyklus bewusster
 
 > Product ID `59570` · Digistore24 productId `736397` · [HTML profile page](../../produkte/entdecke-deinen-weiblichen-zyklus-bewusster-59570.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.07 (Single payment) |
+| Price | $14.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.04 |
+| Earnings/sale* | $7.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jaqui19926004 |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mein Zyklus Entdecke deinen weiblichen Zyklus bewusster und lerne, die Signale deines Körpers besser wahrzunehmen.Dieses liebevoll gestaltete 24-seitige PDF-Workbook begleitet dich durch die vier Zyklusphasen und verbindet Zykluswissen mit Journaling, Selbstfürsorge und spirituellen Impulsen.Enthalten sind:Zyklus- & TagestrackerReflexions- und JournalingfragenRituale & IntentionenMondphasen & weib…
+**Vendor's marketplace description:** <p><strong>Mein Zyklus</strong></p>
+<p><strong><br />Entdecke deinen weiblichen Zyklus bewusster und lerne, die Signale deines Körpers besser wahrzunehmen.<br /><br />Dieses liebevoll gestaltete 24-seitige PDF-Workbook begleitet dich durch die vier Zyklusphasen und verbindet Zykluswissen mit Journaling, Selbstfürsorge und spirituellen Impulsen.<br />Enthalten sind:<br /><br />Zyklus- &amp; Tagestracker<br />Reflexions- und Journalingfragen<br />Rituale &amp; Intentionen<br />Mondphasen &amp; weibliche Archetypen<br />Übungen für Körperbewusstsein und Selbstverbindung<br /><br />Dein Körper. Dein Rhythmus. Deine weibliche Kraft.<br /><br />Digitales PDF zum direkten Nutzen und Ausdrucken.<br /><br /></strong><strong>Hinweis: Das Workbook dient der Information und Selbstreflexion und ersetzt keine medizinische oder therapeutische Beratung.</strong></p>
 
 ## 2. Links
 
@@ -60,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Entdecke deinen weiblichen Zyklus bewusster? — Typ: Downloads, Anbieter: jaqui19926004, gelistet seit 2026-09-23
-- Wie viel kostet es? — 14.074736000000001 USD
+- Wie viel kostet es? — 14.043336000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

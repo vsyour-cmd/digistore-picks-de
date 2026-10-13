@@ -4,16 +4,16 @@ digistore24_product_id: 701592
 title: "Der Islam im biblischen Kontext- Abraham als Schlüsselperson"
 vendor: "Andermatti-Invest"
 product_type: "Software"
-price: 16.48
+price: 16.45
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.12
+earnings_per_sale: 4.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/701592?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/701592"
@@ -22,16 +22,16 @@ language: "de"
 # Der Islam im biblischen Kontext- Abraham als Schlüsselperson
 
 > Product ID `57402` · Digistore24 productId `701592` · [HTML profile page](../../produkte/der-islam-im-biblischen-kontext-abraham-als-schl-sselperson-57402.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $16.48 (Single payment) |
+| Price | $16.45 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.12 |
+| Earnings/sale* | $4.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Andermatti-Invest |
@@ -41,7 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Lehrheft zeigt eine überraschende, aber textlich fundierte Perspektive: Nicht Muhammad, sondern Abraham/Ibrahim ist die eigentliche zentrale und prägende Schlüsselfigur des Islam. Die Broschüre erklärt verständlich und präzise: warum der Islam sich selbst über Abraham definiert wie Opferfest, „Hingabe = Islam“ und Hadsch direkt auf die biblische Abraham‑Erzählung zurückgehen wie die Verbind…
+**Vendor's marketplace description:** <p><strong>Dieses Lehrheft zeigt eine überraschende, aber textlich fundierte Perspektive:</strong> <strong>Nicht Muhammad, sondern <span style="background-color:#ccffcc;">Abraham/Ibrahim</span> ist die eigentliche <span style="background-color:#ffcc99;">zentrale und prägende Schlüsselfigur</span> des Islam.</strong></p>
+<ul>
+<li>Die Broschüre erklärt verständlich und präzise: warum der Islam sich selbst über Abraham definiert</li>
+<li>wie Opferfest, „Hingabe = Islam“ und Hadsch direkt auf die biblische Abraham‑Erzählung zurückgehen</li>
+<li>wie die Verbindung zwischen Koran und Bibel strukturell funktioniert</li>
+<li>warum diese Einsicht das Gesamtbild des Islam grundlegend verändert</li>
+<li>welche spirituelle Linie sich von Abraham bis in den Islam hineinzieht</li>
+</ul>
+<p>Ein wesentlicher Unterschied, den viele westliche Leser kaum kennen: Der Islam t<strong>rennt Staat und Religion</strong> <strong>nicht</strong>, versteht den Einzelnen als Teil der <strong><em>Umma</em> </strong>(aller muslimischen Gläubigen) und bildet ein umfassendes gesellschaftliches System, das weit über einen rein privaten Glauben hinausgeht. </p>
+<p>Dieses Heft richtet sich an <strong>alle Menschen</strong>, die den z<strong>entralen Kern des Islam</strong> verstehen wollen – unabhängig von Religion, Herkunft, Bildung oder gesellschaftlicher Rolle, ob <em>Muslim</em> oder Nicht‑<em>Muslim</em>, Christ, Jude oder Agnostiker, ob akademisch gebildet oder mit oder ohne Studienabschluss, ob politisch tätig oder normaler Bürger, egal welcher ethnischen Herkunft angehörend und welche Sprache sprechend.</p>
+<ul style="list-style-type:circle;">
+<li>Es bietet eine klare, kompakte und leicht verständliche Einführung in die islamische Verbindung zur Bibel, die meist übersehen wird.</li>
+<li>Ideal für: Christen, die den Islam mit einer biblischen Verbindung verstehen möchten</li>
+<li>Menschen, die die Rolle Abrahams im Islam nachvollziehen wollen</li>
+<li>Bibelleser, die die Verbindung zwischen Koran und Bibel erkennen möchten</li>
+<li>Lehrende, Hauskreise und Studiengruppen</li>
+<li>alle, die ein kompaktes, fundiertes und gut lesbares Heft suchen</li>
+<li>alle Menschen, die den zentralen Kern des Islam verstehen wollen – unabhängig von Religion, Herkunft, Bildung oder gesellschaftlicher Rolle</li>
+</ul>
+<p>Ihre Zielgruppe erhält: eine neue Sicht auf die innere Struktur des Islam</p>
+<ul style="list-style-type:circle;">
+<li>klare Erklärungen ohne Fachjargon</li>
+<li>eine Verbindung, die das Verständnis des Islam vertieft</li>
+<li>ein prägnantes Lehrheft mit hoher Erkenntnistiefe</li>
+</ul>
+<p>Perfekt geeignet für <strong>Newsletter</strong>, <strong>YouTube‑Kanäle</strong>, <strong>christliche Bildungsarbeit</strong>, <strong>interreligiöse Themen</strong> und alle Communities, die sich mit Bibel und Islam beschäftigen.</p>
 
 ## 2. Links
 
@@ -71,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Islam im biblischen Kontext- Abraham als Schlüsselperson? — Typ: Software, Anbieter: Andermatti-Invest, gelistet seit 2026-07-05
-- Wie viel kostet es? — 16.484026 USD
+- Wie viel kostet es? — 16.447251 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

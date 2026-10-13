@@ -4,16 +4,16 @@ digistore24_product_id: 701340
 title: "Social-Media-E-Books: Profi-Ratgeber für jede Plattform – 50 % Provision"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 40.85
+price: 40.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.43
+earnings_per_sale: 20.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-instagram?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-instagram"
@@ -22,16 +22,16 @@ language: "de"
 # Social-Media-E-Books: Profi-Ratgeber für jede Plattform – 50 % Provision
 
 > Product ID `56904` · Digistore24 productId `701340` · [HTML profile page](../../produkte/social-media-e-books-profi-ratgeber-f-r-jede-plattform-50-provision-56904.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.85 (Single payment) |
+| Price | $40.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.43 |
+| Earnings/sale* | $20.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 52 Profi-Ratgeber rund um Social-Media-Marketing – 50 % Provision auf jeden Verkauf. Digitale E-Books (PDF, Sofort-Download nach dem Kauf) für die wichtigsten Plattformen: Instagram, TikTok, LinkedIn, X, Facebook, Pinterest, WhatsApp, Reddit, Snapchat, Telegram, Twitch, Threads, VK und XING – jeweils in vier Stufen vom Einsteiger über Coach- und Influencer-Aufbau bis zum Business-Wachstum. Warum s…
+**Vendor's marketplace description:** <p><strong>52 Profi-Ratgeber rund um Social-Media-Marketing – 50 % Provision auf jeden Verkauf.</strong></p>
+<p>Digitale E-Books (PDF, Sofort-Download nach dem Kauf) für die wichtigsten Plattformen: Instagram, TikTok, LinkedIn, X, Facebook, Pinterest, WhatsApp, Reddit, Snapchat, Telegram, Twitch, Threads, VK und XING – jeweils in vier Stufen vom Einsteiger über Coach- und Influencer-Aufbau bis zum Business-Wachstum.</p>
+<p><strong>Warum sich das Bewerben lohnt:</strong></p>
+<ul>
+<li>50 % Provision auf jeden Verkauf.</li>
+<li>Funnel mit Upsells: Käufer bekommen nach dem Buch passende Komplett-Pakete angeboten – du verdienst an der ganzen Kette mit.</li>
+<li>Breite Zielgruppe: Creator, Selbstständige, Coaches und Unternehmen, die auf Social Media wachsen wollen.</li>
+<li>Klar strukturierte Ratgeber mit Schritt-für-Schritt-Anleitungen, sofort als PDF lieferbar.</li>
+</ul>
+<p>Alle Produkte und dein persönlicher Affiliate-Link auf der Partner-Seite von social-media-planer.de</p>
 
 ## 2. Links
 
@@ -97,7 +106,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social-Media-E-Books: Profi-Ratgeber für jede Plattform – 50 % Provision? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-15
-- Wie viel kostet es? — 40.845870000000005 USD
+- Wie viel kostet es? — 40.75474500000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

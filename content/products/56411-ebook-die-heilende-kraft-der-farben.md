@@ -4,34 +4,34 @@ digistore24_product_id: 689378
 title: "Ebook - Die heilende Kraft der Farben"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.8
+price: 6.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.41
+earnings_per_sale: 3.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-05-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/689378?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56411/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/689378"
 language: "de"
 ---
 # Ebook - Die heilende Kraft der Farben
 
 > Product ID `56411` · Digistore24 productId `689378` · [HTML profile page](../../produkte/ebook-die-heilende-kraft-der-farben-56411.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.80 (Single payment) |
+| Price | $6.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.41 |
+| Earnings/sale* | $3.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein emotional starkes Thema mit breiter Zielgruppe: Dieses Buch verbindet Farbpsychologie, Naturerleben und praktischen Nutzen zu einem leicht zugänglichen Ratgeber für mehr Wohlbefinden im Alltag. Die Kombination aus wissenschaftlichen Grundlagen, konkreten Anwendungen und achtsamen Übungen spricht besonders Leser aus den Bereichen Gesundheit, Persönlichkeitsentwicklung und Lifestyle an. Der klar…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Ein emotional starkes Thema mit breiter Zielgruppe:</p>
+<p>Dieses Buch verbindet Farbpsychologie, Naturerleben und praktischen Nutzen zu einem leicht zugänglichen Ratgeber für mehr Wohlbefinden im Alltag.</p>
+<p>Die Kombination aus wissenschaftlichen Grundlagen, konkreten Anwendungen und achtsamen Übungen spricht besonders Leser aus den Bereichen Gesundheit, Persönlichkeitsentwicklung und Lifestyle an.</p>
+<p>Der klare Nutzen – Stressreduktion, bessere Stimmung und mehr Balance durch gezielten Farbeinsatz – sorgt für hohe Relevanz und Kaufmotivation.</p>
+<p>Durch die anschauliche Darstellung und vielseitigen Einsatzmöglichkeiten im Alltag bietet das Produkt überzeugendes Conversion-Potenzial. Ideal für Affiliates im Bereich Selfcare, Mindset, Wohnen und ganzheitliche Gesundheit.</p>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
+<div>
+<div> </div>
+</div>
+</div>
+</div>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/689378?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56411/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/689378
 - Canonical redirect: https://www.digistore24.com/redir/689378/adminstore
 
@@ -71,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Die heilende Kraft der Farben? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-05-01
-- Wie viel kostet es? — 6.802042 USD
+- Wie viel kostet es? — 6.786867000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

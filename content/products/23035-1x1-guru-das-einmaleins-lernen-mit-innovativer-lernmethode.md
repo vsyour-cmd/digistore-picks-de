@@ -4,34 +4,34 @@ digistore24_product_id: 178665
 title: "1x1 Guru: Das Einmaleins lernen mit innovativer Lernmethode"
 vendor: "Insider-Media"
 product_type: "Member area and video courses"
-price: 279.68
+price: 279.06
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 139.84
+earnings_per_sale: 139.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-11-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.1x1.guru?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/23035/adminstore/"
 sales_page: "https://www.1x1.guru"
 language: "de"
 ---
 # 1x1 Guru: Das Einmaleins lernen mit innovativer Lernmethode
 
 > Product ID `23035` · Digistore24 productId `178665` · [HTML profile page](../../produkte/1x1-guru-das-einmaleins-lernen-mit-innovativer-lernmethode-23035.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.68 (Single payment, Subscription) |
+| Price | $279.06 (Single payment, Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $139.84 |
+| Earnings/sale* | $139.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Einmaleins lernen mit innovativer Lerntechnik. Durch mentale Visualisierung können Kinder das Einmaleins autonom, einfach und mit viel Spass lernen. Es handelt sich um eine einzigartige und innovative Lernmethode, die eine Revolution für das mühselige Lernen der Multiplikationen darstellt. Mathematik und vor allem das 1x1 wird dadurch zu einem einfachen Spiel, welches dem Kind grosses Selbstvertra…
+**Vendor's marketplace description:** <p>Einmaleins lernen mit innovativer Lerntechnik. Durch mentale Visualisierung können Kinder das Einmaleins autonom, einfach und mit viel Spass lernen.</p>
+<p>Es handelt sich um eine einzigartige und innovative Lernmethode, die eine Revolution für das mühselige Lernen der Multiplikationen darstellt. Mathematik und vor allem das 1x1 wird dadurch zu einem einfachen Spiel, welches dem Kind grosses Selbstvertrauen verleiht.</p>
+<p>Zusätzlich lernt das Kind sehr schnell kopfrechnen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.1x1.guru?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/23035/adminstore/
 - Sales page: https://www.1x1.guru
 - Canonical redirect: https://www.digistore24.com/redir/178665/adminstore
 
@@ -66,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 1x1 Guru: Das Einmaleins lernen mit innovativer Lernmethode? — Typ: Member area and video courses, Anbieter: Insider-Media, gelistet seit 2017-11-10
-- Wie viel kostet es? — 279.679348 USD
+- Wie viel kostet es? — 279.055398 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

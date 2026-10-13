@@ -4,34 +4,34 @@ digistore24_product_id: 410820
 title: "Online-Kurs: Homöopathie für Babys und Kleinkinder"
 vendor: "thopuh"
 product_type: "Member area and video courses"
-price: 61.18
+price: 61.05
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 26.2
+earnings_per_sale: 26.14
 cart_conversion_pct: 13
 cancel_rate_pct: 1.59
 categories: ["Family & Children","Health & Fitness"]
 listed_since: "2021-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://akademie.hallo-homoeopathie.de/homoeopathie-bei-kindern?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/38189/adminstore/"
 sales_page: "https://akademie.hallo-homoeopathie.de/homoeopathie-bei-kindern"
 language: "de"
 ---
 # Online-Kurs: Homöopathie für Babys und Kleinkinder
 
 > Product ID `38189` · Digistore24 productId `410820` · [HTML profile page](../../produkte/online-kurs-hom-opathie-f-r-babys-und-kleinkinder-38189.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $61.18 (Single payment) |
+| Price | $61.05 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $26.20 |
+| Earnings/sale* | $26.14 |
 | Cart conversion* | 13% |
 | Cancel rate* | 1.59% |
 | Vendor | thopuh |
@@ -41,11 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehlen Sie diesen von Kursteilnehmern sehr gut bewerteten Online-Kurs zum Thema "Homöopathie für Babys und Kleinkinder. Ihre Vorteile: Attraktive Provision von 40% beim direkten Verkauf Lebenslang 25 % wiederkehrende Provisionen auf Ihre Verkäufe im Upsell-Prozess (Email) Kursangebot wird permament erweitert und ausgebaut Schnelle und persönliche Unterstützung auf Deutsch Zielgruppen: Eltern He…
+**Vendor's marketplace description:** <p>Empfehlen Sie diesen von Kursteilnehmern sehr gut bewerteten Online-Kurs zum Thema "Homöopathie für Babys und Kleinkinder.</p>
+<p>Ihre Vorteile:</p>
+<ul>
+<li>Attraktive Provision von 40% beim direkten Verkauf</li>
+<li>Lebenslang 25 % wiederkehrende Provisionen auf Ihre Verkäufe im Upsell-Prozess (Email)</li>
+<li>Kursangebot wird permament erweitert und ausgebaut</li>
+<li>Schnelle und persönliche Unterstützung auf Deutsch</li>
+</ul>
+<p>Zielgruppen:</p>
+<ul>
+<li>Eltern</li>
+<li>Hebammen</li>
+<li>Menschen, die an alternativen Heilmethoden interessiert sind  </li>
+</ul>
+<p>Der Online-Kurs Homöopathie für das 1. Lebensjahr und Kleinkinder vermittelt alle wichtigen Grundlagen für die erfolgreiche Selbstbehandlung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://akademie.hallo-homoeopathie.de/homoeopathie-bei-kindern?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38189/adminstore/
 - Sales page: https://akademie.hallo-homoeopathie.de/homoeopathie-bei-kindern
 - Canonical redirect: https://www.digistore24.com/redir/410820/adminstore
 
@@ -90,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs: Homöopathie für Babys und Kleinkinder? — Typ: Member area and video courses, Anbieter: thopuh, gelistet seit 2021-10-06
-- Wie viel kostet es? — 61.184760000000004 USD
+- Wie viel kostet es? — 61.048260000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

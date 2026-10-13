@@ -4,7 +4,7 @@ digistore24_product_id: 727651
 title: "Geld verdienen mit Prompts"
 vendor: "autorpetermeurerausdemahrtal"
 product_type: "E-books"
-price: 10.47
+price: 10.44
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.04
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/727651?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58817/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/727651"
 language: "de"
 ---
 # Geld verdienen mit Prompts
 
 > Product ID `58817` · Digistore24 productId `727651` · [HTML profile page](../../produkte/geld-verdienen-mit-prompts-58817.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.47 (Single payment) |
+| Price | $10.44 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.04 |
 | Cart conversion* | — |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Geld verdienen mit Prompts“ ist ein praxisnaher Ratgeber für Menschen, die lernen möchten, wirkungsvolle KI-Prompts zu entwickeln und daraus eigene digitale Produkte zu erstellen. Das E-Book erklärt zunächst verständlich, was Prompts sind, wie sie aufgebaut werden und wodurch sich eine hilfreiche Eingabe von einer ungenauen Anweisung unterscheidet. Anschließend zeigt es Schritt für Schritt, wie e…
+**Vendor's marketplace description:** <p>„Geld verdienen mit Prompts“ ist ein praxisnaher Ratgeber für Menschen, die lernen möchten, wirkungsvolle KI-Prompts zu entwickeln und daraus eigene digitale Produkte zu erstellen.</p>
+<p>Das E-Book erklärt zunächst verständlich, was Prompts sind, wie sie aufgebaut werden und wodurch sich eine hilfreiche Eingabe von einer ungenauen Anweisung unterscheidet. Anschließend zeigt es Schritt für Schritt, wie eigene Prompts entwickelt, getestet, verbessert und übersichtlich zu thematischen Sammlungen zusammengestellt werden können.</p>
+<p>Weitere Themen sind die Auswahl geeigneter Nischen, der Verkauf über digitale Marktplätze und eigene Shops sowie die Erstellung von Produktpaketen, Serien und ergänzenden Angeboten. Außerdem behandelt der Ratgeber grundlegende Möglichkeiten des Marketings, den Schutz eigener Inhalte und die Verbindung von Prompts mit Programmen wie Notion oder Canva.</p>
+<p>Praxisbeispiele veranschaulichen, wie aus einer ersten Idee ein eigenständiges digitales Produkt entstehen kann. Dabei werden keine technischen Vorkenntnisse vorausgesetzt.</p>
+<p>Das Buch gibt keine Garantie für bestimmte Einnahmen oder geschäftliche Erfolge. Die Inhalte dienen der Information und Weiterbildung und ersetzen keine rechtliche, steuerliche oder finanzielle Beratung.</p>
+<p>Das vollständige E-Book umfasst 102 Seiten und wird nach erfolgreicher Bestellung sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/727651?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58817/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/727651
 - Canonical redirect: https://www.digistore24.com/redir/727651/adminstore
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Geld verdienen mit Prompts? — Typ: E-books, Anbieter: autorpetermeurerausdemahrtal, gelistet seit 2026-09-01
-- Wie viel kostet es? — 10.466404 USD
+- Wie viel kostet es? — 10.443054 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

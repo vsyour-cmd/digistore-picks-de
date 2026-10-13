@@ -4,16 +4,16 @@ digistore24_product_id: 328028
 title: "Das Mach dich schlank Programm von MDS"
 vendor: "produktmanagerin"
 product_type: "Member area and video courses"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 26.13
+earnings_per_sale: 26.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Marketing Services"]
 listed_since: "2026-06-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://mach-dich-schlank-programm.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://mach-dich-schlank-programm.com/"
@@ -22,16 +22,16 @@ language: "de"
 # Das Mach dich schlank Programm von MDS
 
 > Product ID `57106` · Digistore24 productId `328028` · [HTML profile page](../../produkte/das-mach-dich-schlank-programm-von-mds-57106.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $26.13 |
+| Earnings/sale* | $26.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | produktmanagerin |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Mach dich schlank Programm über VSL Natürlich, gesund und nachhaltig abnehmen, das ist unser Mach dich schlank Programm. Hierbei werden die Basics einer gesunden ausgewogenen Ernährung vermittelt inklusive 3 Schnupperworkouts für zu Hause und Rezepte für jeden Tagesabschnitt. Es kostet 37 Euro Nach dem Kauf wird der Kunde zum 30 Tage-Abnehmturbo Upsell für einmalig 67 Euro weitergeleitet. Dies…
+**Vendor's marketplace description:** <p><strong>Das Mach dich schlank Programm über VSL</strong></p>
+<p>Natürlich, gesund und nachhaltig abnehmen, das ist unser Mach dich schlank Programm.</p>
+<p>Hierbei werden die Basics einer gesunden ausgewogenen Ernährung vermittelt inklusive 3 Schnupperworkouts für zu Hause und Rezepte für jeden Tagesabschnitt. Es kostet 37 Euro</p>
+<p>Nach dem Kauf wird der Kunde zum 30 Tage-Abnehmturbo Upsell für einmalig 67 Euro weitergeleitet.</p>
+<p>Dieses ermöglicht ihm einen noch schnelleren Abnehmerfolg. Es beeinhaltet ein ausführliches Fitnessprogramm, das einfach von zu Hause aus ohne Geräte und ohne viel Platz durchgeführt werden kann. Als Bonus sind weitere Rezepte sowie ein Erfolgs-Mindset-Kurs mit dabei.</p>
+<p>Sollte der Upsell1 verneint werden geht es weiter zum Downsell 1, dort hat der Kunde die Möglichkeit den 30 Tage Abnehmturbo 14 Tage lang für 0 Euro zu testen und erst danach die 67 Euro zu zahlen.</p>
+<p>Zu guter letzt wird der Kunde zum zweiten Upsell für 67 Euro weitergeleitet, dem 30 Tage Bauchstraffer. In diesem Kurs geht es rund um die Hautstraffung nach dem Abnehmen inklusive Anti Aging Kurs und speziellen körperstraffenden Übungen für zu Hause.</p>
+<p>Sollte der Upsell2 verneint werden geht es weiter zum Downsell 2, dort hat der Kunde die Möglichkeit den 30 Tage Bauchstraffer 14 Tage lang für 0 Euro zu testen und erst danach die 67 Euro zu zahlen.</p>
+<p>Bewirb jetzt das Mach dich schlank Programm inklusive der beiden Upsells/Downsells und erhalte auf jeden Verkauf jeweils 75% Provision.  </p>
+<h4>Digistore24 Affiliatebereich: </h4>
+<h4><strong><a href="Digistore24%20Affiliatebereich%3A%C2%A0%20https%3A//www.digistore24-app.com/account/partnerarea/165719/de" target="_blank" rel="noreferrer noopener">https://www.digistore24-app.com/account/partnerarea/165719/de</a></strong></h4>
 
 ## 2. Links
 
@@ -88,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Mach dich schlank Programm von MDS? — Typ: Member area and video courses, Anbieter: produktmanagerin, gelistet seit 2026-06-22
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

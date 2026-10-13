@@ -4,34 +4,34 @@ digistore24_product_id: 694978
 title: "Raus aus der Angst – Onlinekurs gegen Angst"
 vendor: "coaching-am-meer"
 product_type: "Member area and video courses"
-price: 282.5
+price: 281.87
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 70.63
+earnings_per_sale: 70.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-07-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/694978?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57757/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/694978"
 language: "de"
 ---
 # Raus aus der Angst – Onlinekurs gegen Angst
 
 > Product ID `57757` · Digistore24 productId `694978` · [HTML profile page](../../produkte/raus-aus-der-angst-onlinekurs-gegen-angst-57757.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $282.50 (Installment) |
+| Price | $281.87 (Installment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $70.63 |
+| Earnings/sale* | $70.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | coaching-am-meer |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Raus aus der Angst“ ist ein wissenschaftlich fundierter, begleiteter Onlinekurs für Menschen mit Angststörungen, Panikattacken, Krankheitsängsten, sozialer Angst und der Angst vor der Angst. Der Kurs wurde von Psychologe Stephan Strömsdörfer entwickelt und verbindet fundiertes psychologisches Wissen mit konkreten Übungen für den Alltag. Neben den Kursinhalten erhalten die Teilnehmer geführte Audi…
+**Vendor's marketplace description:** <p><strong>„Raus aus der Angst“</strong> ist ein wissenschaftlich fundierter, begleiteter Onlinekurs für Menschen mit Angststörungen, Panikattacken, Krankheitsängsten, sozialer Angst und der Angst vor der Angst.</p>
+<p>Der Kurs wurde von Psychologe Stephan Strömsdörfer entwickelt und verbindet fundiertes psychologisches Wissen mit konkreten Übungen für den Alltag. Neben den Kursinhalten erhalten die Teilnehmer geführte Audioanleitungen, regelmäßige WhatsApp-Impulse, Zugang zu einer moderierten Facebook-Gruppe sowie wöchentliche Live-Meetings. Der Kurs ist kein anonymer Videokurs, sondern eine persönliche und kontinuierliche Begleitung.</p>
+<p>Der Einstieg erfolgt über eine <strong>7-tägige Testphase für nur 1 €</strong>. Interessenten können den Kurs in Ruhe kennenlernen und sich selbst von den Inhalten überzeugen. Erst danach entscheiden sie, ob sie den Kurs fortsetzen möchten.</p>
+<p>Angststörungen gehören zu den häufigsten psychischen Erkrankungen und viele Betroffene suchen aktiv nach professioneller Unterstützung. Durch die niedrige Einstiegshürde, die persönliche Begleitung und die hohe Relevanz des Themas bietet „Raus aus der Angst“ sehr gute Voraussetzungen für erfolgreiche Affiliate-Empfehlungen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/694978?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57757/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/694978
 - Canonical redirect: https://www.digistore24.com/redir/694978/adminstore
 
@@ -94,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raus aus der Angst – Onlinekurs gegen Angst? — Typ: Member area and video courses, Anbieter: coaching-am-meer, gelistet seit 2026-07-27
-- Wie viel kostet es? — 282.50326 USD
+- Wie viel kostet es? — 281.87301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

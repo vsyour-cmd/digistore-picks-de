@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/712072?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/712072"
@@ -22,7 +22,7 @@ language: "de"
 # Pour Ellie – Rezepte für Welpen und Junghunde
 
 > Product ID `58882` · Digistore24 productId `712072` · [HTML profile page](../../produkte/pour-ellie-rezepte-f-r-welpen-und-junghunde-58882.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 5 vollständig berechnete Rezepte für Welpen und Junghunde – zum Kochen oder für die Rohfütterung (BARF) Gerade im Wachstum ist eine ausgewogene Nährstoffversorgung besonders wichtig. Wer seinen Welpen frisch ernähren möchte, steht deshalb schnell vor Fragen: Bekommt er ausreichend Calcium und Phosphor? Wie viel Energie benötigt er aktuell? Welche Vitamine, Mineralstoffe und Fettsäuren müssen berüc…
+**Vendor's marketplace description:** <p><strong>5 vollständig berechnete Rezepte für Welpen und Junghunde – zum Kochen oder für die Rohfütterung (BARF)</strong></p>
+<p>Gerade im Wachstum ist eine ausgewogene Nährstoffversorgung besonders wichtig. Wer seinen Welpen frisch ernähren möchte, steht deshalb schnell vor Fragen: Bekommt er ausreichend Calcium und Phosphor? Wie viel Energie benötigt er aktuell? Welche Vitamine, Mineralstoffe und Fettsäuren müssen berücksichtigt werden? Und wie wird ein Rezept an Gewicht und Wachstumsphase angepasst?</p>
+<p>Die <strong>Pour Ellie Rezeptesammlung für Welpen</strong> bietet eine praktische Lösung für Hundehalter, die ihren Welpen frisch ernähren möchten, ohne jede Ration selbst von Grund auf berechnen zu müssen.</p>
+<p>Enthalten sind <strong>5 vollständig aufgebaute und berechnete Welpenrezepte</strong>, die speziell für Welpen und Junghunde im Wachstum konzipiert wurden.</p>
+<p><strong>Das Besondere:</strong></p>
+<p>Alle Rezepte sind als <strong>1000-kcal-Grundrezepte</strong> aufgebaut. Die gesamte Ration wird anschließend proportional auf den individuellen Energiebedarf des Welpen umgerechnet. Dabei werden Fleisch, weitere tierische Bestandteile, Gemüse, Kohlenhydratquellen, Fette, Öle, Mineralstoffe, Vitamine, Spurenelemente und weitere Ergänzungen gemeinsam angepasst.</p>
+<p>Dadurch bleiben die berechneten Verhältnisse der Ration erhalten. Jedes Rezept enthält außerdem eine transparente Nährstoffauswertung.</p>
+<p><strong>Enthalten sind:</strong></p>
+<p>• 5 vollständig berechnete Welpenrezepte<br />• unterschiedliche Protein- und Zutatenkombinationen<br />• genaue Zutaten- und Mengenangaben<br />• Angaben zu Energiegehalt und Energiedichte<br />• Hinweise zur gekochten und rohen Umsetzung<br />• Anleitung zur individuellen Anpassung an den eigenen Welpen<br />• Schritt-für-Schritt-Video zur Umrechnung<br />• ausführliche PDF-Anleitung zur Umrechnung<br />• konkrete Produktliste der verwendeten Ergänzungen<br />• Moro’sche Karottensuppe<br />• Knochenbrühe<br />• Leinsamenschleim<br />• getrocknete Snacks</p>
+<p>Die Rezepte können grundsätzlich gekocht oder – abhängig von den jeweiligen Zutaten – teilweise roh umgesetzt werden. Zutaten, die zwingend gekocht werden müssen, sind entsprechend gekennzeichnet.</p>
+<p><strong>Für wen eignet sich die Rezeptesammlung?</strong></p>
+<p>Für Hundehalter, die einen <strong>gesunden Welpen oder Junghund frisch ernähren</strong>, selbst kochen oder roh bzw. BARF-orientiert füttern möchten und konkrete, berechnete Rezepte statt unverbindlicher Rezeptideen suchen.</p>
+<p>Die Käufer müssen dabei nicht selbst sämtliche Bedarfswerte und Nährstofftabellen berechnen, lernen aber, die Grundrezepte korrekt an Gewicht, erwartetes Endgewicht und Wachstumsphase ihres Welpen anzupassen.</p>
+<p><strong>Für wen eignet sich das Partnerprogramm?</strong></p>
+<p>Besonders interessant für Züchter, Hundetrainer, Hundeschulen, Tierarztpraxen, Tiertherapeuten, Hundeernährungsberater, Tierkommunikatoren, Hundephysiotherapeuten, Hundebetreuer sowie Content Creator mit einer Zielgruppe aus Hundehaltern.</p>
+<p>Gerade für Züchter und Hundeschulen ist dieses Produkt besonders interessant, weil sie Welpenbesitzer häufig genau in der sensiblen Wachstumsphase begleiten.</p>
+<p><strong>Warum dieses Produkt empfehlen?</strong></p>
+<p>• klar definierte Zielgruppe: Welpen- und Junghundhalter<br />• 5 vollständig berechnete Grundrezepte statt ungeprüfter Rezeptideen<br />• speziell für die Wachstumsphase entwickelt<br />• genaue Mengen- und Zutatenangaben<br />• berechnete Vitamin- und Mineralstoffversorgung<br />• individuelle Anpassung an Energiebedarf und Wachstumsphase<br />• zum Kochen und für geeignete rohe Komponenten nutzbar<br />• ausführliches Umrechnungsvideo und PDF-Anleitung<br />• direkte Umsetzung ohne tiefes ernährungswissenschaftliches Vorwissen<br />• sofortiger Onlinezugang<br />• 120 Tage Zugriff; innerhalb dieses Zeitraums können die Rezepte heruntergeladen werden<br />• <strong>Teil der Pour-Ellie-Wissenswelt rund um Hundeernährung und Tierfutterherstellung</strong></p>
+<p><strong>Affiliate-Provision: 40 %</strong></p>
+<p>Die Zuordnung der vermittelten Verkäufe und die Abrechnung der Provision erfolgen automatisch über Digistore24.</p>
 
 ## 2. Links
 

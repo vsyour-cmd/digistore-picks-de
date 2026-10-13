@@ -4,16 +4,16 @@ digistore24_product_id: 734021
 title: "Maya, digitale Assistentin: bis 980 € pro Kunde + monatlich"
 vendor: "geochatai"
 product_type: "Remote service provided electronically"
-price: 5490.94
+price: 5478.69
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 1098.19
+earnings_per_sale: 1095.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Software","Real Estate"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://geochatai.de/bestellen?aff=adminstore#aff=adminstore"
 sales_page: "https://geochatai.de/bestellen"
@@ -22,16 +22,16 @@ language: "de"
 # Maya, digitale Assistentin: bis 980 € pro Kunde + monatlich
 
 > Product ID `60038` · Digistore24 productId `734021` · [HTML profile page](../../produkte/maya-digitale-assistentin-bis-980-pro-kunde-monatlich-60038.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $5490.94 (Single payment) |
+| Price | $5478.69 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $1098.19 |
+| Earnings/sale* | $1095.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | geochatai |
@@ -41,7 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Maya: digitale Assistentin für WhatsApp und Telefon Maya beantwortet Kundenanfragen kleiner Betriebe rund um die Uhr auf WhatsApp und im Paket mit Telefon auch am Telefon. Sie verschickt Unterlagen wie Exposés oder Leistungsübersichten sofort, bucht Termine direkt in den Kalender des Betriebs und fasst bei offenen Anfragen nach. GEOChatAi richtet Maya für jeden Kunden persönlich ein und betreut si…
+**Vendor's marketplace description:** <h3>Maya: digitale Assistentin für WhatsApp und Telefon</h3>
+<p>Maya beantwortet Kundenanfragen kleiner Betriebe rund um die Uhr auf WhatsApp und im Paket mit Telefon auch am Telefon. Sie verschickt Unterlagen wie Exposés oder Leistungsübersichten sofort, bucht Termine direkt in den Kalender des Betriebs und fasst bei offenen Anfragen nach. GEOChatAi richtet Maya für jeden Kunden persönlich ein und betreut sie im laufenden Betrieb.</p>
+<h4>Zielgruppe</h4>
+<p>Immobilienmakler, Handwerksbetriebe und Dienstleister mit vielen Kundenanfragen, vor allem Inhaber und kleine Teams in Deutschland, Österreich und der Schweiz.</p>
+<h4>Ihre Provision</h4>
+<ul>
+<li>20 % auf die Einrichtung: 580 € bei Maya Chat, 980 € bei Maya Chat + Telefon</li>
+<li>10 % auf jede Monatsrate, solange der Kunde zahlt: 75 € oder 139 € pro Monat</li>
+</ul>
+<p>Alle Beträge netto. Die Auszahlung übernimmt Digistore24.</p>
+<h4>So läuft der Verkauf</h4>
+<p>Sie empfehlen Maya und stellen den Kontakt her oder schicken Interessenten Ihren Partnerlink: https://geochatai.de/bestellen?aff=IHRE-DIGISTORE-ID. Herr Tatlici führt das Erstgespräch und übernimmt Einrichtung und Betreuung. Die Bestellung läuft über Digistore24, Ihre Affiliate-ID wird dabei automatisch zugeordnet.</p>
+<h4>Für Ihre Empfehlung gilt</h4>
+<ul>
+<li>Maya heißt nach außen „digitale Assistentin“.</li>
+<li>Keine Zusagen zu Ergebnissen, Anfragen oder Umsätzen und keine Garantieversprechen.</li>
+<li>Keine eigenen Preisnachlässe oder Sonderkonditionen.</li>
+<li>GEOChatAi betreut je Branche einen Betrieb pro Postleitzahl.</li>
+</ul>
+<h4>Partnerschaft</h4>
+<p>Partnerschaften werden persönlich freigegeben. Schreiben Sie kurz, wie Sie Maya empfehlen möchten, an info@geochatai.de.</p>
 
 ## 2. Links
 
@@ -82,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Maya, digitale Assistentin: bis 980 € pro Kunde + monatlich? — Typ: Remote service provided electronically, Anbieter: geochatai, gelistet seit 2026-09-29
-- Wie viel kostet es? — 5490.9400000000005 USD
+- Wie viel kostet es? — 5478.6900000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

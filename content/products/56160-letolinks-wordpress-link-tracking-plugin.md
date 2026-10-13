@@ -4,16 +4,16 @@ digistore24_product_id: 658205
 title: "LetoLinks – WordPress Link-Tracking-Plugin"
 vendor: "tlmedia"
 product_type: "Software"
-price: 43.7
+price: 43.61
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 10.93
+earnings_per_sale: 10.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software"]
 listed_since: "2025-12-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://letoforge.com/plugins/letolinks/?aff=adminstore#aff=adminstore"
 sales_page: "https://letoforge.com/plugins/letolinks/"
@@ -22,16 +22,16 @@ language: "de"
 # LetoLinks – WordPress Link-Tracking-Plugin
 
 > Product ID `56160` · Digistore24 productId `658205` · [HTML profile page](../../produkte/letolinks-wordpress-link-tracking-plugin-56160.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $43.70 (Subscription) |
+| Price | $43.61 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $10.93 |
+| Earnings/sale* | $10.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tlmedia |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** LetoLinks ist ein WordPress-Plugin für Link-Tracking und URL-Management – entwickelt speziell für den deutschsprachigen Markt. Deine Besucher können kostenlos starten und upgraden, wenn sie den Mehrwert sehen. Das senkt die Hemmschwelle und erhöht deine Conversion-Rate als Affiliate.
+**Vendor's marketplace description:** <p>LetoLinks ist ein WordPress-Plugin für Link-Tracking und URL-Management – entwickelt speziell für den deutschsprachigen Markt. Deine Besucher können kostenlos starten und upgraden, wenn sie den Mehrwert sehen. Das senkt die Hemmschwelle und erhöht deine Conversion-Rate als Affiliate.</p>
 
 ## 2. Links
 
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LetoLinks – WordPress Link-Tracking-Plugin? — Typ: Software, Anbieter: tlmedia, gelistet seit 2025-12-31
-- Wie viel kostet es? — 43.7034 USD
+- Wie viel kostet es? — 43.605900000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

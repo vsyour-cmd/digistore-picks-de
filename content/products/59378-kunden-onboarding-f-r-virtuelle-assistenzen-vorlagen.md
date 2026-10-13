@@ -4,16 +4,16 @@ digistore24_product_id: 735002
 title: "Kunden-Onboarding für virtuelle Assistenzen – Vorlagen"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.37
+earnings_per_sale: 18.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Office Organization"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735002?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735002"
@@ -22,16 +22,16 @@ language: "de"
 # Kunden-Onboarding für virtuelle Assistenzen – Vorlagen
 
 > Product ID `59378` · Digistore24 productId `735002` · [HTML profile page](../../produkte/kunden-onboarding-f-r-virtuelle-assistenzen-vorlagen-59378.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.37 |
+| Earnings/sale* | $18.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Starte neue VA-Kundenprojekte mit einem klaren Auftrag, vereinbarten Freigaben und geordneten Zugängen. Die editierbaren Unterlagen begleiten dich vom Briefing bis zur Übergabe. DAS IST ENTHALTEN• Editierbare Unterlagen für Briefing, 30-Minuten-Kickoff, Änderungen, Status, Freigabe und Offboarding• XLSX-Projektplan mit 30 Aufgabenzeilen, 20 Zugangszeilen und 20 Übergabezeilen• Ein vollständiges fi…
+**Vendor's marketplace description:** <p>Starte neue VA-Kundenprojekte mit einem klaren Auftrag, vereinbarten Freigaben und geordneten Zugängen. Die editierbaren Unterlagen begleiten dich vom Briefing bis zur Übergabe.</p>
+<p>DAS IST ENTHALTEN<br />• Editierbare Unterlagen für Briefing, 30-Minuten-Kickoff, Änderungen, Status, Freigabe und Offboarding<br />• XLSX-Projektplan mit 30 Aufgabenzeilen, 20 Zugangszeilen und 20 Übergabezeilen<br />• Ein vollständiges fiktives Newsletter-Projekt als Anwendungsbeispiel<br />• Acht Arbeitsbuchseiten als PDF und bearbeitbares DOCX</p>
+<p>SO NUTZT DU DAS PAKET<br />ZIP entpacken, Arbeitsbuch lesen, eine eigene Kopie speichern und Platzhalter sowie Beispieldaten ersetzen. Du erhältst einen deutschsprachigen digitalen Download, keinen Videokurs und kein persönliches Coaching.</p>
+<p>VORAUSSETZUNGEN<br />PDF-Reader und ein kompatibles Office-Programm für DOCX und XLSX. Softwarelizenzen sind nicht enthalten.</p>
+<p>WICHTIG<br />Organisationsvorlagen, keine Vertrags- oder Datenschutzvereinbarungen. Keine Passwörter oder Zugangstoken in den Dateien speichern. Kein Kundenakquise- oder Einkommensversprechen.</p>
+<p>NUTZUNG<br />Für deine eigene berufliche Arbeit und ausgefüllte Unterlagen für deine VA-Kunden. Keine Weiterveräußerung oder öffentliche Verteilung der unveränderten Vorlagendateien. Keine Garantie für Umsatz, Zeitersparnis oder bestimmte Kennzahlen.</p>
+<p>Für Affiliates: 50 % Provision. Zielgruppe: virtuelle Assistenzen mit Kundenprojekten. Keine Einkommens- oder Erfolgsgarantien. Kontakt: info@einfachhaltbar.de.</p>
 
 ## 2. Links
 
@@ -91,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kunden-Onboarding für virtuelle Assistenzen – Vorlagen? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-19
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

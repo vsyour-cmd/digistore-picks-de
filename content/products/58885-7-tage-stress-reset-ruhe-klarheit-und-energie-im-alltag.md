@@ -4,34 +4,34 @@ digistore24_product_id: 645388
 title: "7-Tage-Stress-Reset: Ruhe, Klarheit und Energie im Alltag"
 vendor: "callidus"
 product_type: "Member area and video courses"
-price: 47.08
+price: 46.97
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.54
+earnings_per_sale: 23.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.callidus-am.de/stress-reset-kurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58885/adminstore/"
 sales_page: "https://www.callidus-am.de/stress-reset-kurs/"
 language: "de"
 ---
 # 7-Tage-Stress-Reset: Ruhe, Klarheit und Energie im Alltag
 
 > Product ID `58885` · Digistore24 productId `645388` · [HTML profile page](../../produkte/7-tage-stress-reset-ruhe-klarheit-und-energie-im-alltag-58885.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $47.08 (Single payment) |
+| Price | $46.97 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.54 |
+| Earnings/sale* | $23.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | callidus |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb einen kompakten deutschsprachigen Videokurs für Menschen, die im anspruchsvollen Alltag mehr Ruhe, Klarheit und Energie suchen. Das Angebot:• 7 Tage mit kurzen Wissensimpulsen, geführter Praxis und Reflexion• ca. 10 Minuten pro Tag, ohne App und ohne Leistungsdruck• Vollzugang zum Bundle (Module 4–7) inklusive PDFs und Zukunftsanker-Bonus• Verkaufsseite mit kostenlosem Starter-Paket als nie…
+**Vendor's marketplace description:** <p>Bewirb einen kompakten deutschsprachigen Videokurs für Menschen, die im anspruchsvollen Alltag mehr Ruhe, Klarheit und Energie suchen.</p>
+<p>Das Angebot:<br />• 7 Tage mit kurzen Wissensimpulsen, geführter Praxis und Reflexion<br />• ca. 10 Minuten pro Tag, ohne App und ohne Leistungsdruck<br />• Vollzugang zum Bundle (Module 4–7) inklusive PDFs und Zukunftsanker-Bonus<br />• Verkaufsseite mit kostenlosem Starter-Paket als niedrigschwelliger Einstieg</p>
+<p>Deine Vorteile:<br />• 50 % Affiliate-Provision<br />• Automatische Partnerschaftsfreigabe<br />• Die Einzelmodule 4 und 5 werden ebenfalls zum Bewerben freigeschaltet<br />• Werbetexte, Produktbild und klare Vermarktungsleitlinien auf der Affiliate-Support-Seite</p>
+<p>Zielgruppe: deutschsprachige Erwachsene mit wenig Zeit und viel Verantwortung. Bitte transparent als Werbung kennzeichnen und keine Heil-, Diagnose- oder Therapieversprechen verwenden.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.callidus-am.de/stress-reset-kurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58885/adminstore/
 - Sales page: https://www.callidus-am.de/stress-reset-kurs/
 - Vendor affiliate support: https://www.callidus-am.de/affiliate-stress-reset/
 - Canonical redirect: https://www.digistore24.com/redir/645388/adminstore
@@ -98,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 7-Tage-Stress-Reset: Ruhe, Klarheit und Energie im Alltag? — Typ: Member area and video courses, Anbieter: callidus, gelistet seit 2026-09-02
-- Wie viel kostet es? — 47.076406 USD
+- Wie viel kostet es? — 46.971381 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

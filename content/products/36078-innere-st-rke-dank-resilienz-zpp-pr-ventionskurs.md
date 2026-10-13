@@ -4,16 +4,16 @@ digistore24_product_id: 350964
 title: "Innere Stärke dank Resilienz - ZPP Präventionskurs"
 vendor: "glueckwaerts"
 product_type: "Member area and video courses"
-price: 140.31
+price: 140
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 56.12
+earnings_per_sale: 55.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2020-10-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.glueckwaerts.com/ok-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://www.glueckwaerts.com/ok-ds"
@@ -22,16 +22,16 @@ language: "de"
 # Innere Stärke dank Resilienz - ZPP Präventionskurs
 
 > Product ID `36078` · Digistore24 productId `350964` · [HTML profile page](../../produkte/innere-st-rke-dank-resilienz-zpp-pr-ventionskurs-36078.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $140.31 (Single payment, Installment) |
+| Price | $140.00 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $56.12 |
+| Earnings/sale* | $55.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | glueckwaerts |
@@ -41,7 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 1. Hohe Kaufbereitschaft durch Krankenkassenzuschuss Gemäß §20 SGB V erstatten alle gesetzlichen Krankenkassen die Kosten (anteilig je nach Krankenkasse) für diesen Präventionskurs zurück. 2. Brandaktuelles Thema: Resilienz / Krisenbewältigung In schweren Zeiten brauchen wir vor allem psychische Widerstandskraft. Dieser Kurs stärkt die Resilienz Resilienz hilft sie uns: mit Veränderungen besser um…
+**Vendor's marketplace description:** <h2>1. Hohe Kaufbereitschaft durch Krankenkassenzuschuss</h2>
+<p>Gemäß §20 SGB V erstatten alle gesetzlichen Krankenkassen die Kosten (anteilig je nach Krankenkasse) für diesen Präventionskurs zurück.</p>
+<h2>2. Brandaktuelles Thema: Resilienz / Krisenbewältigung</h2>
+<p>In schweren Zeiten  brauchen wir vor allem psychische Widerstandskraft. Dieser Kurs stärkt die Resilienz</p>
+<p>Resilienz hilft sie uns:</p>
+<ul>
+<li>
+<p>mit Veränderungen besser umzugehen, anstatt sie zu verteufeln</p>
+</li>
+<li>
+<p>aktiv zu werden, anstatt uns machtlos zu fühlen</p>
+</li>
+<li>
+<p>zuversichtlich zu bleiben, anstatt frustriert aufzugeben</p>
+</li>
+</ul>
+<h2>3. Hohe Qualität dank ZPP Siegel</h2>
+<p>Kurse mit dem ZPP-Siegel entsprechen inhaltlich einem Qualitätsstandard und bedienen sich ausschließlich anerkannter Methoden zur Gesundheitsprävention. Ausschließlich Kursleiter mit einer ausreichenden fachlichen Eignung dürfen diese ZPP-Kurse anbieten.</p>
+<h2>4. Hohe Provision (40%)</h2>
+<p>40% Provsion pro Verkauf über diese Plattform.</p>
 
 ## 2. Links
 
@@ -101,7 +120,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Innere Stärke dank Resilienz - ZPP Präventionskurs? — Typ: Member area and video courses, Anbieter: glueckwaerts, gelistet seit 2020-10-05
-- Wie viel kostet es? — 140.310326 USD
+- Wie viel kostet es? — 139.997301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

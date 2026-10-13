@@ -4,34 +4,34 @@ digistore24_product_id: 555570
 title: "Video-Kurs: Ganzkörperklopfen für Frauen 45+ (Spitzenprodukt"
 vendor: "SabineQigong"
 product_type: "Member area and video courses"
-price: 168.09
+price: 167.72
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 84.05
+earnings_per_sale: 83.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/klopfmassagefrauen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56715/adminstore/"
 sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/klopfmassagefrauen"
 language: "de"
 ---
 # Video-Kurs: Ganzkörperklopfen für Frauen 45+ (Spitzenprodukt
 
 > Product ID `56715` · Digistore24 productId `555570` · [HTML profile page](../../produkte/video-kurs-ganzk-rperklopfen-f-r-frauen-45-spitzenprodukt-56715.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $168.09 (Single payment) |
+| Price | $167.72 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $84.05 |
+| Earnings/sale* | $83.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SabineQigong |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte 50% Provision pro Verkauf rechnen. Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel. Besuche über den Link unten auch gerne meine Affiliate Supportseite, denn dort findest du jede Menge sehr gute und attraktive Werbem…
+**Vendor's marketplace description:** <p>Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte </p>
+<h2><strong>50% Provision pro Verkauf</strong></h2>
+<p>rechnen.</p>
+<p><strong>Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel.</strong></p>
+<p>Besuche über den Link unten auch gerne meine <strong>Affiliate Supportseite</strong>, denn dort findest du jede Menge sehr gute und <strong>attraktive Werbemittel:</strong> Vorlage-Newsletter, Werbebanner in allen Größen,...</p>
+<p><strong>Das bewirbst du:</strong></p>
+<p>Dieser Qigong-Kurs ist hilfreich</p>
+<ul>
+<li>um im ganzen Körper die Durchblutung anzuregen</li>
+<li>Verspannungen zu lösen</li>
+<li>Ruhe ins Nervensystem zu bringen</li>
+<li>bei hormonellen Beschwerden: Wechseljahre, Schmerzen, Osteoporose...</li>
+<li>um mehr Energie aufzubauen </li>
+</ul>
+<p><strong>Zielgruppe:</strong></p>
+<p>Frauen <strong>45+</strong>, welche aktiv für ihr Wohlbefinden sorgen und wieder ihre wohlverdiente <strong>körperliche Gesundheit und emotionale Ausgeglichenheit mit Qigong zurückerobern</strong> wollen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sabine-tukovits-fischer.app.mentortools.com/klopfmassagefrauen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56715/adminstore/
 - Sales page: https://sabine-tukovits-fischer.app.mentortools.com/klopfmassagefrauen
 - Vendor affiliate support: https://sabine-tukovits-fischer.app.mentortools.com/fur-affiliates-2-2
 - Canonical redirect: https://www.digistore24.com/redir/555570/adminstore
@@ -89,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Video-Kurs: Ganzkörperklopfen für Frauen 45+ (Spitzenprodukt? — Typ: Member area and video courses, Anbieter: SabineQigong, gelistet seit 2026-05-27
-- Wie viel kostet es? — 168.09 USD
+- Wie viel kostet es? — 167.715 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

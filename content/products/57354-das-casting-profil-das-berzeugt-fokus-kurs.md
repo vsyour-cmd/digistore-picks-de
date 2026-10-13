@@ -4,16 +4,16 @@ digistore24_product_id: 689114
 title: "Das Casting-Profil, das überzeugt — Fokus-Kurs"
 vendor: "silja3cbc"
 product_type: "Member area and video courses"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 9.75
+earnings_per_sale: 9.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.peoplecastagency.com/kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.peoplecastagency.com/kurs"
@@ -22,16 +22,16 @@ language: "de"
 # Das Casting-Profil, das überzeugt — Fokus-Kurs
 
 > Product ID `57354` · Digistore24 productId `689114` · [HTML profile page](../../produkte/das-casting-profil-das-berzeugt-fokus-kurs-57354.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.97 (Single payment) |
+| Price | $64.83 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $9.75 |
+| Earnings/sale* | $9.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | silja3cbc |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wie dein Casting-Profil hinter den Kulissen gelesen wird — und was du konkret ändern kannst, damit Caster:innen und Agenturen sofort damit arbeiten können. Im Kurs erwarten dich: rund 35 Minuten Videomaterial in 4 Kapiteln, eine Live-Demonstration aus meinem Casting-System und 4 Arbeits-PDFs (Foto-Checkliste, Stammdaten-Guide, Mess-Guide, Credits-Guide). Praxis statt Theorie — direkt anwendbar, so…
+**Vendor's marketplace description:** <p>Wie dein Casting-Profil hinter den Kulissen gelesen wird — und was du konkret ändern kannst, damit Caster:innen und Agenturen sofort damit arbeiten können.</p>
+<p>Im Kurs erwarten dich: rund 35 Minuten Videomaterial in 4 Kapiteln, eine Live-Demonstration aus meinem Casting-System und 4 Arbeits-PDFs (Foto-Checkliste, Stammdaten-Guide, Mess-Guide, Credits-Guide).</p>
+<p>Praxis statt Theorie — direkt anwendbar, sobald du das erste Kapitel angeschaut hast.</p>
 
 ## 2. Links
 
@@ -79,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Casting-Profil, das überzeugt — Fokus-Kurs? — Typ: Member area and video courses, Anbieter: silja3cbc, gelistet seit 2026-07-02
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

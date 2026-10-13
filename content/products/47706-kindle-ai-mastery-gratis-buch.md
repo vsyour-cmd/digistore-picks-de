@@ -4,16 +4,16 @@ digistore24_product_id: 546701
 title: "Kindle AI Mastery - Gratis Buch"
 vendor: "webpirat"
 product_type: "E-books"
-price: 1.08
+price: 1.07
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 0.43
+earnings_per_sale: 0.42
 cart_conversion_pct: 37
 cancel_rate_pct: 2.7
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-04-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/kindle-ai-mastery/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/kindle-ai-mastery/"
@@ -22,16 +22,16 @@ language: "de"
 # Kindle AI Mastery - Gratis Buch
 
 > Product ID `47706` · Digistore24 productId `546701` · [HTML profile page](../../produkte/kindle-ai-mastery-gratis-buch-47706.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $1.08 (Single payment) |
+| Price | $1.07 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $0.43 |
+| Earnings/sale* | $0.42 |
 | Cart conversion* | 37% |
 | Cancel rate* | 2.7% |
 | Vendor | webpirat |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Kindle AI Mastery" zeigt in in einer anfängerfreundlichen Weise, wie man mit Amazon Kindle (Amazon KDP) online Geld verdienen kann. Das E-Book enthält 5 Lektionen auf 20 Seiten. Deine Vorteile als Partner: Qualitatives Freebie, welches du deiner Zielgruppe schneken und somit mehr Vertrauen aufbauen kannst. 50% auf alle unsere Produkte im Funnel 180 Tage Cookie-Laufzeit Qualitätsprodukte erstellt …
+**Vendor's marketplace description:** <p>"Kindle AI Mastery" zeigt in in einer anfängerfreundlichen Weise, wie man mit Amazon Kindle (Amazon KDP) online Geld verdienen kann. Das E-Book enthält 5 Lektionen auf 20 Seiten.</p>
+<p><strong>Deine Vorteile als Partner</strong>:</p>
+<ul>
+<li>Qualitatives Freebie, welches du deiner Zielgruppe schneken und somit mehr Vertrauen aufbauen kannst.</li>
+<li>50% auf alle unsere Produkte im Funnel</li>
+<li>180 Tage Cookie-Laufzeit</li>
+<li>Qualitätsprodukte erstellt von Webpirat.de</li>
+</ul>
+<div style="width:0px;height:0px;"> </div>
+<div style="width:0px;height:0px;"></div>
 
 ## 2. Links
 
@@ -73,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Kindle AI Mastery - Gratis Buch? — Typ: E-books, Anbieter: webpirat, gelistet seit 2024-04-04
-- Wie viel kostet es? — 1.075776 USD
+- Wie viel kostet es? — 1.073376 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

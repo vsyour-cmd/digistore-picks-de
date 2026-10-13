@@ -4,34 +4,34 @@ digistore24_product_id: 660528
 title: "Zeitmanagement / Selbstmanagement ebook"
 vendor: "hartmut-sieck"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 6.8
+earnings_per_sale: 6.79
 cart_conversion_pct: 31
 cancel_rate_pct: 6.24
 categories: ["Education","Profession & Job"]
 listed_since: "2026-01-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.sieck-consulting.de/ebook-zeitmanagement/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55303/adminstore/"
 sales_page: "https://www.sieck-consulting.de/ebook-zeitmanagement/"
 language: "de"
 ---
 # Zeitmanagement / Selbstmanagement ebook
 
 > Product ID `55303` · Digistore24 productId `660528` · [HTML profile page](../../produkte/zeitmanagement-selbstmanagement-ebook-55303.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $6.80 |
+| Earnings/sale* | $6.79 |
 | Cart conversion* | 31% |
 | Cancel rate* | 6.24% |
 | Vendor | hartmut-sieck |
@@ -41,11 +41,47 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ebook 66 Tage Zeitmanagement Challenge Für wen ist dieses ebook interessant? Für alle, die sich mit dem Thema Zeitmanagement / Selbstmanagement befassen möchten bzw. ihr eigenes Zeitmanagement reflektieren und weiterentwickeln möchten. Was ist das besondere an diesem ebook? Es handelt sich um das Handbuch zum Seminar "66 Tage Zeitmanagement Challenge". Dieses Seminar wird nur exklusiv für Firmen d…
+**Vendor's marketplace description:** <h1>ebook</h1>
+<h1>66 Tage Zeitmanagement Challenge</h1>
+<p> </p>
+<p><strong>Für wen ist dieses ebook interessant?</strong></p>
+<p>Für alle, die sich mit dem Thema Zeitmanagement / Selbstmanagement befassen möchten bzw. ihr eigenes Zeitmanagement reflektieren und weiterentwickeln möchten.</p>
+<p> </p>
+<p><strong>Was ist das besondere an diesem ebook?</strong></p>
+<ol>
+<li>Es handelt sich um das Handbuch zum Seminar "66 Tage Zeitmanagement Challenge". Dieses Seminar wird nur exklusiv für Firmen durchgeführt und mit dem ebook haben alle die Möglichkeit, die Themen im Selbststudium durchzuarbeiten.</li>
+<li>Das ebook umfasst mit seinen 8 Kapitel das gesamte Spektrum vom Arbeitsumfeld bis zum Privatleben.</li>
+</ol>
+<p> </p>
+<p><strong>In welchem Format gibt es das ebook?</strong></p>
+<p>Das ebook wird als pdf Dokument ausgeliefert und ist optimiert für die Anwendung auf dem Tablet (quer) bzw. auf einem PC / Notebook.</p>
+<p> </p>
+<p><strong>Wie umfangreich ist das ebook?</strong></p>
+<p>Über 80 Seiten mit vielen Tipps aus der Praxis.</p>
+<p> </p>
+<p><strong>Wie ist das ebook strukturiert?</strong></p>
+<p>Es besteht aus 8 Kapiteln:</p>
+<ol>
+<li>Tagesplanung / der perfekte Tag</li>
+<li>Vom E-Mail-Wahnsinn zur Inbox Zero</li>
+<li>PC-Shortcuts - meine Favoriten</li>
+<li>OneNote - Das Notizbuch, dass du immer dabei hast!</li>
+<li>(Online) Meetings</li>
+<li>Dein Smartphone</li>
+<li>Ohne Energie und Gesundheit kannst du alles andere vergessen!</li>
+<li>Ballast abwerfen, oder "Simplify your life"</li>
+</ol>
+<p> </p>
+<p><strong>Wie viel Provision erhältst du?</strong></p>
+<p>20%</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.sieck-consulting.de/ebook-zeitmanagement/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55303/adminstore/
 - Sales page: https://www.sieck-consulting.de/ebook-zeitmanagement/
 - Vendor affiliate support: https://www.sieck-consulting.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/660528/adminstore
@@ -59,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Zeitmanagement / Selbstmanagement ebook? — Typ: E-books, Anbieter: hartmut-sieck, gelistet seit 2026-01-11
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 736264
 title: "LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook)"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 52.15
+price: 52.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.08
+earnings_per_sale: 26.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://life-06-ege.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://life-06-ege.pages.dev/"
@@ -22,16 +22,16 @@ language: "de"
 # LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook)
 
 > Product ID `59558` · Digistore24 productId `736264` · [HTML profile page](../../produkte/life-06-life-profil-gesamtsystem-pdf-workbook-59558.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.15 (Single payment) |
+| Price | $52.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.08 |
+| Earnings/sale* | $26.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** PDF-Workbook (29 Seiten A4) für ein persönliches LIFE-Profil und ein klares Gesamtsystem: Leben als System, Entscheidungen, Schutz & Grenzen, Ordnung, Automatisieren ohne Kontrollverlust und Mensch im Mittelpunkt. Einmaliger Kauf, kein Abo. Bildungs-/Arbeitsmaterial — keine Rechts-/Steuer-/Anlage-/Gesundheitsberatung. Affiliate-Support: https://life-06-ege.pages.dev/affiliates/
+**Vendor's marketplace description:** <p>PDF-Workbook (29 Seiten A4) für ein persönliches LIFE-Profil und ein klares Gesamtsystem: Leben als System, Entscheidungen, Schutz &amp; Grenzen, Ordnung, Automatisieren ohne Kontrollverlust und Mensch im Mittelpunkt.</p>
+<p>Einmaliger Kauf, kein Abo. Bildungs-/Arbeitsmaterial — keine Rechts-/Steuer-/Anlage-/Gesundheitsberatung.</p>
+<p><strong>Affiliate-Support:</strong> <a href="https://life-06-ege.pages.dev/affiliates/">https://life-06-ege.pages.dev/affiliates/</a></p>
 
 ## 2. Links
 
@@ -96,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist LIFE 06 — LIFE-Profil & Gesamtsystem (PDF-Workbook)? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-22
-- Wie viel kostet es? — 52.152724 USD
+- Wie viel kostet es? — 52.036374 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

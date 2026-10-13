@@ -4,16 +4,16 @@ digistore24_product_id: 738864
 title: "Setwert-Halteplan: Gewicht halten nach dem Abnehmen (40 % Provision)"
 vendor: "setwert"
 product_type: "Member area and video courses"
-price: 98.88
+price: 98.66
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 39.56
+earnings_per_sale: 39.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://setwert.de/halteplan/?aff=adminstore#aff=adminstore"
 sales_page: "https://setwert.de/halteplan/"
@@ -22,16 +22,16 @@ language: "de"
 # Setwert-Halteplan: Gewicht halten nach dem Abnehmen (40 % Provision)
 
 > Product ID `60120` · Digistore24 productId `738864` · [HTML profile page](../../produkte/setwert-halteplan-gewicht-halten-nach-dem-abnehmen-40-provision-60120.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $98.88 (Single payment, Installment) |
+| Price | $98.66 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $39.56 |
+| Earnings/sale* | $39.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | setwert |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Schwierigste am Abnehmen kommt danach: das Gewicht halten. Der Setwert-Halteplan ist ein 12-Wochen-Selbstlernprogramm genau für diese Phase. Was drin ist: 12 Wochen, jede Woche eine kurze Lektion, ein Menü mit Einkaufsliste und ein Training für zuhause 32 eiweißreiche Rezepte mit Fotos Halte-Zone, Wochenschnitt und Fortschritt direkt in der App Web-App für Handy und PC, kein Download nötig Pre…
+**Vendor's marketplace description:** <p>Das Schwierigste am Abnehmen kommt danach: das Gewicht halten. Der Setwert-Halteplan ist ein 12-Wochen-Selbstlernprogramm genau für diese Phase.</p>
+<p>Was drin ist:</p>
+<ul>
+<li>12 Wochen, jede Woche eine kurze Lektion, ein Menü mit Einkaufsliste und ein Training für zuhause</li>
+<li>32 eiweißreiche Rezepte mit Fotos</li>
+<li>Halte-Zone, Wochenschnitt und Fortschritt direkt in der App</li>
+<li>Web-App für Handy und PC, kein Download nötig</li>
+</ul>
+<p>Preis: 99 € einmalig, kein Abo. Provision: 40 %.</p>
+<p>Zielgruppe: Menschen im deutschsprachigen Raum, die abgenommen haben (mit Diät, Sport oder nach einer Abnehmspritze) und ihr Gewicht jetzt halten wollen. Passt zu Blogs, Pinterest, Instagram und Newslettern rund um Abnehmen, Ernährung, Rezepte und Fitness.</p>
+<p>Werbemittel (Pins, App-Bilder, Texte zum Kopieren): <a href="https://setwert.de/partner/">https://setwert.de/partner/</a></p>
+<p>Kostenloser Einstieg für deine Leser: der Halte-Check auf setwert.de rechnet Kalorien- und Eiweißbedarf nach dem Abnehmen aus.</p>
+<p>Wichtig: Keine Werbung für Abnehmspritzen oder Medikamente, keine Heilversprechen, kein Coaching versprechen (Selbstlernprogramm ohne persönliche Betreuung), kein Spam, keine Suchanzeigen auf den Markennamen «Setwert».</p>
 
 ## 2. Links
 
@@ -95,7 +107,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Setwert-Halteplan: Gewicht halten nach dem Abnehmen (40 % Provision)? — Typ: Member area and video courses, Anbieter: setwert, gelistet seit 2026-10-02
-- Wie viel kostet es? — 98.881744 USD
+- Wie viel kostet es? — 98.66114400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

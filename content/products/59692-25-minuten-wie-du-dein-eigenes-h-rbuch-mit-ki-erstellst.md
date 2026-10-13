@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://25minuten.carstenfeuerbach.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://25minuten.carstenfeuerbach.com/"
@@ -22,7 +22,7 @@ language: "de"
 # 25 Minuten – Wie Du Dein eigenes Hörbuch mit KI erstellst
 
 > Product ID `59692` · Digistore24 productId `727975` · [HTML profile page](../../produkte/25-minuten-wie-du-dein-eigenes-h-rbuch-mit-ki-erstellst-59692.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Fette Provisionen mit dem kostenlosen Hörbuch "25 Minuten" von Carsten Feuerbach Ein 100% kostenloses Hörbuch dazu, wie man mit KI aus eigenem Wissen in 25 Minuten ein fertiges Hörbuch macht, ganz ohne Studio. Perfekt als Einstieg für deine Zielgruppe, weil kein Kauf nötig ist. Direkt im Anschluss wird der Kampagne24-Promo-Kalender als Upsell angeboten, darüber verdienst du. Provision: 50% auf den…
+**Vendor's marketplace description:** <p><strong>Fette Provisionen mit dem kostenlosen Hörbuch <a href="https://25minuten.carstenfeuerbach.com/" target="_blank" rel="noreferrer noopener">"25 Minuten"</a> von Carsten Feuerbach</strong></p>
+<p>Ein 100% kostenloses Hörbuch dazu, wie man mit KI aus eigenem Wissen in 25 Minuten ein fertiges Hörbuch macht, ganz ohne Studio. <br /><br />Perfekt als Einstieg für deine Zielgruppe, weil kein Kauf nötig ist. Direkt im Anschluss wird der <a href="https://kampagne24.com/sales-promokalender" target="_blank" rel="noreferrer noopener"><strong>Kampagne24-Promo-Kalender</strong> </a>als Upsell angeboten, darüber verdienst du.</p>
+<p><strong>Provision:</strong> 50% auf den Promo-Kalender-Upsell im selben Funnel (37€, also 18,50€ pro Sale für dich)</p>
+<p><strong>Start:</strong> Ab sofort, direkt loslegen!</p>
+<p>✅ 0€ Kaufhürde, dadurch besonders hohe Klickfreude/Opt-in-Rate<br />✅ Direkt danach wird der Kampagne24-Promo-Kalender als Upsell angeboten (37€, 50% Provision für dich)<br />✅ Sofortiger automatischer Zugang, kein Support-Aufwand für dich</p>
+<p><strong>Zielgruppe:</strong></p>
+<ul>
+<li>Affiliates, die ihrer Community ein kostenloses, hochwertiges Freebie zeigen wollen</li>
+<li>Jeder, der Interesse an KI-gestützter Content-Erstellung hat</li>
+<li>Ideal als Erstkontakt-Produkt vor deinen kostenpflichtigen Empfehlungen</li>
+</ul>
+<p><strong>Deine Vorteile als Partner:</strong></p>
+<ul>
+<li>Kein Kaufwiderstand beim Hauptprodukt, dadurch hohe Klick-zu-Eintrag-Rate</li>
+<li>Provision über den Promo-Kalender direkt im selben Funnel</li>
+<li>Schnelle Abrechnung über Digistore24</li>
+</ul>
+<p><a href="https://united.carstenfeuerbach.com/" target="_blank" rel="noreferrer noopener"><strong>Jetzt Partner werden und mit "25 Minuten" starten!</strong></a></p>
+<p>Weitere Infos, Werbemittel &amp; weitere Produkte von Carsten Feuerbach unter: <strong><a title="https://go.carstenfeuerbach.de/partnerprogramm" href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">https://go.carstenfeuerbach.de/partnerprogramm</a></strong></p>
 
 ## 2. Links
 

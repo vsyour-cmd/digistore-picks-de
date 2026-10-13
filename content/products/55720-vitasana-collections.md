@@ -4,16 +4,16 @@ digistore24_product_id: 663520
 title: "VitaSana Collections"
 vendor: "DS24-MySana"
 product_type: "Supplements - for slimming"
-price: 52.67
+price: 52.55
 currency: "USD"
-affiliate_commission_pct: 60
-earnings_per_sale: 31.6
+affiliate_commission_pct: 65
+earnings_per_sale: 34.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-01-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://vitasanacollection.com/8-products-pdp?aff=adminstore#aff=adminstore"
 sales_page: "https://vitasanacollection.com/8-products-pdp"
@@ -22,16 +22,16 @@ language: "de"
 # VitaSana Collections
 
 > Product ID `55720` · Digistore24 productId `663520` · [HTML profile page](../../produkte/vitasana-collections-55720.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $52.67 (Single payment) |
-| Affiliate commission | 60% |
-| Earnings/sale* | $31.60 |
+| Price | $52.55 (Single payment) |
+| Affiliate commission | 65% |
+| Earnings/sale* | $34.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS24-MySana |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** VitaSana Collections - Premium DACH Multi-Product Health Ecosystem Supplements for comprehensive wellness While US affiliates chase single-product offers, smart media buyers are building 7-figure DACH empires with VitaSana Collections—the ultimate cross-sell machine from the team behind GlucoTrust, SlimSana, KetoSana, MetaboSana, CleanseSana, GlucoSana, NerveSana, and VigorSana. The hook? A Harvar…
+**Vendor's marketplace description:** <p><strong>VitaSana Collections - Premium DACH Multi-Product Health Ecosystem</strong></p>
+<p><strong> Supplements for comprehensive wellness</strong></p>
+<p>While US affiliates chase single-product offers, smart media buyers are building 7-figure DACH empires with VitaSana Collections—the ultimate cross-sell machine from the team behind GlucoTrust, SlimSana, KetoSana, MetaboSana, CleanseSana, GlucoSana, NerveSana, and VigorSana. The hook? A Harvard-trained doctor's complete "clinic-exclusive protocol" ecosystem—8 pharmaceutical-grade formulas (SlimSana, MetaboSana, CleanseSana, CurcumaSana, KetoSana, GlucoSana, NerveSana, VigorSana) AND Bundles solving EVERY major health frustration Germans over 40 face: weight gain, energy crash, gut dysfunction, inflammation, blood sugar chaos, nerve pain, and lost masculinity. The angle? Dr. Wood's "Wellness Protocol"—a systematic funnel where buyers self-select their next transformation based on THEIR biggest pain point. No pushy upsells. Just intelligent cross-sell logic that feels like personalized medical advice. Deep funnel = €245+ AOV. Commissions starting at 60%. CPA deals (€130 - €150 / $130 $180) available for volume players. DACH traffic is 40-60% CHEAPER than US with buyers who spend MORE and trust REAL science. Converts freezing cold traffic because the "complete wellness ecosystem" positioning makes skeptical Germans feel like they're finally getting ACCESS to a real doctor's private protocol suite. Low refunds (products actually work). Built-in upsell synergy across ALL 8 products = insane LTV. Same proven team. Same market mastery. You're not promoting a supplement. You're promoting a SYSTEM. First-movers eat. Late arrivals starve.</p>
 
 ## 2. Links
 
@@ -106,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VitaSana Collections? — Typ: Supplements - for slimming, Anbieter: DS24-MySana, gelistet seit 2026-01-22
-- Wie viel kostet es? — 52.6682 USD
+- Wie viel kostet es? — 52.550700000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 704263
 title: "Die Launch-E-Mail-Sequenz"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/launch-email-sequenz?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/launch-email-sequenz"
@@ -22,16 +22,16 @@ language: "de"
 # Die Launch-E-Mail-Sequenz
 
 > Product ID `57286` · Digistore24 productId `704263` · [HTML profile page](../../produkte/die-launch-e-mail-sequenz-57286.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „Die Launch-E-Mail-Sequenz“ Die E-Mails, die deinen Start tragen – Ein Launch wird zu großen Teilen per E-Mail gewonnen. Der Aufbau einer Launch-Sequenz, die Anwärmphase, die Verkaufsphase vom Nutzen zum Angebot, Einwände und Erinnerungen sowie die letzte Mail. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit groß…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Die Launch-E-Mail-Sequenz“</strong></p>
+<p>Die E-Mails, die deinen Start tragen – Ein Launch wird zu großen Teilen per E-Mail gewonnen. Der Aufbau einer Launch-Sequenz, die Anwärmphase, die Verkaufsphase vom Nutzen zum Angebot, Einwände und Erinnerungen sowie die letzte Mail.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
+<li>Gefragtes Thema mit großer Zielgruppe</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Warum die Sequenz das Launch-Rückgrat ist</li>
+<li>Der Aufbau: Anwärm- und Verkaufsphase</li>
+<li>Vom Nutzen zum Angebot führen</li>
+<li>Einwilligung, Abmeldung und faire Werbung</li>
+</ul>
 
 ## 2. Links
 
@@ -85,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Launch-E-Mail-Sequenz? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

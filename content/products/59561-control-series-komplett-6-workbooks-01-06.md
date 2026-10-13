@@ -4,34 +4,34 @@ digistore24_product_id: 736276
 title: "CONTROL Series Komplett — 6 Workbooks (01–06)"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 208.41
+price: 207.94
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 62.52
+earnings_per_sale: 62.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://control-bundle.pages.dev/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/59561/adminstore/"
 sales_page: "https://control-bundle.pages.dev/"
 language: "de"
 ---
 # CONTROL Series Komplett — 6 Workbooks (01–06)
 
 > Product ID `59561` · Digistore24 productId `736276` · [HTML profile page](../../produkte/control-series-komplett-6-workbooks-01-06-59561.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $208.41 (Single payment) |
+| Price | $207.94 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $62.52 |
+| Earnings/sale* | $62.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** CONTROL Series Komplett — sechs PDF-Workbooks (CONTROL, DATA, MONEY, TRADE, TRUST, LIFE). Einmaliger Kauf, kein Abo. Bildungs- und Arbeitsmaterial mit klarer, praktischer Struktur. Warum bewerben?Ein klar umrissenes digitales Bundle für deutschsprachige Zielgruppen, sofortiger Zugriff auf sechs thematisch abgestimmte Workbooks und transparente Produktkommunikation. Geeignet für Affiliates mit pass…
+**Vendor's marketplace description:** <p><strong>CONTROL Series Komplett</strong> — sechs PDF-Workbooks (CONTROL, DATA, MONEY, TRADE, TRUST, LIFE).</p>
+<p>Einmaliger Kauf, kein Abo. Bildungs- und Arbeitsmaterial mit klarer, praktischer Struktur.</p>
+<p><strong>Warum bewerben?</strong><br />Ein klar umrissenes digitales Bundle für deutschsprachige Zielgruppen, sofortiger Zugriff auf sechs thematisch abgestimmte Workbooks und transparente Produktkommunikation. Geeignet für Affiliates mit passender Bildungs- und Produktivitätszielgruppe. Keine Einkommensversprechen; keine Rechts-, Steuer-, Anlage- oder Gesundheitsberatung.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://control-bundle.pages.dev/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/59561/adminstore/
 - Sales page: https://control-bundle.pages.dev/
 - Vendor affiliate support: https://control-bundle.pages.dev/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/736276/adminstore
@@ -98,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CONTROL Series Komplett — 6 Workbooks (01–06)? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-23
-- Wie viel kostet es? — 208.409188 USD
+- Wie viel kostet es? — 207.944238 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

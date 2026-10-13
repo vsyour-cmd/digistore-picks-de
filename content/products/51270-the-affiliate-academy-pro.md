@@ -4,16 +4,16 @@ digistore24_product_id: 583561
 title: "The Affiliate Academy Pro"
 vendor: "marketingmarko"
 product_type: "Member area and video courses"
-price: 1412.15
+price: 1409
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 284.7
+earnings_per_sale: 284.06
 cart_conversion_pct: 3
 cancel_rate_pct: 9.28
 categories: ["Business & Investment","Social Media"]
 listed_since: "2024-11-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.theaffiliateacademy.de/taapro/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.theaffiliateacademy.de/taapro/"
@@ -22,16 +22,16 @@ language: "de"
 # The Affiliate Academy Pro
 
 > Product ID `51270` · Digistore24 productId `583561` · [HTML profile page](../../produkte/the-affiliate-academy-pro-51270.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1412.15 (Installment) |
+| Price | $1409.00 (Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $284.70 |
+| Earnings/sale* | $284.06 |
 | Cart conversion* | 3% |
 | Cancel rate* | 9.28% |
 | Vendor | marketingmarko |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Starte deine Affiliate Marketing Journey Die Affiliate Academy Pro ist die dritte von insgesamt 3 Paketen der Affiliate Academy Reihe und beinhaltet ALLES von der normalen Affiliate Academy und der Affiliate Academy Plus.Ala Affiliate bekommst du lukrative 45% Provision pro Verkauf und eine Conversion Optimierte Landing Page, welche dir den VErkauf vereinfacht.Die Affiliate Academy Pro enhält:1. E…
+**Vendor's marketplace description:** <p><strong>Starte deine Affiliate Marketing Journey<br /></strong></p>
+<p>Die Affiliate Academy Pro ist die dritte von insgesamt 3 Paketen der Affiliate Academy Reihe und beinhaltet ALLES von der normalen Affiliate Academy und der Affiliate Academy Plus.<br /><br />Ala Affiliate bekommst du lukrative <strong>45% Provision pro Verkauf</strong> und eine Conversion Optimierte Landing Page, welche dir den VErkauf vereinfacht.<br /><br />Die Affiliate Academy Pro enhält:<br /><br />1. Eine Videoanleitung mit 80+ Videos<br />2. Eine Teilnehmergruppe mit über 350 Mitgliedern<br />3. 2 Monate lang Zugang zu allen Live Zoom Meetings (alle 2 Tage)<br />4. Privaten WhatsApp Support vom Coach<br />5. Einen kompletten 1-stündigen 1zu1 Strategiecall</p>
+<p>Der perfekte Einstieg für Anfänger ins Affiliate Marketing<br />-&gt; <strong>Wissen, Support, Hilfe</strong></p>
 
 ## 2. Links
 
@@ -66,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist The Affiliate Academy Pro? — Typ: Member area and video courses, Anbieter: marketingmarko, gelistet seit 2024-11-30
-- Wie viel kostet es? — 1412.146502 USD
+- Wie viel kostet es? — 1408.9960770000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

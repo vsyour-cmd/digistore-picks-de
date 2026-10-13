@@ -4,34 +4,34 @@ digistore24_product_id: 699135
 title: "KI-Content Kit: Low-Ticket Hammer (17€) | 50% Prov"
 vendor: "megareichtum"
 product_type: "E-books"
-price: 17.81
+price: 17.77
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 10.68
+earnings_per_sale: 10.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2026-06-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://eternumtech.eu/system/content-ignition-kit?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56869/adminstore/"
 sales_page: "https://eternumtech.eu/system/content-ignition-kit"
 language: "de"
 ---
 # KI-Content Kit: Low-Ticket Hammer (17€) | 50% Prov
 
 > Product ID `56869` · Digistore24 productId `699135` · [HTML profile page](../../produkte/ki-content-kit-low-ticket-hammer-17-50-prov-56869.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.81 (Single payment) |
+| Price | $17.77 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $10.68 |
+| Earnings/sale* | $10.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | megareichtum |
@@ -41,11 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das ETERNUM Content Ignition Kit ist das perfekte Low-Ticket-Produkt für deine Liste! Mit nur 17 € Verkaufspreis ist die Conversion-Rate extrem hoch. Es eignet sich ideal für "Impulskäufe" – ein E-Mail-Mailing reicht aus. Deine Vorteile als Affiliate: 50 % Lifetime-Provision (auch auf zukünftige Backend-Käufe des Leads!) Sofortige Freischaltung ohne Wartezeit (Auto-Accept) Top Conversion Rate dank…
+**Vendor's marketplace description:** <p>Das <strong>ETERNUM Content Ignition Kit</strong> ist das perfekte Low-Ticket-Produkt für deine Liste! Mit nur 17 € Verkaufspreis ist die Conversion-Rate extrem hoch. Es eignet sich ideal für "Impulskäufe" – ein E-Mail-Mailing reicht aus.</p>
+<p><strong>Deine Vorteile als Affiliate:</strong></p>
+<ul>
+<li><strong>50 % Lifetime-Provision</strong> (auch auf zukünftige Backend-Käufe des Leads!)</li>
+<li>Sofortige Freischaltung ohne Wartezeit (Auto-Accept)</li>
+<li>Top Conversion Rate dank 17€ "No-Brainer" Preis</li>
+<li>Hochwertige Salespage: eternumtech.eu/system/content-ignition-kit</li>
+<li>Vollständige E-Mail-Swipes und Werbebanner auf unserer Affiliate-Seite</li>
+</ul>
+<p><strong>Das Produkt:</strong> Ein virales Content-Kit für Social Media. 220 Hooks, 90 Caption-Frameworks, 80 KI-Prompts und ein 14-Tage-Sprint für Selbstständige und Creator.</p>
+<p>Verkauf, Abwicklung und Rechnung laufen sicher über Digistore24. Wir freuen uns auf dich!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://eternumtech.eu/system/content-ignition-kit?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56869/adminstore/
 - Sales page: https://eternumtech.eu/system/content-ignition-kit
 - Vendor affiliate support: https://eternumtech.eu/partner
 - Canonical redirect: https://www.digistore24.com/redir/699135/adminstore
@@ -76,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Content Kit: Low-Ticket Hammer (17€) | 50% Prov? — Typ: E-books, Anbieter: megareichtum, gelistet seit 2026-06-12
-- Wie viel kostet es? — 17.806334 USD
+- Wie viel kostet es? — 17.766609000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

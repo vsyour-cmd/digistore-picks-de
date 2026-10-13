@@ -4,16 +4,16 @@ digistore24_product_id: 330335
 title: "Schlagzeug lernen für Anfänger - der Jahreskurs"
 vendor: "RudiHein"
 product_type: "Member area and video courses"
-price: 282.5
+price: 281.87
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 84.75
+earnings_per_sale: 84.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-06-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://schlagzeugunterricht-online.coachy.net/lp/schlagzeug-kompakt/?aff=adminstore#aff=adminstore"
 sales_page: "https://schlagzeugunterricht-online.coachy.net/lp/schlagzeug-kompakt/"
@@ -22,16 +22,16 @@ language: "de"
 # Schlagzeug lernen für Anfänger - der Jahreskurs
 
 > Product ID `33860` · Digistore24 productId `330335` · [HTML profile page](../../produkte/schlagzeug-lernen-f-r-anf-nger-der-jahreskurs-33860.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $282.50 (Single payment, Subscription, Installment) |
+| Price | $281.87 (Single payment, Subscription, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $84.75 |
+| Earnings/sale* | $84.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RudiHein |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Kurs Schlagzeug kompakt ist für erwachsene Schlagzeug-Anfänger konzipiert und basiert auf jahrelanger Unterrichtserfahrung. Schritt für Schritt erlernt man das Schlagzeugspiel sowie Theorie und Notenlehre. Ein Jahr lang wird jede Woche ein Kapitel freigeschaltet mit mehreren Lektionen wie Warm-Up, Snare-Drum-Spiel, Drum-Set oder Theorie. Dazu gibts Übe-PDFs, Hörempfehlungen oder Playalongs, di…
+**Vendor's marketplace description:** <p>Der Kurs <em>Schlagzeug kompakt </em>ist für erwachsene Schlagzeug-Anfänger konzipiert und basiert auf jahrelanger Unterrichtserfahrung. Schritt für Schritt erlernt man das Schlagzeugspiel sowie Theorie und Notenlehre. Ein Jahr lang wird jede Woche ein Kapitel freigeschaltet mit mehreren Lektionen wie Warm-Up, Snare-Drum-Spiel, Drum-Set oder Theorie. Dazu gibts Übe-PDFs, Hörempfehlungen oder Playalongs, die beim Üben unterstützen. </p>
+<p>Am Ende des Einjahreskurses beherrscht man die Grundlagen des Schlagzeugspieles, die geläufigsten Rhythmusmotive, unterschiedliche Stilrichtungen, einige Rudiments und kann die meisten Lieder begleiten.</p>
+<p>Der Kurs bleibt auch nach Beendigung der Jahres freigeschaltet.</p>
+<p>Bei Fragen oder Problemen kannst man mich jederzeit über das Support-Formular kontaktieren. </p>
+<p>Der Kurs ist seit August 2020 online, daher noch wenig Bewertungen und Käufe. Beispielvideos von meinen Lektionen gibts auf <a>www.rudi-hein.de </a></p>
+<p>Ich bin hauptberuftlicher Schlagzeuglehrer, daher steckt bei dem Jahreskurs auch ein pädagogisches Konzept dahinter. </p>
+<p>Inhaltlich wird so viel Stoff vermittelt wie ca.3 Jahre an einer Musikschule vor Ort.</p>
 
 ## 2. Links
 
@@ -107,7 +113,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schlagzeug lernen für Anfänger - der Jahreskurs? — Typ: Member area and video courses, Anbieter: RudiHein, gelistet seit 2020-06-06
-- Wie viel kostet es? — 282.50326 USD
+- Wie viel kostet es? — 281.87301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

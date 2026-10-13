@@ -4,16 +4,16 @@ digistore24_product_id: 727079
 title: "Die Reise der drei Freunde zum goldenen Beerenbaum – Geschic"
 vendor: "a968403496d45"
 product_type: "Downloads"
-price: 11.19
+price: 11.17
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.71
+earnings_per_sale: 6.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/727079?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/727079"
@@ -22,16 +22,16 @@ language: "de"
 # Die Reise der drei Freunde zum goldenen Beerenbaum – Geschic
 
 > Product ID `58852` · Digistore24 productId `727079` · [HTML profile page](../../produkte/die-reise-der-drei-freunde-zum-goldenen-beerenbaum-geschic-58852.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.19 (Single payment) |
+| Price | $11.17 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.71 |
+| Earnings/sale* | $6.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | a968403496d45 |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Reise der drei Freunde zum goldenen Beerenbaum – Geschichten- & Malbuch-Bundle Das Bundle ist ein familienfreundliches digitales PDF-Produkt für Kinder im Alter von 5 bis 9 Jahren. Das Paket umfasst ein 47-seitiges Kinderbilderbuch sowie ein 40-seitiges Malbuch mit insgesamt 87 Seiten voller Spaß, Kreativität und bildschirmloser Unterhaltung. IHRE VORTEILE ALS AFFILIATE: * Hohe Provision: Verd…
+**Vendor's marketplace description:** <p>Die Reise der drei Freunde zum goldenen Beerenbaum – Geschichten- &amp; Malbuch-Bundle</p>
+<p>Das Bundle ist ein familienfreundliches digitales PDF-Produkt für Kinder im Alter von 5 bis 9 Jahren. Das Paket umfasst ein 47-seitiges Kinderbilderbuch sowie ein 40-seitiges Malbuch mit insgesamt 87 Seiten voller Spaß, Kreativität und bildschirmloser Unterhaltung.</p>
+<p>IHRE VORTEILE ALS AFFILIATE:</p>
+<p>* Hohe Provision: Verdienen Sie 60 % Provision auf jeden erfolgreichen Verkauf!<br />* Verkaufsstarke Werbemittel: Zugriff auf fertige Produktbilder, Werbevideos und optimierte Werbetexte auf unserer Affiliate-Support-Seite.<br />* Breite Zielgruppe: Perfekt geeignet für Eltern, Großeltern, Lehrer und Homeschooling-Familien.<br />* Hohe Konversionsrate: Ein ideales digitales Geschenkprodukt mit sofortiger PDF-Lieferung – kein physischer Versand oder Lagerbestand erforderlich.</p>
+<p>Werden Sie jetzt Partner und bewerben Sie dieses einzigartige Kinderprodukt!</p>
 
 ## 2. Links
 
@@ -74,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Reise der drei Freunde zum goldenen Beerenbaum – Geschic? — Typ: Downloads, Anbieter: a968403496d45, gelistet seit 2026-09-01
-- Wie viel kostet es? — 11.194794 USD
+- Wie viel kostet es? — 11.169819 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

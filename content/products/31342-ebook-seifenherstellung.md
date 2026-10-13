@@ -4,16 +4,16 @@ digistore24_product_id: 304586
 title: "Ebook Seifenherstellung"
 vendor: "Naturseife30"
 product_type: "E-books"
-price: 12.52
+price: 12.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.26
+earnings_per_sale: 6.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-01-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://naturseife-und-kosmetik.de/anleitungen/?aff=adminstore#aff=adminstore"
 sales_page: "https://naturseife-und-kosmetik.de/anleitungen/"
@@ -22,16 +22,16 @@ language: "de"
 # Ebook Seifenherstellung
 
 > Product ID `31342` · Digistore24 productId `304586` · [HTML profile page](../../produkte/ebook-seifenherstellung-31342.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.52 (Single payment) |
+| Price | $12.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.26 |
+| Earnings/sale* | $6.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Naturseife30 |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Umfangreiches Ebook über die Seifenherstellung zu Hause.
+**Vendor's marketplace description:** <p>Umfangreiches Ebook über die Seifenherstellung zu Hause.</p>
 
 ## 2. Links
 
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook Seifenherstellung? — Typ: E-books, Anbieter: Naturseife30, gelistet seit 2020-01-22
-- Wie viel kostet es? — 12.517102 USD
+- Wie viel kostet es? — 12.489177000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

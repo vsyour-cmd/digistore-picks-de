@@ -4,16 +4,16 @@ digistore24_product_id: 672563
 title: "Das große Mentoring Paket für Hinterbliebene"
 vendor: "verwitwet-leben"
 product_type: "Online coaching"
-price: 41.2
+price: 41.11
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 143.01
+earnings_per_sale: 142.69
 cart_conversion_pct: 18
 cancel_rate_pct: 0.45
 categories: ["Business & Investment","Education"]
 listed_since: "2026-03-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/672563/adminstore"
 sales_page: "https://verwitwet-leben.de/individuelles-mentoring/#anker-1"
@@ -22,16 +22,16 @@ language: "de"
 # Das große Mentoring Paket für Hinterbliebene
 
 > Product ID `55964` · Digistore24 productId `672563` · [HTML profile page](../../produkte/das-gro-e-mentoring-paket-f-r-hinterbliebene-55964.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $41.20 (Single payment, Installment) |
+| Price | $41.11 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $143.01 |
+| Earnings/sale* | $142.69 |
 | Cart conversion* | 18% |
 | Cancel rate* | 0.45% |
 | Vendor | verwitwet-leben |
@@ -41,7 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das große Mentoring Paket für Hinterbliebene Das Rundum-Paket für Deine finanzielle Klarheit: persönliche Begleitung kombiniert mit fundiertem Fachwissen. Im Mentoring klären wir Deine persönliche Situation und entwickeln konkrete Strategien zu Rente, Einkommen und Steuern. ✅ Leistungen ähnlich wie beim Individuellen Mentoring intensiv: Drei individuelle 1:1 Sessions (je ca. 60 Minuten) Zusätzlich…
+**Vendor's marketplace description:** <h3><strong>Das große Mentoring Paket für Hinterbliebene</strong></h3>
+<div>
+<p>Das Rundum-Paket für Deine finanzielle Klarheit: persönliche Begleitung kombiniert mit fundiertem Fachwissen. Im Mentoring klären wir Deine persönliche Situation und entwickeln konkrete Strategien zu Rente, Einkommen und Steuern. </p>
+<p>✅ Leistungen ähnlich wie beim <a><strong>Individuellen Mentoring intensiv</strong></a>: </p>
+<ul>
+<li>Drei individuelle 1:1 Sessions (je ca. 60 Minuten)</li>
+<li>Zusätzlich: Bei Bedarf eine <strong>vierte Session ohne zusätzliche Kosten</strong></li>
+<li><strong>persönliche Begleitung über 3 Monate per WhatsApp,</strong> Sprachnachricht oder E-Mail. Antworten gesammelt, persönlich und strukturiert innerhalb dieser drei Monate. </li>
+</ul>
+<hr />
+<p><strong>✅ Zwischen den Terminen:</strong></p>
+<p>Du hast die Möglichkeit, <strong>mir Fragen per E-Mail oder Sprachnachricht</strong> zu stellen. Ich antworte dir gesammelt und strukturiert – in der Regel innerhalb weniger Tage.</p>
+<hr />
+<p><strong>✅ Plus diese vier wichtigsten Videokurse:</strong></p>
+<ul>
+<li>Online-Video-Kurs: <a><strong>Die 6 wichtigsten Stolperfallen bei der Hinterbliebenenrente</strong> </a>(90 Tage Zugriff) im Wert von 149 €</li>
+<li>Online-Video-Kurs: <a><strong>Der Lifehack zur Einkommensanrechnung</strong></a> (90 Tage Zugriff) im Wert von 149 €</li>
+<li>Online-Video-Kurs: <a><strong>Vermietete Immobilien als Anlageform</strong></a> sind unschlagbar – gerade für Hinterbliebene (90 Tage Zugriff,) im Wert von 149 €</li>
+<li>Online-Video-Kurs: <a><strong>Witwenrente und Steuern verständlich erklärt </strong></a>(90 Tage Zugriff) im Wert von 149 €</li>
+</ul>
+<hr />
+<p>✅ Inklusive <strong><a>Excel-Berechnungshilfe</a> </strong>mit Lifehack im Wert von 79 €!</p>
+<hr />
+<p><strong>Individuelle Terminvereinbarung nach dem Kauf möglich. </strong></p>
+<p><strong>Sofortiger Zugriff zu den Videokursen nach dem Kauf. </strong></p>
+</div>
 
 ## 2. Links
 
@@ -95,7 +120,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das große Mentoring Paket für Hinterbliebene? — Typ: Online coaching, Anbieter: verwitwet-leben, gelistet seit 2026-03-01
-- Wie viel kostet es? — 41.20446200000001 USD
+- Wie viel kostet es? — 41.11253700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

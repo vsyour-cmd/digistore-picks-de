@@ -4,16 +4,16 @@ digistore24_product_id: 308549
 title: "Der MPU Masterplan - Online auf die Alkohol MPU vorbereiten"
 vendor: "jh3011"
 product_type: "Member area and video courses"
-price: 469.9
+price: 468.85
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 140.97
+earnings_per_sale: 140.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-02-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://mpu-konkret.de/alkohol-vorbereitungskurs?aff=adminstore#aff=adminstore"
 sales_page: "http://mpu-konkret.de/alkohol-vorbereitungskurs"
@@ -22,16 +22,16 @@ language: "de"
 # Der MPU Masterplan - Online auf die Alkohol MPU vorbereiten
 
 > Product ID `32904` · Digistore24 productId `308549` · [HTML profile page](../../produkte/der-mpu-masterplan-online-auf-die-alkohol-mpu-vorbereiten-32904.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $469.90 (Single payment, Installment) |
+| Price | $468.85 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $140.97 |
+| Earnings/sale* | $140.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jh3011 |
@@ -41,7 +41,28 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** MPU KONKRET bietet die komplette Vorbereitung auf die MPU. Zielgruppe sind Menschen, die eine MPU absolvieren müssen und eine erfolgreiche, schnelle und bequeme Vorbereitung KOMPLETT ONLINE machen möchten. Die Online Kurse sind nach den neusten Standards der Online-Wissensvermittlung entwickelt und beruhen auf über 10 Jahre Erfahrung in der MPU Vorbereitung vor Ort. Im MPU Konkret Team befinden si…
+**Vendor's marketplace description:** <p>MPU KONKRET bietet die <strong>komplette Vorbereitung</strong> auf die MPU.  </p>
+<p>Zielgruppe sind Menschen, die eine MPU absolvieren müssen und eine erfolgreiche, schnelle und bequeme Vorbereitung <strong>KOMPLETT ONLINE</strong> machen möchten. </p>
+<p>Die Online Kurse sind nach den neusten Standards der Online-Wissensvermittlung entwickelt und beruhen auf über <strong>10 Jahre Erfahrung</strong> in der MPU Vorbereitung vor Ort. Im MPU Konkret Team befinden sich nicht nur MPU Coaches, sondern auch <strong>Psychologen</strong> und Psychotherapeuten.  </p>
+<p>Werben könnt ihr für den Kurs:  „<em>Sicher durch die Alkohol MPU</em>“. In einem<strong> 5 Schritte Programm</strong> können sich Kunden mit dem MPU Masterplan perfekt auf die MPU wegen Alkohol vorbereiten. Der funktioniert so:  </p>
+<ol>
+<li><strong>MPU Masterliste</strong>
+<div>Der Kunde bekommt einen Überblick über alle Infos zur MPU – damit er nichts vergisst und wertvolle Zeit verliert!</div>
+</li>
+<li><strong>MPU Basics</strong>
+<div>Der Kunde erfährst alles über den Ablauf der MPU und worauf er achten muss.</div>
+</li>
+<li><strong>MPU Spezialkurs</strong>
+<div>Der Kunde macht die komplette Vorbereitung auf den psychologischen Teil der MPU als Videokurs!</div>
+</li>
+<li><strong>MPU Fragen</strong>
+<div>MPU Simulationen, MPU Beispiele und viele MPU Fragen und Antworten helfen dem Kunden, sich optimal vorzubereiten.</div>
+</li>
+<li><strong>Bescheinigung</strong>
+<div>Mit der Bescheinigung kann der Kunde in der MPU zeigen, dass er sich vorbereitet hat.</div>
+<p> </p>
+Mit den Online Kursen von MPU KONKRET kannst du anderen Menschen helfen, einen <strong>preisgünstigen und dennoch sicheren Weg zurück zum Führerschein</strong> zu ermöglichen. Gleichzeitig bekommst du <strong>30% Provision</strong> für die Vermittlung!</li>
+</ol>
 
 ## 2. Links
 
@@ -88,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der MPU Masterplan - Online auf die Alkohol MPU vorbereiten? — Typ: Member area and video courses, Anbieter: jh3011, gelistet seit 2020-02-17
-- Wie viel kostet es? — 469.901198 USD
+- Wie viel kostet es? — 468.85287300000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

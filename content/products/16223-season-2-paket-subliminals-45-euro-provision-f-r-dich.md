@@ -4,34 +4,34 @@ digistore24_product_id: 133191
 title: "Season 2 Paket (Subliminals) – 45 Euro Provision für dich!"
 vendor: "EnergeticTernity"
 product_type: "Downloads"
-price: 267.11
+price: 266.51
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 98.72
+earnings_per_sale: 98.5
 cart_conversion_pct: 8
 cancel_rate_pct: 3.18
 categories: ["Profession & Job"]
 listed_since: "2017-04-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "http://energetic-eternity.de/produkt/season-2-paket/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/16223/adminstore/"
 sales_page: "http://energetic-eternity.de/produkt/season-2-paket/"
 language: "de"
 ---
 # Season 2 Paket (Subliminals) – 45 Euro Provision für dich!
 
 > Product ID `16223` · Digistore24 productId `133191` · [HTML profile page](../../produkte/season-2-paket-subliminals-45-euro-provision-f-r-dich-16223.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $267.11 (Single payment) |
+| Price | $266.51 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $98.72 |
+| Earnings/sale* | $98.50 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.18% |
 | Vendor | EnergeticTernity |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Empfehle unsere Hör-Programme weiter und verdiene mit an über 30 Upsells/Cross-Sells! Deine Vorteile: --> Hohe Provisionen von 30% für alle Produkte im Bereich zwischen 25-150 Euro und 25% Provision für Produkte ab 199 Euro --> Garantiert etwas für deine Kunden dabei: In über 20 Nischen aktiv (z.B Gesundheit, Wohlstand, Liebe & Beziehungen, Bewusstsein, Fitness etc.) --> Getestet und optimiert: Be…
+**Vendor's marketplace description:** <h2><strong>Empfehle unsere Hör-Programme weiter und verdiene mit an über 30 Upsells/Cross-Sells!<br /><br /></strong></h2>
+<p> </p>
+<p><strong>Deine Vorteile:</strong></p>
+<p>--&gt; Hohe Provisionen von <strong>30%</strong> für alle Produkte im Bereich zwischen 25-150 Euro und <strong>25% Provision</strong> für Produkte ab 199 Euro</p>
+<p>--&gt; Garantiert etwas für deine Kunden dabei: In <strong>über 20 Nischen</strong> aktiv (z.B Gesundheit, Wohlstand, Liebe &amp; Beziehungen, Bewusstsein, Fitness etc.)</p>
+<p>--&gt; <strong>Getestet und optimiert:</strong> Bereits über 10.000 verkaufte Produkte</p>
+<p>--&gt; Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren <strong>hochoptimierten Segmentierungs-Verkaufsfunneln </strong></p>
+<p>--&gt; Schneller und professioneller Support durch unseren Affiliate-Manager</p>
+<p> </p>
+<p>Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt.</p>
+<p>Du erhältst Provisionen für jeden weiteren Verkauf!</p>
+<p> </p>
+<p>Melde dich jetzt als Affiliate an und baue dir ein passives Einkommen auf.</p>
+<p> </p>
+<p>Auf eine erfolgreiche Aktion!</p>
+<p> </p>
+<p>Beste Grüße,<br />Marvin Alberg</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://energetic-eternity.de/produkt/season-2-paket/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/16223/adminstore/
 - Sales page: http://energetic-eternity.de/produkt/season-2-paket/
 - Vendor affiliate support: https://energetic-eternity.de/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/133191/adminstore
@@ -67,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Season 2 Paket (Subliminals) – 45 Euro Provision für dich!? — Typ: Downloads, Anbieter: EnergeticTernity, gelistet seit 2017-04-19
-- Wie viel kostet es? — 267.106216 USD
+- Wie viel kostet es? — 266.51031600000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

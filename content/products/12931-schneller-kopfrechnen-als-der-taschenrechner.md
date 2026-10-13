@@ -4,34 +4,34 @@ digistore24_product_id: 24453
 title: "Schneller kopfrechnen als der Taschenrechner"
 vendor: "Insider-Media"
 product_type: "Downloads"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 17.43
+earnings_per_sale: 17.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2014-04-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "http://www.literatur-mathematik.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/12931/adminstore/"
 sales_page: "http://www.literatur-mathematik.de"
 language: "de"
 ---
 # Schneller kopfrechnen als der Taschenrechner
 
 > Product ID `12931` · Digistore24 productId `24453` · [HTML profile page](../../produkte/schneller-kopfrechnen-als-der-taschenrechner-12931.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $17.43 |
+| Earnings/sale* | $17.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochgelobtes Produkt, mit zahlreichen fantastischen Kundentestimonials und 100% Geld-Zurück-Garantie. 50% Provision für Affiliates. Sehr stark konvertierende Verkaufsseite. Inkl. Upellprodukte bis zu 500 Euro.
+**Vendor's marketplace description:** <p>Ein hochgelobtes Produkt, mit zahlreichen fantastischen Kundentestimonials und 100% Geld-Zurück-Garantie. 50% Provision für Affiliates. Sehr stark konvertierende Verkaufsseite. Inkl. Upellprodukte bis zu 500 Euro.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.literatur-mathematik.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/12931/adminstore/
 - Sales page: http://www.literatur-mathematik.de
 - Vendor affiliate support: https://www.literatur-mathematik.de/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/24453/adminstore
@@ -67,7 +67,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Schneller kopfrechnen als der Taschenrechner? — Typ: Downloads, Anbieter: Insider-Media, gelistet seit 2014-04-21
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 450058
 title: "eBook zur Leica M11 Kamera"
 vendor: "birnbacherm"
 product_type: "E-books"
-price: 30.37
+price: 30.3
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 6.07
+earnings_per_sale: 6.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2022-07-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/450058?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/450058"
@@ -22,16 +22,16 @@ language: "de"
 # eBook zur Leica M11 Kamera
 
 > Product ID `41370` · Digistore24 productId `450058` · [HTML profile page](../../produkte/ebook-zur-leica-m11-kamera-41370.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.37 (Single payment) |
+| Price | $30.30 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $6.07 |
+| Earnings/sale* | $6.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | birnbacherm |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Homepage: www.ebook-m11.de Das eBook ist ein Leitfaden für Einsteiger, Umsteiger und Leica-Interessierte Menschen. Michel Birnbacher ist bereits Autor des Kamerahandbuchs zur Leica M10 und mit der neuen Auflage entsteht wieder ein Standardwerk für das Leica M Kamerasystem. Mit vielen Anwendungsbeispielen schildert der Autor wie er seine Leica M11 nutzt. Zusätzlich gibt es Schritt für Schritt-Anlei…
+**Vendor's marketplace description:** <p>Homepage: <a href="http://www.ebook-m11.de">www.ebook-m11.de</a> </p>
+<p>Das eBook ist ein Leitfaden für Einsteiger, Umsteiger und Leica-Interessierte Menschen.</p>
+<p>Michel Birnbacher ist bereits Autor des Kamerahandbuchs zur Leica M10 und mit der neuen Auflage entsteht wieder ein Standardwerk für das Leica M Kamerasystem.</p>
+<p>Mit vielen Anwendungsbeispielen schildert der Autor wie er seine Leica M11 nutzt. Zusätzlich gibt es Schritt für Schritt-Anleitungen um sich mit den Einstellungen vertraut zu machen. Neben der Leica M Objektiv-Übersicht gibt es auch eine ganz kleine Fotoschule.</p>
+<p>Die im Buch erwähnte Info-Karte zum Thema Blende-Verschlusszeit und ISO Einstellung gibt es als JPG Datei zusätzlich.</p>
+<p><em>Das eBook hat 304 Seiten in PDF-Format und wurde in A4 vorbereitet, damit es bei Bedarf gedruckt werden kann.</em></p>
+<p> </p>
+<p><strong>Michel Birnbacher</strong> ist seit Jahrzehnten Leica Fotograf und eine rfahrener Workshopleiter. Er unterrichtet neben Fotoschulen auf für den Leica Store in Nürnberg. Zusätzlich gibt er Einzelunterricht und hält Webinare rund um das Thema Leica M Fotografie.</p>
+<p>Der einzige deutsche Podcast (<a href="http://www.leica-podcast.fm">www.leica-podcast.fm</a>) runden sein Angebot zum Thema Fotografie ab.</p>
 
 ## 2. Links
 
@@ -73,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist eBook zur Leica M11 Kamera? — Typ: E-books, Anbieter: birnbacherm, gelistet seit 2022-07-06
-- Wie viel kostet es? — 30.368260000000003 USD
+- Wie viel kostet es? — 30.300510000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

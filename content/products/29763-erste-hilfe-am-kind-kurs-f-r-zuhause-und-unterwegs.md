@@ -4,34 +4,34 @@ digistore24_product_id: 282703
 title: "Erste-Hilfe-am-Kind-Kurs für Zuhause und unterwegs"
 vendor: "ZartesGlueck"
 product_type: "Remote service provided electronically"
-price: 64.03
+price: 63.89
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 16.01
+earnings_per_sale: 15.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2019-08-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://zartes-glueck-onlinekurse.coachy.net/lp/zartes-gluck-erste-hilfe-am-kind-onlinekurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/29763/adminstore/"
 sales_page: "https://zartes-glueck-onlinekurse.coachy.net/lp/zartes-gluck-erste-hilfe-am-kind-onlinekurs/"
 language: "de"
 ---
 # Erste-Hilfe-am-Kind-Kurs für Zuhause und unterwegs
 
 > Product ID `29763` · Digistore24 productId `282703` · [HTML profile page](../../produkte/erste-hilfe-am-kind-kurs-f-r-zuhause-und-unterwegs-29763.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $64.03 (Single payment) |
+| Price | $63.89 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $16.01 |
+| Earnings/sale* | $15.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ZartesGlueck |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erste-Hilfe-am-Kind Onlinekurs für Zuhause oder von überall Kurzweilig - kompakt - flexibel - frei und dabei praxisnah und persönlich, beruhigend und kompetent. In ca. 4 Stunden reiner Filmzeit kannst Du alle wichtigen Erste-Hilfe-am-Kind-Themen bearbeiten. Kürzer, als ein Kurs vor Ort und doch viel intensiver und auf den Punkt gebracht. Jedes Thema kannst du übersichtlich in wenigen Minuten erarb…
+**Vendor's marketplace description:** <h3><strong>Erste-Hilfe-am-Kind Onlinekurs für Zuhause oder von überall</strong></h3>
+<p><em>Kurzweilig - kompakt - flexibel - frei und dabei praxisnah und persönlich, beruhigend und kompeten</em>t.</p>
+<p>In ca. 4 Stunden reiner Filmzeit kannst Du alle wichtigen Erste-Hilfe-am-Kind-Themen bearbeiten.</p>
+<p>Kürzer, als ein Kurs vor Ort und doch viel intensiver und auf den Punkt gebracht.</p>
+<p>Jedes Thema kannst du übersichtlich in wenigen Minuten erarbeiten und erlernen, sodass du auch im Alltag immer wieder ein Filmchen anschauen kannst.</p>
+<p>Interessant für deutschsprachige Familien, die im Ausland wohnen. Für Familien auf dem Land. Für Alleinerziehende, für Familien ohne Babysitter, Schwangere, die liegen müssen oder auch für Leute, die einfach ganz flexibel bleiben möchten.</p>
+<p>Es ist mir ein Herzensthema und ich bedanke mich für deine Unterstützung. Für mehr Sicherheit für alle mit Kind.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://zartes-glueck-onlinekurse.coachy.net/lp/zartes-gluck-erste-hilfe-am-kind-onlinekurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/29763/adminstore/
 - Sales page: https://zartes-glueck-onlinekurse.coachy.net/lp/zartes-gluck-erste-hilfe-am-kind-onlinekurs/
 - Canonical redirect: https://www.digistore24.com/redir/282703/adminstore
 
@@ -81,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erste-Hilfe-am-Kind-Kurs für Zuhause und unterwegs? — Typ: Remote service provided electronically, Anbieter: ZartesGlueck, gelistet seit 2019-08-13
-- Wie viel kostet es? — 64.031084 USD
+- Wie viel kostet es? — 63.888234000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 679892
 title: "Grenzen setzen Bundle"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 104.62
+price: 104.39
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 25.53
+earnings_per_sale: 25.47
 cart_conversion_pct: 7
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-03-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore"
 sales_page: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/"
@@ -22,16 +22,16 @@ language: "de"
 # Grenzen setzen Bundle
 
 > Product ID `56094` · Digistore24 productId `679892` · [HTML profile page](../../produkte/grenzen-setzen-bundle-56094.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $104.62 (Single payment) |
+| Price | $104.39 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $25.53 |
+| Earnings/sale* | $25.47 |
 | Cart conversion* | 7% |
 | Cancel rate* | 0% |
 | Vendor | SinaDieterle |
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Komplettbundle vereint alle fünf E-Books der Grenzen-Reihe und führt Schritt für Schritt durch das gesamte Thema gesunde Abgrenzung in Beziehungen: von den inneren Grundlagen über die konkrete Umsetzung im Außen bis hin zu typischen ungesunden Grenzdynamiken wie zu weichen Grenzen, zu harten Grenzen und Übergriffigkeit. Band 1 „Hilfe! Warum kann ich nicht Nein sagen?“ legt das Fundament. Es…
+**Vendor's marketplace description:** <p>Dieses Komplettbundle vereint alle fünf E-Books der Grenzen-Reihe und führt Schritt für Schritt durch das gesamte Thema gesunde Abgrenzung in Beziehungen: von den inneren Grundlagen über die konkrete Umsetzung im Außen bis hin zu typischen ungesunden Grenzdynamiken wie zu weichen Grenzen, zu harten Grenzen und Übergriffigkeit.</p>
+<p>Band 1 <strong>„Hilfe! Warum kann ich nicht Nein sagen?“</strong> legt das Fundament. Es zeigt, warum Grenzen für gesunde Beziehungen unverzichtbar sind, weshalb sie vielen Menschen so schwerfallen und welche Rolle frühe Prägungen, Bindungsmuster, Selbstkontakt sowie Wut, Scham und Schuld dabei spielen. Dadurch wird verständlich, warum ein Nein oft nicht an fehlendem Wissen scheitert, sondern an tieferen inneren Dynamiken.</p>
+<p>Band 2 <strong>„Grenzen setzen &amp; Nein sagen lernen“</strong> baut genau darauf auf. Hier geht es darum, die eigene Grenze nicht nur zu spüren, sondern sie klar, ehrlich und beziehungsfreundlich auszudrücken, in Sprache zu übersetzen, im richtigen Moment zu setzen und auch unter Druck bei ihr zu bleiben. Themen wie Bedürfnis statt Vorwurf, weicher Einstieg, Bitte versus Forderung, Umgang mit Reaktionen des Gegenübers, Grenzen halten und Reparatur machen diesen Band besonders alltagsnah.</p>
+<p>Band 3 <strong>„Schluss mit Anpassung &amp; Selbstverlust“</strong> beleuchtet Muster wie People Pleasing, Anpassung, Angst vor dem Alleinsein, Bedürftigkeit, Selbstvermeidung, Überverantwortung, Perfektionismus, Retterrolle oder Vorleistung für Bindung. Der Band zeigt, wie Grenzen im Kontakt weich werden und warum Menschen sich oft selbst verlieren, obwohl die innere Grenze eigentlich längst spürbar ist.</p>
+<p>Band 4 <strong>„Schluss mit Rückzug, Mauer &amp; Vorwürfen“</strong> richtet den Blick auf die andere Seite: Rückzug, Schweigen, Ghosting, Kontaktabbruch, Kälte, Härte, Zynismus, Vorwürfe, Druck oder Kontrolle. Der Band macht deutlich, dass solche harten Grenzen oft nicht aus Gleichgültigkeit entstehen, sondern aus Überforderung, Schutz und lange aufgestauter Spannung. Gleichzeitig zeigt er, warum diese Form von Abgrenzung zwar Distanz schafft, aber oft keine echte Klarheit.</p>
+<p>Band 5 <strong>„Übergriffigkeit erkennen &amp; sicher reagieren“</strong> ergänzt die Reihe um die dritte wichtige Grenzdynamik: den Raum des anderen nicht ausreichend zu achten. Themen wie Kontrolle, überrollende Bedürftigkeit, Opferrolle, Retterrolle, Unachtsamkeit, Schuldumkehr, Beschämung oder die Haltung, besser zu wissen, was der andere braucht, helfen dabei, Grenzverletzungen im Außen klarer zu erkennen und auch eigene übergriffige Muster ehrlicher zu reflektieren.</p>
+<p>Das Komplettbundle eignet sich besonders für Menschen, die ihre Beziehungsmuster nicht nur punktuell verstehen, sondern das Thema Grenzen wirklich umfassend durchdringen möchten. Es verbindet tiefes inneres Verständnis mit konkreter Umsetzung und differenziertem Blick auf typische Fehlformen von Abgrenzung. Durch die vielen Workbook- und Reflexionsteile unterstützt das Bundle nicht nur beim Erkennen, sondern auch bei echter Veränderung im Alltag.</p>
 
 ## 2. Links
 
@@ -87,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grenzen setzen Bundle? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-03-27
-- Wie viel kostet es? — 104.61921600000001 USD
+- Wie viel kostet es? — 104.385816 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

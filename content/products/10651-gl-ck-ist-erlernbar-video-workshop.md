@@ -4,34 +4,34 @@ digistore24_product_id: 44569
 title: "Glück ist erlernbar - Video-Workshop"
 vendor: "Quanten-Resonanz"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.07
+earnings_per_sale: 23.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2015-03-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://glueck-ist-erlernbar.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/10651/adminstore/"
 sales_page: "https://glueck-ist-erlernbar.de/"
 language: "de"
 ---
 # Glück ist erlernbar - Video-Workshop
 
 > Product ID `10651` · Digistore24 productId `44569` · [HTML profile page](../../produkte/gl-ck-ist-erlernbar-video-workshop-10651.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.07 |
+| Earnings/sale* | $23.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Quanten-Resonanz |
@@ -41,11 +41,139 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Video-Workshop beinhaltet umfangreiches, fast 5-stündiges Videomaterial. Der Video-Workshop besteht aus 4x5 Videos: Woche 1 - Hier werden die Grundlagen besprochen: In den Videos der ersten Woche geht es darum die Grundlagen für ein erfolgreiches Erreichen seiner Ziel und Wünsche zu erlernen. Deshalb befassen sich die Videos der ersten Lektionen mit folgenden Themen: Wie funktioniert unser Geh…
+**Vendor's marketplace description:** <ul style="list-style-type:disc;"><li>Der Video-Workshop beinhaltet umfangreiches, fast 5-stündiges Videomaterial.</li>
+<li>Der Video-Workshop besteht aus 4x5 Videos:</li>
+<li>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h2>Woche 1 - Hier werden die Grundlagen besprochen:</h2>
+</div>
+</div>
+<div>
+<div>
+<div>
+<p>In den Videos der ersten Woche geht es darum die Grundlagen für ein erfolgreiches Erreichen seiner Ziel und Wünsche zu erlernen. Deshalb befassen sich die Videos der ersten Lektionen mit folgenden Themen:</p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<ul><li>Wie funktioniert unser Gehirn?</li>
+<li>Wie funktioniert unser Unterbewusstsein?</li>
+<li>Was sind Gefühle und wo entstehen diese Emotionen?</li>
+<li>Was sind die hermetischen Gesetze?</li>
+<li>Was ist das Gesetz der Anziehung?</li>
+</ul></div>
+</div>
+</div>
+<div>
+<div> </div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h2>Woche 2 - Hier geht es darum, wie man richtig wünscht:</h2>
+</div>
+</div>
+<div>
+<div>
+<div>
+<p>In den Videos der zweiten Woche geht es um die Techniken des erfolgreichen Wünschens und warum diese so gut funktionieren. Deshalb lernen Sie in den Videos der zweiten Woche:</p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<ul><li>Wie formuliert man Wünsche richtig?</li>
+<li>Wie ist der Zusammenhang zwischen Wünschen und Gefühlen?</li>
+<li>Wie und warum funktioniert Meditieren?</li>
+<li>Wie können Sie selbst die Macht der Gedanken testen?</li>
+</ul><div>
+<div>
+<div>
+<div>
+<div>
+<h2>Woche 3 - Hier erfahren Sie, was uns davon abhält, das zu erreichen, was wir uns wünschen und was wir dagegen tun können:</h2>
+</div>
+</div>
+<div>
+<div>
+<div>
+<p>In den Videos der dritten Woche geht es um die Blockaden und Widerstände, die verhindern, dass die Dinge, Ereignisse und Menschen in unserem Leben erscheinen, die wir uns wünschen. Außerdem werden einige Techniken vorgestellt, um diese Blockaden und Widerstände aufzulösen. Deshalb lernen Sie in den Videos der dritten Woche:</p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<ul><li>Was sind unsere Prägungen und Glaubenssätze? Wie entstehen diese?</li>
+<li>Wie beeinflussen unsere Ängste unser gesamtes Leben und was können wir dagegen tun?</li>
+<li>Wie erkennen wir unsere Widerstände und Blockaden? Wie überwinden wir diese?</li>
+<li>Welche einfache Techniken gibt es zur Überwindung der Prägungen, Blockaden und Ängste?</li>
+<li>Was sind die Top 15 Wohlstandsblockaden? Wohlstandsblockaden verhindern, dass wir in Wohlstand, Reichtum und Fülle leben.</li>
+</ul><div>
+<div>
+<h2>Woche 4 - Hier lernen Sie weitere Praktiken kennen:</h2>
+</div>
+</div>
+<div>
+<div>
+<div>
+<p>In der vierten Woche werden weiterführende Techniken besprochen. Deshalb lernen Sie in den Videos der vierten Woche:</p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<ul><li>Techniken, zur geistigen und körperlichen Heilung durch Aussöhnung und Vergebung.</li>
+<li>Techniken, um von negativen Gefühlen zu positiven Gefühlen zu wechseln.</li>
+<li>Techniken, um das Unterbewusstsein zu beeinflussen.</li>
+<li>Techniken, um Blockaden aufzulösen.</li>
+<li>Techniken, um Prägungen zu überwinden.</li>
+</ul><p> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>Zu jedem Video erhalten Sie auch als PDF- und mp3-Dateien. Dann kann der Inhalt jederzeit nachgelesen und gehört werden.</li>
+<li>Zusätzlich erhalten Sie die Bonus-Videos: "So erreichen Sie mehr Selbstliebe" und " Was sind die Top 15 Wohlstandsblockaden?"</li>
+<li>Und als Extra-PDF: "Energieskala der Gefühle"</li>
+<li>Den Video-Workshop inkl. allen oben beschriebenen Extras erhalten Sie in 4 x 5 Lektionen, die jeweils im Abstand von einer Woche in Ihrem persönlichen Zugang freigeschaltet werden.</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://glueck-ist-erlernbar.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/10651/adminstore/
 - Sales page: https://glueck-ist-erlernbar.de/
 - Vendor affiliate support: http://quantenresonanz.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/44569/adminstore
@@ -67,7 +195,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Glück ist erlernbar - Video-Workshop? — Typ: Member area and video courses, Anbieter: Quanten-Resonanz, gelistet seit 2015-03-08
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

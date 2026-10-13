@@ -4,34 +4,34 @@ digistore24_product_id: 305200
 title: "Online Dating Kurs für Frauen"
 vendor: "PetraSerena"
 product_type: "Member area and video courses"
-price: 91.34
+price: 91.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 45.68
+earnings_per_sale: 45.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2020-01-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.soulmatecoaching.de/online-dating-queen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40631/adminstore/"
 sales_page: "https://www.soulmatecoaching.de/online-dating-queen/"
 language: "de"
 ---
 # Online Dating Kurs für Frauen
 
 > Product ID `40631` · Digistore24 productId `305200` · [HTML profile page](../../produkte/online-dating-kurs-f-r-frauen-40631.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $91.34 (Single payment) |
+| Price | $91.14 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $45.68 |
+| Earnings/sale* | $45.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PetraSerena |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** #1 Beziehungscoaching für Frauen!Empfehle die Online-Kurse und Coachings zum Thema glückliche Beziehung und Persönlichkeitsentwicklung weiter und verdiene bis zu 50 % Provision!Deine Vorteile:--> Hohe Provisionen von bis zu 50 % bei Videokursen und 25 % auf Coachings.--> Garantiert etwas für deine Kunden dabei: Wir sind in der beliebtesten Nische aktiv (Liebe & Beziehungen und Bewusstsein)--> Hohe…
+**Vendor's marketplace description:** <p><strong>#1 Beziehungscoaching für Frauen!<br /></strong><br />Empfehle die Online-Kurse und Coachings zum Thema glückliche Beziehung und Persönlichkeitsentwicklung weiter und verdiene bis zu 50 % Provision!<br /><br /><strong>Deine Vorteile:</strong><br />--&gt; Hohe Provisionen von bis zu <strong>50 % bei Videokursen und 25 % auf Coachings.<br /></strong><br />--&gt; Garantiert etwas für deine Kunden dabei: Wir sind in der <strong>beliebtesten Nische </strong>aktiv (Liebe &amp; Beziehungen und Bewusstsein)<br /><br />--&gt; Hohe Conversions Profitiere mit an unseren <strong>hochoptimierten Verkaufsseiten<br /></strong><br />--&gt;<strong> Hoher Kundenwert: </strong>Bereits über 15.000 Frauen zu einer glücklichen Beziehung geführt!<br /><br />--&gt; Schneller und professioneller Support<br /><br />--&gt; Leichter Einstieg für deine Leads über kostenlose Videokurse<br /><br />Melde dich jetzt an, werde unser Partner und baue dir ein passives Einkommen auf. Auf eine erfolgreiche Zusammenarbeit!<br /><br />Liebe Grüße<br />Petra Fürst</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.soulmatecoaching.de/online-dating-queen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40631/adminstore/
 - Sales page: https://www.soulmatecoaching.de/online-dating-queen/
 - Vendor affiliate support: https://www.soulmatecoaching.de/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/305200/adminstore
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Dating Kurs für Frauen? — Typ: Member area and video courses, Anbieter: PetraSerena, gelistet seit 2020-01-25
-- Wie viel kostet es? — 91.340106 USD
+- Wie viel kostet es? — 91.13633100000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

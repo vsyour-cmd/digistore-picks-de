@@ -4,16 +4,16 @@ digistore24_product_id: 710142
 title: "Fünf Bausteine in deine Körperpräsenz"
 vendor: "ZentAura"
 product_type: "Member area and video courses"
-price: 121.47
+price: 121.2
 currency: "USD"
 affiliate_commission_pct: 44
-earnings_per_sale: 53.45
+earnings_per_sale: 53.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.zentaura.de/5-bausteine-in-deine-koerperpraesenz/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.zentaura.de/5-bausteine-in-deine-koerperpraesenz/"
@@ -22,16 +22,16 @@ language: "de"
 # Fünf Bausteine in deine Körperpräsenz
 
 > Product ID `59078` · Digistore24 productId `710142` · [HTML profile page](../../produkte/f-nf-bausteine-in-deine-k-rperpr-senz-59078.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $121.47 (Single payment) |
+| Price | $121.20 (Single payment) |
 | Affiliate commission | 44% |
-| Earnings/sale* | $53.45 |
+| Earnings/sale* | $53.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ZentAura |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Onlinekurs – 129 € Verkaufspreis Affiliates erhalten eine Provision von 44 % für erfolgreich vermittelte Verkäufe. 5 Bausteine in die Präsenz arbeitet mit der Körperachse und ist ein attraktiver Onlinekurs für Menschen, die: sich auf der Bühne ihres Lebens selbstbewusster fühlen möchten körperlichen Herausforderungen im Alltag und im Job mit mehr Stabilität und Leichtigkeit begegnen möchten ihre K…
+**Vendor's marketplace description:** <p><strong>Onlinekurs – 129 € Verkaufspreis</strong></p>
+<p>Affiliates erhalten eine Provision von 44 % für erfolgreich vermittelte Verkäufe.</p>
+<p><strong>5 Bausteine in die Präsenz </strong>arbeitet mit der Körperachse und ist ein attraktiver Onlinekurs für Menschen, die:</p>
+<ol>
+<li>sich auf der Bühne ihres Lebens selbstbewusster fühlen möchten</li>
+<li>körperlichen Herausforderungen im Alltag und im Job mit mehr Stabilität und Leichtigkeit begegnen möchten</li>
+<li>ihre Körpersprache im Dialog feiner nutzen möchten<strong><br /></strong></li>
+</ol>
+<p><strong>5 Bausteine in deine Körperpräsenz ist ein Selbstlernkurs für ein gutes Körpergefühl und gesunde Bewegung mit leichten Schritt für Schritt Videos.</strong></p>
+<p>Darüber hinaus ist die im Kurs vermittelte Körperachse Basis für Tangotänzer*innen und Reiter*innen.</p>
+<p>12 Monate Zugriff auf alle Videos.</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -79,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fünf Bausteine in deine Körperpräsenz? — Typ: Member area and video courses, Anbieter: ZentAura, gelistet seit 2026-09-09
-- Wie viel kostet es? — 121.47304000000001 USD
+- Wie viel kostet es? — 121.20204000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

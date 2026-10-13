@@ -4,34 +4,34 @@ digistore24_product_id: 730831
 title: "Der Weg zum Traumhaus"
 vendor: "ramonakrenn923f"
 product_type: "Downloads"
-price: 22.4
+price: 22.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.21
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/730831?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59179/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/730831"
 language: "de"
 ---
 # Der Weg zum Traumhaus
 
 > Product ID `59179` · Digistore24 productId `730831` · [HTML profile page](../../produkte/der-weg-zum-traumhaus-59179.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.40 (Single payment) |
+| Price | $22.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.21 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ramonakrenn923f |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb „Der Weg zum Traumhaus“ und begleite deine Zielgruppe Schritt für Schritt auf dem Weg ins eigene Zuhause. Der digitale Leitfaden unterstützt bei der Grundstückssuche, Finanzierung, Planung, Bauphase und Einrichtung bis hin zum Einzug. Ideal für alle, die ihr Traumhaus gut organisiert, sicher und mit einer klaren Struktur verwirklichen möchten.
+**Vendor's marketplace description:** <p>Bewirb „Der Weg zum Traumhaus“ und begleite deine Zielgruppe Schritt für Schritt auf dem Weg ins eigene Zuhause. Der digitale Leitfaden unterstützt bei der Grundstückssuche, Finanzierung, Planung, Bauphase und Einrichtung bis hin zum Einzug. Ideal für alle, die ihr Traumhaus gut organisiert, sicher und mit einer klaren Struktur verwirklichen möchten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/730831?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59179/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/730831
 - Canonical redirect: https://www.digistore24.com/redir/730831/adminstore
 
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Weg zum Traumhaus? — Typ: Downloads, Anbieter: ramonakrenn923f, gelistet seit 2026-09-13
-- Wie viel kostet es? — 22.400793999999998 USD
+- Wie viel kostet es? — 22.350819 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

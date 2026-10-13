@@ -4,34 +4,34 @@ digistore24_product_id: 740055
 title: "CaptureStudio – Bildschirm- und Sprecher-Aufnahme für Window"
 vendor: "inspiredsoftware"
 product_type: "Software"
-price: 54.91
+price: 54.79
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 21.96
+earnings_per_sale: 21.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.inspiredsoftware.de/go/capturestudio?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60121/adminstore/"
 sales_page: "https://www.inspiredsoftware.de/go/capturestudio"
 language: "de"
 ---
 # CaptureStudio – Bildschirm- und Sprecher-Aufnahme für Window
 
 > Product ID `60121` · Digistore24 productId `740055` · [HTML profile page](../../produkte/capturestudio-bildschirm-und-sprecher-aufnahme-f-r-window-60121.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $54.91 (Single payment) |
+| Price | $54.79 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $21.96 |
+| Earnings/sale* | $21.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | inspiredsoftware |
@@ -41,13 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das ProduktCaptureStudio ist ein Werkzeug zur Bildschirm- und Sprecher-Aufnahme für Windows. Du nimmst Bildschirm, Webcam und Mikrofon synchron auf, Mausklicks werden automatisch hervorgehoben, und am Ende steht ein fertiges Video, das du weitergeben kannst. Ein Schnittprogramm brauchst du dafür nicht, und es läuft ohne Cloud. So entstehen Tutorials, Bug-Reports und Produktdemos in wenigen Minuten…
+**Vendor's marketplace description:** <p>Das Produkt<br />CaptureStudio ist ein Werkzeug zur Bildschirm- und Sprecher-Aufnahme für Windows. Du nimmst Bildschirm, Webcam und Mikrofon synchron auf, Mausklicks werden automatisch hervorgehoben, und am Ende steht ein fertiges Video, das du weitergeben kannst. Ein Schnittprogramm brauchst du dafür nicht, und es läuft ohne Cloud. So entstehen Tutorials, Bug-Reports und Produktdemos in wenigen Minuten statt nach einer halben Stunde Nachbearbeitung mit Screenshots und Pfeilen.</p>
+<p>Was CaptureStudio kann</p>
+<p>* Bereichswahl: Vollbild oder ein einzelnes Fenster aufnehmen, unabhängig vom Programm<br />* Sprecher-Aufnahme: Webcam und Mikrofon laufen parallel zum Bildschirm, die Selbstvorschau taucht nicht im Video auf<br />* Klick-Hervorhebung: Mausklicks werden automatisch sichtbar gemacht, wählbar in fünf Stilen<br />* Steuerleiste: Laufzeitanzeige, Mikrofon stummschalten und Stopp, ohne ins Hauptfenster zu wechseln<br />* Vorschau: Direkt nach der Aufnahme ansehen, dann speichern, exportieren oder verwerfen<br />* Projektverwaltung: Aufnahmen dauerhaft je Projekt organisieren, mit Datum, Dauer und Hinweis auf ein Sprecher-Video<br />* Portabler Export: Bildschirm- und Sprecher-Video samt Browser-Player, weitergebbar ohne Zusatzsoftware<br />* Keine Installation: eigenständige Programmdatei, keine .NET-Runtime, keine Administratorrechte nötig</p>
+<p>Für wen ist das Produkt interessant?</p>
+<p>* Ersteller von Tutorials, Anleitungen und Schulungsvideos<br />* Support-Teams und Tester, die Fehler als Video dokumentieren wollen<br />* Softwareanbieter und Vertrieb, die kurze Produktdemos brauchen<br />* Trainer, Lehrende und Fachabteilungen, die Arbeitsabläufe erklären möchten</p>
+<p>Warum sich das Produkt gut empfehlen lässt</p>
+<p>* Konkreter Nutzen: schnellere Videos, weniger Rückfragen, Tutorials ohne Nachbearbeitung<br />* Einfacher Einstieg: herunterladen, starten, aufnehmen, ohne Installation und ohne Cloud-Konto<br />* Risikoarm: 14 Tage vollständig testen, bevor ein Zugangscode nötig wird<br />* Entwickelt und betreut von einem deutschen Anbieter (Inspired Software)</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.inspiredsoftware.de/go/capturestudio?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60121/adminstore/
 - Sales page: https://www.inspiredsoftware.de/go/capturestudio
-- Vendor affiliate support: https://inspiredsoftware.de/capturestudio/affiliate.html
+- Vendor affiliate support: https://inspiredsoftware.de/capturestudio/werbemittel.html
 - Canonical redirect: https://www.digistore24.com/redir/740055/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
@@ -83,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CaptureStudio – Bildschirm- und Sprecher-Aufnahme für Window? — Typ: Software, Anbieter: inspiredsoftware, gelistet seit 2026-10-02
-- Wie viel kostet es? — 54.909400000000005 USD
+- Wie viel kostet es? — 54.7869 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

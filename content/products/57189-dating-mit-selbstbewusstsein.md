@@ -4,34 +4,34 @@ digistore24_product_id: 701947
 title: "Dating mit Selbstbewusstsein"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 18.75
+price: 18.71
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.38
+earnings_per_sale: 9.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ratgeberplatz.de/ratgeber/dating-mit-selbstbewusstsein?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57189/adminstore/"
 sales_page: "https://ratgeberplatz.de/ratgeber/dating-mit-selbstbewusstsein"
 language: "de"
 ---
 # Dating mit Selbstbewusstsein
 
 > Product ID `57189` · Digistore24 productId `701947` · [HTML profile page](../../produkte/dating-mit-selbstbewusstsein-57189.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.75 (Single payment) |
+| Price | $18.71 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.38 |
+| Earnings/sale* | $9.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „Dating mit Selbstbewusstsein“ Souverän auftreten, echt bleiben – Echtes Selbstbewusstsein ist lernbar. So trittst du souverän auf, bleibst du selbst – und ziehst genau damit an. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter F…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Dating mit Selbstbewusstsein“</strong></p>
+<p>Souverän auftreten, echt bleiben – Echtes Selbstbewusstsein ist lernbar. So trittst du souverän auf, bleibst du selbst – und ziehst genau damit an.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
+<li>Gefragtes Thema mit großer Zielgruppe</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Was echtes Selbstbewusstsein ist</li>
+<li>Die Wurzeln deiner Unsicherheit erkennen</li>
+<li>Selbstbewusstsein von innen aufbauen</li>
+<li>Souverän auftreten: Körpersprache &amp; Stimme</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/dating-mit-selbstbewusstsein?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57189/adminstore/
 - Sales page: https://ratgeberplatz.de/ratgeber/dating-mit-selbstbewusstsein
 - Canonical redirect: https://www.digistore24.com/redir/701947/adminstore
 
@@ -85,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Dating mit Selbstbewusstsein? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 18.747638000000002 USD
+- Wie viel kostet es? — 18.705813000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

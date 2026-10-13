@@ -4,34 +4,34 @@ digistore24_product_id: 409953
 title: "All Styles Single-Monat der Social Dancing Academy"
 vendor: "DadoIbrakovic"
 product_type: "Member area and video courses"
-price: 6.59
+price: 6.57
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 14.31
+earnings_per_sale: 14.28
 cart_conversion_pct: 21
 cancel_rate_pct: 3.5
 categories: ["Dancing & Music"]
 listed_since: "2021-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://socialdancingacademy.com/single-monat?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/45651/adminstore/"
 sales_page: "https://socialdancingacademy.com/single-monat"
 language: "de"
 ---
 # All Styles Single-Monat der Social Dancing Academy
 
 > Product ID `45651` · Digistore24 productId `409953` · [HTML profile page](../../produkte/all-styles-single-monat-der-social-dancing-academy-45651.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $6.59 (Single payment) |
+| Price | $6.57 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $14.31 |
+| Earnings/sale* | $14.28 |
 | Cart conversion* | 21% |
 | Cancel rate* | 3.5% |
 | Vendor | DadoIbrakovic |
@@ -41,11 +41,30 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** All Styles Single-Monat der Social Dancing Academy - Zugang zu 3000+ Lektionen 30 Tage lang Die Social Dancing Academy hat bereits über 1000 aktive und sehr zufriedene Abonnenten! Vorteile für Affiliates: Bewerbe jetzt dieses Produkt der Social Dancing Academy und erhalte 25% lebenslange Provision auf jährliche- UND Ratenzahlungen. Die Academy buchen sowohl Paare als auch viele Singles, da sie übe…
+**Vendor's marketplace description:** <p><strong>All Styles Single-Monat der Social Dancing Academy - Zugang zu 3000+ Lektionen 30 Tage lang</strong></p>
+<p>Die Social Dancing Academy hat bereits über 1000 aktive und sehr zufriedene Abonnenten!</p>
+<p><strong>Vorteile für Affiliates:</strong></p>
+<p>Bewerbe jetzt dieses Produkt der Social Dancing Academy und erhalte 25% lebenslange Provision auf jährliche- UND Ratenzahlungen.<br /><br /></p>
+<p>Die Academy buchen sowohl Paare als auch viele Singles, da sie über 700 Lektionen für Solo-Tänzer*innen beinhaltet.</p>
+<p><strong>DIES IST KEIN ABO - nach 30 Tagen läuft der Zugang einfach aus!<br /></strong>(in dieser Zeit wird ein weiteres Jahresabo als Upsell angeboten)<br /><br />Single-Monat beinhaltet folgende Inhalte:</p>
+<ul>
+<li><strong>Wöchentliche Live-Lektionen</strong> <br /><br /></li>
+<li><strong>Ballroom Academy </strong>(ca. 300 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Discofox Academy </strong>(ca. 200 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Salsa Academy </strong>(ca. 300 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Bachata &amp; Bachatango Academy </strong>(ca. 300 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Lindy Hop Academy </strong>(ca. 130 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Tango Academy </strong>(ca. 200 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>West Coast Swing Academy </strong>(ca. 150 Lektionen)<strong><br /></strong><strong><br /></strong></li>
+<li><strong>Allgemeine Kurse und Lektionen</strong> (ca. 200 Lektionen)<strong><br /><br /></strong></li>
+<li><strong>Kizomba Academy</strong> (ca. 90 Lektionen, gerade im Aufbau)</li>
+</ul>
+<p><strong><br /></strong>Die Social Dancing Academy enwickelt sich ständig weiter und es kommen immer wieder neue Figuren und Module dazu!<br />(ohne Aufzahlung). </p>
+<p>Alleine in den letzten 12 Monaten sind 1000(!) neue Videolektionen dazu gekommen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://socialdancingacademy.com/single-monat?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/45651/adminstore/
 - Sales page: https://socialdancingacademy.com/single-monat
 - Canonical redirect: https://www.digistore24.com/redir/409953/adminstore
 
@@ -84,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist All Styles Single-Monat der Social Dancing Academy? — Typ: Member area and video courses, Anbieter: DadoIbrakovic, gelistet seit 2021-09-30
-- Wie viel kostet es? — 6.5891280000000005 USD
+- Wie viel kostet es? — 6.574428 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

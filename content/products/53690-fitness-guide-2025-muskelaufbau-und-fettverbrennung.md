@@ -4,16 +4,16 @@ digistore24_product_id: 630728
 title: "Fitness-Guide 2025 – Muskelaufbau und Fettverbrennung"
 vendor: "Hustler_academy"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 15.63
+earnings_per_sale: 15.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport","Marketing Services"]
 listed_since: "2025-08-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://hustlersacademys.my.canva.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://hustlersacademys.my.canva.site/"
@@ -22,16 +22,16 @@ language: "de"
 # Fitness-Guide 2025 – Muskelaufbau und Fettverbrennung
 
 > Product ID `53690` · Digistore24 productId `630728` · [HTML profile page](../../produkte/fitness-guide-2025-muskelaufbau-und-fettverbrennung-53690.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $15.63 |
+| Earnings/sale* | $15.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hustler_academy |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der ultimative Fitness-Guide 2025 ist ein All-in-One Paket für alle, die Muskeln aufbauen, Fett verbrennen und ihre Ernährung optimieren wollen.
+**Vendor's marketplace description:** <p>Der ultimative Fitness-Guide 2025 ist ein All-in-One Paket für alle, die Muskeln aufbauen, Fett verbrennen und ihre Ernährung optimieren wollen.</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -67,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Fitness-Guide 2025 – Muskelaufbau und Fettverbrennung? — Typ: E-books, Anbieter: Hustler_academy, gelistet seit 2025-08-20
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 686568
 title: "KapitelZwei"
 vendor: "KapitelZwei"
 product_type: "Member area and video courses"
-price: 249.92
+price: 110.69
 currency: "USD"
-affiliate_commission_pct: 59.5
-earnings_per_sale: 148.7
+affiliate_commission_pct: 90
+earnings_per_sale: 99.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2026-06-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/686568?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57041/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/686568"
 language: "de"
 ---
 # KapitelZwei
 
 > Product ID `57041` · Digistore24 productId `686568` · [HTML profile page](../../produkte/kapitelzwei-57041.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $249.92 (Single payment, Installment) |
-| Affiliate commission | 59.5% |
-| Earnings/sale* | $148.70 |
+| Price | $110.69 (Single payment, Installment) |
+| Affiliate commission | 90% |
+| Earnings/sale* | $99.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KapitelZwei |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kapitel Zwei ist die perfekte Ergänzung für alle, die ihre Bücher professionell erstellen, optimieren und erfolgreich veröffentlichen möchten. In über 20 Modulen mit ausführlichen Videoanleitungen zeigen wir dir Schritt für Schritt den gesamten Prozess von der Einrichtung deines Amazon KDP Kontos bis zur fertigen Veröffentlichung. Du erhältst praxiserprobte Vorlagen, klare Anleitungen und alle Wer…
+**Vendor's marketplace description:** <p>Kapitel Zwei ist die perfekte Ergänzung für alle, die ihre Bücher professionell erstellen, optimieren und erfolgreich veröffentlichen möchten. In über 20 Modulen mit ausführlichen Videoanleitungen zeigen wir dir Schritt für Schritt den gesamten Prozess von der Einrichtung deines Amazon KDP Kontos bis zur fertigen Veröffentlichung. Du erhältst praxiserprobte Vorlagen, klare Anleitungen und alle Werkzeuge, um schneller ins Umsetzen zu kommen.</p>
+<p>Eine exklusive Kapitel Zwei Wissensdatenbank, die dir dabei hilft, in weniger als 15 Minuten professionelle Cover zu erstellen</p>
+<p>Ideal für Anfänger und auch für Menschen, die bereits Bücher veröffentlicht haben, aber bisher keine oder nur wenige Verkäufe erzielen</p>
+<p>Klare Strategien, um typische Fehler zu vermeiden und deine Bücher professionell am Markt zu platzieren.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/686568?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57041/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/686568
 - Canonical redirect: https://www.digistore24.com/redir/686568/adminstore
 
@@ -90,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KapitelZwei? — Typ: Member area and video courses, Anbieter: KapitelZwei, gelistet seit 2026-06-18
-- Wie viel kostet es? — 249.91621200000003 USD
+- Wie viel kostet es? — 110.6919 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

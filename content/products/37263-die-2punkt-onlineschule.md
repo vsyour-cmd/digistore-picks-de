@@ -4,34 +4,34 @@ digistore24_product_id: 389005
 title: "Die 2Punkt-Onlineschule"
 vendor: "ResonanceQuantique"
 product_type: "Member area and video courses"
-price: 282.5
+price: 281.87
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 84.75
+earnings_per_sale: 84.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-05-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/389005?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37263/adminstore/"
 sales_page: "https://www.digistore24.com/product/389005"
 language: "de"
 ---
 # Die 2Punkt-Onlineschule
 
 > Product ID `37263` · Digistore24 productId `389005` · [HTML profile page](../../produkte/die-2punkt-onlineschule-37263.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $282.50 (Single payment, Installment) |
+| Price | $281.87 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $84.75 |
+| Earnings/sale* | $84.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ResonanceQuantique |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Online-Kurs zur2Punkt-Methode mit Frauke Kaluzinski Die 2Punkt Methode dein Bewusstseins-Instrument • lerne die 2Punkt-Methode kennen und anwenden• lerne zu nutzen, was schon in dir ist• transformiere radikal alte Glaubensmuster• harmonisiere und verbessere deine Beziehungen und Zustände• lass dich zu deinem Gottesfunken führen und so dein Leben ordnen Diese Schule ist so, wie Schule sein sollte: …
+**Vendor's marketplace description:** <h2><span style="color:#800080;"><strong>Online-Kurs zur2Punkt-Methode <br /></strong></span><em><span style="color:#800080;"><strong>mit Frauke Kaluzinski </strong></span></em></h2>
+<p><strong>Die 2Punkt Methode dein Bewusstseins-Instrument</strong></p>
+<p>• lerne die 2Punkt-Methode kennen und anwenden<br />• lerne zu nutzen, was schon in dir ist<br />• transformiere radikal alte Glaubensmuster<br />• harmonisiere und verbessere deine Beziehungen und Zustände<br />• lass dich zu deinem Gottesfunken führen und so dein Leben ordnen</p>
+<p><strong>Diese Schule ist so, wie Schule sein sollte: Freudig - kreativ - überraschend - magisch - bereichernd und voller ungeahnter Horizonte.</strong></p>
+<p><strong><em>Produkteigenschaften:</em></strong></p>
+<p><strong><em>• Online-Schule mit 7 Kapiteln und 37 Videolektionen<br /></em></strong><strong><em>• 2Punkt-Methode Workbook (PDF)</em></strong></p>
+<p><em>"Geh auf die Reise deiner schöpferischsen Möglichkeiten und lasse ungeahnte Schätze daraus erwachsen."</em></p>
+<p>Ich grüße dich!<br />Von Herz zu Herz<br /><em><strong>Frauke Kaluzinski</strong></em></p>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/389005?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37263/adminstore/
 - Sales page: https://www.digistore24.com/product/389005
 - Canonical redirect: https://www.digistore24.com/redir/389005/adminstore
 
@@ -90,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 2Punkt-Onlineschule? — Typ: Member area and video courses, Anbieter: ResonanceQuantique, gelistet seit 2021-05-10
-- Wie viel kostet es? — 282.50326 USD
+- Wie viel kostet es? — 281.87301 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

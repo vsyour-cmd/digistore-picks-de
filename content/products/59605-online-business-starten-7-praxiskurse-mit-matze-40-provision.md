@@ -4,34 +4,34 @@ digistore24_product_id: 736580
 title: "Online Business starten – 7 Praxiskurse mit Matze | 40 % Provision"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 469.9
+price: 468.85
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 187.96
+earnings_per_sale: 187.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://einfachmitmatze.de/online-business-starten/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59605/adminstore/"
 sales_page: "https://einfachmitmatze.de/online-business-starten/"
 language: "de"
 ---
 # Online Business starten – 7 Praxiskurse mit Matze | 40 % Provision
 
 > Product ID `59605` · Digistore24 productId `736580` · [HTML profile page](../../produkte/online-business-starten-7-praxiskurse-mit-matze-40-provision-59605.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $469.90 (Single payment) |
+| Price | $468.85 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $187.96 |
+| Earnings/sale* | $187.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,11 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sieben Praxiskurse. Ein Paket für den Einstieg ins Online-Business. Empfiehl deiner deutschsprachigen Zielgruppe ein Paket für Content, Affiliate-Marketing, digitale Bücher und Handel. Die Käufer vergleichen verschiedene Ansätze und entwickeln mit Aufgaben, Arbeitsmappen und Vorlagen ihren eigenen Startplan. Faceless-Videos, Amazon KDP, Affiliate-Website und Landingpage. Amazon PartnerNet, TikTok …
+**Vendor's marketplace description:** <h2>Sieben Praxiskurse. Ein Paket für den Einstieg ins Online-Business.</h2>
+<p>Empfiehl deiner deutschsprachigen Zielgruppe ein Paket für Content, Affiliate-Marketing, digitale Bücher und Handel. Die Käufer vergleichen verschiedene Ansätze und entwickeln mit Aufgaben, Arbeitsmappen und Vorlagen ihren eigenen Startplan.</p>
+<ul>
+<li>Faceless-Videos, Amazon KDP, Affiliate-Website und Landingpage.</li>
+<li>Amazon PartnerNet, TikTok Shop Affiliate und Amazon FBA.</li>
+<li>Sieben ZIP-Downloads mit schriftlichen PDF-Lektionen, Arbeitsmappen und bearbeitbaren Vorlagen.</li>
+<li>499 € einmalig, kein Abo. 40 % Affiliate-Provision gemäß Digistore24-Abrechnung.</li>
+</ul>
+<h3>Deine Werbemittel</h3>
+<p>Vollflächiges Matze-Szenencover, Social-Media-Texte, Pinterest-Text, E-Mail-Vorlage und Partnerlink-Generator: direkt zum Produkt auf unserer Affiliate-Support-Seite.</p>
+<p>Für Einsteiger, die ein eigenes Projekt planen und selbst umsetzen wollen. Schriftliches Selbstlernmaterial ohne Videolektionen oder persönliche Betreuung. Externe Konten, Freigaben und Kosten sind nicht enthalten. Keine garantierten Einnahmen oder Verkäufe.</p>
+<p>Affiliate-Support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://einfachmitmatze.de/online-business-starten/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59605/adminstore/
 - Sales page: https://einfachmitmatze.de/online-business-starten/
 - Vendor affiliate support: https://einfachmitmatze.de/partner-736580/
 - Canonical redirect: https://www.digistore24.com/redir/736580/adminstore
@@ -82,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online Business starten – 7 Praxiskurse mit Matze | 40 % Provision? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-23
-- Wie viel kostet es? — 469.901198 USD
+- Wie viel kostet es? — 468.85287300000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

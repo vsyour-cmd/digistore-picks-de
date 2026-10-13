@@ -4,16 +4,16 @@ digistore24_product_id: 740513
 title: "Erst planen, dann sanieren | Praxisratgeber für Hauseigentüm"
 vendor: "Marketing17"
 product_type: "E-books"
-price: 15.61
+price: 15.58
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 9.37
+earnings_per_sale: 9.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden","Marketing Services"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://haus-energieberater.de/erst-planen-dann-sanieren/?aff=adminstore#aff=adminstore"
 sales_page: "https://haus-energieberater.de/erst-planen-dann-sanieren/"
@@ -22,16 +22,16 @@ language: "de"
 # Erst planen, dann sanieren | Praxisratgeber für Hauseigentüm
 
 > Product ID `60122` · Digistore24 productId `740513` · [HTML profile page](../../produkte/erst-planen-dann-sanieren-praxisratgeber-f-r-hauseigent-m-60122.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.61 (Single payment) |
+| Price | $15.58 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $9.37 |
+| Earnings/sale* | $9.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Marketing17 |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dach, Fenster, Fassade, Heizung oder Photovoltaik: Viele Hauseigentümer wissen, was erneuert werden soll, aber nicht, welche Reihenfolge sinnvoll ist. „Erst planen, dann sanieren“ von A&K Energieberatung erklärt verständlich, welche Maßnahmen zusammenhängen und was vor dem ersten Auftrag geklärt werden sollte. Das digitale Produkt umfasst:• 38 Seiten als PDF• Drei Fallbeispiele mit unterschiedlich…
+**Vendor's marketplace description:** <p>Dach, Fenster, Fassade, Heizung oder Photovoltaik: Viele Hauseigentümer wissen, was erneuert werden soll, aber nicht, welche Reihenfolge sinnvoll ist.</p>
+<p>„Erst planen, dann sanieren“ von A&amp;K Energieberatung erklärt verständlich, welche Maßnahmen zusammenhängen und was vor dem ersten Auftrag geklärt werden sollte.</p>
+<p>Das digitale Produkt umfasst:<br />• 38 Seiten als PDF<br />• Drei Fallbeispiele mit unterschiedlichen Ausgangssituationen<br />• Gesprächsleitfäden für Handwerker und Fachplaner<br />• Eine Checkliste vor der Beauftragung<br />• Zwei schematische Schnittstellenzeichnungen<br />• Digital ausfüllbare Arbeitsblätter und einen Sanierungsplan</p>
+<p>Zielgruppe:<br />Eigentümer von Einfamilienhäusern und Zweifamilienhäusern, Käufer älterer Immobilien sowie Menschen, die mehrere Sanierungsmaßnahmen über einen längeren Zeitraum umsetzen möchten.</p>
+<p>Für Affiliates:<br />Das Produkt passt zu Inhalten rund um Hauskauf, Modernisierung, Dachsanierung, Fenstertausch, Wärmepumpen und Photovoltaik. Konkrete Themen wie „Fenster jetzt, Fassade später“ oder „Wärmepumpe vor oder nach der Dämmung?“ bieten passende Einstiege für die Ansprache.</p>
+<p>Die aktuelle Vergütung entnehmen Sie den Provisionsangaben dieses Marktplatzeintrags. Werbematerialien und Textvorlagen für diesen Ratgeber erhalten Sie auf Anfrage.</p>
+<p>Einmaliger Kauf, kein Abonnement. Es handelt sich um einen allgemeinen digitalen Ratgeber. Individuelle Energieberatung, Fachplanung und Förderantragstellung sind nicht enthalten. Eine bestimmte Kostenersparnis wird nicht zugesichert.</p>
+<p>Kontakt für Affiliate-Anfragen:<br /><a>info@haus-energieberater.de</a></p>
 
 ## 2. Links
 
@@ -79,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Erst planen, dann sanieren | Praxisratgeber für Hauseigentüm? — Typ: E-books, Anbieter: Marketing17, gelistet seit 2026-10-02
-- Wie viel kostet es? — 15.609958 USD
+- Wie viel kostet es? — 15.575133000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

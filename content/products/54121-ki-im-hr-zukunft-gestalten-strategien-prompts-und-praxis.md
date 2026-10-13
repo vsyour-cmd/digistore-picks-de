@@ -4,34 +4,34 @@ digistore24_product_id: 636229
 title: "KI im HR – Zukunft gestalten Strategien, Prompts und Praxis"
 vendor: "HRruns"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 27.69
+earnings_per_sale: 27.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Personal Development"]
 listed_since: "2025-09-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://andreasguenzel.coachy.net/lp/ki-hr-runs?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54121/adminstore/"
 sales_page: "https://andreasguenzel.coachy.net/lp/ki-hr-runs"
 language: "de"
 ---
 # KI im HR – Zukunft gestalten Strategien, Prompts und Praxis
 
 > Product ID `54121` · Digistore24 productId `636229` · [HTML profile page](../../produkte/ki-im-hr-zukunft-gestalten-strategien-prompts-und-praxis-54121.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $27.69 |
+| Earnings/sale* | $27.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HRruns |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Künstliche Intelligenz verändert die HR-Arbeit grundlegend. Dieser praxisnahe Online-Kurs zeigt HR-Verantwortlichen, wie sie ChatGPT und andere KI-Anwendungen sinnvoll, sicher und wirksam im Arbeitsalltag einsetzen können – verständlich erklärt und ohne unnötigen Tech-Sprech. In über zwei Stunden kompaktem Online-Training lernen die Teilnehmenden Schritt für Schritt, wie sie KI in zentralen HR-Ber…
+**Vendor's marketplace description:** <p><strong>Künstliche Intelligenz verändert die HR-Arbeit grundlegend. Dieser praxisnahe Online-Kurs zeigt HR-Verantwortlichen, wie sie ChatGPT und andere KI-Anwendungen sinnvoll, sicher und wirksam im Arbeitsalltag einsetzen können – verständlich erklärt und ohne unnötigen Tech-Sprech.</strong></p>
+<p>In über zwei Stunden kompaktem Online-Training lernen die Teilnehmenden Schritt für Schritt, wie sie KI in zentralen HR-Bereichen einsetzen und dadurch Zeit sparen, die Qualität ihrer Arbeit verbessern und neue Möglichkeiten für ihre HR-Praxis erschließen.</p>
+<p><strong>Das erwartet die Teilnehmenden:</strong></p>
+<p>✅ <strong>Recruiting effizienter gestalten:</strong> KI für Stellenanzeigen, Interviewleitfäden, Bewerberkommunikation und weitere Recruiting-Aufgaben nutzen.</p>
+<p>✅ <strong>Onboarding verbessern:</strong> Checklisten, Einarbeitungspläne, Willkommensbotschaften und weitere Inhalte schneller und strukturierter erstellen.</p>
+<p>✅ <strong>Employer Branding unterstützen:</strong> KI für Textideen, Social-Media-Beiträge, Arbeitgeberkommunikation und den Umgang mit Feedback einsetzen.</p>
+<p>✅ <strong>Direkt in die Praxis starten:</strong> Zahlreiche Prompts, Vorlagen und Beispiele nutzen, die sich unmittelbar auf den eigenen HR-Alltag übertragen lassen.</p>
+<p>✅ <strong>Bessere KI-Ergebnisse erzielen:</strong> Mit den Prompting-Methoden <strong>ACT, ACTION und ACTION+</strong> lernen die Teilnehmenden, Aufgaben klar zu formulieren und präzisere, hochwertigere Ergebnisse zu erhalten.</p>
+<p>✅ <strong>KI verantwortungsvoll einsetzen:</strong> Datenschutz, Transparenz, menschliche Verantwortung und zentrale rechtliche Rahmenbedingungen verständlich einordnen.</p>
+<p>✅ <strong>KI-Kompetenz im HR aufbauen:</strong> Der Kurs vermittelt wichtige Grundlagen für einen kompetenten und verantwortungsvollen Umgang mit KI und kann damit auch einen Beitrag zur Qualifizierung von Mitarbeitenden im Sinne von <strong>Art. 4 des EU AI Acts</strong> leisten.</p>
+<p><strong>Der Kurs richtet sich an Personalleiter, HR-Manager, Recruiter und HR-Fachkräfte, die KI nicht nur theoretisch verstehen, sondern konkret und verantwortungsvoll in ihrer täglichen Arbeit einsetzen möchten.</strong></p>
+<p>Für den Affiliate-Marktplatz würde ich zusätzlich am Ende noch diesen Satz ergänzen:</p>
+<p><strong>Für Affiliates interessant:</strong> eine klar definierte B2B-Zielgruppe, ein hochaktuelles Thema und ein praxisnaher Kurs mit unmittelbar nutzbaren Prompts, Vorlagen und konkreten HR-Anwendungsfällen.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://andreasguenzel.coachy.net/lp/ki-hr-runs?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54121/adminstore/
 - Sales page: https://andreasguenzel.coachy.net/lp/ki-hr-runs
 - Canonical redirect: https://www.digistore24.com/redir/636229/adminstore
 
@@ -102,7 +115,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI im HR – Zukunft gestalten Strategien, Prompts und Praxis? — Typ: Member area and video courses, Anbieter: HRruns, gelistet seit 2025-09-17
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

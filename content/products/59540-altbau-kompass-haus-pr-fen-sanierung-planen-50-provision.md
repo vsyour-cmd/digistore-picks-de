@@ -4,16 +4,16 @@ digistore24_product_id: 735681
 title: "Altbau-Kompass – Haus prüfen, Sanierung planen | 50 % Provision"
 vendor: "DerPate"
 product_type: "Downloads"
-price: 46.99
+price: 46.88
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.5
+earnings_per_sale: 23.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden","Real Estate"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/735681?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735681"
@@ -22,16 +22,16 @@ language: "de"
 # Altbau-Kompass – Haus prüfen, Sanierung planen | 50 % Provision
 
 > Product ID `59540` · Digistore24 productId `735681` · [HTML profile page](../../produkte/altbau-kompass-haus-pr-fen-sanierung-planen-50-provision-59540.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.99 (Single payment) |
+| Price | $46.88 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.50 |
+| Earnings/sale* | $23.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DerPate |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ALTBAU KAUFEN ODER SANIEREN – MIT KLARER STRUKTUR STATT KOSTSPIELIGER ÜBERRASCHUNGEN Der Altbau-Kompass ist ein digitales Prüf-, Planungs- und Dokumentationspaket für Altbaukäufer, Hausbesitzer und private Sanierer. DAS ERHÄLT DER KUNDE• Excel-Arbeitsmappe mit 9 verknüpften Arbeitsbereichen• Objektcheck und Vergleich für bis zu 3 Immobilien• Sanierungsbudget, Angebotsvergleich und Ablaufplan• Mäng…
+**Vendor's marketplace description:** <p>ALTBAU KAUFEN ODER SANIEREN – MIT KLARER STRUKTUR STATT KOSTSPIELIGER ÜBERRASCHUNGEN</p>
+<p>Der Altbau-Kompass ist ein digitales Prüf-, Planungs- und Dokumentationspaket für Altbaukäufer, Hausbesitzer und private Sanierer.</p>
+<p>DAS ERHÄLT DER KUNDE<br />• Excel-Arbeitsmappe mit 9 verknüpften Arbeitsbereichen<br />• Objektcheck und Vergleich für bis zu 3 Immobilien<br />• Sanierungsbudget, Angebotsvergleich und Ablaufplan<br />• Mängel- und Dokumentenübersicht<br />• 15-seitiges Checklisten-PDF für Besichtigung und Abnahme<br />• sofortiger digitaler Download</p>
+<p>AFFILIATE-VORTEILE<br />• 50 % Provision je erfolgreichem Verkauf<br />• Einmalpreis 49,90 €, kein Abo<br />• hoher Problemdruck durch Sanierungskosten und versteckte Risiken<br />• klar definierte Zielgruppe<br />• fertige Werbebilder und Textvorlagen<br />• Promolink-Generator und direkter Affiliate-Support<br />• sichere Bestellabwicklung über Digistore24</p>
+<p>Ideal für Inhalte rund um Altbau, Hauskauf, Sanierung, Renovierung, Immobilien und Baufinanzierung. Das Produkt ist ein Organisationswerkzeug und ersetzt keine Fachberatung.</p>
 
 ## 2. Links
 
@@ -80,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Altbau-Kompass – Haus prüfen, Sanierung planen | 50 % Provision? — Typ: Downloads, Anbieter: DerPate, gelistet seit 2026-09-22
-- Wie viel kostet es? — 46.986758 USD
+- Wie viel kostet es? — 46.881933000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

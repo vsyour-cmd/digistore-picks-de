@@ -4,34 +4,34 @@ digistore24_product_id: 638520
 title: "Selfievideo© Das Konzept für Vertrieb Dein Personal und Dich"
 vendor: "Selfievideo-Finanzmedia"
 product_type: "Member area and video courses"
-price: 189.13
+price: 188.71
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 18.92
+earnings_per_sale: 18.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software"]
 listed_since: "2025-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://finanzmedia.de/deine-tierversicherung-kosten-nicht-unterschaetzen/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54593/adminstore/"
 sales_page: "https://finanzmedia.de/deine-tierversicherung-kosten-nicht-unterschaetzen/"
 language: "de"
 ---
 # Selfievideo© Das Konzept für Vertrieb Dein Personal und Dich
 
 > Product ID `54593` · Digistore24 productId `638520` · [HTML profile page](../../produkte/selfievideo-das-konzept-f-r-vertrieb-dein-personal-und-dich-54593.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $189.13 (Subscription) |
+| Price | $188.71 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $18.92 |
+| Earnings/sale* | $18.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Selfievideo-Finanzmedia |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Konzept für Vertrieb, Dein Personal und Dich. Für Selbstständige und KMU.Zeitgleich sympathische Kunden gewinnen, die Dich schon gekauft haben, während Du Dich um Dein Business kümmerst. Oder als KMU Deine Personalgewinnung, die Loyalität, die Schulungen und das Marketing verbesserst. Einmal aufnehmen, tausende Male nutzen. Dein DSGVO-konformes Tool als Business Lösung für Selbermacher oder mi…
+**Vendor's marketplace description:** <p><strong>Das Konzept für Vertrieb, Dein Personal und Dich. </strong><strong>Für Selbstständige und KMU.</strong><br /><br />Zeitgleich sympathische Kunden gewinnen, die Dich schon gekauft haben, während Du Dich um Dein Business kümmerst. Oder als KMU Deine Personalgewinnung, die Loyalität, die Schulungen und das Marketing verbesserst. <strong>Einmal aufnehmen, tausende Male nutzen.</strong> Dein DSGVO-konformes Tool als Business Lösung für Selbermacher oder mit Experten Hilfe.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://finanzmedia.de/deine-tierversicherung-kosten-nicht-unterschaetzen/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54593/adminstore/
 - Sales page: https://finanzmedia.de/deine-tierversicherung-kosten-nicht-unterschaetzen/
 - Vendor affiliate support: http://www.selfievideo.de
 - Canonical redirect: https://www.digistore24.com/redir/638520/adminstore
@@ -78,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Selfievideo© Das Konzept für Vertrieb Dein Personal und Dich? — Typ: Member area and video courses, Anbieter: Selfievideo-Finanzmedia, gelistet seit 2025-09-29
-- Wie viel kostet es? — 189.134868 USD
+- Wie viel kostet es? — 188.71291800000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 233809
 title: "Laufverletzungen vermeiden ab dem nächsten Training"
 vendor: "andreasvojta"
 product_type: "Downloads"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.07
+earnings_per_sale: 23.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-07-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://laufheld.com/fvv/0u-lm-vv-01/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/27917/adminstore/"
 sales_page: "https://laufheld.com/fvv/0u-lm-vv-01/"
 language: "de"
 ---
 # Laufverletzungen vermeiden ab dem nächsten Training
 
 > Product ID `27917` · Digistore24 productId `233809` · [HTML profile page](../../produkte/laufverletzungen-vermeiden-ab-dem-n-chsten-training-27917.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.07 |
+| Earnings/sale* | $23.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | andreasvojta |
@@ -41,11 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Seit Februar 2019: WERDE PARTNER DER LAUFHELD ACADEMYUND ERHALTE 50% PROVISION! Sei dabei und werde Affiliate Partner der Laufheld Academy und erhalte 50% Provision für jeden Teilnehmer, der über dich gekommen ist, und Produkte im Funnel kauft (insgesamt deutlich über 100€ an Umsatz pro User möglich). Ideal für alle mit Website/Blog, Youtube Kanal, Email-Liste, etc. im Lauf- oder generell im Sport…
+**Vendor's marketplace description:** <p>Seit Februar 2019:</p>
+<h1>WERDE <strong>PARTNER DER LAUFHELD ACADEMY</strong><br />UND <strong>ERHALTE 50% PROVISION!</strong></h1>
+<p>Sei dabei und <u><a href="https://laufheld.com/affiliate-partner/" target="_blank" rel="noreferrer noopener">werde Affiliate Partner</a></u> der Laufheld Academy und <a href="https://laufheld.com/affiliate-partner/" target="_blank" rel="noreferrer noopener">erhalte 50% Provision</a> für jeden Teilnehmer, der über dich gekommen ist, und Produkte im Funnel kauft (insgesamt deutlich über 100€ an Umsatz pro User möglich).</p>
+<p><strong>Ideal für alle mit Website/Blog, Youtube Kanal, Email-Liste, etc. im Lauf- oder generell im Sport- und Fitness-Bereich!</strong></p>
+<p><strong>Verdiene 50% Provision für die Promotion des Verletzungen vermeiden Funnels (Tripwire+Order Bump, Core Offer + Profit Maximizer)!</strong></p>
+<p>(<a href="https://laufheld.com/affiliate-partner/" target="_blank" rel="noreferrer noopener">auch andere Funnels verfügbar</a>)</p>
+<p>Achtung: Bitte unbedingt auf unserer <a href="https://laufheld.com/affiliate-partner/" target="_blank" rel="noreferrer noopener">Affiliate-Seite</a> vorbeischauen, bevor du startest!</p>
+<p>Die Laufheld Academy bietet ein ständig wachsendes Angebot an Videokursen für Läufer und hilft Hobbyläufern so dabei ihren Laufsport bestmöglich auszuüben und so Verletzungen zu vermeiden, Motivation zum Laufen zu finden und neue Bestzeiten zu laufen.</p>
+<p><strong>Keine Husch-Pfusch Videokurse...</strong></p>
+<p>Die Kurse der Laufheld Academy wurden von Profi-Läufer Andreas Vojta (Olympiateilnehmer und 30-facher Staatsmeister) in Zusammenarbeit mit Top-Experten wie Sportärzten, Physiotherapeuten und Ernährungswissenschaftlern erstellt.</p>
+<p>Beste Conversion mit Content-Link: <a href="https://www.digistore24.com/content/233809/22860/AFFILIATE/CAMPAIGNKEY" target="_blank" rel="noreferrer noopener">https://www.digistore24.com/content/233809/22860/AFFILIATE/CAMPAIGNKEY</a></p>
+<p><strong><a href="https://laufheld.com/affiliate-partner/" target="_blank" rel="noreferrer noopener">Hole dir jetzt alle weiteren Infos auf der Affiliate und Partner Seite!</a></strong></p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://laufheld.com/fvv/0u-lm-vv-01/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/27917/adminstore/
 - Sales page: https://laufheld.com/fvv/0u-lm-vv-01/
 - Vendor affiliate support: https://laufheld.com/affiliate-partner/
 - Canonical redirect: https://www.digistore24.com/redir/233809/adminstore
@@ -67,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Laufverletzungen vermeiden ab dem nächsten Training? — Typ: Downloads, Anbieter: andreasvojta, gelistet seit 2018-07-19
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

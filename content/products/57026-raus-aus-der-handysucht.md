@@ -4,16 +4,16 @@ digistore24_product_id: 702257
 title: "Raus aus der Handysucht"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-06-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/raus-aus-der-handysucht?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/raus-aus-der-handysucht"
@@ -22,16 +22,16 @@ language: "de"
 # Raus aus der Handysucht
 
 > Product ID `57026` · Digistore24 productId `702257` · [HTML profile page](../../produkte/raus-aus-der-handysucht-57026.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,25 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „Raus aus der Handysucht" Hundertmal am Tag zum Handy greifen? Dieser Ratgeber hilft dir zu verstehen, warum das Smartphone so fesselt, dein Handy zu entschärfen und Schritt für Schritt die Kontrolle über deine Zeit zurückzugewinnen. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Sucht & Entz…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Raus aus der Handysucht"</strong></p>
+<p>Hundertmal am Tag zum Handy greifen? Dieser Ratgeber hilft dir zu verstehen, warum das Smartphone so fesselt, dein Handy zu entschärfen und Schritt für Schritt die Kontrolle über deine Zeit zurückzugewinnen.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
+<li>Gefragtes Thema mit großer Zielgruppe: Sucht &amp; Entzug / Selbsthilfe</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Einschätzen, wann Handynutzung zu viel wird</li>
+<li>Verstehen, warum das Smartphone so fesselt</li>
+<li>Das Handy über Einstellungen und Apps entschärfen</li>
+<li>Den automatischen Griff durch neue Gewohnheiten ersetzen</li>
+<li>Fokus, Schlaf und echte Pausen zurückgewinnen</li>
+</ul>
+<p><strong>Für deine Zielgruppe:</strong> Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- &amp; Persönlichkeitsentwicklungs-Zielgruppe</p>
+<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
 
 ## 2. Links
 
@@ -86,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Raus aus der Handysucht? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-17
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

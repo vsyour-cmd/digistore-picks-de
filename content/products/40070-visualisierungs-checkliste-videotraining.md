@@ -4,16 +4,16 @@ digistore24_product_id: 396802
 title: "Visualisierungs-Checkliste-Videotraining"
 vendor: "Erfolg-Intuitiv"
 product_type: "Member area and video courses"
-price: 35.31
+price: 35.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.58
+earnings_per_sale: 14.55
 cart_conversion_pct: 17
 cancel_rate_pct: 6.46
 categories: ["Personal Development"]
 listed_since: "2021-07-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/visualisierungs-checkliste-videotraining-01/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/visualisierungs-checkliste-videotraining-01/"
@@ -22,16 +22,16 @@ language: "de"
 # Visualisierungs-Checkliste-Videotraining
 
 > Product ID `40070` · Digistore24 productId `396802` · [HTML profile page](../../produkte/visualisierungs-checkliste-videotraining-40070.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $35.31 (Single payment) |
+| Price | $35.23 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.58 |
+| Earnings/sale* | $14.55 |
 | Cart conversion* | 17% |
 | Cancel rate* | 6.46% |
 | Vendor | Erfolg-Intuitiv |
@@ -41,7 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Visualisierungs-Checkliste ist ein Initial-Produkt... Das bedeutet, dass der Interessent als erstes die kostenlose "Visualisierungs-Checkliste" bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Checkliste das passende "Videotraining" für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-Angebote auf…
+**Vendor's marketplace description:** <h4><strong>Die Visualisierungs-Checkliste ist ein Initial-Produkt...</strong></h4>
+<p>Das bedeutet, dass der Interessent als erstes die kostenlose <strong>"Visualisierungs-Checkliste"</strong> bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Checkliste das passende <strong>"Videotraining"</strong> für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-Angebote auf <strong>"Anziehungskraft-Dreieck"</strong> (47,- Euro) und auf das <strong>"Anziehungskraft-Masterplan-Coaching"</strong> (97,- Euro).</p>
+<p><strong>&gt;&gt; Jeweils 50% Provision.</strong></p>
+<p><span style="color:#ff0000;"><strong>Diesen Promolink verwenden:</strong></span></p>
+<p><strong>https://www.digistore24.com/content/396802/34927/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
 
 ## 2. Links
 
@@ -82,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Visualisierungs-Checkliste-Videotraining? — Typ: Member area and video courses, Anbieter: Erfolg-Intuitiv, gelistet seit 2021-07-04
-- Wie viel kostet es? — 35.310106000000005 USD
+- Wie viel kostet es? — 35.231331000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

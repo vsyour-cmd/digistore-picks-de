@@ -4,16 +4,16 @@ digistore24_product_id: 733579
 title: "EU AI Act Komplettpaket – 9 PDF-Arbeitshefte"
 vendor: "MindshiftDigitalStudio"
 product_type: "E-books"
-price: 93.21
+price: 93
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 27.96
+earnings_per_sale: 27.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/733579?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/733579"
@@ -22,16 +22,16 @@ language: "de"
 # EU AI Act Komplettpaket – 9 PDF-Arbeitshefte
 
 > Product ID `59654` · Digistore24 productId `733579` · [HTML profile page](../../produkte/eu-ai-act-komplettpaket-9-pdf-arbeitshefte-59654.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $93.21 (Single payment) |
+| Price | $93.00 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $27.96 |
+| Earnings/sale* | $27.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** EU AI Act Komplettpaket 2026/2027 Das Paket enthält 9 digitale Arbeitshefte im PDF-Format mit Checklisten, Vorlagen, Mustertexten und praktischen Arbeitshilfen rund um die Umsetzung des EU AI Act. Geeignet für: Selbstständige, KMU, Agenturen, Beratungen, Online-Shops, SaaS-Anbieter sowie Marketing-, HR-, IT- und Produktteams. Enthaltene Themen: Algorithmische Entscheidungen XAI & Erklärbarkeit Gen…
+**Vendor's marketplace description:** <p><strong>EU AI Act Komplettpaket 2026/2027</strong></p>
+<p>Das Paket enthält <strong>9 digitale Arbeitshefte im PDF-Format</strong> mit Checklisten, Vorlagen, Mustertexten und praktischen Arbeitshilfen rund um die Umsetzung des EU AI Act.</p>
+<p><strong>Geeignet für:</strong> Selbstständige, KMU, Agenturen, Beratungen, Online-Shops, SaaS-Anbieter sowie Marketing-, HR-, IT- und Produktteams.</p>
+<p><strong>Enthaltene Themen:</strong></p>
+<ul>
+<li>Algorithmische Entscheidungen</li>
+<li>XAI &amp; Erklärbarkeit</li>
+<li>Generative KI</li>
+<li>Deepfake &amp; Synthetic Media</li>
+<li>Trainingsdaten</li>
+<li>Datenqualität</li>
+<li>Technische Dokumentation</li>
+<li>Transparenzpflichten</li>
+<li>KI-Risikomanagement</li>
+</ul>
+<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um <strong>digitale PDF-Arbeitshefte</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
+<p><strong>Verkaufspreis:</strong> 89,00 € einmalig<br /><strong>Affiliate-Provision:</strong> 30 %<br /><strong>Auslieferung:</strong> sofort nach dem Kauf als digitaler Download</p>
+<p>Ein klar erklärbares B2B-Produkt zu einem aktuell stark nachgefragten Thema – ideal für Zielgruppen rund um KI, Digitalisierung, Unternehmensführung und Compliance.</p>
 
 ## 2. Links
 
@@ -92,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EU AI Act Komplettpaket – 9 PDF-Arbeitshefte? — Typ: E-books, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-24
-- Wie viel kostet es? — 93.21150800000001 USD
+- Wie viel kostet es? — 93.00355800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

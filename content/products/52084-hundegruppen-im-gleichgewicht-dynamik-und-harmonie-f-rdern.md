@@ -4,16 +4,16 @@ digistore24_product_id: 566575
 title: "Hundegruppen im Gleichgewicht: Dynamik und Harmonie fördern!"
 vendor: "KarineMastroleo"
 product_type: "Member area and video courses"
-price: 95.67
+price: 95.45
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 10.85
+earnings_per_sale: 10.82
 cart_conversion_pct: 20
 cancel_rate_pct: 2.9
 categories: ["Animals & Pets"]
 listed_since: "2024-08-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://www.mehrerehunde-einteam.de/hundegruppen-im-gleichgewicht/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mehrerehunde-einteam.de/hundegruppen-im-gleichgewicht/"
@@ -22,16 +22,16 @@ language: "de"
 # Hundegruppen im Gleichgewicht: Dynamik und Harmonie fördern!
 
 > Product ID `52084` · Digistore24 productId `566575` · [HTML profile page](../../produkte/hundegruppen-im-gleichgewicht-dynamik-und-harmonie-f-rdern-52084.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $95.67 (Single payment, Installment) |
+| Price | $95.45 (Single payment, Installment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $10.85 |
+| Earnings/sale* | $10.82 |
 | Cart conversion* | 20% |
 | Cancel rate* | 2.9% |
 | Vendor | KarineMastroleo |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In diesem Seminar zeige ich dir, wie du die Dynamik deiner Hundegruppe verstehst und lernst sie erfolgreich zu managen.
+**Vendor's marketplace description:** <p>In diesem Seminar zeige ich dir, wie du die Dynamik deiner Hundegruppe verstehst und lernst sie erfolgreich zu managen.</p>
 
 ## 2. Links
 
@@ -58,7 +58,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hundegruppen im Gleichgewicht: Dynamik und Harmonie fördern!? — Typ: Member area and video courses, Anbieter: KarineMastroleo, gelistet seit 2024-08-22
-- Wie viel kostet es? — 95.66562200000001 USD
+- Wie viel kostet es? — 95.45219700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

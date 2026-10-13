@@ -4,34 +4,34 @@ digistore24_product_id: 705800
 title: "RootGuide - Pflanzen- und Dünger-Kompass mit Pflanzabständen"
 vendor: "gzaistacks2aae"
 product_type: "Software"
-price: 28.16
+price: 28.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.45
+earnings_per_sale: 8.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2026-07-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.gz-ai-stacks.de/RootGuide/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57811/adminstore/"
 sales_page: "https://www.gz-ai-stacks.de/RootGuide/"
 language: "de"
 ---
 # RootGuide - Pflanzen- und Dünger-Kompass mit Pflanzabständen
 
 > Product ID `57811` · Digistore24 productId `705800` · [HTML profile page](../../produkte/rootguide-pflanzen-und-d-nger-kompass-mit-pflanzabst-nden-57811.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.16 (Single payment) |
+| Price | $28.10 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.45 |
+| Earnings/sale* | $8.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gzaistacks2aae |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Nachschlage-Tool für Hobbygärtner - zeigt passende Pflanzabstände und Düngeempfehlungen für verschiedene Pflanzenarten.
+**Vendor's marketplace description:** <p>Nachschlage-Tool für Hobbygärtner - zeigt passende Pflanzabstände und Düngeempfehlungen für verschiedene Pflanzenarten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.gz-ai-stacks.de/RootGuide/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57811/adminstore/
 - Sales page: https://www.gz-ai-stacks.de/RootGuide/
 - Canonical redirect: https://www.digistore24.com/redir/705800/adminstore
 
@@ -69,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist RootGuide - Pflanzen- und Dünger-Kompass mit Pflanzabständen? — Typ: Software, Anbieter: gzaistacks2aae, gelistet seit 2026-07-30
-- Wie viel kostet es? — 28.160678 USD
+- Wie viel kostet es? — 28.097853 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 714312
 title: "Vom Vorsatz zum System"
 vendor: "mathiaswalecki190574dc"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Marketing Services"]
 listed_since: "2026-07-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://reflektierende-welten.de/affiliate/produkte/vom-vorsatz-zum-system?aff=adminstore#aff=adminstore"
 sales_page: "https://reflektierende-welten.de/affiliate/produkte/vom-vorsatz-zum-system"
@@ -22,16 +22,16 @@ language: "de"
 # Vom Vorsatz zum System
 
 > Product ID `57760` · Digistore24 productId `714312` · [HTML profile page](../../produkte/vom-vorsatz-zum-system-57760.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mathiaswalecki190574dc |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vom Vorsatz zum System – dein 70-seitiges Workbook für konsequente Umsetzung Du weißt häufig, was du tun möchtest – aber im Alltag fehlt dir ein System, das dich auch bei wenig Motivation handlungsfähig hält? Dieses Workbook unterstützt dich dabei, deine bisherigen Muster zu reflektieren und Schritt für Schritt ein persönliches, alltagstaugliches Umsetzungssystem zu entwickeln. Das erhältst du: 70…
+**Vendor's marketplace description:** <p><strong>Vom Vorsatz zum System – dein 70-seitiges Workbook für konsequente Umsetzung</strong></p>
+<p>Du weißt häufig, was du tun möchtest – aber im Alltag fehlt dir ein System, das dich auch bei wenig Motivation handlungsfähig hält?</p>
+<p>Dieses Workbook unterstützt dich dabei, deine bisherigen Muster zu reflektieren und Schritt für Schritt ein persönliches, alltagstaugliches Umsetzungssystem zu entwickeln.</p>
+<p><strong>Das erhältst du:</strong></p>
+<ul>
+<li>70 Seiten im A4-Format</li>
+<li>acht aufeinander aufbauende Kapitel</li>
+<li>praktische Reflexionsübungen</li>
+<li>Tracker und direkt nutzbare Vorlagen</li>
+<li>Mindestversionen für schwierige Tage</li>
+<li>Wenn-dann-Pläne für typische Hindernisse</li>
+<li>ein Rückkehrsystem für Unterbrechungen und Rückschläge</li>
+</ul>
+<p><strong>Format:</strong> Statisches PDF ohne direkt ausfüllbare Formularfelder. Du kannst es ausdrucken oder mit den Notiz- und Zeichenfunktionen einer geeigneten PDF-App bearbeiten.</p>
+<p>Nach erfolgreicher Zahlung erhältst du per E-Mail Zugriff auf den PDF-Download.</p>
+<p>Das Workbook dient der persönlichen Reflexion und eigenständigen Umsetzung. Ein bestimmter persönlicher, beruflicher oder wirtschaftlicher Erfolg wird nicht garantiert.</p>
 
 ## 2. Links
 
@@ -78,7 +93,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vom Vorsatz zum System? — Typ: E-books, Anbieter: mathiaswalecki190574dc, gelistet seit 2026-07-27
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

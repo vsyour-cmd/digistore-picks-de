@@ -4,16 +4,16 @@ digistore24_product_id: 682173
 title: "„Echte Energie. Echter Genuss.\" – 50 % Provision auf einen E"
 vendor: "ak2210"
 product_type: "E-books"
-price: 10.37
+price: 10.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.19
+earnings_per_sale: 5.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-06-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/682173?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/682173"
@@ -22,16 +22,16 @@ language: "de"
 # „Echte Energie. Echter Genuss." – 50 % Provision auf einen E
 
 > Product ID `57074` · Digistore24 productId `682173` · [HTML profile page](../../produkte/echte-energie-echter-genuss-50-provision-auf-einen-e-57074.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.37 (Single payment) |
+| Price | $10.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.19 |
+| Earnings/sale* | $5.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ak2210 |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Deutschsprachiger Ratgeber gegen Stress-Essen: 30 Kapitel über stabile Energie, weniger Heißhunger und ein ruhigeres Verhältnis zum Essen. Fertiger Gratis-Lead-Magnet (7-Tage-Plan) vorhanden. 50 % Provision.
+**Vendor's marketplace description:** <p>Deutschsprachiger Ratgeber gegen Stress-Essen: 30 Kapitel über stabile Energie, weniger Heißhunger und ein ruhigeres Verhältnis zum Essen. Fertiger Gratis-Lead-Magnet (7-Tage-Plan) vorhanden. 50 % Provision.</p>
 
 ## 2. Links
 
@@ -71,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist „Echte Energie. Echter Genuss." – 50 % Provision auf einen E? — Typ: E-books, Anbieter: ak2210, gelistet seit 2026-06-19
-- Wie viel kostet es? — 10.36555 USD
+- Wie viel kostet es? — 10.342425 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

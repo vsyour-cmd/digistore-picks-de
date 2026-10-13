@@ -7,22 +7,22 @@ product_type: "Book (printed)"
 price: 4.22
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 2.84
+earnings_per_sale: 2.83
 cart_conversion_pct: 36
 cancel_rate_pct: 1.86
 categories: ["Business & Investment","Education"]
 listed_since: "2024-09-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://markusdan.com/neu/buch/spezialangebot/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48215/adminstore/"
 sales_page: "https://markusdan.com/neu/buch/spezialangebot/"
 language: "de"
 ---
 # Gratis-Buch: "Die größten Gefahren für Ihr Vermögen"
 
 > Product ID `48215` · Digistore24 productId `568935` · [HTML profile page](../../produkte/gratis-buch-die-gr-ten-gefahren-f-r-ihr-verm-gen-48215.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "de"
 | Product type | Book (printed) |
 | Price | $4.22 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $2.84 |
+| Earnings/sale* | $2.83 |
 | Cart conversion* | 36% |
 | Cancel rate* | 1.86% |
 | Vendor | deutschesedelsteinhaus |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Verschenken Sie mein Buch an Ihre Leser / Kunden und ich zahle Ihnen 10€ Provision für jede Bestellung! Über 107 Seiten | Sprache: Deutsch Die größten Gefahren für Ihr Vermögen ... und wie Sie sich heute noch dagegen schützen können
+**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>Verschenken Sie mein Buch an Ihre Leser / Kunden und ich zahle Ihnen 10€ Provision für jede Bestellung!</strong></span></h2>
+<ul>
+<li>Über 107 Seiten | Sprache: Deutsch</li>
+<li>Die größten Gefahren für Ihr Vermögen ... und wie Sie sich heute noch dagegen schützen können</li>
+</ul>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://markusdan.com/neu/buch/spezialangebot/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48215/adminstore/
 - Sales page: https://markusdan.com/neu/buch/spezialangebot/
 - Vendor affiliate support: https://markusdan.com/affiliates-gratisbuch-groesste-gefahren/
 - Canonical redirect: https://www.digistore24.com/redir/568935/adminstore
@@ -85,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gratis-Buch: "Die größten Gefahren für Ihr Vermögen"? — Typ: Book (printed), Anbieter: deutschesedelsteinhaus, gelistet seit 2024-09-06
-- Wie viel kostet es? — 4.224662 USD
+- Wie viel kostet es? — 4.215237 USD
 - Garantie? — 14
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

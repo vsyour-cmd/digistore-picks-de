@@ -4,16 +4,16 @@ digistore24_product_id: 564083
 title: "Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas"
 vendor: "aufderSonnenseite"
 product_type: "Member area and video courses"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 9.18
+earnings_per_sale: 9.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Sport"]
 listed_since: "2024-08-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://yoga-tenerife.com/de/yoga-online/?aff=adminstore#aff=adminstore"
 sales_page: "https://yoga-tenerife.com/de/yoga-online/"
@@ -22,16 +22,16 @@ language: "de"
 # Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas
 
 > Product ID `48910` · Digistore24 productId `564083` · [HTML profile page](../../produkte/yoga-online-kurs-yogareise-an-die-sch-nsten-orte-teneriffas-48910.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $9.18 |
+| Earnings/sale* | $9.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aufderSonnenseite |
@@ -41,7 +41,39 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Komm mit auf eine Yoga-Reise durch Teneriffa. Dich erwarten 10 Yogastunden als Video-Kurs, der Dich mitnimmt an die schönsten Ecken Teneriffas. Tu Dir selbst etwas Gutes mit diesem Yoga Video-Kurs. Die Einheiten sind mal kurz (20 Minuten), mal umfassender und lang (60 Minuten). Der Kurs ist ideal für Yoga Anfänger, Wiedereinsteiger bis Mittelstufe. Im Zentrum stehen Bewegung, Entspannung und Dein …
+**Vendor's marketplace description:** <p>Komm mit auf eine Yoga-Reise durch Teneriffa. Dich erwarten 10 Yogastunden als Video-Kurs, der Dich mitnimmt an die schönsten Ecken Teneriffas.</p>
+<p>Tu Dir selbst etwas Gutes mit diesem Yoga Video-Kurs. Die Einheiten sind mal kurz (20 Minuten), mal umfassender und lang (60 Minuten). </p>
+<p>Der Kurs ist ideal für Yoga Anfänger, Wiedereinsteiger bis Mittelstufe. Im Zentrum stehen Bewegung, Entspannung und Dein Wohlbefinden. Du kannst mit den Videos jederzeit und überall für Dich Yoga praktizieren und immer die Einheit wählen, die Dir heute zusagt. </p>
+<p><strong>Deine Vorteile:</strong></p>
+<ul>
+<li>
+<p>Jederzeit von überall: flexibler Zugriff auf die Yoga-Videos</p>
+</li>
+<li>
+<p>10 Einheiten unterschiedlicher länge (20-60 Minuten)</p>
+</li>
+<li>Rücken Yoga, Nacken Yoga, Flow Yoga, Hatha Yoga, Anti Stress Yoga, Meditation </li>
+<li>
+<p>Ideale Kombination aus Kräftigung, Dehnung und Mobilisation in jeder Kurs-Einheit</p>
+</li>
+<li>Yoga mit traumhafter Teneriffa-Kulisse </li>
+</ul>
+<p><strong>Was Dich erwartet:</strong></p>
+<ol>
+<li>Yoga Morgen Flow | 20 Minuten</li>
+<li>Nacken &amp; Schultern Yoga | 30 Minuten</li>
+<li>Anti Stress Yoga | 50 Minuten</li>
+<li>Yoga für offene Hüften | 40 Minuten</li>
+<li>Kurz &amp; Knackig Yoga-Flow | 20 Minuten</li>
+<li>Yoga für neue Energie | 20 Minuten</li>
+<li>Geführte Meditation | 12 Minuten</li>
+<li>Yoga zum Wohlfühlen | 60 Minuten</li>
+<li>Yoga Morgen Stretch |  20 Minuten</li>
+<li>Rücken Yoga | 30 Minuten</li>
+</ol>
+<p>Tu Dir selbst etwas Gutes und gönn Dir diesen 10-teiligen Yoga-Online-Kurs, um eine regelmäßige Yoga-Praxis aufzubauen. Egal wo, egal wann. </p>
+<p><strong>100% Zufriedenheitsgarantie</strong></p>
+<p>Wir bieten Dir 14 Tage eine Geld-zurück-Garantie, sollte Dir der Kurs nicht gefallen.</p>
 
 ## 2. Links
 
@@ -80,7 +112,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Yoga Online Kurs: YogaReise an die schönsten Orte Teneriffas? — Typ: Member area and video courses, Anbieter: aufderSonnenseite, gelistet seit 2024-08-05
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 674774
 title: "Reset - Dein Einstieg"
 vendor: "KerstinSchimkus"
 product_type: "Member area and video courses"
-price: 73.96
+price: 73.79
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 7.4
+earnings_per_sale: 7.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://kk-schimkus-6815309c.mydigibiz24.com/ticket-kurs-verkauf?aff=adminstore#aff=adminstore"
 sales_page: "https://kk-schimkus-6815309c.mydigibiz24.com/ticket-kurs-verkauf"
@@ -22,16 +22,16 @@ language: "de"
 # Reset - Dein Einstieg
 
 > Product ID `57374` · Digistore24 productId `674774` · [HTML profile page](../../produkte/reset-dein-einstieg-57374.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $73.96 (Single payment) |
+| Price | $73.79 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $7.40 |
+| Earnings/sale* | $7.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KerstinSchimkus |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 21 Decodierung mit KArin und Kerstin Schimkus - die Aufzeichnung. Sie sind Mentorinnen und führen dich in ihre Welt der Neuorganisiation. Sie zeigen dir, wie sie es alt Unternehmerinnen schaffen, täglich im Fokus zu bleiben, sich auszurichten und sich immer neu zu organisieren. 5 Zoomcallaufzeichnungen + 10 Specialcallaufzeichnungen und 5 Hypnosesessions in der Resetgruppe. Dauer 21 Tage.
+**Vendor's marketplace description:** <p>21 Decodierung mit KArin und Kerstin Schimkus - die Aufzeichnung. Sie sind Mentorinnen und führen dich in ihre Welt der Neuorganisiation. Sie zeigen dir, wie sie es alt Unternehmerinnen schaffen, täglich im Fokus zu bleiben, sich auszurichten und sich immer neu zu organisieren.</p>
+<p>5 Zoomcallaufzeichnungen + 10 Specialcallaufzeichnungen und 5 Hypnosesessions in der Resetgruppe. Dauer 21 Tage.</p>
 
 ## 2. Links
 
@@ -70,7 +71,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Reset - Dein Einstieg? — Typ: Member area and video courses, Anbieter: KerstinSchimkus, gelistet seit 2026-07-02
-- Wie viel kostet es? — 73.95960000000001 USD
+- Wie viel kostet es? — 73.7946 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

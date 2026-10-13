@@ -4,16 +4,16 @@ digistore24_product_id: 476026
 title: "Iron Lake Challenge Bavaria"
 vendor: "rockyourgoal"
 product_type: "Deliverable"
-price: 22.66
+price: 22.61
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 7.68
+earnings_per_sale: 7.66
 cart_conversion_pct: 31
 cancel_rate_pct: 0.35
 categories: ["Health & Fitness"]
 listed_since: "2022-12-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://rockyourgoal.de/iron-lake-challenge/bavaria?aff=adminstore#aff=adminstore"
 sales_page: "https://rockyourgoal.de/iron-lake-challenge/bavaria"
@@ -22,16 +22,16 @@ language: "de"
 # Iron Lake Challenge Bavaria
 
 > Product ID `42616` · Digistore24 productId `476026` · [HTML profile page](../../produkte/iron-lake-challenge-bavaria-42616.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $22.66 (Single payment) |
+| Price | $22.61 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $7.68 |
+| Earnings/sale* | $7.66 |
 | Cart conversion* | 31% |
 | Cancel rate* | 0.35% |
 | Vendor | rockyourgoal |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die Iron Lake Challenge Bavaria erfreut sich bei Läufern und Wanderern großer Beliebtheit. Um die Sammlermedaille zu erhalten müssen die Teilnehmer die zehn größten Seen Bayerns zu Fuß umrunden. Den Affiliates winken 30% des Verkaufspreises. Gerne darfst Du die auf meiner Seite angebotenen Werbemittel verwenden.
+**Vendor's marketplace description:** <p>Die Iron Lake Challenge Bavaria erfreut sich bei Läufern und Wanderern großer Beliebtheit. </p>
+<p>Um die Sammlermedaille zu erhalten müssen die Teilnehmer die zehn größten Seen Bayerns zu Fuß umrunden. </p>
+<p>Den Affiliates winken 30% des Verkaufspreises. </p>
+<p>Gerne darfst Du die auf meiner Seite angebotenen Werbemittel verwenden. </p>
 
 ## 2. Links
 
@@ -89,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Iron Lake Challenge Bavaria? — Typ: Deliverable, Anbieter: rockyourgoal, gelistet seit 2022-12-21
-- Wie viel kostet es? — 22.658532 USD
+- Wie viel kostet es? — 22.607982 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

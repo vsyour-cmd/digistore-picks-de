@@ -4,34 +4,34 @@ digistore24_product_id: 372605
 title: "Freeride.Today MTB Trail-Guide"
 vendor: "FreerideToday"
 product_type: "Member area and video courses"
-price: 18.83
+price: 18.78
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 3.77
+earnings_per_sale: 3.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2021-02-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://freeride.today/index.php?page_id=13133&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37011/adminstore/"
 sales_page: "https://freeride.today/index.php?page_id=13133"
 language: "de"
 ---
 # Freeride.Today MTB Trail-Guide
 
 > Product ID `37011` · Digistore24 productId `372605` · [HTML profile page](../../produkte/freeride-today-mtb-trail-guide-37011.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.83 (Subscription) |
+| Price | $18.78 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $3.77 |
+| Earnings/sale* | $3.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FreerideToday |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Geschmeidiges Trailvergnügen und atemberaubende Aussichten – hier findest Du die besten MTB-Trails in den Voralpen südlich von München und am nördlichen Gardasee, all samt Trail-optimierte Touren im oberen Schwierigkeitsgrad.Top Trails im Tessin, ausgefallene Touren in Graubünden, sowie MTB-Hochtouren bis in die 3.000er Regionen runden das Angebot ab und liefern Trail-Spass vom Feinsten. Das Angeb…
+**Vendor's marketplace description:** <p>Geschmeidiges Trailvergnügen und atemberaubende Aussichten – hier findest Du die besten MTB-Trails in den Voralpen südlich von München und am nördlichen Gardasee, all samt Trail-optimierte Touren im oberen Schwierigkeitsgrad.Top Trails im Tessin, ausgefallene Touren in Graubünden, sowie MTB-Hochtouren bis in die 3.000er Regionen runden das Angebot ab und liefern Trail-Spass vom Feinsten. </p>
+<p>Das Angebot richtet sich vor allem an versierte Trailrider und Cracks, denn auch die werden hier bei einigen Abfahrten an ihre Grenzen stoßen.</p>
+<p>Mit dem Freeride.Today DropIn erhältst Du Zugriff auf alle Inhalte von Freeride.Today. Explizit erwirbst Du für jede Tour eine exakte Tourenbeschreibung, eine Einschätzung zur Schwierigkeit, Hinweise zu Untergründen, Fotos, die Line-, Trail- oder Schlüsselstellen zeigen, sowie Maps-Routen mit Höhenprofilen und GPX-Tracks zum Download.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://freeride.today/index.php?page_id=13133&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37011/adminstore/
 - Sales page: https://freeride.today/index.php?page_id=13133
 - Canonical redirect: https://www.digistore24.com/redir/372605/adminstore
 
@@ -76,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Freeride.Today MTB Trail-Guide? — Typ: Member area and video courses, Anbieter: FreerideToday, gelistet seit 2021-02-08
-- Wie viel kostet es? — 18.82608 USD
+- Wie viel kostet es? — 18.784080000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

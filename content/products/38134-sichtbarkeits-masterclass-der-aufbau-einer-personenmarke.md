@@ -4,16 +4,16 @@ digistore24_product_id: 314882
 title: "Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke"
 vendor: "mdinet"
 product_type: "Member area and video courses"
-price: 240.13
+price: 239.6
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 120.07
+earnings_per_sale: 119.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-03-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://academy.oliver-albrecht.com/lp/onlinekurs-sichtbarkeit-masterclass/?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.oliver-albrecht.com/lp/onlinekurs-sichtbarkeit-masterclass/"
@@ -22,16 +22,16 @@ language: "de"
 # Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke
 
 > Product ID `38134` · Digistore24 productId `314882` · [HTML profile page](../../produkte/sichtbarkeits-masterclass-der-aufbau-einer-personenmarke-38134.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $240.13 (Single payment, Installment) |
+| Price | $239.60 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $120.07 |
+| Earnings/sale* | $119.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mdinet |
@@ -41,7 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Steigere als Unternehmer, Trainer, Shopbetreiber oder Experte deine Sichtbarkeit, um mehr Wunschkunden und Umsätze zu erreichen. Die Geheimnisse was erfolgreiche von nicht-erfolgreichen Unternehmern unterscheidet Du erhältst 50% Provision pro Teilnehmer. Keine Provisionsverluste durch wechselnde Geräte mit Hilfe des Digistore-Pixel sowie dem Klick-Tipp-Multi-Device-Trackings welches wir einsetzen.…
+**Vendor's marketplace description:** <p><strong>Steigere als Unternehmer, Trainer, Shopbetreiber oder Experte deine Sichtbarkeit, um mehr Wunschkunden und Umsätze zu erreichen.</strong></p>
+<p><em>Die Geheimnisse was erfolgreiche von nicht-erfolgreichen Unternehmern unterscheidet</em></p>
+<p><span style="background-color:#ffcc00;"><em><strong>Du erhältst 50% Provision pro Teilnehmer.</strong></em></span></p>
+<ul>
+<li>Keine Provisionsverluste durch wechselnde Geräte mit Hilfe des Digistore-Pixel sowie dem Klick-Tipp-Multi-Device-Trackings welches wir einsetzen.</li>
+<li>50% Provision auf die Empfehlung + weiterführende Provision bei Upsells im Mitgliederbereich (Für uns sind Affiliates mehr als nur eine Nummer im System)</li>
+<li>Conversionstarke Landingpage mit Evergreen Counter für mehr Conversion</li>
+</ul>
+<p>Die einzelnen Module sind so aufgebaut, dass jederzeit ein Quereinstieg ohne Vorkenntnisse für die Teilnehmer möglich ist.</p>
+<p>Die Teilnehmer können per eigener App auf Android sowie iOS lernen und die Videos anschauen. Der Fortschritt von geschauten Videos wird in Echtzeit gespeichert und kann auf dem PC, Tablet und Smartphone nahtlos weitergeschaut werden.</p>
+<p><strong>Die kostenfreie App zum Kurs</strong> findet man im AppStore sowie PlayStore unter dem Namen "Sichtbarkeits-Masterclass"</p>
+<p><strong>Themen der Masterclass:</strong></p>
+<ul>
+<li>Leads &amp; Content - Wie du deine Zielgruppe erreichst und eigenen Content leicht entwickelst.</li>
+<li>Storytelling - Anleitungen um deine Markensprache zu entwickeln inkl. Content-Vorlagen</li>
+<li>Expertenstatus - Wie du einen Expertenstatus als Personenmarke aufbaust.</li>
+<li>Sichtbarkeit &amp; SEO - Baue deine Sichtbarkeit in Suchmaschinen &amp; Social Media auf.</li>
+<li>Kamera &amp; Licht - Eigene professionelle Videos aufzeichnen inkl. Einkaufliste</li>
+<li>Schnitt &amp; Mobile - 1:1 Anleitung für Videoschnitt auf PC, Tablet und Smartphone inkl. Inshot</li>
+</ul>
 
 ## 2. Links
 
@@ -67,7 +86,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke? — Typ: Member area and video courses, Anbieter: mdinet, gelistet seit 2020-03-23
-- Wie viel kostet es? — 240.133374 USD
+- Wie viel kostet es? — 239.59764900000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

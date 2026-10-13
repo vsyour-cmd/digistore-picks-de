@@ -4,16 +4,16 @@ digistore24_product_id: 266849
 title: "Tools von ClearPMO"
 vendor: "UweMerkert"
 product_type: "Software"
-price: 367.25
+price: 366.43
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 110.18
+earnings_per_sale: 109.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2019-04-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.clearpmo.de/tools/online-kaufen-ohne-server/clearpmo-team/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.clearpmo.de/tools/online-kaufen-ohne-server/clearpmo-team/"
@@ -22,16 +22,16 @@ language: "de"
 # Tools von ClearPMO
 
 > Product ID `28586` · Digistore24 productId `266849` · [HTML profile page](../../produkte/tools-von-clearpmo-28586.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $367.25 (Single payment) |
+| Price | $366.43 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $110.18 |
+| Earnings/sale* | $109.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UweMerkert |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Was ist das Besondere an den Tools von ClearPMO? Die Tools von ClearPMO liefern ein digitales Program Management Office (PMO) - für alle Projektphasen und alle typischen Prozesse, einschließlich Ressourcenplanung, Projektzeitenerfassung bis zur Rechnungserstellung.ClearPMO unterstützt den agilen Gedanken und unterstützt Agiles Management.Die Preise der Tools beginnen bei ca. 100,00 € bis zu mehrer…
+**Vendor's marketplace description:** <p><span style="text-decoration:underline;"><strong>Was ist das Besondere an den Tools von ClearPMO?</strong></span></p>
+<p>Die Tools von ClearPMO liefern ein digitales Program Management Office (PMO) - für alle Projektphasen und alle typischen Prozesse, einschließlich Ressourcenplanung, Projektzeitenerfassung bis zur Rechnungserstellung.<br /><br />ClearPMO unterstützt den agilen Gedanken und unterstützt <em><span style="font-style:normal;">Agiles Management.<br /><br />Die Preise der Tools beginnen bei ca. 100,00 € bis zu  mehreren Hundert Euro - entsprechend entwickelt <br />sich der Verdienst - grundsätzlich beträgt die Provision <strong>30%</strong>.<br /><br /><span style="color:#0000ff;"><span style="color:#000000;"><strong>Hier der Link zu unseren</strong></span> <em><strong><a style="color:#0000ff;" href="https://www.clearpmo.de/tools/online-kaufen/" target="_blank" rel="noreferrer noopener">Produktvarianten</a></strong></em></span>.<br /></span></em></p>
+<p><span style="text-decoration:underline;"><strong>Wer ist die Zielgruppe?</strong></span></p>
+<p>Zielgruppe sind Projektleitungen und Projektprogramm-Verantwortliche und Berater. Auch Teams, die den jeweiligen Projektfortschritt und Status zentral erfassen und für Berichte aufbereiten wollen.</p>
+<p><span style="text-decoration:underline;"><strong>Faire Preise</strong></span></p>
+<p>Professionelle Lösungen zu fairen Preisen: ideal für kleine Unternehmen und für Startups.</p>
+<p><span style="text-decoration:underline;"><strong>Warum bei uns Affiliate werden?</strong></span></p>
+<p>Wir bieten hochwertige Produkte und Seminare an.</p>
+<p>Und wir arbeiten seit vielen Jahren mit anerkannten und professionellen Partnern zusammen, darunter in den Bereichen IT-Technik, Service und Trainings.</p>
+<p>Bisher können wir ausschließlich zufriedene Kunden verbuchen.</p>
+<p>Wir sind für unsere Affiliates jederzeit auch direkt erreichbar, in allen geschäftlichen Fragen und gerne auch für Verbesserungsvorschläge.</p>
+<p><span style="color:#000000;"><strong>Für jede Anforderung das passende Produkt - unsere</strong></span> <span style="color:#0000ff;"><em><strong><a style="color:#0000ff;" href="https://www.clearpmo.de/tools/online-kaufen/" target="_blank" rel="noreferrer noopener">Produktvarianten</a></strong></em></span>.</p>
+<p>Für uns steht eine gute Zusammenarbeit und unser gemeinsamer Erfolg im Vordergrund.</p>
+<p>Ihr Team von <strong>clearpmo.de</strong></p>
+<p><strong> </strong></p>
 
 ## 2. Links
 
@@ -91,7 +105,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Tools von ClearPMO? — Typ: Software, Anbieter: UweMerkert, gelistet seit 2019-04-04
-- Wie viel kostet es? — 367.25423800000004 USD
+- Wie viel kostet es? — 366.43491300000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

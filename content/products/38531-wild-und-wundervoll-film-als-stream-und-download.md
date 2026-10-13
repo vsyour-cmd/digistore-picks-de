@@ -4,34 +4,34 @@ digistore24_product_id: 417092
 title: "Wild und Wundervoll (Film als Stream und Download)"
 vendor: "wildundwundervoll"
 product_type: "Downloads"
-price: 21.29
+price: 21.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.65
+earnings_per_sale: 10.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2021-11-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.onlinefilmschool.de/wildundwundervollfilm/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/38531/adminstore/"
 sales_page: "https://www.onlinefilmschool.de/wildundwundervollfilm/"
 language: "de"
 ---
 # Wild und Wundervoll (Film als Stream und Download)
 
 > Product ID `38531` · Digistore24 productId `417092` · [HTML profile page](../../produkte/wild-und-wundervoll-film-als-stream-und-download-38531.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $21.29 (Single payment) |
+| Price | $21.24 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.65 |
+| Earnings/sale* | $10.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wildundwundervoll |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Komm mit und lass dich inspirieren. Auf eine Weltreise mit einem ganz besonderen Ziel: Freiheit. Als Nadines Vater starb war sie am Boden zerstört. Ihre Trauer zog ihr aber nicht nur den Boden unter den Füßen weg, sie wurde zum Nährboden für einen ganz besonderen Plan. Ein Plan, der ihr Leben und das ihrer Familie für immer verändern sollte."Wild & Wundervoll" ist mehr als eine Reisedoku. Es ist e…
+**Vendor's marketplace description:** <p>Komm mit und lass dich inspirieren. Auf eine Weltreise mit einem ganz besonderen Ziel: Freiheit. <br /><br />Als Nadines Vater starb war sie am Boden zerstört. Ihre Trauer zog ihr aber nicht nur den Boden unter den Füßen weg, sie wurde zum Nährboden für einen ganz besonderen Plan. Ein Plan, der ihr Leben und das ihrer Familie für immer verändern sollte.<br /><br />"Wild &amp; Wundervoll" ist mehr als eine Reisedoku. Es ist ein Film über die Suche nach einem Lebensstil, der die Progatonisten wirklich glücklich macht. Diese Suche hat die Familie zu dritt gestartet und zu viert beendet.</p>
+<p>Nadine Filler und Konstantin Schlund haben einen Film voller Sehnsucht, Freude, Trauer und Hoffnung kreiert. Ein Plädoyer für die Vergänglichkeit und die Schönheit des Lebens.</p>
+<p>Länge des Films: ca. 105min.</p>
+<p> <br /><strong>Stream- und Downloadmöglichkeit erhalten Sie direkt nach Kauf per Mail.</strong><br /><br /><strong>Stream- und Downloadmöglichkeit sind 6 Monate gültig.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.onlinefilmschool.de/wildundwundervollfilm/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/38531/adminstore/
 - Sales page: https://www.onlinefilmschool.de/wildundwundervollfilm/
 - Canonical redirect: https://www.digistore24.com/redir/417092/adminstore
 
@@ -79,7 +82,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Wild und Wundervoll (Film als Stream und Download)? — Typ: Downloads, Anbieter: wildundwundervoll, gelistet seit 2021-11-20
-- Wie viel kostet es? — 21.2914 USD
+- Wie viel kostet es? — 21.243900000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

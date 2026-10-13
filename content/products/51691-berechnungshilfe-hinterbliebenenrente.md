@@ -4,34 +4,34 @@ digistore24_product_id: 601112
 title: "Berechnungshilfe Hinterbliebenenrente"
 vendor: "verwitwet-leben"
 product_type: "Downloads"
-price: 41.2
+price: 41.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 19.66
+earnings_per_sale: 19.61
 cart_conversion_pct: 19
 cancel_rate_pct: 0.45
 categories: ["Education","Profession & Job","Finances"]
 listed_since: "2025-03-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://verwitwet-leben.de/berechnungshilfe/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51691/adminstore/"
 sales_page: "https://verwitwet-leben.de/berechnungshilfe/"
 language: "de"
 ---
 # Berechnungshilfe Hinterbliebenenrente
 
 > Product ID `51691` · Digistore24 productId `601112` · [HTML profile page](../../produkte/berechnungshilfe-hinterbliebenenrente-51691.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.20 (Single payment) |
+| Price | $41.11 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $19.66 |
+| Earnings/sale* | $19.61 |
 | Cart conversion* | 19% |
 | Cancel rate* | 0.45% |
 | Vendor | verwitwet-leben |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Endlich Klarheit bei Deiner Hinterbliebenenrente – jetzt neu: mit Lifehack Das erwartet dich: ✅ Excel-Berechnungshilfe zur Hinterbliebenenrente✅ einfache Eingabe deiner Rentenpunkte, Rentenart und deines Einkommens (aktuell oder geplantes)✅ direkte Berechnung deiner voraussichtlichen Rentenhöhe Dein Ziel: Finde heraus, wie viel dir wirklich bleibt und wie sich dein aktuelles oder zukünftiges Einko…
+**Vendor's marketplace description:** <h3>Endlich Klarheit bei Deiner Hinterbliebenenrente – jetzt neu: <a>mit Lifehack</a></h3>
+<h3>Das erwartet dich:</h3>
+<p>✅ Excel-Berechnungshilfe zur Hinterbliebenenrente<br />✅ einfache Eingabe deiner Rentenpunkte, Rentenart und deines Einkommens (aktuell oder geplantes)<br />✅ direkte Berechnung deiner voraussichtlichen Rentenhöhe</p>
+<h3>Dein Ziel:</h3>
+<p>Finde heraus, wie viel dir wirklich bleibt und wie sich dein aktuelles oder zukünftiges Einkommen auf deine Hinterbliebenenrente auswirkt.</p>
+<h3>Einfach. Schnell. Verständlich.</h3>
+<p>✅ die Höhe deiner zukünftigen <strong>Witwenrente, Witwerrente oder Erziehungsrente</strong> berechnen<br />✅ verschiedene Einkommenshöhen durchspielen<br />✅ nachvollziehen, wie sich Kürzungen durch die Einkommensanrechnung auswirken<br />✅ deine finanzielle Planung besser vorbereiten</p>
+<p>Hinweis: Die Excel-Datei ist urheberrechtlich geschützt. Eine Weitergabe ist nicht erlaubt.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://verwitwet-leben.de/berechnungshilfe/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51691/adminstore/
 - Sales page: https://verwitwet-leben.de/berechnungshilfe/
 - Canonical redirect: https://www.digistore24.com/redir/601112/adminstore
 
@@ -80,7 +87,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Berechnungshilfe Hinterbliebenenrente? — Typ: Downloads, Anbieter: verwitwet-leben, gelistet seit 2025-03-11
-- Wie viel kostet es? — 41.20446200000001 USD
+- Wie viel kostet es? — 41.11253700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

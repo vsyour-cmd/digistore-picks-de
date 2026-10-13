@@ -4,34 +4,34 @@ digistore24_product_id: 134769
 title: "Überleben in der Krise"
 vendor: "am-publishing"
 product_type: "E-books"
-price: 31.11
+price: 31.04
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.12
+earnings_per_sale: 3.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2017-04-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/product/134769?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/20759/adminstore/"
 sales_page: "https://www.digistore24.com/product/134769"
 language: "de"
 ---
 # Überleben in der Krise
 
 > Product ID `20759` · Digistore24 productId `134769` · [HTML profile page](../../produkte/berleben-in-der-krise-20759.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.11 (Single payment) |
+| Price | $31.04 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.12 |
+| Earnings/sale* | $3.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | am-publishing |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Überleben in der Krise"Deutschlands ERSTER Krisenschutzbrief! Jetzt 90% Provision sichern! "Überleben in der Krise" ist Deutschlands wichtigster und erster Krisenschutzbrief von WATERGATE.TV ! Über 20.000 Menschen lesen, kommentieren und teilen jeden Tag unsere exklusiven Inhalte. "Überleben in der Krise" enthält in jeder Ausgabe ausführliche und erprobte Survival-Tipps, die JEDER kennen sollte. …
+**Vendor's marketplace description:** <p style="text-align:center;"><strong><span style="color:#ff0000;">"Überleben in der Krise"</span><br />Deutschlands ERSTER Krisenschutzbrief!</strong></p>
+<p style="text-align:center;"><span style="background-color:#ffff00;"><strong>Jetzt 90% Provision sichern!</strong></span></p>
+<p style="text-align:left;"><strong>"Überleben in der Krise" </strong>ist Deutschlands wichtigster und erster Krisenschutzbrief von <strong>WATERGATE.TV </strong>! Über 20.000 Menschen lesen, kommentieren und teilen <strong>jeden Tag</strong> unsere exklusiven Inhalte.</p>
+<p style="text-align:left;"><strong>"Überleben in der Krise"</strong> enthält in jeder Ausgabe ausführliche und erprobte Survival-Tipps, die JEDER kennen sollte.</p>
+<p style="text-align:left;"><strong>Wir bieten Ihnen:</strong></p>
+<ul><li style="text-align:left;">100% werblich getestete Landing-Pages!</li>
+<li style="text-align:left;">Responsive Design!</li>
+<li style="text-align:left;"><strong><span style="color:#ff0000;background-color:#ffff00;">... und natürlich 90% Provision!</span></strong></li>
+</ul><p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/134769?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/20759/adminstore/
 - Sales page: https://www.digistore24.com/product/134769
 - Canonical redirect: https://www.digistore24.com/redir/134769/adminstore
 
@@ -73,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Überleben in der Krise? — Typ: E-books, Anbieter: am-publishing, gelistet seit 2017-04-26
-- Wie viel kostet es? — 31.107856 USD
+- Wie viel kostet es? — 31.038456000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

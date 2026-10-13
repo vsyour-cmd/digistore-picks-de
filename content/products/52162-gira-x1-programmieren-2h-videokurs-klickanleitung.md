@@ -4,16 +4,16 @@ digistore24_product_id: 303866
 title: "Gira X1 programmieren - 2h Videokurs Klickanleitung"
 vendor: "smarthomeknx"
 product_type: "Downloads"
-price: 238.5
+price: 237.97
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 47.69
+earnings_per_sale: 47.59
 cart_conversion_pct: 13
 cancel_rate_pct: 4.84
 categories: ["Computer & Internet"]
 listed_since: "2020-01-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.smartest-home.com/gira-x1-videokurs-klickanleitung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.smartest-home.com/gira-x1-videokurs-klickanleitung/"
@@ -22,16 +22,16 @@ language: "de"
 # Gira X1 programmieren - 2h Videokurs Klickanleitung
 
 > Product ID `52162` · Digistore24 productId `303866` · [HTML profile page](../../produkte/gira-x1-programmieren-2h-videokurs-klickanleitung-52162.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $238.50 (Single payment, Installment) |
+| Price | $237.97 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $47.69 |
+| Earnings/sale* | $47.59 |
 | Cart conversion* | 13% |
 | Cancel rate* | 4.84% |
 | Vendor | smarthomeknx |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** GIRA X1 Videokurs "Programmierung in 2 Stunden" ist der Videokurs, der dich dauerhaft von Programmierern und GIRA-Systemintegratoren unabhängig macht und dir ermöglicht, mit geringstmöglichem Zeitaufwand jedes Wohnhaus/Wohnung mit GIRA X1 selbst zu programmieren und in Betrieb zu nehmen. Bauherren und Elektriker, die schnell ein „Haus/Wohnung“ per GIRA X1 steuern wollen Bauherren, die viel Zeit un…
+**Vendor's marketplace description:** <h3>GIRA X1 Videokurs "Programmierung in 2 Stunden"</h3>
+<div>
+<p>ist der Videokurs, der dich dauerhaft von <strong>Programmierern und GIRA-Systemintegratoren</strong> <strong>unabhängig macht</strong> und dir ermöglicht, mit geringstmöglichem Zeitaufwand jedes Wohnhaus/Wohnung mit GIRA X1 selbst zu programmieren und in Betrieb zu nehmen.</p>
+<ul>
+<li><strong>Bauherren und Elektriker</strong>, die schnell ein „Haus/Wohnung“ per GIRA X1 steuern wollen</li>
+<li>Bauherren, die <strong>viel Zeit und Geld sparen</strong> und die Gira Smart Home <strong>Visualisierung auf Tablet/Smartphone/Touchscreen</strong> einrichten wollen</li>
+<li><strong>Interessenten ohne Vorkenntnisse</strong>, die am PC mit der kostenlosen GIRA <strong>GPA Software</strong> alles selbst einrichten und programmieren</li>
+</ul>
+<p> </p>
+</div>
 
 ## 2. Links
 
@@ -87,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Gira X1 programmieren - 2h Videokurs Klickanleitung? — Typ: Downloads, Anbieter: smarthomeknx, gelistet seit 2020-01-18
-- Wie viel kostet es? — 238.49729800000003 USD
+- Wie viel kostet es? — 237.96522300000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

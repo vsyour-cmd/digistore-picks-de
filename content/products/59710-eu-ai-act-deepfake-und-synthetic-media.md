@@ -4,16 +4,16 @@ digistore24_product_id: 652453
 title: "EU AI Act – Deepfake und Synthetic Media"
 vendor: "MindshiftDigitalStudio"
 product_type: "Downloads"
-price: 27.31
+price: 27.25
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.19
+earnings_per_sale: 8.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/652453?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/652453"
@@ -22,16 +22,16 @@ language: "de"
 # EU AI Act – Deepfake und Synthetic Media
 
 > Product ID `59710` · Digistore24 productId `652453` · [HTML profile page](../../produkte/eu-ai-act-deepfake-und-synthetic-media-59710.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.31 (Single payment) |
+| Price | $27.25 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.19 |
+| Earnings/sale* | $8.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MindshiftDigitalStudio |
@@ -41,7 +41,31 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** EU KI-Content-Herkunft – Synthetic Media und Deepfake-Kennzeichnung 2026/2027 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, Agenturen und Content-Teams, die KI-generierte oder synthetische Inhalte erstellen und deren Herkunft, Kennzeichnung und Freigabe nachvollziehbar dokumentieren möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, Deepfa…
+**Vendor's marketplace description:** <p><strong>EU KI-Content-Herkunft – Synthetic Media und Deepfake-Kennzeichnung 2026/2027</strong></p>
+<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, Agenturen und Content-Teams, die KI-generierte oder synthetische Inhalte erstellen und deren Herkunft, Kennzeichnung und Freigabe nachvollziehbar dokumentieren möchten.</p>
+<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, Deepfake-Kennzeichnung, Synthetic Media, Content-Provenance und interne Dokumentation</strong>.</p>
+<p><strong>Geeignet für:</strong></p>
+<ul>
+<li>Unternehmen und KMU</li>
+<li>Marketing- und Content-Teams</li>
+<li>Agenturen und Beratungen</li>
+<li>Social-Media- und Kommunikationsteams</li>
+<li>Medien- und Kreativbereiche</li>
+<li>Compliance- und KI-Verantwortliche</li>
+</ul>
+<p><strong>Enthalten sind unter anderem:</strong></p>
+<ul>
+<li>Kennzeichnung von KI-generierten Inhalten</li>
+<li>Dokumentation von Synthetic Media</li>
+<li>Deepfake-Nachweise und Prüfprozesse</li>
+<li>Content-Herkunft und Provenance</li>
+<li>Einwilligungs- und Freigabeprozesse</li>
+<li>interne Prüf- und Auditprotokolle</li>
+<li>Archivierung und Nachweisführung</li>
+</ul>
+<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
+<p>Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe und ersetzt keine individuelle Rechtsberatung.</p>
+<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
 
 ## 2. Links
 
@@ -73,7 +97,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EU AI Act – Deepfake und Synthetic Media? — Typ: Downloads, Anbieter: MindshiftDigitalStudio, gelistet seit 2026-09-25
-- Wie viel kostet es? — 27.309022000000002 USD
+- Wie viel kostet es? — 27.248097000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

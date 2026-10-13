@@ -4,34 +4,34 @@ digistore24_product_id: 572458
 title: "Criminal and Open Source Intelligence - Full Course (dt.)"
 vendor: "StephanAckerschott"
 product_type: "Member area and video courses"
-price: 141.24
+price: 140.93
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 35.31
+earnings_per_sale: 35.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Profession & Job","Social Media"]
 listed_since: "2024-09-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/572458?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51515/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/572458"
 language: "de"
 ---
 # Criminal and Open Source Intelligence - Full Course (dt.)
 
 > Product ID `51515` · Digistore24 productId `572458` · [HTML profile page](../../produkte/criminal-and-open-source-intelligence-full-course-dt-51515.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $141.24 (Single payment) |
+| Price | $140.93 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $35.31 |
+| Earnings/sale* | $35.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | StephanAckerschott |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Criminal and Open Source Intelligence - Full Course (dt.)" Erfahren Sie mehr über theoretische Ansätze und Modelle aus Kriminologie, Kriminalistik, Kriminalprävention und Intelligence-Forschung für eine effizientere Recherche- und Analysetätigkeit; über Intelligence-Grundlagen und Intelligenceprozesse (z.B. Intelligence Cycles) sowie den Umgang mit Quellen, Informationen und Risikoeinschätzungen …
+**Vendor's marketplace description:** <p><strong>"Criminal and Open Source Intelligence - Full Course (dt.)"</strong></p>
+<p>Erfahren Sie mehr über theoretische Ansätze und Modelle aus Kriminologie, Kriminalistik, Kriminalprävention und Intelligence-Forschung für eine effizientere Recherche- und Analysetätigkeit; über Intelligence-Grundlagen und Intelligenceprozesse (z.B. Intelligence Cycles) sowie den Umgang mit Quellen, Informationen und Risikoeinschätzungen im Zusammenhang mit (Web-)Recherchen.</p>
+<p>Steigen Sie mit mir ein in die in die Grundlagen der Open Source Intelligence und Internet-Recherche zu Personen u. Organisationen und erlernen sie die notwendigen Basics für um Ihre Privatspähre während Ihrer Recherchen zu gewährleisten.</p>
+<p><em>Dieser Kurs ist in deutscher Sprache, aktuell (noch) ohne englische Untertitel und richtet sich primär an Quer- und Neueinsteiger in die Thematik sowie an "alte Hasen" die ihre praktischen Fähigkeiten um theoretisches Kontext und Theoriewissen ergänzen wollen. </em></p>
+<p> </p>
+<p>Ich freue mich, euch in meinem Kurs begrüßen zu dürfen.</p>
+<p> </p>
+<p>Euer Kursleiter Stephan!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/572458?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51515/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/572458
 - Canonical redirect: https://www.digistore24.com/redir/572458/adminstore
 
@@ -81,7 +88,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Criminal and Open Source Intelligence - Full Course (dt.)? — Typ: Member area and video courses, Anbieter: StephanAckerschott, gelistet seit 2024-09-26
-- Wie viel kostet es? — 141.24042400000002 USD
+- Wie viel kostet es? — 140.92532400000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

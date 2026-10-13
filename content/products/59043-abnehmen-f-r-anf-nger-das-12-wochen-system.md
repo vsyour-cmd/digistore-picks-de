@@ -4,34 +4,34 @@ digistore24_product_id: 731158
 title: "Abnehmen für Anfänger – Das 12-Wochen-System"
 vendor: "gowxsese"
 product_type: "Downloads"
-price: 99.5
+price: 99.28
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 79.6
+earnings_per_sale: 79.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Sport"]
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/731158?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59043/adminstore/"
 sales_page: "https://www.digistore24.com/product/731158"
 language: "de"
 ---
 # Abnehmen für Anfänger – Das 12-Wochen-System
 
 > Product ID `59043` · Digistore24 productId `731158` · [HTML profile page](../../produkte/abnehmen-f-r-anf-nger-das-12-wochen-system-59043.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $99.50 (Single payment) |
+| Price | $99.28 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $79.60 |
+| Earnings/sale* | $79.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | gowxsese |
@@ -41,11 +41,36 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Abnehmen für Anfänger – Das 12-Wochen-System ist ein praxisnaher digitaler Kurs für Menschen, die Schritt für Schritt gesündere Gewohnheiten aufbauen und ihr Gewicht langfristig verbessern möchten. Das Produkt richtet sich an Frauen und Männer, die ohne Crash-Diäten, ohne komplizierte Regeln und ohne Überforderung starten wollen. Das erwartet den Käufer: 12 strukturierte Wochen mit klaren Themen F…
+**Vendor's marketplace description:** <p><strong>Abnehmen für Anfänger – Das 12-Wochen-System</strong> ist ein praxisnaher digitaler Kurs für Menschen, die Schritt für Schritt gesündere Gewohnheiten aufbauen und ihr Gewicht langfristig verbessern möchten.</p>
+<p>Das Produkt richtet sich an <strong>Frauen und Männer</strong>, die ohne Crash-Diäten, ohne komplizierte Regeln und ohne Überforderung starten wollen.</p>
+<h3>Das erwartet den Käufer:</h3>
+<ul>
+<li>12 strukturierte Wochen mit klaren Themen</li>
+<li>Frühstück-, Mittag- und Abendessen-Ideen</li>
+<li>Bewegungsseiten für den Alltag</li>
+<li>Checklisten und praktische Zusatzseiten</li>
+<li>Bonusmaterialien zum Ausfüllen und Mitmachen</li>
+<li>alltagstaugliche Tipps für langfristige Veränderungen</li>
+</ul>
+<h3>Vorteile für den Käufer:</h3>
+<ul>
+<li>leichter Einstieg in gesündere Ernährung</li>
+<li>einfache Umsetzung im Alltag</li>
+<li>klare Struktur statt Chaos</li>
+<li>motivierende Aufgaben und Vorlagen</li>
+<li>geeignet für Anfänger</li>
+</ul>
+<h3>Enthalten:</h3>
+<ul>
+<li>kompletter 12-Wochen-Kurs</li>
+<li>Bonusseiten und Tracker</li>
+<li>Einkaufslisten und Vorlagen</li>
+<li>Abschlussseite</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/731158?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59043/adminstore/
 - Sales page: https://www.digistore24.com/product/731158
 - Canonical redirect: https://www.digistore24.com/redir/731158/adminstore
 
@@ -86,7 +111,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Abnehmen für Anfänger – Das 12-Wochen-System? — Typ: Downloads, Anbieter: gowxsese, gelistet seit 2026-09-09
-- Wie viel kostet es? — 99.49807400000002 USD
+- Wie viel kostet es? — 99.27609900000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2023-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://antonia-conzett.coachy.net/lp/spazieren-das-reinste-erlebnis?aff=adminstore#aff=adminstore"
 sales_page: "https://antonia-conzett.coachy.net/lp/spazieren-das-reinste-erlebnis"
@@ -22,7 +22,7 @@ language: "de"
 # Online Videokurs
 
 > Product ID `45526` · Digistore24 productId `517496` · [HTML profile page](../../produkte/online-videokurs-45526.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 15% Affiliate-Provision Produkt: Online Videokurs für HundemenschenThema/Titel: Spazieren - das reinste Erlebnisüber 120 Minuten VideoinhalteFür alle Hundebesitzer geeignet, egal welches NiveauOffenheit für die respektvolle Kommunikation mit Hunden auf AugenhöheInteresse an einer friedvollen Hundeführung Ich kann alle Werbemittel auf Anfrage per Mail zustellen. Herzliche Grüsse Antonia Conzett www…
+**Vendor's marketplace description:** <p>15% Affiliate-Provision</p>
+<p>Produkt: Online Videokurs für Hundemenschen<br />Thema/Titel: Spazieren - das reinste Erlebnis<br />über 120 Minuten Videoinhalte<br /><br />Für alle Hundebesitzer geeignet, egal welches Niveau<br />Offenheit für die respektvolle Kommunikation mit Hunden auf Augenhöhe<br />Interesse an einer friedvollen Hundeführung</p>
+<p>Ich kann alle Werbemittel auf Anfrage per Mail zustellen.</p>
+<p>Herzliche Grüsse</p>
+<p>Antonia Conzett</p>
+<p><a href="http://www.hunde-menschen-coaching.ch">www.hunde-menschen-coaching.ch</a></p>
+<p><a href="https://www.youtube.com/@hundemenschencoach">https://www.youtube.com/@hundemenschencoach</a></p>
 
 ## 2. Links
 

@@ -4,16 +4,16 @@ digistore24_product_id: 677497
 title: "Hilfe! Warum kann ich nicht Nein sagen?"
 vendor: "SinaDieterle"
 product_type: "E-books"
-price: 26.08
+price: 26.02
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.82
+earnings_per_sale: 7.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore"
 sales_page: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/"
@@ -22,16 +22,16 @@ language: "de"
 # Hilfe! Warum kann ich nicht Nein sagen?
 
 > Product ID `58432` · Digistore24 productId `677497` · [HTML profile page](../../produkte/hilfe-warum-kann-ich-nicht-nein-sagen-58432.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.08 (Single payment) |
+| Price | $26.02 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.82 |
+| Earnings/sale* | $7.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SinaDieterle |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das E-Book „Hilfe! Warum kann ich nicht Nein sagen?“ richtet sich an Menschen, denen es schwerfällt, ihre eigenen Grenzen wahrzunehmen und für sie einzustehen, obwohl sie häufig spüren, dass etwas für sie nicht mehr stimmig ist. Das E-Book erklärt, warum Grenzen für gesunde Beziehungen so wichtig sind und weshalb ein klares Nein für manche Menschen mit Angst, Schuld oder Scham verbunden ist. Es ze…
+**Vendor's marketplace description:** <p>Das E-Book „Hilfe! Warum kann ich nicht Nein sagen?“ richtet sich an Menschen, denen es schwerfällt, ihre eigenen Grenzen wahrzunehmen und für sie einzustehen, obwohl sie häufig spüren, dass etwas für sie nicht mehr stimmig ist.</p>
+<p>Das E-Book erklärt, warum Grenzen für gesunde Beziehungen so wichtig sind und weshalb ein klares Nein für manche Menschen mit Angst, Schuld oder Scham verbunden ist. Es zeigt, welchen Einfluss frühe Erfahrungen und Bindungsmuster auf die eigene Abgrenzung haben und warum Anpassung lange zu einer wichtigen Strategie werden kann. Ein weiterer Schwerpunkt liegt auf dem Selbstkontakt und darauf, die eigenen Grenzen überhaupt frühzeitig wahrnehmen zu können. Außerdem werden verschiedene Arten von Grenzen und unterschiedliche Formen der Abgrenzung im Alltag behandelt.<br />Das E-Book eignet sich zur Bewerbung bei einer Zielgruppe, die verstehen möchte, warum Nein sagen und Abgrenzung so schwerfallen und wie sie einen besseren Zugang zu den eigenen Grenzen entwickeln kann.</p>
 
 ## 2. Links
 
@@ -79,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hilfe! Warum kann ich nicht Nein sagen?? — Typ: E-books, Anbieter: SinaDieterle, gelistet seit 2026-08-17
-- Wie viel kostet es? — 26.076362 USD
+- Wie viel kostet es? — 26.018187 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

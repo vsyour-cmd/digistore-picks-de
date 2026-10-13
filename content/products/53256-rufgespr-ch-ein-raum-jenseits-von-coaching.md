@@ -4,16 +4,16 @@ digistore24_product_id: 604159
 title: "Rufgespräch – ein Raum jenseits von Coaching"
 vendor: "digicube"
 product_type: "Online coaching"
-price: 101.71
+price: 101.48
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 30.51
+earnings_per_sale: 30.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-03-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://lanaprinzip.com/rufgespraech/?aff=adminstore#aff=adminstore"
 sales_page: "https://lanaprinzip.com/rufgespraech/"
@@ -22,16 +22,16 @@ language: "de"
 # Rufgespräch – ein Raum jenseits von Coaching
 
 > Product ID `53256` · Digistore24 productId `604159` · [HTML profile page](../../produkte/rufgespr-ch-ein-raum-jenseits-von-coaching-53256.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $101.71 (Single payment) |
+| Price | $101.48 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $30.51 |
+| Earnings/sale* | $30.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digicube |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Rufgespräch ist kein klassisches Coaching, sondern ein freier Raum, in dem Menschen sich erinnern dürfen, wer sie wirklich sind. Matthias Exl öffnet diesen Raum mit Präsenz, Tiefe und Klarheit – jenseits von Methode oder System. Dieses Angebot eignet sich nicht für breite Streuung, sondern für Menschen, die selbst ein Rufgespräch erlebt haben – und aus dieser Erfahrung heraus, ehrlichen Herzen…
+**Vendor's marketplace description:** <p><strong>Das Rufgespräch</strong> ist kein klassisches Coaching, sondern ein freier Raum, in dem Menschen sich erinnern dürfen, wer sie wirklich sind.</p>
+<p>Matthias Exl öffnet diesen Raum mit Präsenz, Tiefe und Klarheit – jenseits von Methode oder System.</p>
+<p>Dieses Angebot eignet sich nicht für breite Streuung, sondern für Menschen, die selbst ein Rufgespräch erlebt haben – und aus dieser Erfahrung heraus, <strong>ehrlichen Herzens</strong> andere einladen möchten.</p>
+<p><strong>Affiliates erhalten nur auf persönliche Freigabe Zugang.</strong><br />Voraussetzung ist ein eigenes Rufgespräch und ein stimmiges Gefühl, diesen Raum aus wahrer Erfahrung weiterzugeben.</p>
+<p>Bei Fragen bitte Kontakt zu Matthias aufnehmen.</p>
+<p>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: <a>http://lana.li/affiliate</a>.</p>
+<p>Wir freuen uns auf eine erfolgreiche Partnerschaft!</p>
+<p> </p>
 
 ## 2. Links
 
@@ -94,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Rufgespräch – ein Raum jenseits von Coaching? — Typ: Online coaching, Anbieter: digicube, gelistet seit 2025-03-27
-- Wie viel kostet es? — 101.705656 USD
+- Wie viel kostet es? — 101.47875600000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,7 +4,7 @@ digistore24_product_id: 371872
 title: "Die 77 besten Keto Rezepte Gratis Buch von MDS"
 vendor: "produktmanagerin"
 product_type: "E-books"
-price: 18.88
+price: 18.84
 currency: "USD"
 affiliate_commission_pct: 100
 earnings_per_sale: 2.73
@@ -12,24 +12,24 @@ cart_conversion_pct: 40
 cancel_rate_pct: 12.34
 categories: ["Food & Drink"]
 listed_since: "2021-02-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://machdichschlank.info/77-keto-rezepte/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40687/adminstore/"
 sales_page: "https://machdichschlank.info/77-keto-rezepte/"
 language: "de"
 ---
 # Die 77 besten Keto Rezepte Gratis Buch von MDS
 
 > Product ID `40687` · Digistore24 productId `371872` · [HTML profile page](../../produkte/die-77-besten-keto-rezepte-gratis-buch-von-mds-40687.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $18.88 (Single payment) |
+| Price | $18.84 (Single payment) |
 | Affiliate commission | 100% |
 | Earnings/sale* | $2.73 |
 | Cart conversion* | 40% |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digistore24 Affiliatebereich: https://www.digistore24-app.com/account/partnerarea/165719/de Bewerbe unser brandneues Buch "Die 77 besten Keto Rezepte" in digitaler Form. Als Upsell 1 besteht die Möglichkeit unsere bewährten Fett Weg Pläne und Rezepte zu erhalten als Monatsabo In den ersten 14 Tagen für 0€, somit hat der Kunde 14 Tage Zeit zu testen und ab 15 Tagen werden dann so wie jeden weiteren…
+**Vendor's marketplace description:** <h4 style="text-align:left;">Digistore24 Affiliatebereich: </h4>
+<h4><strong><span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.digistore24-app.com/account/partnerarea/165719/de">https://www.digistore24-app.com/account/partnerarea/165719/de</a></span></strong></h4>
+<p>Bewerbe unser brandneues Buch "Die 77 besten Keto Rezepte" in digitaler Form.</p>
+<p>Als Upsell 1 besteht die Möglichkeit unsere bewährten Fett Weg Pläne und Rezepte zu erhalten als Monatsabo</p>
+<p>In den ersten 14 Tagen für 0€, somit hat der Kunde 14 Tage Zeit zu testen und ab 15 Tagen werden dann so wie jeden weiteren Monat 29,97€ fällig (Auf Abos gibt es 50% Provision auf Lebenszeit - Monat für Monat)</p>
+<p>Als zweites Upsell besteht die Möglichkeit unserem Beach Body Club beizutreten als Monatsabo.</p>
+<p>Hier hat der Kunde 21 Tage Zeit um das Produkt für 0€ zu testen und danach werden auch hier 29,97€ monatlich fällig. Auch hier gibt es 50% Abo Provision auf Lebenszeit</p>
+<p>Rückgabezeitraum beträgt lediglich 14 Tage.</p>
+<p>Bewirb jetzt "Die 77 besten Keto Rezepte" und erhalte auf die beiden Abos jeweils 50% Provision lebenslänglich und baue dir somit ein langfristiges monatliches Einkommen mit Abos auf.</p>
+<p>Für weitere Fragen sind wir jeder Zeit erreichbar: <a>support@machdichschlank.info</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://machdichschlank.info/77-keto-rezepte/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40687/adminstore/
 - Sales page: https://machdichschlank.info/77-keto-rezepte/
 - Canonical redirect: https://www.digistore24.com/redir/371872/adminstore
 
@@ -86,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 77 besten Keto Rezepte Gratis Buch von MDS? — Typ: E-books, Anbieter: produktmanagerin, gelistet seit 2021-02-04
-- Wie viel kostet es? — 18.88211 USD
+- Wie viel kostet es? — 18.839985000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 439451
 title: "Digital Zeichnen Lernen Online-Kurs"
 vendor: "DrawTut"
 product_type: "Member area and video courses"
-price: 64.97
+price: 64.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 29
+earnings_per_sale: 28.94
 cart_conversion_pct: 6
 cancel_rate_pct: 1.03
 categories: ["Hobby & Craft"]
 listed_since: "2022-04-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://drawtut.com/de/kurse/digitales-zeichnen/?aff=adminstore#aff=adminstore"
 sales_page: "https://drawtut.com/de/kurse/digitales-zeichnen/"
@@ -22,16 +22,16 @@ language: "de"
 # Digital Zeichnen Lernen Online-Kurs
 
 > Product ID `39914` · Digistore24 productId `439451` · [HTML profile page](../../produkte/digital-zeichnen-lernen-online-kurs-39914.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $64.97 (Single payment) |
+| Price | $64.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $29.00 |
+| Earnings/sale* | $28.94 |
 | Cart conversion* | 6% |
 | Cancel rate* | 1.03% |
 | Vendor | DrawTut |
@@ -41,7 +41,50 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit diesem Online-Kurs lernst du beeindruckende Bilder am Tablet oder PC zu zeichnen. Hier bekommst du alle Grundlagen, viele Tipps und umfangreiche Praxisübungen. Starte jetzt und werde zum Profi! Das beinhaltet der Kurs 7 Stunden Video-Tutorials mit 22 Übungen Dateien & Vorlagen zu den Übungen als Download Mit diesem Kurs lernst du Grundlagen des digitalen Zeichnens Alles über die benötigte Hard…
+**Vendor's marketplace description:** <p>Mit diesem <strong>Online-Kurs</strong> lernst du beeindruckende <strong>Bilder am Tablet oder PC zu zeichnen</strong>. Hier bekommst du alle <strong>Grundlagen, viele Tipps und umfangreiche Praxisübungen</strong>. Starte jetzt und werde zum Profi!</p>
+<div>
+<div>
+<h3>Das beinhaltet der Kurs</h3>
+<ul>
+<li><strong>7 Stunden Video-Tutorials </strong>mit 22 Übungen</li>
+<li><strong>Dateien &amp; Vorlagen</strong> zu den Übungen als Download</li>
+</ul>
+<div>
+<div>
+<h3>Mit diesem Kurs lernst du</h3>
+</div>
+</div>
+
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<ul>
+<li>Grundlagen des digitalen Zeichnens</li>
+<li>Alles über die benötigte Hard- &amp; Software</li>
+<li>Alles über die richtige Auflösung &amp; Größe von Bildern</li>
+<li>Komplette Einführung in digitale Zeichenwerkzeuge</li>
+<li>Komplette Übersicht über Anpassungswerkzeuge &amp; Filter</li>
+<li>Digital Skizzieren &amp; Szenen entwerfen</li>
+<li>Erstellen von digitalen Detailzeichnungen &amp; Illustrationen</li>
+<li>igitale Schraffuren &amp; Schattierungen</li>
+<li>Digitales Malen oder Kolorierung von Bildern</li>
+<li>Schritt für Schritt Praxisübungen in mehreren Stilen</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
+</div>
+</div>
+
+</div>
+</div>
 
 ## 2. Links
 
@@ -92,7 +135,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Digital Zeichnen Lernen Online-Kurs? — Typ: Member area and video courses, Anbieter: DrawTut, gelistet seit 2022-04-19
-- Wie viel kostet es? — 64.972388 USD
+- Wie viel kostet es? — 64.827438 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

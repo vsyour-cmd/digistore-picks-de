@@ -4,34 +4,34 @@ digistore24_product_id: 446147
 title: "Booklet: Investieren für Einsteiger"
 vendor: "Staatenlos"
 product_type: "E-books"
-price: 7.5
+price: 7.48
 currency: "USD"
 affiliate_commission_pct: 51
-earnings_per_sale: 5.23
+earnings_per_sale: 5.22
 cart_conversion_pct: 31
 cancel_rate_pct: 0.22
 categories: ["Finances"]
 listed_since: "2022-06-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://staatenlos.ch/firma-gruenden/investieren-fuer-einsteiger/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40987/adminstore/"
 sales_page: "https://staatenlos.ch/firma-gruenden/investieren-fuer-einsteiger/"
 language: "de"
 ---
 # Booklet: Investieren für Einsteiger
 
 > Product ID `40987` · Digistore24 productId `446147` · [HTML profile page](../../produkte/booklet-investieren-f-r-einsteiger-40987.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.50 (Single payment) |
+| Price | $7.48 (Single payment) |
 | Affiliate commission | 51% |
-| Earnings/sale* | $5.23 |
+| Earnings/sale* | $5.22 |
 | Cart conversion* | 31% |
 | Cancel rate* | 0.22% |
 | Vendor | Staatenlos |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Wenn Du nicht weißt, wie Du Dich sicher orientierst, bieten wir Dir ein umfangreiches und verständliches Booklet an. Es ist sehr leicht zu lesen und erfordert keine Vorkenntnisse in Wirtschaft oder Finanzen. Wir befassen uns mit Themen wie Sparen, Inflation, kognitive Verzerrungen und verschiedene Investitionsmöglichkeiten. Wir gehen darauf ein, wie Du in Dich selbst investierst. Wir ziehen ebenfa…
+**Vendor's marketplace description:** <p>Wenn Du nicht weißt, wie Du Dich sicher orientierst, bieten wir Dir ein umfangreiches und verständliches Booklet an. Es ist sehr leicht zu lesen und erfordert keine Vorkenntnisse in Wirtschaft oder Finanzen. </p>
+<p>Wir befassen uns mit Themen wie Sparen, Inflation, kognitive Verzerrungen und verschiedene Investitionsmöglichkeiten. Wir gehen darauf ein, wie Du in Dich selbst investierst. Wir ziehen ebenfalls andere Optionen in Betracht, wie z. B. Gold, Rohstoffe, Immobilien, Staatsschulden, Unternehmen, Aktien (passive und aktive Investitionen), Kryptowährungen und Fremdwährungen. Abschließend stellen wir einige Musterportfolios vor, die für verschiedene Sparstufen geeignet sind.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://staatenlos.ch/firma-gruenden/investieren-fuer-einsteiger/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40987/adminstore/
 - Sales page: https://staatenlos.ch/firma-gruenden/investieren-fuer-einsteiger/
 - Vendor affiliate support: https://staatenlos.ch/staatenlos/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/446147/adminstore
@@ -80,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Booklet: Investieren für Einsteiger? — Typ: E-books, Anbieter: Staatenlos, gelistet seit 2022-06-09
-- Wie viel kostet es? — 7.4968140000000005 USD
+- Wie viel kostet es? — 7.480089000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

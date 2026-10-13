@@ -4,34 +4,34 @@ digistore24_product_id: 730806
 title: "Das Komplettpaket"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 155
+price: 154.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 77.5
+earnings_per_sale: 77.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Leadership & Management"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/730806?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58991/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/730806"
 language: "de"
 ---
 # Das Komplettpaket
 
 > Product ID `58991` · Digistore24 productId `730806` · [HTML profile page](../../produkte/das-komplettpaket-58991.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $155.00 (Single payment) |
+| Price | $154.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $77.50 |
+| Earnings/sale* | $77.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,11 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Komplettpaket – Alle 21 Ratgeber für ein besseres Leben | 50% Provision Bewirb unser größtes Bundle: alle 21 Ratgeber aus dem gesamten Sortiment (Neurodivergenz, Stress, Geld & Zukunft, Lebensphasen, inneres Wachstum) zum Bestpreis von 148€ statt 567€ – 74% Ersparnis. Das Komplettpaket verkauft sich besonders gut bei Zielgruppen, die bereits Interesse an einzelnen Themen gezeigt haben, denn de…
+**Vendor's marketplace description:** <ul>
+<li style="text-align:left;">Das Komplettpaket – Alle 21 Ratgeber für ein besseres Leben | 50% Provision</li>
+</ul>
+<p> </p>
+<p>Bewirb unser größtes Bundle: alle 21 Ratgeber aus dem gesamten Sortiment (Neurodivergenz, Stress, Geld &amp; Zukunft, Lebensphasen, inneres Wachstum) zum Bestpreis von 148€ statt 567€ – 74% Ersparnis.</p>
+<p> </p>
+<p>Das Komplettpaket verkauft sich besonders gut bei Zielgruppen, die bereits Interesse an einzelnen Themen gezeigt haben, denn der Gesamtpreis ist unschlagbar attraktiv. Perfekt für große Reichweiten, Newsletter oder Rabattseiten. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm.</p>
+<p> </p>
+<p>Zielgruppe: alle, die sich für persönliche Weiterentwicklung interessieren und lieber einmal richtig zuschlagen statt einzeln nachzukaufen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/730806?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58991/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/730806
 - Canonical redirect: https://www.digistore24.com/redir/730806/adminstore
 
@@ -86,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das Komplettpaket? — Typ: E-books, Anbieter: mlangbein51cce0, gelistet seit 2026-09-07
-- Wie viel kostet es? — 155.001392 USD
+- Wie viel kostet es? — 154.655592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

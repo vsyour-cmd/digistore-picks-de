@@ -4,16 +4,16 @@ digistore24_product_id: 618706
 title: "Disziplin, Motivation und Businessaufbau – Der Grundbaustein"
 vendor: "kopfstartklar"
 product_type: "E-books"
-price: 20.94
+price: 20.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.48
+earnings_per_sale: 10.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-06-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/618706?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/618706"
@@ -22,16 +22,16 @@ language: "de"
 # Disziplin, Motivation und Businessaufbau – Der Grundbaustein
 
 > Product ID `52912` · Digistore24 productId `618706` · [HTML profile page](../../produkte/disziplin-motivation-und-businessaufbau-der-grundbaustein-52912.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.94 (Single payment) |
+| Price | $20.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.48 |
+| Earnings/sale* | $10.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kopfstartklar |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Disziplin, Motivation & Businessstart – kompakt erklärt, motivierend geschrieben.Dieses 39-seitige E-Book zeigt jungen Unternehmern und Creator-Typen, wie sie ihr Online-Business wirklich durchziehen – mit Struktur, Zielsetzung und Fokus. ✅ inkl. 90-Tage-Zielsetzungs-Vorlage✅ Themen: Mindset, Umsetzung, Widerstand überwinden✅ Sofortdownload, starke Copy & hohe Conversion Optimiert für Impulskäufe …
+**Vendor's marketplace description:** <p>Disziplin, Motivation &amp; Businessstart – kompakt erklärt, motivierend geschrieben.<br />Dieses 39-seitige E-Book zeigt jungen Unternehmern und Creator-Typen, wie sie ihr Online-Business wirklich durchziehen – mit Struktur, Zielsetzung und Fokus.</p>
+<p>✅ inkl. 90-Tage-Zielsetzungs-Vorlage<br />✅ Themen: Mindset, Umsetzung, Widerstand überwinden<br />✅ Sofortdownload, starke Copy &amp; hohe Conversion</p>
+<p><strong>Optimiert für Impulskäufe &amp; Social-Media-Traffic.</strong></p>
 
 ## 2. Links
 
@@ -71,7 +73,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Disziplin, Motivation und Businessaufbau – Der Grundbaustein? — Typ: E-books, Anbieter: kopfstartklar, gelistet seit 2025-06-15
-- Wie viel kostet es? — 20.944014000000003 USD
+- Wie viel kostet es? — 20.897289000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

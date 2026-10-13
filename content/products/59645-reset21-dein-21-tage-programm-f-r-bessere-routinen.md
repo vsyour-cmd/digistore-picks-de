@@ -4,34 +4,34 @@ digistore24_product_id: 736794
 title: "RESET21 – Dein 21-Tage-Programm für bessere Routinen"
 vendor: "jaqui19926004"
 product_type: "Downloads"
-price: 75.28
+price: 75.11
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.64
+earnings_per_sale: 37.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://ki-richtig-nutzen.my.canva.site/reset21-dein-21-tage-programm-f-r-bessere-routinen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59645/adminstore/"
 sales_page: "https://ki-richtig-nutzen.my.canva.site/reset21-dein-21-tage-programm-f-r-bessere-routinen"
 language: "de"
 ---
 # RESET21 – Dein 21-Tage-Programm für bessere Routinen
 
 > Product ID `59645` · Digistore24 productId `736794` · [HTML profile page](../../produkte/reset21-dein-21-tage-programm-f-r-bessere-routinen-59645.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $75.28 (Single payment) |
+| Price | $75.11 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.64 |
+| Earnings/sale* | $37.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jaqui19926004 |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** RESET21 ist ein 55-seitiges Premium-Workbook, das dich 21 Tage lang Schritt für Schritt begleitet.Enthalten sind ein kompletter 21-Tage-Plan, zahlreiche Übungen und Reflexionsimpulse, Ernährung & Meal Prep, Fitnessübungen, einfache Rezeptideen sowie ein 90-Tage-Plan für danach.✓ 55 Seiten Premium-Workbook✓ 21 Tagesaufgaben & Check-ins✓ Viele Übungen & Reflexionsfragen✓ Ernährung & Meal Prep✓ Fitne…
+**Vendor's marketplace description:** <p><span style="color:#00ccff;"><em>RESET21 ist ein 55-seitiges Premium-Workbook, das dich 21 Tage lang Schritt für Schritt begleitet.</em></span><br /><br />Enthalten sind ein kompletter 21-Tage-Plan, zahlreiche Übungen und Reflexionsimpulse, Ernährung &amp; Meal Prep, Fitnessübungen, einfache Rezeptideen sowie ein 90-Tage-Plan für danach.<br /><br /><strong><span style="color:#00ccff;">✓ 55 Seiten Premium-Workbook</span></strong><br /><strong><span style="color:#00ccff;">✓ 21 Tagesaufgaben &amp; Check-ins</span></strong><br /><strong><span style="color:#00ccff;">✓ Viele Übungen &amp; Reflexionsfragen</span></strong><br /><strong><span style="color:#00ccff;">✓ Ernährung &amp; Meal Prep</span></strong><br /><strong><span style="color:#00ccff;">✓ Fitnessprogramme</span></strong><br /><strong><span style="color:#00ccff;">✓ Rezepte</span></strong><br /><strong><span style="color:#00ccff;">✓ 90-Tage-Weiterführung</span></strong><br /><strong><span style="color:#00ccff;">✓ Sofort digital verfügbar</span></strong><br /><br />Kleine Schritte. Bessere Routinen. Dein RESET21.</p>
+<p>Digitaler Download</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ki-richtig-nutzen.my.canva.site/reset21-dein-21-tage-programm-f-r-bessere-routinen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59645/adminstore/
 - Sales page: https://ki-richtig-nutzen.my.canva.site/reset21-dein-21-tage-programm-f-r-bessere-routinen
 - Canonical redirect: https://www.digistore24.com/redir/736794/adminstore
 
@@ -68,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist RESET21 – Dein 21-Tage-Programm für bessere Routinen? — Typ: Downloads, Anbieter: jaqui19926004, gelistet seit 2026-09-24
-- Wie viel kostet es? — 75.28190800000002 USD
+- Wie viel kostet es? — 75.11395800000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

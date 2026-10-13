@@ -4,16 +4,16 @@ digistore24_product_id: 433358
 title: "Bewerbung - Vorstellungsgespräch"
 vendor: "Diveco"
 product_type: "Downloads"
-price: 34.84
+price: 34.76
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 6.97
+earnings_per_sale: 6.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-03-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://heinzbader.com/bewerbung-vorstellungsgespraech-kurs-8-lp/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/bewerbung-vorstellungsgespraech-kurs-8-lp/"
@@ -22,16 +22,16 @@ language: "de"
 # Bewerbung - Vorstellungsgespräch
 
 > Product ID `39364` · Digistore24 productId `433358` · [HTML profile page](../../produkte/bewerbung-vorstellungsgespr-ch-39364.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $34.84 (Single payment) |
+| Price | $34.76 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $6.97 |
+| Earnings/sale* | $6.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Diveco |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Die letzten 10% zum Job erfolgreich meistern. Tipps, Do´s und Dont`s. Wie es die Profis machen. Modulinhalte: - Ihre Show - Benimm - Gesprächsverlauf - Quittung Wir wissen wie Personalverantwortliche agieren und entscheiden - davon profitieren Sie. In diesem Webinar bekommen Sie WISSEN und erlangen KÖNNEN um sich professionell, zeitgemäß und erfolgreich zu bewerben. Sie erfahren: Wie Personaler be…
+**Vendor's marketplace description:** <p>Die letzten 10% zum Job erfolgreich meistern.</p>
+<p>Tipps, Do´s und Dont`s. Wie es die Profis machen.  </p>
+<p>Modulinhalte:</p>
+<p>- Ihre Show</p>
+<p>- Benimm</p>
+<p>- Gesprächsverlauf</p>
+<p>- Quittung  </p>
+<p>Wir wissen wie Personalverantwortliche agieren und entscheiden  - davon profitieren Sie.  </p>
+<p>In diesem Webinar bekommen Sie WISSEN und erlangen KÖNNEN um sich professionell, zeitgemäß und erfolgreich zu bewerben.  </p>
+<p>Sie erfahren:                </p>
+<p>Wie Personaler bewerten und entscheiden                </p>
+<p>Wie eine zeitgemäße Bewerbung aussieht                </p>
+<p>Was im Anschreiben und Lebenslauf aktuell nützlich und wichtig ist                </p>
+<p>Wie Sie Ihre BeWERBUNG vom Zufall erlösen   Bewerbung ist Werbung, und ist heute Zukunftssicherung eines jeden Arbeitssuchenden, und darf keinesfalls dem Zufall überlassen werden.  </p>
+<p>Professionell und überzeugend bewerben - darüber reden wir hier und davon profitieren Sie.</p>
 
 ## 2. Links
 
@@ -71,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bewerbung - Vorstellungsgespräch? — Typ: Downloads, Anbieter: Diveco, gelistet seit 2022-03-09
-- Wie viel kostet es? — 34.839454 USD
+- Wie viel kostet es? — 34.761729 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

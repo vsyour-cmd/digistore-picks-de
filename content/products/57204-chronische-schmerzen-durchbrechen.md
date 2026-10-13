@@ -4,16 +4,16 @@ digistore24_product_id: 701962
 title: "Chronische Schmerzen durchbrechen"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/chronische-schmerzen-durchbrechen?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/chronische-schmerzen-durchbrechen"
@@ -22,16 +22,16 @@ language: "de"
 # Chronische Schmerzen durchbrechen
 
 > Product ID `57204` · Digistore24 productId `701962` · [HTML profile page](../../produkte/chronische-schmerzen-durchbrechen-57204.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „Chronische Schmerzen durchbrechen“ Leben ohne ständiges Leiden – Chronischer Schmerz folgt eigenen Regeln. Wenn du sie verstehst, kannst du den Teufelskreis durchbrechen und dir Stück für Stück dein Leben zurückholen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite,…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Chronische Schmerzen durchbrechen“</strong></p>
+<p>Leben ohne ständiges Leiden – Chronischer Schmerz folgt eigenen Regeln. Wenn du sie verstehst, kannst du den Teufelskreis durchbrechen und dir Stück für Stück dein Leben zurückholen.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
+<li>Gefragtes Thema mit großer Zielgruppe</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Verstehen, warum chronischer Schmerz anders funktioniert</li>
+<li>Das Schmerzgedächtnis beruhigen statt bekämpfen</li>
+<li>Den Kreis aus Schmerz, Schonung und Angst durchbrechen</li>
+<li>Mit sanfter Bewegung und Pacing wieder aktiv werden</li>
+</ul>
 
 ## 2. Links
 
@@ -85,7 +100,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Chronische Schmerzen durchbrechen? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-29
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

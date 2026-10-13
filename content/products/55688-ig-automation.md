@@ -4,16 +4,16 @@ digistore24_product_id: 595188
 title: "IG Automation"
 vendor: "seotech"
 product_type: "Member area and video courses"
-price: 331.83
+price: 331.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 124.22
+earnings_per_sale: 123.94
 cart_conversion_pct: 11
 cancel_rate_pct: 0.77
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/ig-automation/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.eugen-grinschuk.de/ig-automation/"
@@ -22,16 +22,16 @@ language: "de"
 # IG Automation
 
 > Product ID `55688` · Digistore24 productId `595188` · [HTML profile page](../../produkte/ig-automation-55688.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $331.83 (Single payment, Installment) |
+| Price | $331.09 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $124.22 |
+| Earnings/sale* | $123.94 |
 | Cart conversion* | 11% |
 | Cancel rate* | 0.77% |
 | Vendor | seotech |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Nutze smarte Automatisierungen auf höchstem Niveau, die für dich verkaufen und Kunden wie am Fließband gewinnen, während du dich um die wirklich wichtigen Dinge im Leben kümmerst. Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Dam…
+**Vendor's marketplace description:** <h2>Nutze <strong>smarte Automatisierungen auf höchstem Niveau</strong>, die für dich verkaufen und <strong>Kunden wie am Fließband gewinnen</strong>, während du dich um die wirklich wichtigen Dinge im Leben kümmerst.</h2>
+<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel.</p>
+<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
+<p>Das bekommt der Kunde in diesem Premium Online-Kurs:</p>
+<ul>
+<li>wie du was <strong>richtig automatisieren</strong> kannst, um <strong>viel einfacher deutlich mehr Follower und Verkäufe zu generieren</strong>…</li>
+<li>wie du <strong>Leads und Sales auf Autopilot generierst, </strong>ohne ständig am Handy oder online zu sein, weil die Automatisierungen für dich alles erledigen (<strong>Achtung</strong>, du könntest plötzlich mehr Freizeit und ein echtes Leben haben, außerhalb von Social Media)…</li>
+<li>mit einem Tag Arbeit deine ganze Woche oder gar Monat geplant hast und den Rest die Automatisierungen erledigen…</li>
+</ul>
+<p><strong>Und als Bonus</strong> bekommst du <strong>unsere Automatisierungsvorlage</strong>, die prüft, fragt, verkauft und sogar Follow-Up macht.</p>
+<p>Und einiges mehr!</p>
+<p>Am besten jetzt noch zugreifen! Du erhältst <strong>sofort</strong> Zugriff, auch wenn es 3 Uhr Nachts ist! Sichere dir daher jetzt das Angebot. <strong>Nur jetzt für einmalig nur 147€!</strong></p>
+<p> </p>
 
 ## 2. Links
 
@@ -66,7 +78,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist IG Automation? — Typ: Member area and video courses, Anbieter: seotech, gelistet seit 2025-02-09
-- Wie viel kostet es? — 331.83207200000004 USD
+- Wie viel kostet es? — 331.09177200000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

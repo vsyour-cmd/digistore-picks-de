@@ -4,16 +4,16 @@ digistore24_product_id: 688214
 title: "Modul 2 – Entscheidungsfähigkeit im Unternehmen"
 vendor: "weipert-consulting-gmbh"
 product_type: "Downloads"
-price: 328.65
+price: 327.92
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 65.73
+earnings_per_sale: 65.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Politics & Economy","Leadership & Management"]
 listed_since: "2026-05-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://weipert-consulting.de/entscheidungsfaehigkeit-im-unternehmen/?aff=adminstore#aff=adminstore"
 sales_page: "https://weipert-consulting.de/entscheidungsfaehigkeit-im-unternehmen/"
@@ -22,16 +22,16 @@ language: "de"
 # Modul 2 – Entscheidungsfähigkeit im Unternehmen
 
 > Product ID `56756` · Digistore24 productId `688214` · [HTML profile page](../../produkte/modul-2-entscheidungsf-higkeit-im-unternehmen-56756.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $328.65 (Single payment) |
+| Price | $327.92 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $65.73 |
+| Earnings/sale* | $65.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | weipert-consulting-gmbh |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Modul 2 – Entscheidungsfähigkeit im Unternehmen Sie erwerben ein strukturiertes Diagnoseinstrument zur Analyse der Entscheidungsfähigkeit eines Unternehmens. Dieses Angebot richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB. Das Instrument umfasst: • standardisierte Analysefelder (Scoring 1–4) • gewichtete Risikoindikationen je Organisationsebene • Identifikation von Entscheidungsblo…
+**Vendor's marketplace description:** <h1>Modul 2 – Entscheidungsfähigkeit im Unternehmen</h1>
+<p>Sie erwerben ein strukturiertes Diagnoseinstrument zur Analyse der Entscheidungsfähigkeit eines Unternehmens.</p>
+<p> </p>
+<p><strong>Dieses Angebot richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB.</strong></p>
+<p> </p>
+<p><strong>Das Instrument umfasst:</strong></p>
+<p>• standardisierte Analysefelder (Scoring 1–4)</p>
+<p>• gewichtete Risikoindikationen je Organisationsebene</p>
+<p>• Identifikation von Entscheidungsblockaden</p>
+<p>• priorisierte Maßnahmenempfehlungen (kurz-, mittel- und langfristig)</p>
+<p> </p>
+<p><strong>Produktart</strong>: Digitales Diagnoseinstrument</p>
+<p> </p>
+<p><strong>Bereitstellung</strong>: Sofortiger Download nach erfolgreicher Zahlung.</p>
+<p> </p>
+<p>Zusätzliche Bereitstellung des Download-Links per E-Mail.</p>
+<p> </p>
+<p><strong>Es handelt sich nicht um eine individuelle Rechts-, Steuer- oder Wirtschaftsprüfung.</strong></p>
 
 ## 2. Links
 
@@ -81,7 +98,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Modul 2 – Entscheidungsfähigkeit im Unternehmen? — Typ: Downloads, Anbieter: weipert-consulting-gmbh, gelistet seit 2026-05-31
-- Wie viel kostet es? — 328.649568 USD
+- Wie viel kostet es? — 327.916368 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

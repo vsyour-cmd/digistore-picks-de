@@ -4,34 +4,34 @@ digistore24_product_id: 515024
 title: "Hypnose-Onlinekurs Tiefenentspannung"
 vendor: "petanthony"
 product_type: "Member area and video courses"
-price: 93.22
+price: 93.01
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 23.31
+earnings_per_sale: 23.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://shop.petanthony.com/online-kurse_tiefenentspannung_DS/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59281/adminstore/"
 sales_page: "https://shop.petanthony.com/online-kurse_tiefenentspannung_DS/"
 language: "de"
 ---
 # Hypnose-Onlinekurs Tiefenentspannung
 
 > Product ID `59281` · Digistore24 productId `515024` · [HTML profile page](../../produkte/hypnose-onlinekurs-tiefenentspannung-59281.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $93.22 (Single payment) |
+| Price | $93.01 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $23.31 |
+| Earnings/sale* | $23.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | petanthony |
@@ -41,11 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit diesem Hypnose-Onlinekurs von Pet Anthony können Zustände tiefer Entspannung erreicht werden. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
+**Vendor's marketplace description:** <p>Mit diesem Hypnose-Onlinekurs von Pet Anthony können Zustände tiefer Entspannung erreicht werden.</p>
+<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shop.petanthony.com/online-kurse_tiefenentspannung_DS/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59281/adminstore/
 - Sales page: https://shop.petanthony.com/online-kurse_tiefenentspannung_DS/
 - Vendor affiliate support: https://www.petanthony.com/partner/
 - Canonical redirect: https://www.digistore24.com/redir/515024/adminstore
@@ -67,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose-Onlinekurs Tiefenentspannung? — Typ: Member area and video courses, Anbieter: petanthony, gelistet seit 2026-09-16
-- Wie viel kostet es? — 93.222714 USD
+- Wie viel kostet es? — 93.014739 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

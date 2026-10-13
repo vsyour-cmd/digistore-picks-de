@@ -4,34 +4,34 @@ digistore24_product_id: 670033
 title: "Lux-Universum Band 0 – Der Einstieg | Dark Romance E-Book"
 vendor: "Niux489"
 product_type: "E-books"
-price: 6.28
+price: 6.26
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 2.51
+earnings_per_sale: 2.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-02-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/670033?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55947/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/670033"
 language: "de"
 ---
 # Lux-Universum Band 0 – Der Einstieg | Dark Romance E-Book
 
 > Product ID `55947` · Digistore24 productId `670033` · [HTML profile page](../../produkte/lux-universum-band-0-der-einstieg-dark-romance-e-book-55947.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.28 (Single payment) |
+| Price | $6.26 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $2.51 |
+| Earnings/sale* | $2.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Niux489 |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lux-Universum Band 0 – Der Einstieg ist ein Dark-Romance-E-Book für Leserinnen, die keine harmlose Liebesgeschichte suchen, sondern Spannung, Kontrolle und Figuren, die im Kopf bleiben. USP: Dark Romance aus männlicher Autorensicht. Preis: 9,90 €. Gratis-Leseprobe verfügbar. Band 1 ist bereits in Vorbereitung und erscheint bald, dadurch eignet sich Band 0 ideal als Einstiegsprodukt für BookTok-, R…
+**Vendor's marketplace description:** <p>Lux-Universum Band 0 – Der Einstieg ist ein Dark-Romance-E-Book für Leserinnen, die keine harmlose Liebesgeschichte suchen, sondern Spannung, Kontrolle und Figuren, die im Kopf bleiben.</p>
+<p>USP: Dark Romance aus männlicher Autorensicht.</p>
+<p>Preis: 9,90 €.</p>
+<p>Gratis-Leseprobe verfügbar.</p>
+<p>Band 1 ist bereits in Vorbereitung und erscheint bald, dadurch eignet sich Band 0 ideal als Einstiegsprodukt für BookTok-, Romance- und Dark-Romance-Traffic.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/670033?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55947/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/670033
 - Canonical redirect: https://www.digistore24.com/redir/670033/adminstore
 
@@ -71,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lux-Universum Band 0 – Der Einstieg | Dark Romance E-Book? — Typ: E-books, Anbieter: Niux489, gelistet seit 2026-02-19
-- Wie viel kostet es? — 6.27536 USD
+- Wie viel kostet es? — 6.26136 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,16 +4,16 @@ digistore24_product_id: 706660
 title: "Der Gastro-Recruiting-Plan"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 26.13
+price: 26.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.07
+earnings_per_sale: 13.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-07-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/gastro-recruiting-plan?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/gastro-recruiting-plan"
@@ -22,16 +22,16 @@ language: "de"
 # Der Gastro-Recruiting-Plan
 
 > Product ID `57331` · Digistore24 productId `706660` · [HTML profile page](../../produkte/der-gastro-recruiting-plan-57331.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $26.13 (Single payment) |
+| Price | $26.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.07 |
+| Earnings/sale* | $13.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,7 +41,24 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „Der Gastro-Recruiting-Plan“ Wie du Kellner, Köche und Servicekräfte findest, bevor es deine Konkurrenz tut – Gute Köche, Kellner und Servicekräfte zu finden ist für viele Gastronomen die größte Herausforderung. Dieser Ratgeber zeigt dir einen praxiserprobten Recruiting-Plan: von der Stellenanzeige über die besten Kanäle bis zu Bewerbungsgespräch, Einarbeitung und Mitarbeiterbi…
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Der Gastro-Recruiting-Plan“</strong></p>
+<p>Wie du Kellner, Köche und Servicekräfte findest, bevor es deine Konkurrenz tut – Gute Köche, Kellner und Servicekräfte zu finden ist für viele Gastronomen die größte Herausforderung. Dieser Ratgeber zeigt dir einen praxiserprobten Recruiting-Plan: von der Stellenanzeige über die besten Kanäle bis zu Bewerbungsgespräch, Einarbeitung und Mitarbeiterbindung.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – ca. 12,48 € pro Verkauf (Verkaufspreis 24,95 €)</li>
+<li>Gefragtes Thema mit großer Zielgruppe</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Der Fachkräftemangel in der Gastronomie: ehrliche Bestandsaufnahme</li>
+<li>Dein Arbeitgeber-Image: warum gute Leute zu dir wollen sollen</li>
+<li>Die Stellenanzeige, die wirklich gelesen und beantwortet wird</li>
+<li>Die richtigen Kanäle: wo du Köche, Kellner und Servicekräfte findest</li>
+<li>Bewerbungsgespräch und Probearbeiten: die Richtigen erkennen</li>
+<li>Einarbeitung und Onboarding: damit neue Leute bleiben</li>
+</ul>
 
 ## 2. Links
 
@@ -85,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Gastro-Recruiting-Plan? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-07-01
-- Wie viel kostet es? — 26.132392000000003 USD
+- Wie viel kostet es? — 26.074092000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

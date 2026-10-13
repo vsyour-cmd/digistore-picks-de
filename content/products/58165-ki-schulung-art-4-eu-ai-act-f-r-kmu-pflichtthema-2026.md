@@ -4,34 +4,34 @@ digistore24_product_id: 716903
 title: "KI-Schulung Art. 4 EU AI Act für KMU — Pflichtthema 2026"
 vendor: "davidgonz13"
 product_type: "Member area and video courses"
-price: 447.12
+price: 446.12
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 178.85
+earnings_per_sale: 178.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Education"]
 listed_since: "2026-08-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://kadenzgroup.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58165/adminstore/"
 sales_page: "https://kadenzgroup.de"
 language: "de"
 ---
 # KI-Schulung Art. 4 EU AI Act für KMU — Pflichtthema 2026
 
 > Product ID `58165` · Digistore24 productId `716903` · [HTML profile page](../../produkte/ki-schulung-art-4-eu-ai-act-f-r-kmu-pflichtthema-2026-58165.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $447.12 (Single payment) |
+| Price | $446.12 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $178.85 |
+| Earnings/sale* | $178.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | davidgonz13 |
@@ -41,11 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Seit Februar 2025 verpflichtet Art. 4 der KI-Verordnung jedes Unternehmen, das KI einsetzt, zum Aufbau von KI-Kompetenz — auch kleine Betriebe ohne eigene KI-Entwicklung. Die Kadenz KI-Schulung löst das komplett: ca. 2 Stunden Videoschulung auf Deutsch, persönlicher Schulungsnachweis (PDF) für jeden Mitarbeiter, dazu ein vollständiges Umsetzungspaket (KI-Richtlinie, KI-Inventar, DSGVO-Checkliste, …
+**Vendor's marketplace description:** <p>Seit Februar 2025 verpflichtet Art. 4 der KI-Verordnung jedes Unternehmen, das KI einsetzt, zum Aufbau von KI-Kompetenz — auch kleine Betriebe ohne eigene KI-Entwicklung. Die Kadenz KI-Schulung löst das komplett: ca. 2 Stunden Videoschulung auf Deutsch, persönlicher Schulungsnachweis (PDF) für jeden Mitarbeiter, dazu ein vollständiges Umsetzungspaket (KI-Richtlinie, KI-Inventar, DSGVO-Checkliste, Prompt-Bibliothek, KI-Ampel-Poster, Freigabe-Checkliste).</p>
+<p>Warum sich die Promotion lohnt:</p>
+<p>- Ein Preis fürs ganze Unternehmen (299 € netto) — unbegrenzte Mitarbeitende, keine Pro-Kopf-Lizenzen. Ein klares Alleinstellungsmerkmal im Markt.<br />- Zielgruppe mit echtem Bedarf: Geschäftsführer, HR und Berater von KMU — das Thema ist gesetzlich verankert und hochaktuell.<br />- Sauberes Produkt: 14-Tage-Geld-zurück-Garantie, transparente Leistungsbeschreibung, professionelle Landingpage mit kostenloser Modul-1-Vorschau.<br />- Faire 40 % Provision auf ein Produkt mit ernsthafter Zielgruppe und niedriger Storno-Quote.</p>
+<p>Ideale Partner: Berater, Datenschutzbeauftragte, Steuerberater, IT-Dienstleister und Content-Creator mit Business-Publikum.</p>
+<p>Wichtig: Wir arbeiten nur mit Partnern zusammen, die unsere Affiliate-Richtlinien einhalten (keine Kaltakquise per E-Mail oder Direktnachricht, keine übertriebenen Rechtsversprechen, klare Werbekennzeichnung). Die Freischaltung erfolgt manuell.</p>
+<p>Affiliate-Richtlinien (verbindlich): https://kadenzgroup.de/partner</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kadenzgroup.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58165/adminstore/
 - Sales page: https://kadenzgroup.de
 - Vendor affiliate support: https://kadenzgroup.de/partner
 - Canonical redirect: https://www.digistore24.com/redir/716903/adminstore
@@ -89,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KI-Schulung Art. 4 EU AI Act für KMU — Pflichtthema 2026? — Typ: Member area and video courses, Anbieter: davidgonz13, gelistet seit 2026-08-05
-- Wie viel kostet es? — 447.11940000000004 USD
+- Wie viel kostet es? — 446.12190000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

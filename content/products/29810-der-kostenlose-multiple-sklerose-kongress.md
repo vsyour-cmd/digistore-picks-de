@@ -4,16 +4,16 @@ digistore24_product_id: 283003
 title: "DER KOSTENLOSE MULTIPLE SKLEROSE KONGRESS"
 vendor: "autoimmunportal"
 product_type: "Downloads"
-price: 56.5
+price: 56.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 28.25
+earnings_per_sale: 28.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-08-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://akademie.medumio.de/multiplesklerosekongress/wissenspaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.medumio.de/multiplesklerosekongress/wissenspaket/"
@@ -22,16 +22,16 @@ language: "de"
 # DER KOSTENLOSE MULTIPLE SKLEROSE KONGRESS
 
 > Product ID `29810` · Digistore24 productId `283003` · [HTML profile page](../../produkte/der-kostenlose-multiple-sklerose-kongress-29810.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $56.50 (Single payment, Installment) |
+| Price | $56.37 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $28.25 |
+| Earnings/sale* | $28.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | autoimmunportal |
@@ -41,7 +41,53 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Über 24 Experten, Doktoren, Ärzte und Betroffene teilen mit Dir ihr gesamtes Wissen über wirksame Methoden zur ursächlichen Behandlung von MS. 8 gute Gründe, warum du an diesem einmaligen Wissensevent kostenfrei teilnehmen musst ... Entdecke die ​Gründe für die Entstehung ​von Multiplesklerose (Es ist nicht nur die Genetik!) Erfahre, welche Hauptfaktoren ​Multiplesklerose begünstigen und mit welch…
+**Vendor's marketplace description:** <p><strong>Über 24 Experten, Doktoren, Ärzte und Betroffene teilen mit Dir ihr gesamtes Wissen über wirksame Methoden zur ursächlichen Behandlung von MS.</strong></p>
+<div>
+<p><strong>8 gute Gründe, warum du an diesem einmaligen Wissensevent kostenfrei teilnehmen musst ...</strong></p>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<ul><li>
+<div> </div>
+Entdecke <strong>die ​Gründe für die Entstehung</strong> ​von Multiplesklerose (Es ist nicht nur die Genetik!)</li>
+<li>
+<div> </div>
+Erfahre, welche <strong>Hauptfaktoren</strong> ​Multiplesklerose begünstigen und mit welchen einfachen Mitteln du diese Faktoren entgegenwirken kannst</li>
+<li>
+<div> </div>
+Erfahre alles über den unterschätzten Zusammenhang von Ernährung und dem Auftreten von ​​Multiplesklerose, sowie ein <strong>erprobtes Ernährungsprotokoll zur Prävention</strong>und Therapie von Erkrankungen</li>
+<li>
+<div> </div>
+Lerne, in welchem <strong>Zusammenhang mit anderen Erkrankunge</strong> das Auftreten von ​Multiplesklerose stehen kann. </li>
+</ul></div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<ul><li>
+<div> </div>
+Lerne, welche Rolle Umweltgift spielen</li>
+<li>
+<div> </div>
+Verstehe <strong>die Rolle deiner eigenen </strong><strong>Genetik</strong> für die Wahrscheinlichkeit ​​von Multiplesklerose und ob es jeden von uns treffen kann.</li>
+<li>
+<div> </div>
+Begreife die wahren Auswirkungen ​konventioneller Therapien und wie du schon <strong>vor der Durchführung von Therapien</strong> deren <strong>Erfolg </strong>durch <strong>Messmethoden</strong> <strong>bestimmen</strong> kannst</li>
+<li>
+<div> </div>
+Entdecke die <strong>Wirkung spezieller Naturmittel</strong>, die das Risiko einer ​Multiple­sklerose­erkrankung und ihre Beschwerden stark reduzieren können</li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<p><strong>TRAGE DICH JETZT EIN UND SICHERE DIR DEINEN GRATIS ZUGANG ZUM KONGRESS.</strong></p>
+</div>
 
 ## 2. Links
 
@@ -94,7 +140,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist DER KOSTENLOSE MULTIPLE SKLEROSE KONGRESS? — Typ: Downloads, Anbieter: autoimmunportal, gelistet seit 2019-08-15
-- Wie viel kostet es? — 56.500652 USD
+- Wie viel kostet es? — 56.37460200000001 USD
 - Garantie? — 30
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

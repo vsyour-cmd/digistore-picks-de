@@ -4,16 +4,16 @@ digistore24_product_id: 583879
 title: "Affiliate Booster Masterplan"
 vendor: "Brauerbursch"
 product_type: "Downloads"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.72
+earnings_per_sale: 12.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-12-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/mQuAQJFXMnpvXRFtx?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/mQuAQJFXMnpvXRFtx"
@@ -22,16 +22,16 @@ language: "de"
 # Affiliate Booster Masterplan
 
 > Product ID `50606` · Digistore24 productId `583879` · [HTML profile page](../../produkte/affiliate-booster-masterplan-50606.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.72 |
+| Earnings/sale* | $12.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Brauerbursch |
@@ -41,7 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerbe: Affiliate Booster Masterplan – und erhalte 50% Provision auf alle Up & Downsells. Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,... Affiliate Booster Masterplan beinhaltet Folgendes: Die besten Hacks für dein Business Schritt-für-Schritt-Anleitungen Dieser Kurs ermöglicht, ein eigenes Online-Business aufzubauen Perfekt für jeden, der Online Geld …
+**Vendor's marketplace description:** <p><strong>Bewerbe: Affiliate Booster Masterplan – und erhalte 50% Provision auf alle Up &amp; Downsells.</strong></p>
+<p><strong>Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,...</strong></p>
+<p><strong>Affiliate Booster Masterplan beinhaltet Folgendes:</strong></p>
+<ul>
+<li>Die besten Hacks für dein Business</li>
+<li>Schritt-für-Schritt-Anleitungen</li>
+<li>Dieser Kurs ermöglicht, ein eigenes Online-Business aufzubauen</li>
+<li>Perfekt für jeden, der Online Geld verdienen möchte</li>
+</ul>
+<p>Im Funnel sind <strong>61 € Provision</strong> für dich möglich</p>
+<p><a href="https://page.funnelcockpit.com/SspyeobP7qETqCxyk" target="_blank" rel="noreferrer noopener">Zu den Werbemitteln &lt;&lt; klick</a></p>
 
 ## 2. Links
 
@@ -59,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Affiliate Booster Masterplan? — Typ: Downloads, Anbieter: Brauerbursch, gelistet seit 2024-12-02
-- Wie viel kostet es? — 25.426414 USD
+- Wie viel kostet es? — 25.369689000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

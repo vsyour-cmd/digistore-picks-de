@@ -4,16 +4,16 @@ digistore24_product_id: 216935
 title: "Excel-Vorlage für die DSGVO-Dokumentation"
 vendor: "oliengel"
 product_type: "Downloads"
-price: 391.09
+price: 390.22
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 117.33
+earnings_per_sale: 117.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2018-04-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise"
@@ -22,16 +22,16 @@ language: "de"
 # Excel-Vorlage für die DSGVO-Dokumentation
 
 > Product ID `27030` · Digistore24 productId `216935` · [HTML profile page](../../produkte/excel-vorlage-f-r-die-dsgvo-dokumentation-27030.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $391.09 (Single payment) |
+| Price | $390.22 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $117.33 |
+| Earnings/sale* | $117.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | oliengel |
@@ -41,7 +41,40 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewerben Sie jetzt die umfangreichste Excel Lösung zum Thema DSGVO! Die Excel Datei beinhaltet nicht nur ein vorausgefülltes Verzeichnis von Verarbeitungstätigkeiten sondern auch eine Anklickvorlage für die technischen und organisatorischen Maßnahmen, eine Risikoanalyse und vieles mehr! Vom Datenschutzauditor (TÜV-geprüft) erstellt und vorausgefüllt Mit ausführlichen Anleitungen direkt zur fertige…
+**Vendor's marketplace description:** <h3>Bewerben Sie jetzt die umfangreichste Excel Lösung zum Thema DSGVO!</h3>
+<p>Die Excel Datei beinhaltet nicht nur ein vorausgefülltes Verzeichnis von Verarbeitungstätigkeiten sondern auch eine Anklickvorlage für die technischen und organisatorischen Maßnahmen, eine Risikoanalyse und vieles mehr!</p>
+<ul><li><strong>Vom Datenschutzauditor (TÜV-geprüft) erstellt und vorausgefüllt</strong></li>
+<li>Mit ausführlichen Anleitungen direkt zur fertigen Dokumentation</li>
+<li>Für kleine- und mittelständische Betriebe, Einzelunternehmer, kleine Arzt-, Heil- und sonstige Praxen, Freelancer uvm.!</li>
+</ul><p>Mit diesem Produkt können Sie Ihren Kunden helfen eine komplette Dokumentation nach DSGVO in schnellster Zeit zu erstellen. Die attraktive Provision macht dieses Produkt noch lukrativer für Sie.</p>
+<p><strong>Inklusive sind:</strong></p>
+<ul><li>Über 120 vorausgefüllte Verarbeitungstätigkeiten, direkt zum Übernehmen!</li>
+<li>Fertiges Verzeichnis von Verarbeitungstätigkeiten<br />Über 100 vorgefertigte technische und organisatorische Maßnahmen (TOM)</li>
+<li>Risikoabschätzung für 100 Verarbeitungstätigkeiten</li>
+<li>Vorausgefülltes Datenschutzkonzept</li>
+<li>Löschkonzept mit über 100 Datenarten inkl. Rechtsgrundlage und Löschprotokoll</li>
+<li>Checkliste zur Umsetzung der DSGVO mit Praxisbeispielen</li>
+<li>Erfassung Ihrer Auftragsverarbeiter</li>
+<li>Erfassung Ihrer eigenen Auftragsverarbeitungen</li>
+<li>Erfassung von Datenpannen und Auskunftsersuchen</li>
+<li>Erfassen von Standorten &amp; Abteilungen sowie Mitarbeiter bzw. Mitarbeitergruppen</li>
+<li>Erfassung von eingesetzter Software &amp; Hardware sowie verwendeten Dateien &amp; Dokumenten</li>
+<li>DSGVO Basisschulung inkl. Schulungsprotokoll</li>
+<li>18 Spezielle Verarbeitungstätigkeiten für öffentliche Stellen (Gemeinden, Behörden usw.)</li>
+</ul><p><strong>Bonus:</strong></p>
+<ul><li>Muster für einen Auditbericht</li>
+<li>Muster für eine Datenschutz-Folgenabschätzung</li>
+<li>Dokumentation zum Datenschutzbeauftragten</li>
+<li>Muster für einen AV-Vertrag</li>
+<li>Muster für eine Verpflichtung von Mitarbeitern oder sonstigen Beauftragten zur Einhaltung des Datenschutzes und der Vertraulichkeit</li>
+<li>Muster zur Bestellung eines Datenschutzbeauftragten (DSB)</li>
+<li>Muster für die Beantwortung von Betroffenenanfragen (Auskunft nach DSGVO)</li>
+<li>Muster für Datenschutzhinweise nach Artikel 13 &amp; 14 DSGVO zum Aushängen oder unterschreiben lassen</li>
+<li>Muster Bewerbereinwilligung</li>
+<li>Muster Einwilligung Mitarbeiterfotos / Jubiläum</li>
+<li>Muster für eine Passwortrichtlinie nach DSGVO</li>
+<li>Muster für einen Tätigkeitsbericht eines DSB</li>
+</ul>
 
 ## 2. Links
 
@@ -99,7 +132,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Excel-Vorlage für die DSGVO-Dokumentation? — Typ: Downloads, Anbieter: oliengel, gelistet seit 2018-04-23
-- Wie viel kostet es? — 391.0894 USD
+- Wie viel kostet es? — 390.2169 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

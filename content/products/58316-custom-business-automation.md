@@ -4,16 +4,16 @@ digistore24_product_id: 721065
 title: "Custom Business Automation"
 vendor: "MichaMH"
 product_type: "Remote service provided electronically"
-price: 2229.99
+price: 2225.02
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 446
+earnings_per_sale: 445
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://affyro.com/ki-automatisierung.html?aff=adminstore#aff=adminstore"
 sales_page: "https://affyro.com/ki-automatisierung.html"
@@ -22,16 +22,16 @@ language: "de"
 # Custom Business Automation
 
 > Product ID `58316` · Digistore24 productId `721065` · [HTML profile page](../../produkte/custom-business-automation-58316.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2229.99 (Single payment, Installment) |
+| Price | $2225.02 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $446.00 |
+| Earnings/sale* | $445.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MichaMH |
@@ -41,7 +41,21 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** VIP High-Ticket Deal: Fast 400 € Provision pro Kunden-Projekt! Für anspruchsvolle Firmenkunden: Der Custom Business Automation Service verknüpft zwei Kern-Systeme (z. B. CRM an Buchhaltung) über API-Schnittstellen und eliminiert manuelle Datenübertragung. Deine Vorteile als Partner: Top-Provisionshöhe: Unschlagbare 398,00 € Provision pro vermitteltem Basis-Projekt (20 % Provision). Hoher Vertrauen…
+**Vendor's marketplace description:** <p><strong>VIP High-Ticket Deal: Fast 400 € Provision pro Kunden-Projekt!</strong></p>
+<p>Für anspruchsvolle Firmenkunden: Der <strong>Custom Business Automation Service</strong> verknüpft zwei Kern-Systeme (z. B. CRM an Buchhaltung) über API-Schnittstellen und eliminiert manuelle Datenübertragung.</p>
+<p><strong>Deine Vorteile als Partner:</strong></p>
+<ul>
+<li>
+<p><strong>Top-Provisionshöhe:</strong> Unschlagbare <strong>398,00 €</strong> Provision pro vermitteltem Basis-Projekt (20 % Provision).</p>
+</li>
+<li>
+<p><strong>Hoher Vertrauensbonus:</strong> Festpreis-Angebot für eine Leistung, die Agenturen sonst für 5.000 €+ anbieten.</p>
+</li>
+<li>
+<p><strong>Perfekter Upsell:</strong> Ideal für Zielgruppen, die bereits Tools wie Make.com, n8n, Zapier, HubSpot oder Lexware nutzen.</p>
+</li>
+</ul>
+<p><strong>Empfohlen für:</strong> B2B-Netzwerke, IT-Consultants, SaaS-Reviewer und Finance/Business-Channels.</p>
 
 ## 2. Links
 
@@ -77,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Custom Business Automation? — Typ: Remote service provided electronically, Anbieter: MichaMH, gelistet seit 2026-08-12
-- Wie viel kostet es? — 2229.994 USD
+- Wie viel kostet es? — 2225.0190000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

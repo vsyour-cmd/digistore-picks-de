@@ -4,34 +4,34 @@ digistore24_product_id: 726292
 title: "INFINITY SPORT PRO  KI-Sportcoach für Training und Ernährung"
 vendor: "uweboehle47cf"
 product_type: "Software"
-price: 32.87
+price: 32.79
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 11.51
+earnings_per_sale: 11.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59445/adminstore/"
 sales_page: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php"
 language: "de"
 ---
 # INFINITY SPORT PRO  KI-Sportcoach für Training und Ernährung
 
 > Product ID `59445` · Digistore24 productId `726292` · [HTML profile page](../../produkte/infinity-sport-pro-ki-sportcoach-f-r-training-und-ern-hrung-59445.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $32.87 (Single payment) |
+| Price | $32.79 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $11.51 |
+| Earnings/sale* | $11.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | uweboehle47cf |
@@ -41,11 +41,46 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** INFINITY SPORT PRO INFINITY SPORT PRO ist eine KI-gestützte Web-App und ein digitaler Sportcoach für Menschen, die Training, Ernährung, Regeneration und Leistungsentwicklung gezielter planen und analysieren möchten. INFINITY SPORT unterstützt unter anderem bei: Trainingsplanung und Trainingsoptimierung Muskelaufbau und Krafttraining Ausdauer und Leistungsentwicklung Ernährung und Zielerreichung Re…
+**Vendor's marketplace description:** <h2><strong>INFINITY SPORT PRO</strong></h2>
+<p><strong>INFINITY SPORT PRO ist eine KI-gestützte Web-App und ein digitaler Sportcoach für Menschen, die Training, Ernährung, Regeneration und Leistungsentwicklung gezielter planen und analysieren möchten.</strong></p>
+<p>INFINITY SPORT unterstützt unter anderem bei:</p>
+<ul>
+<li>Trainingsplanung und Trainingsoptimierung</li>
+<li>Muskelaufbau und Krafttraining</li>
+<li>Ausdauer und Leistungsentwicklung</li>
+<li>Ernährung und Zielerreichung</li>
+<li>Regeneration und Belastungssteuerung</li>
+<li>Analyse von Trainingsfortschritten</li>
+<li>Anpassung des Trainings an die aktuelle Situation</li>
+</ul>
+<h3><strong>So funktioniert INFINITY SPORT:</strong></h3>
+<p>Der Nutzer wählt zunächst die relevanten Angaben und Rahmenbedingungen aus und beschreibt anschließend seine persönliche Situation, sein Ziel und besondere Umstände. Auf dieser Grundlage erstellt INFINITY SPORT eine individuelle Auswertung und hilft dabei, die nächsten sinnvollen Schritte einzuordnen.</p>
+<h3><strong>So wird das Analyse-Guthaben verwendet:</strong></h3>
+<ul>
+<li><strong>Neue SPORT-Analyse:</strong> 1 Analyse</li>
+<li><strong>Analyse als Thema speichern und aktivieren:</strong> 2 Analysen</li>
+<li><strong>Gespeichertes Thema fortsetzen:</strong> 1 Analyse je Fortsetzung</li>
+<li><strong>Lebensmittelscanner / Rezept-Idee:</strong> 2 Analysen</li>
+<li><strong>Neuen Trainingsplan speichern und aktivieren:</strong> 3 Analysen</li>
+<li><strong>Bestehenden Trainingsplan fortführen oder anpassen:</strong> 1 Analyse je Fortsetzung</li>
+</ul>
+<p>Das reine Ansehen bereits vorhandener Ergebnisse oder gespeicherter Trainingspläne verbraucht kein zusätzliches Analyse-Guthaben.</p>
+<h3><strong>INFINITY SPORT PRO enthält:</strong></h3>
+<ul>
+<li>50 Analysen + 5 Analysen zusätzlich</li>
+<li>bis zu 3 gleichzeitig verfügbare Trainingspläne</li>
+<li><strong>5 Nutzungen des Lebensmittelscanners innerhalb eines 7-Tage-Fensters inklusive, maximal 1 Nutzung pro Tag</strong></li>
+<li>persönliches INFINITY-SPORT-Konto</li>
+<li>Guthaben ohne Abonnement</li>
+<li>12 Monate gültig</li>
+</ul>
+<h3><strong>Technische Nutzung:</strong></h3>
+<p>INFINITY SPORT wird als <strong>Web-App direkt über den Internetbrowser</strong> genutzt. Eine Installation ist nicht erforderlich. Für die Nutzung wird eine <strong>Internetverbindung benötigt; dabei kann Datenvolumen verbraucht werden.</strong></p>
+<p><strong>Für Affiliates:</strong> INFINITY SPORT PRO ist eine browserbasierte KI-Sportanwendung für Freizeit-, Fitness- und ambitionierte Sportler. Das Produkt kann nach dem Kauf direkt genutzt werden und kombiniert individuelle Sportanalysen mit Trainingsplanung und Lebensmittelscanner.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59445/adminstore/
 - Sales page: https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php
 - Vendor affiliate support: https://infinity-sport.business-coach-uwe-boehle.ch/affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/726292/adminstore
@@ -74,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist INFINITY SPORT PRO  KI-Sportcoach für Training und Ernährung? — Typ: Software, Anbieter: uweboehle47cf, gelistet seit 2026-09-21
-- Wie viel kostet es? — 32.867198 USD
+- Wie viel kostet es? — 32.793873 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

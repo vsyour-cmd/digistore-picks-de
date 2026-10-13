@@ -4,34 +4,34 @@ digistore24_product_id: 734882
 title: "MONEY – Geldregeln für KI-Agenten (CONTROL SERIES)"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 62.63
+price: 62.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.32
+earnings_per_sale: 31.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://money-03.pages.dev/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59371/adminstore/"
 sales_page: "https://money-03.pages.dev/"
 language: "de"
 ---
 # MONEY – Geldregeln für KI-Agenten (CONTROL SERIES)
 
 > Product ID `59371` · Digistore24 productId `734882` · [HTML profile page](../../produkte/money-geldregeln-f-r-ki-agenten-control-series-59371.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $62.63 (Single payment) |
+| Price | $62.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.32 |
+| Earnings/sale* | $31.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digitales Arbeitsbuch: Kauf- und Abo-Grenzen für KI-Agenten. Kern: ZAHLUNG ≠ VERPFLICHTUNG. Premium 59,80 €, 50 % Commission. Klare Salespage, Digistore24 Checkout. Bildungs-Workbook keine Finanzberatung, keine Einkommensversprechen.
+**Vendor's marketplace description:** <p>Digitales Arbeitsbuch: Kauf- und Abo-Grenzen für KI-Agenten. Kern: ZAHLUNG ≠ VERPFLICHTUNG. Premium 59,80 €, 50 % Commission. Klare Salespage, Digistore24 Checkout. Bildungs-Workbook  keine Finanzberatung, keine Einkommensversprechen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://money-03.pages.dev/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59371/adminstore/
 - Sales page: https://money-03.pages.dev/
 - Vendor affiliate support: https://money-03.pages.dev/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/734882/adminstore
@@ -91,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist MONEY – Geldregeln für KI-Agenten (CONTROL SERIES)? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-19
-- Wie viel kostet es? — 62.630334000000005 USD
+- Wie viel kostet es? — 62.490609000000006 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

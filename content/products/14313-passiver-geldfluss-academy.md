@@ -4,34 +4,34 @@ digistore24_product_id: 101703
 title: "Passiver Geldfluss Academy"
 vendor: "Hegder"
 product_type: "Member area and video courses"
-price: 32.96
+price: 32.88
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.88
+earnings_per_sale: 9.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2016-10-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://passivergeldfluss.academy?aff=adminstore#aff=adminstore"
+promo_link: "http://thomasschlechter.de/produkte/das-drehbuch-meines-lebens/#aff=adminstore"
 sales_page: "https://passivergeldfluss.academy"
 language: "de"
 ---
 # Passiver Geldfluss Academy
 
 > Product ID `14313` · Digistore24 productId `101703` · [HTML profile page](../../produkte/passiver-geldfluss-academy-14313.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.96 (Subscription) |
+| Price | $32.88 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.88 |
+| Earnings/sale* | $9.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hegder |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Weg zur finanziellen Unabhängigkeit! An fast keiner Schule oder Universität lernen wir den richtigen Umgang mit Geld oder wie man es klug investiert. In der Passiver Geldfluss Academy kann jeder das notwendige Wissen und die Fähigkeiten erlernen, um finanzielle Unabhängigkeit zu erreichen. Elf Module mit abgeschlossenen Themengebieten mit jeweils rund zehn Lektionen Lektionen sind in Videos mi…
+**Vendor's marketplace description:** <p>Der Weg zur finanziellen Unabhängigkeit!</p>
+<p>An fast keiner Schule oder Universität lernen wir den richtigen Umgang mit Geld oder wie man es klug investiert. In der Passiver Geldfluss Academy kann jeder das notwendige Wissen und die Fähigkeiten erlernen, um finanzielle Unabhängigkeit zu erreichen.</p>
+<ul><li>Elf Module mit abgeschlossenen Themengebieten mit jeweils rund zehn Lektionen</li>
+<li>Lektionen sind in Videos mit einer Länge von meist 5 bis 10 Minuten unterteilt</li>
+<li>Ergänzende pdf-Dokumente mit Links und zusätzlichen Inhalten<br />Zu sechs Modulen werden einmal pro Monat aktuelle Themen oder neue Informationen präsentiert</li>
+<li>In jedem Modul ist das Wissen eines Experten aus dem jeweiligen Fachbereich enthalten</li>
+<li>Interner Bereich für Fragen und zum Erfahrungs-Austausch der Academy-Mitglieder</li>
+</ul><p>Ziel der Mitgliedschaft ist einerseits das <strong>Erschaffen zusätzlicher Einkommensströme</strong>, in dem die neuen digitalen Möglichkeiten erlernt werden und das <strong>entsprechende Mindset angepasst wird</strong>. Zum anderen erhalten die Mitglieder eine umfassende Ausbildung, wie sie <strong>klug investieren</strong> können, um sowohl <strong>Vermögen aufzubauen</strong> als auch <strong>passives Einkommen zu erschaffen</strong>.</p>
+<p>Für jedes geworbene Mitglied gibt es eine <strong>Lifetime-Provision von 30%</strong>. Durch zeitversetzte Freischaltung der Module und regelmäßig neuer Inhalte besteht eine längere Verweildauer der Mitglieder. Die <strong>Stornoquote von unter 2,0%</strong> spricht für die Qualität des Academy-Mitgliederbereiches.</p>
+<p><span style="color:#000000;"><strong>Hinweis:</strong></span> Der erste Monat der Mitgliedschaft kostet nur 5 Euro, ab dem zweiten Monat beträgt die Mitgliedsgebühr 35 Euro.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://passivergeldfluss.academy?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://thomasschlechter.de/produkte/das-drehbuch-meines-lebens/#aff=adminstore
 - Sales page: https://passivergeldfluss.academy
 - Vendor affiliate support: http://passivergeldfluss.academy/empfehlung
 - Canonical redirect: https://www.digistore24.com/redir/101703/adminstore
@@ -59,7 +68,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Passiver Geldfluss Academy? — Typ: Member area and video courses, Anbieter: Hegder, gelistet seit 2016-10-27
-- Wie viel kostet es? — 32.956846 USD
+- Wie viel kostet es? — 32.883321 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

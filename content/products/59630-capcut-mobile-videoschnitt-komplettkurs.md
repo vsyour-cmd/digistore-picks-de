@@ -4,16 +4,16 @@ digistore24_product_id: 734135
 title: "CapCut Mobile Videoschnitt Komplettkurs"
 vendor: "AndreasLang"
 product_type: "Member area and video courses"
-price: 44.26
+price: 44.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.13
+earnings_per_sale: 22.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Photography & Film","Social Media"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/734135?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/734135"
@@ -22,16 +22,16 @@ language: "de"
 # CapCut Mobile Videoschnitt Komplettkurs
 
 > Product ID `59630` · Digistore24 productId `734135` · [HTML profile page](../../produkte/capcut-mobile-videoschnitt-komplettkurs-59630.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $44.26 (Single payment) |
+| Price | $44.16 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.13 |
+| Earnings/sale* | $22.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AndreasLang |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Unsere Plattform Affiliateking.net – nutze sie, um zusätzlich zu den Provisionen saftige Zusatzeinnahmen zu kassieren. Hier direkt zur Partnerseite + Werbemittel - klick Außerdem gibt es eine Rangliste mit Awards und weiteren Vorteilen. Hier die aktuelle Rangliste - klick Eventuell stehst du schon drauf, ohne dass du es weißt – prüfe es also schnell ;-)
+**Vendor's marketplace description:** <h3><strong>Unsere Plattform <a href="https://affiliateking.net/" target="_blank" rel="noreferrer noopener">Affiliateking.net</a> – nutze sie, um zusätzlich zu den Provisionen saftige Zusatzeinnahmen zu kassieren.<br /></strong></h3>
+<hr />
+<h4><br /><a href="https://affiliateking.net/" target="_blank" rel="noreferrer noopener"><strong>Hier direkt zur Partnerseite + Werbemittel - klick</strong></a></h4>
+<h4>Außerdem gibt es eine Rangliste mit Awards und weiteren Vorteilen.</h4>
+<h4><a href="https://affiliateking.net/wettbewerb" target="_blank" rel="noreferrer noopener"><strong>Hier die aktuelle Rangliste - klick</strong></a></h4>
+<h4>Eventuell stehst du schon drauf, ohne dass du es weißt – prüfe es also schnell ;-)</h4>
 
 ## 2. Links
 
@@ -79,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist CapCut Mobile Videoschnitt Komplettkurs? — Typ: Member area and video courses, Anbieter: AndreasLang, gelistet seit 2026-09-24
-- Wie viel kostet es? — 44.2637 USD
+- Wie viel kostet es? — 44.164950000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

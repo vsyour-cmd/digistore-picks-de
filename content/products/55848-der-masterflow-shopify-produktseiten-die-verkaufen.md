@@ -4,16 +4,16 @@ digistore24_product_id: 674258
 title: "Der Masterflow: Shopify-Produktseiten die verkaufen"
 vendor: "herkulez15df"
 product_type: "Downloads"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 18.46
+earnings_per_sale: 18.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-03-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/674258?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/674258"
@@ -22,16 +22,16 @@ language: "de"
 # Der Masterflow: Shopify-Produktseiten die verkaufen
 
 > Product ID `55848` · Digistore24 productId `674258` · [HTML profile page](../../produkte/der-masterflow-shopify-produktseiten-die-verkaufen-55848.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $18.46 |
+| Earnings/sale* | $18.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | herkulez15df |
@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 30 Prompts. 7 Schritte. Eine vollständige Shopify-Produktseite inklusive Anzeigen und SEO — in 45 Minuten. Für deutschsprachige Shopify-Händler die aufgehört haben zu hoffen dass es sich irgendwie ergibt. Jede Nische. Sofort einsetzbar. Version 3.
+**Vendor's marketplace description:** <p>30 Prompts. 7 Schritte. Eine vollständige Shopify-Produktseite inklusive Anzeigen und SEO — in 45 Minuten. Für deutschsprachige Shopify-Händler die aufgehört haben zu hoffen dass es sich irgendwie ergibt. Jede Nische. Sofort einsetzbar. Version 3.</p>
 
 ## 2. Links
 
@@ -79,7 +79,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Masterflow: Shopify-Produktseiten die verkaufen? — Typ: Downloads, Anbieter: herkulez15df, gelistet seit 2026-03-06
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 259134
 title: "Lerny.de - dein eigener Mitgliederbereich"
 vendor: "webagentur"
 product_type: "Downloads"
-price: 685.81
+price: 684.28
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 171.45
+earnings_per_sale: 171.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2019-02-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://lerny.de?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/28041/adminstore/"
 sales_page: "https://lerny.de"
 language: "de"
 ---
 # Lerny.de - dein eigener Mitgliederbereich
 
 > Product ID `28041` · Digistore24 productId `259134` · [HTML profile page](../../produkte/lerny-de-dein-eigener-mitgliederbereich-28041.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $685.81 (Subscription) |
+| Price | $684.28 (Subscription) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $171.45 |
+| Earnings/sale* | $171.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | webagentur |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit nur wenigen Klicks zum eigenen Mitgliederbereich Du möchtest Online Kurse anbieten, du benötigst einen eigenen Mitgliederbereich und du möchtest deine Kurse vollautomatisch verkaufen, wenn möglich über Digistore24? Dann ist lerny gernau das Richtige für dich. Lerny bietet für Kursersteller einen eigenen Adminbereich und für dessen Kursteilnehmer einen modern gestalteten Mitgliederbereich. Die …
+**Vendor's marketplace description:** <h4><span style="color:#000000;">Mit nur wenigen Klicks zum eigenen Mitgliederbereich</span></h4>
+<p><span style="color:#000080;">Du möchtest Online Kurse anbieten, du benötigst einen eigenen Mitgliederbereich und du möchtest deine Kurse vollautomatisch verkaufen, wenn möglich über Digistore24? Dann ist lerny gernau das Richtige für dich.</span></p>
+<p><span style="color:#000080;">Lerny bietet für Kursersteller einen eigenen Adminbereich und für dessen Kursteilnehmer einen modern gestalteten Mitgliederbereich. Die Anbindung an Digistore24 erfolgt mit nur einem Klick.</span></p>
+<p><span style="color:#000080;">Deine Online Kurse zu hosten und vermarkten war noch nie so einfach, du benötigst dafür nicht einmal WordPress bzw. dafür notwendige Plugins.</span><br /><br /></p>
+<p><span style="color:#ff0000;">Besuche jetzt unser <a style="color:#ff0000;" href="https://lerny.de/partnerprogramm" target="_blank" rel="noreferrer noopener">Affiliate Center</a>, um ab sofort Provisionen zu verdienen!</span></p>
+<p><span style="color:#333399;">Du kannst mit lerny auch Tests und Prüfungen erstellen. Somit können die Mitglieder ihr Wissen jederzeit überprüfen.</span></p>
+<p><span style="color:#333399;">Module lassen sich nach einer Anzahl an bestimmten Tagen automatisch freischalten.</span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lerny.de?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/28041/adminstore/
 - Sales page: https://lerny.de
 - Vendor affiliate support: https://lerny.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/259134/adminstore
@@ -83,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lerny.de - dein eigener Mitgliederbereich? — Typ: Downloads, Anbieter: webagentur, gelistet seit 2019-02-04
-- Wie viel kostet es? — 685.8072000000001 USD
+- Wie viel kostet es? — 684.2772000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

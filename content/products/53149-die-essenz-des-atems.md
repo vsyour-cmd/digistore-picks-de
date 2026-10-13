@@ -4,34 +4,34 @@ digistore24_product_id: 621331
 title: "Die Essenz des Atems"
 vendor: "MyhappyCoach"
 product_type: "Member area and video courses"
-price: 36.72
+price: 36.64
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 11.02
+earnings_per_sale: 10.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-06-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://muttererde-transformation-days.net/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53149/adminstore/"
 sales_page: "https://muttererde-transformation-days.net/"
 language: "de"
 ---
 # Die Essenz des Atems
 
 > Product ID `53149` · Digistore24 productId `621331` · [HTML profile page](../../produkte/die-essenz-des-atems-53149.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $36.72 (Single payment) |
+| Price | $36.64 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $11.02 |
+| Earnings/sale* | $10.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MyhappyCoach |
@@ -41,11 +41,37 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** MutterErde® - Transformation Days Die Essenz des Atems(inkl. Aufzeichnung) Rückverbindung & Lebenskraft In einer Welt, die uns ständig antreibt und unter Druck setzt, ist echter Ausgleich selten geworden. Bei unseren Transformation-Days zum Thema „Die Kraft des Atems“ schenken wir Dir einen Raum, in dem Du in die Stille Deines Inneren eintauchst. Hier findest Du: Tiefgreifende Werkzeuge, die Du so…
+**Vendor's marketplace description:** <p>MutterErde® - Transformation Days</p>
+<h2><strong>Die Essenz des Atems<br />(inkl. Aufzeichnung)</strong></h2>
+<h4>Rückverbindung &amp; Lebenskraft</h4>
+<p>In einer Welt, die uns ständig antreibt und unter Druck setzt, ist echter Ausgleich selten geworden. Bei unseren Transformation-Days zum Thema <strong>„Die Kraft des Atems“</strong> schenken wir Dir einen Raum, in dem Du in die Stille Deines Inneren eintauchst. Hier findest Du:</p>
+<ul>
+<li>
+<p><strong>Tiefgreifende Werkzeuge</strong>, die Du sofort in Deinen Alltag integrieren kannst</p>
+</li>
+<li>
+<p><strong>Mentale Entlastung</strong>, die Stress und Erschöpfung nachhaltig reduziert</p>
+</li>
+<li>
+<p><strong>Intensive Gruppenrituale</strong>, die Dein Wir-Gefühl stärken und heilsame Verbundenheit schaffen</p>
+</li>
+<li>
+<p><strong>Wissenschaftlich fundierte</strong> und zugleich <strong>spirituell geerdete</strong> Impulse</p>
+</li>
+</ul>
+<p>Erlebe, wie ein bewusster Atemzyklus Dein ganzes System in Fluss bringt und Dich in Deine volle Lebendigkeit zurückholt.</p>
+<p><br />Das Alles-in-deinem-Tempo-Paket beinhaltet folgende Inhalte:</p>
+<ul>
+<li>Alle Beiträge ab dem 20. Juli 2025, ab 9.30 Uhr online anschauen.</li>
+<li>Alle Aufzeichnung (ab dem 20.Juli) zum online schauen in unserem geschützten Mitgliederbereich.</li>
+<li>Die Aufzeichnungen stehen Dir für mind. 1 Jahr zur Verfügung.</li>
+<li>Alle Interviews auch als Video- &amp; Audio Download.</li>
+<li>14-tägiges Rückgaberecht - ohne wenn &amp; aber</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://muttererde-transformation-days.net/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53149/adminstore/
 - Sales page: https://muttererde-transformation-days.net/
 - Vendor affiliate support: https://muttererde-transformation-days.net/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/621331/adminstore
@@ -84,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die Essenz des Atems? — Typ: Member area and video courses, Anbieter: MyhappyCoach, gelistet seit 2025-06-30
-- Wie viel kostet es? — 36.72206200000001 USD
+- Wie viel kostet es? — 36.64013700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

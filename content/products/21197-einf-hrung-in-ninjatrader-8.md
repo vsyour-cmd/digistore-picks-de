@@ -4,34 +4,34 @@ digistore24_product_id: 183803
 title: "Einführung in NinjaTrader 8"
 vendor: "HBreuerTrading"
 product_type: "Downloads"
-price: 226
+price: 225.5
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 79.1
+earnings_per_sale: 78.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2017-11-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://hbreuer-trading.de/video-trainings/einfuehrung-in-ninjatrader-8/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/21197/adminstore/"
 sales_page: "http://hbreuer-trading.de/video-trainings/einfuehrung-in-ninjatrader-8/"
 language: "de"
 ---
 # Einführung in NinjaTrader 8
 
 > Product ID `21197` · Digistore24 productId `183803` · [HTML profile page](../../produkte/einf-hrung-in-ninjatrader-8-21197.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $226.00 (Single payment) |
+| Price | $225.50 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $79.10 |
+| Earnings/sale* | $78.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HBreuerTrading |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Im ersten deutschsprachigen Video-Training "Einführung in NinjaTrader 8" erfahren Sie in über 8 Stunden Videomaterial, wie Sie mit NinjaTrader 8 umgehen. Von der Installation, zur Datenanbindung über Charting, MarketReplay, bis hin zur Erstellung eines profitablen Handelssystems wird in insgesamt 16 Videos alles vermittelt, um mit NinjaTrader 8 erfolgreich zu Traden. Zudem erhalten Sie den Sourcec…
+**Vendor's marketplace description:** <p>Im ersten deutschsprachigen Video-Training "Einführung in NinjaTrader 8" erfahren Sie in über <strong>8 Stunden Videomaterial</strong>, wie Sie mit <strong>NinjaTrader 8</strong> umgehen.</p>
+<p><br />Von der Installation, zur Datenanbindung über Charting, MarketReplay, bis hin zur Erstellung eines <strong>profitablen Handelssystems</strong> wird in insgesamt <strong>16 Videos</strong> alles vermittelt, um mit NinjaTrader 8 erfolgreich zu Traden.</p>
+<p>Zudem erhalten Sie den <strong>Sourcecode des Handelssystems</strong>, den Sie im StrategyBuilder erweitern und nach Ihren Vorstellungen anpassen können.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://hbreuer-trading.de/video-trainings/einfuehrung-in-ninjatrader-8/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/21197/adminstore/
 - Sales page: http://hbreuer-trading.de/video-trainings/einfuehrung-in-ninjatrader-8/
 - Canonical redirect: https://www.digistore24.com/redir/183803/adminstore
 
@@ -81,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einführung in NinjaTrader 8? — Typ: Downloads, Anbieter: HBreuerTrading, gelistet seit 2017-11-29
-- Wie viel kostet es? — 226.002608 USD
+- Wie viel kostet es? — 225.49840800000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

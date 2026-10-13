@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2016-06-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/11937/adminstore/"
 sales_page: "http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook"
 language: "de"
 ---
 # Logbuch Segeln. Puro.
 
 > Product ID `11937` · Digistore24 productId `83121` · [HTML profile page](../../produkte/logbuch-segeln-puro-11937.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Logbuch Segeln. Puro. PDF - Sofort-Selber-Drucken erweiterte Logbuch-Seiten für Charter-Skipper für 6 Törns, 160 Seiten farbig oder s/w drucken, DIN A4 oder A5 sofort runterladen - drucken - segeln _/)_ Details: www.charter-logbuch.de Bonus: Checklisten für Segeltörns zur Vorbereitung
+**Vendor's marketplace description:** <h2>Logbuch Segeln. Puro.</h2>
+<h2>PDF - Sofort-Selber-Drucken</h2>
+<ul>
+<li>erweiterte Logbuch-Seiten f&uuml;r Charter-Skipper</li>
+<li>f&uuml;r 6 T&ouml;rns, 160 Seiten</li>
+<li>farbig oder s/w drucken, DIN A4 oder A5</li>
+<li>sofort runterladen - drucken - segeln _/)_</li>
+<li>Details: <a title="Logbuch Segeln. Puro. PDF zum Sofort-Selber-Drucken" href="http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook" target="_blank">www.charter-logbuch.de</a></li>
+<li><strong>Bonus:</strong> <a title="eBook: Checklisten f&uuml;r Segelt&ouml;rns zur Vorbereitung" href="http://charter-logbuch.de/index.php/downloads/epub-checklisten-fuer-segeltoerns" target="_blank">Checklisten f&uuml;r Segelt&ouml;rns zur Vorbereitung</a></li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/11937/adminstore/
 - Sales page: http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook
 - Canonical redirect: https://www.digistore24.com/redir/83121/adminstore
 
@@ -83,7 +92,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Logbuch Segeln. Puro.? — Typ: Downloads, Anbieter: Ludwig-Brackmann, gelistet seit 2016-06-04
-- Wie viel kostet es? — 2.812706 USD
+- Wie viel kostet es? — 2.806431 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 267322
 title: "Das RESET 6 Wochen Schulterprogramm"
 vendor: "myreset"
 product_type: "E-books"
-price: 66.27
+price: 66.12
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 18.6
+earnings_per_sale: 18.56
 cart_conversion_pct: 29
 cancel_rate_pct: 0.05
 categories: ["Sport"]
 listed_since: "2019-04-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://my-reset.com/schulterprogramm?aff=adminstore#aff=adminstore"
+promo_link: "http://www.speedreadingsoftware.de/srt-3/#aff=adminstore"
 sales_page: "http://my-reset.com/schulterprogramm"
 language: "de"
 ---
 # Das RESET 6 Wochen Schulterprogramm
 
 > Product ID `28649` · Digistore24 productId `267322` · [HTML profile page](../../produkte/das-reset-6-wochen-schulterprogramm-28649.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $66.27 (Single payment) |
+| Price | $66.12 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $18.60 |
+| Earnings/sale* | $18.56 |
 | Cart conversion* | 29% |
 | Cancel rate* | 0.05% |
 | Vendor | myreset |
@@ -41,11 +41,34 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das RESET 6 Wochen Schulter-Mobility-Programm ist online! Mit diesem Programm machen wir Deine Schulter beweglich und stark! Diese Inhalte erwarten Dich: Strukturierter 6 Wochen Trainingsplan mit verschiedenen Intensitätsleveln Mehr als 30 Videos - erklärt durch Bild, Video und Ton 60-minütiges Webinar zum Thema "Beweglich & stark, Deine Schulter" Einfach ins eigene Training integrierbar: als Warm…
+**Vendor's marketplace description:** <p>Das RESET 6 Wochen Schulter-Mobility-Programm ist online!</p>
+<p>Mit diesem Programm machen wir Deine Schulter beweglich und stark!</p>
+<div>
+<p>Diese Inhalte erwarten Dich:</p>
+<ul><li>Strukturierter 6 Wochen Trainingsplan mit verschiedenen Intensitätsleveln</li>
+</ul><p> </p>
+<ul><li>Mehr als 30 Videos - erklärt durch Bild, Video und Ton</li>
+</ul><p> </p>
+<ul><li>60-minütiges Webinar zum Thema "Beweglich &amp; stark, Deine Schulter"</li>
+</ul><p> </p>
+<ul><li>Einfach ins eigene Training integrierbar: als Warm-Up, Cool-Down oder auch als eigenständiger Trainingsteil</li>
+</ul><p> </p>
+<ul><li>Ganzheitlicher Ansatz: Integration von Wirbelsäule, Atemdrills und Gelenksrotationen</li>
+</ul><p> </p>
+<ul><li>Kein Ablaufdatum - Einmal erworben, für immer Deins!</li>
+</ul><p> </p>
+<ul><li>Mit Vorwort von <a>Johannes Kwella</a></li>
+</ul><p> </p>
+<p>UND vielen weiteren wertvollen Inhalten!</p>
+<p> </p>
+<p>Wer mehr weiß, kann mehr bewegen.</p>
+<p>Bleib geschmeidig!</p>
+<p>Dein Mobility Coach Benni</p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://my-reset.com/schulterprogramm?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://www.speedreadingsoftware.de/srt-3/#aff=adminstore
 - Sales page: http://my-reset.com/schulterprogramm
 - Canonical redirect: https://www.digistore24.com/redir/267322/adminstore
 
@@ -85,7 +108,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Das RESET 6 Wochen Schulterprogramm? — Typ: E-books, Anbieter: myreset, gelistet seit 2019-04-09
-- Wie viel kostet es? — 66.272284 USD
+- Wie viel kostet es? — 66.12443400000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

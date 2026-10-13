@@ -4,34 +4,34 @@ digistore24_product_id: 164599
 title: "EGroupware - Das Online Teamwork Tool"
 vendor: "egroupware"
 product_type: "Downloads"
-price: 279.03
+price: 278.41
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 55.81
+earnings_per_sale: 55.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2017-09-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.egroupware.org/de/preise?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/14745/adminstore/"
 sales_page: "https://www.egroupware.org/de/preise"
 language: "de"
 ---
 # EGroupware - Das Online Teamwork Tool
 
 > Product ID `14745` · Digistore24 productId `164599` · [HTML profile page](../../produkte/egroupware-das-online-teamwork-tool-14745.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $279.03 (Subscription) |
+| Price | $278.41 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $55.81 |
+| Earnings/sale* | $55.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | egroupware |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** EGroupware bietet einen Online Kalender für die Organisation von Events und Ressourcen, das Kontaktmanagement mit CRM, eine Aufgaben-Verwaltung, sowie einen Online Fileserver, der durch Projektmanagement und Ticketsystem abgerundet wird. Die Groupware vernetzt alle Informationen auf einer online Unternehmensplattform. Die Lösung läuft unabhängig von Betriebssystemen auf jedem Desktop-Browser und i…
+**Vendor's marketplace description:** <p>EGroupware bietet einen Online Kalender für die Organisation von Events und Ressourcen, das Kontaktmanagement mit CRM, eine Aufgaben-Verwaltung, sowie einen Online Fileserver, der durch Projektmanagement und Ticketsystem abgerundet wird.</p>
+<p>Die Groupware vernetzt alle Informationen auf einer online Unternehmensplattform. Die Lösung läuft unabhängig von Betriebssystemen auf jedem Desktop-Browser und in der mobilen Version auch auf Smartphones und Tablets.</p>
+<p>Weitere Informationen finden Sie auf www.egroupware.org</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.egroupware.org/de/preise?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/14745/adminstore/
 - Sales page: https://www.egroupware.org/de/preise
 - Vendor affiliate support: https://www.egroupware.org/de/reseller-werden
 - Canonical redirect: https://www.digistore24.com/redir/164599/adminstore
@@ -101,7 +103,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EGroupware - Das Online Teamwork Tool? — Typ: Downloads, Anbieter: egroupware, gelistet seit 2017-09-20
-- Wie viel kostet es? — 279.0294 USD
+- Wie viel kostet es? — 278.4069 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

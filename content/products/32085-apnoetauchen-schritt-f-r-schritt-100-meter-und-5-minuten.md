@@ -4,34 +4,34 @@ digistore24_product_id: 314290
 title: "Apnoetauchen Schritt-für-Schritt 100 Meter und 5 Minuten"
 vendor: "SOjstersek"
 product_type: "E-books"
-price: 11.15
+price: 11.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.58
+earnings_per_sale: 5.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2020-03-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.freitauchen-lernen.com/apnoetauchen-ebook/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/32085/adminstore/"
 sales_page: "https://www.freitauchen-lernen.com/apnoetauchen-ebook/"
 language: "de"
 ---
 # Apnoetauchen Schritt-für-Schritt 100 Meter und 5 Minuten
 
 > Product ID `32085` · Digistore24 productId `314290` · [HTML profile page](../../produkte/apnoetauchen-schritt-f-r-schritt-100-meter-und-5-minuten-32085.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.15 (Single payment) |
+| Price | $11.13 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.58 |
+| Earnings/sale* | $5.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SOjstersek |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Teil der zunehmenden Beliebtheit des Apnoetauchens und baue dir ein passives Einkommen auf. Durch die geringe Eintrittsbarriere ist die Conversionrate unglaublich gut. Meine Kunden durchlaufen einen Sales Funnel und erhalten Zugriff auf ein einmaliges Angebot, welches ca. 10-15 % aller Käufer/innen annehmen. Den 1-Click Order Bump "Essential Freediving Techniques" nehmen ebenfalls über 70% a…
+**Vendor's marketplace description:** <h2><span style="background-color:#3366ff;color:#ffffff;"><strong>Werde Teil der zunehmenden Beliebtheit des Apnoetauchens und baue dir ein passives Einkommen auf.</strong></span></h2>
+<p>Durch die geringe Eintrittsbarriere ist die Conversionrate unglaublich gut.</p>
+<p>Meine Kunden durchlaufen einen Sales Funnel und erhalten Zugriff auf ein einmaliges Angebot, welches ca. <strong>10-15 %</strong> aller Käufer/innen annehmen.</p>
+<p>Den <strong>1-Click Order Bump</strong> "<em>Essential Freediving Techniques</em>" nehmen ebenfalls über <strong>70% aller Käufer</strong> des Apnoetauchen eBooks wahr und erhöhen somit den Gesamtumsatz.</p>
+<p>Conversion geprüft und in <em>ständiger Optimierung</em> des Sales Funnels freue ich mich dir für jeden Verkauf <strong>50% Provision zukommen zu lassen</strong>.</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.freitauchen-lernen.com/apnoetauchen-ebook/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/32085/adminstore/
 - Sales page: https://www.freitauchen-lernen.com/apnoetauchen-ebook/
 - Vendor affiliate support: https://www.freitauchen-lernen.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/314290/adminstore
@@ -79,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Apnoetauchen Schritt-für-Schritt 100 Meter und 5 Minuten? — Typ: E-books, Anbieter: SOjstersek, gelistet seit 2020-03-20
-- Wie viel kostet es? — 11.14997 USD
+- Wie viel kostet es? — 11.125095 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

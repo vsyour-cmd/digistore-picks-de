@@ -4,16 +4,16 @@ digistore24_product_id: 633664
 title: "Einfach live visualisieren - für Coaches, Berater, Trainer"
 vendor: "JoergSchmidt"
 product_type: "Member area and video courses"
-price: 155.76
+price: 155.42
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 62.31
+earnings_per_sale: 62.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-09-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://einfach-visualisieren.coachy.net/lp/einfach-live-visualisieren/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfach-visualisieren.coachy.net/lp/einfach-live-visualisieren/"
@@ -22,16 +22,16 @@ language: "de"
 # Einfach live visualisieren - für Coaches, Berater, Trainer
 
 > Product ID `53914` · Digistore24 productId `633664` · [HTML profile page](../../produkte/einfach-live-visualisieren-f-r-coaches-berater-trainer-53914.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $155.76 (Single payment) |
+| Price | $155.42 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $62.31 |
+| Earnings/sale* | $62.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JoergSchmidt |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Du möchtest im Workshop, Verkaufsgespräch, Training oder Coaching live, in Echtzeit visualisieren und damit einen wirklichen Unterschied machen? In diesem Online-Training zeige ich dir, wie du souverän und sicher die Beiträge deiner Teilnehmenden oder deines Kunden aufnimmst. Mit der Live-Visualisierung präsentierst du nicht nur Inhalte – du erzeugst ein Erlebnis. Du strukturierst den Prozess und …
+**Vendor's marketplace description:** <p>Du möchtest im Workshop, Verkaufsgespräch, Training oder Coaching live, in Echtzeit visualisieren und damit einen wirklichen Unterschied machen?</p>
+<p>In diesem Online-Training zeige ich dir, wie du souverän und sicher die Beiträge deiner Teilnehmenden oder deines Kunden aufnimmst. Mit der Live-Visualisierung präsentierst du nicht nur Inhalte – du erzeugst ein Erlebnis. Du strukturierst den Prozess und schaffst Klarheit. Du erreichst deinen Gegenüber emotional und präsentierst dich menschlich und gleichzeitig professionell. In kleinen Übungen und mit vielen Tipps lernst du das Live Visualisieren kennen.</p>
 
 ## 2. Links
 
@@ -84,7 +85,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Einfach live visualisieren - für Coaches, Berater, Trainer? — Typ: Member area and video courses, Anbieter: JoergSchmidt, gelistet seit 2025-09-04
-- Wie viel kostet es? — 155.76340000000002 USD
+- Wie viel kostet es? — 155.41590000000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

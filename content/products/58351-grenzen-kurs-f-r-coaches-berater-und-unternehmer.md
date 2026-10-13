@@ -4,34 +4,34 @@ digistore24_product_id: 720608
 title: "Grenzen-Kurs für Coaches, Berater und Unternehmer"
 vendor: "beatelindemann"
 product_type: "Member area and video courses"
-price: 420.93
+price: 419.99
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 168.37
+earnings_per_sale: 167.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Personal Development"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://beate-lindemann.systeme.io/klare-grenzen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/58351/adminstore/"
 sales_page: "https://beate-lindemann.systeme.io/klare-grenzen"
 language: "de"
 ---
 # Grenzen-Kurs für Coaches, Berater und Unternehmer
 
 > Product ID `58351` · Digistore24 productId `720608` · [HTML profile page](../../produkte/grenzen-kurs-f-r-coaches-berater-und-unternehmer-58351.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $420.93 (Single payment, Installment) |
+| Price | $419.99 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $168.37 |
+| Earnings/sale* | $167.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | beatelindemann |
@@ -41,11 +41,18 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Sichere Grenzen" ist ein Online-Videokurs für eine Zielgruppe, die im Affiliate-Marketing oft unterversorgt ist: etablierte Coaches, Berater und Unternehmer, die bereits mit hochpreisigen, anspruchsvollen Formaten arbeiten — Mastermind-Strukturen, hochpreisige 1:1-Angebote, Gruppenprogramme. Diese Zielgruppe durchschaut Marketing-Mechanismen selbst sehr genau und kauft nicht wegen Verpackung, son…
+**Vendor's marketplace description:** <p>"Sichere Grenzen" ist ein Online-Videokurs für eine Zielgruppe, die im Affiliate-Marketing oft unterversorgt ist: etablierte Coaches, Berater und Unternehmer, die bereits mit hochpreisigen, anspruchsvollen Formaten arbeiten — Mastermind-Strukturen, hochpreisige 1:1-Angebote, Gruppenprogramme.</p>
+<p>Diese Zielgruppe durchschaut Marketing-Mechanismen selbst sehr genau und kauft nicht wegen Verpackung, sondern wegen echter Substanz.</p>
+<p>Der Kurs behandelt ein Thema, das genau dort ansetzt, wo diese Zielgruppe einen blinden Fleck hat: die eigenen Grenzen. Coaches und Berater sind es gewohnt, anderen beim Grenzensetzen zu helfen — bei sich selbst versagt genau dieses Werkzeug oft. „Vom Fach sein" schützt hier nicht, es verdeckt das Problem eher.</p>
+<p>6 Module plus Integrationsmodul, rund 143 Minuten fertiges Videomaterial, dazu ein Workbook, vier Arbeitsblätter, ein Grenzen-Wegweiser und eine Teilnahmebescheinigung.</p>
+<p>Reines Selbstlernprodukt — kein Live-Call, keine Community, dafür volle Flexibilität für die Kursteilnehmer und ein Produkt, das sich ohne Betreuungsaufwand verkauft.</p>
+<p><strong>Preis: 797 € regulär, 697 € Frühbucherpreis. Ratenzahlung möglich. </strong></p>
+<p>Die Positionierung ist bewusst direkt und unbeschönigt statt beruhigend-weich — das grenzt aktiv gegen den breiten, austauschbaren Coaching-Massenmarkt ab und spricht eine Zielgruppe an, die für Klarheit auch bereit ist, einen höheren Preis zu zahlen.</p>
+<p><strong>Für Sie als Affiliate:</strong> eine klar differenzierte Nische, ein Produkt mit hoher Preisqualität statt Rabattschlacht, und eine Zielgruppe, die in vielen Coaching-Business-Netzwerken, Mastermind-Gruppen und auf LinkedIn präsent und aktiv kaufbereit ist.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://beate-lindemann.systeme.io/klare-grenzen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/58351/adminstore/
 - Sales page: https://beate-lindemann.systeme.io/klare-grenzen
 - Canonical redirect: https://www.digistore24.com/redir/720608/adminstore
 
@@ -92,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grenzen-Kurs für Coaches, Berater und Unternehmer? — Typ: Member area and video courses, Anbieter: beatelindemann, gelistet seit 2026-08-14
-- Wie viel kostet es? — 420.930978 USD
+- Wie viel kostet es? — 419.99190300000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

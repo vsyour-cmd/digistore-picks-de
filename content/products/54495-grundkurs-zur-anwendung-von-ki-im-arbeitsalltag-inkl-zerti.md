@@ -4,34 +4,34 @@ digistore24_product_id: 643686
 title: "Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti"
 vendor: "NEXperts"
 product_type: "Member area and video courses"
-price: 186.46
+price: 186.04
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 55.94
+earnings_per_sale: 55.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Personal Development"]
 listed_since: "2025-10-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://nexperts.ai/academy/ki-grundkurs-online/?bricks_preview=1761747112&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54495/adminstore/"
 sales_page: "https://nexperts.ai/academy/ki-grundkurs-online/?bricks_preview=1761747112"
 language: "de"
 ---
 # Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti
 
 > Product ID `54495` · Digistore24 productId `643686` · [HTML profile page](../../produkte/grundkurs-zur-anwendung-von-ki-im-arbeitsalltag-inkl-zerti-54495.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $186.46 (Single payment) |
+| Price | $186.04 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $55.94 |
+| Earnings/sale* | $55.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NEXperts |
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der NEXperts Grundkurs zur Anwendung von KI im Arbeitsalltag vermittelt Einsteigern praxisnahes Wissen zu KI-Tools und deren sicherem Einsatz im Arbeitsalltag. In rund 15 Stunden lernt der Teilnehmer durch Videos, interaktive Übungen und Fallbeispiele die wichtigsten Grundlagen zu Anwendung, Prompting, Compliance und AI-Act-konformer Nutzung. Nach erfolgreichem Abschluss erhältst du ein Teilnahmez…
+**Vendor's marketplace description:** <p>Der NEXperts Grundkurs zur Anwendung von KI im Arbeitsalltag vermittelt Einsteigern praxisnahes Wissen zu KI-Tools und deren sicherem Einsatz im Arbeitsalltag. In rund 15 Stunden lernt der Teilnehmer durch Videos, interaktive Übungen und Fallbeispiele die wichtigsten Grundlagen zu Anwendung, Prompting, Compliance und AI-Act-konformer Nutzung. Nach erfolgreichem Abschluss erhältst du ein Teilnahmezertifikat.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nexperts.ai/academy/ki-grundkurs-online/?bricks_preview=1761747112&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54495/adminstore/
 - Sales page: https://nexperts.ai/academy/ki-grundkurs-online/?bricks_preview=1761747112
 - Canonical redirect: https://www.digistore24.com/redir/643686/adminstore
 
@@ -101,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Grundkurs zur Anwendung von KI im Arbeitsalltag (inkl. Zerti? — Typ: Member area and video courses, Anbieter: NEXperts, gelistet seit 2025-10-24
-- Wie viel kostet es? — 186.45663399999998 USD
+- Wie viel kostet es? — 186.040659 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

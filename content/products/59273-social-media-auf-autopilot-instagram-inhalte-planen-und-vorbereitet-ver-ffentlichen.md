@@ -4,34 +4,34 @@ digistore24_product_id: 733940
 title: "Social Media auf Autopilot: Instagram-Inhalte planen und vorbereitet veröffentlichen"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 121.47
+price: 121.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 60.74
+earnings_per_sale: 60.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://einfachmitmatze.de/social-media-autopilot/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59273/adminstore/"
 sales_page: "https://einfachmitmatze.de/social-media-autopilot/"
 language: "de"
 ---
 # Social Media auf Autopilot: Instagram-Inhalte planen und vorbereitet veröffentlichen
 
 > Product ID `59273` · Digistore24 productId `733940` · [HTML profile page](../../produkte/social-media-auf-autopilot-instagram-inhalte-planen-und-vorbereitet-ver-ffentlichen-59273.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $121.47 (Single payment) |
+| Price | $121.20 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $60.74 |
+| Earnings/sale* | $60.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Für Anbieter eigener digitaler Produkte, die ihre Instagram-Inhalte mit einem nachvollziehbaren Arbeitsablauf vorbereiten möchten. Der Kurs führt von Käuferfragen zu einer kleinen Beitragsserie, einem 30-Tage-Arbeitsplan und einem kontrollierten Planungsweg mit Metricool. Das lernen KäuferAngebot und Zielgruppe klären, zwölf Themen auswählen, Hooks und Captions schreiben, Medien vorbereiten, einen…
+**Vendor's marketplace description:** <p>Für Anbieter eigener digitaler Produkte, die ihre Instagram-Inhalte mit einem nachvollziehbaren Arbeitsablauf vorbereiten möchten. Der Kurs führt von Käuferfragen zu einer kleinen Beitragsserie, einem 30-Tage-Arbeitsplan und einem kontrollierten Planungsweg mit Metricool.</p>
+<p><strong>Das lernen Käufer</strong><br />Angebot und Zielgruppe klären, zwölf Themen auswählen, Hooks und Captions schreiben, Medien vorbereiten, einen Pilotbeitrag prüfen, Veröffentlichungen planen und eine Wochenreview durchführen. Autopilot bedeutet hier vorbereiten und planen: Strategie, Freigabe, Rückfragen und Aktualisierung bleiben menschliche Aufgaben.</p>
+<p><strong>Das ist enthalten</strong><br />Sechs schriftliche Module, Arbeitsbuch als PDF und bearbeitbare Word-Datei, zwölf ausgearbeitete fiktive Beispielbeiträge, 30-Tage-Beispielplan und leere Planung als CSV, Promptvorlagen sowie Review- und Prüfhilfen.</p>
+<p><strong>Format und Voraussetzungen</strong><br />Deutschsprachiger schriftlicher Selbstlernkurs zum Herunterladen. Käufer arbeiten im eigenen Tempo und setzen die Aufgaben selbst um. Vorausgesetzt werden ein eigenes digitales Angebot und eigene Konten für den gezeigten Planungsweg. Softwarelizenzen und mögliche externe Toolkosten sind nicht enthalten. Es gibt keine zugesagten Verkäufe, Reichweite oder Zeitersparnis.</p>
+<p><strong>Preis und Partnerkonditionen</strong><br />Einmalig 129,00 € inklusive Umsatzsteuer. 50 % Affiliate-Provision gemäß der tatsächlichen Digistore24-Konfiguration. Die konkrete Auszahlung hängt von der Abrechnungsbasis und den Digistore24-Abzügen ab.</p>
+<p><strong>Fair bewerben</strong><br />Bitte als schriftliches Lernpaket mit PDF, bearbeitbarem Arbeitsbuch und Vorlagen darstellen. Kein Videokurs, Coaching oder persönliche Umsetzung. Fiktive Beispiele dürfen nicht als echte Kundenresultate dargestellt werden. Verkäufe, Einkommen oder bestimmte Geschäftsergebnisse werden nicht garantiert. Provisionsvergütete Empfehlungen müssen klar als Werbung erkennbar sein.</p>
+<p><a href="https://einfachmitmatze.de/social-media-autopilot/">Kursdetails und Lieferumfang auf der Verkaufsseite</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://einfachmitmatze.de/social-media-autopilot/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59273/adminstore/
 - Sales page: https://einfachmitmatze.de/social-media-autopilot/
 - Vendor affiliate support: https://einfachmitmatze.de/partner-733940/
 - Canonical redirect: https://www.digistore24.com/redir/733940/adminstore
@@ -95,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Social Media auf Autopilot: Instagram-Inhalte planen und vorbereitet veröffentlichen? — Typ: Downloads, Anbieter: einfachmitmatze, gelistet seit 2026-09-16
-- Wie viel kostet es? — 121.47304000000001 USD
+- Wie viel kostet es? — 121.20204000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

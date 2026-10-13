@@ -4,34 +4,34 @@ digistore24_product_id: 119253
 title: "KMM2016 Demenz - Digitales Kongresspaket"
 vendor: "AMMSpitz"
 product_type: "Member area and video courses"
-price: 117.67
+price: 117.41
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 52.95
+earnings_per_sale: 52.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-02-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-demenz/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/15377/adminstore/"
 sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-demenz/"
 language: "de"
 ---
 # KMM2016 Demenz - Digitales Kongresspaket
 
 > Product ID `15377` · Digistore24 productId `119253` · [HTML profile page](../../produkte/kmm2016-demenz-digitales-kongresspaket-15377.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $117.67 (Single payment, Installment) |
+| Price | $117.41 (Single payment, Installment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $52.95 |
+| Earnings/sale* | $52.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AMMSpitz |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kongress für menschliche Medizin - Demenz Das Paket enthält die Aufzeichnung der Vorträge beider Kongresstage (16.04.2016 - 17.04.2016) als Video-Download in HD-Qualität (mp4) Die Vorträge BegrüßungProf. Dr. med. Jörg Spitz und Apotheker Uwe GröberMikronährstoffe in der Vorbeugung und Therapie von DATApotheker Uwe Gröber - EssenHealture-Brainfood – Mit Kantinenessen gegen DemenzAndreas Rauth - Kro…
+**Vendor's marketplace description:** <h1>Kongress für menschliche Medizin - Demenz</h1>
+<p>Das Paket enthält die Aufzeichnung der Vorträge <strong>beider Kongresstage</strong> (16.04.2016 - 17.04.2016) als <strong>Video-Download in HD-Qualität</strong> (mp4)</p>
+<h2>Die Vorträge</h2>
+<p><strong>Begrüßung</strong><br />Prof. Dr. med. Jörg Spitz und Apotheker Uwe Gröber<br /><br /><strong>Mikronährstoffe in der Vorbeugung und Therapie von DAT</strong><br />Apotheker Uwe Gröber - Essen<br /><br /><strong>Healture-Brainfood – Mit Kantinenessen gegen Demenz</strong><br />Andreas Rauth - Kronberg<br /><br /><strong>Magnesium und Alzheimer</strong><br />Prof. Dr. med. Klaus Kisters<br /><br /><strong>HRV – das Fenster zur Physiologie des Menschen</strong><br />Dipl.-Ing. Florian Wolf - Stuttgart<br /><br /><strong>Garantiert gesundheitsgefährdend. Wie uns die Zuckermafia krank macht</strong><br />Dr. Hans-Ulrich Grimm- Stuttgart<br /><br /><strong>Gesunde Zucker - gibt’s die?</strong><br />Dr. med. Kurt Mosetter - Konstanz<br /><br /><strong>Spiraldynamik – vom Scheitel bis zur Sohle</strong><br />Dr. med. Christian Larsen - Zürich<br /><br /><strong>Aminosäuren im Sport – damit er nicht zum Mord wird</strong><br />Prof. Dr. Elmar Wienecke - Herford<br /><br /><strong>Hormone - Gehirn und Neuroregeneration</strong><br />Prof. Dr. Johannes Huber - Wien<br /><br /><strong>Auch das Gehirn braucht Vitamin D</strong><br />Apotheker Uwe Gröber - Essen<br /><br /><strong>Menschenstopfleber: Die verharmloste Volkskrankheit Fettleber</strong><br />Prof. Dr. Nicolai Worm - München<br /><br /><strong>Kognitive Fähigkeiten – generieren und erhalten mit Omega-3 Fettsäuren</strong><br />Prof. Dr. Clemens von Schacky - München<br /><br /><strong>Umweltgifte und Hirnstoffwechsel</strong><br />Dr. med. Kurt E. Müller - Kempten<br /><br /><strong>Vitamin D: Update 2016</strong><br />Univ. Prof. Dr. med. Winfried März - Mannheim<br /><br /><strong>Rauchen und Demenz</strong><br />Manfred Weck - Overath<br /><br /><strong>Stress; Neurodegeneration und Demenz</strong><br />Prof. Dr. Alfred Wolf - Ulm<br /><br /><strong>Oxidativer Stress, 4-HNE und Entzündung bei der Demenzentwicklung</strong><br />Dr. med. Dirk Lemke - Heidelberg<br /><br /><strong>Wovon lebt unser Gehirn?</strong><br />Dipl. oec. troph. Ulrike Gonder - Hünstetten<br /><br /><strong>Von der Allianz gegen Demenz hin zur Allianz für eine gesunde Region</strong><br />Prof. Dr. med. Jörg Spitz - Schlangenbad/Wiesbaden</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digitalewelt.spitzen-praevention.com/kmm-demenz/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/15377/adminstore/
 - Sales page: https://digitalewelt.spitzen-praevention.com/kmm-demenz/
 - Vendor affiliate support: https://digitalewelt.spitzen-praevention.com/partnerprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/119253/adminstore
@@ -93,7 +96,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist KMM2016 Demenz - Digitales Kongresspaket? — Typ: Member area and video courses, Anbieter: AMMSpitz, gelistet seit 2017-02-12
-- Wie viel kostet es? — 117.67420600000001 USD
+- Wie viel kostet es? — 117.41168100000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

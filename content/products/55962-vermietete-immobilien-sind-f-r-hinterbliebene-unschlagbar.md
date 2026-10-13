@@ -4,16 +4,16 @@ digistore24_product_id: 645533
 title: "Vermietete Immobilien sind für Hinterbliebene unschlagbar"
 vendor: "verwitwet-leben"
 product_type: "Member area and video courses"
-price: 41.2
+price: 41.11
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 37.3
+earnings_per_sale: 37.22
 cart_conversion_pct: 18
 cancel_rate_pct: 0.45
 categories: ["Business & Investment","Education"]
 listed_since: "2025-11-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://verwitwet-leben.de/videokurs-immobilien-als-anlageform/?aff=adminstore#aff=adminstore"
 sales_page: "https://verwitwet-leben.de/videokurs-immobilien-als-anlageform/"
@@ -22,16 +22,16 @@ language: "de"
 # Vermietete Immobilien sind für Hinterbliebene unschlagbar
 
 > Product ID `55962` · Digistore24 productId `645533` · [HTML profile page](../../produkte/vermietete-immobilien-sind-f-r-hinterbliebene-unschlagbar-55962.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.20 (Single payment) |
+| Price | $41.11 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $37.30 |
+| Earnings/sale* | $37.22 |
 | Cart conversion* | 18% |
 | Cancel rate* | 0.45% |
 | Vendor | verwitwet-leben |
@@ -41,7 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Warum vermietete Immobilien für Hinterbliebene unschlagbar sind (Online-Videokurs) Du suchst eine Kapitalanlage, die Deine Hinterbliebenenrente nicht zusätzlich belastet und gleichzeitig Vermögen aufbaut? Dieser Videokurs zeigt Dir, warum vermietete Immobilien dafür besonders geeignet sind. Du lernst verständlich und praxisnah: wie Du vermietete Immobilien richtig kalkulierst den Unterschied zwisc…
+**Vendor's marketplace description:** <p><strong>Warum vermietete Immobilien für Hinterbliebene unschlagbar sind (Online-Videokurs)</strong></p>
+<p>Du suchst eine Kapitalanlage, die Deine Hinterbliebenenrente nicht zusätzlich belastet und gleichzeitig Vermögen aufbaut? Dieser Videokurs zeigt Dir, warum vermietete Immobilien dafür besonders geeignet sind.</p>
+<p>Du lernst verständlich und praxisnah:</p>
+<ul>
+<li>
+<p>wie Du vermietete Immobilien richtig kalkulierst</p>
+</li>
+<li>
+<p>den Unterschied zwischen Eigenheim und Kapitalanlage</p>
+</li>
+<li>
+<p>wie Miete, Darlehen und Rendite zusammenwirken</p>
+</li>
+<li>
+<p>wie Du durch Abschreibung gezielt Steuern sparst</p>
+</li>
+<li>
+<p>den Unterschied zwischen steuerlichem Gewinn und Cashflow</p>
+</li>
+<li>
+<p>welche Vorteile Inflation und Hebeleffekt bieten</p>
+</li>
+</ul>
+<p>Anhand eines echten Praxisbeispiels bekommst Du Einblicke in konkrete Zahlen und erfährst, wie Immobilien strategisch zur finanziellen Absicherung beitragen können.</p>
+<p>Dauer: ca. 2 Stunden Videomaterial<br />Zugriff: 30 Tage, beliebig oft abrufbar</p>
+<p><strong>Bonus:</strong> Inklusive Berechnungsdateien und Tools zur eigenen Immobilienplanung.</p>
 
 ## 2. Links
 
@@ -85,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Vermietete Immobilien sind für Hinterbliebene unschlagbar? — Typ: Member area and video courses, Anbieter: verwitwet-leben, gelistet seit 2025-11-01
-- Wie viel kostet es? — 41.20446200000001 USD
+- Wie viel kostet es? — 41.11253700000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

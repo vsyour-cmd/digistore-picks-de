@@ -4,16 +4,16 @@ digistore24_product_id: 699090
 title: "Strom sparen mit Solar, Speicher und dynamischem Tarif"
 vendor: "cihanoezkaya8087"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden","Finances"]
 listed_since: "2026-06-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://cihanoezkaya.de?aff=adminstore#aff=adminstore"
 sales_page: "http://cihanoezkaya.de"
@@ -22,16 +22,16 @@ language: "de"
 # Strom sparen mit Solar, Speicher und dynamischem Tarif
 
 > Product ID `57162` · Digistore24 productId `699090` · [HTML profile page](../../produkte/strom-sparen-mit-solar-speicher-und-dynamischem-tarif-57162.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | cihanoezkaya8087 |
@@ -41,7 +41,16 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „KI Strom-Spar Cheat-Code" ist ein Praxis-Guide mit echten, woechentlich gemessenen Spar-Zahlen: Solar + Speicher + dynamischer Stromtarif, automatisch gesteuert per Home Assistant. WARUM ES SICH FUER DICH LOHNT: • Hochaktuelles Thema — seit 2025 muss jeder Stromanbieter einen dynamischen Tarif anbieten. Millionen suchen, wie man damit spart. • Echte Beweise statt Theorie -> hohe Conversion. • Bre…
+**Vendor's marketplace description:** <div>„KI Strom-Spar Cheat-Code" ist ein Praxis-Guide mit echten, woechentlich gemessenen Spar-Zahlen: Solar + Speicher + dynamischer Stromtarif, automatisch gesteuert per Home Assistant.</div>
+<div> </div>
+<div>WARUM ES SICH FUER DICH LOHNT:</div>
+<div>• Hochaktuelles Thema — seit 2025 muss jeder Stromanbieter einen dynamischen Tarif anbieten. Millionen suchen, wie man damit spart.</div>
+<div>• Echte Beweise statt Theorie -&gt; hohe Conversion.</div>
+<div>• Breite Zielgruppe: Balkonkraftwerk-/PV-Besitzer, Smart-Home-Fans, E-Auto-Fahrer, Sparfuechse.</div>
+<div>• 50 % Provision, 180-Tage-Cookie, guenstiger Impulskauf-Preis.</div>
+<div> </div>
+<div>FERTIGES WERBEMATERIAL (Texte, Banner, E-Mail-Vorlagen):</div>
+<div>https://cihanoezkaya.de/partner.html</div>
 
 ## 2. Links
 
@@ -81,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Strom sparen mit Solar, Speicher und dynamischem Tarif? — Typ: E-books, Anbieter: cihanoezkaya8087, gelistet seit 2026-06-28
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

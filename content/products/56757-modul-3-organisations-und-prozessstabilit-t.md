@@ -4,34 +4,34 @@ digistore24_product_id: 696891
 title: "Modul 3 – Organisations- und Prozessstabilität"
 vendor: "weipert-consulting-gmbh"
 product_type: "Downloads"
-price: 328.65
+price: 327.92
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 65.73
+earnings_per_sale: 65.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management","Project Management"]
 listed_since: "2026-05-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://weipert-consulting.de/unternehmensdiagnostik/03-organisations-und-prozessstabilitaet/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56757/adminstore/"
 sales_page: "https://weipert-consulting.de/unternehmensdiagnostik/03-organisations-und-prozessstabilitaet/"
 language: "de"
 ---
 # Modul 3 – Organisations- und Prozessstabilität
 
 > Product ID `56757` · Digistore24 productId `696891` · [HTML profile page](../../produkte/modul-3-organisations-und-prozessstabilit-t-56757.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $328.65 (Single payment) |
+| Price | $327.92 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $65.73 |
+| Earnings/sale* | $65.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | weipert-consulting-gmbh |
@@ -41,11 +41,27 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Modul 3 – Organisations- und Prozessstabilität Sie erwerben ein strukturiertes Diagnoseinstrument zur Analyse der Prozess- und Dokumentationsstabilität eines Unternehmens. Dieses Angebot richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB. Das Instrument umfasst: • standardisierte Analysefelder (Scoring 1–4) • gewichtete Risikoindikationen je Organisationsebene • Identifikation von Pr…
+**Vendor's marketplace description:** <h1>Modul 3 – Organisations- und Prozessstabilität</h1>
+<p> </p>
+<p>Sie erwerben ein strukturiertes Diagnoseinstrument zur Analyse der Prozess- und Dokumentationsstabilität eines Unternehmens.</p>
+<p><strong>Dieses Angebot richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB.</strong></p>
+<p> </p>
+<p><strong>Das Instrument umfasst:</strong></p>
+<p>• standardisierte Analysefelder (Scoring 1–4)</p>
+<p>• gewichtete Risikoindikationen je Organisationsebene</p>
+<p>• Identifikation von Prozess- und Dokumentationsrisiken</p>
+<p>• priorisierte Maßnahmenempfehlungen (kurz-, mittel- und langfristig)</p>
+<p> </p>
+<p><strong>Produktart</strong>: Digitales Diagnoseinstrument</p>
+<p> </p>
+<p><strong>Bereitstellung</strong>: Sofortiger Download nach erfolgreicher Zahlung.</p>
+<p>Zusätzliche Bereitstellung des Download-Links per E-Mail.</p>
+<p> </p>
+<p><strong>Es handelt sich nicht um eine individuelle Rechts-, Steuer- oder Wirtschaftsprüfung.</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://weipert-consulting.de/unternehmensdiagnostik/03-organisations-und-prozessstabilitaet/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56757/adminstore/
 - Sales page: https://weipert-consulting.de/unternehmensdiagnostik/03-organisations-und-prozessstabilitaet/
 - Canonical redirect: https://www.digistore24.com/redir/696891/adminstore
 
@@ -83,7 +99,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Modul 3 – Organisations- und Prozessstabilität? — Typ: Downloads, Anbieter: weipert-consulting-gmbh, gelistet seit 2026-05-31
-- Wie viel kostet es? — 328.649568 USD
+- Wie viel kostet es? — 327.916368 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

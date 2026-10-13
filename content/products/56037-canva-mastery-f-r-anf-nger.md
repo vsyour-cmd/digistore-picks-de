@@ -4,34 +4,34 @@ digistore24_product_id: 679299
 title: "Canva Mastery für Anfänger"
 vendor: "MagicPotter"
 product_type: "Downloads"
-price: 14.12
+price: 14.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.06
+earnings_per_sale: 7.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-03-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/679299?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56037/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/679299"
 language: "de"
 ---
 # Canva Mastery für Anfänger
 
 > Product ID `56037` · Digistore24 productId `679299` · [HTML profile page](../../produkte/canva-mastery-f-r-anf-nger-56037.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.12 (Single payment) |
+| Price | $14.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.06 |
+| Earnings/sale* | $7.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MagicPotter |
@@ -41,11 +41,26 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Erstelle professionelle Designs – ohne Designer & ohne Vorkenntnisse Du möchtest Social Media Posts, E-Books oder Marketing Designs erstellen…aber hast keine Ahnung von Design? Dann ist dieser Canva Mini-Kurs genau für dich. In diesem E-Book lernst du Schritt für Schritt, wie du mit Canva in kürzester Zeit moderne, hochwertige Designs erstellst – ganz ohne komplizierte Software. Das erwartet dich:…
+**Vendor's marketplace description:** <h2>Erstelle professionelle Designs – ohne Designer &amp; ohne Vorkenntnisse</h2>
+<p>Du möchtest Social Media Posts, E-Books oder Marketing Designs erstellen…<br />aber hast keine Ahnung von Design?</p>
+<p>Dann ist dieser Canva Mini-Kurs genau für dich.</p>
+<p>In diesem E-Book lernst du Schritt für Schritt, wie du mit Canva in kürzester Zeit moderne, hochwertige Designs erstellst – ganz ohne komplizierte Software.</p>
+<hr />
+<h3>Das erwartet dich:</h3>
+<p>✔️ Canva von Grund auf verstehen<br />✔️ Professionelle Designs in Minuten erstellen<br />✔️ Eigene Bilder &amp; Videos perfekt einbauen<br />✔️ Effekte, Animationen &amp; Layouts nutzen<br />✔️ Designs speichern, teilen &amp; verkaufen<br />✔️ Schriftarten richtig kombinieren (Profi Trick!)<br />✔️ Hyperlinks &amp; smarte Funktionen nutzen</p>
+<hr />
+<h3>Für wen ist dieser Kurs?</h3>
+<ul>
+<li>Anfänger ohne Design-Erfahrung</li>
+<li>Selbstständige &amp; Online-Business Starter</li>
+<li>Content Creator &amp; Social Media Nutzer</li>
+<li>Jeder, der Geld mit Designs verdienen will</li>
+</ul>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/679299?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56037/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/679299
 - Vendor affiliate support: https://canva-kurs.magicpotter.at/
 - Canonical redirect: https://www.digistore24.com/redir/679299/adminstore
@@ -74,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Canva Mastery für Anfänger? — Typ: Downloads, Anbieter: MagicPotter, gelistet seit 2026-03-25
-- Wie viel kostet es? — 14.11956 USD
+- Wie viel kostet es? — 14.08806 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

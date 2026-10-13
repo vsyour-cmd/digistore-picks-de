@@ -4,34 +4,34 @@ digistore24_product_id: 542280
 title: "Hypnose-Onlinekurs Vergangenheit Loslassen"
 vendor: "petanthony"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 11.54
+earnings_per_sale: 11.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://shop.petanthony.com/online-kurse_vergangenheit-loslassen_DS/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59655/adminstore/"
 sales_page: "https://shop.petanthony.com/online-kurse_vergangenheit-loslassen_DS/"
 language: "de"
 ---
 # Hypnose-Onlinekurs Vergangenheit Loslassen
 
 > Product ID `59655` · Digistore24 productId `542280` · [HTML profile page](../../produkte/hypnose-onlinekurs-vergangenheit-loslassen-59655.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $11.54 |
+| Earnings/sale* | $11.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | petanthony |
@@ -41,11 +41,13 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Mit diesem Hypnose-Onlinekurs hast Du die Möglichkeit die Vergangenheit loszulassen und ins Jetzt zu kommen. Du verbindest Dich mit Deinem Körper und kannst alte Denkmuster ablegen. So kannst Du für Dich eine neue Identität erschaffen und Deine Zukunft frei von alten Mustern, Gedanken und Gefühlen, nach Deinen wahren Wünschen positiv gestalten. Der Kurs enthält neben dem Hypnose-Video samt Audiove…
+**Vendor's marketplace description:** <p>Mit diesem Hypnose-Onlinekurs hast Du die Möglichkeit die Vergangenheit loszulassen und ins Jetzt zu kommen. Du verbindest Dich mit Deinem Körper und kannst alte Denkmuster ablegen. So kannst Du für Dich eine neue Identität erschaffen und Deine Zukunft frei von alten Mustern, Gedanken und Gefühlen, nach Deinen wahren Wünschen positiv gestalten.</p>
+<p>Der Kurs enthält neben dem Hypnose-Video samt Audioversion als Download auch ein Video zur richtigen Hypnoseanwendung.</p>
+<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shop.petanthony.com/online-kurse_vergangenheit-loslassen_DS/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59655/adminstore/
 - Sales page: https://shop.petanthony.com/online-kurse_vergangenheit-loslassen_DS/
 - Vendor affiliate support: https://www.petanthony.com/partner/
 - Canonical redirect: https://www.digistore24.com/redir/542280/adminstore
@@ -59,7 +61,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Hypnose-Onlinekurs Vergangenheit Loslassen? — Typ: Member area and video courses, Anbieter: petanthony, gelistet seit 2026-09-24
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

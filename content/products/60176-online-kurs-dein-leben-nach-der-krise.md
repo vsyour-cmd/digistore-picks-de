@@ -4,16 +4,16 @@ digistore24_product_id: 610810
 title: "Online-Kurs \"Dein Leben nach der Krise\""
 vendor: "BLLcode25"
 product_type: "Member area and video courses"
-price: 332.82
+price: 332.08
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 33.28
+earnings_per_sale: 33.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/610810?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/610810"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Kurs "Dein Leben nach der Krise"
 
 > Product ID `60176` · Digistore24 productId `610810` · [HTML profile page](../../produkte/online-kurs-dein-leben-nach-der-krise-60176.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $332.82 (Single payment) |
+| Price | $332.08 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $33.28 |
+| Earnings/sale* | $33.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BLLcode25 |
@@ -41,7 +41,35 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Finde deine Richtung. Triff deine Entscheidungen. Komm ins Handeln. Ein strukturierter Online-Kurs für Menschen, die ihr Leben nach einer schweren Erkrankung, einem Schicksalsschlag oder einem tiefen Umbruch neu ausrichten wollen. Heike Spreter-Krick und ihr Vater Christian Spreter verbinden persönliche Krisenerfahrungen mit ihrer Lebensformel: Erkennen × Entscheiden × Handeln = dein bestes Leben …
+**Vendor's marketplace description:** <p><strong>Finde deine Richtung. Triff deine Entscheidungen. Komm ins Handeln.</strong></p>
+<p>Ein strukturierter Online-Kurs für Menschen, die ihr Leben nach einer schweren Erkrankung, einem Schicksalsschlag oder einem tiefen Umbruch neu ausrichten wollen.</p>
+<p>Heike Spreter-Krick und ihr Vater Christian Spreter verbinden persönliche Krisenerfahrungen mit ihrer Lebensformel:</p>
+<p><strong>Erkennen × Entscheiden × Handeln = dein bestes Leben leben</strong></p>
+<p>Der Kurs unterstützt Teilnehmende dabei, ihre aktuelle Situation zu sortieren, Prioritäten zu setzen und konkrete Veränderungen im Alltag anzugehen – passend zu ihrer heutigen Kraft und Lebenssituation.</p>
+<p><strong>Das bietet der Kurs:</strong></p>
+<ul>
+<li>
+<p>Praxisnahe Module zu Erkennen, Entscheiden und Handeln</p>
+</li>
+<li>
+<p>Orientierung in sechs Lebensbereichen: Beruf, Gesundheit, Selbstbild und Sinn, Beziehungen, Lebensfreude und finanzielle Absicherung</p>
+</li>
+<li>
+<p>Digitale Arbeitsblätter, Reflexionsfragen und praktische Übungen</p>
+</li>
+<li>
+<p>FragenFächer und KI-gestützte Reflexion zur Entwicklung eigener Antworten und neuer Perspektiven</p>
+</li>
+<li>
+<p>Selbstständiges Lernen im eigenen Tempo</p>
+</li>
+<li>
+<p>365 Tage Zugang über die Kursplattform Flenski</p>
+</li>
+</ul>
+<p><strong>Zielgruppe:</strong><br />Menschen nach Erkrankungen, persönlichen Krisen oder einschneidenden Veränderungen, die Orientierung suchen und ihr Leben bewusst gestalten möchten.</p>
+<p><strong>Für Affiliate-Partner:</strong><br />Thematisch passend für Inhalte und Communitys rund um Krisenbewältigung, persönliche Neuorientierung, Selbstfürsorge und Lebensgestaltung.</p>
+<p><strong>Verkaufspreis:</strong> 297 €</p>
 
 ## 2. Links
 
@@ -81,7 +109,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Kurs "Dein Leben nach der Krise"? — Typ: Member area and video courses, Anbieter: BLLcode25, gelistet seit 2026-10-04
-- Wie viel kostet es? — 332.8182 USD
+- Wie viel kostet es? — 332.07570000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

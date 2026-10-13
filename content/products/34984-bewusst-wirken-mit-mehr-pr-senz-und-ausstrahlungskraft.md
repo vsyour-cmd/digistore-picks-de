@@ -4,16 +4,16 @@ digistore24_product_id: 361553
 title: "Bewusst-wirken mit mehr Präsenz und Ausstrahlungskraft"
 vendor: "AlexandraLohr"
 product_type: "Online coaching"
-price: 28.16
+price: 28.1
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 8.45
+earnings_per_sale: 8.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-12-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.bewusst-wirken.de/akademie/online-akademie/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.bewusst-wirken.de/akademie/online-akademie/"
@@ -22,16 +22,16 @@ language: "de"
 # Bewusst-wirken mit mehr Präsenz und Ausstrahlungskraft
 
 > Product ID `34984` · Digistore24 productId `361553` · [HTML profile page](../../produkte/bewusst-wirken-mit-mehr-pr-senz-und-ausstrahlungskraft-34984.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $28.16 (Single payment) |
+| Price | $28.10 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $8.45 |
+| Earnings/sale* | $8.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AlexandraLohr |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sicherlich arbeitet ihr viel an der Wirkung und Körperwahrnehmung eurer Pferde. Und was ist mit eurer Ausstrahlung, Wahrnehmungskraft und Präsenz? Wie trainiert ihr diese? Und habt ihr euch bereits einmal Gedanken gemacht, wie eure Präsenz die Beziehung zu eurem Pferd unterstützen kann? In diesem Online Kurs erhaltet ihr 2 Methoden die euch dabei unterstützen, eine bewusste Körperwahrnehmung und d…
+**Vendor's marketplace description:** <p>Sicherlich arbeitet ihr viel an der Wirkung und Körperwahrnehmung eurer Pferde. Und was ist mit eurer Ausstrahlung, Wahrnehmungskraft und Präsenz? Wie trainiert ihr diese?</p>
+<p>Und habt ihr euch bereits einmal Gedanken gemacht, wie eure Präsenz die Beziehung zu eurem Pferd unterstützen kann?</p>
+<p>In diesem Online Kurs erhaltet ihr 2 Methoden die euch dabei unterstützen, eine bewusste Körperwahrnehmung und dadurch Wirkung und Präsenz zu erlangen. Diese Übungen dienen nicht nur im Umgang mit eurem Pferd. Diese können euch in jedem Kontext dienlich sein. Eine positive Wirkung und Ausstrahlung ist in jedem Lebensbereich sinnvoll. </p>
+<p>Mehr über Alexandra Lohr, Persönlichkeitstrainerin unter <a href="http://www.bewusst-wirken.de" target="_blank" rel="noreferrer noopener">www.bewusst-wirken.de</a></p>
 
 ## 2. Links
 
@@ -81,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Bewusst-wirken mit mehr Präsenz und Ausstrahlungskraft? — Typ: Online coaching, Anbieter: AlexandraLohr, gelistet seit 2020-12-07
-- Wie viel kostet es? — 28.160678 USD
+- Wie viel kostet es? — 28.097853 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 687757
 title: "Die 12 Erzengel und Lichtstrahlen – Kartenset"
 vendor: "Spiritual-Power"
 product_type: "Downloads"
-price: 32.96
+price: 32.88
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 6.59
+earnings_per_sale: 6.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/687757?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56365/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/687757"
 language: "de"
 ---
 # Die 12 Erzengel und Lichtstrahlen – Kartenset
 
 > Product ID `56365` · Digistore24 productId `687757` · [HTML profile page](../../produkte/die-12-erzengel-und-lichtstrahlen-kartenset-56365.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $32.96 (Single payment) |
+| Price | $32.88 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $6.59 |
+| Earnings/sale* | $6.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Spiritual-Power |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 13 hochwertige Karten im Set, basierend auf handgemalten Originalbildern und wichtigen Informationen zum jeweiligen Erzengel und dem entsprechenden Lichtstrahl auf der Rückseite. Die Vorderseite zeigt das handgemalte Symbol als hochwertigen Kunstdruck. Auf der Rückseite der Übersichtskarte findest du wichtige Informationen zu jedem Symbol sowie konkrete Inspirationen, wie du die Karten in deinen A…
+**Vendor's marketplace description:** <p>13 hochwertige Karten im Set, basierend auf handgemalten Originalbildern und wichtigen Informationen zum jeweiligen Erzengel und dem entsprechenden Lichtstrahl auf der Rückseite.</p>
+<p>Die Vorderseite zeigt das handgemalte Symbol als hochwertigen Kunstdruck. Auf der Rückseite der Übersichtskarte findest du wichtige Informationen zu jedem Symbol sowie konkrete Inspirationen, wie du die Karten in deinen Alltag und deine Praxis integrierst.</p>
+<p><strong>Perfekte Zielgruppe</strong></p>
+<p>Lichtarbeiter, Yoga- und Meditationspraktizierende, Coaches, Heilpraktikerinnen und spirituell Interessierte. Hohe Nachfrage, einzigartiges Produkt, starke Conversion durch emotionale Ansprache.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/687757?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56365/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/687757
 - Canonical redirect: https://www.digistore24.com/redir/687757/adminstore
 
@@ -77,7 +80,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Die 12 Erzengel und Lichtstrahlen – Kartenset? — Typ: Downloads, Anbieter: Spiritual-Power, gelistet seit 2026-04-26
-- Wie viel kostet es? — 32.956846 USD
+- Wie viel kostet es? — 32.883321 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

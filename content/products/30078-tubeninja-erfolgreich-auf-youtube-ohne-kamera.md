@@ -4,16 +4,16 @@ digistore24_product_id: 288160
 title: "TubeNinja - Erfolgreich auf YouTube ohne Kamera"
 vendor: "Rules5Hacks"
 product_type: "Member area and video courses"
-price: 548.06
+price: 546.84
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 219.22
+earnings_per_sale: 218.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-09-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://tubeninja.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://tubeninja.de/"
@@ -22,16 +22,16 @@ language: "de"
 # TubeNinja - Erfolgreich auf YouTube ohne Kamera
 
 > Product ID `30078` · Digistore24 productId `288160` · [HTML profile page](../../produkte/tubeninja-erfolgreich-auf-youtube-ohne-kamera-30078.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $548.06 (Single payment, Installment) |
+| Price | $546.84 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $219.22 |
+| Earnings/sale* | $218.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Rules5Hacks |
@@ -41,7 +41,22 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In diesem 6-stündigen Videokurs zeigt der Betreiber des Youtube Kanals "5Rules5Hacks" die Methode, mit der er 40.000 Abonnenten und mehrere Millionen Klicks generiert hat, ohne sich selbst vor die Kamera zu setzen. Dieser Kurs ist perfekt für alle geeignet, die einen erfolgreichen YouTube Kanal starten, sich dabei aber nicht selbst filmen wollen um Ihre Privatsphäre zu wahren. ____________________…
+**Vendor's marketplace description:** <p>In diesem 6-stündigen Videokurs zeigt der Betreiber des Youtube Kanals "5Rules5Hacks" die Methode, mit der er 40.000 Abonnenten und mehrere Millionen Klicks generiert hat, ohne sich selbst vor die Kamera zu setzen.</p>
+<p><strong>Dieser Kurs ist perfekt für alle geeignet, die einen erfolgreichen YouTube Kanal starten, sich dabei aber nicht selbst filmen wollen um Ihre Privatsphäre zu wahren.</strong></p>
+<p><strong>______________________________________</strong></p>
+<p><strong>Lieber Affiliate,</strong></p>
+<p>Der Kurs "TubeNinja - Erfolgreich auf YouTube ohne Kamera" wird zu einem Preis von 397€ angeboten. Mit dem Gutscheincode "SPECIAL100" kannst du den Preis auf 297€ reduzieren.</p>
+<p><strong>Du erhältst dabei faire 40% Provision!</strong></p>
+<p>Der Kunde erhält im Nachgang weitere E-Mails mit provisionierten Angeboten - Dein Cookie bleibt in dieser Zeit natürlich bestehen.<br /><br />___________________________________________</p>
+<p><strong>GRATIS YOUTUBE KURS</strong> (Content Seite)</p>
+<p>Als alternativen Einstieg hast du die Möglichkeit, meinen 4-teiligen gratis Minikurs "Erfolgreich auf YouTube" anzubieten.</p>
+<p><strong>Die Person durchläuft dann mit deinem Cookie den vollständigen Funnel:</strong></p>
+<ol><li>Gratis Kurs</li>
+<li>eBook (7€) -&gt; 60%</li>
+<li>Kurs (77€) -&gt; 50%</li>
+<li>Kurs (397€) -&gt; 40%</li>
+</ol><p><a>https://www.digistore24.com/content/289232/25499/AFFILIATE/CAMPAIGNKEY</a> </p>
+<p>Bitte ersetze dafür "AFFILIATE" durch deine Affiliate ID</p>
 
 ## 2. Links
 
@@ -80,7 +95,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist TubeNinja - Erfolgreich auf YouTube ohne Kamera? — Typ: Member area and video courses, Anbieter: Rules5Hacks, gelistet seit 2019-09-26
-- Wie viel kostet es? — 548.063048 USD
+- Wie viel kostet es? — 546.8403480000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 363165
 title: "Videokurs \"Cashflow-Formel für Immobilien-Investments\""
 vendor: "Jederkannimmobilien"
 product_type: "Member area and video courses"
-price: 479.31
+price: 478.24
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 143.8
+earnings_per_sale: 143.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-12-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.jeder-kann-immobilien.de/v/in-immobilien-investieren/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/25587/adminstore/"
 sales_page: "https://www.jeder-kann-immobilien.de/v/in-immobilien-investieren/"
 language: "de"
 ---
 # Videokurs "Cashflow-Formel für Immobilien-Investments"
 
 > Product ID `25587` · Digistore24 productId `363165` · [HTML profile page](../../produkte/videokurs-cashflow-formel-f-r-immobilien-investments-25587.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $479.31 (Single payment, Installment) |
+| Price | $478.24 (Single payment, Installment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $143.80 |
+| Earnings/sale* | $143.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Jederkannimmobilien |
@@ -41,11 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieser Videokurs besteht aus 7 Modulen und führt einmal Schritt für Schritt durch ein komplettes Immobilien-Investment. Angefangen bei den Basics und der Strategiefindung, der Regionenanalyse, der Objektsuche und dem -kauf, weiter über die vermieterfreundliche Vermietung bis hin zu einem Ausblick auf die zukünftigen Aufgaben eines Vermieters. So begleite ich den angehenden Investor bei jedem Schri…
+**Vendor's marketplace description:** <p>Dieser Videokurs besteht aus 7 Modulen und führt einmal Schritt für Schritt durch ein komplettes Immobilien-Investment.</p>
+<p>Angefangen bei den Basics und der Strategiefindung, der Regionenanalyse, der Objektsuche und dem -kauf, weiter über die vermieterfreundliche Vermietung bis hin zu einem Ausblick auf die zukünftigen Aufgaben eines Vermieters.</p>
+<p>So begleite ich den angehenden Investor bei jedem Schritt und vermittle ihm das notwendige Wissen, damit auch er sicher in eine rentable Immobilie investiert.</p>
+<p>Der reguläre Verkaufspreis für dieses Produkt liegt bei 297,- €. Bei Ratenzahlung wird ein Aufschlag erhoben. Als Upsell gilt ein Verkaufspreis von 197,- €. Alle Preise inkl. MWST. Du bekommst 30 % Affiliateprovision.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.jeder-kann-immobilien.de/v/in-immobilien-investieren/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/25587/adminstore/
 - Sales page: https://www.jeder-kann-immobilien.de/v/in-immobilien-investieren/
 - Vendor affiliate support: https://www.jeder-kann-immobilien.de/affiliateprogramm/
 - Canonical redirect: https://www.digistore24.com/redir/363165/adminstore
@@ -108,7 +111,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Videokurs "Cashflow-Formel für Immobilien-Investments"? — Typ: Member area and video courses, Anbieter: Jederkannimmobilien, gelistet seit 2020-12-16
-- Wie viel kostet es? — 479.31423800000005 USD
+- Wie viel kostet es? — 478.24491300000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

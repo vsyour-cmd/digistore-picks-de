@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Leadership & Management"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.paragamix.com/ki-awareness-schulung.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60105/adminstore/"
 sales_page: "https://www.paragamix.com/ki-awareness-schulung.html"
 language: "de"
 ---
 # Sichere KI-Nutzung – Awareness-Mission
 
 > Product ID `60105` · Digistore24 productId `735343` · [HTML profile page](../../produkte/sichere-ki-nutzung-awareness-mission-60105.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Interaktive, browserbasierte Cyber-Awareness-Mission zur sicheren Nutzung generativer KI im Unternehmen. Teilnehmende trainieren Freigaben, den Schutz vertraulicher Daten, die Prüfung von KI-Ergebnissen und den verantwortungsvollen Einsatz anhand realistischer Entscheidungssituationen. Start per Mission-Code, ohne persönliche Teilnehmerkonten und ohne Abo. Unternehmen erhalten ein nachvollziehbare…
+**Vendor's marketplace description:** <p>Interaktive, browserbasierte Cyber-Awareness-Mission zur sicheren Nutzung generativer KI im Unternehmen. Teilnehmende trainieren Freigaben, den Schutz vertraulicher Daten, die Prüfung von KI-Ergebnissen und den verantwortungsvollen Einsatz anhand realistischer Entscheidungssituationen. Start per Mission-Code, ohne persönliche Teilnehmerkonten und ohne Abo. Unternehmen erhalten ein nachvollziehbares Ergebnis und einen Teilnahme-Nachweis. 40 % Affiliate-Provision – beim 100er-Paket entspricht das nominal bis zu 79,60 € Provision pro Verkauf.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.paragamix.com/ki-awareness-schulung.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60105/adminstore/
 - Sales page: https://www.paragamix.com/ki-awareness-schulung.html
 - Vendor affiliate support: https://www.paragamix.com/reseller-partner-cyber-awareness.html
 - Canonical redirect: https://www.digistore24.com/redir/735343/adminstore
@@ -83,7 +83,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Sichere KI-Nutzung – Awareness-Mission? — Typ: Software, Anbieter: paragamix, gelistet seit 2026-10-01
-- Wie viel kostet es? — 2.229994 USD
+- Wie viel kostet es? — 2.225019 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

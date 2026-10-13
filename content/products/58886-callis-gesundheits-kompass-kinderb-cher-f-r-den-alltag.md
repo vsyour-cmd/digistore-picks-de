@@ -4,7 +4,7 @@ digistore24_product_id: 709550
 title: "Callis Gesundheits-Kompass: Kinderbücher für den Alltag"
 vendor: "callidus"
 product_type: "Downloads"
-price: 4.7
+price: 4.68
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.35
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.callidus-am.de/kinderbuch/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.callidus-am.de/kinderbuch/"
@@ -22,14 +22,14 @@ language: "de"
 # Callis Gesundheits-Kompass: Kinderbücher für den Alltag
 
 > Product ID `58886` · Digistore24 productId `709550` · [HTML profile page](../../produkte/callis-gesundheits-kompass-kinderb-cher-f-r-den-alltag-58886.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $4.70 (Single payment) |
+| Price | $4.68 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -41,7 +41,10 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bewirb eine deutschsprachige Vorlese-Bilderbuchreihe für Kinder von 5 bis 8 Jahren und ihre Familien. Das Angebot:• Sechs digitale PDF-Bände über Körper, Ernährung, Bewegung, Schlaf, Gefühle und das Immunsystem• Warme Vorlesegeschichten mit Aquarellbildern, Schlau-Seiten und Mitmach-Ideen• Jeder Band kostet 9,90 Euro• Eine gemeinsame Verkaufsseite mit Leseproben und allen Bänden Deine Vorteile:• 5…
+**Vendor's marketplace description:** <p>Bewirb eine deutschsprachige Vorlese-Bilderbuchreihe für Kinder von 5 bis 8 Jahren und ihre Familien.</p>
+<p>Das Angebot:<br />• Sechs digitale PDF-Bände über Körper, Ernährung, Bewegung, Schlaf, Gefühle und das Immunsystem<br />• Warme Vorlesegeschichten mit Aquarellbildern, Schlau-Seiten und Mitmach-Ideen<br />• Jeder Band kostet 9,90 Euro<br />• Eine gemeinsame Verkaufsseite mit Leseproben und allen Bänden</p>
+<p>Deine Vorteile:<br />• 50 Prozent Affiliate-Provision auf jeden Band<br />• Automatische Partnerschaftsfreigabe<br />• Die Bände 2 bis 6 werden zusätzlich zum Bewerben freigeschaltet<br />• Coverbilder, Texte und Vermarktungsleitlinien auf der Affiliate-Support-Seite</p>
+<p>Zielgruppe: Eltern, Großeltern und Bezugspersonen im deutschsprachigen Raum. Bitte transparent als Werbung kennzeichnen und keine Heil-, Diagnose- oder Therapieversprechen verwenden.</p>
 
 ## 2. Links
 
@@ -87,7 +90,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Callis Gesundheits-Kompass: Kinderbücher für den Alltag? — Typ: Downloads, Anbieter: callidus, gelistet seit 2026-09-02
-- Wie viel kostet es? — 4.695314000000001 USD
+- Wie viel kostet es? — 4.684839000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

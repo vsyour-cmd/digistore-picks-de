@@ -4,34 +4,34 @@ digistore24_product_id: 702256
 title: "Mediensucht stoppen"
 vendor: "pixonmedia"
 product_type: "E-books"
-price: 20.84
+price: 20.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.42
+earnings_per_sale: 10.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-06-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ratgeberplatz.de/ratgeber/mediensucht-stoppen?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57025/adminstore/"
 sales_page: "https://ratgeberplatz.de/ratgeber/mediensucht-stoppen"
 language: "de"
 ---
 # Mediensucht stoppen
 
 > Product ID `57025` · Digistore24 productId `702256` · [HTML profile page](../../produkte/mediensucht-stoppen-57025.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.84 (Single payment) |
+| Price | $20.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.42 |
+| Earnings/sale* | $10.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pixonmedia |
@@ -41,11 +41,29 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Werde Affiliate für „Mediensucht stoppen" Bildschirme bestimmen den Familienalltag? Dieser Ratgeber zeigt Erwachsenen und Kindern einen realistischen Weg zu gesünderem Medienkonsum – mit klaren Familienregeln, schönen Alternativen und ohne ständigen Streit. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Sucht & …
+**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Mediensucht stoppen"</strong></p>
+<p>Bildschirme bestimmen den Familienalltag? Dieser Ratgeber zeigt Erwachsenen und Kindern einen realistischen Weg zu gesünderem Medienkonsum – mit klaren Familienregeln, schönen Alternativen und ohne ständigen Streit.</p>
+<p><strong>Warum dieses E-Book bewerben?</strong></p>
+<ul>
+<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
+<li>Gefragtes Thema mit großer Zielgruppe: Sucht &amp; Entzug / Selbsthilfe</li>
+<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
+<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>Erkennen, wann Mediennutzung zum Problem wird</li>
+<li>Verstehen, wie Apps und Medien fesseln</li>
+<li>Klare Medienregeln für die ganze Familie finden</li>
+<li>Kinder altersgerecht begleiten statt nur verbieten</li>
+<li>Bildschirmfreie Zeiten und schöne Alternativen schaffen</li>
+</ul>
+<p><strong>Für deine Zielgruppe:</strong> Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- &amp; Persönlichkeitsentwicklungs-Zielgruppe</p>
+<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ratgeberplatz.de/ratgeber/mediensucht-stoppen?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57025/adminstore/
 - Sales page: https://ratgeberplatz.de/ratgeber/mediensucht-stoppen
 - Vendor affiliate support: https://ratgeberplatz.de/partnerprogramm
 - Canonical redirect: https://www.digistore24.com/redir/702256/adminstore
@@ -86,7 +104,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Mediensucht stoppen? — Typ: E-books, Anbieter: pixonmedia, gelistet seit 2026-06-17
-- Wie viel kostet es? — 20.84316 USD
+- Wie viel kostet es? — 20.796660000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

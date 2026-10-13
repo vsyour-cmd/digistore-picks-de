@@ -4,16 +4,16 @@ digistore24_product_id: 462653
 title: "Ralf Molls Onlinekurse für Fasten, Abnehmen & Gesundheit"
 vendor: "RalfMollFastensuppen"
 product_type: "Online coaching"
-price: 43.51
+price: 43.42
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 6.14
+earnings_per_sale: 6.13
 cart_conversion_pct: 13
 cancel_rate_pct: 1.35
 categories: ["Health & Fitness"]
 listed_since: "2022-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-intervallfasten/?aff=adminstore#aff=adminstore"
 sales_page: "https://ralf-moll-online-fastenkurse-suppenfasten-mit-fastensuppen.coachy.net/lp/landingpage-intervallfasten/"
@@ -22,16 +22,16 @@ language: "de"
 # Ralf Molls Onlinekurse für Fasten, Abnehmen & Gesundheit
 
 > Product ID `35866` · Digistore24 productId `462653` · [HTML profile page](../../produkte/ralf-molls-onlinekurse-f-r-fasten-abnehmen-gesundheit-35866.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $43.51 (Single payment) |
+| Price | $43.42 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $6.14 |
+| Earnings/sale* | $6.13 |
 | Cart conversion* | 13% |
 | Cancel rate* | 1.35% |
 | Vendor | RalfMollFastensuppen |
@@ -41,7 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der 3-Tage-Online-Blitzfastenkurs mit Ralf Moll Der 120/80-Blutdruck-Guide mit Ralf Moll Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll & Profikoch Holger Ilg Der 10-Tage-INTERVALLFASTEN-Kurs mit Ralf Moll Tue Gutes und empfehle deinen Kunden und Freunden unser sehr gesundes, erprobtes und leckeres Suppenfastenprogramm weiter und verdiene mit uns mit! Deine Vorteile: -> Provisionen von zur Zei…
+**Vendor's marketplace description:** <h2><a href="https://www.digistore24.com/product/368229" target="_blank" rel="noreferrer noopener"><strong>Der 3-Tage-Online-Blitzfastenkurs mit Ralf Moll</strong></a></h2>
+<h2><a href="https://www.digistore24.com/product/398128/" target="_blank" rel="noreferrer noopener"><strong>Der 120/80-Blutdruck-Guide mit Ralf Moll</strong></a></h2>
+<h2><a href="https://www.digistore24.com/product/422975/" target="_blank" rel="noreferrer noopener"><strong>Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll &amp; Profikoch Holger Ilg</strong></a></h2>
+<h2><a href="https://www.digistore24.com/product/462653" target="_blank" rel="noreferrer noopener"><strong>Der 10-Tage-INTERVALLFASTEN-Kurs mit Ralf Moll</strong></a></h2>
+<h4><span style="color:#ff0000;"><strong>Tue Gutes und empfehle deinen Kunden und Freunden unser sehr gesundes, erprobtes und leckeres Suppenfastenprogramm weiter und verdiene mit uns mit!</strong></span></h4>
+<p>Deine Vorteile:</p>
+<p><strong>-&gt; Provisionen von zur Zeit 15% für alle Produkte</strong></p>
+<p><strong>-&gt; Garantiert etwas für deine Kunden dabei: Jeder muss mal fasten!</strong></p>
+<p><strong>-&gt; Getestet und optimiert: Bereits über 5.000 verkaufte Online-Kurse</strong></p>
+<p><strong>-&gt; Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren optimierten Verkaufsfunneln und Riesennetzwerk</strong></p>
+<p><strong>-&gt; Schneller Support durch unseren Affiliate-Manager</strong></p>
+<p>Melde dich jetzt als Affiliate an und verdiene mit uns mit!</p>
+<p>Beste Fastengrüße<br />Dein Ralf Moll &amp; Team</p>
 
 ## 2. Links
 
@@ -89,7 +101,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ralf Molls Onlinekurse für Fasten, Abnehmen & Gesundheit? — Typ: Online coaching, Anbieter: RalfMollFastensuppen, gelistet seit 2022-09-29
-- Wie viel kostet es? — 43.512898 USD
+- Wie viel kostet es? — 43.415823 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

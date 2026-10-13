@@ -4,16 +4,16 @@ digistore24_product_id: 323519
 title: "Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter"
 vendor: "Act_by_Dirk_Kreuter"
 product_type: "Software"
-price: 223
+price: 222.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 111.5
+earnings_per_sale: 111.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-04-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/323519?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/323519"
@@ -22,16 +22,16 @@ language: "de"
 # Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter
 
 > Product ID `33310` · Digistore24 productId `323519` · [HTML profile page](../../produkte/neu-weltneuheit-der-auftrags-generator-by-dirk-kreuter-33310.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $223.00 (Subscription) |
+| Price | $222.50 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $111.50 |
+| Earnings/sale* | $111.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Act_by_Dirk_Kreuter |
@@ -41,7 +41,9 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Der Auftrags-Generator ist ein Produkt was sich einfach Online verkaufen lässt. Denn der Auftrags-Generator bietet erstmals die meist-gefragteste Funktion von Vertrieblern. Dabei muss der Kunde nichts ändern sondern kann alle vorhanden Systeme weiternutzen.Du kannst jetzt als Affiliate von diesem einzigartigen Produkt mit 30% Lifetime Provision, so wie 20% 2nd-Level-Provision profitieren.Das Vertr…
+**Vendor's marketplace description:** <p>Der Auftrags-Generator ist ein Produkt was sich einfach Online verkaufen lässt. <br /><br />Denn der Auftrags-Generator bietet erstmals die <br />meist-gefragteste Funktion von Vertrieblern. Dabei muss der Kunde nichts ändern sondern kann alle vorhanden Systeme weiternutzen.<br /><br />Du kannst jetzt als Affiliate von diesem einzigartigen Produkt mit <strong>30% <span style="color:#ff6600;">Lifetime</span> <span style="color:#ff6600;">Provision</span>, so wie 20% 2nd-Level-Provision</strong> profitieren.<br /><br />Das Vertrauen in die starke <strong>Marke "Dirk Kreuter"</strong> sorgt dabei für eine hohe <strong>Conversion Rate</strong>.    </p>
+<p>Die 1€ Testphase von 14 Tage führt zu schnellen Kaufentscheidungen auf der Landingpage.  </p>
+<p>Schnell sein lohnt sich, da es derzeit weltweit kein vergleichbares Produkt gibt.</p>
 
 ## 2. Links
 
@@ -87,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter? — Typ: Software, Anbieter: Act_by_Dirk_Kreuter, gelistet seit 2020-04-28
-- Wie viel kostet es? — 222.9994 USD
+- Wie viel kostet es? — 222.5019 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

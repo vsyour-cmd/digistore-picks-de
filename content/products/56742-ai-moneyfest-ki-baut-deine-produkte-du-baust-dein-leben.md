@@ -4,16 +4,16 @@ digistore24_product_id: 694733
 title: "AI MONEYFEST – KI baut deine Produkte, du baust dein Leben |"
 vendor: "AIMONEYFEST"
 product_type: "Downloads"
-price: 9.4
+price: 9.38
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 3.77
+earnings_per_sale: 3.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-05-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/694733?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/694733"
@@ -22,16 +22,16 @@ language: "de"
 # AI MONEYFEST – KI baut deine Produkte, du baust dein Leben |
 
 > Product ID `56742` · Digistore24 productId `694733` · [HTML profile page](../../produkte/ai-moneyfest-ki-baut-deine-produkte-du-baust-dein-leben-56742.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.40 (Single payment) |
+| Price | $9.38 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $3.77 |
+| Earnings/sale* | $3.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AIMONEYFEST |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** **AI MONEYFEST – Das perfekte Einstiegsprodukt für deine Audience!** Das komplette AI-Automation Starter-System für nur 9,99€. **Was ist enthalten?**- 8 Module (AI Money Roadmap, Produkt mit ChatGPT bauen, Funnel & E-Mail Systeme, Traffic & Content etc.)- 6 starke Bonus Packs (50 Hooks, Prompt Vault, 100 Content Ideas, Automation Blueprint uvm.)- Alles sofort einsetzbar für Reels, TikTok, Shorts &…
+**Vendor's marketplace description:** <p>**AI MONEYFEST – Das perfekte Einstiegsprodukt für deine Audience!**</p>
+<p>Das komplette AI-Automation Starter-System für nur 9,99€.</p>
+<p>**Was ist enthalten?**<br />- 8 Module (AI Money Roadmap, Produkt mit ChatGPT bauen, Funnel &amp; E-Mail Systeme, Traffic &amp; Content etc.)<br />- 6 starke Bonus Packs (50 Hooks, Prompt Vault, 100 Content Ideas, Automation Blueprint uvm.)<br />- Alles sofort einsetzbar für Reels, TikTok, Shorts &amp; digitale Produkte</p>
+<p>**Warum Affiliates lieben:**<br />- Sehr niedriger Preis → hohe Conversion Rate<br />- Aktuelles KI-Hype-Thema (sehr gefragt 2026)<br />- Perfekt als Lead-Magnet oder Einstiegsangebot<br />- Digitale Lieferung → keine Versandprobleme<br />- Hohe Kundenzufriedenheit durch praktische, sofort umsetzbare Inhalte</p>
+<p>**Provision:** [hier trägst du später z.B. 40-50% ein → 4–5 € pro Verkauf]</p>
+<p>Zielgruppe: Menschen die mit AI Geld verdienen wollen, Creator, Side-Hustler, Einsteiger im Online-Business.</p>
 
 ## 2. Links
 
@@ -71,7 +76,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist AI MONEYFEST – KI baut deine Produkte, du baust dein Leben |? — Typ: Downloads, Anbieter: AIMONEYFEST, gelistet seit 2026-05-29
-- Wie viel kostet es? — 9.401834000000001 USD
+- Wie viel kostet es? — 9.380859000000001 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 688702
 title: "Ebook - Eisbären in der Antarktis"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.28
+price: 6.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.14
+earnings_per_sale: 3.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Education"]
 listed_since: "2026-04-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/688702?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56387/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/688702"
 language: "de"
 ---
 # Ebook - Eisbären in der Antarktis
 
 > Product ID `56387` · Digistore24 productId `688702` · [HTML profile page](../../produkte/ebook-eisb-ren-in-der-antarktis-56387.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.28 (Single payment) |
+| Price | $6.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.14 |
+| Earnings/sale* | $3.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ein hochaktuelles und kontroverses Thema mit starkem Diskussionspotenzial: Dieses Buch beleuchtet die provokante Frage, ob Eisbären durch eine Umsiedlung in die Antarktis vor dem Aussterben gerettet werden könnten – wissenschaftlich fundiert, emotional aufgeladen und gesellschaftlich hochrelevant. Es spricht Leser an, die sich für Klimawandel, Artenschutz, Ethik und Zukunftsfragen interessieren, u…
+**Vendor's marketplace description:** <p>Ein hochaktuelles und kontroverses Thema mit starkem Diskussionspotenzial:</p>
+<p>Dieses Buch beleuchtet die provokante Frage, ob Eisbären durch eine Umsiedlung in die Antarktis vor dem Aussterben gerettet werden könnten – wissenschaftlich fundiert, emotional aufgeladen und gesellschaftlich hochrelevant.</p>
+<p>Es spricht Leser an, die sich für Klimawandel, Artenschutz, Ethik und Zukunftsfragen interessieren, und erzeugt durch die ungewöhnliche Fragestellung sofort Aufmerksamkeit.</p>
+<p>Die klare Positionierung zwischen Wissenschaft, Debatte und Umweltbewusstsein macht das Produkt besonders interessant für zielgerichtetes Content-Marketing.</p>
+<p>Ein ideales Buch für Affiliates, die Themen mit Viralpotenzial und hoher gesellschaftlicher Relevanz erfolgreich vermarkten möchten.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/688702?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56387/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/688702
 - Canonical redirect: https://www.digistore24.com/redir/688702/adminstore
 
@@ -71,7 +75,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Ebook - Eisbären in der Antarktis? — Typ: E-books, Anbieter: joebgesbuchverleger39ac, gelistet seit 2026-04-29
-- Wie viel kostet es? — 6.27536 USD
+- Wie viel kostet es? — 6.26136 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 690545
 title: "EÜR Excel-Vorlage für Kleinunternehmer (Deutschland)"
 vendor: "BloomGeneration"
 product_type: "Downloads"
-price: 9.32
+price: 9.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.66
+earnings_per_sale: 4.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-05-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/690545?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56483/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/690545"
 language: "de"
 ---
 # EÜR Excel-Vorlage für Kleinunternehmer (Deutschland)
 
 > Product ID `56483` · Digistore24 productId `690545` · [HTML profile page](../../produkte/e-r-excel-vorlage-f-r-kleinunternehmer-deutschland-56483.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.32 (Single payment) |
+| Price | $9.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.66 |
+| Earnings/sale* | $4.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BloomGeneration |
@@ -41,11 +41,20 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Excel-Vorlage für die Einnahmen-Überschuss-Rechnung von Kleinunternehmern in Deutschland. Funktioniert in Excel, LibreOffice und Google Sheets. Highlights: 12 Monatsblätter mit automatischer Summenbildung EÜR-Jahresabschluss fertig für ELSTER Steuerrücklage 40% wird automatisch berechnet Rechnungsvorlage inklusive (§19 UStG) Attraktive Provision · 180 Tage Cookie · Sofort-Download · Niedrige Storn…
+**Vendor's marketplace description:** <p>Excel-Vorlage für die Einnahmen-Überschuss-Rechnung von Kleinunternehmern in Deutschland. Funktioniert in Excel, LibreOffice und Google Sheets.</p>
+<p><strong>Highlights:</strong></p>
+<ul>
+<li>12 Monatsblätter mit automatischer Summenbildung</li>
+<li>EÜR-Jahresabschluss fertig für ELSTER</li>
+<li>Steuerrücklage 40% wird automatisch berechnet</li>
+<li>Rechnungsvorlage inklusive (§19 UStG)</li>
+</ul>
+<p><strong>Attraktive Provision</strong> · 180 Tage Cookie · Sofort-Download · Niedrige Stornoquote</p>
+<p>Fertige Werbemittel und alle Infos: <a href="https://partner.bloomgeneration.de">partner.bloomgeneration.de</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/690545?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56483/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/690545
 - Vendor affiliate support: https://partner.bloomgeneration.de
 - Canonical redirect: https://www.digistore24.com/redir/690545/adminstore
@@ -72,7 +81,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist EÜR Excel-Vorlage für Kleinunternehmer (Deutschland)? — Typ: Downloads, Anbieter: BloomGeneration, gelistet seit 2026-05-06
-- Wie viel kostet es? — 9.323392 USD
+- Wie viel kostet es? — 9.302592 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

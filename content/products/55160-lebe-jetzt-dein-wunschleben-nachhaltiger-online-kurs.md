@@ -4,16 +4,16 @@ digistore24_product_id: 558070
 title: "Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs"
 vendor: "Distel_Pipe"
 product_type: "Member area and video courses"
-price: 1591.44
+price: 1587.89
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 795.73
+earnings_per_sale: 793.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-06-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://www.thebig3.ch/online-kurse/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.thebig3.ch/online-kurse/"
@@ -22,16 +22,16 @@ language: "de"
 # Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs
 
 > Product ID `55160` · Digistore24 productId `558070` · [HTML profile page](../../produkte/lebe-jetzt-dein-wunschleben-nachhaltiger-online-kurs-55160.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1591.44 (Single payment) |
+| Price | $1587.89 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $795.73 |
+| Earnings/sale* | $793.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Distel_Pipe |
@@ -41,7 +41,14 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „Lebe jetzt dein Wunschleben!“ ist ein nachhaltiger Online-Kurs zur persönlichen Entwicklung. Der Kurs basiert auf dem Lebenskonzept The BIG 3: Fokus, Imagination und Energie. Ziel ist es, Menschen dabei zu unterstützen, ihr Leben bewusst neu auszurichten und mehr Klarheit, innere Stabilität und Selbstbestimmung zu entwickeln. Die Teilnehmenden arbeiten selbstständig mit klar strukturierten Inhalt…
+**Vendor's marketplace description:** <p><strong>„Lebe jetzt dein Wunschleben!“ ist ein nachhaltiger Online-Kurs zur persönlichen Entwicklung.</strong></p>
+<p>Der Kurs basiert auf dem Lebenskonzept The BIG 3: Fokus, Imagination und Energie.</p>
+<p><strong>Ziel ist es, Menschen dabei zu unterstützen, ihr Leben bewusst neu auszurichten und mehr Klarheit, innere Stabilität und Selbstbestimmung zu entwickeln.</strong></p>
+<p>Die Teilnehmenden arbeiten selbstständig mit klar strukturierten Inhalten und praxisorientierten Aufgaben, die direkt im Alltag umgesetzt werden.</p>
+<p>Der Kurs ist bewusst ruhig, tiefgehend und nachhaltig aufgebaut und richtet sich an Menschen, die bereit sind, Verantwortung für ihre persönliche Entwicklung zu übernehmen.</p>
+<p>Er umfasst 8 Module mit insgesamt 43 Lektionen und ist über einen Zeitraum von rund 110 Tagen angelegt. Die Inhalte werden zeitlich gesteuert freigeschaltet, um eine nachhaltige Integration sicherzustellen.</p>
+<p>Der Verkauf sowie die gesamte Zahlungsabwicklung erfolgen über Digistore24.</p>
+<p>Werbemittel für Affiliates stehen auf der Affiliate Supportseite zur Verfügung.</p>
 
 ## 2. Links
 
@@ -87,7 +94,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs? — Typ: Member area and video courses, Anbieter: Distel_Pipe, gelistet seit 2024-06-22
-- Wie viel kostet es? — 1591.442502 USD
+- Wie viel kostet es? — 1587.8920770000002 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

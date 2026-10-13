@@ -4,16 +4,16 @@ digistore24_product_id: 288273
 title: "Buch Fremdbestimmt"
 vendor: "VFFW-Verlag"
 product_type: "Book (printed)"
-price: 23.04
+price: 22.99
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 5.76
+earnings_per_sale: 5.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2019-09-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "http://www.fremdbestimmt.com?aff=adminstore#aff=adminstore"
 sales_page: "http://www.fremdbestimmt.com"
@@ -22,16 +22,16 @@ language: "de"
 # Buch Fremdbestimmt
 
 > Product ID `30110` · Digistore24 productId `288273` · [HTML profile page](../../produkte/buch-fremdbestimmt-30110.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $23.04 (Single payment) |
+| Price | $22.99 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $5.76 |
+| Earnings/sale* | $5.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | VFFW-Verlag |
@@ -41,7 +41,15 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dieses Buch ist ein Warnruf an alle Europäer! Kurt Tucholsky schrieb 1931:»Das Volk versteht das meiste falsch; aber es fühlt das meiste richtig.« Immer mehr Menschen fühlen, dass die Zukunft Deutschlands und Europas in Gefahr ist, verstehen jedoch noch nicht die Ursachen. Deshalb muss das ganze Ausmaß von Täuschung und Fremdbestimmung offengelegt werden. Nur so können wir erkennen, was uns heute …
+**Vendor's marketplace description:** <p>Dieses Buch ist ein Warnruf an alle Europäer!</p>
+<p>Kurt Tucholsky schrieb 1931:<br />»Das Volk versteht das meiste falsch; aber es fühlt das meiste richtig.«</p>
+<p>Immer mehr Menschen fühlen, dass die Zukunft Deutschlands und Europas in Gefahr ist, verstehen jedoch noch nicht die Ursachen. Deshalb muss das ganze Ausmaß von Täuschung und Fremdbestimmung offengelegt werden. Nur so können wir erkennen, was uns heute bedroht, warum gegen den Mehrheitswillen offenkundig regiert wird und was wir dagegen tun können.</p>
+<p>Thorsten Schulte demaskiert in diesem Buch die Geschichtsschreibung der Sieger, deckt Unwahrheiten, Halbwahrheiten und das Weglassen wichtiger Fakten in unseren Medien auf. Er entlarvt das verzerrte Geschichtsbild, das immer noch zu einem Schuldkomplex der Deutschen mit verheerenden Folgen führt. Erst dadurch wird seine Gefahrenanalyse in diesem Buch für das heutige Deutschland verständlich.</p>
+<p>Wir müssen unsere Geschichte kennen –<br />und zwar die wahre Geschichte.</p>
+<p>Die New York Times huldigte dem letzten deutschen Kaiser im Juni 1913 mit der heute undenkbaren Überschrift: »Kaiser, 25 Jahre Herrscher, gefeiert als Friedensstifter«.<br />Den Deutschen wird nachweisbar gezielt vorenthalten, welcher US-Vertreter am 20. November 1922 den späteren deutschen Diktator traf und ihn als »fabelhaften Demagogen« bezeichnete.<br />Der ehemalige US-Präsident Harry S. Truman bemerkte über Deutschland und Russland im Juni 1941: »Lasst sie sich doch gegenseitig so weit wie möglich ausrotten.«<br />Bekam der deutsche Bundeskanzler Willy Brandt Gelder des US-Geheimdienstes CIA?<br />Wurden Spitzenpolitiker der Grünen im Ausland ausgebildet?<br />Frankreichs Zeitung Le Figaro schrieb 1992 über den Maastrichter Vertrag, der den Weg zum Euro ebnete: »Maastricht, das ist der Versailler Vertrag ohne Krieg«. Wer konnte bei der Euro-Rettung Angela Merkel 2011 womit zum Weinen bringen?</p>
+<p><br />Deutschlands Zukunft ist bedroht, wenn wir nicht handeln.</p>
+<p>Wir Deutschen müssen unsere Augen jetzt zum Sehen benutzen, damit wir sie nicht später zum Weinen gebrauchen.</p>
+<p><br />Mut zur Wahrheit für unsere Kinder und Enkel!</p>
 
 ## 2. Links
 
@@ -61,7 +69,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Buch Fremdbestimmt? — Typ: Book (printed), Anbieter: VFFW-Verlag, gelistet seit 2019-09-26
-- Wie viel kostet es? — 23.039536 USD
+- Wie viel kostet es? — 22.988136 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

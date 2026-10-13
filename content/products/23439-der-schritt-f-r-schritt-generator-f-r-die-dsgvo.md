@@ -4,34 +4,34 @@ digistore24_product_id: 209825
 title: "Der Schritt-für-Schritt Generator für die DSGVO"
 vendor: "oliengel"
 product_type: "Downloads"
-price: 223
+price: 222.5
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 66.9
+earnings_per_sale: 66.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2018-03-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/23439/adminstore/"
 sales_page: "https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise"
 language: "de"
 ---
 # Der Schritt-für-Schritt Generator für die DSGVO
 
 > Product ID `23439` · Digistore24 productId `209825` · [HTML profile page](../../produkte/der-schritt-f-r-schritt-generator-f-r-die-dsgvo-23439.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $223.00 (Single payment, Subscription) |
+| Price | $222.50 (Single payment, Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $66.90 |
+| Earnings/sale* | $66.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | oliengel |
@@ -41,11 +41,40 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das ist der erste und einzige Generator für die Dokumentation nach DSGVO auf dem Markt. Jeder, der im Internet aktiv ist braucht es und so gut wie jeder sucht nach einer Lösung die Zeit und Geld spart um das Thema DSGVO abzuhaken. Vom Datenschutzauditor (TÜV) erstellt und vorausgefüllt Mit ausführlichen Anleitungen direkt zur fertigen Dokumentation Für kleine- und mittelständische Betriebe, Einzel…
+**Vendor's marketplace description:** <p>Das ist der <strong>erste und einzige</strong> Generator für die Dokumentation nach DSGVO auf dem Markt. Jeder, der im Internet aktiv ist braucht es und so gut wie jeder sucht nach einer Lösung die Zeit und Geld spart um das Thema DSGVO abzuhaken.</p>
+<ul><li>Vom Datenschutzauditor (TÜV) erstellt und vorausgefüllt</li>
+<li>Mit ausführlichen Anleitungen direkt zur fertigen Dokumentation</li>
+<li>Für kleine- und mittelständische Betriebe, Einzelunternehmer, kleine Arzt-, Heil- und sonstige Praxen, Freelancer uvm.!</li>
+</ul><p>Bieten Sie Ihren Kunden die Möglichkeit mit einer einfachen Schritt-für-Schritt Anleitung die Dokumentation nach DSGVO abzuschließen.</p>
+<p>Die Leute sind genervt von Kursen und Webinaren, die am ende doch nur sagen, was man alles machen soll aber keine konkreten Vorschläge haben.</p>
+<p>Der Generator ist für Rechtslaien konzipiert, jeder sollte sich sofort zurechtfinden.</p>
+<p><strong>Inklusive sind:</strong></p>
+<ul><li>Über <strong>40</strong> vorausgefüllte Verarbeitungstätigkeiten, direkt zum Übernehmen!</li>
+<li>Fertiges Verzeichnis von Verarbeitungstätigkeiten</li>
+<li>Dokumentation der technischen und organisatorischen Maßnahmen (TOM) mit wenigen Klicks - über <strong>100</strong> vorgefertigte Maßnahmen</li>
+<li>Risikoabschätzung für alle Verarbeitungstätigkeiten</li>
+<li>Löschkonzept mit über <strong>100</strong> Datenarten inkl. Rechtsgrundlage und Löschprotokoll</li>
+<li>Vorausgefülltes Datenschutzkonzept</li>
+<li>Checkliste zur Umsetzung der DSGVO mit Praxisbeispielen</li>
+<li>Erfassung Ihrer Auftragsdatenverarbeiter</li>
+<li>Muster für eine Datenschutz-Folgenabschätzung</li>
+<li>Dokumentation zum Datenschutzbeauftragten</li>
+<li>DSGVO Basisschulung inkl. Teilnahmezertifikat</li>
+<li>Muster für einen AV-Vertrag (früher: ADV)</li>
+<li>Muster für eine Verpflichtung von Mitarbeitern oder sonstigen Beauftragten zur Einhaltung des Datenschutzes und der Vertraulichkeit</li>
+<li>Muster zur Bestellung eines Datenschutzbeauftragten (DSB)</li>
+<li>Muster für die Beantwortung von Betroffenenanfragen (Auskunft nach DSGVO)</li>
+<li>Muster für Datenschutzhinweise nach Artikel 13 &amp; 14 DSGVO zum Aushängen oder unterschreiben lassen</li>
+<li>Muster Bewerbereinwilligung</li>
+<li>Muster Einwilligung Mitarbeiterfotos / Jubiläum</li>
+<li>Muster für eine Passwortrichtlinie nach DSGVO</li>
+<li>Muster für einen Tätigkeitsbericht eines DSB</li>
+<li>Muster für einen Auditbericht</li>
+</ul><p>Die Nichterstellung dieser Dokumentation zieht hohe Bußgelder nach sich, weswegen es sehr beliebt bei Ihren Kunden sein sollte.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/23439/adminstore/
 - Sales page: https://shop.dsgvo-vorlagen.de/dsgvo-vorlagen-excel-und-word-preise
 - Canonical redirect: https://www.digistore24.com/redir/209825/adminstore
 
@@ -99,7 +128,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Der Schritt-für-Schritt Generator für die DSGVO? — Typ: Downloads, Anbieter: oliengel, gelistet seit 2018-03-21
-- Wie viel kostet es? — 222.9994 USD
+- Wie viel kostet es? — 222.5019 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

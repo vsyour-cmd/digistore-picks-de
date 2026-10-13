@@ -4,16 +4,16 @@ digistore24_product_id: 708959
 title: "ManyChat für Einsteiger - Das eBook"
 vendor: "KundenFinder"
 product_type: "E-books"
-price: 17.81
+price: 17.77
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.91
+earnings_per_sale: 8.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://manychatebook.dietlmeier.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://manychatebook.dietlmeier.de/"
@@ -22,16 +22,16 @@ language: "de"
 # ManyChat für Einsteiger - Das eBook
 
 > Product ID `58906` · Digistore24 productId `708959` · [HTML profile page](../../produkte/manychat-f-r-einsteiger-das-ebook-58906.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $17.81 (Single payment) |
+| Price | $17.77 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.91 |
+| Earnings/sale* | $8.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KundenFinder |
@@ -41,7 +41,32 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Jeden Tag dieselben Fragen im Facebook-Messenger? Ab jetzt beantworten sie sich von selbst. „ManyChat für Einsteiger" ist das Grundlagenbuch für alle, die ihre Facebook-Seite betreiben und wiederkehrende Anfragen automatisieren wollen – ohne Programmierkenntnisse, ohne Marketingstudium und ohne ihre Kontakte mit Spam zu vergraulen. Du lernst nicht nur, wo du klicken musst, sondern warum ein Flow s…
+**Vendor's marketplace description:** <div>
+<div>
+<p><strong>Jeden Tag dieselben Fragen im Facebook-Messenger? Ab jetzt beantworten sie sich von selbst.</strong></p>
+<p>„ManyChat für Einsteiger" ist das Grundlagenbuch für alle, die ihre Facebook-Seite betreiben und wiederkehrende Anfragen automatisieren wollen – ohne Programmierkenntnisse, ohne Marketingstudium und ohne ihre Kontakte mit Spam zu vergraulen.</p>
+<p>Du lernst nicht nur, wo du klicken musst, sondern warum ein Flow so aufgebaut ist. Schritt für Schritt baust du sechs echte Praxisprojekte:</p>
+<ul>
+<li>Willkommens-Flow – der perfekte erste Eindruck</li>
+<li>Lead-Magnet-Flow – Freebies automatisch ausliefern</li>
+<li>FAQ-Bot – häufige Fragen sofort beantworten</li>
+<li>Termin- &amp; Beratungsanfrage-Flow – Anfragen vorstrukturieren</li>
+<li>Einfacher Verkaufs-Flow – Vertrauen vor Angebot</li>
+<li>Reaktivierungs-Flow – inaktive Kontakte respektvoll zurückholen</li>
+</ul>
+<p><strong>Das steckt drin:</strong></p>
+<ul>
+<li>21 Kapitel in 6 Teilen – von den Grundlagen bis zum fertigen System</li>
+<li>Gestaltete Schaubilder und Flow-Diagramme zu jedem wichtigen Konzept</li>
+<li>7-Tage-Umsetzungsplan: vom Login zum funktionierenden Setup</li>
+<li>Anhänge mit Nachrichten-Vorlagen, Tag-System und Flow-Prüfliste</li>
+<li>Kapitel zu Einwilligung, Datenschutz und Spam-Vermeidung</li>
+</ul>
+<p><strong>Für wen:</strong> Einsteiger ohne Vorkenntnisse – Selbstständige, kleine Unternehmen, Coaches und alle, die neben Job oder Ruhestand ein Online-Standbein aufbauen.</p>
+<p><strong>Format:</strong> eBook als PDF, sofort nach dem Kauf herunterladbar. Stand: Juni 2026.</p>
+</div>
+</div>
+<div> </div>
 
 ## 2. Links
 
@@ -77,7 +102,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist ManyChat für Einsteiger - Das eBook? — Typ: E-books, Anbieter: KundenFinder, gelistet seit 2026-09-04
-- Wie viel kostet es? — 17.806334 USD
+- Wie viel kostet es? — 17.766609000000003 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

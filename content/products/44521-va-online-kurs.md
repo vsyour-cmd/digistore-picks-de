@@ -4,34 +4,34 @@ digistore24_product_id: 181839
 title: "VA Online Kurs"
 vendor: "veru79"
 product_type: "Member area and video courses"
-price: 42.36
+price: 42.26
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 12.12
+earnings_per_sale: 12.1
 cart_conversion_pct: 9
 cancel_rate_pct: 2.71
 categories: ["Education"]
 listed_since: "2017-11-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://fernarbeit.net/virtueller-assistent-online-kurs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/44521/adminstore/"
 sales_page: "https://fernarbeit.net/virtueller-assistent-online-kurs/"
 language: "de"
 ---
 # VA Online Kurs
 
 > Product ID `44521` · Digistore24 productId `181839` · [HTML profile page](../../produkte/va-online-kurs-44521.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $42.36 (Single payment) |
+| Price | $42.26 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $12.12 |
+| Earnings/sale* | $12.10 |
 | Cart conversion* | 9% |
 | Cancel rate* | 2.71% |
 | Vendor | veru79 |
@@ -41,11 +41,17 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Als Virtueller Assistent von überall arbeiten In diesem Online Kurs lernen die Teilnehmenden, wie sie als VA starten können und so ortsunabhängig arbeiten können. Ein Thema welches immer aktueller wird, da viele Menschen das Bedürfnis haben unabhängig zu arbeiten. Die Virtuelle Assistenz bietet dazu viele Möglichkeiten Deine Vorteile als Affiliate Für jeden verkauften Kurs erhältst du 30% Provisio…
+**Vendor's marketplace description:** <p><strong>Als Virtueller Assistent von überall arbeiten</strong></p>
+<p> </p>
+<p>In diesem Online Kurs lernen die Teilnehmenden, wie sie als VA starten können und so ortsunabhängig arbeiten können. Ein Thema welches immer aktueller wird, da viele Menschen das Bedürfnis haben unabhängig zu arbeiten. Die Virtuelle Assistenz bietet dazu viele Möglichkeiten</p>
+<p> </p>
+<p><strong>Deine Vorteile als Affiliate</strong></p>
+<p>Für jeden verkauften Kurs erhältst du 30% Provision.</p>
+<p>Der Kurs wird immer wieder um neue Inhalte ergänzt.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fernarbeit.net/virtueller-assistent-online-kurs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/44521/adminstore/
 - Sales page: https://fernarbeit.net/virtueller-assistent-online-kurs/
 - Vendor affiliate support: https://fernarbeit.net/va-kurs-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/181839/adminstore
@@ -78,7 +84,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist VA Online Kurs? — Typ: Member area and video courses, Anbieter: veru79, gelistet seit 2017-11-22
-- Wie viel kostet es? — 42.35868 USD
+- Wie viel kostet es? — 42.26418 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

@@ -4,34 +4,34 @@ digistore24_product_id: 740613
 title: "Automation Studio – Wiederkehrende Abläufe für Windows"
 vendor: "inspiredsoftware"
 product_type: "Software"
-price: 335.06
+price: 334.31
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 134.02
+earnings_per_sale: 133.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Software"]
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.inspiredsoftware.de/go/automationstudio?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60127/adminstore/"
 sales_page: "https://www.inspiredsoftware.de/go/automationstudio"
 language: "de"
 ---
 # Automation Studio – Wiederkehrende Abläufe für Windows
 
 > Product ID `60127` · Digistore24 productId `740613` · [HTML profile page](../../produkte/automation-studio-wiederkehrende-abl-ufe-f-r-windows-60127.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $335.06 (Single payment) |
+| Price | $334.31 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $134.02 |
+| Earnings/sale* | $133.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | inspiredsoftware |
@@ -41,12 +41,19 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das ProduktAutomation Studio übernimmt wiederkehrende Klicks und Dateneingaben in Windows-Anwendungen. Du zeichnest einen Ablauf einmal auf und spielst ihn beliebig oft automatisch wieder ab, zuverlässig und nachvollziehbar, ohne dass jemand danebensitzen muss. Skript-Programmierung brauchst du dafür nicht. Anders als ein einfacher Makro-Recorder findet Automation Studio seine Klickziele über Bild…
+**Vendor's marketplace description:** <p><strong>Das Produkt</strong><br />Automation Studio übernimmt wiederkehrende Klicks und Dateneingaben in Windows-Anwendungen. Du zeichnest einen Ablauf einmal auf und spielst ihn beliebig oft automatisch wieder ab, zuverlässig und nachvollziehbar, ohne dass jemand danebensitzen muss. Skript-Programmierung brauchst du dafür nicht. Anders als ein einfacher Makro-Recorder findet Automation Studio seine Klickziele über Bildanker wieder statt über starre Koordinaten. So bricht ein Ablauf nicht gleich ab, wenn sich nach einem Update das Layout leicht verschiebt.</p>
+<p><strong>Was Automation Studio kann</strong></p>
+<p>* Aufnahme: Klicks, Doppelklicks, Ziehen, Scrollen, Tasteneingaben und Text werden automatisch zu benannten Arbeitsschritten<br />* Bildanker: Klickziele werden über einen Bildausschnitt wiedergefunden, mit einstellbarer Patchgröße und Mindest-Trefferquote<br />* Wiedergabe: Retry-Logik bei Fehlern, tolerante Bildvergleiche und „Warten auf Bildzustand" für verzögert erscheinende Elemente<br />* Wiederholungen: Ein Ablauf lässt sich 1- bis 999-mal hintereinander abspielen, mit Fortschrittsanzeige<br />* Ablauf-Organisation: Abläufe in verschachtelten Ordnern ordnen, Export und Import gezielt für ausgewählte Abläufe<br />* Erfolgsauswertung: Alle Durchläufe bleiben einsehbar, zwei Durchläufe lassen sich direkt vergleichen<br />* HTML-Bericht: Jeder Durchlauf erzeugt automatisch einen Bericht mit Schritt-Tabelle, Screenshots und Differenzbildern<br />* Mehrmonitor und DPI: Korrekte Klickpunkte auch bei unterschiedlicher Skalierung<br />* Keine Installation: eigenständige Programmdatei, keine .NET-Runtime, keine Administratorrechte nötig</p>
+<p>Für wen ist das Produkt interessant?</p>
+<p>* Fachabteilungen, in denen täglich dieselben Masken und Eingaben in derselben Software anfallen<br />* Büro und Verwaltung, etwa bei Rechnungseingang, Bestellerfassung oder Monatsreporting<br />* IT-Verantwortliche, die Routineabläufe in Windows-Anwendungen ohne Programmieraufwand automatisieren wollen<br />* Unternehmen mit Software ohne Schnittstelle, bei der nur die Bedienoberfläche zur Verfügung steht</p>
+<p><strong>Warum sich das Produkt gut empfehlen lässt</strong></p>
+<p>* Konkreter Nutzen: Mitarbeiter werden von Routineklicks entlastet, Abläufe laufen gleichbleibend und nachvollziehbar<br />* Einfacher Einstieg: einmal vormachen, Automation Studio übernimmt den Rest, ohne Skripte und ohne Installation<br />* Robust: Bildanker und Retry-Logik halten Abläufe auch bei kleinen Layoutänderungen am Laufen<br />* Nachvollziehbar: automatischer HTML-Bericht mit Screenshots zu jedem Durchlauf<br />* Entwickelt und betreut von einem deutschen Anbieter (Inspired Software)</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.inspiredsoftware.de/go/automationstudio?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60127/adminstore/
 - Sales page: https://www.inspiredsoftware.de/go/automationstudio
+- Vendor affiliate support: https://inspiredsoftware.de/automationstudio/werbemittel.html
 - Canonical redirect: https://www.digistore24.com/redir/740613/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
@@ -84,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Automation Studio – Wiederkehrende Abläufe für Windows? — Typ: Software, Anbieter: inspiredsoftware, gelistet seit 2026-10-02
-- Wie viel kostet es? — 335.05940000000004 USD
+- Wie viel kostet es? — 334.31190000000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

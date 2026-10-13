@@ -4,16 +4,16 @@ digistore24_product_id: 350379
 title: "Online-Ausbildung zum Pferdegestützten Coach"
 vendor: "AlexandraLohr"
 product_type: "Member area and video courses"
-price: 3842.06
+price: 3833.48
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 768.41
+earnings_per_sale: 766.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://my-business-1661-30dab7dc.mydigibiz24.com/homepage?aff=adminstore#aff=adminstore"
 sales_page: "https://my-business-1661-30dab7dc.mydigibiz24.com/homepage"
@@ -22,16 +22,16 @@ language: "de"
 # Online-Ausbildung zum Pferdegestützten Coach
 
 > Product ID `34436` · Digistore24 productId `350379` · [HTML profile page](../../produkte/online-ausbildung-zum-pferdegest-tzten-coach-34436.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $3842.06 (Single payment, Installment) |
+| Price | $3833.48 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $768.41 |
+| Earnings/sale* | $766.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AlexandraLohr |
@@ -41,7 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Eine bislang noch einzigartige Ausbildung auf dem Markt für eine interessante Zielgruppe! Das Pferdegestützte Coaching auf Basis systemischer Grundlagen erlernen und dadurch Menschen mit Pferden in ihrer Persönlichkeitsentwicklung zu begleiten ist ein aufstrebender Markt! - Ich biete 25% Provision auf den VK von 2495,- inkl. MwSt. Wir kombinieren eine Online Ausbildung mit Präsenztagen vor Ort. Da…
+**Vendor's marketplace description:** <p>Eine bislang noch einzigartige Ausbildung auf dem Markt für eine interessante Zielgruppe!</p>
+<p>Das Pferdegestützte Coaching auf Basis systemischer Grundlagen erlernen und dadurch Menschen mit Pferden in ihrer Persönlichkeitsentwicklung zu begleiten ist ein aufstrebender Markt!</p>
+<p>- <strong>Ich biete 25% Provision auf den VK von 2495,- inkl. MwSt.</strong></p>
+<p>Wir kombinieren eine Online Ausbildung mit Präsenztagen vor Ort. Das Präsenztraining gibt es on Top für den Kunden. Eine hochwertige Ausbildung mit einem inhaltsreichen Skript und vielen Videobeispielen.</p>
+<p>Auch kontinuierliche Zoom Meetings mit live Coachings sind für die Teilnehmer kostenlos.</p>
+<p> </p>
 
 ## 2. Links
 
@@ -86,7 +91,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist Online-Ausbildung zum Pferdegestützten Coach? — Typ: Member area and video courses, Anbieter: AlexandraLohr, gelistet seit 2020-09-30
-- Wie viel kostet es? — 3842.0555420000005 USD
+- Wie viel kostet es? — 3833.4841170000004 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

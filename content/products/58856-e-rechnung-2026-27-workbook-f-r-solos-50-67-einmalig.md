@@ -4,16 +4,16 @@ digistore24_product_id: 728311
 title: "E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig"
 vendor: "lvlBoZzlvl"
 product_type: "E-books"
-price: 70.17
+price: 70.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 35.09
+earnings_per_sale: 35.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://finanzamt-klar.pages.dev?aff=adminstore#aff=adminstore"
 sales_page: "https://finanzamt-klar.pages.dev"
@@ -22,16 +22,16 @@ language: "de"
 # E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig
 
 > Product ID `58856` · Digistore24 productId `728311` · [HTML profile page](../../produkte/e-rechnung-2026-27-workbook-f-r-solos-50-67-einmalig-58856.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $70.17 (Single payment) |
+| Price | $70.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $35.09 |
+| Earnings/sale* | $35.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lvlBoZzlvl |
@@ -41,7 +41,23 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digitales Workbook (PDF, 90 Seiten DIN-A4, Deutsch, Stand September 2026) für Solo-Selbstständige in Deutschland: E-Rechnung empfangen, Belege ablegen, EÜR für ELSTER vorbereiten. Kein Abo, kein Coaching, keine Software. Verkaufspreis 67 € einmalig. Affiliate-Provision 50 %. Rückerstattung 14 Tage. Verkaufsseite: https://finanzamt-klar.pages.dev — Orderform: https://www.digistore24.com/product/728…
+**Vendor's marketplace description:** <p>Digitales Workbook (PDF, 90 Seiten DIN-A4, Deutsch, Stand September 2026) für Solo-Selbstständige in Deutschland: E-Rechnung empfangen, Belege ablegen, EÜR für ELSTER vorbereiten. Kein Abo, kein Coaching, keine Software. Verkaufspreis 67 € einmalig. Affiliate-Provision 50 %. Rückerstattung 14 Tage. Verkaufsseite: https://finanzamt-klar.pages.dev — Orderform: https://www.digistore24.com/product/728311. Bildungs- und Arbeitsmaterial, keine Steuerberatung, ersetzt keinen Steuerberater.</p>
+<p>WARUM DIESES PRODUKT BEWERBEN</p>
+<p>Finanzamt-klar 2026/27 ist ein E-Book als PDF-Download (90 Seiten DIN-A4). Einmalpreis 67 €, kein Abo, keine Upsells in dieser Fassung. Affiliate-Provision: 50 %. Widerruf / Erstattung: 14 Tage. Auslieferung über den Digistore24-Download-Tresor.</p>
+<p>Du bewirbst kein Coaching, keine Software-Lizenz und kein „Steuerberater-Ersatz“. Du bewirbst ein redaktionell recherchiertes Werkbuch (Herausgeber Digilisator, ohne Steuerberater-Mandat) zum Thema, das Solo-Selbstständige 2026–2028 ohnehin abarbeiten müssen: Empfangspflicht E-Rechnung seit 1.1.2025, gestaffelte Versandpflicht bis 2027/2028, Belegordnung, EÜR-Vorbereitung für ELSTER.</p>
+<p>Das Thema ist gesetzlich getaktet (Übergang 2026 / 2027 / 2028), nicht saisonal erfunden. Das PDF selbst ist eine Momentaufnahme Stand September 2026 — es gibt keine lebenslangen Gratis-Updates. Das solltest du in deiner Werbung genauso sagen.</p>
+<p>KONDITIONEN (Produktstamm)</p>
+<p>• Produkt-ID: 728311<br />• Typ: E-Book / PDF-Download<br />• Preis: 67,00 € einmalig<br />• Provision: 50 %<br />• Erstattung: 14 Tage<br />• Sprache: Deutsch<br />• Verkaufsseite: https://finanzamt-klar.pages.dev<br />• Bestellformular: https://www.digistore24.com/product/728311<br />• Checkout: nur Digistore24 (Merchant of Record)</p>
+<p>Für wen die Käufer-Zielgruppe ist (damit du Traffic zuordnest):</p>
+<p>Eher ja — Solos in Deutschland, die Rechnungen stellen und bekommen und eine EÜR über ELSTER vorbereiten: Freiberuf, kleines Gewerbe, Kleinunternehmer nach § 19 UStG und Regelbesteuerte. Auch Menschen, die einer Kanzlei saubere Unterlagen liefern wollen — nicht, weil das Buch die Kanzlei ersetzt.</p>
+<p>Eher nein — GmbH/UG-Geschäftsführung, Konzern-EDI, Personengesellschaften mit Ergänzungsbilanzen, VAT-OSS, „Steueroptimierung“, laufende Betriebsprüfung. Wer 100 % Rechtssicherheit, Bußgeldfreiheit oder ein Mandat erwartet, ist falsch hier.</p>
+<p>EHRLICHE CLAIMS — das darfst du sagen</p>
+<p>• Workbook, 90 Seiten, Stand September 2026.<br />• Drei Arbeitssysteme: Empfang, Beleg, Erklärung.<br />• Entscheidungsbaum Empfang vs. Versand 2026/27/28.<br />• Was eine E-Rechnung rechtlich ist (strukturiertes Format; PDF allein reicht seit 2025 nicht).<br />• Empfangen ohne Software-Panik; Versand-Entscheidung 2026 / 2027 / 2028.<br />• GoBD-light-Ablage für Solos (keine amtliche Zertifizierung — die gibt es durch das BMF nicht).<br />• Monatsritual; EÜR-Vorbereitung anhand Anlage EÜR 2025 als Arbeitsgrundlage (Vordruck 2026/27 kann abweichen).<br />• Kleinunternehmer-Grenzen Stand September 2026 (25.000 / 100.000).<br />• 20 typische Solo-Fehler; Handover-Paket für den Steuerberater.<br />• 14 Tage Widerruf; 67 € einmalig; 50 % Provision.</p>
+<p>EHRLICHE CLAIMS — das darfst du NICHT sagen</p>
+<p>• Kein „ersetzt den Steuerberater“.<br />• Kein „100 % rechtssicher“, kein „Bußgeld-frei“.<br />• Keine Einkommens-, Ersparnis- oder Ergebnisgarantie (weder für Käufer noch für Affiliates).<br />• Keine erfundenen EPC-, Conversion- oder Verkaufszahlen.<br />• Keine Fake-Testimonials, keine erfundenen Kundenstimmen.<br />• Keine künstliche Knappheit, kein Countdown, keine „letzten Plätze“.<br />• Kein Versprechen lebenslanger Rechts-Updates.<br />• Keine Software-Empfehlung und kein Tool-Affiliate im Buch.</p>
+<p>Kennzahlen (EPC, Conversion, Verkäufe, Refund-Quote) stehen in diesem Eintrag absichtlich nicht. Sobald der Vendor-Account echte Werte hat, können sie nachgetragen werden — nicht vorher.</p>
+<p>Affiliate-Support-Seite: derzeit nicht hinterlegt. Werbemittel: Cover und Verkaufsseite unter den oben genannten URLs. Kein Swipe-Pack in diesem Entwurf.</p>
+<p>Bitte vor dem Bewerben Verkaufsseite und Orderform selbst lesen. Die Verkaufsseite enthält die verbindlichen Käufer-Hinweise (keine individuelle Steuer- oder Rechtsberatung; Leser bleibt gegenüber dem Finanzamt verantwortlich).</p>
 
 ## 2. Links
 
@@ -94,7 +110,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist E-Rechnung 2026/27-Workbook für Solos — 50 %, 67 € einmalig? — Typ: E-books, Anbieter: lvlBoZzlvl, gelistet seit 2026-09-01
-- Wie viel kostet es? — 70.171972 USD
+- Wie viel kostet es? — 70.015422 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 

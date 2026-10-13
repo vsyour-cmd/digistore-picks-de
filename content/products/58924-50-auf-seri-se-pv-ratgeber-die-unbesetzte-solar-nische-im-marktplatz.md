@@ -4,16 +4,16 @@ digistore24_product_id: 721062
 title: "50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz"
 vendor: "Feo-Media"
 product_type: "Member area and video courses"
-price: 46.15
+price: 46.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.07
+earnings_per_sale: 23.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection","Home & Garden"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://wattvoll.de/produkt/komplett-paket?aff=adminstore#aff=adminstore"
 sales_page: "https://wattvoll.de/produkt/komplett-paket"
@@ -22,16 +22,16 @@ language: "de"
 # 50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz
 
 > Product ID `58924` · Digistore24 productId `721062` · [HTML profile page](../../produkte/50-auf-seri-se-pv-ratgeber-die-unbesetzte-solar-nische-im-marktplatz-58924.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $46.15 (Single payment) |
+| Price | $46.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.07 |
+| Earnings/sale* | $23.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Feo-Media |
@@ -41,7 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Das Produkt: Das Wattvoll Komplett-Paket ist ein digitaler PV-Ratgeber-Kurs (Mitgliederbereich): alle Kapitel, Rechner, Normenkatalog und Technik-Grundlagen — vom Angebotsvergleich bis zum Weiterbetrieb nach 20 Jahren. Erstellt und fachlich verantwortet von Axel Klett, seit 2008 in der Solarbranche (2009–2018 eigener Installationsbetrieb). Einmalzahlung, 14 Tage Geld-zurück, jede Zahl mit Quelle u…
+**Vendor's marketplace description:** <p>Das Produkt: Das Wattvoll Komplett-Paket ist ein digitaler PV-Ratgeber-Kurs (Mitgliederbereich): alle Kapitel, Rechner, Normenkatalog und Technik-Grundlagen — vom Angebotsvergleich bis zum Weiterbetrieb nach 20 Jahren. Erstellt und fachlich verantwortet von Axel Klett, seit 2008 in der Solarbranche (2009–2018 eigener Installationsbetrieb). Einmalzahlung, 14 Tage Geld-zurück, jede Zahl mit Quelle und Stand-Datum. Dazu gehören sechs weitere Produkte von 9–99 € (Balkonkraftwerk-, Kauf-, Abnahme-, Weiterbetriebs-Check, Installateurs-Paket) — als Partner bewirbst du automatisch die ganze Familie.</p>
+<p>Warum sich das Bewerben lohnt: Photovoltaik ist eine der meistgesuchten Kaufentscheidungen im DACH-Raum (Balkonkraftwerk-Boom, EEG-Debatte, Strompreise) — und im Marktplatz praktisch unbesetzt: Es gibt hier kein vergleichbares seriöses PV-Infoprodukt. Du bekommst 50 % Provision auf alle Produkte, automatische Partnerannahme, und auf wattvoll.de/partner fertiges Material: Produktbilder in vier Formaten, Banner, E-Mail-Swipes, Social-Texte und klare Spielregeln. Das Programm ist jung — wir schönen nichts: die echten KPIs siehst du hier im Marktplatz. Fragen beantwortet der Gründer direkt: support@feo-media.de.</p>
 
 ## 2. Links
 
@@ -88,7 +89,7 @@ language: "de"
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 
 - Was ist 50 % auf seriöse PV-Ratgeber — die unbesetzte Solar-Nische im Marktplatz? — Typ: Member area and video courses, Anbieter: Feo-Media, gelistet seit 2026-09-04
-- Wie viel kostet es? — 46.146308000000005 USD
+- Wie viel kostet es? — 46.043358000000005 USD
 - Garantie? — nicht in unserer Recherche gefunden, auf der offiziellen Seite prüfen
 - Alternativen? — siehe Vergleichstabelle des Profils / Alternativen-Seite
 
