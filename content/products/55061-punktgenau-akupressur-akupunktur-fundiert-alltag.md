@@ -52,7 +52,7 @@ language: "de"
 ## 3. Sales-page research (vendor claims, not verified by us)
 
 - **Page title:** Akupressur Onlinekurs – 33 + 2 Punkte sicher anwenden
-- **Meta description:** Lerne Akupressur Schritt für Schritt: 33 + 2 Punkte, Videos, Praxis-Workshop und Punktekarten – ohne Nadeln und ohne Vorkenntnisse selbst anwenden.<br />
+- **Meta description:** Lerne Akupressur Schritt für Schritt: 33 + 2 Punkte, Videos, Praxis-Workshop und Punktekarten – ohne Nadeln und ohne Vorkenntnisse selbst anwenden.
 - **Headline (H1):**
   > Akupressur lernen. Selbst aktiv werden.
 - **Section headlines (H2):**

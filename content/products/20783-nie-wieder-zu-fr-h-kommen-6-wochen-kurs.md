@@ -60,7 +60,7 @@ language: "de"
   - Hole Dir als Mann den neuen Kurs und beginne noch heute damit, Deinen Orgasmus bewusst hinauszuzögern und Deinen Sex sofort zu verbessern !
   - Was lernst Du in diesem Onlinekurs-Paket?
   - Verändere jetzt Deine Sexualität als Mann.
-  - Kleine Investition < = > große Wirkung .
+  - Kleine Investition große Wirkung .
   - Der Kurs würde im 1 zu 1 Coaching einen Wert von 399,-€ mit Unterlagen und Zeiteinheiten besitzen.
   - Das gleiche System als online Kurs können wir für Dich wesentlich günstiger realisieren. Und wir machen das!
   - Was erwartet Dich in den 6 intensiven Modulen bis zum Ziel?
