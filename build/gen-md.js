@@ -150,7 +150,7 @@ for (const p of DATA.products) {
   lines.push("### 3e. Related links & interaction");
   lines.push("");
   lines.push("- Related searches on the profile page: " + p.label + " Alternativen · Preis & Daten · Erfahrungen & Recherche");
-  lines.push("- Public Digistore24 product page: https://www.digistore24.com/product/" + p.productId);
+  lines.push("- Public Digistore24 product page: https://www.checkout-ds24.com/product/" + p.productId + "/");
   lines.push("- Diskussion / eigene Erfahrung: https://github.com/vsyour-cmd/digistore-picks-de/discussions?discussions_q=" + encodeURIComponent(p.label));
   lines.push("");
   lines.push("## 4. Editorial notes");
