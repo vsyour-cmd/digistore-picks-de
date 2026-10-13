@@ -402,11 +402,67 @@ ${pool.map(row).join("\n")}
   console.log("daily article (DE):", f);
 }
 
+// ---------- Wochen-Digest(数据来自 history 快照 vs 当前 dataset,随每日重建刷新) ----------
+function thisWeekDigestDe() {
+  const histDir = "G:/Digistore24/data-de/history";
+  const snaps = fs.existsSync(histDir) ? fs.readdirSync(histDir).filter((f) => f.endsWith("-de.json")).map((f) => f.slice(0, 10)).sort() : [];
+  if (snaps.length < 2) { console.log("this-week: not enough snapshots, skipped"); return; }
+  const oldest = JSON.parse(fs.readFileSync(path.join(histDir, snaps[0] + "-de.json"), "utf8"));
+  const oldMap = new Map((oldest.products || []).map((p) => [String(p.id), p]));
+  const news = products.filter((p) => !oldMap.has(String(p.id)));
+  const gone = [...oldMap.values()].filter((o) => !products.find((x) => String(x.id) === String(o.id)));
+  const raises = [], drops = [];
+  for (const p of products) {
+    const o = oldMap.get(String(p.id));
+    if (!o || !o.price || !p.price) continue;
+    const pc = ((p.price - o.price) / o.price) * 100;
+    if (p.price - o.price >= 0.5 && pc >= 1) raises.push({ p, o, pc });
+    if (o.price - p.price >= 0.5 && pc <= -1) drops.push({ p, o, pc });
+  }
+  news.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
+  raises.sort((a, b) => b.pc - a.pc); drops.sort((a, b) => a.pc - b.pc);
+  const withConv = news.filter((p) => p.conversionRate != null).length;
+  const reachable = news.filter((p) => !(p.research && p.research.error)).length;
+  const prices = news.map((p) => p.price).filter((v) => v != null).sort((a, b) => a - b);
+  const med = prices.length ? prices[Math.floor(prices.length / 2)] : null;
+  const types = Object.entries(news.reduce((m, p) => { const t = p.type || "Other"; m[t] = (m[t] || 0) + 1; return m; }, {})).sort((a, b) => b[1] - a[1]);
+  const f = "marktplatz-eine-woche.html";
+  const nrow = (p) => `<tr><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.type)}</td><td>${money(p.price, p.currency)}</td><td>${money(p.earningsPerSale, p.currency)}</td><td>${p.conversionRate != null ? pct(p.conversionRate) : '<span class="sub">nicht veröffentlicht</span>'}</td></tr>`;
+  const body = `
+<h1>${news.length} neue Angebote in dieser Woche — und ${gone.length} verschwunden</h1>
+<p class="sub">Marktplatz-Fluktuation, Woche für Woche · Snapshot ${snaps[0]} vs ${UPDATED} · Jede Zahl offizielle Digistore24-Marktplatz-Daten</p>
+<div class="tldr"><b>Auf einen Blick:</b> <ul>
+<li><b>${news.length} neue Listings</b> kamen diese Woche in den deutschsprachigen Marktplatz; <b>${gone.length}</b> gingen ab. Median-Einstiegspreis: <b>${med != null ? money(med, "USD") : "—"}</b>.</li>
+<li>Only <b>${withConv} of ${news.length}</b> neuen Listings veröffentlichen eine Warenkorb-Konversion. Frische Angebote lassen Sie blind tasten — das ist normal und ein Grund zur Geduld.</li>
+<li>${raises.length} Preiserhöhungen</b>, <b>${drops.length} Preissenkungen</b> bei fortbestehenden Angeboten — Anbieter-Neupreisung in Aktion.</li>
+</ul></div>
+<h2>Die Neuzugänge</h2>
+<p>Neue Listings setzen sich zusammen aus ${types.slice(0, 3).map(([t, n]) => `${esc(t)} (${n})`).join(", ")}. Alle ${reachable} von ${news.length} Verkaufsseiten waren bei der Recherche erreichbar — das bleibt nicht ewig so, und genau deshalb gehört die Abgangs-Tabelle unten ins Bild.</p>
+<table class="specs">
+<tr><th>Produkt</th><th>Typ</th><th>Preis</th><th>Verdienst/Verkauf</th><th>Warenkorb-Konv.*</th></tr>
+${news.slice(0, 15).map(nrow).join("\n")}
+</table>
+${news.length > 15 ? `<p class="sub">…and ${news.length - 15} weitere — siehe <a href="monthly-new.html">die monatliche Neuheiten-Seite</a>.</p>` : ""}
+<p class="sub">* Konversion ist Anbieter-gemeldet über den eigenen Traffic und fehlt bei frischen Listings oft. Fehlen ist kein Vorwurf — ein Grund, später erneut nachzusehen, wenn echte Traffic-Historie existiert.</p>
+<h2>Preisbewegungen bei bestehenden Angeboten</h2>
+${raises.length ? `<p><b>Erhöht:</b> ${raises.map(({ p, pc }) => `<a href="../reviews/${p.slug}.html">${esc(p.label)}</a> +${Math.round(pc)}%`).join(" · ")}.</p>` : ""}
+${drops.length ? `<p><b>Gesendet:</b> ${drops.map(({ p, pc }) => `<a href="../reviews/${p.slug}.html">${esc(p.label)}</a> ${Math.round(pc)}%`).join(" · ")}.</p>` : ""}
+<p>${raises.length + drops.length === 0 ? "Kein Anbieter hat den Listenpreis diese Woche um ≥1% geändert." : "Drei- und vierstellige Preisänderungen sind fast immer Relaunches oder Funnel-Umbauten statt stiller Anpassungen — lesen Sie das als 'dieses Angebot hat die Strategie gewechselt' und prüfen Sie die Verkaufsseite erneut, bevor Sie sich auf alte Notizen verlassen."}</p>
+<h2>Die Abgänge</h2>
+<p>${gone.length} Listing(s) verschwanden diese Woche aus dem Marktplatz-Datensatz — ${esc(gone.slice(0, 3).map((g) => g.label).join(", "))}${gone.length > 3 ? " und weitere" : ""}. Ihre Profile gehen über unsere Aktualitäts-Politik ab. Falls Sie eines gemerkt hatten: Der Anbieter hat es womöglich verlagert statt eingestellt — prüfen Sie die Anbieter-Seite.</p>
+<h2>Warum wir Fluktuation überhaupt veröffentlichen</h2>
+<p>Ein Verzeichnis, das nur den heutigen Zustand zeigt, verbirgt das aussagekräftigste Signal überhaupt: wie schnell sich dieser Markt dreht. Neue Listings haben keinen Track Record (ihre Statistiken fehlen aus Grund); verschwundene hatten gestern noch Käufer. Wenn Sie dieses Verzeichnis zur Angebotsauswahl nutzen, ist die Fluktuationsrate Ihr Maß dafür, wie viel Prüfung jedes einzelne Listing verdient — der <a href="price-watch.html">Preis-Monitor</a> hält die vollständige Bewegungshistorie.</p>
+<p class="sub">Method: <a href="digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> · <a href="../about.html">Recherche-Standards</a>. Evidence &amp; verification conditions: mechanisch berechnet zwischen Voll-Datensatz-Snapshots (${snaps[0]} → ${UPDATED}) aus der offiziellen Digistore24-Marktplatz-API; keine manuelle Kuratierung.</p>`;
+  fs.writeFileSync(path.join(ROOT, "blog", f), layout({ title: `Neu & weg: eine Woche Digistore24-Marktplatz`, desc: `${news.length} neue Digistore24-Angebote und ${gone.length} Abgänge diese Woche — Launch-Daten, Preisbewegungen und was Marktplatz-Fluktuation für Käufer bedeutet. Stand ${UPDATED}.`, body, rel: "..", file: f }));
+  console.log("this-week digest (DE):", f, `(${news.length} new / ${gone.length} gone / ${raises.length} raises / ${drops.length} cuts)`);
+}
+
 function blogIndex() {
   const files = [
     ["top-20-hoechster-verdienst-digistore24-produkte.html", `Die 20 Digistore24-Produkte mit dem höchsten Verdienst`, `Alle ${DATA.total} deutschen Angebote nach offiziellem Verdienst pro Verkauf. Automatisch aktualisiert.`],
     ["digistore24-zahlen-checkliste.html", "Kaufen oder bewerben? Der 6-Punkte-Zahlen-Check", "Die Methode hinter jedem Profil dieser Website — auf jedes Angebot anwendbar."],
     ["hoechste-stornoquoten-digistore24.html", "Die höchsten Stornoquoten auf Digistore24 — richtig gelesen", "Top-15 nach Stornoquote, mit Checkout-Konversion daneben — Anbieterangaben."],
+    ["marktplatz-eine-woche.html", "Neu & weg: Marktplatz-Fluktuation dieser Woche", "Neue und verschwundene Angebote mit Launch-Daten — berechnet aus täglichen Snapshots."],
   ];
   // Kategorie-Guides ergänzen (bereits generierte Dateien)
   const majors = DATA.categories.filter((c) => c.count >= 5).sort((a, b) => b.count - a.count).map((c) => c.label);
@@ -446,6 +502,7 @@ top20();
 checklist();
 headToHead();
 dailyArticle();
+thisWeekDigestDe();
 categoryGuides();
 blogIndex();
 console.log("blog (DE) built: " + fs.readdirSync(path.join(ROOT, "blog")).length + " pages");
